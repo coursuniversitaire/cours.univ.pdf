@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- ══ SEO PRIMARY ══ -->
+<title>Cours Universitaires PDF — Modules, TD & Examens Corrigés | 0,5$ / module</title>
+<meta name="description" content="Télécharge tes cours universitaires en PDF : modules complets, TD corrigés, examens corrigés. Plus de 160 modules couvrant Maths, Informatique, Physique, Électronique, Génie Civil et plus. Accès immédiat après paiement. Seulement 0,5$ par module.">
+<meta name="keywords" content="cours université pdf, modules universitaires, td corrigés pdf, examens corrigés université, cours algorithmique pdf, cours analyse pdf, cours physique université, cours informatique pdf, polycopié université, cours licence mathématiques, cours licence informatique, cours génie civil, cours électronique, télécharger cours université, modules licence master, cours lmd pdf, révision examens université">
+<link rel="canonical" href="https://cours-univ-enligne.blogspot.com/">
+
+<!-- ══ Open Graph ══ -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="Cours Universitaires PDF — Modules complets + TD + Examens Corrigés">
+<meta property="og:description" content="Plus de 160 modules universitaires à 0,5$/module. Cours, TD, exercices corrigés et examens. Accès Drive immédiat après paiement.">
+<meta property="og:url" content="https://cours-univ-enligne.blogspot.com/">
+<meta property="og:locale" content="fr_FR">
+
+<!-- ══ Schema.org structured data ══ -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "Cours Universitaires en Ligne",
+  "description": "Modules universitaires PDF complets — cours, TD corrigés, examens corrigés. Disponible pour tous les étudiants francophones.",
+  "url": "https://cours-univ-enligne.blogspot.com/",
+  "offers": {
+    "@type": "Offer",
+    "price": "0.50",
+    "priceCurrency": "USD",
+    "description": "Module universitaire complet PDF — cours + TD + examens corrigés"
+  },
+  "inLanguage": "fr"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Que contient un module universitaire ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Chaque module contient le cours complet en PDF, les travaux dirigés (TD) avec corrigés, les examens des années précédentes avec corrections, et dans certains cas des TP et exercices supplémentaires."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment recevoir mes modules après paiement ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Après confirmation du paiement PayPal, tu reçois un lien Google Drive dans ta boîte mail en moins de 5 minutes. L'accès est immédiat et permanent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ces cours correspondent-ils à mon université ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les modules couvrent le programme standard du système LMD (Licence-Master-Doctorat) et correspondent aux intitulés officiels des cours dispensés dans les universités francophones. Les noms des modules et leur contenu suivent les programmes nationaux en vigueur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Y a-t-il une garantie de remboursement ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, satisfait ou remboursé. Si le contenu ne correspond pas à ce qui est présenté, on te rembourse intégralement sans conditions."
+      }
+    }
+  ]
+}
+</script>
+
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --ink: #0f0f14;
+  --paper: #f7f6f2;
+  --accent: #1a3fcc;
+  --accent-light: #eef1ff;
+  --accent2: #00b37e;
+  --muted: #6b6b7b;
+  --border: #e2e1dc;
+  --card: #ffffff;
+  --shadow: 0 2px 16px rgba(0,0,0,0.07);
+}
+html { scroll-behavior: smooth; }
+body { font-family: 'Inter', sans-serif; background: var(--paper); color: var(--ink); font-size: 15px; line-height: 1.65; }
+
+/* NAV */
+nav {
+  position: sticky; top: 0; z-index: 100;
+  background: rgba(247,246,242,0.94); backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 0 5%; height: 58px;
+}
+.nav-logo { font-family: 'Syne',sans-serif; font-weight: 800; font-size: 1.05rem; color: var(--ink); text-decoration: none; }
+.nav-logo span { color: var(--accent); }
+.nav-links { display: flex; gap: 22px; align-items: center; }
+.nav-links a { color: var(--muted); text-decoration: none; font-size: 0.87rem; font-weight: 500; transition: color .2s; }
+.nav-links a:hover { color: var(--ink); }
+.nav-cta { background: var(--accent); color: #fff !important; padding: 8px 18px; border-radius: 8px; font-size: 0.84rem !important; font-weight: 600 !important; }
+
+/* HERO */
+.hero { max-width: 1140px; margin: 0 auto; padding: 72px 5% 56px; display: grid; grid-template-columns: 1fr 420px; gap: 64px; align-items: center; }
+.hero-eyebrow { display: inline-flex; align-items: center; gap: 7px; background: var(--accent-light); color: var(--accent); font-size: 0.77rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; padding: 5px 13px; border-radius: 999px; margin-bottom: 20px; }
+.hero h1 { font-family: 'Syne',sans-serif; font-size: clamp(1.9rem,3.8vw,3rem); font-weight: 800; line-height: 1.13; margin-bottom: 18px; }
+.hero h1 mark { background: none; color: var(--accent); }
+.hero-lead { color: var(--muted); font-size: 1rem; max-width: 460px; margin-bottom: 28px; }
+.hero-pills { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 32px; }
+.pill { background: var(--card); border: 1.5px solid var(--border); border-radius: 999px; padding: 5px 13px; font-size: 0.8rem; font-weight: 500; color: var(--muted); }
+.btn { display: inline-flex; align-items: center; gap: 8px; background: var(--accent); color: #fff; font-weight: 600; font-size: 0.95rem; padding: 14px 26px; border-radius: 10px; text-decoration: none; border: none; cursor: pointer; font-family: 'Inter',sans-serif; box-shadow: 0 4px 18px rgba(26,63,204,0.28); transition: transform .15s, box-shadow .15s; }
+.btn:hover { transform: translateY(-2px); box-shadow: 0 8px 26px rgba(26,63,204,0.34); }
+.btn:disabled { opacity: .5; cursor: not-allowed; transform: none; box-shadow: none; }
+
+/* HERO CARD */
+.hero-card { background: var(--card); border: 1px solid var(--border); border-radius: 20px; padding: 28px; box-shadow: var(--shadow); display: flex; flex-direction: column; gap: 16px; }
+.price-block { background: var(--accent-light); border-radius: 14px; padding: 22px 24px; display: flex; align-items: center; justify-content: space-between; }
+.price-num { font-family: 'Syne',sans-serif; font-size: 3rem; font-weight: 800; color: var(--accent); line-height: 1; }
+.price-meta { font-size: 0.78rem; color: var(--muted); margin-top: 4px; }
+.price-compare { text-decoration: line-through; color: var(--muted); font-size: 0.82rem; }
+.price-save { color: var(--accent2); font-weight: 700; font-size: 0.84rem; margin-top: 3px; }
+.guarantee-strip { display: flex; align-items: center; gap: 9px; background: #f0fdf8; border: 1px solid #a7f3d0; border-radius: 10px; padding: 13px 16px; font-size: 0.83rem; color: #065f46; font-weight: 500; }
+.mini-steps { display: grid; grid-template-columns: repeat(3,1fr); gap: 10px; }
+.mini-step { background: var(--paper); border: 1px solid var(--border); border-radius: 10px; padding: 13px 10px; text-align: center; }
+.mini-step .icon { font-size: 1.3rem; margin-bottom: 5px; }
+.mini-step p { font-size: 0.72rem; color: var(--muted); line-height: 1.4; }
+
+/* TRUST BAR */
+.trust-bar { background: var(--ink); color: #fff; padding: 14px 5%; }
+.trust-bar-inner { max-width: 1140px; margin: 0 auto; display: flex; gap: 32px; flex-wrap: wrap; align-items: center; justify-content: center; }
+.trust-item { display: flex; align-items: center; gap: 8px; font-size: 0.82rem; opacity: .85; }
+.trust-item strong { opacity: 1; font-weight: 600; }
+
+/* SECTION BASE */
+.section { max-width: 1140px; margin: 0 auto; padding: 68px 5%; }
+.sec-label { font-size: 0.77rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--accent); margin-bottom: 10px; }
+.sec-h2 { font-family: 'Syne',sans-serif; font-size: clamp(1.45rem,2.8vw,2.1rem); font-weight: 700; margin-bottom: 36px; }
+.sec-h2 span { color: var(--accent); }
+hr.div { border: none; border-top: 1px solid var(--border); margin: 0 5%; }
+
+/* WHAT'S INSIDE */
+.inside-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 18px; }
+.inside-card { background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 22px; transition: box-shadow .2s, transform .2s; }
+.inside-card:hover { box-shadow: 0 8px 28px rgba(0,0,0,0.09); transform: translateY(-3px); }
+.inside-icon { font-size: 1.7rem; margin-bottom: 12px; }
+.inside-card h3 { font-size: 0.92rem; font-weight: 700; margin-bottom: 7px; }
+.inside-card p { font-size: 0.82rem; color: var(--muted); }
+
+/* HOW IT WORKS */
+.steps-row { display: grid; grid-template-columns: repeat(4,1fr); gap: 0; position: relative; }
+.steps-row::before { content:''; position:absolute; top:28px; left:12.5%; right:12.5%; height:2px; background: linear-gradient(90deg, var(--accent), var(--accent2)); border-radius:2px; z-index:0; }
+.step { text-align: center; padding: 0 16px; position: relative; z-index: 1; }
+.step-dot { width:52px; height:52px; border-radius:50%; background: var(--accent); color:#fff; font-family:'Syne',sans-serif; font-weight:800; font-size:1.1rem; display:flex; align-items:center; justify-content:center; margin: 0 auto 16px; box-shadow: 0 4px 14px rgba(26,63,204,0.3); }
+.step-dot.green { background: var(--accent2); box-shadow: 0 4px 14px rgba(0,179,126,0.3); }
+.step h3 { font-size: 0.9rem; font-weight: 700; margin-bottom: 7px; }
+.step p { font-size: 0.8rem; color: var(--muted); }
+
+/* CATALOG */
+.catalog-bar { display: flex; align-items: flex-end; justify-content: space-between; flex-wrap: wrap; gap: 14px; margin-bottom: 22px; }
+.catalog-count { font-size: 0.85rem; color: var(--muted); }
+.catalog-count strong { color: var(--accent); font-size: 1rem; }
+.search-wrap { position: relative; margin-bottom: 22px; }
+.search-wrap input { width:100%; padding:12px 16px 12px 44px; border:1.5px solid var(--border); border-radius:10px; font-size:0.9rem; font-family:'Inter',sans-serif; background:var(--card); color:var(--ink); outline:none; transition:border-color .2s; }
+.search-wrap input:focus { border-color: var(--accent); }
+.search-icon { position:absolute; left:14px; top:50%; transform:translateY(-50%); color:var(--muted); pointer-events:none; }
+.modules-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:10px; }
+.mod-card { background:var(--card); border:1.5px solid var(--border); border-radius:11px; padding:13px 15px; cursor:pointer; display:flex; align-items:flex-start; gap:11px; transition:border-color .18s, background .18s; user-select:none; }
+.mod-card:hover { border-color:var(--accent); background:var(--accent-light); }
+.mod-card.sel { border-color:var(--accent); background:var(--accent-light); box-shadow:0 0 0 2px var(--accent); }
+.mod-chk { width:19px; height:19px; border-radius:5px; border:2px solid var(--border); flex-shrink:0; display:flex; align-items:center; justify-content:center; transition:all .15s; margin-top:2px; font-size:0.7rem; font-weight:700; color:transparent; }
+.mod-card.sel .mod-chk { background:var(--accent); border-color:var(--accent); color:#fff; }
+.mod-name { font-size:0.83rem; font-weight:500; line-height:1.35; }
+.no-res { text-align:center; padding:40px; color:var(--muted); display:none; font-size:0.9rem; }
+
+/* CART BAR */
+.cart-bar { position:fixed; bottom:0; left:0; right:0; background:var(--ink); color:#fff; padding:14px 5%; display:flex; align-items:center; justify-content:space-between; transform:translateY(100%); transition:transform .3s cubic-bezier(.4,0,.2,1); z-index:200; flex-wrap:wrap; gap:16px; }
+.cart-bar.on { transform:translateY(0); }
+.cart-lbl { font-size:0.77rem; color:#aaa; }
+.cart-ttl { font-family:'Syne',sans-serif; font-weight:700; font-size:1.15rem; }
+.cart-ttl .amt { color:#00e6a0; }
+.btn-ghost { background:transparent; border:1px solid #444; color:#aaa; padding:9px 17px; border-radius:8px; cursor:pointer; font-size:0.84rem; font-family:'Inter',sans-serif; transition:border-color .2s; }
+.btn-ghost:hover { border-color:#777; color:#fff; }
+.btn-green { background:var(--accent2); color:#fff; padding:10px 22px; border-radius:8px; font-weight:600; font-size:0.88rem; border:none; cursor:pointer; font-family:'Inter',sans-serif; transition:opacity .2s; }
+.btn-green:hover { opacity:.88; }
+
+/* ORDER FORM */
+.form-wrap { background:var(--card); border:1px solid var(--border); border-radius:20px; padding:44px; max-width:680px; margin:0 auto 80px; }
+.form-wrap h2 { font-family:'Syne',sans-serif; font-size:1.55rem; font-weight:700; margin-bottom:6px; }
+.form-sub { color:var(--muted); font-size:0.88rem; margin-bottom:28px; }
+.sel-preview { background:var(--accent-light); border:1.5px solid var(--accent); border-radius:11px; padding:14px 18px; margin-bottom:24px; display:none; }
+.sel-preview.on { display:block; }
+.sel-preview-title { font-weight:600; font-size:0.83rem; color:var(--accent); margin-bottom:9px; }
+.sel-tags { display:flex; flex-wrap:wrap; gap:6px; }
+.sel-tag { background:#fff; border:1px solid var(--accent); color:var(--accent); border-radius:999px; padding:3px 11px; font-size:0.77rem; font-weight:500; display:flex; align-items:center; gap:5px; }
+.sel-tag button { background:none; border:none; cursor:pointer; color:var(--accent); font-size:0.85rem; padding:0; line-height:1; }
+.fg { margin-bottom:18px; }
+.fg label { display:block; font-size:0.84rem; font-weight:600; margin-bottom:6px; }
+.fg label .req { color:var(--accent); }
+.fg label .opt { color:var(--muted); font-weight:400; font-size:0.76rem; margin-left:5px; }
+.fg input, .fg textarea { width:100%; padding:11px 13px; border:1.5px solid var(--border); border-radius:9px; font-size:0.88rem; font-family:'Inter',sans-serif; color:var(--ink); background:var(--paper); outline:none; transition:border-color .2s; }
+.fg input:focus, .fg textarea:focus { border-color:var(--accent); background:#fff; }
+.fg textarea { resize:vertical; min-height:80px; }
+.frow { display:grid; grid-template-columns:1fr 1fr; gap:14px; }
+.order-sum { background:var(--paper); border-radius:11px; padding:18px 20px; margin:24px 0; display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px; }
+.os-label { font-size:0.83rem; color:var(--muted); }
+.os-breakdown { font-size:0.76rem; color:var(--muted); margin-top:3px; }
+.os-total { font-family:'Syne',sans-serif; font-size:1.55rem; font-weight:800; color:var(--accent); }
+.pay-note { display:flex; align-items:center; gap:7px; font-size:0.79rem; color:var(--muted); margin-bottom:18px; }
+.btn-submit { width:100%; background:var(--accent); color:#fff; border:none; border-radius:11px; padding:15px; font-size:0.97rem; font-weight:600; cursor:pointer; font-family:'Inter',sans-serif; display:flex; align-items:center; justify-content:center; gap:9px; box-shadow:0 4px 18px rgba(26,63,204,0.28); transition:transform .15s, box-shadow .15s; }
+.btn-submit:hover { transform:translateY(-2px); box-shadow:0 8px 26px rgba(26,63,204,0.34); }
+.btn-submit:disabled { opacity:.45; cursor:not-allowed; transform:none; box-shadow:none; }
+.guar-line { display:flex; align-items:center; justify-content:center; gap:6px; font-size:0.77rem; color:var(--muted); margin-top:12px; }
+
+/* FAQ */
+.faq-list { display:flex; flex-direction:column; gap:12px; max-width:780px; }
+.faq-item { background:var(--card); border:1px solid var(--border); border-radius:12px; overflow:hidden; }
+.faq-q { width:100%; background:none; border:none; padding:18px 20px; text-align:left; font-family:'Inter',sans-serif; font-size:0.93rem; font-weight:600; cursor:pointer; display:flex; align-items:center; justify-content:space-between; color:var(--ink); }
+.faq-q .arrow { transition:transform .25s; font-size:0.85rem; color:var(--muted); }
+.faq-item.open .faq-q .arrow { transform:rotate(180deg); }
+.faq-a { padding:0 20px; max-height:0; overflow:hidden; transition:max-height .3s ease, padding .3s; font-size:0.87rem; color:var(--muted); line-height:1.65; }
+.faq-item.open .faq-a { max-height:200px; padding-bottom:18px; }
+
+/* COUNTDOWN */
+#success-view { display:none; text-align:center; padding:36px 16px; }
+#success-view .big { font-size:3rem; margin-bottom:14px; }
+#success-view h3 { font-family:'Syne',sans-serif; font-size:1.45rem; font-weight:700; margin-bottom:10px; }
+#success-view p { color:var(--muted); font-size:0.88rem; }
+.countdown-ring { position:relative; width:110px; height:110px; margin:28px auto 20px; }
+.countdown-ring svg { transform:rotate(-90deg); }
+.countdown-ring .track { fill:none; stroke:var(--border); stroke-width:6; }
+.countdown-ring .fill { fill:none; stroke:var(--accent); stroke-width:6; stroke-linecap:round; stroke-dasharray:283; stroke-dashoffset:0; transition:stroke-dashoffset 1s linear; }
+.countdown-num { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; font-family:'Syne',sans-serif; font-size:2rem; font-weight:800; color:var(--accent); }
+.redirect-msg { font-size:0.82rem; color:var(--muted); margin-bottom:20px; }
+.redirect-msg strong { color:var(--ink); }
+.btn-direct { display:inline-flex; align-items:center; gap:7px; background:var(--accent2); color:#fff; font-weight:600; font-size:0.88rem; padding:11px 22px; border-radius:9px; text-decoration:none; border:none; cursor:pointer; font-family:'Inter',sans-serif; transition:opacity .2s; }
+.btn-direct:hover { opacity:.88; }
+.email-sent { display:flex; align-items:center; justify-content:center; gap:7px; font-size:0.8rem; color:var(--muted); margin-top:16px; background:var(--paper); border-radius:8px; padding:10px 14px; }
+
+/* FOOTER */
+footer { text-align:center; padding:36px 5%; color:var(--muted); font-size:0.79rem; border-top:1px solid var(--border); }
+footer a { color:var(--muted); }
+
+/* RESPONSIVE */
+@media(max-width:960px){
+  .hero { grid-template-columns:1fr; }
+  .hero-card { display:none; }
+  .inside-grid { grid-template-columns:1fr 1fr; }
+  .steps-row { grid-template-columns:1fr 1fr; gap:24px; }
+  .steps-row::before { display:none; }
+  .form-wrap { padding:28px 20px; }
+}
+@media(max-width:600px){
+  .inside-grid { grid-template-columns:1fr; }
+  .steps-row { grid-template-columns:1fr; }
+  .frow { grid-template-columns:1fr; }
+  .nav-links { display:none; }
+  .modules-grid { grid-template-columns:1fr 1fr; }
+}
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav>
+  <a class="nav-logo" href="#">📚 Cours<span>Uni</span></a>
+  <div class="nav-links">
+    <a href="#contenu">Ce que tu reçois</a>
+    <a href="#catalogue">Catalogue</a>
+    <a href="#faq">FAQ</a>
+    <a href="#commander" class="nav-cta">Commander →</a>
+  </div>
+</nav>
+
+<!-- HERO -->
+<!-- H1 ciblé : "cours universitaires PDF" + "modules" + "TD corrigés" -->
+<header class="hero">
+  <div>
+    <div class="hero-eyebrow">🎓 Disponible pour tous les étudiants francophones</div>
+    <h1>Cours universitaires PDF,<br><mark>TD & examens corrigés</mark><br>à portée de main</h1>
+    <p class="hero-lead">Plus de 160 modules universitaires organisés — cours complets, travaux dirigés corrigés, examens des années précédentes. Accès immédiat sur Google Drive dès paiement.</p>
+    <div class="hero-pills">
+      <span class="pill">📐 Mathématiques</span>
+      <span class="pill">⚛️ Physique</span>
+      <span class="pill">💻 Informatique</span>
+      <span class="pill">⚡ Électronique</span>
+      <span class="pill">⚙️ Génie Civil</span>
+      <span class="pill">🧪 Chimie</span>
+      <span class="pill">📊 Gestion</span>
+    </div>
+    <a class="btn" href="#catalogue">Voir tous les modules →</a>
+  </div>
+  <div class="hero-card" aria-hidden="true">
+    <div class="price-block">
+      <div>
+        <div class="price-num">0,5$</div>
+        <div class="price-meta">par module · accès Drive permanent</div>
+      </div>
+      <div>
+        <div class="price-compare">~10$ en polycopié</div>
+        <div class="price-save">— Économise 95%</div>
+      </div>
+    </div>
+    <div class="guarantee-strip">
+      🛡️ Satisfait ou remboursé — sans conditions
+    </div>
+    <div class="mini-steps">
+      <div class="mini-step"><div class="icon">☑️</div><p>Coche tes modules</p></div>
+      <div class="mini-step"><div class="icon">💳</div><p>Paye via PayPal</p></div>
+      <div class="mini-step"><div class="icon">⚡</div><p>Drive instantané</p></div>
+    </div>
+  </div>
+</header>
+
+<!-- TRUST BAR -->
+<div class="trust-bar" role="complementary" aria-label="Chiffres clés">
+  <div class="trust-bar-inner">
+    <div class="trust-item">📚 <strong>160+</strong> modules disponibles</div>
+    <div class="trust-item">💰 <strong>0,5$</strong> seulement par module</div>
+    <div class="trust-item">⚡ <strong>Accès immédiat</strong> après paiement</div>
+    <div class="trust-item">🔒 <strong>PayPal sécurisé</strong> · carte bancaire acceptée</div>
+    <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+  </div>
+</div>
+
+<hr class="div">
+
+<!-- CE QUE TU REÇOIS -->
+<!-- Section sémantique clé : "que contient le module", bon pour featured snippet -->
+<section class="section" id="contenu" aria-labelledby="contenu-titre">
+  <div class="sec-label">Contenu</div>
+  <h2 class="sec-h2" id="contenu-titre">Ce que contient <span>chaque module universitaire</span></h2>
+  <div class="inside-grid">
+    <article class="inside-card">
+      <div class="inside-icon">📖</div>
+      <h3>Cours complet PDF</h3>
+      <p>Le cours magistral complet, proprement structuré en chapitres. Idéal pour réviser ou combler les lacunes de cours manqués.</p>
+    </article>
+    <article class="inside-card">
+      <div class="inside-icon">✏️</div>
+      <h3>TD & exercices corrigés</h3>
+      <p>Travaux dirigés avec corrigés détaillés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+    </article>
+    <article class="inside-card">
+      <div class="inside-icon">📝</div>
+      <h3>Examens des années précédentes</h3>
+      <p>Examens réels des sessions passées, avec corrections complètes. Le meilleur entraînement possible avant les partiels.</p>
+    </article>
+    <article class="inside-card">
+      <div class="inside-icon">📂</div>
+      <h3>Drive Google organisé</h3>
+      <p>Tous tes fichiers rangés dans des dossiers clairs : Cours / TD / Examens / TP. Accès permanent depuis n'importe quel appareil.</p>
+    </article>
+  </div>
+</section>
+
+<hr class="div">
+
+<!-- COMMENT ÇA MARCHE -->
+<section class="section" id="comment" aria-labelledby="comment-titre">
+  <div class="sec-label">Processus</div>
+  <h2 class="sec-h2" id="comment-titre">Commander en <span>4 étapes simples</span></h2>
+  <div class="steps-row">
+    <div class="step">
+      <div class="step-dot">1</div>
+      <h3>Choisis tes modules</h3>
+      <p>Parcours les 160+ modules, utilise la recherche, coche ce dont tu as besoin. Le total se calcule automatiquement.</p>
+    </div>
+    <div class="step">
+      <div class="step-dot">2</div>
+      <h3>Remplis tes coordonnées</h3>
+      <p>Juste ton email pour recevoir le lien. Nom et téléphone facultatifs.</p>
+    </div>
+    <div class="step">
+      <div class="step-dot">3</div>
+      <h3>Paiement sécurisé PayPal</h3>
+      <p>Carte bancaire ou compte PayPal. Aucune donnée bancaire conservée sur nos serveurs.</p>
+    </div>
+    <div class="step">
+      <div class="step-dot green">4</div>
+      <h3>Accès Drive immédiat</h3>
+      <p>Lien Google Drive dans ton email en moins de 5 minutes. Accès permanent à tes modules.</p>
+    </div>
+  </div>
+</section>
+
+<hr class="div">
+
+<!-- CATALOGUE -->
+<!-- Contenu riche indexable par Google : 160 noms de modules = mots-clés longue traîne -->
+<section class="section" id="catalogue" aria-labelledby="catalogue-titre">
+  <div class="catalog-bar">
+    <div>
+      <div class="sec-label">Catalogue complet</div>
+      <h2 class="sec-h2" id="catalogue-titre" style="margin-bottom:0">Tous les <span>modules disponibles</span></h2>
+    </div>
+    <div class="catalog-count">
+      <strong id="sel-count">0</strong> sélectionné(s) —
+      <strong style="color:var(--accent)" id="sel-price">0,00 $</strong>
+    </div>
+  </div>
+
+  <div class="search-wrap">
+    <span class="search-icon">🔍</span>
+    <input type="search" id="mod-search" placeholder="Rechercher : Algorithmique, Thermodynamique, Bases de données…" aria-label="Rechercher un module">
+  </div>
+
+  <div class="modules-grid" id="mod-grid" role="list"></div>
+  <p class="no-res" id="no-res" role="status">Aucun module trouvé. Essaie un autre terme.</p>
+</section>
+
+<!-- CART BAR -->
+<div class="cart-bar" id="cart-bar" role="complementary" aria-label="Panier">
+  <div>
+    <div class="cart-lbl" id="cart-lbl">0 module(s) sélectionné(s)</div>
+    <div class="cart-ttl">Total : <span class="amt" id="cart-amt">0,00 $</span></div>
+  </div>
+  <div style="display:flex;gap:10px;align-items:center">
+    <button class="btn-ghost" onclick="clearSel()">Tout effacer</button>
+    <button class="btn-green" onclick="scrollToOrder()">Commander maintenant →</button>
+  </div>
+</div>
+
+<hr class="div" style="margin-top:60px">
+
+<!-- COMMANDER -->
+<section class="section" id="commander" aria-labelledby="order-titre">
+  <div class="sec-label">Commander</div>
+  <div class="form-wrap">
+    <div id="form-view">
+      <h2 id="order-titre">Finaliser ma commande</h2>
+      <p class="form-sub">Remplis tes coordonnées et reçois le lien de paiement personnalisé directement par email.</p>
+
+      <div class="sel-preview" id="sel-preview" aria-live="polite">
+        <div class="sel-preview-title">✅ Modules dans ta commande</div>
+        <div class="sel-tags" id="sel-tags"></div>
+      </div>
+
+      <div class="fg">
+        <label for="f-email">Adresse email <span class="req">*</span></label>
+        <input type="email" id="f-email" placeholder="ton@email.com" required autocomplete="email">
+      </div>
+      <div class="frow">
+        <div class="fg">
+          <label for="f-nom">Nom et prénom <span class="opt">(optionnel)</span></label>
+          <input type="text" id="f-nom" placeholder="Ahmed Benali" autocomplete="name">
+        </div>
+        <div class="fg">
+          <label for="f-tel">Téléphone <span class="opt">(optionnel)</span></label>
+          <input type="tel" id="f-tel" placeholder="+33 6XX XXX XXX" autocomplete="tel">
+        </div>
+      </div>
+      <div class="fg">
+        <label for="f-univ">Université / filière <span class="opt">(optionnel)</span></label>
+        <input type="text" id="f-univ" placeholder="Ex : Licence Informatique — Semestre 3">
+      </div>
+      <div class="fg">
+        <label for="f-note">Module non listé ou remarques <span class="opt">(optionnel)</span></label>
+        <textarea id="f-note" placeholder="Besoin d'un module absent de la liste ? Note-le ici et on vérifie."></textarea>
+      </div>
+
+      <div class="order-sum">
+        <div>
+          <div class="os-label">Total à payer</div>
+          <div class="os-breakdown" id="os-bd">0 module × 0,50 $</div>
+        </div>
+        <div class="os-total" id="os-total">0,00 $</div>
+      </div>
+
+      <div class="pay-note">
+        🔒 Paiement sécurisé PayPal · Carte bancaire acceptée · Sans création de compte PayPal
+      </div>
+
+      <button class="btn-submit" id="submit-btn" onclick="doSubmit()" disabled>
+        Envoyer ma commande — recevoir le lien de paiement →
+      </button>
+      <div class="guar-line">🛡️ Satisfait ou remboursé si le contenu ne correspond pas</div>
+    </div>
+
+    <div id="success-view">
+      <div class="big">✅</div>
+      <h3>Commande reçue !</h3>
+      <p>Tu vas être redirigé vers le lien de paiement dans quelques secondes.<br>Un email de confirmation t'a également été envoyé.</p>
+
+      <div class="countdown-ring" aria-label="Compte à rebours avant redirection">
+        <svg width="110" height="110" viewBox="0 0 110 110">
+          <circle class="track" cx="55" cy="55" r="45"/>
+          <circle class="fill" id="ring-fill" cx="55" cy="55" r="45"/>
+        </svg>
+        <div class="countdown-num" id="countdown-num">7</div>
+      </div>
+
+      <p class="redirect-msg">Redirection automatique vers <strong>PayPal</strong> dans <strong id="cd-txt">7</strong> seconde(s)…</p>
+
+      <button class="btn-direct" id="btn-pay-now" onclick="redirectNow()">
+        Accéder au paiement maintenant →
+      </button>
+
+      <div class="email-sent">
+        📧 Un lien de paiement a aussi été envoyé à ton adresse email
+      </div>
+    </div>
+  </div>
+</section>
+
+<hr class="div">
+
+<!-- FAQ — contenu SEO riche, ciblé sur les questions que les étudiants tapent dans Google -->
+<section class="section" id="faq" aria-labelledby="faq-titre">
+  <div class="sec-label">Questions fréquentes</div>
+  <h2 class="sec-h2" id="faq-titre">Tout ce qu'il faut savoir avant de <span>commander</span></h2>
+  <div class="faq-list" itemscope itemtype="https://schema.org/FAQPage">
+    <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">
+        <span itemprop="name">Que contient exactement un module universitaire ?</span>
+        <span class="arrow">▼</span>
+      </button>
+      <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemprop="text">Chaque module contient le cours complet en PDF, les travaux dirigés (TD) avec leurs corrigés complets, les examens des sessions précédentes avec les corrections détaillées, et selon le module des TP ou fiches de révision. Tout est rangé dans des sous-dossiers clairs sur Google Drive : Cours / TD / Examens / TP.</div>
+      </div>
+    </div>
+    <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">
+        <span itemprop="name">Ces cours correspondent-ils à mon université ?</span>
+        <span class="arrow">▼</span>
+      </button>
+      <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemprop="text">Les modules suivent le programme standard du système LMD (Licence-Master-Doctorat) et correspondent aux intitulés officiels des cours dispensés dans les universités francophones. Que tu sois en licence ou en master, les noms des modules et leur contenu correspondent aux programmes en vigueur dans la grande majorité des universités.</div>
+      </div>
+    </div>
+    <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">
+        <span itemprop="name">Comment reçois-je mes cours après le paiement ?</span>
+        <span class="arrow">▼</span>
+      </button>
+      <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemprop="text">Dès confirmation du paiement PayPal, tu reçois un lien Google Drive directement dans ta boîte mail, en moins de 5 minutes. L'accès est permanent — tu peux télécharger ou consulter tes modules à n'importe quel moment depuis n'importe quel appareil.</div>
+      </div>
+    </div>
+    <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">
+        <span itemprop="name">Comment payer ? Faut-il un compte PayPal ?</span>
+        <span class="arrow">▼</span>
+      </button>
+      <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemprop="text">Non, aucun compte PayPal n'est nécessaire. Tu peux payer directement avec ta carte bancaire (Visa, Mastercard) via l'interface sécurisée PayPal. Aucune donnée bancaire n'est conservée.</div>
+      </div>
+    </div>
+    <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">
+        <span itemprop="name">Et si le contenu ne correspond pas ? Y a-t-il un remboursement ?</span>
+        <span class="arrow">▼</span>
+      </button>
+      <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemprop="text">Oui, satisfait ou remboursé. Si le contenu d'un module ne correspond pas à ce qui est présenté, tu es remboursé intégralement, sans conditions et sans délai. Contacte-nous sur WhatsApp et on règle ça immédiatement.</div>
+      </div>
+    </div>
+    <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">
+        <span itemprop="name">Mon module n'est pas dans la liste, que faire ?</span>
+        <span class="arrow">▼</span>
+      </button>
+      <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemprop="text">Indique-le dans le champ remarques du formulaire de commande ou contacte-nous directement sur WhatsApp. Nous cherchons le module et te revenons rapidement. Le catalogue s'enrichit régulièrement en fonction des demandes.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <p>Des questions ? <a href="#">Contacte-nous sur WhatsApp</a> · Réponse rapide garantie</p>
+  <p style="margin-top:7px">© 2025 Cours Universitaires en Ligne · Tous droits réservés</p>
+</footer>
+
+<script>
+/* ── MODULE DATA ── */
+const MODS = [
+  "Administration des réseaux","Agents et Systèmes Multi-Agents (ASMA)","Algèbre 1","Algèbre 2","Algèbre 3","Algèbre 4","Algèbre linéaire 1",
+  "Algorithmique","Algorithmique avancé & complexité","Analyse 1","Analyse 2","Analyse 3","Analyse 4","Analyse 5",
+  "Analyse de données","Analyse fonctionnelle","Analyse numérique","Analyse numérique des EDP","Analyse vectorielle",
+  "Apprentissage automatique & réseaux de neurones","Architecture des ordinateurs","Atomistique","Automatique","Automatismes industriels",
+  "Bases de données","Bases de données avancées","Béton armé","BI — Business Intelligence","Big Data & Data Warehouse",
+  "Biochimie structurale","Biologie cellulaire","Biophysique","Bâtiment","Bus de communications industriels",
+  "Calcul différentiel","Capteurs & métrologie","Chimie analytique","Chimie des électrolytes","Chimie générale","Chimie organique",
+  "Circuits électriques","Cloud Computing","Commande des machines","Compilation","Complexité algorithmique",
+  "Comptabilité analytique","Comptabilité générale","Construction mécanique","Construction mécanique 2","Cryptographie & sécurité",
+  "C# — ASP .NET","DAO — Catia","Data Mining","Deep Learning","Design Patterns","Droit","Dynamique des structures",
+  "Écologie générale I","Électrocinétique","Électromagnétisme & Magnétostatique","Électronique analogique & numérique",
+  "Électronique de puissance","Électronique fondamentale 1","Électrostatique","Électrochimie","Électrotechnique","Électrotechnique 2",
+  "Élasticité","Équations différentielles (EDO)","Fiscalité de l'entreprise I","Génie logiciel","Géologie générale",
+  "Géotechnique & mécanique des sols","Gestion de projet","Histoire des mathématiques","Hydraulique",
+  "IHM — Interface homme-machine","Intelligence artificielle","Java","Java avancé & APIs","JEE",
+  "Liaisons chimiques","Ligne de transmission","Logique combinatoire & séquentielle","Logique mathématique",
+  "Machine Learning","Machines électriques","Management","Marketing","Matlab","Matlab Simulink Labview",
+  "Mécanique analytique","Mécanique des fluides","Mécanique des milieux continus","Mécanique du point","Mécanique du solide",
+  "Mécanique quantique","Mécanique rationnelle","MEF — Méthode des éléments finis","MERISE","Mesure et intégration",
+  "Méthode numérique","Méthodes numériques appliquées (MNA)","Microbiologie générale","Microcontrôleurs & microprocesseurs",
+  "Microéconomie","Macroéconomie","Modélisation des réseaux électriques","Ondes et vibrations","Optoélectronique",
+  "Optique géométrique & ondulatoire","Oracle","Physique des matériaux","Physique des semi-conducteurs",
+  "Physique nucléaire","Physique statistique","Probabilité & Statistique","Procédés de fabrication",
+  "Programmation Android","Programmation C","Programmation linéaire — Recherche opérationnelle","Programmation orientée objet (POO)",
+  "Python","Qualité logiciel","Réactivité chimique","Recherche opérationnelle","Régulation industrielle",
+  "Résistance des matériaux","Réseaux","Réseaux électriques","Réseaux mobiles & sans fil","Robotique",
+  "Sécurité réseaux","Systèmes asservis","Statistique inférentielle","Statistiques appliquées","Statistiques descriptives 1 & 2",
+  "Structure de la matière & Cristallographie","Structures de données avec C","Systèmes d'exploitation","Systèmes d'information (SI)",
+  "Systèmes distribués / Intergiciels","Systèmes embarqués","Systèmes logiques","Systèmes temps réel",
+  "Tests logiciels","Théorie des graphes","Théorie des langues","Théorie du signal","Thermochimie","Thermochimie 2",
+  "Thermodynamique","Topographie","Topologie","Traitement d'image","Traitement du signal","Traitement du signal avancé",
+  "Turbomachines","UML","VHDL & FPGA","Vibrations","Vision artificielle","Web","Web Services"
+];
+
+const PRICE = 0.5;
+let sel = new Set();
+
+function renderMods(q=''){
+  const grid=document.getElementById('mod-grid');
+  const noRes=document.getElementById('no-res');
+  grid.innerHTML='';
+  const filtered=MODS.filter(m=>!q||m.toLowerCase().includes(q.toLowerCase()));
+  noRes.style.display=filtered.length?'none':'block';
+  filtered.forEach(name=>{
+    const s=sel.has(name);
+    const el=document.createElement('div');
+    el.className='mod-card'+(s?' sel':'');
+    el.setAttribute('role','listitem');
+    el.setAttribute('aria-label',name+(s?' (sélectionné)':''));
+    el.innerHTML=`<div class="mod-chk">${s?'✓':''}</div><div class="mod-name">${name}</div>`;
+    el.addEventListener('click',()=>toggle(name));
+    grid.appendChild(el);
+  });
+}
+
+function toggle(name){
+  sel.has(name)?sel.delete(name):sel.add(name);
+  updateUI();
+  renderMods(document.getElementById('mod-search').value);
+}
+
+function clearSel(){
+  sel.clear(); updateUI();
+  renderMods(document.getElementById('mod-search').value);
+}
+
+function updateUI(){
+  const n=sel.size, total=(n*PRICE).toFixed(2);
+  document.getElementById('sel-count').textContent=n;
+  document.getElementById('sel-price').textContent=total+' $';
+  document.getElementById('cart-lbl').textContent=n+' module(s) sélectionné(s)';
+  document.getElementById('cart-amt').textContent=total+' $';
+  document.getElementById('os-bd').textContent=n+' module(s) × 0,50 $';
+  document.getElementById('os-total').textContent=total+' $';
+  document.getElementById('cart-bar').classList.toggle('on',n>0);
+  const prev=document.getElementById('sel-preview');
+  const tags=document.getElementById('sel-tags');
+  if(n>0){
+    prev.classList.add('on');
+    tags.innerHTML=[...sel].map(nm=>`<span class="sel-tag">${nm}<button onclick="toggle('${nm.replace(/'/g,"\\'")}')" aria-label="Retirer ${nm}">✕</button></span>`).join('');
+  } else {
+    prev.classList.remove('on');
+  }
+  const email=document.getElementById('f-email').value.trim();
+  document.getElementById('submit-btn').disabled=n===0||!email;
+}
+
+// ── PAYPAL LINK — remplace par ton vrai lien ──
+const PAYPAL_URL = 'https://www.paypal.com/paypalme/toncompte';
+
+let countdownTimer = null;
+
+function doSubmit(){
+  const email=document.getElementById('f-email').value.trim();
+  if(!email||sel.size===0)return;
+  document.getElementById('form-view').style.display='none';
+  document.getElementById('success-view').style.display='block';
+  startCountdown();
+}
+
+function startCountdown(){
+  let remaining = 7;
+  const total = 7;
+  const circumference = 2 * Math.PI * 45; // 283
+  const ring = document.getElementById('ring-fill');
+  const numEl = document.getElementById('countdown-num');
+  const txtEl = document.getElementById('cd-txt');
+
+  ring.style.strokeDashoffset = '0';
+
+  countdownTimer = setInterval(() => {
+    remaining--;
+    numEl.textContent = remaining;
+    txtEl.textContent = remaining;
+    // shrink arc
+    const offset = circumference * (1 - remaining / total);
+    ring.style.strokeDashoffset = offset;
+
+    if(remaining <= 0){
+      clearInterval(countdownTimer);
+      redirectNow();
+    }
+  }, 1000);
+}
+
+function redirectNow(){
+  if(countdownTimer) clearInterval(countdownTimer);
+  window.location.href = PAYPAL_URL;
+}
+
+function scrollToOrder(){
+  document.getElementById('commander').scrollIntoView({behavior:'smooth'});
+}
+
+function toggleFaq(btn){
+  const item=btn.closest('.faq-item');
+  const isOpen=item.classList.contains('open');
+  document.querySelectorAll('.faq-item').forEach(i=>{ i.classList.remove('open'); i.querySelector('.faq-q').setAttribute('aria-expanded','false'); });
+  if(!isOpen){ item.classList.add('open'); btn.setAttribute('aria-expanded','true'); }
+}
+
+document.getElementById('mod-search').addEventListener('input',e=>renderMods(e.target.value));
+document.getElementById('f-email').addEventListener('input',updateUI);
+
+renderMods();
+</script>
+</body>
+</html>
