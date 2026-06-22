@@ -674,7 +674,86 @@ const PAYPAL_URL = 'https://www.paypal.com/paypalme/toncompte';
 
 let countdownTimer = null;
 
-function doSubmit(){
+
+// ================================================================
+//  REMPLACE la fonction doSubmit() existante dans le HTML
+//  par ce nouveau code qui appelle ton Google Apps Script Web App.
+//
+//  1. Colle l'URL de ton déploiement dans WEB_APP_URL ci-dessous.
+//  2. Remplace l'ancienne fonction doSubmit() dans le <script> du HTML.
+// ================================================================
+
+const WEB_APP_URL = "https://script.google.com/macros/s/REMPLACE_PAR_TON_ID_DE_DEPLOIEMENT/exec";
+
+async function doSubmit() {
+  const email = document.getElementById('f-email').value.trim();
+  if (!email || sel.size === 0) return;
+
+  // Désactiver le bouton et afficher un état de chargement
+  const btn = document.getElementById('submit-btn');
+  btn.disabled = true;
+  btn.textContent = "⏳ Traitement en cours…";
+
+  try {
+    const payload = {
+      email:   email,
+      modules: [...sel],                                          // tableau des noms sélectionnés
+      nom:     document.getElementById('f-nom').value.trim(),
+      tel:     document.getElementById('f-tel').value.trim(),
+      univ:    document.getElementById('f-univ').value.trim(),
+      note:    document.getElementById('f-note').value.trim(),
+    };
+
+    const response = await fetch(WEB_APP_URL, {
+      method:  "POST",
+      // Google Apps Script ne lit pas Content-Type application/json en doPost
+      // → on envoie en text/plain mais avec du JSON valide dans le body.
+      // Apps Script le lit via e.postData.contents.
+      headers: { "Content-Type": "text/plain;charset=utf-8" },
+      body:    JSON.stringify(payload),
+    });
+
+    const data = await response.json();
+
+    if (data.success) {
+      // ── Succès : affiche l'écran de confirmation avec le lien PayPal ──
+      document.getElementById('form-view').style.display   = 'none';
+      document.getElementById('success-view').style.display = 'block';
+
+      // Optionnel : afficher le lien PayPal directement dans la page
+      if (data.paypalLink) {
+        document.getElementById('success-view').innerHTML = `
+          <div class="big">✅</div>
+          <h3>Commande reçue !</h3>
+          <p>Un email avec ton lien de paiement personnalisé vient d'être envoyé.<br><br>
+          Tu peux aussi payer directement ici :</p>
+          <br>
+          <a href="${data.paypalLink}" target="_blank"
+             style="background:#0070BA;color:#fff;padding:14px 28px;border-radius:8px;
+                    text-decoration:none;font-weight:600;font-size:1rem;display:inline-block;margin-top:8px;">
+            💳 Payer maintenant
+          </a>
+          <p style="margin-top:18px;color:#888;font-size:0.8rem;">
+            Dès confirmation du paiement, tu reçois l'accès à ton Google Drive.
+          </p>`;
+      }
+    } else {
+      // ── Erreur côté serveur ──
+      alert("Une erreur est survenue : " + (data.error || "Réessaie dans quelques instants."));
+      btn.disabled  = false;
+      btn.textContent = "Envoyer ma commande — recevoir le lien de paiement →";
+    }
+
+  } catch (err) {
+    console.error("Erreur réseau :", err);
+    alert("Problème de connexion. Vérifie ta connexion internet et réessaie.");
+    btn.disabled  = false;
+    btn.textContent = "Envoyer ma commande — recevoir le lien de paiement →";
+  }
+}
+
+  
+function doSubmit2(){
   const email=document.getElementById('f-email').value.trim();
   if(!email||sel.size===0)return;
   document.getElementById('form-view').style.display='none';
