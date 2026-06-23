@@ -210,6 +210,11 @@ hr.div { border: none; border-top: 1px solid var(--border); margin: 0 5%; }
 .btn-green:hover { opacity:.88; }
 
 /* ORDER FORM */
+#commander { display:none; opacity:0; transform:translateY(28px); transition:opacity .4s ease, transform .4s ease; }
+#commander.visible { display:block; }
+#commander.animated { opacity:1; transform:translateY(0); }
+.step-badge { display:inline-flex; align-items:center; gap:7px; background:var(--accent); color:#fff; font-size:0.75rem; font-weight:700; padding:4px 13px; border-radius:999px; margin-bottom:18px; letter-spacing:.04em; }
+.step-badge .step-num { background:#fff; color:var(--accent); border-radius:50%; width:18px; height:18px; display:flex; align-items:center; justify-content:center; font-size:0.72rem; font-weight:800; }
 .form-wrap { background:var(--card); border:1px solid var(--border); border-radius:20px; padding:44px; max-width:680px; margin:0 auto 80px; }
 .form-wrap h2 { font-family:'Syne',sans-serif; font-size:1.55rem; font-weight:700; margin-bottom:6px; }
 .form-sub { color:var(--muted); font-size:0.88rem; margin-bottom:28px; }
@@ -293,7 +298,7 @@ footer a { color:var(--muted); }
     <a href="#contenu">Ce que tu reçois</a>
     <a href="#catalogue">Catalogue</a>
     <a href="#faq">FAQ</a>
-    <a href="#commander" class="nav-cta">Commander →</a>
+    <a href="#catalogue" onclick="event.preventDefault();scrollToOrder()" class="nav-cta">Commander →</a>
   </div>
 </nav>
 
@@ -446,14 +451,12 @@ footer a { color:var(--muted); }
   </div>
 </div>
 
-<hr class="div" style="margin-top:60px">
-
 <!-- COMMANDER -->
 <section class="section" id="commander" aria-labelledby="order-titre">
-  <div class="sec-label">Commander</div>
   <div class="form-wrap">
     <div id="form-view">
-      <h2 id="order-titre">Finaliser ma commande</h2>
+      <div class="step-badge"><span class="step-num">2</span> Finaliser ma commande</div>
+      <h2 id="order-titre">Tes coordonnées &amp; paiement</h2>
       <p class="form-sub">Remplis tes coordonnées et reçois le lien de paiement personnalisé directement par email.</p>
 
       <div class="sel-preview" id="sel-preview" aria-live="polite">
@@ -665,6 +668,10 @@ function toggle(name){
 function clearSel(){
   sel.clear(); updateUI();
   renderMods(document.getElementById('mod-search').value);
+  // Hide the form again when cart is cleared
+  const section = document.getElementById('commander');
+  section.classList.remove('animated');
+  setTimeout(() => section.classList.remove('visible'), 400);
 }
 
 function updateUI(){
@@ -811,7 +818,20 @@ function redirectNow(){
 }
 
 function scrollToOrder(){
-  document.getElementById('commander').scrollIntoView({behavior:'smooth'});
+  if(sel.size === 0) return;
+  const section = document.getElementById('commander');
+  // Reveal section
+  section.classList.add('visible');
+  // Trigger animation after display:block is applied
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => {
+      section.classList.add('animated');
+    });
+  });
+  // Scroll to it smoothly
+  setTimeout(() => {
+    section.scrollIntoView({behavior:'smooth', block:'start'});
+  }, 50);
 }
 
 function toggleFaq(btn){
