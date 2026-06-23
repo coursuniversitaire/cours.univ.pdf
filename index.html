@@ -287,6 +287,31 @@ footer a { color:var(--muted); }
   .nav-links { display:none; }
   .modules-grid { grid-template-columns:1fr 1fr; }
 }
+
+/* DRIVE PREVIEW */
+.drive-preview { margin-top:32px; border-radius:16px; overflow:hidden; border:2px solid var(--border); box-shadow:0 8px 32px rgba(0,0,0,0.10); position:relative; }
+.drive-preview img { width:100%; display:block; }
+.drive-preview-caption { background:var(--accent-light); border-top:1.5px solid var(--accent); padding:12px 20px; font-size:0.82rem; color:var(--accent); font-weight:600; display:flex; align-items:center; gap:8px; }
+
+/* VIDEO DEMO */
+.demo-wrap { margin-top:40px; text-align:center; }
+.demo-label { font-size:0.82rem; font-weight:700; color:var(--muted); letter-spacing:.06em; text-transform:uppercase; margin-bottom:14px; }
+.demo-video-container { position:relative; padding-bottom:56.25%; height:0; border-radius:16px; overflow:hidden; border:2px solid var(--border); box-shadow:0 8px 32px rgba(0,0,0,0.12); }
+.demo-video-container iframe { position:absolute; top:0; left:0; width:100%; height:100%; border:none; }
+
+/* TESTIMONIALS */
+.testimonials-section { background:var(--paper); }
+.wtsp-proof { max-width:780px; margin:0 auto; border-radius:16px; overflow:hidden; border:2px solid var(--border); box-shadow:0 8px 32px rgba(0,0,0,0.10); }
+.wtsp-proof img { width:100%; display:block; }
+.wtsp-caption { padding:14px 20px; background:#25D366; color:#fff; font-size:0.82rem; font-weight:700; display:flex; align-items:center; gap:8px; }
+
+/* STAR RATING */
+.stars-block { margin:20px 0 16px; text-align:center; }
+.stars-label { font-size:0.78rem; color:var(--muted); font-weight:600; margin-bottom:8px; letter-spacing:.03em; }
+.stars { display:flex; justify-content:center; gap:6px; }
+.stars span { font-size:1.6rem; color:#FFB800; line-height:1; }
+.stars-sub { font-size:0.74rem; color:var(--muted); margin-top:5px; }
+
 </style>
 </head>
 <body>
@@ -383,6 +408,14 @@ footer a { color:var(--muted); }
       <p>Tous tes fichiers rangés dans des dossiers clairs : Cours / TD / Examens / TP. Accès permanent depuis n'importe quel appareil.</p>
     </article>
   </div>
+
+  <!-- Drive screenshot -->
+  <div class="drive-preview">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYUU6m1gaZjKTzCVARv848nLKxFqypQuooUdCXvaYKya86f8rr7qL3iv2YLM__LhL4JkhnmA1WUcGKrPGEmC0OgN0KZvgHY2e4OIKy4XgQy05ZmgxLPpIK9iGXXBxErsyXINaS4NNkyUwLooh2C1ZZKLcrikVySSr46wYW7id9h0VRI19wf8wKyTs7qW0_/s1200/1000108223.png"
+         alt="Aperçu du Drive Google organisé — dossiers Cours, TD, Examens, TP" loading="lazy">
+    <div class="drive-preview-caption">📂 Voici à quoi ressemble ton Drive après livraison — Cours · TD · Examens · TP bien séparés</div>
+  </div>
+
 </section>
 
 <hr class="div">
@@ -413,6 +446,24 @@ footer a { color:var(--muted); }
       <p>Lien Google Drive dans ton email en moins de 5 minutes. Accès permanent à tes modules.</p>
     </div>
   </div>
+
+  <!-- Vidéo démo -->
+  <div class="demo-wrap">
+    <a href="https://youtube.com/shorts/VjL8ar92QBw" class="demo-label">🎬 Voir démo contenu</a>
+    </section>
+
+<hr class="div">
+
+<!-- TÉMOIGNAGES -->
+<section class="section testimonials-section" id="temoignages" aria-labelledby="temoignages-titre">
+  <div class="sec-label">Témoignages</div>
+  <h2 class="sec-h2" id="temoignages-titre">Ils ont déjà commandé — <span>leurs retours réels</span></h2>
+  <div class="wtsp-proof">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEcwiFXTuSij4K2yFHGGLryBFLwuohwRP1SXMZ4fp3afzupszbZPtaT2JFZZXpgzOs0JAiRMnRsX0tkITG_YmweMEuC4_Ee2nOJGPEH4I_6AJ3q4fWK0lStgGsh9D_GqArWghaRSxmOHPqVwIByhEXCodPlBUPNqPwWLNcZrJAqqYU06I7qk4dctw5JRmQ/s1600/1000107506.png"
+         alt="Discussions WhatsApp réelles — clients satisfaits après achat" loading="lazy">
+    <div class="wtsp-caption">💬 Conversations WhatsApp réelles — clients ayant reçu leur Drive</div>
+  </div>
+
 </section>
 
 <hr class="div">
@@ -498,6 +549,16 @@ footer a { color:var(--muted); }
 
       <div class="pay-note">
         🔒 Paiement sécurisé PayPal · Carte bancaire acceptée · Sans création de compte PayPal
+      </div>
+
+
+      <!-- Évaluation 5 étoiles -->
+      <div class="stars-block">
+        <div class="stars-label">⭐ Rejoins les étudiants satisfaits</div>
+        <div class="stars">
+          <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+        </div>
+        <div class="stars-sub">Note moyenne · Satisfait ou remboursé garanti</div>
       </div>
 
       <button class="btn-submit" id="submit-btn" onclick="doSubmit()" disabled>
