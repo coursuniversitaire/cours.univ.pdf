@@ -1,0 +1,68 @@
+📚 MODULE : Techniques radars                         
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Techniques radars.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Techniques radars/
+├── 📄 1608058849325.jpeg
+├── 📄 1608058849348.jpeg
+├── 📄 1608058849370.jpeg
+├── 📄 1608058849390.jpeg
+├── 📄 1608058849410.jpeg
+├── 📄 corgé hom radar 18-يناير-2020 20-04-20.pdf
+├── 📄 corgé hom radar 18-يناير-2020 20-04-20(1).pdf
+├── 📄 home work 18-ديسمبر-2019 12-22-27.pdf
+├── 📄 Tcours-sigal04.pdf
+├── 📄 technique radar 04-ديسمبر-2019 11-12-22.pdf
+├── 📄 techniues Radars
+└── 📁 radars/
+    ├── 📄 Chapitre_5_D_tection_CFAR_et_distribu_.pdf
+    ├── 📄 Chapitre_1_Rappel_sur_les_processus_al_atoires_finale.pdf
+    ├── 📄 Chapitre_4_Principe_radars.pdf
+    ├── 📄 Chapitre2_Th_orie_de_la_d_cision_statistique.pdf
+    ├── 📄 26907485_775790655946645_2672198811164038082_n.jpg
+    ├── 📄 Chapitre_5_D_tection_CFAR_et_distribu_.docx
+    ├── 📄 Chapitre_3_Th_orie_de_l_estimation.pdf
+    ├── 📄 Chapitre_4_Principe_radars.docx
+    ├── 📁 exm 2018/
+    │   ├── 📄 IMG_20190121_170917.jpg
+    │   ├── 📄 IMG_20190121_170909.jpg
+    │   ├── 📄 50919577_2360802817498942_2863667460333109248_n.jpg
+    │   ├── 📄 50780507_2360802927498931_746950243622322176_n.jpg
+    │   ├── 📄 50943377_2360803040832253_4641818452414169088_n.jpg
+    │   ├── 📄 50685910_2360802870832270_3409357602344140800_n.jpg
+    │   ├── 📄 50576437_2360802844165606_5293242515929956352_n.jpg
+    │   └── 📄 50644888_2360802970832260_7626578727496843264_n.jpg
+    ├── 📁 homework1/
+    │   ├── 📄 46019309_1377327865731521_3164502800994402304_n.jpg
+    │   ├── 📄 5.jpg
+    │   ├── 📄 4.jpg
+    │   ├── 📄 2.jpg
+    │   ├── 📄 3.jpg
+    │   ├── 📄 46056260_1944116559006439_8385637347215015936_n.jpg
+    │   ├── 📄 6.jpg
+    │   ├── 📄 7.jpg
+    │   ├── 📄 1.jpg
+    │   └── 📄 0.jpg
+    └── 📁 homework2/
+        ├── 📄 Corrig__type_home_work2_2.pdf
+        ├── 📄 48110913_1983604025060969_7411043516098281472_n.jpg
+        ├── 📄 47685654_508781039619302_6011387006603493376_n.jpg
+        ├── 📄 47687461_208137690110172_3073759556598235136_n.jpg
+        ├── 📄 47686511_367394234025323_6098658929582014464_n.jpg
+        ├── 📄 48099907_1991840504449195_2337685759307284480_n.jpg
+        └── 📄 48064135_272783206717060_2611621706908827648_n.jpg
+
+═════════════════════════════════════
+  Fin du fichier · Techniques radars
+═════════════════════════════════════

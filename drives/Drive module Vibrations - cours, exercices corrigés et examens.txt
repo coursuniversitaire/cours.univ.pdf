@@ -1,0 +1,332 @@
+📚 MODULE : Vibrations                                
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Vibrations.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Vibrations/
+├── 🔗📁 Mécanique vibratoire/  (raccourci)
+│   ├── 📄 Correction Examen Mécanique Vibratoire CJ [Juin 2021].pdf
+│   ├── 📄 Examen_Mécanique vibratoire CJ [Juin 2021].pdf
+│   ├── 📄 Correcttion_DS_Mécanique vibratoire [Mars 2025].pdf
+│   ├── 📄 DS_Mécanique vibratoire CJ [Mars 2025].pdf
+│   ├── 📄 Correction TD3_Vibration mécanique AU 2022-2023..pdf
+│   ├── 📄 TD3_Vibration mécanique AU 2022-2023.pdf
+│   ├── 📄 Correction de TD1_Vibration mécanique.pdf
+│   ├── 📄 TD1_Vibration mécanique.pdf
+│   ├── 📄 Correction TD_Vibration mécanique.pdf
+│   ├── 📄 TD_Vibration mécanique.pdf
+│   └── 📄 1ddl.pdf
+├── 🔗📁 VOM/  (raccourci)
+│   ├── 📁 Corrigé de l'examen de VOM/
+│   │   └── 📄 la solution d'examen.pdf
+│   ├── 📁 De la part d'un étudiant /
+│   │   ├── 📁 LIVRE/
+│   │   │   ├── 📄 VOM_Cours et Exercices.pdf
+│   │   │   └── 📄 VOM_Cours.pdf
+│   │   ├── 📁 TD /
+│   │   │   └── 📄 VOM_2 Tous Les TD.pdf
+│   │   ├── 📁 Examen/
+│   │   │   └── 📄 VOM_Examen 2013.pdf
+│   │   └── 📁 Cours /
+│   │       ├── 📄 VOM_Résumé.pdf
+│   │       ├── 📄 VOM_Cour 2-2.pdf
+│   │       ├── 📄 VOM_Cour 2-1.pdf
+│   │       └── 📄 VOM_Cour 1.pdf
+│   └── 📁 Nos Profs/
+│       ├── 📁 Examen et Corrigé/
+│       │   ├── 📄 Final_Mai2017_avec_cor_PDF.pdf
+│       │   ├── 📄 Examen-Janvier-2014_avec_solution.pdf
+│       │   ├── 📄 Examen_Final_Janvier_2018_cor.pdf
+│       │   ├── 📄 EXAM-05_01_2017.PDF
+│       │   ├── 📄 EXA VOM.pdf
+│       │   └── 📄 2018_Rattrapage_Janvier_cor.PDF
+│       ├── 📁 COURS/
+│       │   ├── 📁 M.Djilali  " COURS"/
+│       │   │   ├── 📄 CHAPITRE-5 _2DDF_(Cr+TD).pdf
+│       │   │   ├── 📄 CHAPITRE-4 _2DDL_(Cr+TD) (1).pdf
+│       │   │   ├── 📄 CHAPITRE-3-1DF- (Cr+TD).pdf
+│       │   │   ├── 📄 CHAPITRE-2-1DDAmorti (Cr+TD+TP1).pdf
+│       │   │   ├── 📄 Présentation1-LGM.pdf
+│       │   │   ├── 📄 CHAPITRE-1-1DDL (Cr+TD).pdf
+│       │   │   └── 📄 Généralités-(Cr +Example).pdf
+│       │   └── 📁 Mme.Belouadah "COURS"/
+│       │       ├── 📄 cours vom.pdf
+│       │       ├── 📄 chapitre 4 vom.pdf
+│       │       └── 📄 chapitre 3 vom.pdf
+│       ├── 📁 TP /
+│       │   └── 📄 Polycope_TP_VOM.pdf
+│       ├── 📁 TD /
+│       │   ├── 📁  TD de Belouadah "Grp 4,5,6"/
+│       │   │   ├── 📁 Solutions des Séries/
+│       │   │   │   ├── 📄 solution serie N 4 géom des masses 2021 (1).pdf
+│       │   │   │   ├── 📄 TD 7 VOM.pdf
+│       │   │   │   ├── 📄 TD 6 VOM.pdf
+│       │   │   │   ├── 📄 Exercices vom.pdf
+│       │   │   │   ├── 📄 TD VOM 1.pdf
+│       │   │   │   ├── 📄 TD 3 VOM.pdf
+│       │   │   │   ├── 📄 TD 2 VOM.pdf
+│       │   │   │   ├── 📄 TD 4 VOM.pdf
+│       │   │   │   ├── 📄 TD 5 VOM.pdf
+│       │   │   │   └── 📄 exercice vom.pdf
+│       │   │   └── 📁 Séries D'exercices /
+│       │   │       ├── 📄 Série4-GéoMasses 2 (1).pdf
+│       │   │       ├── 📄 Série d'exercice 2.pdf
+│       │   │       ├── 📄 page7.pdf
+│       │   │       ├── 📄 page6.pdf
+│       │   │       ├── 📄 page5.pdf
+│       │   │       ├── 📄 page4.pdf
+│       │   │       └── 📄 page3.pdf
+│       │   ├── 📁  TD de Benhamouda "Grp 1,2,3"/
+│       │   │   ├── 📁 TD 4 + Corrigé/
+│       │   │   │   ├── 📄 série4-corrigé.pdf
+│       │   │   │   └── 📄 Série 4 VOM  Oscillations libres et forcées des systèmes à deux degrés de Liberté.pdf
+│       │   │   ├── 📁 TD 3 + Corrigé /
+│       │   │   │   ├── 📄 TD 3 :Oscillations libres et forcées de systèmes à 2 degrés de liberté.pdf
+│       │   │   │   └── 📄 TD3 Corrigé Exo 1,3,4,5,7.pdf
+│       │   │   └── 📁 TD 2 + Corrigé /
+│       │   │       ├── 📄 TD2 Corrigé Exo 10,11,12.pdf
+│       │   │       ├── 📄 TD2 Corrigé Exo 1,3,4.pdf
+│       │   │       ├── 📄 TD 2: Oscillations libres et forcées de systèmes à un degré de liberté.pdf
+│       │   │       └── 📄 TD2 Corrigé Exo 5,6,7.pdf
+│       │   └── 📁 TD 1 2 3 4 & 5/
+│       │       └── 📄 Polycope_TD VOM(Séries).pdf
+│       └── 📁 Comptes Rendu des TP/
+│           ├── 📄 TP2_1df.pdf
+│           ├── 📄 TP4_2df.pdf
+│           ├── 📄 TP2_1df_cr.pdf
+│           ├── 📄 TP1dl_cr.pdf
+│           ├── 📄 TP1dl.pdf
+│           ├── 📄 TP4_2df_cr.pdf
+│           ├── 📄 TP3_2dl.pdf
+│           └── 📄 TP3_2dl_cr.pdf
+├── 🔗📁 OV/  (raccourci)
+│   ├── 📄 Serie N_2.pdf
+│   ├── 📄 Serie N_1.pdf
+│   ├── 📁 Affichage ov /
+│   │   ├── 📄 notes ov 2023 Examen.pdf
+│   │   └── 📄 notes ov 2023 TD.pdf
+│   ├── 📁 Série de TD/
+│   │   ├── 📁 TD 1 avec correction/
+│   │   │   ├── 📄 SOLUTION TD1 OV EXO 2_3.pdf
+│   │   │   └── 📄 Série N 1.pdf
+│   │   ├── 📁 TD 3 avec la correction/
+│   │   │   ├── 📄 Serie N_3.pdf
+│   │   │   └── 📄 SOLUTION SERIE 3.pdf
+│   │   └── 📁 TD 2 avec la correction/
+│   │       ├── 📄 Solution serie 2.pdf
+│   │       └── 📄 Serie N 2.pdf
+│   └── 📁 Cours/
+│       ├── 📄 COURS_papier activ4 ate 2 (1).pdf
+│       └── 📄 Chapitre 1 les oscillations libres des systèmes à un degré de liberté (1DDL).pdf
+├── 🔗📁 MEC2435 - Vibrations/  (raccourci)
+│   ├── 📁 Devoirs/
+│   │   ├── 📄 _Commentaire.rtf
+│   │   ├── 📁 Devoir 1/
+│   │   │   ├── 📄 H2017 - Solution.pdf
+│   │   │   ├── 📄 H2011 - Solution.pdf
+│   │   │   ├── 📄 H2012 - Solution.pdf
+│   │   │   ├── 📄 H2012 - Question.pdf
+│   │   │   ├── 📄 H2017 - Question.pdf
+│   │   │   ├── 📄 H2014 - Solution.pdf
+│   │   │   ├── 📄 H2009 - Solution.pdf
+│   │   │   ├── 📄 H2011 - Question.pdf
+│   │   │   ├── 📄 H2014 - Question.pdf
+│   │   │   ├── 📄 H2010 - Solution.pdf
+│   │   │   ├── 📄 H2010 - Question.pdf
+│   │   │   ├── 📄 H2009 - Question.pdf
+│   │   │   ├── 📄 A2011 - Solution.pdf
+│   │   │   ├── 📄 A2017 - Question.pdf
+│   │   │   ├── 📄 A2011 - Question.pdf
+│   │   │   ├── 📄 H2008 - Solution.pdf
+│   │   │   ├── 📄 A2017 - Solution.pdf
+│   │   │   ├── 📄 H2008 - Question.pdf
+│   │   │   ├── 📄 A2009 - Solution.pdf
+│   │   │   ├── 📄 A2008 - Solution.pdf
+│   │   │   ├── 📄 A2009 - Question.pdf
+│   │   │   └── 📄 A2008 - Question.pdf
+│   │   ├── 📁 Devoir 2/
+│   │   │   ├── 📄 H2009 - Solution.pdf
+│   │   │   ├── 📄 H2011 - Question.pdf
+│   │   │   ├── 📄 H2011 - Solution.pdf
+│   │   │   ├── 📄 H2010 - Solution.pdf
+│   │   │   ├── 📄 A2017 - Solution.pdf
+│   │   │   ├── 📄 H2010 - Question.pdf
+│   │   │   ├── 📄 A2009 - Solution.pdf
+│   │   │   ├── 📄 H2008 - Solution.pdf
+│   │   │   ├── 📄 Copie de H2011 - Solution.pdf
+│   │   │   ├── 📄 H2009 - Question.pdf
+│   │   │   ├── 📄 A2009 - Question.pdf
+│   │   │   ├── 📄 H2008 - Question.pdf
+│   │   │   ├── 📄 Copie de H2011 - Question.pdf
+│   │   │   ├── 📄 A2008 - Solution.pdf
+│   │   │   ├── 📄 A2017 - Question.pdf
+│   │   │   └── 📄 A2008 - Question.pdf
+│   │   └── 📁 Devoir 3/
+│   │       ├── 📄 H2012 - Solution.pdf
+│   │       ├── 📄 A2017 - Solution.pdf
+│   │       ├── 📄 H2011 - Solution.pdf
+│   │       ├── 📄 H2012 - Question.pdf
+│   │       ├── 📄 H2008 - Solution.pdf
+│   │       ├── 📄 H2011 - Question.pdf
+│   │       ├── 📄 H2008 - Question.pdf
+│   │       └── 📄 A2017 - Question.pdf
+│   ├── 📁 Solutions exercices/
+│   │   ├── 📄 Chap 2.pdf
+│   │   ├── 📄 Chap 3.pdf
+│   │   ├── 📄 Chap 5.pdf
+│   │   ├── 📄 Chap 4.pdf
+│   │   └── 📄 Chap 1.pdf
+│   └── 📁 Examens/
+│       ├── 📄 Intra H2018 - Solutions.pdf
+│       ├── 📄 Intra H2009 - Solution 2.pdf
+│       ├── 📄 Intra H2009 - Solution 1.pdf
+│       ├── 📄 Intra H2009 - Question.pdf
+│       ├── 📄 Final H2010 - Solution.pdf
+│       ├── 📄 Intra A2015 - Question _ Solution.pdf
+│       └── 📄 Final H2010 - Question.pdf
+├── 📄 td ghardaia vibration.pdf
+├── 🔗📁 Ondes et Vibration/  (raccourci)
+│   ├── 📁 Cours/
+│   │   ├── 📄 résumé vibration.pdf
+│   │   ├── 📄 Cours onde et vibration AR.pdf
+│   │   ├── 📄 Cours vibrations et ondes département des sciences techniques.docx
+│   │   ├── 📄 15730811_248775682208303_283341414_n.jpg
+│   │   └── 📄 15713262_248775652208306_1363563193_n.jpg
+│   ├── 📁 TD/
+│   │   ├── 📄 td ghardaia vibration.pdf
+│   │   ├── 📁 TD lagh 2017/
+│   │   │   ├── 📄 solutions_des_s_riers_1_2_et_3_TD_vibration.pdf
+│   │   │   ├── 📁 Solution tout les séries/
+│   │   │   │   ├── 📄 Image (9).jpg
+│   │   │   │   ├── 📄 Image (8).jpg
+│   │   │   │   ├── 📄 Image (7).jpg
+│   │   │   │   ├── 📄 Image (4).jpg
+│   │   │   │   ├── 📄 Image (38).jpg
+│   │   │   │   ├── 📄 Image (6).jpg
+│   │   │   │   ├── 📄 Image (32).jpg
+│   │   │   │   ├── 📄 Image (5).jpg
+│   │   │   │   ├── 📄 Image (37).jpg
+│   │   │   │   ├── 📄 Image (31).jpg
+│   │   │   │   ├── 📄 Image (36).jpg
+│   │   │   │   ├── 📄 Image (3).jpg
+│   │   │   │   ├── 📄 Image (35).jpg
+│   │   │   │   ├── 📄 Image (30).jpg
+│   │   │   │   ├── 📄 Image (29).jpg
+│   │   │   │   ├── 📄 Image (34).jpg
+│   │   │   │   ├── 📄 Image (28).jpg
+│   │   │   │   ├── 📄 Image (33).jpg
+│   │   │   │   ├── 📄 Image (27).jpg
+│   │   │   │   ├── 📄 Image (26).jpg
+│   │   │   │   ├── 📄 Image (25).jpg
+│   │   │   │   ├── 📄 Image (24).jpg
+│   │   │   │   ├── 📄 Image (23).jpg
+│   │   │   │   ├── 📄 Image (22).jpg
+│   │   │   │   ├── 📄 Image (21).jpg
+│   │   │   │   ├── 📄 Image (2).jpg
+│   │   │   │   ├── 📄 Image (20).jpg
+│   │   │   │   ├── 📄 Image (19).jpg
+│   │   │   │   ├── 📄 Image (18).jpg
+│   │   │   │   ├── 📄 Image (17).jpg
+│   │   │   │   ├── 📄 Image (16).jpg
+│   │   │   │   ├── 📄 Image (15).jpg
+│   │   │   │   ├── 📄 Image (14).jpg
+│   │   │   │   ├── 📄 Image (12).jpg
+│   │   │   │   ├── 📄 Image (13).jpg
+│   │   │   │   ├── 📄 Image (11).jpg
+│   │   │   │   ├── 📄 Image (10).jpg
+│   │   │   │   └── 📄 1.jpg
+│   │   │   └── 📁 Les séries/
+│   │   │       ├── 📁 Série 2/
+│   │   │       │   ├── 📄 1.jpg
+│   │   │       │   ├── 📄 2.jpg
+│   │   │       │   ├── 📄 4.jpg
+│   │   │       │   └── 📄 3.jpg
+│   │   │       ├── 📁 Série 4/
+│   │   │       │   ├── 📄 2.jpg
+│   │   │       │   └── 📄 1.jpg
+│   │   │       ├── 📁 Seire 1/
+│   │   │       │   ├── 📄 Image (2).jpg
+│   │   │       │   └── 📄 1.jpg
+│   │   │       └── 📁 Serie 3/
+│   │   │           ├── 📄 2.jpg
+│   │   │           └── 📄 1.jpg
+│   │   ├── 📁 2/
+│   │   │   ├── 📄 14962595_697899510375288_1776713578040117465_n.jpg
+│   │   │   ├── 📄 14922229_697899430375296_206330996551476096_n.jpg
+│   │   │   ├── 📄 14907229_697899473708625_9863041587244808_n.jpg
+│   │   │   ├── 📄 14907048_697899377041968_2473837106649062800_n.jpg
+│   │   │   ├── 📄 14900449_697899453708627_3503968564270047270_n.jpg
+│   │   │   └── 📄 14479517_697899490375290_2151654366062060577_n.jpg
+│   │   └── 📁 1/
+│   │       ├── 📄 6.jpg
+│   │       ├── 📄 5.jpg
+│   │       ├── 📄 4.jpg
+│   │       ├── 📄 3.jpg
+│   │       ├── 📄 2.jpg
+│   │       └── 📄 1.jpg
+│   └── 📁 Examens/
+│       ├── 📄 Examens-et-rattrapages-avec-corrige-Phys3.pdf
+│       ├── 📁 Sétif/
+│       │   └── 📁 PDF/
+│       │       ├── 📄 Examen_physique_3_2016_.pdf
+│       │       ├── 📄 Examen_Physique3_2009_2015.pdf
+│       │       └── 📄 Examen_de_remplacement_2016_.pdf
+│       ├── 📁 Lagh2017/
+│       │   ├── 📄 5.jpg
+│       │   ├── 📄 4.jpg
+│       │   ├── 📄 3.jpg
+│       │   ├── 📄 2.jpg
+│       │   └── 📄 1.jpg
+│       ├── 📁 lagh2015/
+│       │   ├── 📄 4.jpg
+│       │   ├── 📄 5.jpg
+│       │   ├── 📄 3.jpg
+│       │   ├── 📄 2.jpg
+│       │   └── 📄 1.jpg
+│       └── 📁 Mira Béjaia/
+│           ├── 📄 ExamenPhys3.2013Rattrapage.pdf
+│           ├── 📄 ExamenPhys3.2013.pdf
+│           ├── 📄 ExamenPhys3.2013PourAbsents.pdf
+│           ├── 📄 ExamenPhys3.2012.pdf
+│           ├── 📄 ExamenPhys3.2011.pdf
+│           └── 📄 ExamenPhys3.2010.pdf
+├── 📁 Examens et devoirs/
+│   ├── 📄 1.jpg
+│   ├── 📄 2.jpg
+│   ├── 📄 3.jpg
+│   ├── 📄 4.jpg
+│   ├── 📄 5.jpg
+│   ├── 📄 1.jpg
+│   ├── 📄 2.jpg
+│   ├── 📄 3.jpg
+│   ├── 📄 4.jpg
+│   ├── 📄 5.jpg
+│   ├── 📄 Examens-et-rattrapages-avec-corrige-Phys3.pdf
+│   ├── 📄 Examen Vibrations MEC2435 - Vibrations
+│   ├── 📄 Examen Genie Polytechnique Montreal - Vibrations
+│   ├── 📄 Examen Vibrations MEC2435 - Vibrations
+│   ├── 📄 Examen Vibrations MEC2435 - Vibrations
+│   ├── 📄 Examen Vibrations MEC-2435 - Vibrations
+│   ├── 📄 Exercices TD Vibrations Automne 2017 - Vibrations
+│   ├── 📄 12008
+│   └── 📄 A2008 - Question-merged.pdf
+└── 📁 Solutions exercices/
+    ├── 📄 Exercices TD Mecanique des Solides - Vibrations
+    ├── 📄 Exercices TD Physique Vibrations - Vibrations
+    ├── 📄 Cours Frequence Naturelle Modes Masse Ressort - Vibrations
+    ├── 📄 Exercices TD Mécanique des Solides - Vibrations
+    └── 📄 Cours Analyse Fourier - Vibrations
+
+═════════════════════════════════════
+  Fin du fichier · Vibrations
+═════════════════════════════════════

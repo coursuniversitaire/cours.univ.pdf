@@ -1,0 +1,117 @@
+📚 MODULE : Systèmes logiques                         
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Systèmes logiques.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Systèmes logiques/
+├── 🔗📁 Systeme logique/  (raccourci)
+│   ├── 📁 Seriet/
+│   │   └── 📁 Combinatoire/
+│   │       ├── 📄 serie.pdf
+│   │       └── 📄 correction
+│   ├── 📁 DS/
+│   │   ├── 📄 2019/2020
+│   │   └── 📁 2018/2019/
+│   │       └── 📄 DS systeme logique 2019/2020
+│   ├── 📁 TP/
+│   │   ├── 📁 TP2/
+│   │   │   └── 📄 TP2
+│   │   └── 📁 TP1/
+│   │       ├── 📄 Support de Cours TP1.pdf
+│   │       ├── 📄 Installation Workbench.pdf
+│   │       └── 📄 Enoncé TP1.pdf
+│   ├── 📁 Cours/
+│   │   ├── 📁 Cour du prof (kamel)/
+│   │   │   ├── 📄 LES BASCULES 1 - La bascule RS.mp4
+│   │   │   ├── 📄 partie 2 les bascules .pdf
+│   │   │   ├── 📄 Prtie 1 
+│   │   │   └── 📄 Ch1 : les système de numération
+│   │   └── 📁 Autre cours (kamel)/
+│   │       ├── 📄 Iset Nabeul Partie 1
+│   │       ├── 📄 iset Nabeul TD + exams corrigés
+│   │       └── 📄 iset Nabeul Partie 2
+│   └── 📁 TD/
+│       ├── 📄 td4+td5.pdf
+│       ├── 📄 Copy of iset Nabeul TD + exams corrigés
+│       ├── 📄 CORRECTION TD2
+│       ├── 📄 TD2
+│       ├── 📄 correct TD 1.pdf
+│       ├── 📄 TD1 .pdf
+│       ├── 📁 Td5/
+│       ├── 📁 Td4/
+│       └── 📁 Serie de révision avant ds 1/
+│           ├── 📄 Ex2+correction.pdf
+│           └── 📄 Ex1+correction.pdf
+├── 📄 DS systèmes Logiques 2025.pdf
+├── 📄 Examen Systèmes Logiques 2025.pdf
+├── 📁 Cours/
+│   ├── 📄 Plan du cours Syst-Log.pdf
+│   ├── 📄 Syst_Log_Chap3applications.pdf
+│   ├── 📄 Syst_Log_Chap3.pdf
+│   ├── 📄 Syst_Log_Chap5.pdf
+│   ├── 📄 Syst_Log_Chap4.pdf
+│   ├── 📄 Syst_Log_Chap2.pdf
+│   └── 📄 Syst_Log_Chap1.pdf
+├── 📁 TDs et exercices corrigés/
+│   ├── 📄 Correction TDcomplémentaire sur les combinatoires combinatoires.pdf
+│   ├── 📄 TD complémentaire sur Circuits combinatoires.pdf
+│   ├── 📁 TD3/
+│   │   ├── 📄 Correction TD3 SL.pdf
+│   │   └── 📄 serie3syst.jpg
+│   ├── 📁 TD1/
+│   │   ├── 📄 Correction TD1 SL.pdf
+│   │   └── 📄 serie1-2025.jpg
+│   ├── 📁 TD2/
+│   │   ├── 📄 Correction TD2 SL.pdf
+│   │   └── 📄 serie2syst.jpg
+│   ├── 📁 TD4/
+│   │   ├── 📄 Correction TD4 SL.pdf
+│   │   └── 📄 serie4-2025.pdf
+│   └── 📁 TD5/
+│       ├── 📄 Correction TD5 SL.pdf
+│       └── 📄 serie5-2025.pdf
+├── 📁 Révision DS et examen /
+│   ├── 📄 Examen contrôle 2020 Syst logiques.pdf
+│   ├── 📄 Examen Syst logiques2022-2023 + Corrigé.pdf
+│   ├── 📁 Examen 2024 Syst_Log /
+│   │   └── 📄 Correction ex2+3 examen SL 2024 (1).pdf
+│   └── 📁 DS 2024 Syst_Log /
+│       └── 📄 Correction ex2,3 ds 2024 SL.pdf
+└── 📁 TPs/
+    ├── 📁 TP3/
+    │   ├── 📄 Compte rendu tp3 SL.pdf
+    │   └── 📁 Énoncé /
+    │       ├── 📄 TP3-[1].jpg
+    │       ├── 📄 TP3-3[1].jpg
+    │       └── 📄 TP3-2[1].jpg
+    ├── 📁 Maquette/
+    │   ├── 📄 343469233_285404890477820_3800618472878173352_n.jpg
+    │   ├── 📄 343413811_609830877730585_7366303987091989700_n.jpg
+    │   └── 📄 Maquette.pdf
+    ├── 📁 TP2/
+    │   ├── 📄 compte rendu tp2 SL.pdf
+    │   └── 📁 Énoncé /
+    │       ├── 📄 TP2-[1].jpg
+    │       ├── 📄 TP2-3[1].jpg
+    │       └── 📄 TP2-2[1].jpg
+    └── 📁 TP1/
+        ├── 📄 Compte rendu tp1 SL.pdf
+        └── 📁 Énoncé /
+            ├── 📄 TP1-[1].jpg
+            ├── 📄 TP1-4[1].jpg
+            ├── 📄 TP1-3[1].jpg
+            └── 📄 TP1-2[1].jpg
+
+═════════════════════════════════════
+  Fin du fichier · Systèmes logiques
+═════════════════════════════════════

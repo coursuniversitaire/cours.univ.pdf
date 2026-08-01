@@ -1,0 +1,184 @@
+📚 MODULE : Technologie des composants électroniques  
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Technologie des composants électroniques.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Technologie des composants électroniques/
+├── 🔗📁 technologi compose-20260531T201257Z-3-001.zip  (raccourci)
+├── 📁 technologi compo/
+│   ├── 📄 TC ELC 2017-12-22.pdf
+│   ├── 📄 KYOSS.zip
+│   ├── 📄 20170115_113908.jpg
+│   ├── 📄 exam composent.pdf
+│   ├── 📁 cours/
+│   │   ├── 📄 23.jpg
+│   │   ├── 📄 4.jpg
+│   │   ├── 📄 5.jpg
+│   │   ├── 📄 3.jpg
+│   │   ├── 📄 27.jpg
+│   │   ├── 📄 26.jpg
+│   │   ├── 📄 9.jpg
+│   │   ├── 📄 8.jpg
+│   │   ├── 📄 24.jpg
+│   │   ├── 📄 7.jpg
+│   │   ├── 📄 6.jpg
+│   │   ├── 📄 25.jpg
+│   │   ├── 📄 22.jpg
+│   │   ├── 📄 1.jpg
+│   │   ├── 📄 21.jpg
+│   │   ├── 📄 12.jpg
+│   │   ├── 📄 20.jpg
+│   │   ├── 📄 2.jpg
+│   │   ├── 📄 10.jpg
+│   │   ├── 📄 11.jpg
+│   │   ├── 📄 18.jpg
+│   │   ├── 📄 19.jpg
+│   │   ├── 📄 13.jpg
+│   │   ├── 📄 17.jpg
+│   │   ├── 📄 16.jpg
+│   │   ├── 📄 15.jpg
+│   │   └── 📄 14.jpg
+│   └── 📁 exm/
+│       ├── 📁 2018/
+│       ├── 📁 ratt 2019/
+│       ├── 📁 exm2019/
+│       ├── 📁 2017 ratt/
+│       └── 📁 2017/
+│           ├── 📄 FB_IMG_1542374334824.jpg
+│           ├── 📄 FB_IMG_1542374092338.jpg
+│           ├── 📄 FB_IMG_1542374320068.jpg
+│           └── 📄 FB_IMG_1542374307426.jpg
+├── 📁 drives/
+│   ├── 🔗📁 technologi compose/  (raccourci)
+│   │   ├── 📄 TC ELC 2017-12-22.pdf
+│   │   ├── 📄 KYOSS.zip
+│   │   ├── 📄 20170115_113908.jpg
+│   │   ├── 📄 exam composent.pdf
+│   │   ├── 📁 résumer/
+│   │   │   ├── 📄 20170114_124413.jpg
+│   │   │   ├── 📄 9.jpg
+│   │   │   ├── 📄 8.jpg
+│   │   │   ├── 📄 7.jpg
+│   │   │   ├── 📄 6.jpg
+│   │   │   ├── 📄 5.jpg
+│   │   │   ├── 📄 10.jpg
+│   │   │   ├── 📄 1.jpg
+│   │   │   ├── 📄 4.jpg
+│   │   │   ├── 📄 3.jpg
+│   │   │   ├── 📄 2.jpg
+│   │   │   └── 📄 11.jpg
+│   │   ├── 📁 كور 2018/
+│   │   │   ├── 📄 cour  (9).jpg
+│   │   │   ├── 📄 cour  (7).jpg
+│   │   │   ├── 📄 cour  (8).jpg
+│   │   │   ├── 📄 cour  (6).jpg
+│   │   │   ├── 📄 cour  (5).jpg
+│   │   │   ├── 📄 cour  (4).jpg
+│   │   │   ├── 📄 cour  (32).jpg
+│   │   │   ├── 📄 cour  (14).jpg
+│   │   │   ├── 📄 cour  (31).jpg
+│   │   │   ├── 📄 cour  (30).jpg
+│   │   │   ├── 📄 cour  (18).jpg
+│   │   │   ├── 📄 cour  (3).jpg
+│   │   │   ├── 📄 cour  (29).jpg
+│   │   │   ├── 📄 cour  (17).jpg
+│   │   │   ├── 📄 cour  (28).jpg
+│   │   │   ├── 📄 cour  (16).jpg
+│   │   │   ├── 📄 cour  (27).jpg
+│   │   │   ├── 📄 cour  (26).jpg
+│   │   │   ├── 📄 cour  (2).jpg
+│   │   │   ├── 📄 cour  (25).jpg
+│   │   │   ├── 📄 cour  (24).jpg
+│   │   │   ├── 📄 cour  (15).jpg
+│   │   │   ├── 📄 cour  (23).jpg
+│   │   │   ├── 📄 cour  (22).jpg
+│   │   │   ├── 📄 cour  (19).jpg
+│   │   │   ├── 📄 cour  (21).jpg
+│   │   │   ├── 📄 cour  (20).jpg
+│   │   │   ├── 📄 cour  (13).jpg
+│   │   │   ├── 📄 cour  (12).jpg
+│   │   │   ├── 📄 cour  (11).jpg
+│   │   │   ├── 📄 cour  (10).jpg
+│   │   │   └── 📄 cour  (1).jpg
+│   │   ├── 📁 كور/
+│   │   │   ├── 📄 23.jpg
+│   │   │   ├── 📄 4.jpg
+│   │   │   ├── 📄 5.jpg
+│   │   │   ├── 📄 3.jpg
+│   │   │   ├── 📄 27.jpg
+│   │   │   ├── 📄 26.jpg
+│   │   │   ├── 📄 9.jpg
+│   │   │   ├── 📄 8.jpg
+│   │   │   ├── 📄 24.jpg
+│   │   │   ├── 📄 7.jpg
+│   │   │   ├── 📄 6.jpg
+│   │   │   ├── 📄 25.jpg
+│   │   │   ├── 📄 22.jpg
+│   │   │   ├── 📄 21.jpg
+│   │   │   ├── 📄 1.jpg
+│   │   │   ├── 📄 20.jpg
+│   │   │   ├── 📄 12.jpg
+│   │   │   ├── 📄 2.jpg
+│   │   │   ├── 📄 10.jpg
+│   │   │   ├── 📄 11.jpg
+│   │   │   ├── 📄 19.jpg
+│   │   │   ├── 📄 18.jpg
+│   │   │   ├── 📄 13.jpg
+│   │   │   ├── 📄 17.jpg
+│   │   │   ├── 📄 16.jpg
+│   │   │   ├── 📄 15.jpg
+│   │   │   └── 📄 14.jpg
+│   │   └── 📁 exm/
+│   │       ├── 📁 ratt 2019/
+│   │       │   └── 📄 1.jpg
+│   │       ├── 📁 2018/
+│   │       │   ├── 📄 2.jpg
+│   │       │   └── 📄 1.jpg
+│   │       ├── 📁 exm2019/
+│   │       │   ├── 📄 6.jpg
+│   │       │   ├── 📄 4.jpg
+│   │       │   ├── 📄 5.jpg
+│   │       │   ├── 📄 3.jpg
+│   │       │   ├── 📄 2.jpg
+│   │       │   └── 📄 1.jpg
+│   │       ├── 📁 2017 ratt/
+│   │       │   ├── 📄 20170302_143032.jpg
+│   │       │   ├── 📄 20170302_143025.jpg
+│   │       │   ├── 📄 20170302_143016.jpg
+│   │       │   ├── 📄 20170302_143002.jpg
+│   │       │   └── 📄 20170302_142951.jpg
+│   │       └── 📁 2017/
+│   │           ├── 📄 FB_IMG_1542374334824.jpg
+│   │           ├── 📄 FB_IMG_1542374092338.jpg
+│   │           ├── 📄 FB_IMG_1542374320068.jpg
+│   │           ├── 📄 FB_IMG_1542374312598.jpg
+│   │           ├── 📄 FB_IMG_1542374327257.jpg
+│   │           └── 📄 FB_IMG_1542374307426.jpg
+│   └── 🔗📁 Technologies des composants électroniques (2)/  (raccourci)
+│       ├── 📄 Chapitre V- La familles logique CMOS.pdf
+│       ├── 📄 Chapitre IV- La famille logique TTL.pdf
+│       ├── 📄 Chapitre III-Composants Optoélectroniques.pdf
+│       ├── 📄 Chapitre II-Les composants électroniques de puissance.pdf
+│       └── 📄 Chapitre I-ALIMENTATIONS.pdf
+├── 📁 cours/
+│   ├── 📄 Chapitre II-Les composants électroniques de puissance.pdf
+│   ├── 📄 Chapitre III-Composants Optoélectroniques.pdf
+│   ├── 📄 Chapitre IV- La famille logique TTL.pdf
+│   ├── 📄 Chapitre I-ALIMENTATIONS.pdf
+│   └── 📄 Chapitre V- La familles logique CMOS.pdf
+└── 📁 exercices /
+    └── 📄 exercices Technologie des composants électroniques.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Technologie des composants électroniques
+═════════════════════════════════════

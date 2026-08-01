@@ -1,0 +1,42 @@
+📚 MODULE : Topographie                               
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Topographie.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Topographie/
+├── 🔗📁 TOPOGRAPHIE /  (raccourci)
+│   ├── 📄 Suite2-converti.pdf
+│   ├── 📄 EXERCICEs-converti.pdf
+│   ├── 📄 livre topographie et topométrie moderne.pdf
+│   ├── 📄 Suite du cours.gisemendocx-converti.pdf
+│   ├── 📄 EXERCICES corrigés.pdf
+│   ├── 📄 Cheminement en nivellement indirect.(suite) cours 2 docx-converti.pdf
+│   ├── 📄 Topo.Nivellement indirect ou trigonométrique-cours1.pdf
+│   ├── 📄 Cours de topo(suite2)2.pdf
+│   ├── 📄 Cours de topo(suite1)docx-converti (1).pdf
+│   └── 📄 Cours de topographie.1docx-converti (1).pdf
+├── 📄 Examen Topographie de base -Topographie
+├── 📄 Exercices TD Topographie TCCTP 1A -Topographie
+├── 📄 Exercices TP Topographie -Topographie
+├── 📄 Exercices TD Topographie -Topographie
+├── 📄 Exercices TD Photogrammétrie -Topographie
+├── 📄 Cours Calculs Topométriques -Topographie
+├── 📄 Cours Mesures des distances -Topographie
+├── 📄 Examen Topographie de base -Topographie
+├── 📄 Cours Topographie Generalites -Topographie
+├── 📄 Examen Topographie de base -Topographie
+└── 📄 Examen Topographie 2ème Génie Civil -Topographie
+
+═════════════════════════════════════
+  Fin du fichier · Topographie
+═════════════════════════════════════

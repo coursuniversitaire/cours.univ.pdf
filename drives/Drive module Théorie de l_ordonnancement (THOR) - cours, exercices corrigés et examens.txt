@@ -1,0 +1,47 @@
+📚 MODULE : Théorie de l'ordonnancement (THOR)        
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Théorie de l'ordonnancement (THOR).
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Théorie de l'ordonnancement (THOR)/
+├── 🔗📁 THOR-20260513T191358Z-3-001.zip/  (raccourci)
+├── 📄 THOR-20260513T191358Z-3-001.zip
+└── 🔗📁 THOR/  (raccourci)
+    ├── 📁 Interro /
+    │   ├── 📄 INT 2021.pdf
+    │   ├── 📄 CINT 2021.pdf
+    │   └── 📄 Notes thor BigDataA.pdf
+    ├── 📁 TD/
+    │   ├── 📁 Serie 04/
+    │   │   ├── 📄 CSE41.pdf
+    │   │   ├── 📄 SE4 - 2.pdf
+    │   │   └── 📄 SE4 - 1.pdf
+    │   ├── 📁 Serie 03/
+    │   │   └── 📄 SE3.pdf
+    │   ├── 📁 Serie 02/
+    │   │   └── 📄 SE21.pdf
+    │   └── 📁 Serie 01/
+    │       ├── 📄 SE1CslideV1.pdf
+    │       ├── 📄 SE1C.pdf
+    │       └── 📄 SE1.pdf
+    └── 📁 Cours/
+        ├── 📄 Chap4 - 3.pdf
+        ├── 📄 Chap4 - 2.pdf
+        ├── 📄 Chap4 - 1.pdf
+        ├── 📄 Chap3.pdf
+        ├── 📄 Chap21.pdf
+        └── 📄 Chap1.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Théorie de l'ordonnancement (THOR)
+═════════════════════════════════════

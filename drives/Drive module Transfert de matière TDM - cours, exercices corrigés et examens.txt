@@ -1,0 +1,226 @@
+📚 MODULE : Transfert de matière TDM                  
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Transfert de matière TDM.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Transfert de matière TDM/
+├── 🔗📁 TRANSFERT DE MATIERE/  (raccourci)
+│   ├── 📄 RESUME TM.pdf
+│   ├── 📁 CRS/
+│   │   ├── 📄 Chapitre 3 Transfert de matière-converti.pdf
+│   │   ├── 📄 Chapitre 2 Transfert de matière-converti.pdf
+│   │   └── 📄 Chapitre 1 transfert de matière.pdf
+│   └── 📁 TD/
+│       ├── 📄 EXAM.TRANSFER MATIERE GP 2020.pdf
+│       ├── 📄 CamScanner 04-04-2021 21.53.pdf
+│       ├── 📄 EXAM.jpeg
+│       ├── 📄 Travaux dirigés de transfert de matière (1).pdf
+│       └── 📁 CORRECT DE TD/
+│           ├── 📄 WhatsApp Image 2021-03-29 at 2.25.04 PM.jpeg
+│           ├── 📄 EX 8 HSN.jpeg
+│           ├── 📄 WhatsApp Image 2021-03-29 at 2.25.03 PM (1).jpeg
+│           ├── 📄 EX 4 HSN.jpeg
+│           ├── 📄 EX 6 (4).jpeg
+│           ├── 📄 EX 4.jpeg
+│           ├── 📄 EX 9.jpeg
+│           ├── 📄 WhatsApp Image 2021-04-02 at 7.18.04 PM.jpeg
+│           ├── 📄 WhatsApp Image 2021-04-02 at 7.17.46 PM.jpeg
+│           ├── 📄 WhatsApp Image 2021-04-02 at 7.17.31 PM.jpeg
+│           ├── 📄 EX 6 (3).jpeg
+│           ├── 📄 EX 6 (2).jpeg
+│           ├── 📄 EX 4 (2) EX 6.jpeg
+│           ├── 📄 EX 3.jpeg
+│           ├── 📄 EX 2 (2).jpeg
+│           ├── 📄 EX 2.jpeg
+│           ├── 📄 EX 1.jpeg
+│           ├── 📄 EX 8.jpeg
+│           ├── 📄 EX 8 (2).jpeg
+│           └── 📄 EX 8 (3).jpeg
+├── 🔗📁 Tdm/  (raccourci)
+│   ├── 📁 Important demonstrations/
+│   │   ├── 📄 Les équations de continuité en coordonnées cartésienne, cylindrique et sphérique.pdf
+│   │   └── 📄 Les profils de concentration en coordonnées, cylindriques qui sphériques.pdf
+│   ├── 📁 Cours/
+│   │   ├── 📄 Résumé TDM demonstration.pdf
+│   │   ├── 📄 Chapitre 1 & 2.pdf
+│   │   └── 📄 Chapitre 3 & 4.pdf
+│   ├── 📁 Old exams /
+│   │   ├── 📄 Examen 8.pdf
+│   │   ├── 📄 Examen 5.pdf
+│   │   ├── 📄 Examen 4.pdf
+│   │   ├── 📄 Examen 2.pdf
+│   │   ├── 📁 Examen 7/
+│   │   │   └── 📄 sujet
+│   │   ├── 📁 Examen 6/
+│   │   │   └── 📄 sujet 
+│   │   ├── 📁 Examen 3/
+│   │   │   ├── 📄 2
+│   │   │   └── 📄 1
+│   │   └── 📁 Examen 1/
+│   │       ├── 📄 4
+│   │       ├── 📄 3
+│   │       ├── 📄 2
+│   │       └── 📄 1
+│   ├── 📁 Examen /
+│   │   ├── 📄 corrigé type TDM remplacement.pdf
+│   │   └── 📄 Examen TDM Corrigé.pdf
+│   ├── 📁 Examen tp/
+│   │   ├── 📁 Examen tp2025/
+│   │   │   ├── 📄 4
+│   │   │   ├── 📄 3
+│   │   │   ├── 📄 2
+│   │   │   └── 📄 1
+│   │   └── 📁 Examen tp 2024/
+│   │       ├── 📄 4
+│   │       ├── 📄 3
+│   │       ├── 📄 2
+│   │       └── 📄 1
+│   ├── 📁 Ccs/
+│   │   ├── 📄 corrigés type CCs 2025.pdf
+│   │   └── 📁 Anciens ccs/
+│   │       ├── 📁 2/
+│   │       │   ├── 📄 2
+│   │       │   └── 📄 1
+│   │       └── 📁 1/
+│   │           ├── 📄 2
+│   │           └── 📄 1
+│   ├── 📁 TD/
+│   │   ├── 📄 TD N°04 TDM Corrigé.pdf
+│   │   ├── 📄 TD N°03 TDM Corrigé.pdf
+│   │   ├── 📄 TD N°01 TDM.pdf
+│   │   ├── 📄 TD N°02 TDM.pdf
+│   │   └── 📁 TD N°02 CORR/
+│   │       ├── 📄 photo_2025-04-19_15-25-36.jpg
+│   │       ├── 📄 photo_2025-04-19_15-25-27.jpg
+│   │       ├── 📄 photo_2025-04-19_15-25-12.jpg
+│   │       ├── 📄 photo_2025-04-19_15-25-05.jpg
+│   │       ├── 📄 photo_2025-04-19_15-24-58.jpg
+│   │       ├── 📄 photo_2025-04-19_15-24-56.jpg
+│   │       └── 📄 photo_2025-04-19_15-24-53.jpg
+│   └── 📁 Tp/
+│       ├── 📄 Tp1-et-2.pdf
+│       ├── 📄 rapport TP°02.pdf
+│       ├── 📄 rapport TP°01.pdf
+│       ├── 📄 TP N° 2 TDM 24.pdf
+│       ├── 📄 TP N°1 TDM 24.pdf
+│       ├── 📄 TP N°1 TDM 24(3).docx
+│       ├── 📄 TP N° 2 TDM 24(2).docx
+│       ├── 📁 Tp1/
+│       │   ├── 📄 Questions de cour TP N°01.pdf
+│       │   └── 📄 Démonstration TP°01
+│       └── 📁 Tp2/
+│           ├── 📄 IMG20250319214053.jpg
+│           └── 📄 IMG20250319214104.jpg
+├── 📁 Tds corrigés /
+│   ├── 📄 EX 1.jpeg
+│   ├── 📄 EX 2 (2).jpeg
+│   ├── 📄 EX 2.jpeg
+│   ├── 📄 EX 3.jpeg
+│   ├── 📄 EX 4 (2) EX 6.jpeg
+│   ├── 📄 EX 4 HSN.jpeg
+│   ├── 📄 EX 4.jpeg
+│   ├── 📄 EX 6 (2).jpeg
+│   ├── 📄 EX 6 (3).jpeg
+│   ├── 📄 EX 6 (4).jpeg
+│   ├── 📄 EX 8 (2).jpeg
+│   ├── 📄 EX 8 (3).jpeg
+│   ├── 📄 EX 8 HSN.jpeg
+│   ├── 📄 EX 8.jpeg
+│   ├── 📄 EX 9.jpeg
+│   ├── 📄 WhatsApp Image 2021-03-29 at 2.25.03 PM (1).jpeg
+│   ├── 📄 WhatsApp Image 2021-03-29 at 2.25.04 PM.jpeg
+│   ├── 📄 WhatsApp Image 2021-04-02 at 7.17.31 PM.jpeg
+│   ├── 📄 WhatsApp Image 2021-04-02 at 7.17.46 PM.jpeg
+│   ├── 📄 WhatsApp Image 2021-04-02 at 7.18.04 PM.jpeg
+│   ├── 📄 CamScanner 04-04-2021 21.53.pdf
+│   ├── 📄 EXAM.jpeg
+│   ├── 📄 EXAM.TRANSFER MATIERE GP 2020.pdf
+│   ├── 📄 Travaux dirigés de transfert de matière (1).pdf
+│   └── 📁 TD/
+│       ├── 📄 TD N°04 TDM Corrigé.pdf
+│       ├── 📄 TD N°03 TDM Corrigé.pdf
+│       ├── 📄 TD N°01 TDM.pdf
+│       ├── 📄 TD N°02 TDM.pdf
+│       └── 📁 TD N°02 CORR/
+│           ├── 📄 photo_2025-04-19_15-25-36.jpg
+│           ├── 📄 photo_2025-04-19_15-25-27.jpg
+│           ├── 📄 photo_2025-04-19_15-25-12.jpg
+│           ├── 📄 photo_2025-04-19_15-25-05.jpg
+│           ├── 📄 photo_2025-04-19_15-24-58.jpg
+│           ├── 📄 photo_2025-04-19_15-24-56.jpg
+│           └── 📄 photo_2025-04-19_15-24-53.jpg
+├── 📁 Important demonstrations/
+│   ├── 📄 Les équations de continuité en coordonnées cartésienne, cylindrique et sphérique.pdf
+│   └── 📄 Les profils de concentration en coordonnées, cylindriques qui sphériques.pdf
+├── 📁 Cours/
+│   ├── 📄 Résumé TDM demonstration.pdf
+│   ├── 📄 Chapitre 1 & 2.pdf
+│   └── 📄 Chapitre 3 & 4.pdf
+├── 📁 Examen /
+│   ├── 📄 corrigé type TDM remplacement.pdf
+│   ├── 📄 Examen TDM Corrigé.pdf
+│   ├── 📁 Ccs/
+│   │   ├── 📄 corrigés type CCs 2025.pdf
+│   │   └── 📁 Anciens ccs/
+│   │       ├── 📁 2/
+│   │       │   ├── 📄 2.jpg
+│   │       │   └── 📄 1.jpg
+│   │       └── 📁 1/
+│   │           ├── 📄 2.jpg
+│   │           └── 📄 1.jpg
+│   └── 📁 Old exams /
+│       ├── 📄 Examen 8.pdf
+│       ├── 📄 Examen 5.pdf
+│       ├── 📄 Examen 4.pdf
+│       ├── 📄 Examen 2.pdf
+│       ├── 📁 Examen 7/
+│       │   └── 📄 sujet.jpg
+│       ├── 📁 Examen 6/
+│       │   └── 📄 sujet_.jpg
+│       ├── 📁 Examen 3/
+│       │   ├── 📄 2.jpg
+│       │   └── 📄 1.jpg
+│       └── 📁 Examen 1/
+│           ├── 📄 4.jpg
+│           ├── 📄 3.jpg
+│           ├── 📄 2.jpg
+│           └── 📄 1.jpg
+└── 📁 Tp/
+    ├── 📄 Tp1-et-2.pdf
+    ├── 📄 rapport TP°02.pdf
+    ├── 📄 rapport TP°01.pdf
+    ├── 📄 TP N° 2 TDM 24.pdf
+    ├── 📄 TP N°1 TDM 24.pdf
+    ├── 📄 TP N°1 TDM 24(3).docx
+    ├── 📄 TP N° 2 TDM 24(2).docx
+    ├── 📁 Examen tp/
+    │   ├── 📁 Examen tp 2024/
+    │   │   ├── 📄 4.jpg
+    │   │   ├── 📄 3.jpg
+    │   │   ├── 📄 2.jpg
+    │   │   └── 📄 1.jpg
+    │   └── 📁 Examen tp2025/
+    │       ├── 📄 4.jpg
+    │       ├── 📄 3.jpg
+    │       ├── 📄 2.jpg
+    │       └── 📄 1.jpg
+    ├── 📁 Tp1/
+    │   ├── 📄 Questions de cour TP N°01.pdf
+    │   └── 📄 Démonstration TP°01.jpg
+    └── 📁 Tp2/
+        ├── 📄 IMG20250319214053.jpg
+        └── 📄 IMG20250319214104.jpg
+
+═════════════════════════════════════
+  Fin du fichier · Transfert de matière TDM
+═════════════════════════════════════

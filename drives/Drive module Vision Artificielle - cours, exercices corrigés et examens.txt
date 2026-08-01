@@ -1,0 +1,132 @@
+📚 MODULE : Vision Artificielle                       
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Vision Artificielle.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Vision Artificielle/
+├── 🔗📁 Vision Artificielle/  (raccourci)
+│   ├── 📁 Projets/
+│   │   ├── 📄 Énoncé Projet Vision (2018-19).pdf
+│   │   ├── 📄 Projet Vision (2016-17).zip
+│   │   ├── 📄 Projet Vision (2017-18).rar
+│   │   └── 📄 Énoncé Projet Vision (2017-18).pdf
+│   ├── 📁 Séries du TP _ Solutions/
+│   │   ├── 📄 OpenCV v2 (Manuel).pdf
+│   │   ├── 📄 Séries du TP.pdf
+│   │   ├── 📄 Les étapes OpenCV.pdf
+│   │   └── 📁 Solutions/
+│   │       ├── 📄 TP 08 - Lire et écrire des flux vidéo.pdf
+│   │       ├── 📄 TP 07 - La couleur et La conversion.pdf
+│   │       ├── 📄 TP 06 - Filtres Morphologiques.pdf
+│   │       ├── 📄 TP 05 - Filtres de Convolution.pdf
+│   │       ├── 📄 TP 04 - Binarisation _ Seuillage.pdf
+│   │       ├── 📄 TP 03 (2).pdf
+│   │       ├── 📄 TP 03 (1).pdf
+│   │       ├── 📄 TP 02.pdf
+│   │       └── 📄 TP 01.pdf
+│   ├── 📁 Interrogations et examens/
+│   │   ├── 📄 Examen VISION (SII, 2017-18).pdf
+│   │   ├── 📄 Examen VISION (SII, 2018-19).pdf
+│   │   ├── 📄 Interrogation VISION (SII, 2013-14).pdf
+│   │   ├── 📄 Interrogation VISION (SII, 2011-12).pdf
+│   │   ├── 📄 Rattrapage VISION (SII, 2010-11).pdf
+│   │   ├── 📄 Examen VISION + Corr (SII, 2016-17).pdf
+│   │   ├── 📄 Examen VISION + Corr (SII, 2013-14).pdf
+│   │   ├── 📄 Examen VISION  + Corr (SII, 2015-16).pdf
+│   │   ├── 📄 Examen VISION (SII, 2011-12).pdf
+│   │   ├── 📄 Examen VISION + Corr (SII, 2012-13).pdf
+│   │   └── 📄 Examen VISION (SII, 2014-15).pdf
+│   └── 📁 Cours/
+│       ├── 📄 Résumé VISION (Cahier).pdf
+│       ├── 📄 Chapitre 02.pdf
+│       ├── 📄 Chapitre 01.pdf
+│       ├── 📄 Chapitre 08.pdf
+│       ├── 📄 Chapitre 06.pdf
+│       ├── 📄 Chapitre 07.pdf
+│       ├── 📄 Chapitre 05.pdf
+│       ├── 📄 Chapitre 04.pdf
+│       └── 📄 Chapitre 03.pdf
+├── 🔗📁 vision artificielle/  (raccourci)
+│   ├── 📄 va cours.pdf
+│   └── 📄 VA TD.pdf
+├── 🔗📁 9# VISION ARTIFICIELLE Mme SOUAG/  (raccourci)
+│   ├── 📄 Dr BOURIACHI Fares Vision par ordinateur trafic urbain .pptx
+│   ├── 📁 examens/
+│   │   ├── 📄 examen SOUAG.pdf
+│   │   ├── 📄 examen 2020.pdf
+│   │   └── 📁 autres/
+│   │       ├── 📄 9.jpg
+│   │       ├── 📄 8.jpg
+│   │       ├── 📄 7.jpg
+│   │       ├── 📄 6.jpg
+│   │       ├── 📄 4.jpg
+│   │       ├── 📄 5.jpg
+│   │       ├── 📄 3.jpg
+│   │       ├── 📄 11.jpg
+│   │       ├── 📄 2.jpg
+│   │       ├── 📄 10.jpg
+│   │       ├── 📄 1.jpg
+│   │       └── 📄 12.jpg
+│   ├── 📁 SERIE D EXERCICES/
+│   │   └── 📄 SERIE D EXERCICES.pdf
+│   └── 📁 cours/
+│       ├── 📄 tt le cours+exercices.pdf
+│       ├── 📄 documents.pdf
+│       ├── 📄 CHAPITRE III ANALYSE DE MOUVEMENT.pdf
+│       └── 📄 CHAPITRE I Transformation géométriques 2D et 3D.pdf
+└── 🔗📁 Vision Artificielle/  (raccourci)
+    ├── 📁 Séries du TP & Solutions/
+    │   ├── 📄 OpenCV v2 (Manuel).pdf
+    │   ├── 📄 Séries du TP.pdf
+    │   ├── 📄 Les étapes OpenCV.pdf
+    │   └── 📁 Solutions/
+    │       ├── 📄 TP 08 - Lire et écrire des flux vidéo.pdf
+    │       ├── 📄 TP 07 - La couleur et La conversion.pdf
+    │       ├── 📄 TP 06 - Filtres Morphologiques.pdf
+    │       ├── 📄 TP 05 - Filtres de Convolution.pdf
+    │       ├── 📄 TP 04 - Binarisation & Seuillage.pdf
+    │       ├── 📄 TP 03 (2).pdf
+    │       ├── 📄 TP 03 (1).pdf
+    │       ├── 📄 TP 02.pdf
+    │       └── 📄 TP 01.pdf
+    ├── 📁 Projets/
+    │   ├── 📄 Énoncé Projet Vision (2018-19).pdf
+    │   ├── 📄 Projet Vision (2016-17).zip
+    │   ├── 📄 Projet Vision (2017-18).rar
+    │   └── 📄 Énoncé Projet Vision (2017-18).pdf
+    ├── 📁 Interrogations et examens/
+    │   ├── 📄 Examen VISION (SII, 2017-18).pdf
+    │   ├── 📄 Examen VISION (SII, 2018-19).pdf
+    │   ├── 📄 Interrogation VISION (SII, 2013-14).pdf
+    │   ├── 📄 Interrogation VISION (SII, 2011-12).pdf
+    │   ├── 📄 Rattrapage VISION (SII, 2010-11).pdf
+    │   ├── 📄 Examen VISION + Corr (SII, 2016-17).pdf
+    │   ├── 📄 Examen VISION + Corr (SII, 2013-14).pdf
+    │   ├── 📄 Examen VISION  + Corr (SII, 2015-16).pdf
+    │   ├── 📄 Examen VISION (SII, 2011-12).pdf
+    │   ├── 📄 Examen VISION + Corr (SII, 2012-13).pdf
+    │   └── 📄 Examen VISION (SII, 2014-15).pdf
+    └── 📁 Cours/
+        ├── 📄 Résumé VISION (Cahier).pdf
+        ├── 📄 Chapitre 02.pdf
+        ├── 📄 Chapitre 01.pdf
+        ├── 📄 Chapitre 08.pdf
+        ├── 📄 Chapitre 06.pdf
+        ├── 📄 Chapitre 07.pdf
+        ├── 📄 Chapitre 05.pdf
+        ├── 📄 Chapitre 04.pdf
+        └── 📄 Chapitre 03.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Vision Artificielle
+═════════════════════════════════════

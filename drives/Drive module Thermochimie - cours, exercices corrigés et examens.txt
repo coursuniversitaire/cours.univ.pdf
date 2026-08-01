@@ -1,0 +1,48 @@
+📚 MODULE : Thermochimie                              
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Thermochimie.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Thermochimie/
+├── 📁 TD & Exercices/
+│   ├── 📄 Exercices TD Thermochimie Applications Second Principe Entropie Cuivre Iode Reaction HCl
+│   ├── 📄 Exercices TD Chimie generale II avancement combustion glucose enthalpie Thermochimie
+│   ├── 📄 EXERCICES CORRIGES DE THERMOCHIMIE
+│   ├── 📄 Exercices TD Thermochimie Calcul Constante Gaz Parfaits et Applications
+│   ├── 📄 Exercices TD Thermochimie calcul enthalpie formation HI et combustion ethanol
+│   ├── 📄 Corrigé Chimie Générale II Exercices SMP S2 2013 2014 Thermochimie
+│   ├── 📄 Exercices TD Chimie generale II Serie1 Diagrammes Hess et Avancement Thermochimie
+│   ├── 📄 Corrigé Thermochimie SMP SMC S1 Exercices Série 2
+│   ├── 📄 Exercices TD Chimie generale II avancement combustion glucose enthalpie Thermochimie
+│   ├── 📄 Examen Chimie Generale II Serie 1 SMP SMC 2013 2014 Thermochimie
+│   ├── 📄 Exercices TD Thermochimie Serie 2 Calculs Avancement et Combustion Glucose Cire
+│   ├── 📄 Exercices TD Chimie Generale Thermochimie Semestre 1
+│   ├── 📄 Exercices TD Thermochimie Calculs enthalpie eau ethanol methane
+│   ├── 📄 Exercices TD Thermochimie Applications Second Principe Entropie Cuivre Iode Reaction HCl
+│   ├── 📄 Exercices TD Thermochimie variables intensives extensives et combustion butane
+│   └── 📄 Exercices TD Thermochimie Equilibres chimiques et dissociation gaz
+├── 📁 Cours/
+│   ├── 📄 Chapitre 2 Premier principe thermodynamique fonctions U H et chaleurs de reaction Thermochimie
+│   ├── 📄  chapitre 3 thermochimie principe Entropie et Enthalpie Libre
+│   └── 📄 Cours Thermochimie SMC Pr EL JAZOULI 2014 2015
+└── 📁 Examens Corrigées/
+    ├── 📄 Examen thermochimie fac sciences Oujda 2010 2011 detente gaz parfait
+    ├── 📄 Exercices TD Thermochimie et Combustion Methanol et Methane
+    ├── 📄 Thermochimie et enthalpie formation reaction equilibre PbCO3 PbO CO2
+    ├── 📄 Examen thermochimie fac sciences Oujda 2010 2011 detente gaz parfait
+    ├── 📄 Examen Thermochimie SM Semestre 2 Analyse Complet
+    └── 📄 Examens thermochimie FSO.rar
+
+═════════════════════════════════════
+  Fin du fichier · Thermochimie
+═════════════════════════════════════

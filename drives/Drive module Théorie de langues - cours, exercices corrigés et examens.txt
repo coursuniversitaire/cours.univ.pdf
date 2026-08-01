@@ -1,0 +1,283 @@
+📚 MODULE : Théorie de langues                        
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Théorie de langues.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Théorie de langues/
+├── 📄 Drive module Théorie de langues  - cours, exercices corrigés et examens.txt
+├── 🔗📁 th de langage/  (raccourci)
+│   ├── 📁 Cours/
+│   │   ├── 📄 chapitre2.pdf
+│   │   ├── 📄 Cours_ Theorie des langages et compilation.pdf
+│   │   ├── 📄 Cours.pdf
+│   │   ├── 📄 théorie de language.pdf
+│   │   ├── 📄 chapitre1.pdf
+│   │   ├── 📄 Theorie de langage.pdf
+│   │   └── 📄 compilation.pdf
+│   ├── 📁 EXM/
+│   │   ├── 📄 controle2Solution.pdf
+│   │   ├── 📄 Controle1Solution.pdf
+│   │   ├── 📄 Theorie des langages examens.pdf
+│   │   ├── 📄 exam Compilation.pdf
+│   │   └── 📄 EXAMENS DE THEORIE DES LANGAGES.pdf
+│   └── 📁 TD/
+│       ├── 📄 TD.docx
+│       ├── 📄 TD1-1.pdf
+│       ├── 📄 td2.1.pdf
+│       ├── 📄 SolutionTD2.1.pdf
+│       ├── 📄 ResteSolutionTD1.pdf
+│       ├── 📄 td s5.pdf
+│       ├── 📄 Exercice1TD1.pdf
+│       └── 📄 TD.pdf
+├── 🔗📁 THL/  (raccourci)
+│   ├── 📁 TESTS ET EXAMENS/
+│   │   ├── 📄 Examen-THL-USTHB-2010 + corrigé.pdf
+│   │   ├── 📄 2 TEST-THL-USTHB avec corrigés.pdf
+│   │   └── 📄 Test+examen-corrigé-THL.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 TL_Corrige-TD1-2.pdf
+│   │   ├── 📄 ThL_Sol-serie2_2016.pdf
+│   │   ├── 📄 ThL_Sol-serie1_2015.pdf
+│   │   ├── 📄 ThL_Sol-serie1_2014.pdf
+│   │   ├── 📄 ThL_Sol-serie2_2015.pdf
+│   │   ├── 📄 ThL_Sol-serie2_2014.pdf
+│   │   ├── 📄 ThL_serie2_2015.pdf
+│   │   ├── 📄 ThL_serie2_2014.pdf
+│   │   ├── 📄 ThL_serie1_2016.pdf
+│   │   ├── 📄 ThL_serie1_2015.pdf
+│   │   ├── 📄 ThL_serie2_2016.pdf
+│   │   ├── 📄 ThL_Sol-serie1_2016.pdf
+│   │   ├── 📄 ThL_serie1_2014.pdf
+│   │   ├── 📄 Exos-automates-à-Pile.pdf
+│   │   ├── 📄 Corrigé-TD-THL-2.pdf.pdf
+│   │   └── 📄 Corrigé-TD-THL-1.pdf
+│   ├── 📁 EXAMENS/
+│   │   ├── 📄 mi-2an15-ratr-the_lang14.pdf
+│   │   ├── 📄 mi-2an13-ctrl_con1-thl15.pdf
+│   │   ├── 📄 mi-2an15-ratr-theorie_lang16.pdf
+│   │   ├── 📄 mi-2an-exam-theo_lang1.jpg
+│   │   ├── 📄 mi-2an13-ctrl_con1-thl16.pdf
+│   │   ├── 📄 mi-2an-emd-the_lang15.pdf
+│   │   ├── 📄 mi-2an15-emd-the_lang16.pdf
+│   │   ├── 📄 mi-2an15-ratr-theorie_lang15.pdf
+│   │   └── 📄 mi-2an-emd-thl3.pdf.pdf
+│   └── 📁 COURS/
+│       ├── 📄 Introduction (Mr Hemimed).ppsx
+│       ├── 📄 mi2an_cours-theorie_langages.pdf
+│       ├── 📄 theorie_des_langages.ppt
+│       └── 📄 COURS_THL_TOUIL.pdf
+├── 🔗📁 th de langage/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 📄 TD 3 Automates et Grammaires
+├── 📄 Exercices  Automates  DS  INFO  3  Polytech  Grenoble
+├── 📄 TD 1 Chemins dans un graphe
+├── 📄 TD Automates Finis TL / Licence 2ème année
+├── 📄 Exercices Automates Minimisation
+├── 📄 TD 2 Analyse descendante LL1
+├── 📄 TD 11 Les grammaires SLR
+├── 📄 Exercices Corrige Abrege Serie 2
+├── 📄 exercices Langages Serie 1
+├── 📄 TP  Grammaires attribuées un compilateur optimisant
+├── 📄 Cours Théorie des langages  Langages et grammaires
+├── 📄 Cours Langages et Compilation Analyse descendante prédictive
+├── 📄 TD 3  Minimisation des automates et Résiduels
+├── 📄 CORRIGÉ ABREGÉ DE LA SÉRIE D’EXERCICES n o 2 de ThL
+├── 📄 exercices Minimisation et dénombrement automate
+├── 📄 Exercices  Automates et cloture des langages reconnaissables
+├── 📄 TP  Automate  Motifs  Texte
+├── 📄 TD 1  Graphes
+├── 📄 TD 6 Generation de code MVAP
+├── 📄 Examen Theorie Langages Rattapage Informatique
+├── 📄 Série TD4 Grammaires
+├── 📄 Cours Lex Yacc
+├── 📄 CORRIGÉ ABRÉGÉ DE LA SÉRIE D’EXERCICES n o 1 de ThL
+├── 📄 Exercices Langages et Automates
+├── 📄 TD2 Automates Finis
+├── 📄 TD 3  Automates Deterministes Et Non Deterministes
+├── 📄 Exercices Theorie des Langages 1ere page
+├── 📄 Exercices Minimisation et Dénombrement Automates
+├── 📄 Cours Théorie des langages Support de cours et TD
+├── 📄 Cours Analyse Semantique
+├── 📄 TD  1  Automatique
+├── 📄 Théorie des langages  SÉRIE D’EXERCICES n o 1
+├── 📄 TD 5 Les automates Suite
+├── 📄 TD 2  Automate Finis
+├── 📄 TD 1  Langages Formels
+├── 📄 Cours Les Expressions Régulières
+├── 📄 Cours Compilation Langages et compilation L3 informatique
+├── 📄 Exercices Langages Irregulier
+├── 📄 TD6 Analyse lexicale
+├── 📄 Exercices Automates d'Arbre
+├── 📄 Exercices Langages  Automates
+├── 📄 Solution TD 1 Automates finis et expressions  rationnelles
+├── 📄 Cours Minimisation des Automates Finis Déterministes
+├── 📄 TD 4 Grammaire L3 Langages et Compilation
+├── 📄 Feuille de TD no 1 : Mots, Langages, Automates
+├── 📄 TD 2 Langages de Programmation
+├── 📄 TD 8  Les grammaires LL
+├── 📄 Examen Logique Mathematique Licence Informatique details
+├── 📄 Exercices  Serie  d exercices  n 3
+├── 📄 Examen Informatique Theorie Langages  L2 Details
+├── 📄 TD Parsing SLR1 Exercices
+├── 📄 Exercices Option Informatique MP Lycee Cezanne
+├── 📄 TD 3 Langages de Programmation
+├── 📄 TD  Automate et Grammaire
+├── 📄 TD 3 Automates Finis et Expressions Régulières
+├── 📄 Sujet Automate et Grammaires
+├── 📄 TP 1 Redimensionnement d'un tableau
+├── 📄 Cours Analyseurs LR
+├── 📄 TD 6  Automate  fini  automate
+├── 📄 Exercices  Automates  Finis
+├── 📄 Exercices Automates en Ligne
+├── 📄 TD Langages et compilation L3 informatique
+├── 📄 Cours Analyse descendante
+├── 📄 Cours Automates avec Epsilon Transitions
+├── 📄 Examen INFO3 A&G Automates
+├── 📄 TD 2 Automate fini non deterministe
+├── 📄 Exercices Automate Finis
+├── 📄 Cours Théorie du Langage et Compilation
+├── 📄 Exercices Automate Fini Compilation Langage
+├── 📄 Cours Grammaires et derivations
+├── 📄 Cours Langage et Compilation
+├── 📄 TD 1 Grammaires algebriques
+├── 📄 TD 1 Automate fini déterministe
+├── 📄 Exercices Langages et Automates
+├── 📄 Exercices Langages Regulliers
+├── 📄 Exercices Automate Fini Non Deterministe
+├── 📄 TD Automates finis non déterministes
+├── 📄 TD N9 Grammaires LL suite
+├── 📄 exercices Tour d'exposants d'Ackermann
+├── 📄 TD  Automates Finis et Compilation
+├── 📄 TD  Grammaire Formelle  Ambiguité
+├── 📄 TD 10 Analyse ascendante
+├── 📄 Cours Compilation Analyse Lexicale et Syntaxique
+├── 📄 Examen INF105 Theorie des langages
+├── 📄 Cours Analyse Lexicale Flex
+├── 📄 Exercices Automates finis et expressions rationnelles
+├── 📄 Exercices Langages  sur Alphabet
+├── 📄 TD 12 Les grammaires SLR, LR, LALR
+├── 📄 TD  Arbres  De  Derivation  Grammaire  Ambigue
+├── 📄 Exercices Compilation Luc Brun
+├── 📄 Correction - TD 2 : Automates Finis
+├── 📄 TD 1  Automate Langage Formel
+├── 📄 Exercices Automate Fini  L3  INF6ACT
+├── 📄 TD Langages Formels  Frederic Gruau
+├── 📄 TD 1  Automates
+├── 📄 Exercices Preuves de correction partielle de programmes
+├── 📄 TD 4 Les automates
+├── 📄 TD 5 Analyse syntaxique grammaires attribuees et code MVAP
+├── 📄 TD Grammatiques sans contexte
+├── 📄 Exercices Langages Automates Non determinisme Grammaires
+├── 📄 Exercices Serie d Exercices n 3
+├── 📄 TD 3 Les grammaires Suite
+├── 📄 Solution - TD Feuille 2 - Automates finis et expressions  rationnelles
+├── 📄 TD  Automates en ligne
+├── 📄 Exercices Automate Fini
+├── 📄 TD 7 Automates a piles
+├── 📄 Cours Analyse Syntaxique
+├── 📄 TD 1 Langages réguliers et expressions régulières
+├── 📄 TD 1 Automate Intelligence Artificielle
+├── 📄 Examen Automates d'Arbre
+├── 📄 Examen Informatique Theorie des langages
+├── 📄 TD 3 Langages de Programmation
+├── 📄 TD2 corrigé Automates Finis
+├── 📄 TD 1  Mots Langages Automates
+├── 📄 TD DS preuve de correction de programme
+├── 📄 Exercices  Preuves de correction partielle de programmes
+├── 📄 TP Décalage à droite multiplication par 2 en binaire
+├── 📄 TD 4 Automates de Programmation
+├── 📄 Exercices Egalite de tableaux avec sentinelle
+├── 📄 Cours DAW  Ouadfel Salima
+├── 📄 TD 7 Code MVAP pour des fonctions
+├── 📄 TD2 Langages de Programmation
+├── 📄 Exercices Automate et Grammaire
+├── 📄 Cours Automate 7
+├── 📄 Exercices Automate Finis Deterministes
+├── 📄 TD 4 Automates finis langage L
+├── 📄 Exercices INFO3 A&G DS
+├── 📄 TD 9 Analyse LL
+├── 📄 Exercices Langages et Compilation  Grammaires formelles
+├── 📄 Exercices Automates Langages details
+├── 📄 TD Parsing LL1
+├── 📄 TD 7 Automates à piles
+├── 📄 Exercices  Egalite de Tableaux avec Sentinelle
+├── 📄 TD 2 Les grammaires
+├── 📄 TD 3 Grammaire
+├── 📄 Cours Theorie des langages Langages grammaires
+├── 📄 Cours Lex Analyseur Lexical
+├── 📄 Cours Automates Finis Non Déterministes
+├── 📄 Correction - TD 4 : Les grammaires
+├── 📄 TD1 Langages et expressions régulières
+├── 📄 Cours Compilation Langages de programmation
+├── 📄 Cours Langages et Compilation Analyse Syntaxique
+├── 📄 Exercices  Redimensionnement d'un tableau
+├── 📄 Examen Theorie des Langages Informatique
+├── 📄 TD4 Grammaires Théorie des langages
+├── 📄 Exercices Autommates et Grammaires
+├── 📄 Exercices  Automates et Grammaires
+├── 📄 Cours Langages et Compilation Analyse syntaxique ascendante
+├── 📄 TD 6 NF11 Automate fini automate mots clés
+├── 📄 Exercices Expressions régulières
+└── 📁 corr/
+    ├── 📄 Théorie des Langages Informatique
+    ├── 📄 Examen 7 Automates et Grammaires.pdf
+    ├── 📄 Serie d'Exercices  n 2  Informatique  2015 2016.pdf
+    ├── 📄 Examen 8 Automates et Grammaires.pdf
+    ├── 📄 Langages et Automates Examen du 28 mai 2010.pdf
+    ├── 📄 Série d'exercices n°1 Théorie des langages.pdf
+    ├── 📄 Logarithme en base B.pdf
+    ├── 📄 Contrôle 6 Automates et Grammaires.pdf
+    ├── 📄 Automate et Grammaires Exercice 1 Fonctions tabulées en bijection.pdf
+    ├── 📄 Examen 1 Langages et Automates.pdf
+    ├── 📄 Informatique Theorie des Langages 2019.pdf
+    ├── 📄 ING1 Théorie des Langages Plaques d'immatriculation
+    ├── 📄 Sujet 5 Automates et Grammaires.pdf
+    ├── 📄 Corrigé abrégé de la Série n 3 de Théorie des Langages.pdf
+    ├── 📄 Corrige de la Série n 1 de Theorie des langages.pdf
+    ├── 📄 Controle 4 Automates et Grammaires.pdf
+    ├── 📄 Theorie des Langages EMD Mars 2017.pdf
+    ├── 📄 Serie d Exercices Theorie des Langages
+    ├── 📄 Logarithme en base B.pdf
+    ├── 📄 Langages et Automates Examen du 5 janvier 2009.pdf
+    ├── 📄 Examen de rattrapage Théorie des Langages  2019.pdf
+    ├── 📄 Theorie des langages Notes de cours Mai 2003.pdf
+    ├── 📄 Théorie des langages.pdf
+    ├── 📄 Théorie des langages.pdf
+    ├── 📄 Corrigé de la Série n° 1 de Théorie des langages.pdf
+    ├── 📄 Examen 9 Automates et Grammaires.pdf
+    ├── 📄 Theorie des Langages Série 3.pdf
+    ├── 📄 Theorie des langages Partie 1 Langages et grammaires.pdf
+    ├── 📄 UMMTO L2 Informatique Theorie des Langages Rattrapage 2018 Examen.pdf
+    ├── 📄 Theorie des Langages  Examen  2015.pdf
+    ├── 📄 Serie d'exercices  n° 2 Theorie des Langages.pdf
+    ├── 📄 Automates et Grammaires  Exercice 1 Grammaires des identificateurs.txt
+    ├── 📄 Langages et Automates Partiel du 8 mars 2011.pdf
+    ├── 📄 Examen n2 Automates et Grammaires.pdf
+    ├── 📄 Automate et Grammaire Exercice 1.pdf
+    ├── 📄 Révision des définitions sur les langages.pdf
+    ├── 📄 Serie d'exercices n 1.pdf
+    ├── 📄 Théorie des Langages série n 1.pdf
+    ├── 📄 Informatique Théorie des Langages EMD Fevrier 2016.pdf
+    ├── 📄 Automates  Finis  Exercices.pdf
+    ├── 📄 Examen 3 Automates et Grammaires.pdf
+    ├── 📄 Correction Série 1 Theorie des langages.pdf
+    ├── 📄 Théorie des langages Examen 1.pdf
+    ├── 📄 Automate  fini  Théorie des  langages
+    ├── 📄 Théorie des langages .pdf
+    ├── 📄 Langages et Automates Examen.pdf
+    ├── 📄 Grammaire Langages Formels Exercice 3.txt
+    └── 📁 Untitled folder/
+
+═════════════════════════════════════
+  Fin du fichier · Théorie de langues
+═════════════════════════════════════

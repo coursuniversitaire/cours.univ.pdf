@@ -1,0 +1,1185 @@
+📚 MODULE : VHDL et FPGA                              
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module VHDL et FPGA.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 VHDL et FPGA/
+├── 🔗📁 FPGA VHDL/  (raccourci)
+│   ├── 📄 Chapitre4.pdf
+│   ├── 📄 Chapitre2.pdf
+│   ├── 📄 Chapitre1.pdf
+│   ├── 📄 Chapitre3.pdf
+│   ├── 📄 TP_3.pdf
+│   ├── 📄 TP_2.pdf
+│   ├── 📄 Orhan Gazi - A Tutorial Introduction to VHDL Programming-Springer Singapore (2019).pdf
+│   ├── 📄 Vivado_tutorial.pdf
+│   ├── 📄 ug937-vivado-design-suite-simulation-tutorial.pdf
+│   ├── 📄 TP_1.pdf
+│   ├── 📁 TP2/
+│   │   ├── 📄 TP2.txt
+│   │   ├── 📄 TP2 3bit.txt
+│   │   ├── 📄 TP2 tb 3bit.txt
+│   │   └── 📄 TP2 tb.txt
+│   └── 📁 exam FPGA/
+│       ├── 📄 examen_11.1.2015.pdf
+│       ├── 📄 examen_2013.pdf
+│       ├── 📄 152571127445312.pdf
+│       ├── 📄 152571127445743.pdf
+│       ├── 📄 152571137741451.pdf
+│       ├── 📄 15257112744461.pdf
+│       └── 📄 152571127446484.pdf
+├── 🔗📁 ENA/  (raccourci)
+│   ├── 📄 add1bit.rar
+│   ├── 📄 Cor_Ex_final19_20.pdf
+│   ├── 📄 exafinal_M1_2019_20.pdf
+│   ├── 📄 TP3ena.pdf
+│   ├── 📄 TP2ena.pdf
+│   ├── 📄 TP1ena.pdf
+│   ├── 📄 chapitre_5_TD.pdf
+│   ├── 📄 chapitre_4.pdf
+│   ├── 📄 chapitre_3.pdf
+│   ├── 📄 chapitre_2.pdf
+│   └── 📄 chapitre_1.pdf
+├── 🔗📁 FPGA/  (raccourci)
+│   ├── 📄 Important résumé
+│   ├── 📄 fpga examen rt.pdf
+│   ├── 📄 Exercices_suppl.docx
+│   ├── 📄 DEVOIR DE MAISON.docx
+│   ├── 📄 TUTORIEL SUR VHDL.pdf
+│   ├── 📄 slice.docx
+│   ├── 📁 tp/
+│   │   ├── 📄 Correction test ESE.pdf
+│   │   ├── 📄 Tutoriel-_SE1.pdf
+│   │   ├── 📄 TP 4 ESE.pdf
+│   │   ├── 📄 TP 3 ESE.pdf
+│   │   └── 📄 TP 2.pdf
+│   ├── 📁 td/
+│   │   ├── 📄 Corrigé
+│   │   ├── 📄 SERIE_1.pdf
+│   │   └── 📄 TD2_2022.pdf
+│   └── 📁 cours/
+│       ├── 📄 cours3_suite.pdf
+│       ├── 📄 cours3.pdf
+│       ├── 📄 modélisation des circuits numériques.pdf
+│       ├── 📄 Cours1.pdf
+│       └── 📄 Cours_systemes_embarques_2.pdf
+├── 🔗📁 VHDL & FPGA/  (raccourci)
+│   ├── 📄 .DS_Store
+│   ├── 📁 compte rendu tp/
+│   │   ├── 📄 FPGA-TP5-KORKUTOVIC-ZOUAOUI.docx
+│   │   ├── 📄 FPGA-TP4.docx
+│   │   ├── 📄 FPGA-TP3 (2).docx
+│   │   ├── 📄 FPGA-TP2-ZOUAOUI-KORKUTOVIC.docx
+│   │   └── 📁 TPs/
+│   │       ├── 📄 Lab 1 - Système de dévellopement Xilinx Nexsys2.docx
+│   │       ├── 📄 Lab 2 -Introduction à VHDL 1.doc
+│   │       └── 📄 Lab 3 - Bascule D et Registres à décalage.docx
+│   ├── 📁 tp autres/
+│   │   ├── 📄 tp_vhdl_isi.pdf
+│   │   ├── 📄 LO11_TP_2013.pdf
+│   │   ├── 📄 in-ele106_cours_tp.pdf
+│   │   ├── 📄 ele106_cours_tp.pdf
+│   │   ├── 📄 cours-fpga-tayari-vf-1.pdf
+│   │   ├── 📄 vhdl.pdf
+│   │   ├── 📄 TP_SIN_2018_2017.pdf
+│   │   ├── 📄 EN325_SEQ_TP.pdf
+│   │   ├── 📄 in-vhdl-intro.pdf
+│   │   ├── 📄 vhdl_tp0.pdf
+│   │   ├── 📄 TP1_VHDL.pdf
+│   │   ├── 📄 TP1.pdf
+│   │   ├── 📄 16.VHDL.Processus.pdf
+│   │   ├── 📄 TP_logique-ERII4.pdf
+│   │   ├── 📄 TP_EN101.pdf
+│   │   ├── 📄 TP5.pdf
+│   │   ├── 📄 cours-vhdl-10-partie6-combinatoire-sequentiel.pdf
+│   │   ├── 📄 tp2_ing_2015.pdf
+│   │   ├── 📄 Sans titre.png
+│   │   ├── 📄 15.VHDL.Introduction.pdf
+│   │   ├── 📄 labo5_2013.pdf
+│   │   ├── 📄 tp1_ing_2015.pdf
+│   │   ├── 📄 INF1500_TD2_HIV11.pdf
+│   │   ├── 📄 introduction.pdf
+│   │   ├── 📄 in-tp1_ing_2015.pdf
+│   │   ├── 📄 7segments_vhdl.pdf
+│   │   ├── 📁 prtp3/
+│   │   │   ├── 📄 TP-3-FPGA (1).docx
+│   │   │   ├── 📄 TP ISE 1 2 3 V2.1 .pdf
+│   │   │   ├── 📄 Programmation_VHD.pdf
+│   │   │   ├── 📄 MCENSL1_2011.pdf
+│   │   │   ├── 📄 chap5.pdf
+│   │   │   ├── 📄 theocircannexeI.pdf
+│   │   │   ├── 📄 tp3-D-fpga.docx
+│   │   │   ├── 📄 chap1.pdf
+│   │   │   └── 📄 Manip-Seq-Bascule-anti-rebond.i1355.pdf
+│   │   └── 📁 pr tp2/
+│   │       ├── 📄 1325935.ppt
+│   │       ├── 📄 TD3 VHDL Compteurs et registres — Wikilivres.pdf
+│   │       ├── 📄 Registre a decalage, avec bascule D(VHDL).pdf
+│   │       ├── 📄 prgrm halfadder dataflow.png
+│   │       ├── 📄 prgrm full adder.png
+│   │       ├── 📄 fulladder.png
+│   │       ├── 📄 halfadderdataflow.png
+│   │       ├── 📄 or22.png
+│   │       ├── 📄 Nouveau Document Microsoft Office Word.docx
+│   │       ├── 📄 halfadder.png
+│   │       └── 📄 halfadder on full.png
+│   ├── 📁 Cours/
+│   │   ├── 📄 VHDL.pdf
+│   │   ├── 📄 Cours_complet_PLD(cours1).pdf
+│   │   ├── 📄 Cours VHDL FPGA 2.pdf
+│   │   ├── 📄 CLP_FPGA(cours1).ppt
+│   │   ├── 📄 2013_SE3_S4_Implementation.pdf
+│   │   ├── 📄 coursvhdl 4éme année.ppt
+│   │   ├── 📄 cours-VHDL.ppt
+│   │   └── 📄 VHDL_FPGA.pdf
+│   └── 📁 TDs/
+│       ├── 📄 TD-FPGA-exo5serie2jusqu'a%20la%20fin[1].pdf
+│       ├── 📄 TD fpga G1.pdf
+│       ├── 📄 TD13 FPGA.doc
+│       └── 📄 TD11 FPGA (3).doc
+├── 📄 exercices corrigés fpga.pdf
+├── 🔗📁 FPGA/  (raccourci)
+│   ├── 📁 TP/
+│   │   ├── 📄 TP3 FPGA.pdf
+│   │   ├── 📄 ug334 carte spartan  AN.pdf
+│   │   ├── 📄 TP N°2 Réseau Logiques Programmables.pdf
+│   │   └── 📁 HABBI/
+│   │       └── 📁 FPGA projects/
+│   │           ├── 📁 UAL/
+│   │           │   ├── 📁 _xmsgs/
+│   │           │   └── 📁 iseconfig/
+│   │           ├── 📁 TP_COMP/
+│   │           │   ├── 📄 comp1.bld
+│   │           │   ├── 📄 comp1.cmd_log
+│   │           │   ├── 📄 comp1.ngc
+│   │           │   ├── 📄 comp1.lso
+│   │           │   ├── 📄 comp1.ncd
+│   │           │   ├── 📄 comp1.bit
+│   │           │   ├── 📄 comp1.bgn
+│   │           │   ├── 📄 comp1.drc
+│   │           │   ├── 📁 _ngo/
+│   │           │   ├── 📁 _xmsgs/
+│   │           │   ├── 📁 xst/
+│   │           │   │   ├── 📁 work/
+│   │           │   │   │   └── 📁 sub00/
+│   │           │   │   ├── 📁 projnav.tmp/
+│   │           │   │   └── 📁 dump.xst/
+│   │           │   │       └── 📁 comp1.prj/
+│   │           │   │           └── 📁 ngx/
+│   │           │   │               ├── 📁 notopt/
+│   │           │   │               └── 📁 opt/
+│   │           │   ├── 📁 xlnx_auto_0_xdb/
+│   │           │   ├── 📁 planAhead_run_2/
+│   │           │   │   └── 📁 TP_COMP.data/
+│   │           │   │       ├── 📁 wt/
+│   │           │   │       ├── 📁 constrs_1/
+│   │           │   │       ├── 📁 sim_1/
+│   │           │   │       └── 📁 sources_1/
+│   │           │   ├── 📁 planAhead_run_1/
+│   │           │   │   └── 📁 TP_COMP.data/
+│   │           │   │       ├── 📁 wt/
+│   │           │   │       ├── 📁 constrs_1/
+│   │           │   │       ├── 📁 sources_1/
+│   │           │   │       └── 📁 sim_1/
+│   │           │   ├── 📁 planAhead_run_4/
+│   │           │   │   └── 📁 TP_COMP.data/
+│   │           │   │       ├── 📁 wt/
+│   │           │   │       ├── 📁 sources_1/
+│   │           │   │       ├── 📁 sim_1/
+│   │           │   │       └── 📁 constrs_1/
+│   │           │   ├── 📁 planAhead_run_3/
+│   │           │   │   └── 📁 TP_COMP.data/
+│   │           │   │       ├── 📁 wt/
+│   │           │   │       ├── 📁 constrs_1/
+│   │           │   │       ├── 📁 sim_1/
+│   │           │   │       └── 📁 sources_1/
+│   │           │   ├── 📁 planAhead_run_5/
+│   │           │   │   └── 📁 TP_COMP.data/
+│   │           │   │       ├── 📁 constrs_1/
+│   │           │   │       ├── 📁 sources_1/
+│   │           │   │       ├── 📁 sim_1/
+│   │           │   │       └── 📁 wt/
+│   │           │   ├── 📁 iseconfig/
+│   │           │   └── 📁 ipcore_dir/
+│   │           ├── 📁 TP_comp1/
+│   │           │   ├── 📁 xlnx_auto_0_xdb/
+│   │           │   ├── 📁 _xmsgs/
+│   │           │   ├── 📁 planAhead_run_1/
+│   │           │   │   └── 📁 TP_comp1.data/
+│   │           │   │       ├── 📁 sources_1/
+│   │           │   │       ├── 📁 wt/
+│   │           │   │       ├── 📁 sim_1/
+│   │           │   │       └── 📁 constrs_1/
+│   │           │   ├── 📁 xst/
+│   │           │   │   ├── 📁 projnav.tmp/
+│   │           │   │   ├── 📁 dump.xst/
+│   │           │   │   │   └── 📁 comp1.prj/
+│   │           │   │   │       └── 📁 ngx/
+│   │           │   │   │           ├── 📁 opt/
+│   │           │   │   │           └── 📁 notopt/
+│   │           │   │   └── 📁 work/
+│   │           │   │       └── 📁 sub00/
+│   │           │   ├── 📁 _ngo/
+│   │           │   ├── 📁 iseconfig/
+│   │           │   └── 📁 ipcore_dir/
+│   │           ├── 📁 TP1/
+│   │           │   ├── 📄 TP1.gise
+│   │           │   ├── 📄 UntitledSchematic1.schlog
+│   │           │   ├── 📄 TP1.xise
+│   │           │   ├── 📄 testschema.schlog
+│   │           │   ├── 📄 testschema_summary.html
+│   │           │   ├── 📄 testschema.jhd
+│   │           │   ├── 📄 testschema.sch
+│   │           │   ├── 📁 _xmsgs/
+│   │           │   ├── 📁 iseconfig/
+│   │           │   └── 📁 ipcore_dir/
+│   │           ├── 📁 testcombi1/
+│   │           │   ├── 📄 testcombi1.gise
+│   │           │   ├── 📄 planAhead_pid4340.debug
+│   │           │   ├── 📄 pa.fromHdl.tcl
+│   │           │   ├── 📄 webtalk.log
+│   │           │   ├── 📄 testcombi1_envsettings.html
+│   │           │   ├── 📄 testcombi1_summary.html
+│   │           │   ├── 📄 usage_statistics_webtalk.html
+│   │           │   ├── 📄 testcombi1_summary.xml
+│   │           │   ├── 📄 testcombi1.bit
+│   │           │   ├── 📄 testcombi1_bitgen.xwbt
+│   │           │   ├── 📄 testcombi1_usage.xml
+│   │           │   ├── 📄 testcombi1.bgn
+│   │           │   ├── 📄 testcombi1.drc
+│   │           │   ├── 📄 planAhead_pid11532.debug
+│   │           │   ├── 📄 testcombi1.ut
+│   │           │   ├── 📄 testcombi1.cmd_log
+│   │           │   ├── 📄 testcombi1.twr
+│   │           │   ├── 📄 testcombi1.twx
+│   │           │   ├── 📄 testcombi1_par.xrpt
+│   │           │   ├── 📄 testcombi1.par
+│   │           │   ├── 📄 testcombi1_guide.ncd
+│   │           │   ├── 📄 testcombi1.pad
+│   │           │   ├── 📄 testcombi1.ncd
+│   │           │   ├── 📄 testcombi1.xpi
+│   │           │   ├── 📄 testcombi1.unroutes
+│   │           │   ├── 📄 testcombi1_pad.txt
+│   │           │   ├── 📄 testcombi1_pad.csv
+│   │           │   ├── 📄 testcombi1.ptwx
+│   │           │   ├── 📄 webtalk_pn.xml
+│   │           │   ├── 📄 testcombi1_map.ncd
+│   │           │   ├── 📄 testcombi1_map.xrpt
+│   │           │   ├── 📄 testcombi1_map.map
+│   │           │   ├── 📄 testcombi1_map.mrp
+│   │           │   ├── 📄 testcombi1.pcf
+│   │           │   ├── 📄 testcombi1_map.ngm
+│   │           │   ├── 📄 testcombi1.bld
+│   │           │   ├── 📄 testcombi1_ngdbuild.xrpt
+│   │           │   ├── 📄 testcombi1.ngd
+│   │           │   ├── 📄 testcombi1.stx
+│   │           │   ├── 📄 testcombi1.syr
+│   │           │   ├── 📄 testcombi1.ngr
+│   │           │   ├── 📄 testcombi1.ngc
+│   │           │   ├── 📄 testcombi1_xst.xrpt
+│   │           │   ├── 📄 testcombi1.lso
+│   │           │   ├── 📄 testcombi1_vhdl.prj
+│   │           │   ├── 📄 testcombi1.xst
+│   │           │   ├── 📄 testcombi1.prj
+│   │           │   ├── 📄 testcombi1.vhd
+│   │           │   ├── 📄 planAhead_pid11344.debug
+│   │           │   ├── 📄 testcombi1.ucf
+│   │           │   ├── 📄 planAhead_pid11184.debug
+│   │           │   ├── 📄 testcombi1.xise
+│   │           │   ├── 📄 planAhead_pid6964.debug
+│   │           │   ├── 📁 _xmsgs/
+│   │           │   ├── 📁 _ngo/
+│   │           │   ├── 📁 xst/
+│   │           │   │   ├── 📁 work/
+│   │           │   │   │   └── 📁 sub00/
+│   │           │   │   ├── 📁 dump.xst/
+│   │           │   │   │   └── 📁 testcombi1.prj/
+│   │           │   │   │       └── 📁 ngx/
+│   │           │   │   │           ├── 📁 notopt/
+│   │           │   │   │           └── 📁 opt/
+│   │           │   │   └── 📁 projnav.tmp/
+│   │           │   ├── 📁 planAhead_run_2/
+│   │           │   │   └── 📁 testcombi1.data/
+│   │           │   │       ├── 📁 sim_1/
+│   │           │   │       ├── 📁 sources_1/
+│   │           │   │       ├── 📁 wt/
+│   │           │   │       └── 📁 constrs_1/
+│   │           │   ├── 📁 xlnx_auto_0_xdb/
+│   │           │   ├── 📁 planAhead_run_1/
+│   │           │   │   └── 📁 testcombi1.data/
+│   │           │   │       ├── 📁 wt/
+│   │           │   │       ├── 📁 sources_1/
+│   │           │   │       ├── 📁 sim_1/
+│   │           │   │       └── 📁 constrs_1/
+│   │           │   ├── 📁 iseconfig/
+│   │           │   └── 📁 ipcore_dir/
+│   │           ├── 📁 sub1bit/
+│   │           │   ├── 📄 sub1bit.gise
+│   │           │   ├── 📄 sub2bits_summary.html
+│   │           │   ├── 📄 sub2bits_envsettings.html
+│   │           │   ├── 📄 webtalk.log
+│   │           │   ├── 📄 usage_statistics_webtalk.html
+│   │           │   ├── 📄 sub2bits_bitgen.xwbt
+│   │           │   ├── 📄 sub2bits_summary.xml
+│   │           │   ├── 📄 sub2bits.bgn
+│   │           │   ├── 📄 sub2bits_usage.xml
+│   │           │   ├── 📄 sub2bits.bit
+│   │           │   ├── 📄 sub2bits.drc
+│   │           │   ├── 📄 sub2bits.cmd_log
+│   │           │   ├── 📄 sub2bits.ut
+│   │           │   ├── 📄 sub2bits.twx
+│   │           │   ├── 📄 sub2bits.twr
+│   │           │   ├── 📄 sub2bits.ncd
+│   │           │   ├── 📄 sub2bits.par
+│   │           │   ├── 📄 sub2bits_pad.txt
+│   │           │   ├── 📄 sub2bits_par.xrpt
+│   │           │   ├── 📄 sub2bits.unroutes
+│   │           │   ├── 📄 sub2bits.pad
+│   │           │   ├── 📄 sub2bits.xpi
+│   │           │   ├── 📄 sub2bits_guide.ncd
+│   │           │   ├── 📄 sub2bits_pad.csv
+│   │           │   ├── 📄 sub2bits.ptwx
+│   │           │   ├── 📄 webtalk_pn.xml
+│   │           │   ├── 📄 sub2bits_map.map
+│   │           │   ├── 📄 sub2bits_map.mrp
+│   │           │   ├── 📄 sub2bits_map.xrpt
+│   │           │   ├── 📄 sub2bits_map.ncd
+│   │           │   ├── 📄 sub2bits_map.ngm
+│   │           │   ├── 📄 sub2bits.pcf
+│   │           │   ├── 📄 sub2bits.bld
+│   │           │   ├── 📄 sub2bits.ngd
+│   │           │   ├── 📄 sub2bits_ngdbuild.xrpt
+│   │           │   ├── 📄 sub2bits.stx
+│   │           │   ├── 📄 sub2bits.ngc
+│   │           │   ├── 📄 sub2bits.syr
+│   │           │   ├── 📄 sub2bits_xst.xrpt
+│   │           │   ├── 📄 sub2bits.ngr
+│   │           │   ├── 📄 sub2bits.lso
+│   │           │   ├── 📄 sub2bits_vhdl.prj
+│   │           │   ├── 📄 sub2bits.xst
+│   │           │   ├── 📄 sub2bits.prj
+│   │           │   ├── 📄 sub1bit.vhd
+│   │           │   ├── 📄 sub1bit.xise
+│   │           │   ├── 📄 sub1bit_summary.html
+│   │           │   ├── 📄 sub2bits.vhd
+│   │           │   ├── 📄 planAhead_pid12384.debug
+│   │           │   ├── 📄 sub2bits.ucf
+│   │           │   ├── 📄 pa.fromHdl.tcl
+│   │           │   ├── 📁 _ngo/
+│   │           │   ├── 📁 _xmsgs/
+│   │           │   ├── 📁 xst/
+│   │           │   │   ├── 📁 projnav.tmp/
+│   │           │   │   ├── 📁 work/
+│   │           │   │   │   └── 📁 sub00/
+│   │           │   │   ├── 📁 file graph/
+│   │           │   │   └── 📁 dump.xst/
+│   │           │   │       └── 📁 sub2bits.prj/
+│   │           │   │           └── 📁 ngx/
+│   │           │   │               ├── 📁 notopt/
+│   │           │   │               └── 📁 opt/
+│   │           │   ├── 📁 planAhead_run_1/
+│   │           │   ├── 📁 planAhead_run_2/
+│   │           │   │   └── 📁 sub1bit.data/
+│   │           │   │       ├── 📁 wt/
+│   │           │   │       ├── 📁 sources_1/
+│   │           │   │       ├── 📁 sim_1/
+│   │           │   │       └── 📁 constrs_1/
+│   │           │   ├── 📁 xlnx_auto_0_xdb/
+│   │           │   ├── 📁 iseconfig/
+│   │           │   └── 📁 ipcore_dir/
+│   │           ├── 📁 COMP2b/
+│   │           │   ├── 📄 COMP2b.gise
+│   │           │   ├── 📄 comp1_envsettings.html
+│   │           │   ├── 📄 comp1_summary.html
+│   │           │   ├── 📄 COMP2b.xise
+│   │           │   ├── 📄 test.vhd
+│   │           │   ├── 📄 commp2b_summary.html
+│   │           │   ├── 📄 webtalk.log
+│   │           │   ├── 📄 usage_statistics_webtalk.html
+│   │           │   ├── 📄 comp1.bit
+│   │           │   ├── 📄 comp1_usage.xml
+│   │           │   ├── 📄 comp1.bgn
+│   │           │   ├── 📄 comp1_summary.xml
+│   │           │   ├── 📄 comp1_bitgen.xwbt
+│   │           │   ├── 📄 comp1.drc
+│   │           │   ├── 📄 comp1.cmd_log
+│   │           │   ├── 📄 comp1.ut
+│   │           │   ├── 📄 comp1.twr
+│   │           │   ├── 📄 comp1.twx
+│   │           │   ├── 📄 comp1_guide.ncd
+│   │           │   ├── 📄 comp1_pad.txt
+│   │           │   ├── 📄 comp1.xpi
+│   │           │   ├── 📄 comp1.unroutes
+│   │           │   ├── 📄 comp1.ncd
+│   │           │   ├── 📄 comp1_par.xrpt
+│   │           │   ├── 📄 comp1.par
+│   │           │   ├── 📄 comp1.ptwx
+│   │           │   ├── 📄 comp1.pad
+│   │           │   ├── 📄 comp1_pad.csv
+│   │           │   ├── 📄 webtalk_pn.xml
+│   │           │   ├── 📄 comp1_map.ncd
+│   │           │   ├── 📄 comp1_map.mrp
+│   │           │   ├── 📄 comp1_map.xrpt
+│   │           │   ├── 📄 comp1_map.map
+│   │           │   ├── 📄 comp1.pcf
+│   │           │   ├── 📄 comp1_map.ngm
+│   │           │   ├── 📄 comp1.bld
+│   │           │   ├── 📄 comp1_ngdbuild.xrpt
+│   │           │   ├── 📄 comp1.ngd
+│   │           │   ├── 📄 comp1.stx
+│   │           │   ├── 📄 comp1_xst.xrpt
+│   │           │   ├── 📄 comp1.syr
+│   │           │   ├── 📄 comp1.ngc
+│   │           │   ├── 📄 comp1.ngr
+│   │           │   ├── 📄 comp1.lso
+│   │           │   ├── 📄 comp1_vhdl.prj
+│   │           │   ├── 📄 comp1.prj
+│   │           │   ├── 📄 comp1.xst
+│   │           │   ├── 📄 commp2b.vhd
+│   │           │   ├── 📄 planAhead_pid2424.debug
+│   │           │   ├── 📄 comp1.ucf
+│   │           │   ├── 📄 pa.fromHdl.tcl
+│   │           │   ├── 📄 planAhead_pid11628.debug
+│   │           │   ├── 📁 _xmsgs/
+│   │           │   ├── 📁 _ngo/
+│   │           │   ├── 📁 xlnx_auto_0_xdb/
+│   │           │   ├── 📁 xst/
+│   │           │   │   ├── 📁 work/
+│   │           │   │   │   └── 📁 sub00/
+│   │           │   │   ├── 📁 dump.xst/
+│   │           │   │   │   └── 📁 comp1.prj/
+│   │           │   │   │       └── 📁 ngx/
+│   │           │   │   │           ├── 📁 opt/
+│   │           │   │   │           └── 📁 notopt/
+│   │           │   │   └── 📁 projnav.tmp/
+│   │           │   ├── 📁 iseconfig/
+│   │           │   ├── 📁 planAhead_run_2/
+│   │           │   │   └── 📁 COMP2b.data/
+│   │           │   │       ├── 📁 sources_1/
+│   │           │   │       ├── 📁 wt/
+│   │           │   │       ├── 📁 constrs_1/
+│   │           │   │       └── 📁 sim_1/
+│   │           │   ├── 📁 planAhead_run_1/
+│   │           │   │   └── 📁 COMP2b.data/
+│   │           │   │       ├── 📁 wt/
+│   │           │   │       ├── 📁 sources_1/
+│   │           │   │       ├── 📁 constrs_1/
+│   │           │   │       └── 📁 sim_1/
+│   │           │   └── 📁 ipcore_dir/
+│   │           ├── 📁 SOUS_1bit/
+│   │           │   ├── 📄 SOUS_1bit.gise
+│   │           │   ├── 📄 SOUS_1bit.xise
+│   │           │   ├── 📄 SOUS_1bit.vhd
+│   │           │   ├── 📄 SOUS_1bit_summary.html
+│   │           │   ├── 📁 iseconfig/
+│   │           │   ├── 📁 ipcore_dir/
+│   │           │   └── 📁 _xmsgs/
+│   │           ├── 📁 diviseurfreq/
+│   │           │   ├── 📄 diviseurfreq.gise
+│   │           │   ├── 📄 Compteur1s_envsettings.html
+│   │           │   ├── 📄 Compteur1s_summary.html
+│   │           │   ├── 📄 planAhead_pid9444.debug
+│   │           │   ├── 📄 pa.fromHdl.tcl
+│   │           │   ├── 📄 webtalk.log
+│   │           │   ├── 📄 usage_statistics_webtalk.html
+│   │           │   ├── 📄 compteur1s.bgn
+│   │           │   ├── 📄 Compteur1s_summary.xml
+│   │           │   ├── 📄 Compteur1s_bitgen.xwbt
+│   │           │   ├── 📄 Compteur1s_usage.xml
+│   │           │   ├── 📄 compteur1s.bit
+│   │           │   ├── 📄 compteur1s.drc
+│   │           │   ├── 📄 Compteur1s.ut
+│   │           │   ├── 📄 Compteur1s.cmd_log
+│   │           │   ├── 📄 Compteur1s.twr
+│   │           │   ├── 📄 Compteur1s.twx
+│   │           │   ├── 📄 Compteur1s_guide.ncd
+│   │           │   ├── 📄 Compteur1s.unroutes
+│   │           │   ├── 📄 Compteur1s_pad.txt
+│   │           │   ├── 📄 Compteur1s_par.xrpt
+│   │           │   ├── 📄 Compteur1s.ptwx
+│   │           │   ├── 📄 Compteur1s_pad.csv
+│   │           │   ├── 📄 Compteur1s.pad
+│   │           │   ├── 📄 Compteur1s.par
+│   │           │   ├── 📄 Compteur1s.xpi
+│   │           │   ├── 📄 Compteur1s.ncd
+│   │           │   ├── 📄 webtalk_pn.xml
+│   │           │   ├── 📄 Compteur1s_map.mrp
+│   │           │   ├── 📄 Compteur1s_map.map
+│   │           │   ├── 📄 Compteur1s_map.xrpt
+│   │           │   ├── 📄 Compteur1s_map.ncd
+│   │           │   ├── 📄 Compteur1s_map.ngm
+│   │           │   ├── 📄 Compteur1s.pcf
+│   │           │   ├── 📄 Compteur1s_ngdbuild.xrpt
+│   │           │   ├── 📄 Compteur1s.ngd
+│   │           │   ├── 📄 Compteur1s.bld
+│   │           │   ├── 📄 divfreq.ucf
+│   │           │   ├── 📄 Compteur1s.stx
+│   │           │   ├── 📄 Compteur1s_xst.xrpt
+│   │           │   ├── 📄 Compteur1s.syr
+│   │           │   ├── 📄 Compteur1s.ngc
+│   │           │   ├── 📄 Compteur1s.ngr
+│   │           │   ├── 📄 Compteur1s_vhdl.prj
+│   │           │   ├── 📄 Compteur1s.lso
+│   │           │   ├── 📄 Compteur1s.prj
+│   │           │   ├── 📄 Compteur1s.xst
+│   │           │   ├── 📄 compteur_summary.html
+│   │           │   ├── 📄 BASCULED_summary.html
+│   │           │   ├── 📄 planAhead_pid9804.debug
+│   │           │   ├── 📄 compteur.vhd
+│   │           │   ├── 📄 basculed.vhd
+│   │           │   ├── 📄 diviseurfreq.xise
+│   │           │   ├── 📄 divfreq.vhd
+│   │           │   ├── 📄 basculesc.vhd
+│   │           │   ├── 📄 Compteur1s.vhd
+│   │           │   ├── 📄 Diviseur_4bits_summary.html
+│   │           │   ├── 📄 divfreq_bitgen.xwbt
+│   │           │   ├── 📄 divfreq_guide.ncd
+│   │           │   ├── 📄 planAhead_pid2768.debug
+│   │           │   ├── 📄 Diviseur_4bits_vhdl.prj
+│   │           │   ├── 📄 basculed.vhd.bak
+│   │           │   ├── 📁 _xmsgs/
+│   │           │   ├── 📁 _ngo/
+│   │           │   ├── 📁 xlnx_auto_0_xdb/
+│   │           │   ├── 📁 iseconfig/
+│   │           │   ├── 📁 xst/
+│   │           │   │   ├── 📁 work/
+│   │           │   │   │   └── 📁 sub00/
+│   │           │   │   ├── 📁 dump.xst/
+│   │           │   │   │   └── 📁 Compteur1s.prj/
+│   │           │   │   │       └── 📁 ngx/
+│   │           │   │   │           ├── 📁 opt/
+│   │           │   │   │           └── 📁 notopt/
+│   │           │   │   ├── 📁 projnav.tmp/
+│   │           │   │   └── 📁 file graph/
+│   │           │   ├── 📁 planAhead_run_1/
+│   │           │   │   └── 📁 diviseurfreq.data/
+│   │           │   │       ├── 📁 sources_1/
+│   │           │   │       ├── 📁 wt/
+│   │           │   │       ├── 📁 sim_1/
+│   │           │   │       └── 📁 constrs_1/
+│   │           │   └── 📁 ipcore_dir/
+│   │           ├── 📁 Combi1/
+│   │           │   ├── 📄 webtalk.log
+│   │           │   ├── 📄 impact_impact.xwbt
+│   │           │   ├── 📄 webtalk_impact.xml
+│   │           │   ├── 📄 usage_statistics_webtalk.html
+│   │           │   ├── 📄 impact.xsl
+│   │           │   ├── 📄 Combi1.gise
+│   │           │   ├── 📄 Combi1.xise
+│   │           │   ├── 📄 Combi1_summary.html
+│   │           │   ├── 📄 Combi1_envsettings.html
+│   │           │   ├── 📄 Combi1_summary.xml
+│   │           │   ├── 📄 Combi1_usage.xml
+│   │           │   ├── 📄 combi1.bit
+│   │           │   ├── 📄 Combi1_bitgen.xwbt
+│   │           │   ├── 📄 combi1.bgn
+│   │           │   ├── 📄 combi1.drc
+│   │           │   ├── 📄 Combi1.ut
+│   │           │   ├── 📄 Combi1.cmd_log
+│   │           │   ├── 📄 Combi1.twx
+│   │           │   ├── 📄 Combi1.twr
+│   │           │   ├── 📄 Combi1.ncd
+│   │           │   ├── 📄 Combi1_pad.txt
+│   │           │   ├── 📄 Combi1.par
+│   │           │   ├── 📄 Combi1.xpi
+│   │           │   ├── 📄 Combi1_par.xrpt
+│   │           │   ├── 📄 Combi1_pad.csv
+│   │           │   ├── 📄 Combi1_guide.ncd
+│   │           │   ├── 📄 Combi1.ptwx
+│   │           │   ├── 📄 Combi1.unroutes
+│   │           │   ├── 📄 Combi1.pad
+│   │           │   ├── 📄 webtalk_pn.xml
+│   │           │   ├── 📄 Combi1_map.map
+│   │           │   ├── 📄 Combi1_map.xrpt
+│   │           │   ├── 📄 Combi1_map.mrp
+│   │           │   ├── 📄 Combi1_map.ncd
+│   │           │   ├── 📄 Combi1.pcf
+│   │           │   ├── 📄 Combi1_map.ngm
+│   │           │   ├── 📄 Combi1.bld
+│   │           │   ├── 📄 Combi1.ngd
+│   │           │   ├── 📄 Combi1_ngdbuild.xrpt
+│   │           │   ├── 📄 Combi1.stx
+│   │           │   ├── 📄 Combi1.ngc
+│   │           │   ├── 📄 Combi1.ngr
+│   │           │   ├── 📄 Combi1_xst.xrpt
+│   │           │   ├── 📄 Combi1.syr
+│   │           │   ├── 📄 Combi1.lso
+│   │           │   ├── 📄 Combi1_vhdl.prj
+│   │           │   ├── 📄 Combi1.xst
+│   │           │   ├── 📄 Combi1.prj
+│   │           │   ├── 📄 planAhead_pid10604.debug
+│   │           │   ├── 📄 Combi1.ucf
+│   │           │   ├── 📄 pa.fromHdl.tcl
+│   │           │   ├── 📄 Combi1.vhd
+│   │           │   ├── 📁 _ngo/
+│   │           │   ├── 📁 _xmsgs/
+│   │           │   ├── 📁 xst/
+│   │           │   │   ├── 📁 work/
+│   │           │   │   │   └── 📁 sub00/
+│   │           │   │   ├── 📁 projnav.tmp/
+│   │           │   │   └── 📁 dump.xst/
+│   │           │   │       └── 📁 Combi1.prj/
+│   │           │   │           └── 📁 ngx/
+│   │           │   │               ├── 📁 opt/
+│   │           │   │               └── 📁 notopt/
+│   │           │   ├── 📁 iseconfig/
+│   │           │   ├── 📁 planAhead_run_1/
+│   │           │   │   └── 📁 Combi1.data/
+│   │           │   │       ├── 📁 sim_1/
+│   │           │   │       ├── 📁 sources_1/
+│   │           │   │       ├── 📁 constrs_1/
+│   │           │   │       └── 📁 wt/
+│   │           │   ├── 📁 ipcore_dir/
+│   │           │   └── 📁 xlnx_auto_0_xdb/
+│   │           ├── 📁 additionneur2bits/
+│   │           │   ├── 📄 additionneur2bits.gise
+│   │           │   ├── 📄 additionneur2bits.xise
+│   │           │   ├── 📄 AA_summary.html
+│   │           │   ├── 📄 ADD2BITS.vhd
+│   │           │   ├── 📄 AA1_summary.html
+│   │           │   ├── 📄 add1bit.vhd
+│   │           │   ├── 📄 add1bit_summary.html
+│   │           │   ├── 📁 _xmsgs/
+│   │           │   ├── 📁 ipcore_dir/
+│   │           │   └── 📁 iseconfig/
+│   │           ├── 📁 add_cmplt/
+│   │           │   ├── 📄 add_cmplt.gise
+│   │           │   ├── 📄 add_cmplt.xise
+│   │           │   ├── 📄 add_cmplt_summary.html
+│   │           │   ├── 📄 add_cmplt_envsettings.html
+│   │           │   ├── 📄 webtalk.log
+│   │           │   ├── 📄 usage_statistics_webtalk.html
+│   │           │   ├── 📄 add_cmplt.bgn
+│   │           │   ├── 📄 add_cmplt_usage.xml
+│   │           │   ├── 📄 add_cmplt_summary.xml
+│   │           │   ├── 📄 add_cmplt_bitgen.xwbt
+│   │           │   ├── 📄 add_cmplt.bit
+│   │           │   ├── 📄 add_cmplt.drc
+│   │           │   ├── 📄 add_cmplt.cmd_log
+│   │           │   ├── 📄 add_cmplt.ut
+│   │           │   ├── 📄 add_cmplt.twx
+│   │           │   ├── 📄 add_cmplt.twr
+│   │           │   ├── 📄 add_cmplt.ncd
+│   │           │   ├── 📄 add_cmplt_pad.csv
+│   │           │   ├── 📄 add_cmplt.pad
+│   │           │   ├── 📄 add_cmplt.par
+│   │           │   ├── 📄 add_cmplt_guide.ncd
+│   │           │   ├── 📄 add_cmplt.xpi
+│   │           │   ├── 📄 add_cmplt_par.xrpt
+│   │           │   ├── 📄 add_cmplt.unroutes
+│   │           │   ├── 📄 add_cmplt_pad.txt
+│   │           │   ├── 📄 add_cmplt.ptwx
+│   │           │   ├── 📄 webtalk_pn.xml
+│   │           │   ├── 📄 add_cmplt_map.map
+│   │           │   ├── 📄 add_cmplt_map.mrp
+│   │           │   ├── 📄 add_cmplt_map.xrpt
+│   │           │   ├── 📄 add_cmplt_map.ncd
+│   │           │   ├── 📄 add_cmplt.pcf
+│   │           │   ├── 📄 add_cmplt_map.ngm
+│   │           │   ├── 📄 add_cmplt.ngd
+│   │           │   ├── 📄 add_cmplt.bld
+│   │           │   ├── 📄 add_cmplt_ngdbuild.xrpt
+│   │           │   ├── 📄 planAhead_pid3336.debug
+│   │           │   ├── 📄 add_cmplt.ucf
+│   │           │   ├── 📄 pa.fromHdl.tcl
+│   │           │   ├── 📄 add_cmplt.stx
+│   │           │   ├── 📄 add_cmplt_xst.xrpt
+│   │           │   ├── 📄 add_cmplt.syr
+│   │           │   ├── 📄 add_cmplt.ngr
+│   │           │   ├── 📄 add_cmplt.ngc
+│   │           │   ├── 📄 add_cmplt.lso
+│   │           │   ├── 📄 add_cmplt_vhdl.prj
+│   │           │   ├── 📄 add_cmplt.xst
+│   │           │   ├── 📄 add_cmplt.prj
+│   │           │   ├── 📄 planAhead_pid2412.debug
+│   │           │   ├── 📄 add_cmplt.vhd
+│   │           │   ├── 📁 _xmsgs/
+│   │           │   ├── 📁 _ngo/
+│   │           │   ├── 📁 planAhead_run_2/
+│   │           │   │   └── 📁 add_cmplt.data/
+│   │           │   │       ├── 📁 wt/
+│   │           │   │       ├── 📁 sources_1/
+│   │           │   │       ├── 📁 constrs_1/
+│   │           │   │       └── 📁 sim_1/
+│   │           │   ├── 📁 planAhead_run_1/
+│   │           │   │   └── 📁 add_cmplt.data/
+│   │           │   │       ├── 📁 wt/
+│   │           │   │       ├── 📁 constrs_1/
+│   │           │   │       ├── 📁 sources_1/
+│   │           │   │       └── 📁 sim_1/
+│   │           │   ├── 📁 ipcore_dir/
+│   │           │   ├── 📁 xlnx_auto_0_xdb/
+│   │           │   ├── 📁 xst/
+│   │           │   │   ├── 📁 work/
+│   │           │   │   │   └── 📁 sub00/
+│   │           │   │   ├── 📁 projnav.tmp/
+│   │           │   │   └── 📁 dump.xst/
+│   │           │   │       └── 📁 add_cmplt.prj/
+│   │           │   │           └── 📁 ngx/
+│   │           │   │               ├── 📁 opt/
+│   │           │   │               └── 📁 notopt/
+│   │           │   └── 📁 iseconfig/
+│   │           ├── 📁 basculed/
+│   │           │   ├── 📄 basculed.gise
+│   │           │   ├── 📄 basculed_summary.html
+│   │           │   ├── 📄 basculed_envsettings.html
+│   │           │   ├── 📄 webtalk.log
+│   │           │   ├── 📄 basculed_usage.xml
+│   │           │   ├── 📄 basculed_bitgen.xwbt
+│   │           │   ├── 📄 basculed.bgn
+│   │           │   ├── 📄 basculed_summary.xml
+│   │           │   ├── 📄 usage_statistics_webtalk.html
+│   │           │   ├── 📄 basculed.bit
+│   │           │   ├── 📄 basculed.drc
+│   │           │   ├── 📄 basculed.cmd_log
+│   │           │   ├── 📄 basculed.ut
+│   │           │   ├── 📄 basculed.twr
+│   │           │   ├── 📄 basculed.twx
+│   │           │   ├── 📄 basculed_par.xrpt
+│   │           │   ├── 📄 basculed.par
+│   │           │   ├── 📄 basculed_guide.ncd
+│   │           │   ├── 📄 basculed.pad
+│   │           │   ├── 📄 basculed.ncd
+│   │           │   ├── 📄 basculed.unroutes
+│   │           │   ├── 📄 basculed.ptwx
+│   │           │   ├── 📄 basculed_pad.csv
+│   │           │   ├── 📄 basculed_pad.txt
+│   │           │   ├── 📄 basculed.xpi
+│   │           │   ├── 📄 webtalk_pn.xml
+│   │           │   ├── 📄 basculed_map.mrp
+│   │           │   ├── 📄 basculed_map.map
+│   │           │   ├── 📄 basculed_map.ncd
+│   │           │   ├── 📄 basculed_map.xrpt
+│   │           │   ├── 📄 basculed_map.ngm
+│   │           │   ├── 📄 basculed.pcf
+│   │           │   ├── 📄 basculed.bld
+│   │           │   ├── 📄 basculed_ngdbuild.xrpt
+│   │           │   ├── 📄 basculed.ngd
+│   │           │   ├── 📄 basculed.ucf
+│   │           │   ├── 📄 basculed.xise
+│   │           │   ├── 📄 basculed.stx
+│   │           │   ├── 📄 basculed.ngc
+│   │           │   ├── 📄 basculed.ngr
+│   │           │   ├── 📄 basculed_xst.xrpt
+│   │           │   ├── 📄 basculed.syr
+│   │           │   ├── 📄 basculed.lso
+│   │           │   ├── 📄 basculed_vhdl.prj
+│   │           │   ├── 📄 basculed.prj
+│   │           │   ├── 📄 basculed.xst
+│   │           │   ├── 📄 basculed_map_fpga_editor.out
+│   │           │   ├── 📄 basculed_preroute.twr
+│   │           │   ├── 📄 basculed_preroute.twx
+│   │           │   ├── 📄 planAhead_pid8048.debug
+│   │           │   ├── 📄 pa.fromHdl.tcl
+│   │           │   ├── 📄 planAhead_pid12192.debug
+│   │           │   ├── 📄 basculed_tb_isim_beh.wdb
+│   │           │   ├── 📄 isim.log
+│   │           │   ├── 📄 isim.cmd
+│   │           │   ├── 📄 basculed_tb_isim_beh.exe
+│   │           │   ├── 📄 fuse.log
+│   │           │   ├── 📄 fuse.xmsgs
+│   │           │   ├── 📄 fuseRelaunch.cmd
+│   │           │   ├── 📄 xilinxsim.ini
+│   │           │   ├── 📄 basculed_tb_beh.prj
+│   │           │   ├── 📄 basculed_tb_stx_beh.prj
+│   │           │   ├── 📄 basculed_tb.vhd
+│   │           │   ├── 📄 planAhead_pid9632.debug
+│   │           │   ├── 📄 pepExtractor.prj
+│   │           │   ├── 📄 tb_Bascule_D_isim_beh.exe
+│   │           │   ├── 📄 tb_Bascule_D_stx_beh.prj
+│   │           │   ├── 📄 tb_Bascule_D.vhd
+│   │           │   ├── 📄 .lso
+│   │           │   ├── 📄 basculed.vhd
+│   │           │   ├── 📁 _xmsgs/
+│   │           │   ├── 📁 xlnx_auto_0_xdb/
+│   │           │   ├── 📁 xst/
+│   │           │   │   ├── 📁 projnav.tmp/
+│   │           │   │   ├── 📁 dump.xst/
+│   │           │   │   │   └── 📁 basculed.prj/
+│   │           │   │   │       └── 📁 ngx/
+│   │           │   │   │           ├── 📁 opt/
+│   │           │   │   │           └── 📁 notopt/
+│   │           │   │   └── 📁 work/
+│   │           │   │       └── 📁 sub00/
+│   │           │   ├── 📁 _ngo/
+│   │           │   ├── 📁 planAhead_run_3/
+│   │           │   │   └── 📁 basculed.data/
+│   │           │   │       ├── 📁 wt/
+│   │           │   │       ├── 📁 sources_1/
+│   │           │   │       ├── 📁 sim_1/
+│   │           │   │       └── 📁 constrs_1/
+│   │           │   ├── 📁 planAhead_run_2/
+│   │           │   │   └── 📁 basculed.data/
+│   │           │   │       ├── 📁 wt/
+│   │           │   │       ├── 📁 sources_1/
+│   │           │   │       ├── 📁 sim_1/
+│   │           │   │       └── 📁 constrs_1/
+│   │           │   ├── 📁 netgen/
+│   │           │   │   └── 📁 synthesis/
+│   │           │   ├── 📁 planAhead_run_1/
+│   │           │   │   └── 📁 basculed.data/
+│   │           │   │       ├── 📁 sim_1/
+│   │           │   │       ├── 📁 sources_1/
+│   │           │   │       ├── 📁 wt/
+│   │           │   │       └── 📁 constrs_1/
+│   │           │   ├── 📁 isim/
+│   │           │   │   ├── 📁 work/
+│   │           │   │   ├── 📁 temp/
+│   │           │   │   ├── 📁 tb_Bascule_D_isim_beh.exe.sim/
+│   │           │   │   │   ├── 📁 tmp_save/
+│   │           │   │   │   └── 📁 work/
+│   │           │   │   ├── 📁 basculed_tb_isim_beh.exe.sim/
+│   │           │   │   │   ├── 📁 tmp_save/
+│   │           │   │   │   └── 📁 work/
+│   │           │   │   └── 📁 precompiled.exe.sim/
+│   │           │   │       └── 📁 ieee/
+│   │           │   ├── 📁 iseconfig/
+│   │           │   └── 📁 ipcore_dir/
+│   │           ├── 📁 preparation/
+│   │           │   ├── 📁 ual/
+│   │           │   │   ├── 📄 ual.gise
+│   │           │   │   ├── 📄 UAL_summary.html
+│   │           │   │   ├── 📄 UAL_envsettings.html
+│   │           │   │   ├── 📄 webtalk.log
+│   │           │   │   ├── 📄 usage_statistics_webtalk.html
+│   │           │   │   ├── 📄 UAL_usage.xml
+│   │           │   │   ├── 📄 UAL_bitgen.xwbt
+│   │           │   │   ├── 📄 ual.bit
+│   │           │   │   ├── 📄 UAL_summary.xml
+│   │           │   │   ├── 📄 ual.bgn
+│   │           │   │   ├── 📄 ual.drc
+│   │           │   │   ├── 📄 UAL.cmd_log
+│   │           │   │   ├── 📄 UAL.ut
+│   │           │   │   ├── 📄 UAL.twx
+│   │           │   │   ├── 📄 UAL.twr
+│   │           │   │   ├── 📄 UAL_par.xrpt
+│   │           │   │   ├── 📄 UAL_pad.csv
+│   │           │   │   ├── 📄 UAL.xpi
+│   │           │   │   ├── 📄 UAL.par
+│   │           │   │   ├── 📄 UAL.ncd
+│   │           │   │   ├── 📄 UAL_pad.txt
+│   │           │   │   ├── 📄 UAL_guide.ncd
+│   │           │   │   ├── 📄 UAL.unroutes
+│   │           │   │   ├── 📄 UAL.pad
+│   │           │   │   ├── 📄 UAL.ptwx
+│   │           │   │   ├── 📄 webtalk_pn.xml
+│   │           │   │   ├── 📄 UAL_map.mrp
+│   │           │   │   ├── 📄 UAL_map.xrpt
+│   │           │   │   ├── 📄 UAL_map.map
+│   │           │   │   ├── 📄 UAL.pcf
+│   │           │   │   ├── 📄 UAL_map.ngm
+│   │           │   │   ├── 📄 UAL_map.ncd
+│   │           │   │   ├── 📄 UAL.bld
+│   │           │   │   ├── 📄 UAL.ngd
+│   │           │   │   ├── 📄 UAL_ngdbuild.xrpt
+│   │           │   │   ├── 📄 UAL.stx
+│   │           │   │   ├── 📄 UAL.ngc
+│   │           │   │   ├── 📄 UAL.syr
+│   │           │   │   ├── 📄 UAL_xst.xrpt
+│   │           │   │   ├── 📄 UAL.ngr
+│   │           │   │   ├── 📄 UAL.lso
+│   │           │   │   ├── 📄 UAL_vhdl.prj
+│   │           │   │   ├── 📄 UAL.prj
+│   │           │   │   ├── 📄 UAL.xst
+│   │           │   │   ├── 📄 sub1bit.vhd
+│   │           │   │   ├── 📄 UAL.vhd
+│   │           │   │   ├── 📄 planAhead_pid10328.debug
+│   │           │   │   ├── 📄 UAL.ucf
+│   │           │   │   ├── 📄 ual.xise
+│   │           │   │   ├── 📄 pa.fromHdl.tcl
+│   │           │   │   ├── 📄 .lso
+│   │           │   │   ├── 📄 SUB2b.stx
+│   │           │   │   ├── 📄 SUB2b_vhdl.prj
+│   │           │   │   ├── 📄 SUB2b.prj
+│   │           │   │   ├── 📄 SUB2b.xst
+│   │           │   │   ├── 📄 ADD2b.stx
+│   │           │   │   ├── 📄 ADD2b_vhdl.prj
+│   │           │   │   ├── 📄 ADD2b.prj
+│   │           │   │   ├── 📄 ADD2b.xst
+│   │           │   │   ├── 📄 ADD2BITS.vhd
+│   │           │   │   ├── 📄 sub2bits.vhd
+│   │           │   │   ├── 📄 add1bit.vhd
+│   │           │   │   ├── 📄 comp1.vhd
+│   │           │   │   ├── 📄 AA_summary.html
+│   │           │   │   ├── 📄 TP_comp1.vhd
+│   │           │   │   ├── 📄 comp2b.vhd
+│   │           │   │   ├── 📁 _xmsgs/
+│   │           │   │   ├── 📁 _ngo/
+│   │           │   │   ├── 📁 planAhead_run_2/
+│   │           │   │   │   └── 📁 ual.data/
+│   │           │   │   │       ├── 📁 sim_1/
+│   │           │   │   │       ├── 📁 sources_1/
+│   │           │   │   │       ├── 📁 wt/
+│   │           │   │   │       └── 📁 constrs_1/
+│   │           │   │   ├── 📁 xlnx_auto_0_xdb/
+│   │           │   │   ├── 📁 xst/
+│   │           │   │   │   ├── 📁 work/
+│   │           │   │   │   │   └── 📁 sub00/
+│   │           │   │   │   ├── 📁 projnav.tmp/
+│   │           │   │   │   ├── 📁 file graph/
+│   │           │   │   │   └── 📁 dump.xst/
+│   │           │   │   │       └── 📁 UAL.prj/
+│   │           │   │   │           └── 📁 ngx/
+│   │           │   │   │               ├── 📁 opt/
+│   │           │   │   │               └── 📁 notopt/
+│   │           │   │   ├── 📁 planAhead_run_1/
+│   │           │   │   ├── 📁 iseconfig/
+│   │           │   │   └── 📁 ipcore_dir/
+│   │           │   └── 📁 add1bit/
+│   │           │       ├── 📄 add1bit.gise
+│   │           │       ├── 📄 add1bit.xise
+│   │           │       ├── 📄 add1bit_summary.html
+│   │           │       ├── 📄 add1bit.stx
+│   │           │       ├── 📄 .lso
+│   │           │       ├── 📄 add1bit_vhdl.prj
+│   │           │       ├── 📄 add1bit.prj
+│   │           │       ├── 📄 add1bit.xst
+│   │           │       ├── 📄 add1bit.vhd
+│   │           │       ├── 📁 iseconfig/
+│   │           │       ├── 📁 ipcore_dir/
+│   │           │       ├── 📁 xst/
+│   │           │       │   ├── 📁 work/
+│   │           │       │   │   └── 📁 sub00/
+│   │           │       │   └── 📁 projnav.tmp/
+│   │           │       └── 📁 _xmsgs/
+│   │           └── 📁 Add2bits/
+│   │               ├── 📄 Add2bits.gise
+│   │               ├── 📄 Add2bits_summary.html
+│   │               ├── 📄 Add2bits.xise
+│   │               ├── 📄 planAhead_pid7256.debug
+│   │               ├── 📄 pa.fromHdl.tcl
+│   │               ├── 📄 Add2bits.vhd
+│   │               ├── 📄 add1bit.vhd
+│   │               ├── 📄 add1bit_summary.html
+│   │               ├── 📄 Add2bits.ucf
+│   │               ├── 📁 _xmsgs/
+│   │               │   └── 📄 pn_parser.xmsgs
+│   │               ├── 📁 planAhead_run_1/
+│   │               │   ├── 📄 planAhead_run.log
+│   │               │   ├── 📄 planAhead.log
+│   │               │   ├── 📄 planAhead.jou
+│   │               │   ├── 📄 Add2bits.ppr
+│   │               │   └── 📁 Add2bits.data/
+│   │               │       ├── 📁 wt/
+│   │               │       ├── 📁 sources_1/
+│   │               │       ├── 📁 sim_1/
+│   │               │       └── 📁 constrs_1/
+│   │               ├── 📁 iseconfig/
+│   │               │   ├── 📄 Add2bits.projectmgr
+│   │               │   ├── 📄 Add2bits.xreport
+│   │               │   └── 📄 add1bit.xreport
+│   │               └── 📁 ipcore_dir/
+│   ├── 📁 EXAMS/
+│   │   └── 📄 preview.bin.PDF
+│   ├── 📁 COURS/
+│   │   ├── 📄 Réseaux logiques programmable FPGA Partie N°2.pdf
+│   │   └── 📄 Réseaux logiques programmable FPGA Partie N°1.pdf
+│   └── 📁 Images important/
+│       ├── 📄 Comparateur 1.jpeg
+│       ├── 📄 TP4.jpeg
+│       ├── 📄 Diviseur de frequence.jpeg
+│       ├── 📄 Comparateur 2.jpeg
+│       ├── 📄 Addition 1.jpeg
+│       ├── 📄 Exams.jpeg
+│       ├── 📄 Compteur.jpeg
+│       ├── 📄 Soustracteur 1.jpeg
+│       ├── 📄 WhatsApp Image 2019-11-14 at 20.55.07.jpeg
+│       ├── 📄 Multiplexeur.jpeg
+│       ├── 📄 L_unité arithmetique et logique.jpeg
+│       └── 📄 Bascule D.jpeg
+├── 📄 VHDL-20260201T155507Z-3-001.zip
+└── 📁 VHDL/
+    ├── 📄 Cours Syntaxe VHDL et Exemples pour la Conception Materielle
+    ├── 📁 TP/
+    │   └── 📁 HABBI/
+    │       └── 📁 VHDL PROJECTS/
+    │           ├── 📄 compteiur.cr.mti
+    │           ├── 📄 compteiur.mpf
+    │           ├── 📄 EX4.vhd
+    │           ├── 📄 wlftjtt26f
+    │           ├── 📄 wlftcn1yaq
+    │           ├── 📄 pgrm.vhd
+    │           ├── 📄 wlft38xhyg
+    │           ├── 📄 pgrm.vhd.bak
+    │           ├── 📄 multiplixuer.vhd
+    │           ├── 📄 ex2 exm.vhd
+    │           ├── 📄 multiplixuer.vhd.bak
+    │           ├── 📄 ex2 exm.vhd.bak
+    │           ├── 📄 wlftmyia03
+    │           ├── 📄 EX2.vhd
+    │           ├── 📄 EX2.vhd.bak
+    │           ├── 📄 wlftawc699
+    │           ├── 📄 vsim.wlf
+    │           ├── 📄 cmptr16.vhd
+    │           ├── 📄 cmptr16.vhd.bak
+    │           ├── 📄 examen.cr.mti
+    │           ├── 📄 examen.mpf
+    │           ├── 📄 EX1.vhd
+    │           ├── 📄 EX1.vhd.bak
+    │           ├── 📄 test1.cr.mti
+    │           ├── 📄 test1.mpf
+    │           ├── 📄 ff.vhd
+    │           ├── 📄 ff.vhd.bak
+    │           ├── 📄 multi.cr.mti
+    │           ├── 📄 multi.mpf
+    │           ├── 📄 Mult2b.vhd
+    │           ├── 📄 demiadd.vhd
+    │           ├── 📄 Mult2b.vhd.bak
+    │           ├── 📄 demiadd.vhd.bak
+    │           ├── 📄 dcclg.cr.mti
+    │           ├── 📄 dcclg.mpf
+    │           ├── 📄 reg.vhd
+    │           ├── 📄 reg.vhd.bak
+    │           ├── 📄 bascule_d.vhd
+    │           ├── 📄 bascule_d.vhd.bak
+    │           ├── 📄 EX4.cr.mti
+    │           ├── 📄 EX4.mpf
+    │           ├── 📄 codage.vhd
+    │           ├── 📄 codage.vhd.bak
+    │           ├── 📄 EX4.vhd.bak
+    │           ├── 📄 Serie2.cr.mti
+    │           ├── 📄 Serie2.mpf
+    │           ├── 📄 boucle.vhd
+    │           ├── 📄 boucle.vhd.bak
+    │           ├── 📄 add1b.vhd
+    │           ├── 📄 add4b.cr.mti
+    │           ├── 📄 add4b.mpf
+    │           ├── 📄 add4b.vhd
+    │           ├── 📄 add4b.vhd.bak
+    │           ├── 📄 add1b.vhd.bak
+    │           ├── 📄 package.vhd
+    │           ├── 📄 tpppa.cr.mti
+    │           ├── 📄 tpppa.mpf
+    │           ├── 📄 progprinc.vhd
+    │           ├── 📄 progprinc.vhd.bak
+    │           ├── 📄 ml.vhd
+    │           ├── 📄 ml.vhd.bak
+    │           ├── 📄 package.vhd.bak
+    │           ├── 📄 cmpt4b.cr.mti
+    │           ├── 📄 cmpt4b.mpf
+    │           ├── 📄 CMPT4b.vhd
+    │           ├── 📄 CMPT4b.vhd.bak
+    │           ├── 📄 TP2EX2.cr.mti
+    │           ├── 📄 TP2EX2.mpf
+    │           ├── 📄 ex3
+    │           ├── 📄 ex3.bak
+    │           ├── 📄 TP2.cr.mti
+    │           ├── 📄 TP2.mpf
+    │           ├── 📄 comp2.cr.mti
+    │           ├── 📄 comp2.mpf
+    │           ├── 📄 comp.vhd
+    │           ├── 📄 comp.vhd.bak
+    │           ├── 📄 TD.cr.mti
+    │           ├── 📄 TD.mpf
+    │           ├── 📄 TABLEAU.vhd
+    │           ├── 📄 TABLEAU.vhd.bak
+    │           └── 📁 work/
+    │               ├── 📄 _info
+    │               ├── 📄 _lib1_9.qtl
+    │               ├── 📄 _lib.qdb
+    │               ├── 📄 _vmake
+    │               ├── 📄 _lib1_9.qdb
+    │               ├── 📄 _lib1_9.qpg
+    │               ├── 📄 _opt__lock
+    │               ├── 📁 _tempmsg/
+    │               ├── 📁 _temp/
+    │               ├── 📁 cc/
+    │               │   ├── 📄 _lib3_0.qtl
+    │               │   ├── 📄 _lib2_0.qtl
+    │               │   ├── 📄 _lib.qdb
+    │               │   ├── 📄 _lib1_0.qtl
+    │               │   ├── 📄 _lib4_0.qtl
+    │               │   ├── 📄 _lib3_0.qpg
+    │               │   ├── 📄 _lib4_0.qdb
+    │               │   ├── 📄 _lib1_0.qpg
+    │               │   ├── 📄 _lib3_0.qdb
+    │               │   ├── 📄 _lib2_0.qpg
+    │               │   ├── 📄 _lib2_0.qdb
+    │               │   ├── 📄 _lib4_0.qpg
+    │               │   └── 📄 _lib1_0.qdb
+    │               ├── 📁 @_opt1/
+    │               │   ├── 📄 _lib2_0.qtl
+    │               │   ├── 📄 _lib5_0.qtl
+    │               │   ├── 📄 _lib4_0.qtl
+    │               │   ├── 📄 _lib1_0.qpg
+    │               │   ├── 📄 _lib1_0.qtl
+    │               │   ├── 📄 _lib1_0.qdb
+    │               │   ├── 📄 _lib3_0.qtl
+    │               │   ├── 📄 _lib4_0.qpg
+    │               │   ├── 📄 _lib5_0.qpg
+    │               │   ├── 📄 _lib2_0.qdb
+    │               │   ├── 📄 _lib3_0.qdb
+    │               │   ├── 📄 _lib5_0.qdb
+    │               │   ├── 📄 _lib.qdb
+    │               │   ├── 📄 _lib4_0.qdb
+    │               │   ├── 📄 _lib3_0.qpg
+    │               │   └── 📄 _lib2_0.qpg
+    │               ├── 📁 @_opt2/
+    │               │   ├── 📄 _lib5_0.qtl
+    │               │   ├── 📄 _lib1_0.qdb
+    │               │   ├── 📄 _lib.qdb
+    │               │   ├── 📄 _lib2_0.qtl
+    │               │   ├── 📄 _lib2_0.qdb
+    │               │   ├── 📄 _lib4_0.qtl
+    │               │   ├── 📄 _lib3_0.qdb
+    │               │   ├── 📄 _lib5_0.qpg
+    │               │   ├── 📄 _lib5_0.qdb
+    │               │   ├── 📄 _lib3_0.qtl
+    │               │   ├── 📄 _lib4_0.qdb
+    │               │   ├── 📄 _lib1_0.qpg
+    │               │   ├── 📄 _lib4_0.qpg
+    │               │   ├── 📄 _lib1_0.qtl
+    │               │   ├── 📄 _lib2_0.qpg
+    │               │   └── 📄 _lib3_0.qpg
+    │               └── 📁 @_opt/
+    │                   ├── 📄 _lib2_0.qtl
+    │                   ├── 📄 _lib4_0.qpg
+    │                   ├── 📄 _lib5_0.qtl
+    │                   ├── 📄 _lib2_0.qdb
+    │                   ├── 📄 _lib1_0.qdb
+    │                   ├── 📄 _lib.qdb
+    │                   ├── 📄 _lib6_0.qdb
+    │                   ├── 📄 _lib6_0.qpg
+    │                   ├── 📄 _lib3_0.qtl
+    │                   ├── 📄 _lib5_0.qpg
+    │                   ├── 📄 _lib3_0.qdb
+    │                   ├── 📄 _lib5_0.qdb
+    │                   ├── 📄 _lib4_0.qdb
+    │                   ├── 📄 _lib1_0.qtl
+    │                   ├── 📄 _lib4_0.qtl
+    │                   ├── 📄 _lib6_0.qtl
+    │                   ├── 📄 _lib1_0.qpg
+    │                   ├── 📄 _lib2_0.qpg
+    │                   └── 📄 _lib3_0.qpg
+    ├── 📁 TD/
+    │   ├── 📄 TD N1 Corrigé VHDL Portes Logiques
+    │   ├── 📄 TD TP VHDL Partie 2 Exercices Diagrammes d'états
+    │   ├── 📄 TD N°1 VHDL Génie Electrique 2A EII Langage de description
+    │   ├── 📄 TD TP Corrigé Exercices VHDL Langage de description VHDL Partie N°2
+    │   ├── 📄 TD N°1 VHDL Génie Electrique 2A EII Langage de description
+    │   ├── 📄 TD TP N3 Langage description VHDL Registre décalage corrigé
+    │   ├── 📄 TD TP VHDL Registres à décalage Partie 3 Exercices
+    │   ├── 📄 TD TP VHDL Partie 2 Exercices Diagrammes d'états
+    │   └── 📄 TP N°1 VHDL Langage de description des circuits numériques
+    ├── 📁 Cours/
+    │   ├── 📄 Cours Introduction Synthèse logique V.H.D.L. VHDL
+    │   └── 📄 Cours VHDL Implantation PLD FPGA 2ème année DUT
+    └── 📁 Examens/
+        ├── 📄 Examen VHDL 2012
+        ├── 📄 Examen VHDL EST
+        ├── 📄 20141211_190341.jpg
+        └── 📄 20141211_190333.jpg
+
+═════════════════════════════════════
+  Fin du fichier · VHDL et FPGA
+═════════════════════════════════════

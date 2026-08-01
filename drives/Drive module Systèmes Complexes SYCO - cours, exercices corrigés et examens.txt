@@ -1,0 +1,57 @@
+📚 MODULE : Systèmes Complexes SYCO                   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Systèmes Complexes SYCO.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Systèmes Complexes SYCO/
+├── 📄 Controles SYCO.docx
+├── 🔗📁 SYCO/  (raccourci)
+│   ├── 📄 ~$and.xlsx
+│   ├── 📄 ~$ntroles SYCO.docx
+│   ├── 📄 Chapitre 3-SYCO.pdf
+│   ├── 📄 Chapitre 4-SYCO.pdf
+│   ├── 📄 Chapitre 2- SYCO.pdf
+│   ├── 📄 TD3- SyCo2021.pdf
+│   ├── 📄 TD2- SyCo2021.pdf
+│   ├── 📄 Controles SYCO.docx
+│   ├── 📄 Sol-TD3- SyCo2021.docx
+│   ├── 📄 Chapitre 1- SYCO.pdf
+│   ├── 📄 Sol-TD2- SyCo2021.pdf
+│   ├── 📄 Sol-TD1- SyCo2021.docx
+│   ├── 📄 TD1- SyCo21-22.pdf
+│   └── 📁 tp Syco/
+│       ├── 📄 suiss42.txt
+│       ├── 📄 fri26.txt
+│       ├── 📄 berlin52.txt
+│       └── 📄 devoir.docx
+├── 📁 TDs corrigés/
+│   ├── 📄 Sol-TD1- SyCo2021.docx
+│   ├── 📄 Sol-TD2- SyCo2021.pdf
+│   ├── 📄 Sol-TD3- SyCo2021.docx
+│   ├── 📄 TD1- SyCo21-22.pdf
+│   ├── 📄 TD2- SyCo2021.pdf
+│   └── 📄 TD3- SyCo2021.pdf
+├── 📁 Cours/
+│   ├── 📄 Chapitre 1- SYCO.pdf
+│   ├── 📄 Chapitre 2- SYCO.pdf
+│   ├── 📄 Chapitre 3-SYCO.pdf
+│   └── 📄 Chapitre 4-SYCO.pdf
+└── 📁 Tps/
+    ├── 📄 berlin52.txt
+    ├── 📄 devoir.docx
+    ├── 📄 fri26.txt
+    └── 📄 suiss42.txt
+
+═════════════════════════════════════
+  Fin du fichier · Systèmes Complexes SYCO
+═════════════════════════════════════

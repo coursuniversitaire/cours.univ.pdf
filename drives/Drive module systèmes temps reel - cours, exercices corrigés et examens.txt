@@ -1,0 +1,122 @@
+📚 MODULE : systèmes temps reel                       
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module systèmes temps reel.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 systèmes temps reel/
+├── 📁 drives/
+│   ├── 🔗📁 S.T.R/  (raccourci)
+│   │   ├── 📄 cour N1 2021.docx
+│   │   ├── 📄 cour 2- 3.pdf
+│   │   ├── 📄 cour 4.docx
+│   │   ├── 📄 cour 5 juste.docx
+│   │   ├── 📄 cour N6- 7.docx
+│   │   ├── 📄 serie N 1.docx
+│   │   ├── 📄 serie 2 juste.docx
+│   │   └── 📄 serie N 3.docx
+│   ├── 🔗📁 5# Systèmes temps réel (STR)/  (raccourci)
+│   │   ├── 📄 programme.pdf
+│   │   ├── 📁 Résumé/
+│   │   │   └── 📄 résumé str.pdf
+│   │   ├── 📁 cours/
+│   │   │   ├── 📄 str cours+ applications.pdf
+│   │   │   ├── 📄 cours STR.pdf
+│   │   │   └── 📄 exo cours.pdf
+│   │   └── 📁 examens/
+│   │       ├── 📄 rattrapage 2020 AS&SE.pdf
+│   │       ├── 📄 Exercices.pdf
+│   │       ├── 📄 examen corrigé SIT.pdf
+│   │       ├── 📄 examen 2020 + corrigé.pdf
+│   │       └── 📁 QCM/
+│   │           ├── 📄 QCM3.pdf
+│   │           ├── 📄 QCM2.pdf
+│   │           └── 📄 QCM1.pdf
+│   └── 🔗📁 syst temps reel/  (raccourci)
+│       ├── 📄 Resumé cours
+│       ├── 📄 STR TD.pdf
+│       ├── 📄 Test  TP 2024.docx
+│       ├── 📁 td/
+│       │   ├── 📄 exercice pour révision.docx
+│       │   ├── 📄 Solution de Exercice 1.docx
+│       │   ├── 📄 serie N 3.docx
+│       │   ├── 📄 suite de la serie N 2.docx
+│       │   ├── 📄 serie N 1.docx
+│       │   ├── 📄 serie N 2.docx
+│       │   └── 📄 suite de la serie 1 2022.docx
+│       ├── 📁 cours/
+│       │   ├── 📄 cour 4.docx
+│       │   ├── 📄 cour N1 2021
+│       │   ├── 📄 cour N6- 7.docx
+│       │   ├── 📄 cour 5 2023.docx
+│       │   ├── 📄 cour N1 2021.docx
+│       │   └── 📄 cour 2- 3.pdf
+│       └── 📁 tp/
+│           ├── 📄 Tp  4 Gesion d'afficheur LCD.docx
+│           ├── 📄 TP 3 (partie II) Gesion d'une interruption .calcul de Temp d'exécution en Assembleur.docx
+│           ├── 📄 programme avec démonstration de TP 2 (trafic light).docx
+│           ├── 📄 TP 4 Gesion d'une interruption .calcul de Temp d'exécution en Assembleur.docx
+│           ├── 📄 code traffic light en langage C.docx
+│           ├── 📄 FlashLED_MikroC.pdf
+│           ├── 📄 Programme Comm Optiques.docx
+│           ├── 📄 Tp 2.docx
+│           ├── 📄 TP1.docx
+│           ├── 📄 TP 3.docx
+│           └── 📄 TP2-simulation-microcontroleur-PIC.pdf
+├── 📁 examens /
+│   ├── 📄 QCM1.pdf
+│   ├── 📄 QCM2.pdf
+│   ├── 📄 QCM3.pdf
+│   ├── 📄 examen 2020 + corrigé.pdf
+│   ├── 📄 examen corrigé SIT.pdf
+│   ├── 📄 Exercices.pdf
+│   ├── 📄 rattrapage 2020 AS&SE.pdf
+│   └── 🔗📁 Examens + solutions/  (raccourci)
+├── 📁 td/
+│   ├── 📄 Resumé cours.pdf
+│   ├── 📄 STR TD.pdf
+│   ├── 📄 exercice pour révision.docx
+│   ├── 📄 Solution de Exercice 1.docx
+│   ├── 📄 serie N 3.docx
+│   ├── 📄 suite de la serie N 2.docx
+│   ├── 📄 serie N 1.docx
+│   ├── 📄 serie N 2.docx
+│   ├── 📄 suite de la serie 1 2022.docx
+│   └── 📁 td/
+│       ├── 📄 serie 2 juste.docx
+│       ├── 📄 serie N 1.docx
+│       └── 📄 serie N 3.docx
+├── 📁 cours/
+│   ├── 📄 cour 4.docx
+│   ├── 📄 cour N1 2021.docx
+│   ├── 📄 cour N6- 7.docx
+│   ├── 📄 cour 5 2023.docx
+│   ├── 📄 cour N1 2021(1).docx
+│   └── 📄 cour 2- 3.pdf
+├── 📁 syst temps reel/
+└── 📁 tp/
+    ├── 📄 Test  TP 2024.docx
+    ├── 📄 Tp  4 Gesion d_afficheur LCD.docx
+    ├── 📄 TP 3 (partie II) Gesion d_une interruption .calcul de Temp d_exécution en Assembleur.docx
+    ├── 📄 programme avec démonstration de TP 2 (trafic light).docx
+    ├── 📄 TP 4 Gesion d_une interruption .calcul de Temp d_exécution en Assembleur.docx
+    ├── 📄 code traffic light en langage C.docx
+    ├── 📄 FlashLED_MikroC.pdf
+    ├── 📄 Programme Comm Optiques.docx
+    ├── 📄 Tp 2.docx
+    ├── 📄 TP1.docx
+    ├── 📄 TP 3.docx
+    └── 📄 TP2-simulation-microcontroleur-PIC.pdf
+
+═════════════════════════════════════
+  Fin du fichier · systèmes temps reel
+═════════════════════════════════════

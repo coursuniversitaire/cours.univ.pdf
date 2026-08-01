@@ -1,0 +1,88 @@
+📚 MODULE : VoIP                                      
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module VoIP.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 VoIP/
+├── 📄 VOIP-20260621T005548Z-3-001.zip
+├── 🔗📁 VoIP/  (raccourci)
+│   ├── 📄 VVoIP_sip-dec2024-part1.pdf
+│   ├── 📄 VVoIP_Numérisation_Voix_Humaine.pdf
+│   ├── 📄 VVoIP_sip-dec2024-part2.pdf
+│   ├── 📄 RTP  et  RTCP_2024.pdf
+│   ├── 📄 Aperçu des opérations SIP_dec_2024.pdf
+│   ├── 📄 Aperçu des opérations SIP_dec_2024.pdf
+│   ├── 📄 Aperçu des opérations SIP_dec_2024.pdf
+│   ├── 📄 VID_20241228_180752_470.mp4
+│   ├── 📄 VID_20241228_180841_911.mp4
+│   ├── 📄 VID_20241228_180759_782.mp4
+│   ├── 📄 VID_20241228_180804_374.mp4
+│   ├── 📄 VID_20241228_180906_922.mp4
+│   ├── 📄 VID_20241228_180748_305.mp4
+│   ├── 📄 VID_20241228_180852_193.mp4
+│   ├── 📄 VID_20241228_180857_451.mp4
+│   ├── 📄 VID_20241228_181033_457.mp4
+│   ├── 📄 VID_20241228_180836_738.mp4
+│   ├── 📄 VID_20241228_181041_067.mp4
+│   ├── 📄 VID_20241228_181046_930.mp4
+│   ├── 📄 VID_20241228_180831_847.mp4
+│   ├── 📄 VoIP_partie I_Etudiants_21_22-1.pdf
+│   ├── 📄 VVoIP_Numérisation_Voix_Humaine_P1_23-24.pdf
+│   ├── 📁 Exmns/
+│   │   ├── 📄 2021
+│   │   ├── 📄 2020
+│   │   ├── 📄 2022
+│   │   ├── 📄 2024
+│   │   └── 📄 2023
+│   └── 📁 Td/
+│       └── 📄 TD_VoIP_p2.pdf
+└── 🔗📁 VOIP/  (raccourci)
+    ├── 📁 TP/
+    │   ├── 📄 TP-SIP-Guide et Instructions
+    │   ├── 📄 devoir1.pdf
+    │   ├── 📄 TP1-toip-maquette_packettracer.pdf
+    │   └── 📁 TPs/
+    │       ├── 📄 tp packet tracer .pkt
+    │       ├── 📄 tp1.pkt
+    │       ├── 📄 ~$ packet tracer.docx
+    │       ├── 📄 ~WRL3690.tmp
+    │       └── 📄 TP1.docx
+    ├── 📁 TD/
+    │   ├── 📄 TD-Suplplémentaire.pdf
+    │   ├── 📄 TD-Supplementaire-solution.pdf
+    │   ├── 📄 TD-Streaming_correction.pdf
+    │   ├── 📄 TD-numérisation_correction.pdf
+    │   ├── 📄 TD-multiplexage_correction.pdf
+    │   ├── 📄 TD_RTP-RTCP_correction.pdf
+    │   ├── 📄 TD_H323_Correction.pdf
+    │   ├── 📄 TD-1-Numérisation-Echantillonage et Quantification.docx
+    │   ├── 📄 TD 10   Numérisation des signaux audio-solution.docx
+    │   ├── 📄 TD5-H323.docx
+    │   ├── 📄 TD4-streaming.docx
+    │   ├── 📄 TD 11-Multiplexage+solution.docx
+    │   ├── 📄 TD 11-Multiplexage.docx
+    │   ├── 📄 TD 10   Numérisation des signaux audio.docx
+    │   ├── 📄 TD 2   protocole transport multimedia.docx
+    │   ├── 📄 intero-rt2-2019-2020.docx
+    │   ├── 📄 EMD-RT2-2021-solution.docx
+    │   ├── 📄 TD 3  RTP-RTCP-RTT.pdf
+    │   └── 📄 emd-rt2-2018-2019.pdf
+    └── 📁 Cour/
+        ├── 📄 chapitre-1-VoIP-lecture1.pptx
+        ├── 📄 chapitre-3-VoIP-lecture1.ppsx
+        ├── 📄 chapitre-fux multimédia-CODEC.docx
+        └── 📄 chapitre-2-VoIP-lecture3.ppsx
+
+═════════════════════════════════════
+  Fin du fichier · VoIP
+═════════════════════════════════════

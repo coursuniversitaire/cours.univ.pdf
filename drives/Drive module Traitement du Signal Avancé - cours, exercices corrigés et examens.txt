@@ -1,0 +1,94 @@
+📚 MODULE : Traitement du Signal Avancé               
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Traitement du Signal Avancé.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Traitement du Signal Avancé/
+├── 🔗📁 tas-20260529T204948Z-3-001.zip  (raccourci)
+├── 🔗📁 signal/  (raccourci)
+│   ├── 🔗📁 Docs_Belkacem  (raccourci)
+│   ├── 📄 table transformees.pdf
+│   ├── 📁 tp/
+│   │   ├── 📄 TP2.pdf
+│   │   └── 📄 TP1.pdf
+│   └── 📁 td/
+│       ├── 📄 corrigé signal td.pdf
+│       ├── 📄 TD2.pdf
+│       └── 📄 TD1.pdf
+└── 🔗📁 tas/  (raccourci)
+    ├── 📁 cours/
+    │   └── 📄 Cours_Tas.pdf
+    ├── 📁 tp/
+    │   ├── 📁 enonce/
+    │   │   ├── 📄 TP1 2018-INST-ESE.pdf
+    │   │   ├── 📄 TP2 2018-INST-ESE.pdf
+    │   │   └── 📄 TP3 2018-INST-ESE.pdf
+    │   └── 📁 cr/
+    │       ├── 📄 préparation Tp1.pdf
+    │       ├── 📄 Preparation tp2.pdf
+    │       ├── 📄 cmpte_rendu_tp3.pdf
+    │       ├── 📄 Compte rendu du TP 2 ESE.pdf
+    │       ├── 📄 Compte rendu du TP 01.pdf
+    │       ├── 📁 TP3/
+    │       │   ├── 📄 oneladiff.m
+    │       │   ├── 📄 partie6.m
+    │       │   ├── 📄 partie5_filtrage_adaptatif_exo1.m
+    │       │   ├── 📄 Partie4_moyenne_var_mrthodes_matlab.m
+    │       │   ├── 📄 Partie3_moyenne_var_correlation_temporelle.m
+    │       │   ├── 📄 Partie2_moyenne_var_correlation_statique.m
+    │       │   └── 📄 partie1_gener_un_signal_aleatoire.m
+    │       ├── 📁 tp1/
+    │       │   ├── 📄 implupassehaut.m
+    │       │   ├── 📄 implupassebas.m
+    │       │   ├── 📄 reqpassehaut.m
+    │       │   ├── 📄 fir2.m
+    │       │   ├── 📄 freqpassebas.m
+    │       │   └── 📄 butterpassebas.m
+    │       └── 📁 tp 2/
+    │           ├── 📁 romy/
+    │           │   ├── 📄 Untitled3.m
+    │           │   ├── 📄 tp2bessel.m
+    │           │   ├── 📄 chybychev2.m
+    │           │   ├── 📄 chybychev1.m
+    │           │   └── 📄 bouter.m
+    │           └── 📁 zina/
+    │               ├── 📄 tp-tas-n2-souyeb-demik.docx
+    │               ├── 📄 tpp2222.m
+    │               ├── 📄 tp2SAN.m
+    │               ├── 📄 tp22.m
+    │               ├── 📄 low.m
+    │               ├── 📄 tp2.m
+    │               ├── 📄 cheby1low-2.m
+    │               └── 📄 cheby1low-1.m
+    ├── 📁 exam/
+    │   └── 📁 ESE/
+    │       ├── 📄 corrigé-TAS-2017-18.pdf
+    │       ├── 📄 26805434_1383713841739136_3925055016698253239_n.jpg
+    │       ├── 📄 19247967_1383713805072473_6147151749073997342_n.jpg
+    │       └── 📄 19247823_1383713908405796_3781028396208838882_n.jpg
+    ├── 📁 td/
+    │   └── 📄 Td_TAS.pdf
+    └── 📁 serie/
+        ├── 📄 TD8-TAS-2018.pdf
+        ├── 📄 TD7-TAS-2018.pdf
+        ├── 📄 TD6-TAS-2018-modifié.pdf
+        ├── 📄 TD6-TAS-2018.pdf
+        ├── 📄 TD3-TAS-2018.pdf
+        ├── 📄 TD5-TAS-2018.pdf
+        ├── 📄 TD4-TAS-2018.pdf
+        ├── 📄 TD1-TAS-2018.pdf
+        └── 📄 TD2-TAS-2018.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Traitement du Signal Avancé
+═════════════════════════════════════

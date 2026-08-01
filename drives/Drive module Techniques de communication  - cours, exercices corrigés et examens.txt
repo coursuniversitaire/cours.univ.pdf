@@ -1,0 +1,29 @@
+📚 MODULE : Techniques de communication               
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Techniques de communication .
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Techniques de communication /
+├── 📄 Résumé-communication(1).docx
+├── 📄 3.docx
+├── 📄 Résumé-communication.docx
+├── 📄 2(1).docx
+├── 📄 2.docx
+├── 📄 Entrainement Compte Rendu.docx
+├── 📄 1.docx
+├── 📄 Entrainement Compte Rendu(1).docx
+└── 📄 1(1).docx
+
+═════════════════════════════════════
+  Fin du fichier · Techniques de communication 
+═════════════════════════════════════

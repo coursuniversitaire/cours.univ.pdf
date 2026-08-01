@@ -1,0 +1,92 @@
+📚 MODULE : Web Services                              
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Web Services.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Web Services/
+├── 🔗📁 Architecture SOA/  (raccourci)
+│   ├── 📁 TP/
+│   │   ├── 📄 TP3 : XSD Exercice 1 (corrigé).pdf
+│   │   ├── 📄 TP3 : XSD.pdf
+│   │   ├── 📄 TP2 : XML (corrigé).pdf
+│   │   ├── 📄 TP2 : XML.pdf
+│   │   ├── 📄 TP1 : RMI (corrigé).pdf
+│   │   ├── 📄 TP1 : RMI.pdf
+│   │   ├── 📄 atelier 2 - jaxrs avec jersey java 17 grizzly server et IntelliJ.pdf
+│   │   └── 📄 atelier 1 - jaxws avec java 17 et IntelliJ.pdf
+│   └── 📁 Cours/
+│       ├── 📄 RSK-SOA-Standards Services web(SOAP)VE.pdf
+│       ├── 📄 RSK-SOA-Standards Services web(WSDL).pdf
+│       ├── 📄 chap2 XSD & espace de noms.pdf
+│       └── 📄 RSK-SOA-Standards Services web(XML).pdf
+├── 🔗📁 SOA/  (raccourci)
+│   ├── 📁 DS/
+│   │   ├── 📄 249774360_200349585573795_4161068053995656636_n.jpg
+│   │   ├── 📄 249048051_1766132393597610_7466398652678935339_n.jpg
+│   │   ├── 📄 248411642_656766868893119_2277269602382715000_n.jpg
+│   │   └── 📄 248550364_573810910496105_6009681201615229689_n.jpg
+│   ├── 📁 exams/
+│   │   ├── 📁 exam 1/
+│   │   └── 📁 serie d_exercice/
+│   ├── 📁 Cour L3CS03/
+│   │   └── 📄 chapitre 2 - vf.pdf
+│   └── 📁 Cour L3CS02/
+│       └── 📄 RSK-SOA-Standards Services web(XML).pdf
+├── 🔗📁 exms/  (raccourci)
+│   ├── 📄 exm qcm.pdf
+│   ├── 📄 ScreenShot_20220121122830.png
+│   ├── 📄 ScreenShot_20220121122815.png
+│   ├── 📄 ScreenShot_20220121122737.png
+│   ├── 📄 kenzi7.jpg
+│   ├── 📄 kenzi6.jpg
+│   ├── 📄 kenzi2.jpg
+│   ├── 📄 kenzi.jpg
+│   ├── 📄 kenzi 4.jpg
+│   ├── 📄 kenzi 3.jpg
+│   └── 📄 kenzi 1.jpg
+├── 📁 Examens/
+│   ├── 📄 Examens Web Services Questions du cours et exercices pratiques SOC MDE
+│   └── 📄 Examens Web Services Questions du cours et exercices pratiques SOC MDE
+├── 📁 Cours/
+│   ├── 📄 Cours Service Web REST FULL.pdf
+│   ├── 📄 Cours Service web Comprendre la difference serveur web et conteneur web Tomcat Apache Web Services
+│   ├── 📄 Cours Introduction aux Services Web SOAP REST et leurs applications en Java Web Services
+│   └── 📄 Cours Architecture et Implementation Service Web SOAP avec JAX-WS et WSDL Web Services
+└── 📁 TP /
+    ├── 📄 tp-controle2020-1rsd.pdf
+    ├── 📄 tp4-wservice-servicerestfull.pdf
+    ├── 📄 tp2-wservice-protocole_http.pdf
+    ├── 📄 solution_tp1.pdf
+    ├── 📄 tp1-wservice-xml-csv-json.pdf
+    ├── 📄 Exercices TP3 Java JAX-RS Gestion Absence et Notes avec Interactions API Web Services
+    ├── 📄 Exercices TP Java SOAP avec Netbeans et Glassfish pour Calcul Mensualite Web Services
+    ├── 📄 Exercices TP Services Web Analyse WSDL Length Distance Unit Convertor Web Services
+    ├── 📄 Exercices TP SOA gestion bibliothèque avec JAX-RS et client Java Web Services
+    ├── 📄 Tp1
+    ├── 📄 TP SW.zip
+    ├── 📄 USER_SCOPED_TEMP_DATA_orca-image--161773598.jpeg
+    ├── 📁 Tp2/
+    │   └── 📄 Exercices TP2 Web Service HTTP et Navigation Musée Rodin Analyse Requêtes Web Services
+    ├── 📁 Tp1/
+    │   ├── 📄 Corrigé Exercices TP1 Conversion XML vers CSV et JSON avec des données structurées Web Services
+    │   ├── 📄 Corrigé Exercices TP1 Conversion XML vers CSV et JSON avec des données structurées Web Services
+    │   ├── 📄 Corrigé Exercices TP1 Conversion XML vers CSV et JSON avec des données structurées Web Services
+    │   └── 📄 Exercices TP1 Comparaison CSV XML JSON pour les Web Services
+    ├── 📁 Tp4/
+    │   └── 📄 Exercices TP4 Creation Service REST Full avec Netbeans et JavaEE Web Services
+    └── 📁 Tp3/
+        └── 📄 Exercices TP3 Creation Service Web SOAP avec JAX-WS et SOAPUI Netbeans Web Services
+
+═════════════════════════════════════
+  Fin du fichier · Web Services
+═════════════════════════════════════

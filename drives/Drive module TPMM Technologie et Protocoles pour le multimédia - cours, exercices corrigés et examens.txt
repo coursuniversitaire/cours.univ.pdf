@@ -1,0 +1,92 @@
+📚 MODULE : TPMM Technologie et Protocoles pour le multimédia
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module TPMM Technologie et Protocoles pour le multimédia.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 TPMM Technologie et Protocoles pour le multimédia/
+├── 🔗📁 TPMM Dali/  (raccourci)
+│   ├── 📄 DSC_0387.JPG
+│   ├── 📄 DSC_0386.JPG
+│   ├── 📄 DSC_0396.JPG
+│   ├── 📄 DSC_0395.JPG
+│   ├── 📄 DSC_0394.JPG
+│   ├── 📄 DSC_0393.JPG
+│   ├── 📄 DSC_0392.JPG
+│   ├── 📄 DSC_0391.JPG
+│   ├── 📄 DSC_0388.JPG
+│   ├── 📁 TPMM TP/
+│   │   ├── 📁 TP2/
+│   │   │   ├── 📄 TP2.pdf
+│   │   │   ├── 📄 TP2Pt5DCT2D.m
+│   │   │   ├── 📄 TP2Pt4DCT1D.m
+│   │   │   ├── 📄 TP2Pt3Shan.m
+│   │   │   ├── 📄 TP2Pt2Huff.m
+│   │   │   └── 📄 TP2Pt1SubSamp.m
+│   │   ├── 📁 MATLAB/
+│   │   │   ├── 📄 Allianz.jpg
+│   │   │   ├── 📄 Palestalgerian.jpg
+│   │   │   ├── 📄 Ali.tif
+│   │   │   ├── 📄 Calisthenics park.jpg
+│   │   │   ├── 📄 Ali.jpg
+│   │   │   ├── 📄 im2.jpg
+│   │   │   ├── 📄 im1.jpg
+│   │   │   └── 📄 Le dossier MATLAB à coller fi Documents.txt
+│   │   ├── 📁 TP3/
+│   │   │   ├── 📄 ~WRL0003.tmp
+│   │   │   ├── 📄 ~WRL3853.tmp
+│   │   │   ├── 📄 TP3.pdf
+│   │   │   ├── 📄 ~$TP3.docx
+│   │   │   ├── 📄 TP3Pt2Youcef.m
+│   │   │   ├── 📄 TP3Pt2.m
+│   │   │   ├── 📄 TP3Pt1Youcef.m
+│   │   │   └── 📄 TP3Pt1.m
+│   │   ├── 📁 TP1/
+│   │   │   ├── 📄 TP1.pdf
+│   │   │   ├── 📄 TP1Pt4RepresentationOfTheImageInDifferentColoursSystems.m
+│   │   │   ├── 📄 TP1Pt2SynthesisAndFilteringOfAnAudioSignal.m
+│   │   │   └── 📄 TP1Pt1Sampling_sine.m
+│   │   └── 📁 TP4/
+│   │       ├── 📄 TP4Pt2.m
+│   │       └── 📄 TP4Pt1.m
+│   ├── 📁 TPMM cours/
+│   │   ├── 📄 Ch1 Intro au multimédia.pdf
+│   │   ├── 📄 Ch3 Compression et synchronisation des données.pdf
+│   │   └── 📄 Ch2 Représentation de données multimédia.pdf
+│   └── 📁 TPMM TD/
+│       ├── 📄 TD2.pdf
+│       ├── 📄 TD2 correction.pdf
+│       ├── 📄 TPMM TD.pdf
+│       └── 📄 TPMM TD 2018-19.pdf
+├── 📁 Tps/
+│   ├── 📄 TP1.pdf
+│   ├── 📄 TP3.pdf
+│   └── 📄 TP2.pdf
+├── 📁 Tds corrigés/
+│   ├── 📄 TD2 correction.pdf
+│   ├── 📄 TD2.pdf
+│   ├── 📄 TPMM TD 2018-19.pdf
+│   └── 📄 TPMM TD.pdf
+└── 📁 Examens/
+    ├── 📄 DSC_0386.JPG
+    ├── 📄 DSC_0387.JPG
+    ├── 📄 DSC_0388.JPG
+    ├── 📄 DSC_0391.JPG
+    ├── 📄 DSC_0392.JPG
+    ├── 📄 DSC_0393.JPG
+    ├── 📄 DSC_0394.JPG
+    ├── 📄 DSC_0395.JPG
+    └── 📄 DSC_0396.JPG
+
+═════════════════════════════════════
+  Fin du fichier · TPMM Technologie et Protocoles pour le multimédia
+═════════════════════════════════════

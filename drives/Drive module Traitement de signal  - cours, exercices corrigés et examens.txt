@@ -1,0 +1,341 @@
+📚 MODULE : Traitement de signal                      
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Traitement de signal .
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Traitement de signal /
+├── 🔗📁 Théorie du signal/  (raccourci)
+│   ├── 📁 Cours/
+│   │   ├── 📄 Théorie de Signal.pdf
+│   │   ├── 📄 Theorie du signal - www.espace-etudiant.net.pdf
+│   │   └── 📁 Résumé/
+│   │       ├── 📄 4.jpg
+│   │       ├── 📄 3.jpg
+│   │       ├── 📄 2.jpg
+│   │       └── 📄 1.jpg
+│   ├── 📁 Examens Test/
+│   │   ├── 📁 Lagh 2017/
+│   │   │   ├── 📄 Examen Signal 2017.pdf
+│   │   │   ├── 📄 5.jpg
+│   │   │   ├── 📄 4.jpg
+│   │   │   ├── 📄 2.jpg
+│   │   │   ├── 📄 1.jpg
+│   │   │   └── 📄 3.jpg
+│   │   └── 📁 Test Lagh 2017/
+│   │       ├── 📄 Test Théorie de signal 2017.pdf
+│   │       ├── 📄 5.jpg
+│   │       ├── 📄 4.jpg
+│   │       ├── 📄 3.jpg
+│   │       ├── 📄 1.jpg
+│   │       └── 📄 2.jpg
+│   └── 📁 TD/
+│       └── 📁 Lagh2017/
+│           ├── 📄 theorie de signal.pdf
+│           ├── 📄 9.jpg
+│           ├── 📄 8.jpg
+│           ├── 📄 7.jpg
+│           ├── 📄 6.jpg
+│           ├── 📄 3.jpg
+│           ├── 📄 29.jpg
+│           ├── 📄 28.jpg
+│           ├── 📄 27.jpg
+│           ├── 📄 26.jpg
+│           ├── 📄 25.jpg
+│           ├── 📄 24.jpg
+│           ├── 📄 23.jpg
+│           ├── 📄 22.jpg
+│           ├── 📄 21.jpg
+│           ├── 📄 20.jpg
+│           ├── 📄 19.jpg
+│           ├── 📄 18.jpg
+│           ├── 📄 17.jpg
+│           ├── 📄 16.jpg
+│           ├── 📄 15.jpg
+│           ├── 📄 14.jpg
+│           ├── 📄 13.jpg
+│           ├── 📄 12.jpg
+│           ├── 📄 11.jpg
+│           ├── 📄 10.jpg
+│           ├── 📄 4.jpg
+│           ├── 📄 2.jpg
+│           ├── 📄 1.jpg
+│           └── 📄 5.jpg
+├── 🔗📁 Traitement du signal /  (raccourci)
+│   ├── 📁 Résumé de formule incomplet/
+│   │   └── 📄 Formule.pdf
+│   ├── 📁 Série révision & Correction /
+│   │   ├── 📄 Correction Revision_TNS-S2.pdf
+│   │   └── 📄 Revision_TNS-S2.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 Serie TD5 -TS.pdf
+│   │   ├── 📄 Serie TD4 -TS.pdf
+│   │   ├── 📄 Serie TD3 - TS.pdf
+│   │   ├── 📄 Serie TD2 - TS.pdf
+│   │   └── 📄 Serie TD1 - TS.pdf
+│   └── 📁 Cour /
+│       └── 📄 Traitement du signal - Chapitres 1, 2, 3, 4 et 5 - IA - 2023-2024.pdf
+├── 🔗📁 Traitement de signal VVV/  (raccourci)
+│   ├── 📄 EXAMEN FINAL.pdf
+│   ├── 📄 controlle TT.pdf
+│   ├── 📄 controle 21.jpeg
+│   ├── 📄 remarque.txt
+│   ├── 📄 controle 1.jpeg
+│   ├── 📁 TP/
+│   │   ├── 📄 TP.pdf
+│   │   └── 📁 CR HABBI/
+│   │       ├── 📄 CR_manip4.docx
+│   │       ├── 📄 CR_manip3.docx
+│   │       ├── 📄 CR_manip1.docx
+│   │       ├── 📄 CR_manip5.docx
+│   │       └── 📄 CR_manip2.docx
+│   ├── 📁 Traitement analogique/
+│   │   ├── 📄 desktop.ini
+│   │   ├── 📁 TD/
+│   │   │   ├── 📄 2019_11_05_21_12_IMG_0903.JPG
+│   │   │   ├── 📄 TD5.pdf
+│   │   │   ├── 📄 TD Dé-Modulation AM.pdf
+│   │   │   ├── 📄 TD FM1.pdf
+│   │   │   ├── 📄 TD6.pdf
+│   │   │   ├── 📄 TD4(1).pdf
+│   │   │   ├── 📄 TD1.pdf
+│   │   │   └── 📄 TD AM FM.pdf
+│   │   ├── 📁 PDF/
+│   │   │   └── 📄 Aide-mÃ©moire - Traitement du signal.pdf
+│   │   └── 📁 Examens/
+│   │       ├── 📄 desktop.ini
+│   │       ├── 📄 Exm _ TD.pdf
+│   │       ├── 📄 2019_12_19_14_39_IMG_1230.JPG
+│   │       ├── 📄 271220103028.jpg
+│   │       ├── 📄 271220103024.jpg
+│   │       ├── 📄 271220103023.jpg
+│   │       ├── 📄 271220103022.jpg
+│   │       ├── 📄 271220103021.jpg
+│   │       ├── 📄 261220103019.jpg
+│   │       ├── 📄 261220103018.jpg
+│   │       ├── 📄 261220103017.jpg
+│   │       ├── 📄 261220103016.jpg
+│   │       ├── 📄 261220103011.jpg
+│   │       ├── 📄 261220103009.jpg
+│   │       ├── 📄 261220103002.jpg
+│   │       └── 📄 261220103001.jpg
+│   ├── 📁 Traitement numerique/
+│   │   ├── 📄 desktop.ini
+│   │   ├── 📁 Exms/
+│   │   │   ├── 📄 2019_11_05_21_13_IMG_0904.JPG
+│   │   │   ├── 📄 Exms _ TD.pdf
+│   │   │   ├── 📄 20161104_214417.jpg
+│   │   │   ├── 📄 2019_12_24_21_23_IMG_1249.JPG
+│   │   │   ├── 📄 14915617_1462815703733519_6496783948859920664_n.jpg
+│   │   │   ├── 📄 14906834_1462815663733523_4193204343622307564_n.jpg
+│   │   │   ├── 📄 20161104_214354.jpg
+│   │   │   ├── 📄 20161104_214317.jpg
+│   │   │   ├── 📄 20161104_214219.jpg
+│   │   │   ├── 📄 20131201_202412.jpg
+│   │   │   ├── 📄 20131201_202440.jpg
+│   │   │   ├── 📄 6.jpg
+│   │   │   ├── 📄 4.jpg
+│   │   │   └── 📄 5.jpg
+│   │   └── 📁 TD/
+│   │       ├── 📄 2019_12_26_21_38_IMG_1258.JPG
+│   │       └── 📄 20161104_214229.jpg
+│   ├── 📁 Exam Final (analogique _ numerique)/
+│   │   ├── 📄 desktop.ini
+│   │   └── 📄 Exms fin de module.pdf
+│   └── 📁 cours/
+│       ├── 📄 cours de technique de transmission 21/22.pdf
+│       ├── 📄 cours.pdf
+│       ├── 📄 cours partie 3.pdf
+│       ├── 📄 cours partie 2.pdf
+│       └── 📄 cours partie 1.pdf
+├── 📄 TD 2 Traitement du Signal
+├── 📄 TD  Traitement du Signal
+├── 📄 Examen TDS QCM
+├── 📄 Exercices Systèmes  Communication Traitement Information
+├── 📄 TP 1 Theorie du signal
+├── 📄 Exercices Convolution Chapter 5
+├── 📄 TD Traitement du signal
+├── 📄 TD  Traitement du signal  RT14  -  Pr.  Kamel Belloullata
+├── 📄 Exercices  Convolution et Autocorrélation
+├── 📄 Exercices  Convolution et Autocorrélation
+├── 📄 TP 2 Signal Numerique Echantillonnage Quantification
+├── 📄 TP 2 Signal Numerique Echantillonnage Quantification
+├── 📄 TD 1 Convolution Transformée Fourier
+├── 📄 TP  N°1  Génération et affichage des signaux continus
+├── 📄 TD  Traitement du signal  RT14  -  Pr.  Kamel Belloullata
+├── 📄 Cours Traitement du signal et applications
+├── 📄 TD  Fading Relay Channels Performance Limits and Space Time Signal Design
+├── 📄 TD 1 Traitement Numerique Signal
+├── 📄 TD  Traitement du signal TD  et Corrections de TD en Traitement du signal
+├── 📄 Examen Signal Traitement
+├── 📄 Examen Traitement du Signal
+├── 📄 Examen Traitement du signal
+├── 📄 TD  Traitement du Signal SMP S6
+├── 📄 Examen traitement du signal
+├── 📄 Exercices Traitement du signal AS13
+├── 📄 Exercices Traitement de Signal HEIG-Vd
+├── 📄 TD Traitement du signal
+├── 📄 TD 1 Theorie du signal EZN et TLC
+├── 📄 TD 1 Traitement du signal
+├── 📄 Cours SMP S6 P Electronique Traitement du signal
+├── 📄 Cours Traitement du signal  Pr Imad Ez-zazi ENSA Fes
+├── 📄 TP 2 Signal numerique Echantillonnage et Quantification
+├── 📄 Cours Rappels Traitement du Signal
+├── 📄 Exercices  Discrete Time Signals Sampling and Quantization
+├── 📄 TD 3 Exercices
+├── 📄 Exercices Correlation
+├── 📄 Cours Transformée de Fourier
+├── 📄 Exercices Convolution Chapter 5
+├── 📄 Cours  FIR et IIR Digital Filters
+├── 📄 Cours MATLAB Programming
+├── 📄 Cours  Z Transform
+├── 📄 Cours Discrete Time Systems
+├── 📄 TP 2 Signal numerique Echantillonnage et Quantification
+├── 📄 TP 5 Echantillonnage
+├── 📄 TP 4 Echantillonnage  Signal
+├── 📄 Cours Signal Theorie  Correlations et Densite Spectrale
+├── 📄 Cours Continuous Time Fourier Transform
+├── 📄 Cours Discrete Fourier Transform FFT
+├── 📄 TD 2 Theorie du signal
+├── 📄 TD Théorie du signal 1
+├── 📄 Cours L3 Théorie du signal Distributions
+├── 📄 cours Theorie du signal
+├── 📄 Cours Probabilités et processus éléments
+├── 📄 Cours Signal Theorie Hilbert Transform Analytic Signals
+├── 📄 Cours Traitement du Signal 1 Maxime Ossonce
+├── 📄 TD Théorie du signal Convolution et Fourier
+├── 📄 TD 1 Serie de Fourier
+├── 📄 Controle L3 L3 Theorie du signal  
+    
+Cours
+├── 📄 TD 1 Convolution Transformée Fourier
+├── 📄 Exercices  Convolution et Autocorrélation
+├── 📄 TD Theorie du Signal
+├── 📄 TP Theorie du signal L3
+├── 📄 TP 1 Theorie du signal
+├── 📄 TP 3 Analyse Spectrale Analyse temps frequence par spectrogramme
+├── 📄 TP 2 Signal Numerique Echantillonnage Quantification
+├── 📄 Exercices Traitement du signal
+├── 📄 TP 3 Analyse Frequentielle Analyse Temps Frequence Par Spectrogramme Limites De L Analyse De Fourier
+├── 📄 TP Analyse Spectrale Numerique
+├── 📄 TD 533 Analyse spectrale signaux et systèmes
+├── 📄 TD 1 Signaux Serie de Fourier
+├── 📄 Exercices Traitement de Signal HEIG-Vd
+├── 📄 TD 1 Généralités sur les signaux
+├── 📄 TD 2 Représentation des signaux
+├── 📄 TD Traitement de Signal
+├── 📄 TD 3 Signaux Aleatoires
+├── 📄 TD 03 Transformation en Z et Filtre Numerique
+├── 📄 TD 1 Rappels sur les signaux discrets
+├── 📄 TD 1 Transformée de Fourier Discrete
+├── 📄 Cours Traitement des Signaux
+├── 📄 TD 3 Traitement du Signal DESA SCTI
+├── 📄 Exercices Traitement du Signal
+├── 📄 TD 2 Traitement du Signal
+├── 📄 TD 2 Traitement du Signal
+├── 📄 Exercices  Traitement du Signal  Université Ibn Tofail
+├── 📄 Exercices Systèmes  Communication Traitement Information
+├── 📄 TD M136 Suites et séries de fonctions
+├── 📄 TD M136 Suites et séries de fonctions
+├── 📄 Cours Signaux et systemes representation frequentielle
+├── 📄 Cours Traitement de Signal analogique et numerique
+├── 📄 Cours Traitement du Signal
+├── 📄 Cours Detection et filtrage des signaux bruites
+├── 📄 Exercices Signal et Images Formulaire
+├── 📄 Cours Traitement du signal Chapitre 1 Généralités sur les signaux
+├── 📄 Cours Traitement de Signal Analogique et Numérique
+├── 📄 Cours Traitement du signal Chapitre 3 Echantillonnage
+├── 📄 Cours Traitement du signal Chapitre 2 Transformations de Fourier
+├── 📄 Cours Traitement du signal Numérisation des Signaux
+├── 📄 Cours Traitement de Signal analogique et numerique
+├── 📄 Cours Traitement du Signal numerique
+├── 📄 Examen  Traitement du Signal  Telecommunications et Reseaux
+├── 📄 TD  Représentation Graphique
+├── 📄 TD 1 Serie de Fourier
+├── 📄 TP 2 Transformation de Fourier et Filtrage
+├── 📄 TP Traitement de Signal
+├── 📄 Cours Traitement de Signal Master Instrumentation Chebbara Fouad
+├── 📄 TP Traitement du signal FFT Matlab
+├── 📄 Cours Traitement du signal Filtrage Analogique
+├── 📄 Cours Filtre Actif 1er ordre
+├── 📄 TD Traitement du signal Matlab
+├── 📄 Examen TDS QCM
+├── 📄 Cours Traitement Du Signal Filtrage Lineaire
+├── 📄 Cours Traitement Du Signal Convolution Correlation
+├── 📄 Examen Traitement du Signal TDS
+├── 📄 Examen Traitement du Signal TDS
+├── 📄 Cours Traitement du Signal Filtrage numerique
+├── 📄 Cours Traitement Du Signal Introduction
+├── 📄 Cours Traitement du Signal Signaux numeriques 1 12
+├── 📄 Cours Traitement Du Signal Transformées Discrètes
+├── 📄 Cours Traitement Du Signal Series De Fourier
+├── 📄 Cours Traitement Signal Transformee Fourier
+├── 📄 Examen Traitement du signal ESTACA 3eme année
+├── 📄 TD 2 Traitement du Signal
+├── 📄 TD  Traitement du Signal
+├── 📄 Examen M1 Informatique Bases du Traitement du Signal session 2e
+├── 📄 Exercices  Travail Dirige  4  avec correction  Signal
+├── 📄 Examen Traitement du Signal ESTACA
+├── 📄 Examen Traitement du Signal 1
+├── 📄 TD 2 Traitement du Signal
+├── 📄 Cours Traitement Du Signal Transformée En Z
+├── 📄 Examen Traitement du Signal TDS
+├── 📄 Controle TD Electronique Traitement du signal
+├── 📄 TP 1 Generation et Affichage des Signaux Continus
+├── 📄 Cours Traitement avance du signal radars
+├── 📄 Exercices Tableaux de correspondance entre transformée en z et de Laplace
+├── 📄 Cours Transformée de Laplace
+├── 📄 Cours Transformations en z
+├── 📄 TD  Le Filtrage Numerique
+├── 📄 Cours  Chapitre 2 Filtrage
+├── 📄 Cours Initiation a MATLAB Prevost
+├── 📄 Cours Theorie du Signal
+├── 📄 Examen  S6  Traitement de l information et systemes electroniques
+├── 📄 Examen Theorie et traitement du signal
+├── 📄 Examen ELT 405 Traitement du signal
+├── 📄 Examen S5 Traitement de  Signaux
+├── 📄 TP 1  Génération Correlation et Representation Frequentielle des signaux
+├── 📄 Cours UV Traitement du signal Cours 4 Systèmes linéaires continus
+├── 📄 TP 2 Correlation et convolution
+├── 📄 TD Traitement du Signal
+├── 📄 TP 7 Quantification
+├── 📄 TD ASI 3 Représentation Fréquentielle des Signaux
+├── 📄 Cours ASI 3 Transformée de Fourier Discrète
+├── 📄 Cours UV Traitement du signal ASI 3
+├── 📄 TD 1 Traitement du signal  Median
+├── 📄 Examen Traitement du signal AS13
+├── 📄 TP 3 Corrélation et Convolution
+├── 📄 Exercices AS13 Traitement du signal
+├── 📄 TP 4 Transformation de Fourier et Echantillonnage des signaux analogiques
+├── 📄 TD 5 Analyse de Fourier des Signaux Discrets
+├── 📄 TD 1  Traitement de signal Analogique
+├── 📄 TP Simulink Traitement Signal Analogique
+├── 📄 Cours  Numerisation des Signaux et des Systemes de CN
+├── 📄 Cours Traitement du signal Module
+├── 📄 Cours Transformées de Fourier discrète DFT et rapide FFT
+├── 📄 Cours Echantillonnage des signaux
+├── 📄 Exercices Traitement avance du signal
+├── 📄 Exercices  Etude des signaux analogiques  (Fourier)
+├── 📄 TD 1 Traitement avancé du signal
+├── 📄 Cours Synthese des filtres analogiques d ordre superieur
+├── 📄 Cours Transformée de Laplace
+├── 📄 Cours Introduction  a la Numerisation des Signaux et des Systemes de CN
+├── 📄 Examen Bases du Traitement du Signal
+├── 📄 TD 3 Traitement du Signal
+├── 📄 Examen Traitement du Signal TDS
+├── 📄 Exercices  Traitement du signal Serie de Fourier
+├── 📄 TD 4 Traitement du signal
+└── 📄 TP 2 Analyse et traitement de signal sous Matlab
+
+═════════════════════════════════════
+  Fin du fichier · Traitement de signal 
+═════════════════════════════════════

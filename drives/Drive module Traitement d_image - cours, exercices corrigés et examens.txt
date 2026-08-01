@@ -1,0 +1,98 @@
+📚 MODULE : Traitement d'image                        
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Traitement d'image.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Traitement d'image/
+├── 📄 Examen Traitement d'Images Concepts de base
+├── 📄 Examen Traitement d'Images Concepts de base
+├── 📄 Examen Traitement d'Images Concepts de base
+├── 📄 TD 1 Solution du module T.I
+├── 📄 TD 1 Solution du module T.I
+├── 📄 Examen Traitement d'images
+├── 📄 TP 2 : Traitements de bases sur les images
+├── 📄 TP 3 : Filtrage du bruit
+├── 📄 TP 2 : Traitements de bases sur les images
+├── 📄 TP 1 : Représentation des images, quantification et échantillonnage
+├── 📄 TI_Chap3.pdf
+├── 📄 TI_Chap1.pdf
+├── 🔗📁 S6 FST ERRACHIDIA Traitement d’Images Numériques/  (raccourci)
+│   ├── 📄 2022 SABOR.PNG
+│   ├── 📄 TP2_TI.pdf
+│   ├── 📄 TP3_TI.pdf
+│   ├── 📄 TI_Chap1.pdf
+│   ├── 📄 TI_Chap3.pdf
+│   └── 📄 TP1_TI.pdf
+├── 📄 TP  Traitement  du  Signal  IUP3  GSI  Option  TI
+├── 📄 Cours Traitement d'Image Numérique
+├── 📄 Cours Traitement d'images Detection de contours
+├── 📄 Cours Traitement d'images Convolution Spatiale
+├── 📄 TD Traitement et analyse d'images ANIMAG INSA Lyon
+├── 📄 Cours Traitement d images Binaires
+├── 📄 TP Traitement d'image sous MATLAB
+├── 📄 Cours TERI Traitement et reconnaissance d'images IAD
+├── 📄 Cours Segmentation par contours actifs
+├── 📄 Cours Compression de donnees Chap 4
+├── 📄 TD 4 Filtrage numerique des images
+├── 📄 TP  Traitement  d'images  digitales
+├── 📄 Examen d'outils fondamentaux en traitement d'images
+├── 📄 Examen Traitement d'images
+├── 📄 Cours Format Fichiers Images
+├── 📄 Cours Indexation et recherche d'images par le contenu
+├── 📄 Cours Morphologie mathematique en niveaux de gris
+├── 📄 Cours Detection des contours dans les images
+├── 📄 Examen Traitement d'images
+├── 📄 Exercices Traitement d'images
+├── 📄 Cours Segmentation par la methode des ensembles de niveaux
+├── 📄 TD 1 Solution du module T.I
+├── 📄 Examen Traitement d'Images Concepts de base
+├── 📄 TD 1 Traitement d'images
+├── 📄 TD 1 Traitement d images numeriques
+├── 📄 TP 1  Travail Pratique  Traitement d'images Matlab
+├── 📄 Cours Traitement D'images
+├── 📄 Exercices Traitement d'images GII
+├── 📄 TD 1 Images informatiques et leurs traitements
+├── 📄 Cours  Traitements des images numeriques
+├── 📄 Cours Images Numeriques
+├── 📄 Cours Échantillonnage et Rééchantillonnage d'Images
+├── 📄 Cours Les Calques
+├── 📄 Cours La Compression Des Images Numeriques
+├── 📄 TD Filtre usuels traitement d'images
+├── 📄 Cours Traitement D'images
+├── 📄 TD Traitement numérique de l'image
+├── 📄 TP 2 Traitement d images
+├── 📄 TP  1  Travail  Pratique  Traitement  d'images  MATLAB
+├── 📄 TP 2 Traitement d'images  
+TP
+├── 📄 Cours Compression et Stockage
+├── 📄 Cours Traitement D images
+├── 📄 Cours Traitement D'images
+├── 📄 TD 01  Informatique Infographie
+├── 📄 TD 2 Traitements d'image et histogrammes
+├── 📄 TD 1  Traitements d'image et Histrogrammes
+├── 📄 TP 1 Images informatiques et leurs traitements
+├── 📄 TP 2  Images informatiques et traitements
+├── 📄 TD 1 Images Informatiques Traitements et Filtrage
+├── 📄 TD 2 Traitements d'image et Histogrammes
+├── 📄 TD 3 Images informatiques traitements exercices supplementaires
+├── 📄 TP Manipulation d'image en Python
+├── 📄 Exercices  Javascript  Structures de donnees
+├── 📄 TD  Traitement d image Nabil El akkad
+├── 📄 TD Compression et Stockage
+├── 📄 TP  Introduction à MATLAB et opérations matricielles
+├── 📄 TP 2 Traitement d'images
+└── 📄 TD Matlab Initiation au traitement d'images
+
+═════════════════════════════════════
+  Fin du fichier · Traitement d'image
+═════════════════════════════════════

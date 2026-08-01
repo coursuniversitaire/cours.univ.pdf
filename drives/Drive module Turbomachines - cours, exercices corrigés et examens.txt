@@ -1,0 +1,61 @@
+📚 MODULE : Turbomachines                             
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Turbomachines.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Turbomachines/
+├── 🔗📁 Turbomachines/  (raccourci)
+│   ├── 📄 TM-I-Chapitre-02- Similitude.pdf
+│   ├── 📄 TM-I-Chapitre-01-Généralités.pdf
+│   ├── 📄 ch 04 Hydrodynamique.pdf
+│   ├── 📄 ch 03 Hydrostatique.pdf
+│   ├── 📄 ch 02 Caractéristiques d’un fluide.pdf
+│   ├── 📄 ch 01 Historique Mécanique des fluides.pdf
+│   └── 📁 TD/
+│       ├── 📄 turbo serie 03 lem 3 année.pdf
+│       ├── 📄 turbo serie 02 lem 3 année.pdf
+│       └── 📄 turbo serie 01 lem 3 année.pdf
+├── 🔗📁 turbomachine/  (raccourci)
+│   ├── 📄 ex 03 controle unv msila.pdf
+│   ├── 📄 chapitre II suite.pdf
+│   ├── 📄 annexe chapitre II (suite).pdf
+│   ├── 📄 references.rar
+│   ├── 📄 Facteur de glissement.pdf
+│   ├── 📄 chapitre 2 turbo.pdf
+│   └── 📄 Turbomachine chapitre I.pdf
+├── 🔗📁 Turbomachines - Turbines et Pompes  (raccourci)
+├── 📁 Examens/
+│   ├── 📄 Adobe Scan 26 Apr 2023.pdf
+│   ├── 📄 APPLICATION COURS.docx
+│   ├── 📄 APPLICATION-T-a-G-avec-solution.pdf
+│   └── 📄 EXERCICES.docx
+├── 📁 TD/
+│   ├── 📁 3/
+│   │   ├── 📄 TD03 solution.pdf
+│   │   └── 📄 TD03.pdf
+│   ├── 📁 1/
+│   │   ├── 📄 solutionTD01 Turbomachine.pdf
+│   │   ├── 📄 Exo 4 TD1.jpg
+│   │   └── 📄 Fiche TD 01.jpg
+│   └── 📁 2/
+│       ├── 📄 TD02 Turbomachine                                                                                                    L3 ELM.pdf
+│       └── 📄 TD02 Turbomachine 1                                                                                                   L3 ELM.pdf
+└── 📁 cours/
+    ├── 📄 suite de cour turbine a vapeur.pdf
+    ├── 📄 chapitre 01 principe d_une turbomachines - Copie.pdf
+    ├── 📄 chapitre 02 et 03 Turbomachines à fluide compressible.pdf
+    └── 📄 suite cour.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Turbomachines
+═════════════════════════════════════

@@ -1,0 +1,42 @@
+📚 MODULE : Thermochimie 2                            
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Thermochimie 2.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Thermochimie 2/
+├── 📁 TD & Exercices/
+│   ├── 📄 Corrigé de la Série 2 - 2014.pdf
+│   ├── 📄 Corrigé de la Série 1 - 2014.pdf
+│   ├── 📄 Corrigé série 1 2012 2013.pdf
+│   ├── 📄 corrigé  Série 1 2013 2014.pdf
+│   ├── 📄 corrigé Série 2 - 2014-2015.pdf
+│   ├── 📄 Série 1  2012 2013.pdf
+│   ├── 📄 Série 1  2013 2014 .pdf
+│   ├── 📄 Série 2 S1 2014-2015.pdf
+│   ├── 📄 thermochimie smpc_TD.pdf
+│   ├── 📄 TD4  thermochimie.pdf
+│   ├── 📄 TD3  thermochimie.pdf
+│   ├── 📄 TD2  thermochimie.pdf
+│   ├── 📄 TD1  thermochimie.pdf
+│   └── 📄 «exercices-Et-Problemes-Corriges-de-Thermodynamique-Chimique».pdf
+├── 📁 Cours/
+│   ├── 📄 ChapitreIII_thermochimie.pdf
+│   ├── 📄 ChapitreII thermochimie.pdf
+│   └── 📄 ChapitreI_thermochimie.pdf
+└── 📁 Examens Corrigées/
+    ├── 📄 Examens thermochimie FSO.rar
+    └── 📄 Examens corrigés thermochimie FS El jadida.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Thermochimie 2
+═════════════════════════════════════

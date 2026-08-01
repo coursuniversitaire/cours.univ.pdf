@@ -1,0 +1,71 @@
+📚 MODULE : Systèmes asservis échantillonnés          
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Systèmes asservis échantillonnés.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Systèmes asservis échantillonnés/
+├── 📄 1# SAE-20260614T193213Z-3-001.zip
+└── 📁 1# SAE/
+    ├── 📄 Programme_Systèmes Asservis échantillonnés.pdf
+    ├── 📁 td/
+    │   ├── 📄 TD1_corrigé.pdf
+    │   ├── 📄 TD5_corrigé.pdf
+    │   ├── 📄 TD3_corrigé.pdf
+    │   ├── 📄 TD3.pdf
+    │   ├── 📄 TD4_corrigé.pdf
+    │   ├── 📄 TD5.pdf
+    │   ├── 📄 TD2_corrigé.pdf
+    │   ├── 📄 TD4.pdf
+    │   ├── 📄 TD2.pdf
+    │   ├── 📄 TD1.pdf
+    │   └── 📄 table_TZ.pdf
+    ├── 📁 contrôles/
+    │   ├── 📄 contrôle_2_2013.pdf
+    │   ├── 📄 contrôle_2_2018.pdf
+    │   ├── 📄 contrôle_1_2017.pdf
+    │   └── 📄 contrôle_1_2018.pdf
+    ├── 📁 cours/
+    │   ├── 📄 CHAPITRE_4_Synthèse_des_correcteurs_numériques.pdf
+    │   ├── 📄 CHAPITRE_3_Analyse_des_systèmes_échantillonnés.pdf
+    │   ├── 📄 CHAPITRE_1_Systèmes_Echantillonnés.pdf
+    │   ├── 📄 résumé.pdf
+    │   ├── 📄 Exercice_de_cours_Correcteur_PID.pdf
+    │   └── 📄 CHAPITRE_2_Transformée_en_Z.pdf
+    ├── 📁 EF/
+    │   ├── 📄 EF2017_corrigé.pdf
+    │   ├── 📄 EF2014.pdf
+    │   ├── 📄 EF2013.pdf
+    │   ├── 📄 EF2018.pdf
+    │   ├── 📄 EF2011_corrigé.pdf
+    │   ├── 📄 EF2014_corrigé.pdf
+    │   ├── 📄 EF2015B_corrigé.pdf
+    │   ├── 📄 EF2017.pdf
+    │   ├── 📄 EF2012.pdf
+    │   ├── 📄 EF2012_corrigé.pdf
+    │   ├── 📄 EF2015B.pdf
+    │   ├── 📄 EF2015A_corrigé.pdf
+    │   ├── 📄 EF2010_corrigé.pdf
+    │   ├── 📄 EF2011.pdf
+    │   ├── 📄 EF2015A.pdf
+    │   └── 📄 EF2010.pdf
+    └── 📁 tp/
+        ├── 📄 (503) TP 1.pdf
+        ├── 📄 Transformee_inverse_en_Z.m
+        ├── 📄 (503) TP 3.pdf
+        ├── 📄 Transformee_en_Z.m
+        ├── 📄 bloqueur_d_ordre_0.m
+        └── 📄 (503) TP 2.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Systèmes asservis échantillonnés
+═════════════════════════════════════

@@ -1,0 +1,396 @@
+📚 MODULE : thermodynamique                           
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module thermodynamique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 thermodynamique/
+├── 🔗📁 Thermodynamique/  (raccourci)
+│   ├── 📄 Résumé de la thermodynamique.pdf
+│   ├── 📄 Résumé 2.jpeg
+│   ├── 📄 Résumé 1.jpeg
+│   ├── 📄 Examens corrigés & Problèmes supplémentaires.pdf
+│   ├── 📄 Correction du Test 2017.pdf
+│   ├── 📄 Test 2018.pdf
+│   ├── 📄 Test 2017.pdf
+│   ├── 📄 TD Thermodynamique - Série N°1 - 2018-2019.pdf
+│   ├── 📁 TD3/
+│   │   ├── 📄 CORRECTION TD3 Thermo.pdf
+│   │   └── 📄 TD3 Thermo.pdf
+│   ├── 📁 Lasseq/
+│   │   ├── 📄 14.jpg
+│   │   ├── 📄 13.jpg
+│   │   ├── 📄 12.jpg
+│   │   ├── 📄 11.jpg
+│   │   ├── 📄 10.jpg
+│   │   ├── 📄 9.jpg
+│   │   ├── 📄 8.jpg
+│   │   ├── 📄 7.jpg
+│   │   ├── 📄 6.jpg
+│   │   ├── 📄 5.jpg
+│   │   ├── 📄 4.jpg
+│   │   ├── 📄 3.jpg
+│   │   ├── 📄 2.jpg
+│   │   └── 📄 1.jpg
+│   ├── 📁 TD1/
+│   │   ├── 📄 TD1 - Correction.pdf
+│   │   └── 📄 TD1.pdf
+│   ├── 📁 TD2/
+│   │   ├── 📄 TD2 - Correction.pdf
+│   │   └── 📄 TD2.pdf
+│   ├── 📁 TD4/
+│   │   ├── 📄 Corrige de la serie 4.pdf
+│   │   └── 📄 TD Thermodynamique Série N°4.pdf
+│   └── 📁 Cours/
+│       ├── 📄 Thermo_Cours final.pdf
+│       ├── 📄 Réponses aux questions des étudiants.mp4
+│       ├── 📄 1ier-principe-pour-systemes-ouverts-converted-with-clipchamp_8BZl4niN_VR2p.mp4
+│       ├── 📄 les deux lois de joules.mp4
+│       ├── 📄 Coefficients calorimétriques.jpg
+│       ├── 📄 Applications des deux lois de joules aux gaz parfaits - Relation de Mayer.mp4
+│       ├── 📄 Applications des deux lois de joules aux gaz parfaits - Lois de Laplace.mp4
+│       ├── 📄 Thermodynamique I  L’essentiel du cours, applications, exercices résolus et problèmes de synthèse.pdf
+│       ├── 📄 Cours-de-thermodynamique DETAILLEE.pdf
+│       ├── 📄 Thermo_Cours Chapter 1.pdf
+│       ├── 📄 Thermo_Chapitre 0.pdf
+│       ├── 📁 Chapitre 4 Machines thermiques/
+│       │   ├── 📄 My Book of Thermodynamique - Machines Thermiques 4.pdf
+│       │   ├── 📄 Chapitre 4 Machines thermiques.mp4
+│       │   └── 📄 Chapitre 4 Machines thermiques.pdf
+│       └── 📁 Chapitre 3 2eme principe de thermodynamique/
+│           ├── 📄 Le 2éme principe de la thermodynamique  Part 2.mp4
+│           ├── 📄 Le 2éme principe de la thermodynamique  Part 1.mp4
+│           ├── 📄 My Book of Thermodynamique - part two.pdf
+│           ├── 📄 Thermo - 2 Principe.pdf
+│           └── 📄 Thermo_Cours Chapter 2 premier principe.pdf
+├── 🔗📁 Thermodynamique1/  (raccourci)
+│   ├── 📁 TD & Exercices/
+│   │   ├── 📄 Cycle_beau_Rochascorrigé.pdf
+│   │   ├── 📄 TD 1 Thermodynamique.pdf
+│   │   ├── 📄 TD 5 Thermodynamique.pdf
+│   │   ├── 📄 TD 2 Thermodynamique.pdf
+│   │   ├── 📄 TD 3 Thermodynamique.pdf
+│   │   └── 📄 thermodynamique smpc_TD.pdf
+│   ├── 📁 Examens Corrigées/
+│   │   ├── 📄 Examens corrigés thermo 1 FSO.rar
+│   │   ├── 📄 Contrôles thermo 1 FST Tanger.rar
+│   │   ├── 📄 Examens corrigés Thermo 1 FSR.rar
+│   │   ├── 📄 Examens corrigés thermo FS El jadida Version 2015-2016.pdf
+│   │   ├── 📄 Examens thermo 1 FSTM.rar
+│   │   └── 📄 Examens corrigés thermo 1 FSA.pdf
+│   └── 📁 Cours/
+│       └── 📄 COURS_DE_THERMODYNAMYQUE_SM1-SMP1-SMC1.bak.bak.pdf
+├── 🔗📁 [P112] Thermodynamique/  (raccourci)
+│   ├── 📁 [P112] Archive/
+│   │   ├── 📄 examen M.lbib thremo.pdf
+│   │   ├── 📄 annales thermodynamique.pdf
+│   │   ├── 📄 ExamenPartiel_MIP_1617(A).doc
+│   │   ├── 📄 ExamenPartiel_MIP_1617(B).doc
+│   │   ├── 📄 exam P112 2022.pdf
+│   │   ├── 📄 Examen_GEE_0708 (1).doc
+│   │   ├── 📄 ExamenPartiel_MIP_1819(A).docx
+│   │   ├── 📄 ExamenPartiel_MIP_1819(B).docx
+│   │   ├── 📄 ExamenPartiel_MIP_1718(A).doc
+│   │   ├── 📄 ExamenPartiel_MIP_1718(B) (1).doc
+│   │   ├── 📄 Examens 2016--2021 P112.pdf
+│   │   ├── 📄 examens de  thermodynamiques n'est pas dans l'archive.pdf
+│   │   ├── 📄 ExamenPartiel_MIP_1920(A) (2).docx
+│   │   ├── 📄 ExamenPartiel_MIP_2021(A).docx
+│   │   ├── 📄 P112 - Archive.pdf
+│   │   └── 📄 P112 - Examens.pdf
+│   ├── 📁 [P112] Bonus/
+│   │   ├── 📄 4.pdf
+│   │   ├── 📄 3.pdf
+│   │   ├── 📄 2.pdf
+│   │   ├── 📄 1.pdf
+│   │   ├── 📄 4.pdf
+│   │   ├── 📄 3.pdf
+│   │   ├── 📄 2.pdf
+│   │   ├── 📄 1.pdf
+│   │   └── 📁 TP/
+│   │       └── 📄 capacité calorifique des métaux.docx
+│   ├── 📁 [P112] TD/
+│   │   └── 📄 P112 - TD.pdf
+│   └── 📁 [P112] Cours/
+│       ├── 📄 cours_thermo.pdf
+│       ├── 📄 Présentation_révision.pdf
+│       ├── 📄 Présentation_Chapitre3.pdf
+│       ├── 📄 Présentation_Chapitre2.pdf
+│       ├── 📄 Questions de cours.pdf
+│       ├── 📄 Présentation_Chapitre1.pdf
+│       ├── 📄 Présentation_chapitre4.pdf
+│       └── 📄 P112 - Cours.pdf
+├── 🔗📁 °ENSA & ENSAM/  (raccourci)
+│   ├── 📄 +COURS THERMODYNAMIQUE ENSA-AGADIR 13-14.pdf
+│   ├── 📄 +TD THERMODYNAMIQUE ENSAM-MEKNES 16 17 18.pdf
+│   ├── 📄 +TD THERMODYNAMIQUE ENSA-TETOUAN 19-20.pdf
+│   ├── 📄 +TD THERMODYNAMIQUE ENSA-OUAJDA 19-20.pdf
+│   ├── 📄 +TD THERMODYNAMIQUE ENSA-KHOURIBGHA 19-20.pdf
+│   ├── 📄 +TD THERMODYNAMIQUE ENSA-HOCIEMA 19-20.pdf
+│   ├── 📄 +TD THERMODYNAMIQUE ENSA-ELJADIDA 20-21.pdf
+│   ├── 📄 +TD THERMODYNAMIQUE ENSA-AGADIR 19-20.pdf
+│   ├── 📄 +TD EXAMENS THERMODYNAMIQUE ENSA-KENITRA.pdf
+│   ├── 📄 +TD EXAMENS THERMODYNAMIQUE ENSA-AGADIR 20-21.pdf
+│   ├── 📄 +TD EXAMENS THERMODYNAMIQUE ENSA-AGADIR 17-18.pdf
+│   ├── 📄 +EXAMENS THERMODYNAMIQUE ENSAM-MEKNES.pdf
+│   ├── 📄 +EXAMENS THERMODYNAMIQUE ENSA-TETOUAN.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE ENSA-TETOUAN B 13-14.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE ENSA-TETOUAN A 13-14.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE ENSA-TANGER 19-20.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE ENSAM-MEKNES 2018.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE ENSA-OUAJDA.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE ENSA-KENITRA.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE ENSA-HOCIEMA 19-20.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE ENSA-ELJADIDA 20-21.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE ENSA-ELJADIDA 13-14.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE ENSA-AGADIR 19-20.pdf
+│   └── 📄 +COURS THERMODYNAMIQUE ENSA-AGADIR 17-18.pdf
+├── 🔗📁 °SMAI SMPC/  (raccourci)
+│   ├── 📄 +EXAMENS THERMODYNAMIQUE SMPC SMAI FSSM-MARRAKECH.pdf
+│   ├── 📄 +EXAMENS THERMODYNAMIQUE SMPC SMAI FSJ-ELJADIDA.pdf
+│   ├── 📄 +EXAMENS THERMODYNAMIQUE SMAI SMPC FSR-RABAT.pdf
+│   ├── 📄 +EXAMENS MECANIQUE DES FLUIDES SMPC FSJ-ELJADIDA.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE SMPC SMAI FSSM-MARRAKECH.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE SMPC SMAI FSSM-MARRAKECH 20-21.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE SMPC FSR-RABAT 18-19.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE SMPC FSM-MEKNES 16-17.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE SMPC FSJ-ELJADIDA 20-21.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE SMPC FSJ-ELJADIDA 18-19.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE SMPC FSJ-ELJADIDA 12-13.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE SMPC  FPK-KHOURIBGA 20-21.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE SMAI SMPC FSO-OUAJDA 20-21.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE SMAI SMPC FPL-LAARCH 20-21.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE SMAI FSR-RABAT 20-21.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE SMAI FSM-MEKNES 20-21.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE SMAI FPS-SAFI 20-21.pdf
+│   ├── 📄 +COURS THERMODYNAMIQUE SMAI  FPK-KHOURIBGA 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMPC SMAI FSSM-MARRAKECH.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMPC SMAI FSSM-MARRAKECH 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMPC SMAI FSSM-MARRAKECH 16-17.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMPC SMAI FSJ-ELJADIDA 18-19.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMPC SMAI FSJ-ELJADIDA 17-18.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMPC FSR-RABAT 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMPC FSM-MEKNES 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMPC FSJ-ELJADIDA 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMPC FSJ-ELJADIDA 16-17.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMPC FSJ-ELJADIDA 08-09.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMPC FSDM-FES 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMPC FPS-SAFI 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMPC FPO-OUARZAZATE 16-17.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMPC FPO-OUARZAZATE 14-15.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMPC FPN-NADOR 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMPC FPK-KHOURIBGHA 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMAI SMPC FST-TETOUAN 12-13-14.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMAI SMPC FSSM-MARRAKECH 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMAI SMPC FSO-OUAJDA 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMAI SMPC FSBM-CASABLANCA 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMAI SMPC FSAC-CASABLANCA 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMAI SMPC FSA-AGADIR 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMAI SMPC FPO-OUARZAZATE 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMAI SMPC FPL-LAARCH 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMAI FSM-MEKNES 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMAI FSDM-FES 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMAI FPS-SAFI 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMAI FPK-KHOURIBGHA 20-21.pdf
+│   ├── 📄 + TD THERMODYNAMIQUE SMAI  FSR-RABAT 20-21.pdf
+│   ├── 📄 + TD EXAMENS THERMODYNAMIQUE SMAI SMPC FSBM-CASABLANCA.pdf
+│   ├── 📄 + EXAMENS THERMODYNAMIQUE SMAI SMPC FST-TETOUAN.pdf
+│   ├── 📄 + EXAMENS THERMODYNAMIQUE SMAI SMPC FSO-OUAJDA.pdf
+│   ├── 📄 + EXAMENS THERMODYNAMIQUE SMAI SMPC FSAC-CASABLANCA.pdf
+│   ├── 📄 + EXAMENS THERMODYNAMIQUE FPO-OUARZAZATE.pdf
+│   ├── 📄 + COURS THERMODYNAMIQUE SMPC FSDM-FES 2 20-21.pdf
+│   ├── 📄 + COURS THERMODYNAMIQUE SMPC FSDM-FES 1 20-21.pdf
+│   ├── 📄 + COURS THERMODYNAMIQUE SMPC FSAC-CASABLANCA 20-21.pdf
+│   ├── 📄 + COURS THERMODYNAMIQUE SMAI SMPC FSA-AGADIR 20-21.pdf
+│   ├── 📄 + COURS THERMODYNAMIQUE SMAI FSDM-FES.pdf
+│   ├── 📄 + COURS THERMODYNAMIQUE SMAI FSBM-CASABLANCA2 20-21.pdf
+│   ├── 📄 + COURS THERMODYNAMIQUE SMAI FSBM-CASABLANCA1 20-21.pdf
+│   └── 📄 + COURS THERMODYNAMIQUE SMAI FSAC-CASABLANCA 20-21.pdf
+├── 📄 Cours de ThermodynamiqueChapitre 1 TP Température et Chaleur
+├── 📄 Cours de thermodynamique module 1
+├── 📄 Chapitre 1 Thermodynamique
+├── 📁 Thermodynamique ensa/
+│   ├── 📄 16880347_1872346589667408_1253586081_o.jpg
+│   ├── 📄 16935535_1872346569667410_1476019118_o.jpg
+│   ├── 📄 A.jpg
+│   ├── 📄 C.jpg
+│   ├── 📄 ex1.png
+│   ├── 📄 ex1c.png
+│   ├── 📄 Cours_thermo_1er_semestre.pdf
+│   ├── 📄 2.jpg
+│   ├── 📄 1(1).jpg
+│   ├── 📄 Rattrapage.jpeg
+│   ├── 📄 16990345_1872346566334077_277196197_o.jpg
+│   ├── 📄 TD THERMO(1).pdf
+│   ├── 📄 thermodynamique  correction serie 3.pdf
+│   ├── 📄 1.jpg
+│   ├── 📄 td thermo.pdf
+│   ├── 📄 Machine thermique.pdf
+│   ├── 📄 16930622_1872346653000735_1387005843_o.jpg
+│   ├── 📄 4.jpg
+│   ├── 📄 16930622_1872346653000735_1387005843_o(1).jpg
+│   ├── 📄 16935802_1872346659667401_2083444981_o.jpg
+│   ├── 📄 16990206_1872346683000732_1264088289_o.jpg
+│   ├── 📄 B.jpg
+│   ├── 📄 3.jpg
+│   ├── 📄 16880347_1872346589667408_1253586081_o(1).jpg
+│   ├── 📄 td thermodynamique.pdf
+│   ├── 📁 TH/
+│   │   ├── 📄 2.jpeg
+│   │   ├── 📄 3.jpeg
+│   │   ├── 📄 6.jpeg
+│   │   ├── 📄 1.jpeg
+│   │   ├── 📄 5.jpeg
+│   │   ├── 📄 4.jpeg
+│   │   └── 📄 WhatsApp Image 2017-06-27 at 00.57.34.jpeg
+│   └── 📁 Résumé/
+│       ├── 📄 1.jpg
+│       └── 📄 2.jpg
+├── 📁 Thermodynamique/
+│   ├── 📄 TD Thermodynamique 2 S4 2013 2014 Rabat Agdal
+│   ├── 📄 rattrapage thermodynamique DEUST MIP
+│   ├── 📄 rattrapage thermodynamique DEUST MIP
+│   ├── 📄 rattrapage thermodynamique DEUST MIP
+│   ├── 📄 TD de Thermodynamique 2 S4 2012-2013 Rabat Agdal
+│   ├── 📄 Exercices corrigés pdf Thermodynamique 2
+│   ├── 📄 TRAVAUX DIRIGES DE THERMODYNAMIQUE SERIE N°1
+│   ├── 📄 TD2 Thermodynamique Serie 1
+│   ├── 📄 _Exo corr Thermo 1 FSR 2014-2015.rar
+│   ├── 📄 _Exms corr thermo 1 FSO 2010-2012.rar
+│   ├── 📄 _Exms corr Thermo 1 FSR 2013-2016.rar
+│   ├── 📄 Exercices thermo 1 FPO 2015-2016.rar
+│   ├── 📄 Examens thermo 1 FSTM.rar
+│   ├── 📄 td thermo.doc
+│   ├── 📄 Cntrles Cor Thermodynamique 1 -SMPC et SMA S1 By ExoSup.com.zip
+│   ├── 📄 Fiche1_Thermo_2012.doc
+│   ├── 📄 Fiche2_Thermo_2012.doc
+│   ├── 📄 Fiche4_Thermo_2012.doc
+│   ├── 📄 Fiche5_Thermo_2012.doc
+│   ├── 📄 Fiche3_Thermo_2012.doc
+│   ├── 📄 ExamenP2_MIP_1213.doc
+│   ├── 📄 Examen Thermodynamique 1
+│   ├── 📄 TD Thermodynamique 2 S4 2013 2014 Rabat Agdal
+│   ├── 📄 rattrapage thermodynamique DEUST MIP
+│   ├── 📄 Exercices Cycle moteur de Beau de Rochas-Thermodynamique
+│   ├── 📄 TD de Thermodynamique 2 Smp4 Agdal Rabat 2013 2014
+│   ├── 📄 DEUST MIP Automne 2012 Exercices-Thermodynamique
+│   ├── 📄 TD de Thermodynamique 2 S4 2012-2013 Rabat Agdal
+│   ├── 📄 TD Thermodynamique Janvier 2010
+│   ├── 📄 examen thermodynamique S2.pdf
+│   ├── 📄 examen thermodynamique cinétique session juin 2003.pdf
+│   ├── 📄 TD de Thermodynamique II S1 2013 2014 Rabat Agdal
+│   ├── 📄 TD Thermodynamique 1ere Annee MIP
+│   ├── 📄 Exercices Thermodynamique 1
+│   ├── 📄 Travaux diriges de Thermodynamique Filiere SMPC S1
+│   ├── 📄 TD Thermodynamique Série 1.pdf
+│   ├── 📄 examen thermodynamique s1 mohamed 1 o
+│   ├── 📄 Controle de thermodynamique 2 S3.pdf
+│   ├── 📄 TD Thermodynamique 2 S3 2012 2013 Rabat Agdal
+│   ├── 📄 TD Thermodynamique Filière SMC Semestre 1 2008 2009
+│   ├── 📄 examen thermodynamique session normale 2011 2012 univ mohamed 1 o
+│   ├── 📄 Exercices Thermodynamique 1
+│   ├── 📁 Exercices thermo 1 FPO 2015-2016 (Unzipped Files)/
+│   │   ├── 📁 Partie B/
+│   │   │   ├── 📄 Série 2 corr
+│   │   │   ├── 📄 Série 2
+│   │   │   ├── 📄 Série 4.pdf
+│   │   │   ├── 📄 Série 4 corr.pdf
+│   │   │   ├── 📄 Série 3.pdf
+│   │   │   ├── 📄 Série 3 corr.pdf
+│   │   │   ├── 📄 Série 2.pdf
+│   │   │   ├── 📄 Série 2 corr.pdf
+│   │   │   ├── 📄 Série 1.pdf
+│   │   │   └── 📄 Série 1 corr.pdf
+│   │   └── 📁 Partie A/
+│   │       ├── 📄 Correction TD Thermodynamique I SMP S1 Serie 05 2014 2015
+│   │       ├── 📄 TD Thermodynamique I SMP S1 Serie 05 Ibn Zohr Ouarzazate
+│   │       ├── 📄 Correction TD Thermodynamique I SMP S1 Ibn Zohr Serie 04
+│   │       ├── 📄 TD Thermodynamique I SMP S1 Serie 04 2014 2015 Ibn Z
+│   │       ├── 📄 Correction TD 03 Thermodynamique I SMP S1 Ibn Zohr 2015 2016
+│   │       ├── 📄 TD Serie 03 Thermodynamique I SMP S1 Universite Ibn Zohr
+│   │       ├── 📄 TD Thermodynamique I SMP S1 Serie 02 Ibn Zohr 2015 2016
+│   │       ├── 📄 Correction TD Serie 2 Thermodynamique I Ibn Zohr Ouarzazate
+│   │       ├── 📄 Correction TD Thermodynamique I SMP S1 Serie 01 Ibn Zohr
+│   │       └── 📄 TD Thermodynamique I SMP S1 Serie 01 Ibn Zohr 2015 2016
+│   ├── 📁 Examens Corrigées/
+│   │   ├── 📄 Examens corrigés thermo 1 FSO.rar
+│   │   ├── 📄 Contrôles thermo 1 FST Tanger.rar
+│   │   ├── 📄 Examens corrigés Thermo 1 FSR.rar
+│   │   ├── 📄 Examens corrigés thermo FS El jadida Version 2015-2016.pdf
+│   │   ├── 📄 Examens thermo 1 FSTM.rar
+│   │   └── 📄 Examens corrigés thermo 1 FSA.pdf
+│   ├── 📁 TD & Exercices/
+│   │   ├── 📄 TD 1 Thermodynamique
+│   │   ├── 📄 TD 1 Thermodynamique
+│   │   ├── 📄 TD 2 Thermodynamique
+│   │   ├── 📄 TD 5 Thermodynamique
+│   │   ├── 📄 thermodynamique smpc_TD
+│   │   ├── 📄 TD 2 Thermodynamique
+│   │   ├── 📄 TD 1 Thermodynamique
+│   │   ├── 📄 Cycle_beau_Rochascorrigé.pdf
+│   │   ├── 📄 TD 1 Thermodynamique.pdf
+│   │   ├── 📄 TD 5 Thermodynamique.pdf
+│   │   ├── 📄 TD 2 Thermodynamique.pdf
+│   │   ├── 📄 TD 3 Thermodynamique.pdf
+│   │   └── 📄 thermodynamique smpc_TD.pdf
+│   └── 📁 Cours/
+│       └── 📄 COURS_DE_THERMODYNAMYQUE_SM1-SMP1-SMC1.bak.bak.pdf
+├── 📁 exm ensak/
+│   ├── 📄 CF 2009-2010 -2.jpg
+│   ├── 📄 CC 2012-2013 -2-.jpg
+│   ├── 📄 CF 2009-2010 -1.jpg
+│   ├── 📄 CF 2012-2013 -2.jpg
+│   ├── 📄 CC 2012-2013 -1-.jpg
+│   ├── 📄 CF.jpg
+│   ├── 📄 CF 2012-2013 -1.jpg
+│   ├── 📄 CF 2009-2010 -3.jpg
+│   ├── 📄 CC 2009-2010 -1.jpg
+│   └── 📄 CC 2012-2013 -1- (1).jpg
+└── 📁 img/
+    ├── 📄 934072_768737169924092_8888578069533395962_n.jpg
+    ├── 📄 12119179_1534409933516751_193170085584481972_n.jpg
+    ├── 📄 12108778_1534409776850100_8507188772064119825_n.jpg
+    ├── 📄 12115938_1534409906850087_5998364572051602963_n.jpg
+    ├── 📄 12079103_1534409950183416_8455262328428446350_n.jpg
+    ├── 📄 12115944_1534409833516761_9130044619207447171_n.jpg
+    ├── 📄 12046601_1534409880183423_3770000990866911346_n.jpg
+    ├── 📄 12144721_1534409966850081_1822111973405186498_n.jpg
+    ├── 📄 12096088_1534410003516744_7942394151497168558_n.jpg
+    ├── 📄 1239463_523478477721514_1232421668_n.jpg
+    ├── 📄 Copy of 2.jpg
+    ├── 📄 Copy of 12096088_1534410003516744_7942394151497168558_n.jpg
+    ├── 📄 Copy of 12144721_1534409966850081_1822111973405186498_n.jpg
+    ├── 📄 Copy of 12115944_1534409833516761_9130044619207447171_n.jpg
+    ├── 📄 Copy of 12108778_1534409776850100_8507188772064119825_n.jpg
+    ├── 📄 Copy of 12119179_1534409933516751_193170085584481972_n.jpg
+    ├── 📄 Copy of 12046601_1534409880183423_3770000990866911346_n.jpg
+    ├── 📄 Copy of 934072_768737169924092_8888578069533395962_n.jpg
+    ├── 📄 Copy of 12115938_1534409906850087_5998364572051602963_n.jpg
+    ├── 📄 Copy of 12079103_1534409950183416_8455262328428446350_n.jpg
+    ├── 📄 Chapitre 2 Les fonctions de la cellule eucaryote
+    ├── 📄 Chapitre 03 Les fonctions usuelles
+    ├── 📄 Analyse détaillée des équations de Navier-Stokes
+    ├── 📄 _best crs thermo .pdf
+    ├── 📄 exame physique des vibrations.pdf
+    ├── 📄 Introduction aux fonctions de plusieurs variables
+    ├── 📄 Copy of Cours thermo 1 FSJ.pdf
+    ├── 📄 Correction énoncés types bac S SVT
+    ├── 📄 exm corr thermo1 imge.pdf
+    ├── 📄 exercises thermo smia.pdf
+    ├── 📄 thermo exms.pdf
+    ├── 📄 _~exms thermo clbnjh.pdf
+    ├── 📄 TD thermo smia.pdf
+    └── 📄 liste des prix fournisseurs
+
+═════════════════════════════════════
+  Fin du fichier · thermodynamique
+═════════════════════════════════════

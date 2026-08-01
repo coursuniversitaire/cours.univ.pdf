@@ -1,0 +1,60 @@
+📚 MODULE : Systemes asservis                         
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Systemes asservis.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Systemes asservis/
+├── 🔗📁 Système asservis.rar/  (raccourci)
+├── 📄 Serie-No5_3.pdf
+├── 📄 serie2.pdf
+├── 📄 a5-representationschemabloc.pdf
+├── 📄 Série-No3.pdf
+├── 📄 TP-2.pdf
+├── 📄 Série-No4.pdf
+├── 📄 Série3-corr .pdf
+├── 📄 introduction Matlab pour automatique.pdf
+├── 📄 coursMatlab.pdf
+├── 📄 Serie1-corrige2.pdf
+├── 📄 TD1-30-12-20.pdf
+├── 📄 Chap1.modelisation-des-SLCI.pdf
+├── 📄 Série-No-1.pdf
+├── 📄 automatique-systemes-lineaires-et-non-lineaires.pdf
+├── 📄 TL.pdf
+├── 📁 syst asservis/
+│   ├── 📄 14.jpg
+│   ├── 📄 13.jpg
+│   ├── 📄 12.jpg
+│   ├── 📄 11.jpg
+│   ├── 📄 10.jpg
+│   ├── 📄 9.jpg
+│   ├── 📄 8.jpg
+│   ├── 📄 7.jpg
+│   ├── 📄 6.jpg
+│   ├── 📄 5.jpg
+│   ├── 📄 4.jpg
+│   ├── 📄 3.jpg
+│   ├── 📄 2.jpg
+│   ├── 📄 1.jpg
+│   └── 📄 serie1_asservis.jpg
+├── 📁 Cours/
+│   ├── 📄 chapitre-3-stabilite-des-systemes-lineaires.pdf
+│   ├── 📄 chapitre-7-analyse-synthese-systemes-asservis-lineaires-continus.pdf
+│   ├── 📄 chapitre-1-introduction-aux-systemes-asservis.pdf
+│   ├── 📄 cours_asservissement_part_2.pdf
+│   └── 📄 cours_asservissement_Part_1.pdf
+└── 📁 TD/
+    └── 📄 travaux-diriges-n1.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Systemes asservis
+═════════════════════════════════════

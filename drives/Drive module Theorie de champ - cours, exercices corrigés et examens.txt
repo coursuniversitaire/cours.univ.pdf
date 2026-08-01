@@ -1,0 +1,39 @@
+📚 MODULE : Theorie de champ                          
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Theorie de champ.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Theorie de champ/
+├── 🔗📁 Théorie du champ.rar/  (raccourci)
+├── 📄 Série-N0-TCH_mod.pdf
+├── 📄 TD0.pdf
+├── 📄 programme_qlqexpressions.PDF
+├── 📄 Calcul_vectoriel.PDF
+├── 📁 TD/
+│   ├── 📄 td0 tc p1.pdf
+│   ├── 📄 TD_N2_Théorie de Champ_L3_Série_Chap1.pdf
+│   └── 📄 TD_Théorie de Champ_L3_Série_Chap1.pdf
+├── 📁 Examen/
+│   └── 📄 Examen Corrigés de théorie de champ.pdf
+└── 📁 Cours/
+    ├── 📄 cours theorie du champ electromagnetiques.pdf
+    ├── 📄 theorie_du_champ_Chap_4 Régime Variable- Equations de Maxwell.pdf
+    ├── 📄 theorie_du_champ_Chap_3 Régime Quasi-Stationnaire.pdf
+    ├── 📄 theorie_du_champ_Chap_2 Magnétostatique.pdf
+    ├── 📄 theorie_du_champ_Chap_1 Electrostatique.pdf
+    ├── 📄 TH-CHAMP.pdf
+    └── 📄 Electromagnetisme.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Theorie de champ
+═════════════════════════════════════

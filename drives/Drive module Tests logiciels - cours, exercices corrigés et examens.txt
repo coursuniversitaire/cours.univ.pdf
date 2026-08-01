@@ -1,0 +1,113 @@
+📚 MODULE : Tests logiciels                           
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Tests logiciels.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Tests logiciels/
+├── 🔗📁 tests des logiciels/  (raccourci)
+│   ├── 📄 Nouveau document texte.txt
+│   ├── 📄 Nouveau document texte.txt
+│   ├── 📄 junit.PNG
+│   ├── 📄 junit.PNG
+│   ├── 📁 cours/
+│   │   ├── 📁 TD1/
+│   │   │   └── 📄 TD1--Test des logiciels .pdf
+│   │   ├── 📁 techniques de test/
+│   │   │   └── 📁 etats de transition/
+│   │   │       ├── 📄 Transition detat correction.pdf
+│   │   │       └── 📄 Transition detat correction.pdf
+│   │   └── 📁 test structurel/
+│   │       ├── 📁 ex3/
+│   │       │   ├── 📄 Exemple 3 du cours docx.docx
+│   │       │   └── 📄 Exemple 3 du cours docx.docx
+│   │       └── 📁 ex1/
+│   │           ├── 📄 Graphe flot de controle --exemple 1 du cours.docx
+│   │           └── 📄 Graphe flot de controle --exemple 1 du cours.docx
+│   └── 📁 TP/
+│       ├── 📁 tp2/
+│       │   ├── 📄 ZANGAR-Malak L2CS2 TP2 test.pdf
+│       │   ├── 📄 ~WRL3757.tmp
+│       │   ├── 📄 ~$NGAR-Malak L2CS2 TP2 test.docx
+│       │   └── 📄 TP2Test-des-logiciels.pdf
+│       └── 📁 tp1/
+│           ├── 📄 ZangarMalak-TP0-L2CS02.pdf
+│           └── 📄 ZangarMalak-L2CS02.docx
+├── 🔗📁 Test et qualité de logiciel/  (raccourci)
+│   ├── 📁 TP/
+│   │   ├── 📄 TP-Application-de-JUnit-2-lamine.pdf
+│   │   ├── 📄 TP Junit.pdf
+│   │   └── 📄 méthodes de tests pour TP_Junit.docx
+│   ├── 📁 Cours/
+│   │   ├── 📄 TQL-cours-2.pptx
+│   │   ├── 📄 Test et qualité logiciel.pptx(1)
+│   │   ├── 📄 test boites blanches.pptx
+│   │   ├── 📄 Test et qualité logiciel.pptx
+│   │   ├── 📄 graphe de données.pptx
+│   │   ├── 📄 Cours 3 TQL.pptx
+│   │   ├── 📄 graphe de données(1).pptx
+│   │   └── 📄 Test  automatique.pptx
+│   └── 📁 TD/
+│       ├── 📄 TD4 TQL.pdf
+│       ├── 📄 TD2 TQL.pdf
+│       ├── 📄 TD 1 TQL.pdf
+│       ├── 📄 TD 5 TQL.pdf
+│       ├── 📄 TD 3  TQL.pdf
+│       ├── 📄 Exo 1 solution serie 5 TQL.docx
+│       └── 📄 TD 3  TQL.pdf.docx
+├── 🔗📁 Test et qualité de logiciel/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 📄 JUnit.txt
+├── 📄 Test Logiciel Résumé.docx
+├── 📄 Test Logiciel Résumé.pdf
+├── 📄 TPJUnit4.pdf
+├── 📄 rapport_eddaalous_moad.pdf
+├── 📄 TestLogiciel_Cours [BERRADA] 2022.pdf
+├── 📁 ++/
+│   ├── 📄 tp_junit.zip
+│   ├── 📄 TPJUnit_2.pdf
+│   └── 📄 TPJUnit.pdf
+├── 📁 Rapport Test Logiciel INFO3 2017-2018/
+│   ├── 📄 CompteRendu-ZIBOUH-Mohamed.pdf
+│   ├── 📄 CR-LinaBerrada-AyoubKorchi.pdf
+│   ├── 📄 La_technologie_des_Services_Web_versionFinale.pptx
+│   ├── 📄 Naji_Idriss_Rapport_Tp_Test_Logiciel.pdf
+│   ├── 📄 Compte rendu TP TEST_Ibrahim_Hnini.pdf
+│   ├── 📄 TPTestLogicielYassineChaimae.pdf
+│   ├── 📄 AFTISESSAOUIDI_Compterendu.pdf
+│   ├── 📄 compte_rendu_EDDAALOUS_MOAD.pdf
+│   ├── 📄 SrhirHouda-CompteRendu.pdf
+│   ├── 📄 test logiciel YounesseBADAGUE.pdf
+│   ├── 📄 CompterenduTestLogiciel12.pdf
+│   ├── 📄 CR_TPTest_IlyasRziki_GINF3.pdf
+│   ├── 📄 HanaeBenseddik_CR_Testlogiciel.pdf
+│   ├── 📄 TPJUNIT.pdf
+│   ├── 📄 CompteRendu_HouariSahar.pdf
+│   ├── 📄 Rapport_RhitaAlaouiMdarhri.pdf
+│   ├── 📄 KAMATE_Mantiere Compte rendu Test Logiciel.pdf
+│   ├── 📄 test logiciel.pdf
+│   ├── 📄 CompteRendu_TestLogiciel_BAGHDADI Sarah.pdf
+│   ├── 📄 CRTESTLOGICIEL.pdf
+│   ├── 📄 RapportKHACHOUCH-BAJJOU.pdf
+│   ├── 📄 ELASSRI_Smahane_TestLogiciel.pdf
+│   ├── 📄 tptestlogiciel_SARAEDDAHBI.pdf
+│   ├── 📄 Hajar CHAOUKI_CR_Test Logiciel.pdf
+│   ├── 📄 CR_Test_MNIDER_Redouane.pdf
+│   ├── 📄 Compte Rendu TP.pdf
+│   ├── 📄 Teste integration Zidane Abderrazzak.pdf
+│   └── 📄 Rapport_ZinebOuali.pdf
+└── 📁 TP/
+    └── 📄 TPJUnit4.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Tests logiciels
+═════════════════════════════════════

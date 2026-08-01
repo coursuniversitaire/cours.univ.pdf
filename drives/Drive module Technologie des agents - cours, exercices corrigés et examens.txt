@@ -1,0 +1,214 @@
+📚 MODULE : Technologie des agents                    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Technologie des agents.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Technologie des agents/
+├── 📄 Technologie des agents-20260608T190858Z-3-001.zip
+├── 🔗📁 Technologie des agents/  (raccourci)
+│   ├── 📁 TP/
+│   │   ├── 📄 TPAgent2021 2022.docx
+│   │   ├── 📄 jade .ppt
+│   │   ├── 📄 JadeBOOK.pdf
+│   │   └── 📄 Constructing_Intelligent_Agents_Using_Java pdf.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 exo1-TDJ.jpg
+│   │   ├── 📄 exo2-TDJ.jpg
+│   │   ├── 📄 exo3-TDJ.jpg
+│   │   ├── 📄 exo4-TDJ.jpg
+│   │   ├── 📄 exo7-SMA-solution.pdf
+│   │   ├── 📄 exo6-SMA-solution.pdf
+│   │   ├── 📄 SerieTD4_TheorieJeux.pdf
+│   │   ├── 📄 exo5-SMA-sol-part2.jpg
+│   │   ├── 📄 exo4-SMA-sol-part1.jpg
+│   │   ├── 📄 exo5-SMA-sol-part1.jpg
+│   │   ├── 📄 exo1-SMA-part2.jpg
+│   │   ├── 📄 exo1-SMA-part1.jpg
+│   │   ├── 📄 exo3-SMA-solution.jpg
+│   │   ├── 📄 exo2-SMA-solution.jpg
+│   │   ├── 📄 TD3-SMA.pdf
+│   │   ├── 📄 TD2-Agents intelligents.pdf
+│   │   └── 📄 TD1-SystèmesExperts.pdf
+│   └── 📁 Cours/
+│       ├── 📄 TA-Théorie des jeux-21-22.pptx
+│       ├── 📄 TA-Agents-mobiles-21-22.pdf
+│       ├── 📄 Planification-agent-21-22.pdf
+│       ├── 📄 TA-chap3-SMA-s.pdf
+│       ├── 📄 Chap2-Agents-Intelligents.pdf
+│       ├── 📄 Tech-AG-Chap1-SE-ver1.pdf
+│       └── 📁 Chapitre 5 - Theorie des jeux /
+│           ├── 📄 19.png
+│           ├── 📄 18.png
+│           ├── 📄 17.png
+│           ├── 📄 16.png
+│           ├── 📄 15.png
+│           ├── 📄 14.png
+│           ├── 📄 13.png
+│           ├── 📄 12.png
+│           ├── 📄 11.png
+│           ├── 📄 10.png
+│           ├── 📄 9.png
+│           ├── 📄 8.png
+│           ├── 📄 7.png
+│           ├── 📄 6.png
+│           ├── 📄 5.png
+│           ├── 📄 4.png
+│           ├── 📄 3.png
+│           ├── 📄 2.png
+│           └── 📄 1.png
+├── 🔗📁 Technologie des agents/  (raccourci)
+│   ├── 📁 Test/
+│   │   └── 📄 40194784_1946066038790876_39897862472990720_n.jpg
+│   ├── 📁 EMD/
+│   │   ├── 📄 40143758_253981748784781_1682651131534114816_n.jpg
+│   │   └── 📄 40139883_2188259391449743_1635316619087446016_n.jpg
+│   └── 📁 Projet/
+│       ├── 📄 Constructing_Intelligent_Agents_Using_Java pdf.pdf
+│       ├── 📄 Capture.PNG
+│       ├── 📄 Partie1_TP_Agent.rar
+│       ├── 📄 rule.PNG
+│       ├── 📄 rule base.PNG
+│       ├── 📄 2.PNG
+│       └── 📄 Lien_Projet_Bourahla Yasser & Benhadded Wissem.txt
+└── 🔗📁 Technologie des agents/  (raccourci)
+    ├── 📁 Exercices de la série TP/
+    │   ├── 📁 AgentExo6/
+    │   │   ├── 📄 MTPs-Main-Container.txt
+    │   │   ├── 📄 .project
+    │   │   ├── 📄 .classpath
+    │   │   ├── 📄 APDescription.txt
+    │   │   ├── 📁 src/
+    │   │   │   ├── 📄 Vendeur.java
+    │   │   │   ├── 📄 Produit.java
+    │   │   │   └── 📄 Acheteur.java
+    │   │   ├── 📁 .settings/
+    │   │   │   └── 📄 org.eclipse.jdt.core.prefs
+    │   │   └── 📁 bin/
+    │   │       ├── 📄 Produit.class
+    │   │       ├── 📄 Acheteur.class
+    │   │       └── 📄 Vendeur.class
+    │   ├── 📁 AgentExo4/
+    │   │   ├── 📄 MTPs-Main-Container.txt
+    │   │   ├── 📄 APDescription.txt
+    │   │   ├── 📄 .project
+    │   │   ├── 📄 .classpath
+    │   │   ├── 📁 src/
+    │   │   │   ├── 📄 Create.java
+    │   │   │   └── 📄 Affichage.java
+    │   │   ├── 📁 bin/
+    │   │   │   ├── 📄 Create.class
+    │   │   │   └── 📄 Affichage.class
+    │   │   └── 📁 .settings/
+    │   │       └── 📄 org.eclipse.jdt.core.prefs
+    │   ├── 📁 AgentExo2/
+    │   │   ├── 📄 .classpath
+    │   │   ├── 📄 APDescription.txt
+    │   │   ├── 📄 MTPs-Main-Container.txt
+    │   │   ├── 📄 .project
+    │   │   ├── 📁 src/
+    │   │   │   └── 📄 PassageArguments.java
+    │   │   ├── 📁 .settings/
+    │   │   │   └── 📄 org.eclipse.jdt.core.prefs
+    │   │   └── 📁 bin/
+    │   │       └── 📄 PassageArguments.class
+    │   ├── 📁 AgentExo1/
+    │   │   ├── 📄 MTPs-Main-Container.txt
+    │   │   ├── 📄 APDescription.txt
+    │   │   ├── 📄 .project
+    │   │   ├── 📄 .classpath
+    │   │   ├── 📁 bin/
+    │   │   │   └── 📄 BonjourAgent.class
+    │   │   ├── 📁 src/
+    │   │   │   └── 📄 BonjourAgent.java
+    │   │   └── 📁 .settings/
+    │   │       └── 📄 org.eclipse.jdt.core.prefs
+    │   ├── 📁 AgentExo7/
+    │   │   ├── 📄 MTPs-Main-Container.txt
+    │   │   ├── 📄 .classpath
+    │   │   ├── 📄 APDescription.txt
+    │   │   ├── 📄 .project
+    │   │   ├── 📁 .settings/
+    │   │   │   └── 📄 org.eclipse.jdt.core.prefs
+    │   │   ├── 📁 src/
+    │   │   │   ├── 📄 Acheteur.java
+    │   │   │   ├── 📄 Vendeur.java
+    │   │   │   ├── 📄 Produit.java
+    │   │   │   └── 📄 Test.java
+    │   │   └── 📁 bin/
+    │   │       ├── 📄 Acheteur$1.class
+    │   │       ├── 📄 Vendeur.class
+    │   │       ├── 📄 Test.class
+    │   │       ├── 📄 Acheteur.class
+    │   │       └── 📄 Produit.class
+    │   ├── 📁 AgentExo3/
+    │   │   ├── 📄 MTPs-Main-Container.txt
+    │   │   ├── 📄 .classpath
+    │   │   ├── 📄 APDescription.txt
+    │   │   ├── 📄 .project
+    │   │   ├── 📁 src/
+    │   │   │   ├── 📄 Affichage.java
+    │   │   │   └── 📄 Lanceur.java
+    │   │   ├── 📁 .settings/
+    │   │   │   └── 📄 org.eclipse.jdt.core.prefs
+    │   │   └── 📁 bin/
+    │   │       ├── 📄 Affichage.class
+    │   │       └── 📄 Lanceur.class
+    │   └── 📁 AgentExo5/
+    │       ├── 📄 MTPs-Main-Container.txt
+    │       ├── 📄 APDescription.txt
+    │       ├── 📄 .project
+    │       ├── 📄 .classpath
+    │       ├── 📁 .settings/
+    │       │   └── 📄 org.eclipse.jdt.core.prefs
+    │       ├── 📁 bin/
+    │       │   └── 📄 SendMessage.class
+    │       └── 📁 src/
+    │           └── 📄 SendMessage.java
+    ├── 📁 Projet Agent/
+    │   ├── 📄 Rapport agent.pdf
+    │   └── 📄 ProjetAgentPartie2.rar
+    ├── 📁 Examens/
+    │   ├── 📄 td_Agent.pdf
+    │   ├── 📄 Interro agent 2017.jpg
+    │   ├── 📄 Examen agent 2017.jpg
+    │   ├── 📄 ExamAgent.7z
+    │   ├── 📄 corrigВ agent.pdf
+    │   ├── 📄 Corrigé agent.zip
+    │   ├── 📄 Test1_2011.jpg
+    │   ├── 📄 Rattrapage_2009_2010.jpg
+    │   ├── 📄 EMD_2009_2010.jpg
+    │   ├── 📄 Examen Tech Agents 2016 2017  Corrige.pdf
+    │   ├── 📄 interro-Tech  AG-corrige-Exo2-2017.pdf
+    │   ├── 📄 Corrigé interrogation agent 2017.pdf
+    │   ├── 📄 Corrigé EMD TA-EC-2015.rar
+    │   ├── 📄 corrigé-TA-2015-20170531T171413Z-001.zip
+    │   ├── 📄 corrigeemd-sma-2015.pdf
+    │   ├── 📄 Correction de rattrapage 2010.pdf
+    │   ├── 📄 corrigé-rattrapMSII-Agents-2011.pdf
+    │   └── 📄 Corrigé Examen TechnoAgents2012.pdf
+    ├── 📁 TD + solutions/
+    │   ├── 📄 série 3 Agent.jpg
+    │   ├── 📄 solutions TD agent.pdf
+    │   ├── 📄 Serie_TD2-Agent et SMA.pdf
+    │   └── 📄 Serie_TD1-SystèmeExpert-1.pdf
+    └── 📁 cours/
+        ├── 📄 Chapitre4_SMA.pdf
+        ├── 📄 Chapitre3_Types_Modelisation_agents.pdf
+        ├── 📄 Chapitre2_Les agents.pdf
+        ├── 📄 Chapitre1_Sytème_Expert.pdf
+        ├── 📄 Agents mobiles.pdf
+        └── 📄 Chapitre6_Thèorie de Jeux.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Technologie des agents
+═════════════════════════════════════

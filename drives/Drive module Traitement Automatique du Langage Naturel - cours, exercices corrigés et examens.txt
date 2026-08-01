@@ -1,0 +1,90 @@
+📚 MODULE : Traitement Automatique du Langage Naturel 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Traitement Automatique du Langage Naturel.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Traitement Automatique du Langage Naturel/
+└── 🔗📁 Traitement Automatique du Langage Naturel/  (raccourci)
+    ├── 📁 Séries du TP _ Projets/
+    │   ├── 📄 Énoncé - Mini-Projet TALN (2018-19).pdf
+    │   ├── 📄 Projet TALN (2016-17).zip
+    │   ├── 📄 Projet TALN (2017-18).zip
+    │   └── 📁 Séries du TP (Labs) + Corr/
+    │       ├── 📄 TALN - Exercice Transducteurs.pdf
+    │       ├── 📄 TALN - Exercice HMM.pdf
+    │       ├── 📄 Introduction à WordNet.pdf
+    │       ├── 📁 Lab 9 - CFGs/
+    │       │   ├── 📄 Lab 9 - CFGs.pdf
+    │       │   └── 📄 Série d_Exercices 8 - CFGs.pdf
+    │       ├── 📁 Lab 8 - POS Taggers/
+    │       │   ├── 📄 Série Exercices 8 - POS Taggers.pdf
+    │       │   ├── 📄 solutions serie8.py
+    │       │   └── 📄 Lab 8 - POS Taggers.pdf
+    │       ├── 📁 Lab 6 - Distribution de Fréquences/
+    │       │   ├── 📄 Série Exercices 5 - Distribution de Fréquences.pdf
+    │       │   ├── 📄 solutions serie5.py
+    │       │   └── 📄 Lab 6 - Distribution de Fréquences.pdf
+    │       ├── 📁 Lab 7 - Catégoriser _ Étiqueter les Mots/
+    │       │   ├── 📄 Série Exercices 7.pdf
+    │       │   ├── 📄 solutions serie7.py
+    │       │   └── 📄 Lab 7 - Catégoriser _ Étiqueter les Mots.pdf
+    │       ├── 📁 Lab 4 - Fichiers et Tokenization/
+    │       │   ├── 📄 Série Exercices 3 - Fichiers et Tokenization.pdf
+    │       │   ├── 📄 solutions serie3.py
+    │       │   └── 📄 Lab 4 - Manipulation de Fichiers en Input.pdf
+    │       ├── 📁 Lab 5 - Tokenization, Stemming _ List-Comprehension/
+    │       │   ├── 📄 Série Exercices 4.pdf
+    │       │   ├── 📄 solutions serie4.py
+    │       │   └── 📄 Lab 5.pdf
+    │       ├── 📁 Lab 3 - Expressions Régulières/
+    │       │   ├── 📄 Série Exercices 2 - Expressions Régulières.pdf
+    │       │   ├── 📄 solutions serie2.py
+    │       │   └── 📄 Lab 3 - Expressions Régulières.pdf
+    │       ├── 📁 Lab 1 _ 2 - Inroduction Python-TALN/
+    │       │   ├── 📄 Lab 1 _ 2 - Intro Python-NLTK.pdf
+    │       │   ├── 📄 Série Exercices 1 - Intro Python-NLTK.pdf
+    │       │   └── 📄 solutions serie1.py
+    │       └── 📁 Lab 0 - Introduction Python/
+    │           ├── 📄 Lab 0 - Installation de Python et NLTK.pdf
+    │           ├── 📄 soton-test-python-installation.py
+    │           └── 📄 Lab 0 - Intro to Python.pdf
+    ├── 📁 Cours/
+    │   ├── 📄 Chap 07 - Syntaxe.pdf
+    │   ├── 📄 Chap 06 - Etiquetage Morpho-Syntaxique.pdf
+    │   ├── 📄 Chap 05 - N-Grammes.pdf
+    │   ├── 📄 Chap 03 - Morphologie et Transducteurs EF.pdf
+    │   ├── 📄 Chap 04 - Lemmatisation et Modèles.pdf
+    │   ├── 📄 Chap 02 - Expressions Régulières.pdf
+    │   └── 📄 Chap 01 - Introduction au TALN.pdf
+    └── 📁 Interrogations et examens/
+        ├── 📄 Examen TALN (SII, 2019-20).pdf
+        ├── 📄 Interrogation TALN (SII, 2019-20).pdf
+        ├── 📄 Rattrapage TALN + Corr (SII, 2014-15).pdf
+        ├── 📄 Interrogation (2) TALN (SII, 2010-11).pdf
+        ├── 📄 Interrogation (1) TALN (SII, 2010-11).pdf
+        ├── 📄 Interrogation TALN + Corr (SII, 2011-12).pdf
+        ├── 📄 Examen TALN + Corr (SII, 2014-15).pdf
+        ├── 📄 Examen TALN + Corr (SII, 2012-13).pdf
+        ├── 📄 Examen TALN + Corr (SII, 2011-12).pdf
+        ├── 📄 Interrogation TALN + Corr (SII, 2013-14).pdf
+        ├── 📄 Examen TALN + Corr (SII, 2016-17).pdf
+        ├── 📄 Examen TALN + Corr (SII, 2015-16).pdf
+        ├── 📄 Rattrapage TALN + Corr (SII, 2012-13).pdf
+        ├── 📄 Interrogation TALN + Corr (SII, 2017-18).pdf
+        ├── 📄 Examen TALN + Corr (SII, 2010-11).pdf
+        ├── 📄 Examen TALN + Corr (SII, 2013-14).pdf
+        └── 📄 Examen TALN + Corr (2009-10).pdf
+
+═════════════════════════════════════
+  Fin du fichier · Traitement Automatique du Langage Naturel
+═════════════════════════════════════

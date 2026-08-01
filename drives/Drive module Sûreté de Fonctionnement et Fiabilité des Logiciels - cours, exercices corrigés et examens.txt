@@ -1,0 +1,67 @@
+📚 MODULE : Sûreté de Fonctionnement et Fiabilité des Logiciels
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Sûreté de Fonctionnement et Fiabilité des Logiciels.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Sûreté de Fonctionnement et Fiabilité des Logiciels/
+└── 🔗📁 SUR F.F/  (raccourci)
+    ├── 📄 Cours Surete de fonct et fiab.rar
+    ├── 📁 Notes exam plus corrigé/
+    │   └── 📄 Corrigés Types du test CC et examen SFFL - M1SSI - Sept 2020.rar
+    ├── 📁 Anciens test et examen/
+    │   ├── 📄 Corrigé Type Examen Final SFFL 2018-2019.docx
+    │   ├── 📄 Corrigé Type - Test CC - SFFL 2018-2019.docx
+    │   ├── 📄 Test Juin 2019 -SF&FL.docx
+    │   └── 📄 Examen Final 1- SFFL 2018-2019.docx
+    ├── 📁 Videos/
+    │   ├── 🔗📁 Séances Wbex N° 08 - Cours  - SF&FL - M1 SSI 2020-05-31-13-03-24.mp4  (raccourci)
+    │   ├── 🔗📁 Séances Webex N° 6 - Cours  - SF&FL - M1 SSI 2020-05-10-12-37-05.mp4  (raccourci)
+    │   ├── 🔗📁 Séance Webex N° 7 - TD (Gr1) SF&FL - M1 SSI 2020-05-17-13-59-08.mp4  (raccourci)
+    │   ├── 🔗📁 Séances Webex N° 09 - TD (G1) - SF&FL - M1 SSI 2020-06-07-14-55-55.mp4  (raccourci)
+    │   ├── 🔗📁 Séances Webex N° 09 - Cours  - SF&FL - M1 SSI 2020-06-07-13-21-53.mp4  (raccourci)
+    │   ├── 🔗📁 Séance N° 04 - TD - SFFL - M1 SSI - 26 04 2020.mp4  (raccourci)
+    │   ├── 🔗📁 Séance N° 04 - Cours  SFFL - M1 SSI - 26 04 2020.mp4  (raccourci)
+    │   ├── 🔗📁 Séances Webex N° 6 - TD (Groupe 1) - SF&FL - M1 SSI 2020-05-10-14-02-13.mp4  (raccourci)
+    │   ├── 🔗📁 Séance Webex N° 7 - Cours SF&FL - M1 SSI 2020-05-17-12-32-56.mp4  (raccourci)
+    │   ├── 🔗📁 Séance N° 05 - TD Gr 1- SFFL - M1SSI 2020-05-03-14-03-16.mp4  (raccourci)
+    │   ├── 🔗📁 Séances Wbex N° 08 - TD (G1) - SF&FL - M1 SSI 2020-05-31-14-51-54.mp4  (raccourci)
+    │   ├── 🔗📁 Séances Webex N° 10 - Cours SF&FL - M1 SSI 2020-06-14-13-10-25.mp4  (raccourci)
+    │   ├── 🔗📁 Séance N° 05 - Cours - SFFL - M1SSI 2020-05-03-12-34-10.mp4  (raccourci)
+    │   └── 🔗📁 Séances Webex N° 10 - TD SF&FL - M1 SSI 2020-06-14-14-48-56.mp4  (raccourci)
+    ├── 📁 TD/
+    │   ├── 📄 SérieTD N° 4 SF&FL - M1SSI - avec Corrigés des exercices.pdf
+    │   ├── 📄 Corrigés des exercices 8 et 9 et 10 - SérieTD N° 3 SF&FL - M1 SSI.pdf
+    │   ├── 📄 corrigés des exercices 7, 12, 13 et 14 - Série N° 3 - SF&FL  - M1 SSI.pdf
+    │   ├── 📄 Corrigés des exercices 4 et 5 - SérieTD N° 3 SF&FL - M1 SSI.pdf
+    │   ├── 📄 Tables Loi Normale, test Z, Khi2, Student.pdf
+    │   ├── 📄 Corrigées des exercices 1 et 2 et 3 t 3bis - SérieTD N° 3 SF&FL - M SSI.pdf
+    │   ├── 📄 SérieTD N° 3 SF&FL - M SSI.doc
+    │   ├── 📄 SérieTD N° 02 -  Avec Corrigés des exercices.pdf
+    │   ├── 📄 1587930505952_SérieTD N° 02 -  Corrigé de quelques exercices.pdf
+    │   ├── 📄 SérieTD N° 02 -  Corrigé de quelques exercices.pdf
+    │   ├── 📄 SérieTD N° 02.doc
+    │   └── 📄 SérieTD N° 1 - Corrigé de quelques exercices.doc
+    └── 📁 Cours/
+        ├── 📄 Cours N° 05 - Sûreté de Fonctionnement et Fiabilité de Logiciel - M1 SSI .pdf
+        ├── 📄 Cours N° 04 - Sûreté de Fonctionnement et Fiabilité de Logiciel - M1 SSI .pdf
+        ├── 📄 Loi Générale de la Fiabilité (Démonstration).pdf
+        ├── 📄 Partie 2 - Cours N° 03 - Sûreté de Fonctionnement et Fiabilité de Logiciel - M1 SSI  (1).pdf
+        ├── 📄 Partie 2 - Cours N° 03 - Sûreté de Fonctionnement et Fiabilité de Logiciel - M1 SSI .pdf
+        ├── 📄 Partie 1 - Cours N° 03 - Sûreté de Fonctionnement et Fiabilité de Logiciel - M1 SSI .pdf
+        ├── 📄 Partie 1 - Cours N° 03 - Sûreté de Fonctionnement et Fiabilité de Logiciel - M1 SSI (1).pdf
+        ├── 📄 Cours N° 02 - Sûreté de Fonctionnement et Fiabilité de Logiciel - M1 SSI.pdf
+        └── 📄 Cours N° 01 - Sûreté de Fonctionnement et Fiabilité de Logiciel - M1 SSI.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Sûreté de Fonctionnement et Fiabilité des Logiciels
+═════════════════════════════════════

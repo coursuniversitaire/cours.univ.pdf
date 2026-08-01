@@ -1,0 +1,302 @@
+📚 MODULE : Systèmes Embarqués                        
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Systèmes Embarqués.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Systèmes Embarqués/
+├── 🔗📁 Examens + solutions/  (raccourci)
+├── 🔗📁 S.E/  (raccourci)
+│   ├── 📄 Cours 05 Le CoDesign.pdf
+│   ├── 📄 Cours 04 Méthodologie de conception des systèmes embarqués.pdf
+│   ├── 📄 TD 04 Utilisation d’un capteur analogique sous différents scénarios.pdf
+│   ├── 📄 TD 03 Les sorties analogiques – Utilisation de l’option PWM.pdf
+│   ├── 📄 TD 03 Les sorties analogiques – Utilisation de l’option PWM - corrigé.pdf
+│   ├── 📄 TD 02 Les entrées analogiques – Utilisation de l’ADC - corrigé 2.pdf
+│   ├── 📄 Cours 01 Notions de base et caractéristiques des systèmes embarqués (1).pdf
+│   ├── 📄 Cours 02  Architecture des systèmes embarqués.pdf
+│   ├── 📄 Cours 03 Les entrées sorties numériques et analogiques.pdf
+│   ├── 📄 TD 02 Les entrées analogiques – Utilisation de l’ADC.pdf
+│   ├── 📄 TD TP 01 Les entrées-sorties numériques - corrigé.pdf
+│   └── 📄 TD TP 01 Les entrées-sorties numériques.pdf
+├── 🔗📁 SE/  (raccourci)
+│   ├── 📁 emd/
+│   │   ├── 📄 EMD 2021- corrigé.pdf
+│   │   ├── 📄 EMD 2021.pdf
+│   │   ├── 📄 examen 2018.pdf
+│   │   ├── 📄 EMD- 2019.pdf
+│   │   ├── 📄 EMD- 2019- corrigé.docx
+│   │   └── 📄 examen 2018- corrigé.pdf
+│   ├── 📁 tp/
+│   │   └── 📄 TP2 SE
+│   ├── 📁 cours/
+│   │   ├── 📄 chapitre 2- p2-2021.pdf
+│   │   ├── 📄 chapitre 2- p1- 2021.pdf
+│   │   └── 📄 chapitre 1 - 2022.pdf
+│   └── 📁 TD/
+│       ├── 📄 solution série2-2021.pdf
+│       ├── 📄 Série 2-2022.pdf
+│       └── 📄 Série 1.pdf
+├── 🔗📁 SE/  (raccourci)
+│   ├── 📄 Examen-SE-2018_2019.pdf
+│   ├── 📄 free_range_vhdl.pdf
+│   ├── 📁 COURS/
+│   │   ├── 📄 SOFTCORE COURS.pdf
+│   │   ├── 📄 Présentation Co-Design cours 1[1071].pdf
+│   │   ├── 📄 cours sécurité SE.pdf
+│   │   ├── 📄 conception d'un SE[1070].pdf
+│   │   └── 📁 2/
+│   │       ├── 📄 zynq_cours_tp_vivado_zc702[944].pdf
+│   │       ├── 📄 Présentation fpga[1069].pdf
+│   │       ├── 📄 Les Processeurs Embarqués dans les FPGA.pdf
+│   │       ├── 📄 Introduction à la Synthèse logique - VHDL.pdf
+│   │       ├── 📄 Introduction aux systémes embarqués[940].pdf
+│   │       └── 📄 Cours_composants-programmables et langage VHDL[951].pdf
+│   ├── 📁 cours se 2019/
+│   │   ├── 📄 ZYNQ.pdf
+│   │   ├── 📄 SECURITE.pdf
+│   │   ├── 📄 intro.pdf
+│   │   ├── 📄 CONEPTION.pdf
+│   │   ├── 📄 codesigne.pdf
+│   │   ├── 📄 archi.pdf
+│   │   ├── 📄 ~$sumé-SE(3).docx
+│   │   └── 📁 se/
+│   │       ├── 📄 teraterm-4.100.exe
+│   │       ├── 📄 STM32.docx
+│   │       ├── 📄 Travaux dirigés  N°4 SE.pdf
+│   │       ├── 📄 Travaux dirigés  N°5 SE.pdf
+│   │       ├── 📄 NOTE M2 ESE S3.pdf
+│   │       ├── 📄 Garage intelligent en utilisant une carte RFID.docx
+│   │       ├── 📄 LM335.docx
+│   │       ├── 📄 52601816_316061229256297_7990962533118771200_n.jpg
+│   │       ├── 📁 projet se/
+│   │       │   ├── 📄 SErvo moteurNuceloavecPotentiometre.txt
+│   │       │   └── 📄 barriere servoMoteur.txt
+│   │       ├── 📁 coues SE/
+│   │       │   ├── 📄 zynq_cours_tp_vivado_zc702.pdf
+│   │       │   ├── 📄 zedboard presentation.pptx
+│   │       │   ├── 📄 Présentation22.pptx
+│   │       │   ├── 📄 Présentation111.pptx
+│   │       │   ├── 📄 Présentation1.pptx
+│   │       │   ├── 📄 Présentation1 ESE.pptx
+│   │       │   ├── 📄 cours SE Introduction.pptx
+│   │       │   ├── 📄 chapitre 5.pdf
+│   │       │   ├── 📄 Chapitre 4.pdf
+│   │       │   ├── 📄 chapitre 3.pptx
+│   │       │   ├── 📄 chapitre 3.pdf
+│   │       │   ├── 📄 chapitre 2.pptx
+│   │       │   ├── 📄 chapitre 2.pdf
+│   │       │   ├── 📄 chapitre 1.pdf
+│   │       │   └── 📄 zynq_linux.html
+│   │       └── 📁 tpse/
+│   │           ├── 📄 TP_2_2.c
+│   │           ├── 📄 TP_2_1.c
+│   │           ├── 📄 TP_2_1-2.c
+│   │           └── 📁 tpse/
+│   │               ├── 📄 TP1SE.pdf
+│   │               ├── 📄 TP2SE.pdf
+│   │               ├── 📄 TD_4.c
+│   │               ├── 📁 TD_5/
+│   │               │   ├── 📄 uart_rx_ctl.v
+│   │               │   ├── 📄 uart_rx.v
+│   │               │   ├── 📄 uart_led_timing.xdc
+│   │               │   ├── 📄 uart_led_pins.xdc
+│   │               │   ├── 📄 uart_baud_gen.v
+│   │               │   ├── 📄 uart_led.v
+│   │               │   ├── 📄 tb_uart_rx.v
+│   │               │   ├── 📄 test_uart_rx.v
+│   │               │   ├── 📄 tb_uart_driver.v
+│   │               │   ├── 📄 tb_resp_checker.v
+│   │               │   ├── 📄 tb_resetgen.v
+│   │               │   ├── 📄 tb_fifo.v
+│   │               │   ├── 📄 led_ctl.v
+│   │               │   └── 📄 meta_harden.v
+│   │               ├── 📁 partie_3/
+│   │               │   ├── 📄 run_hls.tcl
+│   │               │   ├── 📄 matrix_mult_test.cpp
+│   │               │   ├── 📄 vssver2.scc
+│   │               │   ├── 📄 matrix_mult.cpp
+│   │               │   └── 📄 matrix_mult.h
+│   │               ├── 📁 partie_1/
+│   │               │   ├── 📄 vssver2.scc
+│   │               │   ├── 📄 run_hls.tcl
+│   │               │   ├── 📄 matrix_mult.h
+│   │               │   ├── 📄 matrix_mult_test.cpp
+│   │               │   └── 📄 matrix_mult.cpp
+│   │               └── 📁 partie_2/
+│   │                   ├── 📄 vssver2.scc
+│   │                   ├── 📄 run_hls.tcl
+│   │                   ├── 📄 matrix_mult_test.cpp
+│   │                   ├── 📄 matrix_mult.h
+│   │                   └── 📄 matrix_mult.cpp
+│   ├── 📁 TD/
+│   │   ├── 📁 TD4/
+│   │   │   ├── 📄 TD_4.c
+│   │   │   └── 📄 Travaux dirigés  N°4 SE.pdf
+│   │   ├── 📁 TD3/
+│   │   │   ├── 📄 Travaux dirigés  N°3 SE.pdf
+│   │   │   ├── 📄 TD_3.c
+│   │   │   ├── 📄 zedboard_master_XDC_RevC_D_v3.xdc
+│   │   │   ├── 📄 myip_v1_0_S00_AXI.vhd
+│   │   │   └── 📄 myip_v1_0.vhd
+│   │   ├── 📁 TD5/
+│   │   │   ├── 📄 Travaux dirigés  N°5 SE.pdf
+│   │   │   └── 📄 TD_5.rar
+│   │   ├── 📁 TD2/
+│   │   │   ├── 📄 Travaux dirigés  N°2 SE.pdf
+│   │   │   └── 📄 TD_2.c
+│   │   └── 📁 TD1/
+│   │       └── 📄 TD1 ESE[945].pdf
+│   ├── 📁 TP/
+│   │   ├── 📄 72466555_1819808191495917_8752160514701787136_o.jpg
+│   │   ├── 📁 TP1/
+│   │   │   ├── 📄 TP1 ESE M2[943].pdf
+│   │   │   └── 📄 TP1[942].c
+│   │   ├── 📁 TP2/
+│   │   │   ├── 📄 TP2 SE.pdf
+│   │   │   ├── 📄 TP_2_1.c
+│   │   │   └── 📄 TP_2_2.c
+│   │   └── 📁 TP3/
+│   │       ├── 📄 TP3 SE[1058].pdf
+│   │       └── 📄 hls.rar
+│   └── 📁 projet/
+│       ├── 📄 projet2.docx
+│       ├── 📄 Mini_projet-SE.rar
+│       ├── 📄 projet4.docx
+│       └── 📁 Mini_projet-SE/
+│           ├── 📄 TP2-Projet-SE.pdf
+│           ├── 📄 Projet1.pdf
+│           ├── 📄 TP4-Projet-SE.pdf
+│           └── 📄 Project3.pdf
+└── 📁 SE/
+    ├── 📄 Examen-SE-2018_2019.pdf
+    ├── 📄 free_range_vhdl.pdf
+    ├── 📁 COURS/
+    │   ├── 📄 SOFTCORE COURS.pdf
+    │   ├── 📄 Présentation Co-Design cours 1[1071].pdf
+    │   ├── 📄 cours sécurité SE.pdf
+    │   ├── 📄 conception d_un SE[1070].pdf
+    │   └── 📁 2/
+    │       ├── 📄 zynq_cours_tp_vivado_zc702[944].pdf
+    │       ├── 📄 Présentation fpga[1069].pdf
+    │       ├── 📄 Les Processeurs Embarqués dans les FPGA.pdf
+    │       ├── 📄 Introduction à la Synthèse logique - VHDL.pdf
+    │       ├── 📄 Introduction aux systémes embarqués[940].pdf
+    │       └── 📄 Cours_composants-programmables et langage VHDL[951].pdf
+    ├── 📁 TD/
+    │   ├── 📁 TD1/
+    │   │   └── 📄 TD1 ESE[945].pdf
+    │   ├── 📁 TD4/
+    │   │   ├── 📄 TD_4.c
+    │   │   └── 📄 Travaux dirigés  N°4 SE.pdf
+    │   ├── 📁 TD2/
+    │   │   ├── 📄 Travaux dirigés  N°2 SE.pdf
+    │   │   └── 📄 TD_2.c
+    │   ├── 📁 TD3/
+    │   │   ├── 📄 Travaux dirigés  N°3 SE.pdf
+    │   │   ├── 📄 TD_3.c
+    │   │   ├── 📄 zedboard_master_XDC_RevC_D_v3.xdc
+    │   │   ├── 📄 myip_v1_0_S00_AXI.vhd
+    │   │   └── 📄 myip_v1_0.vhd
+    │   └── 📁 TD5/
+    │       ├── 📄 Travaux dirigés  N°5 SE.pdf
+    │       └── 📄 TD_5.rar
+    ├── 📁 TP/
+    │   ├── 📄 72466555_1819808191495917_8752160514701787136_o.jpg
+    │   ├── 📁 TP1/
+    │   │   ├── 📄 TP1 ESE M2[943].pdf
+    │   │   └── 📄 TP1[942].c
+    │   ├── 📁 TP2/
+    │   │   ├── 📄 TP2 SE.pdf
+    │   │   ├── 📄 TP_2_1.c
+    │   │   └── 📄 TP_2_2.c
+    │   └── 📁 TP3/
+    │       ├── 📄 TP3 SE[1058].pdf
+    │       └── 📄 hls.rar
+    ├── 📁 projet/
+    │   ├── 📄 projet2.docx
+    │   ├── 📄 Mini_projet-SE.rar
+    │   ├── 📄 projet4.docx
+    │   └── 📁 Mini_projet-SE/
+    │       ├── 📄 TP2-Projet-SE.pdf
+    │       ├── 📄 Projet1.pdf
+    │       ├── 📄 TP4-Projet-SE.pdf
+    │       └── 📄 Project3.pdf
+    └── 📁 cours se 2019/
+        ├── 📄 ZYNQ.pdf
+        ├── 📄 SECURITE.pdf
+        ├── 📄 intro.pdf
+        ├── 📄 CONEPTION.pdf
+        ├── 📄 codesigne.pdf
+        ├── 📄 archi.pdf
+        └── 📁 se/
+            ├── 📄 STM32.docx
+            ├── 📄 Travaux dirigés  N°4 SE.pdf
+            ├── 📄 Travaux dirigés  N°5 SE.pdf
+            ├── 📄 NOTE M2 ESE S3.pdf
+            ├── 📄 Garage intelligent en utilisant une carte RFID.docx
+            ├── 📄 LM335.docx
+            ├── 📄 52601816_316061229256297_7990962533118771200_n.jpg
+            ├── 📁 coues SE/
+            │   ├── 📄 chapitre 5.pdf
+            │   ├── 📄 Chapitre 4.pdf
+            │   ├── 📄 chapitre 3.pdf
+            │   ├── 📄 chapitre 2.pdf
+            │   └── 📄 chapitre 1.pdf
+            ├── 📁 projet se/
+            │   ├── 📄 SErvo moteurNuceloavecPotentiometre.txt
+            │   └── 📄 barriere servoMoteur.txt
+            └── 📁 tpse/
+                ├── 📄 TP_2_2.c
+                ├── 📄 TP_2_1.c
+                ├── 📄 TP_2_1-2.c
+                └── 📁 tpse/
+                    ├── 📄 TP1SE.pdf
+                    ├── 📄 TP2SE.pdf
+                    ├── 📄 TD_4.c
+                    ├── 📁 partie_1/
+                    │   ├── 📄 vssver2.scc
+                    │   ├── 📄 run_hls.tcl
+                    │   ├── 📄 matrix_mult.h
+                    │   ├── 📄 matrix_mult.cpp
+                    │   └── 📄 matrix_mult_test.cpp
+                    ├── 📁 partie_2/
+                    │   ├── 📄 vssver2.scc
+                    │   ├── 📄 run_hls.tcl
+                    │   ├── 📄 matrix_mult_test.cpp
+                    │   ├── 📄 matrix_mult.cpp
+                    │   └── 📄 matrix_mult.h
+                    ├── 📁 partie_3/
+                    │   ├── 📄 run_hls.tcl
+                    │   ├── 📄 vssver2.scc
+                    │   ├── 📄 matrix_mult_test.cpp
+                    │   ├── 📄 matrix_mult.cpp
+                    │   └── 📄 matrix_mult.h
+                    └── 📁 TD_5/
+                        ├── 📄 uart_rx_ctl.v
+                        ├── 📄 uart_rx.v
+                        ├── 📄 uart_led_timing.xdc
+                        ├── 📄 uart_led_pins.xdc
+                        ├── 📄 uart_led.v
+                        ├── 📄 uart_baud_gen.v
+                        ├── 📄 tb_uart_rx.v
+                        ├── 📄 test_uart_rx.v
+                        ├── 📄 tb_uart_driver.v
+                        ├── 📄 tb_resp_checker.v
+                        ├── 📄 tb_resetgen.v
+                        ├── 📄 tb_fifo.v
+                        ├── 📄 led_ctl.v
+                        └── 📄 meta_harden.v
+
+═════════════════════════════════════
+  Fin du fichier · Systèmes Embarqués
+═════════════════════════════════════

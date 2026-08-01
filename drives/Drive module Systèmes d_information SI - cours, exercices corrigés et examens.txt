@@ -1,0 +1,178 @@
+📚 MODULE : Systèmes d'information SI                 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Systèmes d'information SI.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Systèmes d'information SI/
+├── 🔗📁 SI/  (raccourci)
+│   ├── 📁 TD/TP /
+│   │   ├── 📄 TD4 .pdf
+│   │   ├── 📄 TD3 .pdf
+│   │   ├── 📄 TD2 .pdf
+│   │   ├── 📄 TD1 .pdf
+│   │   ├── 📄 TD5_MLD (Solution) .pdf
+│   │   ├── 📄 TD4_Solution.pdf
+│   │   ├── 📄 TD3_Solution.pdf
+│   │   ├── 📄 TD2_Solution.pdf
+│   │   └── 📄 TD1_Solution.pdf
+│   ├── 📁 Exams/
+│   │   └── 📄 2025 + Solution .pdf
+│   └── 📁 Cours /
+│       ├── 📄 Chapter 3 .pdf
+│       ├── 📄 Chapter 2 .pdf
+│       └── 📄 Chapter 1 .pdf
+├── 🔗📁 Systèmes d_information/  (raccourci)
+│   ├── 📁 Nouveau dosier/
+│   │   ├── 📄 Rattrapage SI + corrigé.pdf
+│   │   └── 📄 SI_intro.pdf
+│   ├── 📁 Cours/
+│   │   ├── 📄 s_rie_01_Etude_de_lorganisation.pdf-383718481.pdf
+│   │   ├── 📄 SI_intro.pdf
+│   │   ├── 📄 Cours1_4 (1).pdf
+│   │   ├── 📄 CONTROLE_cours.pdf
+│   │   ├── 📄 CODIFCation_cours.pdf
+│   │   ├── 📄 analyse du SI_Flux_DCTI_suite du cours1.pdf-383718481.pdf
+│   │   ├── 📄 A2.pdf
+│   │   ├── 📄 Modélisation des SI pour étudiants.pdf
+│   │   ├── 📄 Cours1_4.pdf
+│   │   └── 📄 série 01 Etude de lorganisation.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 Série 4 Modélisation.pdf
+│   │   ├── 📄 série 3 Codification.pdf
+│   │   ├── 📄 série 2 Etude de cas 4.pdf
+│   │   ├── 📄 série 2 Etude de cas 1.pdf
+│   │   ├── 📄 série 2 Analyse Struturelle et fonctionnelle de SI.pdf
+│   │   ├── 📄 s_rie_01_Etude_de_lorganisation.pdf-383718481.pdf
+│   │   └── 📄 série 01 Etude de lorganisation.pdf
+│   ├── 📁 Examens Corrigés/
+│   │   ├── 📄 EMD_SI_L2 2016_2017 corrigé uniquement.pdf
+│   │   ├── 📄 Rattrapage SI + corrigé.pdf
+│   │   └── 📄 EMD_SI_L2_2016_2017_corrig_uniquement.pdf_filename-= UTF-8__EMD_SI_L2 2016_2017 corrigé uniquement.pdf
+│   ├── 📁 Résumés/
+│   │   ├── 📄 Resume_Codification.pdf1203355508.pdf
+│   │   └── 📄 Résumé MCD.docx
+│   └── 📁 Exercices/
+│       ├── 📄 Devoir 1 SI.docx
+│       ├── 📄 exercices supplémentaires.pdf
+│       ├── 📄 exo 3 modelisation  oussama hamel.docx
+│       ├── 📄 Devoir 2 SI.docx
+│       ├── 📄 devoir 2 SI.pdf
+│       ├── 📄 Devoir 1.docx
+│       ├── 📄 Devoir 01 SI.docx
+│       ├── 📄 devoir.docx
+│       └── 📄 devoir 1 SI.pdf
+├── 🔗📁 MERISE & SI/  (raccourci)
+│   ├── 📄 Drive module MERISE - cours, exercices corrigés et examens.txt
+│   ├── 📁 TDs/
+│   │   ├── 📄 TD N°8 -  modélisation d’un logiciel de saisie comptable- corrigé.pdf
+│   │   ├── 📄 TD 1 Modèle entité-association et modèle relationnel Correction.pdf
+│   │   ├── 📄 Application - OPLAST - sujet.pdf
+│   │   ├── 📄 Application - cas 201 et 202 - corrige.pdf
+│   │   ├── 📄 TD N°7  modélisation d’un logiciel de saisie comptable corrigé.pdf
+│   │   ├── 📄 Série avec Corrigé n o 1 Modèle Conceptuel de données (MCD).pdf
+│   │   ├── 📄 Série de TD N°1  Modèle Entité Association MCD.pdf
+│   │   ├── 📄 Application - cas MAXI BUREAU - sujet et corrige.pdf
+│   │   ├── 📄 TD N°1  -les principales extensions de Merise 2 corrigé.pdf
+│   │   ├── 📄 Série avec Corrigé  n o 1 Modèle Conceptuel de données (MCD).pdf
+│   │   ├── 📄 TD avec solution Manipulation de données  Le langage SQL.pdf
+│   │   ├── 📄 Entraînement Algorithmique et SQL.pdf
+│   │   ├── 📄 Application - cas 108 a 110 - corrige.pdf
+│   │   ├── 📄 Application - cas 201 et 202 - sujet.pdf
+│   │   ├── 📄 Application - OPLAST - corrige.pdf
+│   │   ├── 📄 TD No 1 corrigé Modèle Conceptuel – Schéma Relationnel.pdf
+│   │   ├── 📄 TD 1  MODELE ENTITES-ASSOCIATIONS.pdf
+│   │   ├── 📄 TD N°4 - modéliser, requêter, modéliser, requêter - corrigé.pdf
+│   │   ├── 📄 Application - revisions SQL - sujet.pdf
+│   │   ├── 📄 Application - cas 108 a 110 - sujet.pdf
+│   │   ├── 📄 TD N°2 - les extensions Merise 2 - corrigé.pdf
+│   │   ├── 📄 Application - cas Harrys Melra - sujet.pdf
+│   │   ├── 📄 TD N°6 - modélisation d’un logiciel de modélisation de MCD.pdf
+│   │   └── 📄 Application - cas Harrys Melra - corrige.pdf
+│   ├── 📁 TP/
+│   │   ├── 📄 TP N°3 - SQL - corrigé.zip
+│   │   ├── 📄 Correction Atelier4  SQL.pdf
+│   │   ├── 📄 TP N°3 -  le fonctionnement des clauses SQL.pdf
+│   │   ├── 📄 TP2_N°2 Interrogation d’une base de données en mode QBE et SQL.pdf
+│   │   └── 📄 TP N°5 -  à la découverte des triggers.pdf
+│   ├── 📁 Examens/
+│   │   ├── 📄 correction examen conception.pdf
+│   │   ├── 📄 Sujet 1 mcd Gestion d'un pressing.pdf
+│   │   ├── 📄 Solution de l’examen 1 en informatique de gestion.pdf
+│   │   ├── 📄 Examen en Informatique de gestion.pdf
+│   │   ├── 📄 Rattrapage-Avril2018-Solution.pdf
+│   │   └── 📄 Solution Examen 2 en informatique de gestion .pdf
+│   ├── 📁 devoirs/
+│   │   ├── 📄 MCD - articles et commentaires.jpg
+│   │   ├── 📄 MCD - articles et reseaux sociaux.jpg
+│   │   ├── 📄 Fiche de révisions - MCD et schéma relationnel.pdf
+│   │   ├── 📄 Épreuve E5 merise  Analyses de gestion et organisation du système d’information.pdf
+│   │   ├── 📄 MCD - Sujet Gestion d’un site de location de vacances- corrige.pdf
+│   │   ├── 📄 Fiche de révisions - MOD et autorisations.pdf
+│   │   ├── 📄 Devoir 2 - sujet et corrige.pdf
+│   │   ├── 📄 MCD - Sujet Gestion d’un site de location de vacances.pdf
+│   │   ├── 📄 Devoir n°1 - Merise 2 et SQL - corrigé.pdf
+│   │   ├── 📄 Devoir n°1 - Merise 2 et SQL - sujet.pdf
+│   │   ├── 📄 Sujet - Entrainement SQL.pdf
+│   │   ├── 📄 Devoir 1 - corrige.pdf
+│   │   ├── 📄 Devoir 1 - sujet.pdf
+│   │   └── 📄 Devoir 2 - sujet.pdf
+│   └── 📁 cours/
+│       ├── 📄 _Cours Merise ENSAAAAAF.ppt
+│       ├── 📄 Cours Système d’information et Bases de données.pdf
+│       ├── 📄 Cours_Merise.pdf
+│       ├── 📄 Cours Modèle Conceptuel de Données MCD.pdf
+│       ├── 📄 Cours Modèle Logique de Données MLD.pdf
+│       ├── 📄 Cours La Méthode Merise.pdf
+│       ├── 📄 Cours Modèle Organisationnel des Traitements MOT.pdf
+│       └── 📄 Cours Modèle Conceptuel de Traitements MCT.pdf
+└── 📁 SI/
+    ├── 📄 SI-Corrigé TD+TEST+Examen.pdf
+    ├── 📁 SUJETS/
+    │   ├── 📁 Examens/
+    │   │   ├── 📁 Examens + Corrigés/
+    │   │   │   ├── 📄 Examen + Corrigé 2009-2010.pdf
+    │   │   │   ├── 📁 Examen 2011-2012/
+    │   │   │   │   ├── 📄 SI 1  ( épreuve finale ) Partie 1 .pdf
+    │   │   │   │   ├── 📄 SI ( Corrigé ) .pdf
+    │   │   │   │   └── 📄 SI 2  ( épreuve finale ) Partie 2.pdf
+    │   │   │   ├── 📁 Rattrapage 2009-2010/
+    │   │   │   │   ├── 📄 Corrigé  rattrapage 2009-2010 .pdf
+    │   │   │   │   └── 📄 Rattrapage 2009-2010 .pdf
+    │   │   │   └── 📁 Rattrapage 2011-2012/
+    │   │   │       ├── 📄 Rattrapage 2011-2012  (4).jpg
+    │   │   │       ├── 📄 Rattrapage 2011-2012  (2).jpg
+    │   │   │       ├── 📄 Rattrapage 2011-2012  (3).jpg
+    │   │   │       └── 📄 Rattrapage 2011-2012  (1).jpg
+    │   │   └── 📁 Examens Sans Corrigés/
+    │   │       ├── 📄 2009-2010 Mascara système d_information rattrapage.jpg
+    │   │       ├── 📄 2008-2009 Système d_information rattrapage .jpg
+    │   │       ├── 📄 Examen Page  (2).jpg
+    │   │       ├── 📄 Examen Page  (1).jpg
+    │   │       └── 📄 2009-2010 Mascara Système d_information examen.pdf
+    │   └── 📁 Devoirs/
+    │       ├── 📄 Interrogation N°2 .docx
+    │       └── 📄 interrogation 2009-2010.jpg
+    ├── 📁 SÉRIES/
+    │   ├── 📄 TD 4 2009-2010 Modélisation Statique des SI.pdf
+    │   ├── 📄 TD 3 2010-2011 Fichiers _ Organisations.pdf
+    │   ├── 📄 TD 2 2010-2011 Les Techniques de représentation de l’information.pdf
+    │   ├── 📄 TD 1 Solution Exo3.3 .pdf
+    │   └── 📄 TD 1 2009-2010 Entreprises et Organisations.pdf
+    ├── 📁 EXAMENS/
+    │   └── 📄 Rattrapage SI + corrigé.pdf
+    └── 📁 COURS/
+        └── 📄 SI_ALL.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Systèmes d'information SI
+═════════════════════════════════════

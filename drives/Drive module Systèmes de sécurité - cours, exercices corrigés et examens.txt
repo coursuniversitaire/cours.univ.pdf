@@ -1,0 +1,89 @@
+📚 MODULE : Systèmes de sécurité                      
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Systèmes de sécurité.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Systèmes de sécurité/
+├── 📄 Sys-Sec-20260522T220747Z-3-001.zip
+├── 🔗📁 Sys-Sec/  (raccourci)
+│   ├── 📁 TDs/
+│   │   ├── 📄 Sol TD 3.pdf
+│   │   ├── 📄 Sol TD 2.pdf
+│   │   └── 📄 Sol TD1.pdf
+│   ├── 📁 EMDs/
+│   │   ├── 📄 EMD 2019.pdf
+│   │   ├── 📄 EMD corrigé 2.pdf
+│   │   ├── 📄 Emd corrigé.pdf
+│   │   ├── 📄 rattrapage 2015.pdf
+│   │   ├── 📄 EMD 2017-2018.pdf
+│   │   ├── 📄 remplacement 2018-2019.pdf
+│   │   ├── 📄 EMD.pdf
+│   │   ├── 📄 EMD SYS-SEC 2019.pdf
+│   │   └── 📄 EMD SYS-SEC 2015.pdf
+│   └── 📁 Cours/
+│       ├── 📄 Les_systèmes_de_sécurité_CH6-CH7.pdf
+│       ├── 📄 Les_systèmes_de_sécurité-CH5.pdf
+│       ├── 📄 Les_systèmes_de_sécurité_M2-CH4.pdf
+│       ├── 📄 Les_systèmes_de_sécurité_CH3.pdf
+│       ├── 📄 Les_systèmes_de_sécurité_CH2.pdf
+│       └── 📄 Les_systèmes_de_sécurité--CH1.pdf
+├── 🔗📁 Sys-Sec/  (raccourci)
+│   ├── 📄 Emd corrigé.pdf
+│   ├── 📄 EMD SYS-SEC 2019.pdf
+│   ├── 📄 rattrapage 2015.pdf
+│   ├── 📄 EMD SYS-SEC 2015.pdf
+│   ├── 📄 EMD.pdf
+│   ├── 📄 EMD 2019.pdf
+│   ├── 📄 EMD corrigé 2.pdf
+│   ├── 📄 EMD 2017-2018.pdf
+│   ├── 📄 remplacement 2018-2019.pdf
+│   ├── 📁 TDs/
+│   │   ├── 📄 Sol TD 3.pdf
+│   │   ├── 📄 Sol TD 2.pdf
+│   │   └── 📄 Sol TD1.pdf
+│   ├── 📁 Cours/
+│   │   ├── 📄 Les_systèmes_de_sécurité_CH6-CH7.pdf
+│   │   ├── 📄 Les_systèmes_de_sécurité_CH6-CH7.pdf
+│   │   ├── 📄 Les_systèmes_de_sécurité-CH5.pdf
+│   │   ├── 📄 Les_systèmes_de_sécurité_M2-CH4.pdf
+│   │   ├── 📄 Les_systèmes_de_sécurité_CH3.pdf
+│   │   ├── 📄 Les_systèmes_de_sécurité_CH2.pdf
+│   │   └── 📄 Les_systèmes_de_sécurité--CH1.pdf
+│   └── 📁 EMDs/
+│       ├── 📄 EMD 2019.pdf
+│       ├── 📄 EMD corrigé 2.pdf
+│       ├── 📄 Emd corrigé.pdf
+│       ├── 📄 rattrapage 2015.pdf
+│       ├── 📄 EMD 2017-2018.pdf
+│       ├── 📄 remplacement 2018-2019.pdf
+│       ├── 📄 EMD.pdf
+│       ├── 📄 EMD SYS-SEC 2019.pdf
+│       └── 📄 EMD SYS-SEC 2015.pdf
+├── 🔗📁 system securité/  (raccourci)
+│   ├── 📄 Les_systèmes_de_sécurité_M2-CH4.pdf
+│   ├── 📄 Les_systèmes_de_sécurité_CH3.pdf
+│   ├── 📄 Les_systèmes_de_sécurité_CH2.pdf
+│   └── 📄 Les_systèmes_de_sécurité--CH1.pdf
+└── 🔗📁 SEC SYSTEM/  (raccourci)
+    ├── 📄 chapitre3_partie1.mp4
+    ├── 📁 TP/
+    │   ├── 📄 TP Chroot Jail.pdf
+    │   └── 📄 tp2.pdf
+    └── 📁 cours/
+        ├── 📄 chapitre3_partie1.mp4
+        ├── 📄 Chapitre1.pdf
+        └── 📄 Chapitre0.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Systèmes de sécurité
+═════════════════════════════════════
