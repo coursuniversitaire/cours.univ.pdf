@@ -1,0 +1,46 @@
+📚 MODULE : Commande des machines                     
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Commande des machines.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Commande des machines/
+├── 📄 Commande des Machines_ENSGEE.rar
+├── 📄 solutions-asservissement.pdf
+├── 📄 examen_commande_2018_2019.pdf
+├── 📄 Application_n°1_ch3.docx
+├── 📄 App2_CH1_Régulation_angulaire_MCC.docx
+├── 📄 TD Asservissement et régulation.doc
+├── 📄 App1_CH1_Régulation de vitesse_MCC.docx
+├── 📄 Commande_des_MCC_TD_1__Exo_1_Exo2_2.pdf
+├── 📁 TD/
+│   ├── 📄 TD_Commande_Serie_2.pdf
+│   ├── 📄 Commande_TD_1__Exo_1,2,4,5,6,et TD_2,exo1,2,3.pdf
+│   ├── 📄 TD_Commande_Serie_3.pdf
+│   ├── 📄 Solution_exo1_s_rie_1.pdf
+│   ├── 📄 Solution_exo2_s_rie1.pdf
+│   ├── 📄 Commande_des_MCC_TD_1__Exo_1_Exo2_2.pdf
+│   ├── 📄 Serie_1__Commande.pdf
+│   └── 📄 TD COMMANDE.pdf
+├── 📁 TP/
+│   ├── 📄 TP N2 commande.pdf
+│   └── 📄 TP1_5.pdf
+└── 📁 Cours/
+    ├── 📄 Commande des machines (Zoubir Boudries).pdf
+    ├── 📄 Commande des machines (Edouard Laroche).pdf
+    ├── 📄 Cours Commande 2017-2018.pdf
+    ├── 📄 Commande machines.pdf
+    └── 📄 Motorisation_et_Commande_des_Machines_-_Exercices_re_solus.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Commande des machines
+═════════════════════════════════════

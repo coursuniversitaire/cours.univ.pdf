@@ -1,0 +1,66 @@
+📚 MODULE : Ecologie Générale I                       
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Ecologie Générale I.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Ecologie Générale I/
+├── 📁 Cours/
+│   ├── 📄 Succession écologique 2022.pdf
+│   ├── 📁 Cours Pr Mohamed ALIFRIQUI/
+│   │   ├── 📄 PLAN_COURS_Ecologie1_S3_Facteurs_abiotiques.pdf
+│   │   ├── 📁 CHAP4/
+│   │   │   ├── 📄 Cours Ecologie S3 Chapitre 4C.pdf
+│   │   │   ├── 📄 Cours Ecologie S3 Chapitre 4B.pdf
+│   │   │   └── 📄 Cours Ecologie S3 Chapitre 4A.pdf
+│   │   ├── 📁 CHAP3/
+│   │   │   ├── 📄 Cours Ecologie S3 Chapitre 3C.pdf
+│   │   │   ├── 📄 Cours Ecologie S3 Chapitre 3B.pdf
+│   │   │   └── 📄 Cours Ecologie S3 Chapitre 3A.pdf
+│   │   ├── 📁 CHAP2/
+│   │   │   ├── 📄 Cours Ecologie S3 Chapitre 2C.pdf
+│   │   │   ├── 📄 Cours Ecologie S3 Chapitre 2B.pdf
+│   │   │   └── 📄 Cours Ecologie S3 Chapitre 2A.pdf
+│   │   └── 📁 CHAP1/
+│   │       ├── 📄 Cours Ecologie S3 Chapitre 1C.pdf
+│   │       ├── 📄 Cours Ecologie S3 Chapitre 1B.pdf
+│   │       └── 📄 Cours Ecologie S3 Chapitre 1A.pdf
+│   ├── 📁 Cours Pr El Alaoui El Fels/
+│   │   ├── 📄 Chap III suite Facteurs du milieu 3 et 4.pdf
+│   │   ├── 📄 Chap III Facteurs du milieu  1 et 2.pdf
+│   │   ├── 📄 Chap II  écosystème.pdf
+│   │   ├── 📄 Chap I- Quest-ce que lÉcologie.pdf
+│   │   ├── 📄 Chap IV suite Fonctionnement dun écosystème (suite).pdf
+│   │   ├── 📄 Plan du cours décologie 1 (2ème partie).pdf
+│   │   ├── 📄 Chap IV  Fonctionnement d’un écosystèmes F.pdf
+│   │   └── 📄 Chap IV (suite) Fonctionnement dun écosystème.pdf
+│   └── 📁 Cours Pr ELMODEN/
+│       ├── 📄 Cours Ecologie S3 partie 2_2022.pdf
+│       └── 📄 Cours Ecologie S3 partie 1_2022.pdf
+├── 📁 TP/
+│   ├── 📄 faune du sol.pdf
+│   ├── 📄 TP S3 ETUDE DES FACTEURS  CLIMATIQUES éléments clés pour bien comprendre à distance .pdf
+│   ├── 📄 MANUEL.TP.S3Ecologie.pdf
+│   └── 📄 TP ECOLOGIE GENERALE S3 2020 EL ALAOUI MY DRISS.pdf
+├── 📁 TD/
+│   ├── 📄 TD+2+d_Ecologie.pdf
+│   └── 📄 TD_no2_-Production_alimentaire_et_environnement.pdf
+├── 📁 Résumé/
+│   └── 📄 Résumé ecologie.pdf
+└── 📁 Examen/
+    ├── 📄 Cor_EG_L2_KaziTaniL.pdf
+    ├── 📄 ECOLOGIE DOC-corrige 2021.pdf
+    └── 📄 ECOLOGIE Examen Corrigé 2020.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Ecologie Générale I
+═════════════════════════════════════

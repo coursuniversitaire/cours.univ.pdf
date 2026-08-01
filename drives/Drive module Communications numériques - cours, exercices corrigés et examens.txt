@@ -1,0 +1,250 @@
+📚 MODULE : Communications numériques                 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Communications numériques.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Communications numériques/
+├── 🔗📁 C.N/  (raccourci)
+│   ├── 📁 EXAM/
+│   │   ├── 📄 t1 (9).jpg
+│   │   ├── 📄 t1 (6).jpg
+│   │   ├── 📄 t1 (4).jpg
+│   │   ├── 📄 t1 (3).jpg
+│   │   ├── 📄 t1 (5).jpg
+│   │   ├── 📄 t1 (2).jpg
+│   │   ├── 📄 t1 (8).jpg
+│   │   ├── 📄 t1 (7).jpg
+│   │   ├── 📄 t1 (25).jpg
+│   │   ├── 📄 t1 (26).jpg
+│   │   ├── 📄 IMG_20141105_131511.jpg
+│   │   ├── 📄 t1 (23).jpg
+│   │   ├── 📄 t1 (24).jpg
+│   │   ├── 📄 t1 (21).jpg
+│   │   ├── 📄 t1 (22).jpg
+│   │   ├── 📄 t1 (19).jpg
+│   │   ├── 📄 t1 (20).jpg
+│   │   ├── 📄 t1 (18).jpg
+│   │   ├── 📄 t1 (17).jpg
+│   │   ├── 📄 t1 (12).jpg
+│   │   ├── 📄 t1 (15).jpg
+│   │   ├── 📄 t1 (13).jpg
+│   │   ├── 📄 SP_A0635.jpg
+│   │   ├── 📄 t1 (16).jpg
+│   │   ├── 📄 t1 (11).jpg
+│   │   ├── 📄 t1 (14).jpg
+│   │   ├── 📄 t1 (1).jpg
+│   │   ├── 📄 t1 (10).jpg
+│   │   ├── 📄 SP_A0631.jpg
+│   │   ├── 📄 t1 (1).pdf
+│   │   ├── 📄 ST-24-01-2014.jpg
+│   │   ├── 📄 SP_A0632.jpg
+│   │   ├── 📄 SP_A0633.jpg
+│   │   ├── 📄 ST-01-2012.jpg
+│   │   ├── 📄 SP_A0634.jpg
+│   │   ├── 📄 IMG_20141105_131529.jpg
+│   │   ├── 📄 IMG_20141105_131601.jpg
+│   │   ├── 📄 sic-07-02-2011.jpg
+│   │   ├── 📄 Examen comm num page2.jpg
+│   │   ├── 📄 Examen 2012 comm num page1.jpg
+│   │   ├── 📄 rattrapageST-2012.jpg
+│   │   ├── 📄 337619_339891739358301_100000124339060_1536290_1508108078_o.jpg
+│   │   ├── 📄 328644_339893049358170_100000124339060_1536300_1603151526_o.jpg
+│   │   ├── 📄 322648_339892129358262_100000124339060_1536295_798533274_o.jpg
+│   │   ├── 📄 327212_339893879358087_100000124339060_1536303_126306987_o.jpg
+│   │   ├── 📄 337031_339891479358327_100000124339060_1536288_1759206624_o.jpg
+│   │   ├── 📄 378588_285136174863229_1309022674_n.jpg
+│   │   ├── 📄 1617635_10202541281000483_418272513_o.jpg
+│   │   ├── 📄 14808_10202553494185805_277987214_n.jpg
+│   │   ├── 📄 1620588_10202553490585715_328809557_n.jpg
+│   │   ├── 📄 1474642_561646633910321_621706440_n.jpg
+│   │   ├── 📄 10866702_550552645080568_880490947_n.jpg
+│   │   ├── 📄 05-02-2014.jpg
+│   │   ├── 📄 10859734_550548998414266_438997069_n.jpg
+│   │   └── 📁 01/
+│   │       ├── 📄 examen final CN 2014_corrigé.docx
+│   │       ├── 📄 examen final CN 2014-corrigé.docx
+│   │       ├── 📄 cours CN_chapitre3.docx
+│   │       ├── 📄 examen final CN 2013.docx
+│   │       ├── 📄 examen final CN 2014.docx
+│   │       ├── 📄 CN Rattrapage2014_corrigé.docx
+│   │       └── 📄 CN Rattrapage2014.docx
+│   ├── 📁 COUR/
+│   │   ├── 📄 polyMH4.pdf
+│   │   ├── 📄 L2-Transmission & Modul.Num..pptx
+│   │   ├── 📄 TP_N°1_modulation PWM_démodulation PWMx.pdf
+│   │   ├── 📄 La modulation de signaux numérique.pdf
+│   │   ├── 📄 chap3_2015.pdf
+│   │   ├── 📄 UE433_Slides_Chapt5.pdf
+│   │   ├── 📄 cours CN_chapitre2.docx
+│   │   ├── 📄 cours CN_chapitre3.docx
+│   │   ├── 📄 TRM1.docx
+│   │   ├── 📄 L1-Transmissions & Modulations Numériques.pptx
+│   │   ├── 📄 cours CN_Multiplexage 2014.docx
+│   │   ├── 📄 cours_Modulation PWM_sigma-delta.pdf
+│   │   ├── 📄 serie_exercices_2010_2011.pdf
+│   │   ├── 📄 Pr_sentation_du_Memoire_Licence_Normes_et_Reglement.pdf
+│   │   ├── 📄 82135-12590-15935.pdf
+│   │   ├── 📄 cours CN_chapitre1.docx
+│   │   ├── 📄 canthi-TRintrocnu.pdf
+│   │   ├── 📁 CN/
+│   │   │   ├── 📄 rapport-codages.pdf
+│   │   │   └── 📁 Cours communications numériques/
+│   │   │       ├── 📄 TND_modu_2008_V4.pdf
+│   │   │       ├── 📄 M1Communication numérique.pdf
+│   │   │       ├── 📄 Cours_EN310_2011_2012.pdf
+│   │   │       ├── 📄 communication numérique.pdf
+│   │   │       ├── 📄 201309PresentationCOM203.pdf
+│   │   │       ├── 📄 7759887-Cours-transmission.pdf
+│   │   │       ├── 📄 cours6-7-ComNum2.pdf
+│   │   │       ├── 📄 TD communication numérique.pdf
+│   │   │       ├── 📄 polyMH4.pdf
+│   │   │       ├── 📄 intro_comnum.pdf
+│   │   │       ├── 📄 ComNum3_hand.pdf
+│   │   │       ├── 📄 Signaux-et-communications-numeriques.pdf
+│   │   │       ├── 📄 ComNum5_hand.pdf
+│   │   │       ├── 📄 ComNum4_hand.pdf
+│   │   │       ├── 📄 G2.pdf
+│   │   │       ├── 📄 Exercises_CommNum_TTT06.pdf
+│   │   │       ├── 📄 examen-2011.pdf
+│   │   │       ├── 📄 ComNum1_hand.pdf
+│   │   │       ├── 📁 Cours important communication numérique/
+│   │   │       │   ├── 📄 cours8-ComNum2.pdf
+│   │   │       │   ├── 📄 cours3-ComNum2.pdf
+│   │   │       │   ├── 📄 cours2-ComNum2.pdf
+│   │   │       │   ├── 📄 cours1-ComNum2.pdf
+│   │   │       │   └── 📄 cours7-ComNum2.pdf
+│   │   │       ├── 📁 Cours utile Communication Numérique/
+│   │   │       │   ├── 📄 ENSAJComNC2.pdf
+│   │   │       │   └── 📄 ENSAJComNC1.pdf
+│   │   │       └── 📁 TD Com Numé/
+│   │   │           ├── 📄 ENSAJComNTD2.pdf
+│   │   │           ├── 📄 ENSAJComNTD4.pdf
+│   │   │           ├── 📄 ENSAJComNTD6.pdf
+│   │   │           ├── 📄 ENSAJComNTD5.pdf
+│   │   │           ├── 📄 ENSAJComNTD7.pdf
+│   │   │           ├── 📄 ENSAJComNTD3.pdf
+│   │   │           └── 📄 ENSAJComNTD1.pdf
+│   │   └── 📁 Cours transmission/
+│   │       ├── 📄 L6-BPSK.pptx
+│   │       ├── 📄 L4-Comm-Num.pptx
+│   │       ├── 📄 L10-Egalisation.pptx
+│   │       ├── 📄 L5-MODULATIONS_NUMERIQUES.pptx
+│   │       ├── 📄 L9-Ru00E9cepteurs Numu00E9riques.pptx
+│   │       ├── 📄 L2-Transmission & Modul.Num..pptx
+│   │       ├── 📄 L7-QPSK & QAM.pptx
+│   │       ├── 📄 L8-QAM & FSK.pdf
+│   │       ├── 📄 L1-Transmissions & Modulations Numériques.pptx
+│   │       └── 📄 L3.pptx
+│   ├── 📁 TD/
+│   │   ├── 📄 CN_TD2_2014.docx
+│   │   ├── 📄 série_exercices_2010_2011.pdf
+│   │   ├── 📄 exo corrigé (y).pdf
+│   │   ├── 📄 transmission.pdf
+│   │   ├── 📄 CN_TD1- corrigé_2015.pdf
+│   │   ├── 📄 CN_TD1- corrigé.docx
+│   │   ├── 📄 Doc2.docx
+│   │   ├── 📄 CN_TD_codage.docx
+│   │   └── 📁 Serie01/
+│   │       ├── 📄 07.jpg
+│   │       ├── 📄 08.jpg
+│   │       ├── 📄 06.jpg
+│   │       ├── 📄 05.jpg
+│   │       ├── 📄 04.jpg
+│   │       ├── 📄 03.jpg
+│   │       ├── 📄 02.jpg
+│   │       └── 📄 01.jpg
+│   └── 📁 TP/
+│       ├── 📄 simulationGSM.pdf
+│       └── 📄 caractérisation du modulateur IQ.docx
+├── 🔗📁 Communication numérique/  (raccourci)
+│   └── 📁 Dr.Hassak/
+│       ├── 📁 TD/
+│       │   ├── 📄 Série 1 2 3 4.pdf
+│       │   └── 📁 Solution TD/
+│       │       └── 📄 Sol Série-2-3.pdf
+│       ├── 📁 Cour/
+│       │   └── 📄 All courses.pdf
+│       └── 📁 TP/
+├── 🔗📁 CN Sultan/  (raccourci)
+│   ├── 📄 TP6 Modulation QAM.pdf
+│   ├── 📄 TP5 Modulation QPSK.pdf
+│   ├── 📄 Modulation numérique de porteuse.pdf
+│   ├── 📄 Intro aux CN 2012.pdf
+│   ├── 📄 Cours CN 2.pdf
+│   ├── 📄 Cours CN 1.pdf
+│   ├── 📄 Codage en ligne.pdf
+│   ├── 📄 Codage bipolaire.pdf
+│   ├── 📄 CN full RFS correction 2016-17.pdf
+│   ├── 📄 Ch2 Modulation numérique à bande étroite 2018.pdf
+│   ├── 📄 Canaux de transmission bruités TD.pdf
+│   ├── 📄 Canaux de transmission bruites 2018.pdf
+│   ├── 📄 TP4 Modulation PSK.pdf
+│   ├── 📄 TP3 Modulation FSK.pdf
+│   ├── 📄 TP2 Modulation ASK.pdf
+│   ├── 📄 Ch1 Transmission numérique en bande de base 20.pdf
+│   ├── 📄 TP1 Codage en ligne.pdf
+│   ├── 📄 TD1 Numérisation - modulation numérique.pdf
+│   ├── 📄 Contrôle canaux de transmission bruités 2013-1.pdf
+│   ├── 📄 Contrôle écrit 2009-10.docx
+│   ├── 📄 Contrôle canaux de transmission bruités 2016-1.pdf
+│   ├── 📄 Contrôle canaux de transmission bruités 2015-1.pdf
+│   ├── 📄 Contrôle canaux de transmission bruités 2014-1.pdf
+│   └── 📄 Contrôle canaux de transmission bruités 2011-1.pdf
+├── 🔗📁 CN-20260620T230822Z-3-001.zip/  (raccourci)
+├── 🔗📁 CN/  (raccourci)
+│   ├── 📁 Cours/
+│   │   └── 📁 Dr-ROMAN/
+│   │       ├── 📁 Week08/
+│   │       │   └── 📄 Week 06 Communication Through Band Limited Channels.pdf
+│   │       ├── 📁 Week07/
+│   │       │   └── 📄 Newer_2025_Week07_LectureNotes.pdf
+│   │       ├── 📁 Week06/
+│   │       │   └── 📄 Week 06 Communication Through Band Limited Channels.pdf
+│   │       ├── 📁 Week05/
+│   │       │   └── 📄 Newer_2025_Week05_LectureNotes.pdf
+│   │       ├── 📁 Week04/
+│   │       │   └── 📄 Week 04 Power-spectrum of digitally modulated signals.pdf
+│   │       ├── 📁 Week03/
+│   │       │   └── 📄 Newer_2025_Week03_LectureNotes.pdf
+│   │       ├── 📁 Week02/
+│   │       │   └── 📄 Week 02 Bandpass-Lowpass_Random Proc.pdf
+│   │       └── 📁 Week01/
+│   │           ├── 📄 01 Chapter 1 Introduction.pdf
+│   │           └── 📄 Newer_2025_Week01_LectureNotes.pdf
+│   ├── 📁 Youtube/
+│   │   └── 📄 youtube.txt
+│   ├── 📁 Books/
+│   │   └── 📄 + + + Digital Communications, 5th_Proakis.pdf
+│   ├── 📁 TD/
+│   │   └── 📄 Fiche-CN.pdf
+│   ├── 📁 EXO+/
+│   │   ├── 📄 PROBLEMS 5 Synchronization.pdf
+│   │   ├── 📄 PROBLEMS 9 Sol.pdf
+│   │   ├── 📄 PROBLEMS 9 Digital Communication Through Band-Limited Channels + Linear Equalization.pdf
+│   │   ├── 📄 PROBLEMS 5 Sol.pdf
+│   │   ├── 📄 PROBLEMS 4 Sol.pdf
+│   │   ├── 📄 PROBLEMS 3 Sol.pdf
+│   │   ├── 📄 PROBLEMS 4 Optimum Receivers for AWGN Channels.pdf
+│   │   ├── 📄 PROBLEMS 3 Digital Modulation.pdf
+│   │   ├── 📄 PROBLEMS 2 Sol.pdf
+│   │   ├── 📄 PROBLEMS 2 Signal Analysis.pdf
+│   │   └── 📄 TD_CN_Cor1.pdf
+│   └── 📁 Cahier/
+│       └── 📄 .N cour +TD Communications numériques.pdf
+└── 📁 tds corrigés /
+    ├── 📄 Sol Série-2-3.pdf
+    └── 📄 Série 1 2 3 4.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Communications numériques
+═════════════════════════════════════

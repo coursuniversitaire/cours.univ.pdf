@@ -1,0 +1,45 @@
+📚 MODULE : Comptabilité Analytique                   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Comptabilité Analytique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Comptabilité Analytique/
+├── 📄 Exercices TD Comptabilité Analytique
+├── 📄 Exercices TD Comptabilité Analytique
+└── 🔗📁 compta analytique/  (raccourci)
+    ├── 📄 Seuil de rentabilité.pdf
+    ├── 📄 PARFUM DU SUD.pdf
+    ├── 📄 Livret_Principes_organisation_admin_et_comptable.pdf
+    ├── 📄 L_analyse différentielle INSUDT.pdf
+    ├── 📄 L_analyse différentielle COMERC.pdf
+    ├── 📄 EFM 2015 - 2016 Comptabilité Analitique d_Exploitation Page 1.pdf
+    ├── 📄 cours comptabilite-analytique (1).pdf
+    ├── 📄 comptabilite_analytique.pdf
+    ├── 📄 Compta-Ana-2005new.pdf
+    ├── 📄 Compta ABC.pdf
+    ├── 📄 537dc61954b97.pdf
+    ├── 📄 whatsup c analytique.pdf
+    ├── 📄 M10-COMPTABILITE_ANALYTIQUE_D-EXPLOITATION_TER_TSGE_www.bac-ofppt.blogspot.com.pdf
+    ├── 📄 Exercices-corrigés-de-la-comptabilité-analytique-Faculté-pluridisciplinaire-Nador.pdf
+    ├── 📄 Exercices-corrigés-de-la-comptabilité-analytique-Faculté-pluridisciplinaire-Nador-1.pdf
+    ├── 📄 exercice-corrigs-comptabilite-analytique.pdf
+    ├── 📄 compta_analytique_WwW_lfaculte_Com.pdf
+    ├── 📄 Comptabilité Analytique D_Exploitaion AGC TSGE.pdf
+    ├── 📄 Comptabilité Analytique D_Exploitaion AGC TSGE Exercices Corrigés.pdf
+    ├── 📄 compta analytique M.pdf
+    ├── 📄 10 EXERCICES + CORRIGES ET EFM.pdf
+    └── 📄 0B4n0DGht6ub-cEZmS2pDYzEzOHc.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Comptabilité Analytique
+═════════════════════════════════════

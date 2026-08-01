@@ -1,0 +1,166 @@
+📚 MODULE : Construction Mécanique                    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Construction Mécanique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Construction Mécanique/
+├── 🔗📁 Construction Mécanique 1/  (raccourci)
+│   ├── 📁 Cours/
+│   │   ├── 📄 Guide du dessinateur industriel -A.Chevalier.pdf
+│   │   ├── 📁 COURS EN ANGLAIS/
+│   │   │   ├── 📄 L12 CALCULATION OF SHAFT.pptx
+│   │   │   ├── 📄 L11 THREADED ASSEMBLIES.pptx
+│   │   │   ├── 📄 L10 GROOVES (Cannelures).pptx
+│   │   │   ├── 📄 RESUMES COURS CM1.pdf
+│   │   │   ├── 📄 L9 KEYS.pptx
+│   │   │   ├── 📄 L12 - CALCULATION OF SHAFT [D].pdf
+│   │   │   ├── 📄 L11 - THREADED ASSEMBLIES [D].pdf
+│   │   │   ├── 📄 L10 - GROOVES [D].pdf
+│   │   │   ├── 📄 L9 - KEYS [D].pdf
+│   │   │   ├── 📄 L8 - PINS [D].pdf
+│   │   │   ├── 📄 L8 PINS.pptx
+│   │   │   ├── 📄 L7 - FORCED FITTINGS [D].pdf
+│   │   │   ├── 📄 L7 FORCED FITTINGS.ppsx
+│   │   │   ├── 📄 L6 - ASSEMBLY BY GLUE [D].pdf
+│   │   │   ├── 📄 L6  ASSEMBLY BY GLUE.ppsx
+│   │   │   ├── 📄 L5 - RIVETING [D].pdf
+│   │   │   ├── 📄 L5 RIVETING.ppsx
+│   │   │   ├── 📄 L4 WELDED ASSEMBLIES.ppsx
+│   │   │   ├── 📄 L4 - WELDED ASSEMBLIES [D].pdf
+│   │   │   ├── 📄 L3 - PARTIAL CONNECTION.pdf
+│   │   │   ├── 📄 L3 PARTIAL CONNECTION.ppsx
+│   │   │   ├── 📄 L2 - COMPLETE BINDING.pdf
+│   │   │   ├── 📄 L2 COMPLETE BINDING.ppsx
+│   │   │   ├── 📄 L1 RDM REMINDERS.ppsx
+│   │   │   └── 📄 L1 - RDM REMINDERS.pdf
+│   │   └── 📁 COURS EN FRANCAIS/
+│   │       ├── 📄 L12 CALCUL DES ARBRES.pdf
+│   │       ├── 📄 L10 - Assemblages par éléments filetés.pdf
+│   │       ├── 📄 L11- Assemblage par éléments filetés + Calculs d'arbres.ppsx
+│   │       ├── 📄 L9 -Cannelures.pdf
+│   │       ├── 📄 L8 - Eléments d'assemblages (goupilles-clavettes).pdf
+│   │       ├── 📄 L7 - Emmanchement.pdf
+│   │       ├── 📄 L6 - COLLAGE.pdf
+│   │       ├── 📄 L5 - RIVETAGE.pdf
+│   │       ├── 📄 L4 - ASSEMBLAGES SOUDÉS.pdf
+│   │       ├── 📄 L3 - LIAISON PARTIELLE.pdf
+│   │       ├── 📄 L2 - LA LIAISON COMPLETE ou ENCASTREMENT.pdf
+│   │       └── 📄 L1 - Introduction et rappels de RDM.pdf
+│   ├── 📁 TPs/
+│   │   ├── 📄 TP 8 FORCED FITTINGS.ppsx
+│   │   ├── 📄 TP 7 RIVETING.ppsx
+│   │   ├── 📄 TP 6 WELDED ASSEMBLIE.ppsx
+│   │   ├── 📄 TP 2-3-4.ppsx
+│   │   ├── 📄 TP 1.ppsx
+│   │   └── 📄 TP1 Guidage  (rattrapage du jeu).pdf
+│   └── 📁 TDs /
+│       ├── 📄 CM1 - Solution TD01-12.pdf
+│       ├── 📄 TD12 - CALCULATION OF SHAFTS.pdf
+│       ├── 📄 TD11 - THREADED ASSEMBLIES.pdf
+│       ├── 📄 TD9 - KEYS.pdf
+│       ├── 📄 TD10 - SPLINES.pdf
+│       ├── 📄 TD8 - PINS.pdf
+│       ├── 📄 TD7 - FORCED FITTINGS.pdf
+│       ├── 📄 TD6 - ASSEMBLY BY GLUE.pdf
+│       ├── 📄 TD5 - RIVETING.pdf
+│       ├── 📄 TD4 - WELDED ASSEMBLIES.pdf
+│       ├── 📄 TD3 - PARTIAL CONNECTION.pdf
+│       ├── 📄 TD2 - COMPLETE BINDING.pdf
+│       └── 📄 TD1 - RDM REMINDERS.pdf
+├── 📄 Exercices corriges calcul de pliage de tole-Construction Mécanique DAO
+├── 📄 Sim Examen 2_Correction
+├── 📄 3_Exercices_Chapitre3_P1_P8_correction
+├── 📄 TD7 Schéma cinématique Coupe Tube LP Fontaine des Eaux-Construction Mécanique DAO
+├── 📄 TD7 Schéma cinématique Coupe Tube LP Fontaine des Eaux-Construction Mécanique DAO
+├── 📄 TD Construction Mecanique Bride Hydraulique Ajustements-Construction Mécanique DAO
+├── 📄 Exercices Fonctions Logiques 2eme Science Revision Synthese-Construction Mécanique DAO
+├── 📄 Série TD Construction Mécanique I.pdf
+├── 📄 Exercices Construction Mécanique I.pdf
+├── 📄 Examen Construction Mécanique I.pdf
+├── 📄 Exercices corrigés dessin technique 
+├── 📄 Examen Dessin Industriel 1ere année prépa 2019 2020 Pr Benmessaoud-Construction Mécanique DAO
+├── 📄 Examen Dessin Industriel ENSAM-Construction Mécanique DAO
+├── 📄 Examen Dessin-Construction Mécanique DAO
+├── 📄 Exercices corriges calcul de pliage de tole-Construction Mécanique DAO
+├── 📄 Examen de Procédés de Formage UMI Session de Juin-Construction Mécanique DAO
+├── 📄 Cours Procedes de Formage ENSAM Meknes Cycle Preparatoire-Construction Mécanique DAO
+├── 📄 Cours Trace des pieces selon leur procede d obtention GMP-Construction Mécanique DAO
+├── 📄 TD Procédés-Construction Mécanique DAO
+├── 📄 TD Procédés de Forge ENSAM Meknès 1ère Année avec Solutions-Construction Mécanique DAO
+├── 📄 Cours de mecanique Mise et maintien en position isostatique-Construction Mécanique DAO
+├── 📄 TD 16 Corrigé Exercice 3 Capteur Pneumatique Liaisons SII-Construction Mécanique DAO
+├── 📄 TD 1 Schéma-Construction Mécanique DAO
+├── 📄 Exercices Fonctions Logiques 2eme Science Revision Synthese-Construction Mécanique DAO
+├── 📄 Exercices ITEC Premiere Schema Cinematique Etau Orientable-Construction Mécanique DAO
+├── 📄 TD Serre Joint Dessin Technique Lycee Pierre Mendes France-Construction Mécanique DAO
+├── 📄 Examen Construction Mecanique 2 Etude du Systeme-Construction Mécanique DAO
+├── 📄 Cours Construction Mecanique II Liaisons-Construction Mécanique DAO
+├── 📄 TD ENSAM Meknès Schéma cinématique et graphe de liaisons-Construction Mécanique DAO
+├── 📄 Cours réalisation du schéma cinématique bride hydraulique-Construction Mécanique DAO
+├── 📄 Cours Construction Mecanique Ajust-Construction Mécanique DAO
+├── 📄 Examen Technologie Devoir de Controle 2 Systeme Maniv-Construction Mécanique DAO
+├── 📄 TP 2 Poupee Mobile Mesure-Construction Mécanique DAO
+├── 📄 Cours Cotation Tolérancée Ajustements et Fonctionnelle ENSAM-Construction Mécanique DAO
+├── 📄 TD Construction Mecanique Bride Hydraulique Ajustements-Construction Mécanique DAO
+├── 📄 Cours Construction Mécanique II Cotations Fonctionnelles-Construction Mécanique DAO
+├── 📄 Exercices corrigés dessin technique mécanique .pdf
+├── 📄 Exercices Chaîne de cotes Tolérancement Ajustements corrigé-Construction Mécanique DAO
+├── 📄 TD Chaîne de cotes et Tolérancement Assemblage vis-Construction Mécanique DAO
+├── 📄 Cours Construction Mécanique II IAALOU MOHAMED SAMI 2015 2016-Construction Mécanique DAO
+├── 📄 Cours Liaison Démontable Vis d Assemblage Filetage-Construction Mécanique DAO
+├── 📄 CM II Exercices Blocage Palonnier Sujet 2 2015 2016-Construction Mécanique DAO
+├── 📄 Cours AJUSTEMENTS Introduction Définition et Jeu Doc 1 sur 4-Construction Mécanique DAO
+├── 📄 Cours Système ISO de Tolérances Ajustements Qualités et Positions-Construction Mécanique DAO
+├── 📄 Cours Construction Mecanique Assemblages Definitions et Types-Construction Mécanique DAO
+├── 📄 Cours Tolérance et Ajustements 1er ST et 2eme SM B-Construction Mécanique DAO
+├── 📄 TP Vis d'assemblages et écrous Identification surfaces contact-Construction Mécanique DAO
+├── 📄 Cours Liaison complete demontable par elements filetes-Construction Mécanique DAO
+├── 📄 Cours Liaisons mécaniques éléments et composés ENSAM-Construction Mécanique DAO
+├── 📄 Cours Mecanique Solide Liaisons Ponctuelle Lineaire-Construction Mécanique DAO
+├── 📄 TD1 Liaisons mécaniques Schéma cinématique Casse Ecrou-Construction Mécanique DAO
+├── 📄 TD2 Chaînes de Cotes et Equations LP Fontaine des Eaux-Construction Mécanique DAO
+├── 📄 TD2 Liaisons mécaniques Schéma cinématique ETAU-Construction Mécanique DAO
+├── 📄 TD Schéma cinématique TD5 Motoréducteur Trike électrique-Construction Mécanique DAO
+├── 📄 TD6 Schéma cinématique Touret à meuler Liaisons mécaniques-Construction Mécanique DAO
+├── 📄 TD7 Schéma cinématique Coupe Tube LP Fontaine des Eaux-Construction Mécanique DAO
+├── 📄 Cours Tolérances ISO fabrication et ajustements mécanique-Construction Mécanique DAO
+├── 📄 Cours Tolérances et ajustements ISO Notation et Exemples-Construction Mécanique DAO
+├── 📄 2_Exercices_Chapitre1et2_p12(1).pdf
+├── 📄 2_Exercices_Chapitre1et2_p34(1).pdf
+├── 📄 2_Exercices_Chapitre1et2_p56(1).pdf
+├── 📄 2_Exercices_Chapitre1et2_vues_manquantes_corrections.pdf
+├── 📄 2_Exercices_Chapitre1et2_vues_manquantes_corrections(1).pdf
+├── 📄 2_Exercices_D_applications_Chapitre1et2_correspondanceVues_ver_eleve-1.pdf
+├── 📄 2_Exercices_D_applications_Chapitre1et2_correspondanceVues_ver_eleve.pdf
+├── 📄 2_Exercices_D_applications_Chapitre1et2_ver_eleve.pdf
+├── 📄 3_Exercices_Chapitre3_P1_P8_correction.pdf
+├── 📄 3_Exercices_Chapitre3_P1_P8.pdf
+├── 📄 3_Exercices_Serie2_Chapitre3_P1_P3_v2.pdf
+├── 📄 3ème  Simulation d'examen-1.pdf
+├── 📄 Correction_simulation_examen1.pdf
+├── 📄 Sim Examen 2_Correction.pdf
+├── 📄 simulation_examen_1_2019_2020.pdf
+├── 📄 Simulation_examen2_2019_2020.pdf
+├── 📄 TD2- Coupes et perspéctives.pdf
+├── 📄 c3399507-1fbc-45ed-86dc-2d8132c88339.jpg
+├── 📄 Vereglable.pps
+└── 📁 Dessin technique/
+    ├── 📄 POLYCOPIE_Recueil_d_exercices_en_dessin_technique.pdf
+    ├── 📄 Dessin industriel série d'exercices d'applications
+    ├── 📄 Dessin industriel série d'exercices d'applications.pdf
+    ├── 📄 Dessin industriel exercices d'applications.pdf
+    └── 📄 27 exercices corrigés dessin technique industriel.PDF.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Construction Mécanique
+═════════════════════════════════════

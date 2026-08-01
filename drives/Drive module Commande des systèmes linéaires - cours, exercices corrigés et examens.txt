@@ -1,0 +1,81 @@
+📚 MODULE : Commande des systèmes linéaires           
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Commande des systèmes linéaires.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Commande des systèmes linéaires/
+└── 📁 1# Commande des systèmes linéaires/
+    ├── 📄 Programme_Commande des systèmes linéaires.pdf
+    ├── 📁 td_2013-2014/
+    │   ├── 📄 Série 4.pdf
+    │   ├── 📄 Série 3.pdf
+    │   ├── 📄 Série 2.pdf
+    │   └── 📄 Série 1.pdf
+    ├── 📁 tp/
+    │   ├── 📄 ANNEXE Fonctions MATLAB.pdf
+    │   ├── 📄 Programme_TP Commande des systèmes linéaires.pdf
+    │   ├── 📁 TP3/
+    │   │   ├── 📄 TP3.pdf
+    │   │   ├── 📄 prepa.pdf
+    │   │   ├── 📄 untitled2.slx
+    │   │   └── 📄 TP3.m
+    │   ├── 📁 TP1/
+    │   │   ├── 📄 TP1.pdf
+    │   │   ├── 📄 partie2.m
+    │   │   └── 📄 partie1.m
+    │   ├── 📁 TP2/
+    │   │   ├── 📄 travail de préparation.pdf
+    │   │   ├── 📄 TP2.pdf
+    │   │   └── 📄 TP2.m
+    │   └── 📁 TP4/
+    │       ├── 📄 TP4.pdf
+    │       ├── 📄 untitled.slx
+    │       ├── 📄 Untitled.m
+    │       └── 📄 TP4.m
+    ├── 📁 cours/
+    │   ├── 📄 Chapitre I, II, III et IV.pdf
+    │   ├── 📄 TECHNIQUES DE COMMANDE AVANCÉE  universitaire de Rélizane Ahmed Zabana.pdf
+    │   ├── 📄 Chapitre V.pdf
+    │   └── 📄 Résumé.pdf
+    ├── 📁 td_2017-2018/
+    │   ├── 📄 td1_solut°.pdf
+    │   ├── 📄 td5_solut°.pdf
+    │   ├── 📄 td4_solut°.pdf
+    │   ├── 📄 td3_solut°.pdf
+    │   ├── 📄 td2_solut°.pdf
+    │   ├── 📄 td6_solut°.pdf
+    │   ├── 📄 td2.pdf
+    │   ├── 📄 td4.pdf
+    │   ├── 📄 td5.pdf
+    │   ├── 📄 td3.pdf
+    │   ├── 📄 td6.pdf
+    │   └── 📄 td1.pdf
+    └── 📁 examens/
+        ├── 📄 2017-2018.pdf
+        ├── 📄 2014-2015.pdf
+        ├── 📄 2013-2014.pdf
+        ├── 📄 2011-2012.pdf
+        ├── 📄 2010-2011.pdf
+        ├── 📄 2010-2011 rat.pdf
+        ├── 📄 2009-2010.pdf
+        ├── 📄 INTERRO_2017-2018.pdf
+        ├── 📄 2016-2017.pdf
+        ├── 📄 2014-2015 LARIBI.pdf
+        ├── 📄 2015-2016.pdf
+        ├── 📄 2007-2008.pdf
+        ├── 📄 2013-2014 rat.pdf
+        └── 📄 2008-2009.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Commande des systèmes linéaires
+═════════════════════════════════════

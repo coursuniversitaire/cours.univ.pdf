@@ -1,0 +1,473 @@
+📚 MODULE : Data mining                               
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Data mining.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Data mining/
+├── 🔗📁 Data Mining/  (raccourci)
+│   ├── 📁 Courses/
+│   │   ├── 📄 Lecture_14 Anomaly Detection.pdf
+│   │   ├── 📄 Lecture_13 Association Rules - Part 2.pdf
+│   │   ├── 📄 Lecture_12 Association Rules - Part 1.pdf
+│   │   ├── 📄 Lecture_9 Clustering - Part 2.pptx
+│   │   ├── 📄 Lecture_11 Clustering - Part 4.pdf
+│   │   ├── 📄 Lecture_10 Clustering - Part 3.pdf
+│   │   ├── 📄 Lecture_8 Clustering - Part 1.pdf
+│   │   ├── 📄 Lecture_7 Classification - Part 2.pdf
+│   │   ├── 📄 Lecture_6 Classification - Part 1.pdf
+│   │   ├── 📄 Lecture_2 Data - part 1.pdf
+│   │   ├── 📄 Lecture_5 Dimensionality Reduction - Part 2.pdf
+│   │   ├── 📄 Lecture_4 Dimensionality Reduction - Pat1.pdf
+│   │   ├── 📄 Lecture_3 Data - part 2.pdf
+│   │   ├── 📄 Lecture_1 Introduction to Data Mining.pdf
+│   │   └── 📄 Data Mining Syllabus.pdf
+│   ├── 📁 Labs/
+│   │   ├── 📁 Lab 1/
+│   │   │   └── 📄 Lab 1.pdf
+│   │   ├── 📁 Lab 10/
+│   │   │   └── 📄 Lab 10.pdf
+│   │   ├── 📁 Lab 4/
+│   │   │   ├── 📄 Lab4.pdf
+│   │   │   ├── 📄 PCA from scratch.ipynb
+│   │   │   ├── 📄 Principal_Component_Analysis_(Guided).ipynb
+│   │   │   ├── 📄 Principal_Component_Analysis_(Non_Guided).ipynb
+│   │   │   └── 📄 digits.csv
+│   │   ├── 📁 Lab 2/
+│   │   │   ├── 📄 Lab 2.pdf
+│   │   │   ├── 📄 boxplot.png
+│   │   │   ├── 📁 Part1/
+│   │   │   │   ├── 📄 Lab2-pre-processing - part1.ipynb
+│   │   │   │   ├── 📄 breast-cancer-wisconsin.csv
+│   │   │   │   ├── 📄 DTW_prec.csv
+│   │   │   │   └── 📄 breast-cancer-wisconsin.data
+│   │   │   └── 📁 Part2/
+│   │   │       ├── 📄 Lab2-pre-processing - part2.ipynb
+│   │   │       └── 📄 airbnb_dataset.csv
+│   │   ├── 📁 Lab 7/
+│   │   │   ├── 📄 Lab 7.pdf
+│   │   │   ├── 📄 Lab 7 (part 3)- Hyperparameter Tuning in Decision Trees.ipynb
+│   │   │   ├── 📄 Lab 7 (part 2) - Decision Trees.ipynb
+│   │   │   └── 📄 Lab 7 (part 1) - Classification Evaluation.pdf
+│   │   ├── 📁 Lab 8/
+│   │   │   ├── 📄 Clustering Lab.ipynb
+│   │   │   └── 📄 Lab 8.pdf
+│   │   ├── 📁 Lab 3/
+│   │   │   ├── 📄 Lab 3.pdf
+│   │   │   ├── 📄 employee_churned_trimmed.csv
+│   │   │   ├── 📄 babynames.csv
+│   │   │   ├── 📄 Data_visualization (Guided).ipynb
+│   │   │   └── 📄 Data_visualization (Non-Guided).ipynb
+│   │   ├── 📁 Lab 5/
+│   │   │   └── 📄 Lab 5.pdf
+│   │   ├── 📁 Lab 12/
+│   │   │   └── 📄 Lab 12.pdf
+│   │   ├── 📁 Lab 11/
+│   │   │   ├── 📄 Lab 11.pdf
+│   │   │   ├── 📄 Definitions.png
+│   │   │   ├── 📁 Guided notebooks/
+│   │   │   │   ├── 📄 1- Association_rules.ipynb
+│   │   │   │   ├── 📄 2- Apriori.ipynb
+│   │   │   │   └── 📄 3- FP Growth.ipynb
+│   │   │   └── 📁 Non-Guided notebook/
+│   │   │       ├── 📄 Association_rules_exercises.ipynb
+│   │   │       ├── 📄 Association_rules_solutions.ipynb
+│   │   │       └── 📁 data/
+│   │   │           ├── 📄 Groceries data.csv
+│   │   │           └── 📄 Basket.csv
+│   │   ├── 📁 Lab 6/
+│   │   │   ├── 📄 Feature_selection_Non_Guided_.ipynb
+│   │   │   └── 📄 Lab 6.pdf
+│   │   └── 📁 Lab 9/
+│   │       ├── 📄 Lab 9.pdf
+│   │       ├── 📄 Clustering - Non-Guided.ipynb
+│   │       ├── 📄 Clustering - Guided.ipynb
+│   │       ├── 📄 chameleon.data
+│   │       ├── 📄 vertebrate.csv
+│   │       └── 📁 data_lab9/
+│   │           ├── 📄 lab9_data.csv
+│   │           └── 📄 chameleon_clusters.csv
+│   ├── 📁 Exams/
+│   │   ├── 📄 Data-Mining Final-Exam 2024-2025.pdf
+│   │   ├── 📄 Data-Mining Final-Exam 2024-2025 Answer-key.pdf
+│   │   ├── 📄 Data-Mining Midterm-Exam 2024-2025.pdf
+│   │   └── 📄 Data-Mining Midterm-Exam 2024-2025 Answer-key.pdf
+│   └── 📁 Resources/
+│       ├── 📄 dmsol_01_28_2023.pdf
+│       ├── 📄 Data-Mining.-Concepts-and-Techniques-4rd-Edition_2022.pdf
+│       └── 📄 Pang-Ning_Tan_-_Introduction_to_Data_Mining-Pearson_Education_Limited_2019.pdf
+├── 🔗📁 azizi cour FD partie 1-converti.pdf/  (raccourci)
+├── 🔗📁 DAMI/  (raccourci)
+│   ├── 📄 data_miningcorrigétype.pdf
+│   ├── 📄 solution.pdf
+│   ├── 📄 REGRESSIONDAMI.rar
+│   ├── 📄 reseau neurones.rar
+│   ├── 📄 reseaux_neurones_perceptron.pdf
+│   ├── 📄 cours-RN.pdf
+│   ├── 📄 mementopython3-english.pdf
+│   ├── 📄 Cours-Data-Mining.pdf
+│   ├── 📁 chenafi/
+│   │   ├── 📄 277292712_313223754275630_7090168910630155127_n.jpg
+│   │   ├── 📄 277286174_326448786033975_4676644503695882677_n.jpg
+│   │   ├── 📄 277225944_1339392923192167_2213961301549802524_n.jpg
+│   │   ├── 📄 277083570_335104035317464_2691258326249945336_n.jpg
+│   │   ├── 📄 277077323_364084112260590_5319820042240847651_n.jpg
+│   │   ├── 📄 277284730_1096357111208368_8470252422240551828_n.jpg
+│   │   ├── 📄 277294069_702494637773419_4824067661291108934_n.jpg
+│   │   ├── 📄 277260788_1133532650801891_3778226475350122620_n.jpg
+│   │   ├── 📄 277255061_373274911372750_8842089531741223106_n.jpg
+│   │   ├── 📄 277288477_673944380512362_8711200911503295674_n.jpg
+│   │   ├── 📄 276326657_761101788611455_2411976249474464042_n.jpg
+│   │   ├── 📄 277608168_269999348670752_4291802711878038956_n.jpg
+│   │   ├── 📄 277284730_490403316067945_6325178546748488215_n.jpg
+│   │   ├── 📄 277240166_674203003823584_4616462000666880694_n.jpg
+│   │   ├── 📄 277294149_1122861595219936_859365830687417474_n.jpg
+│   │   └── 📄 277311582_977596376251743_5654109001445377770_n.jpg
+│   ├── 📁 amar/
+│   │   ├── 📄 282615668_1039696530286693_5890609503117096813_n.jpg
+│   │   ├── 📄 282181665_748789699818217_2121884775418227179_n.jpg
+│   │   ├── 📄 283315085_1181231619296449_2722604378178140259_n.jpg
+│   │   ├── 📄 282204944_1198917384251785_1004969240625170306_n.jpg
+│   │   ├── 📄 282316196_540207237619444_1118490876312863377_n.jpg
+│   │   └── 📄 283306024_751709962518898_4850728875232893561_n.jpg
+│   ├── 📁 COURS/
+│   │   ├── 📄 arbre de decision.pptx
+│   │   ├── 📄 bayes classifier.pptx
+│   │   ├── 📄 clust + association.pptx
+│   │   ├── 📄 regression.pptx
+│   │   ├── 📄 chapitre 2_cours_DAMI.pptx
+│   │   ├── 📄 Chapitre 5_cours_DAMI.pptx
+│   │   ├── 📄 Chapitre 6_cours_DAMI.pptx
+│   │   ├── 📄 dt.pdf
+│   │   ├── 📄 arbres de decision.ppt
+│   │   ├── 📄 associations rules.ppt
+│   │   ├── 📄 chapitre 1_cours_DAMI.pptx
+│   │   ├── 📄 bon cours sur regress.pdf
+│   │   ├── 📄 Chapitre4_cours_DAMI.pptx
+│   │   ├── 📄 Chapitre3_cours_DAMI.pptx
+│   │   ├── 📄 classificateur-du-reseau-bayesien-naif.pdf
+│   │   └── 📄 regles_association.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 284065280_426025165685449_358771522935046564_n.jpg
+│   │   ├── 📄 283830381_966397410704165_8303043429593981511_n.jpg
+│   │   ├── 📄 283753198_708164990456481_8072333506185299610_n.jpg
+│   │   ├── 📄 283529793_742725590493562_5043285219890002474_n.jpg
+│   │   ├── 📄 TD3 regles d'association.docx
+│   │   ├── 📄 association rules exercices résolus.pdf
+│   │   ├── 📄 TD3 DAMI.docx
+│   │   ├── 📄 td2.pdf
+│   │   ├── 📄 TD1 DAMI.docx
+│   │   ├── 📄 TD2 DAMI.docx
+│   │   └── 📄 TD4 DAMI.docx
+│   ├── 📁 enonce/
+│   │   ├── 📄 received_382434813738205.jpeg
+│   │   ├── 📄 received_440911757807022.jpeg
+│   │   ├── 📄 received_373354848022169.jpeg
+│   │   ├── 📄 received_339123158251943.jpeg
+│   │   ├── 📄 received_1933984490323052.jpeg
+│   │   └── 📄 received_508185787505913.jpeg
+│   ├── 📁 REGRESSIONDAMI/
+│   │   ├── 📄 regression lineaire bon.pdf
+│   │   ├── 📄 Regression_Lineaire_Simple.pdf
+│   │   ├── 📄 Regression_Lineaire_Multiple.pdf
+│   │   └── 📄 fr_Tanagra_Regression_Excel.pdf
+│   ├── 📁 photos de reseau de neuron/
+│   │   ├── 📄 278057284_1295892784268237_1956330713739772773_n.jpg
+│   │   ├── 📄 277893056_1161146724644147_1056646644049046913_n.jpg
+│   │   ├── 📄 278034741_1436140356828927_8801252891788868935_n.jpg
+│   │   ├── 📄 278014953_649256832831588_6141019152792266827_n.jpg
+│   │   └── 📄 278089988_295732189374459_871737198428305830_n.jpg
+│   ├── 📁 MiniProjet enonce/
+│   │   ├── 📄 AttributesArry-1.txt
+│   │   ├── 📄 hepatitis.data
+│   │   ├── 📄 arrhythmia.data
+│   │   ├── 📄 hepatitis.names
+│   │   ├── 📄 arrhythmia.names
+│   │   └── 📄 TP DAMI.pdf
+│   ├── 📁 TPS/
+│   │   ├── 📄 kmeans.py
+│   │   ├── 📄 dbscn.py
+│   │   ├── 📄 aglomeration.py
+│   │   ├── 📄 tpDAMI.py
+│   │   └── 📄 agglorative2.py
+│   └── 📁 tofla/
+│       ├── 📄 281461685_422584765937813_3311885986399976827_n.jpg
+│       ├── 📄 281173900_3257170391230487_3224113057522488439_n.jpg
+│       ├── 📄 281139911_713019766512162_6717522272148006074_n.jpg
+│       ├── 📄 280894181_5596679627026164_108459177220791558_n.jpg
+│       ├── 📄 280860805_888061712596338_4338748351094287172_n.jpg
+│       ├── 📄 280853482_732788657919272_2505932164265629378_n.jpg
+│       ├── 📄 280802483_1603941483314488_7945927253339571912_n.jpg
+│       ├── 📄 280751630_609311307288523_27883047882483734_n.jpg
+│       ├── 📄 280713201_5641308649258050_6091365065999256256_n.jpg
+│       ├── 📄 280685449_1183817829115381_8464762798501586859_n.jpg
+│       ├── 📄 280682432_5161706920577557_2150572795606365091_n.jpg
+│       ├── 📄 280636058_546102530372699_7573536690373273264_n.jpg
+│       ├── 📄 280632588_2303126976503078_2038836753308361663_n.jpg
+│       ├── 📄 280605036_978851839497880_7657865243595415575_n.jpg
+│       ├── 📄 280410626_1057356198195595_3232855038963357463_n.jpg
+│       ├── 📄 280398119_3157277287864332_517796885591081954_n.jpg
+│       ├── 📄 280395117_549224943263580_906514196928373558_n.jpg
+│       ├── 📄 280384200_3145740715694527_8295751549065220558_n.jpg
+│       ├── 📄 280384200_547974340193611_4605662081143038711_n.jpg
+│       ├── 📄 280379348_1442589219498236_3905991876259004572_n.jpg
+│       ├── 📄 280362904_288855946781631_4120855773334513426_n.jpg
+│       ├── 📄 280322425_3327273974167893_3662997430703629443_n.jpg
+│       ├── 📄 280740512_5518684951498381_7754782209678768890_n.jpg
+│       ├── 📄 280375606_694910041744504_617511378609602889_n.jpg
+│       ├── 📄 280359438_1081052929289099_2723665409924818724_n.jpg
+│       ├── 📄 280389668_551766799810146_5915705941787539973_n.jpg
+│       ├── 📄 280375412_552629566255478_2550300807508288388_n.jpg
+│       └── 📄 281150385_754477145550551_8204509368281664156_n.jpg
+├── 📁 Drives/
+│   ├── 🔗📁 IA-Introduction au Data Mining/  (raccourci)
+│   │   ├── 📄 Syllabus m1 GADM  AZIZI module  DATAMINING2021 2022.pdf
+│   │   ├── 📄 Fouilles de Données part 6 reseaux de neurones.pptx
+│   │   ├── 📄 azizi cour  data mining SID 2020 partie5 Norlisation.ppt
+│   │   ├── 📄 exercice corrige  kmeans.PDF
+│   │   ├── 📄 exercice 2.pdf
+│   │   ├── 📄 Fouilles de Données part3  classification non supervisée.pptx
+│   │   ├── 📄 exercice evaluation modele.docx
+│   │   ├── 📄 Fouilles de Données part2   Evaluation dun model de clasification.pptx
+│   │   └── 📄 Fouilles de Données part1 concepts d Base.pptx
+│   ├── 🔗📁 Data Mining/  (raccourci)
+│   │   ├── 📁 Projets/
+│   │   │   ├── 📄 Projet DM - Partie 2 (Décembre 2019).pdf
+│   │   │   ├── 📄 Projet DM - Partie 1 (Octobre 2019).pdf
+│   │   │   ├── 📄 Énoncé - Projet DM (2018-19).pdf
+│   │   │   ├── 📄 Projet DM (2016-17).rar
+│   │   │   ├── 📄 Projet DM (2017-18).rar
+│   │   │   └── 📁 Séries du TD + Corr/
+│   │   │       ├── 📁 TD 06/
+│   │   │       │   ├── 📄 Corrigé-type TD 6.pdf
+│   │   │       │   └── 📄 TD 6.pdf
+│   │   │       ├── 📁 TD 07/
+│   │   │       │   ├── 📄 TD 7.pdf
+│   │   │       │   └── 📄 Corrigé-type exercice TD 7.pdf
+│   │   │       └── 📁 TD 05/
+│   │   │           ├── 📄 Corrigé-type TD 5.pdf
+│   │   │           └── 📄 TD 5.pdf
+│   │   ├── 📁 Interrogations et examens/
+│   │   │   ├── 📄 Examen DM (SII, 2019-20).pdf
+│   │   │   ├── 📄 Examen DM + Corr (SII, 2017-18).pdf
+│   │   │   ├── 📄 Examen DM (SII, 2014-15).pdf
+│   │   │   ├── 📄 Examen DM (SII, 2015-16).pdf
+│   │   │   ├── 📄 Examen DM + Corr (SII, 2013-14).pdf
+│   │   │   ├── 📄 Rattrapage DM (SII, 2013-14).pdf
+│   │   │   ├── 📄 Rattrapage DM (SII, 2012-13).pdf
+│   │   │   ├── 📄 Examen DM (SII, 2011-12).pdf
+│   │   │   ├── 📄 Rattrapage DM (SII, 2011-12).pdf
+│   │   │   ├── 📄 Examen DM (SII, 2010-11).pdf
+│   │   │   ├── 📄 Interrogation DM (SII, 2010-11).pdf
+│   │   │   ├── 📄 Interrogation DM (SII, 2012-13).pdf
+│   │   │   ├── 📄 Examen DM + Corr (SII, 2016-17).pdf
+│   │   │   └── 📄 Examen DM + Corr (SII, 2012-13).pdf
+│   │   └── 📁 Cours/
+│   │       ├── 📄 Data Mining - Concepts & Techniques (Livre) [2nd Edition].pdf
+│   │       ├── 📄 Data Mining - Concepts & Techniques (Livre) [3rd Edition].pdf
+│   │       ├── 📄 Solutions Livre - Data Mining - Concepts & Techniques.pdf
+│   │       ├── 📄 Data Mining - Concepts & Techniques (Livre)
+│   │       ├── 📄 Résumé DM (Cahier) [Incomplet].pdf
+│   │       └── 📁 Slides/
+│   │           ├── 📄 Chap 10 - Cluster Analysis - Basic Concepts and Methods.pdf
+│   │           ├── 📄 Chap 09 - Classification - Advanced Methods.pdf
+│   │           ├── 📄 Chap 11 - Cluster Analysis - Advanced Methods.pdf
+│   │           ├── 📄 Chap 13 - Trends and Research Frontiers in Data Mining.pdf
+│   │           ├── 📄 Chap 12 - Outlier Detection.pdf
+│   │           ├── 📄 Chap 08 - Classification - Basic Concepts.pdf
+│   │           ├── 📄 Chap 07 - Advanced Frequent Pattern Mining.pdf
+│   │           ├── 📄 Chap 04 - DW and OLAP.pdf
+│   │           ├── 📄 Chap 01 -  Introduction.pdf
+│   │           ├── 📄 Chap 03 - Data Preprocessing.pdf
+│   │           ├── 📄 Chap 06 - Mining Frequent Patterns, Associations and Correlation.pdf
+│   │           ├── 📄 Chap 05 - Data Cube Technology.pdf
+│   │           └── 📄 Chap 02 - Know Your Data.pdf
+│   └── 🔗📁 Datamining/  (raccourci)
+│       ├── 🔗📁 DM projets 2024 2025.docx/  (raccourci)
+│       ├── 🔗📁 DM projets 2024 2025 ILTI1.docx/  (raccourci)
+│       │   └── ⚠️  [Référence circulaire ignorée]
+│       ├── 📁 TD/
+│       │   ├── 📁 OLD/
+│       │   │   ├── 📄 TD Correction.pdf
+│       │   │   └── 📄 TD.pdf
+│       │   └── 📁 2024-2025/
+│       │       ├── 📄 solution serie td 1,2,3,4 DM 2425
+│       │       ├── 📄 solution serie td 1,2,3,4 DM 2425.pdf
+│       │       ├── 📄 Solution de la série 5 de DM.pdf
+│       │       ├── 📄 SERIE 2-24-25.pdf
+│       │       ├── 📄 Série dexercices Bayes-2.pdf
+│       │       ├── 📄 SERIE 04-R-Log-24-25.pdf
+│       │       ├── 📄 SERIE 03-24-25.pdf
+│       │       └── 📄 SERIE 01-24-25.pdf
+│       ├── 📁 Examens/
+│       │   ├── 📄 ratt 2023/2024.pdf
+│       │   ├── 📄 ratt 2022/2023.pdf
+│       │   ├── 📄 exam remplacement correction 2022/2023.pdf
+│       │   ├── 📄 exam remplacement 2022/2023.pdf
+│       │   ├── 📄 exam correction 2024/2025.pdf
+│       │   ├── 📄 exam correction 2023/2024.pdf
+│       │   ├── 📄 exam 2023/2024.pdf
+│       │   ├── 📄 exam 2021/2022.pdf
+│       │   ├── 📄 exam 2022/2023.pdf
+│       │   ├── 📄 examen de remplacement DM 2425.pdf
+│       │   ├── 📄 examen DM 2425.pdf
+│       │   ├── 📄 Synthèse 2003-2004.pdf
+│       │   ├── 📄 Examen 2003-2004.pdf
+│       │   ├── 📄 Examen 2004-2005.pdf
+│       │   ├── 📄 Synthése 2005-2006.pdf
+│       │   ├── 📄 Rattrapage 2006-2007 (Correction).pdf
+│       │   ├── 📄 Examen 2007-2008.pdf
+│       │   ├── 📄 Examen 2009-2010.pdf
+│       │   ├── 📄 Examen 2010-2011.pdf
+│       │   ├── 📄 Examen 2011-2012.pdf
+│       │   ├── 📄 Examen 2012-2013.pdf
+│       │   ├── 📄 Examen 2013-2014.pdf
+│       │   ├── 📄 Examen 2015-2016 (Correction).pdf
+│       │   ├── 📄 Examen 2016-2017 (Correction).pdf
+│       │   ├── 📄 Examen + Dette 2018-2019.pdf
+│       │   └── 📄 Rattrapage 2017-2018.pdf
+│       └── 📁 Cours/
+│           ├── 📁 OLD/
+│           │   ├── 📄 Copie de Chapitre. Régression_Linéaire_Multiple_23-24.pdf
+│           │   ├── 📄 Copie de Les tâches et techniques du data Mining.pdf
+│           │   ├── 📄 Copie de Le processus de data mining.pdf
+│           │   ├── 📄 Copie de Chap.6 - Classifieur Naif de Bayes.pdf
+│           │   ├── 📄 Copie de Chap.Analyse dassociations_21-22.pdf
+│           │   ├── 📄 Copie de Chapitre. La Régression Logistique_23-24_bis.pdf
+│           │   ├── 📄 Copie de Chapitre 7. Le Clustering.pdf
+│           │   ├── 📄 Copie de Introduction Générale.pdf
+│           │   ├── 📄 Chapitre 05.pdf
+│           │   ├── 📄 Chapitre 03.pdf
+│           │   ├── 📄 Chapitre 02.pdf
+│           │   ├── 📄 Chapitre 01.pdf
+│           │   ├── 📄 Chapitre 04.pdf
+│           │   └── 📁 Autre/
+│           │       ├── 📄 Mon Cahier (Version Étudiant).pdf
+│           │       └── 📄 Livre Data Mining.pdf
+│           └── 📁 2024-2025/
+│               ├── 📄 8-Chap.Classifieur Naif de Bayes-CT.pdf
+│               ├── 📄 7-mesures de performances en classification_24-25_CT.pdf
+│               ├── 📄 6-Chapitre. La Régression Logistique_23-24_CT.pdf
+│               ├── 📄 5-Chapitre. Régression_Linéaire_Multiple_23-24 -CT.pdf
+│               ├── 📄 4-Chapitre. Régression_Linéaire_Simple_24-25 CT.pdf
+│               ├── 📄 3-Chap_Decision Trees_final_RSMI_24-25.pdf
+│               ├── 📄 2-Les tâches et techniques du data Mining.pdf
+│               ├── 📄 1-Le processus de data mining.pdf
+│               └── 📄 0-Introduction Générale_24-25.pdf
+├── 📁 Datamining/
+│   ├── 📄 Projet de Datamining mini article
+│   ├── 📁 Cours/
+│   │   └── 📁 2024-2025/
+│   │       ├── 📄 Cours dataming Evaluation de performance d'un modèle de classification
+│   │       ├── 📄 Introduction au Data Mining
+│   │       ├── 📄 Cours Data Mining Processus
+│   │       ├── 📄 Cours Data Mining Taches et Techniques
+│   │       ├── 📄 Cours Decision Trees Classification et Regression Data mining
+│   │       ├── 📄 Cours Data Mining Régression Linéaire
+│   │       ├── 📄 Cours Data Mining Regression Lineaire Multiple
+│   │       ├── 📄 Cours Data Mining La Regression Logistique
+│   │       └── 📄 Cours Classifieur Naif de Bayes Data mining
+│   ├── 📁 Examens/
+│   │   ├── 📄 Examen qcm Data Mining 2022-2023
+│   │   ├── 📄 Examen qcm Data Mining 2022-2023
+│   │   ├── 📄 Correction examen Data Mining 2024-2025
+│   │   ├── 📄 Examen Analyse de Données Data mining
+│   │   ├── 📄 Examen corrigé Remplacement Data Mining 22 23
+│   │   ├── 📄 examen de remplacement DM 2025.pdf
+│   │   ├── 📄 Examen Data Mining Master II 2012-2013
+│   │   ├── 📄 Examen Data Mining Master II 2013-2014
+│   │   ├── 📄 Examen Data Mining Master II 2015-2016
+│   │   ├── 📄 Examen qcm Data Mining
+│   │   ├── 📄 Examen 2009-2010 Data Mining
+│   │   ├── 📄 Examen Data Mining questions QCM
+│   │   ├── 📄 Examen 2023-2024 Data Mining
+│   │   ├── 📄 Examen 2016-2017 Data Mining
+│   │   ├── 📄 Examen 2021-2022 Data Mining
+│   │   ├── 📄 Examen Analyse de Texte Data mining
+│   │   ├── 📄 Examen Data Mining
+│   │   ├── 📄 Examen Data Mining Master 2 2010 2011
+│   │   ├── 📄 Examen Analyse des données Data mining
+│   │   ├── 📄 Examen Analyse des données Data mining
+│   │   ├── 📄 Examen Analyse des données Data mining
+│   │   ├── 📄 Examen Analyse des données Data mining
+│   │   ├── 📄 Examen Analyse des données Data mining
+│   │   ├── 📄 Examen Statistiques et Probabilités Data mining
+│   │   ├── 📄 Corrigé Data Mining 2023-2024
+│   │   ├── 📄 Examen de Rattrapage Data Mining
+│   │   └── 📄 Examen 2003-2004.pdf
+│   └── 📁 TD/
+│       ├── 📁 2024-2025/
+│       │   ├── 📄 Exercices TD Optimisation Fonction Coût Data mining
+│       │   ├── 📄 Série d'exercices TD Data Mining
+│       │   ├── 📄 Série d'exercices TD1 Data Mining
+│       │   ├── 📄 Exercices TD Optimisation Fonction Coût Data mining
+│       │   ├── 📄 Exercices TD Classification Data mining
+│       │   ├── 📄 Exercices TD Indice de Gini Data mining
+│       │   ├── 📄 Exercices TD Probabilités Data mining
+│       │   ├── 📄 Exercices TD Apprentissage Automatique Data mining
+│       │   └── 📄 solution serie td 1,2,3,4 DM 2425.docx
+│       └── 📁 OLD/
+│           └── 📄 SERIE D'EXERCICES N° 01 Data Mining pdf
+└── 📁 Data Mining/
+    ├── 📁 Projets/
+    │   ├── 📄 Projet DM - Partie 2 (Décembre 2019).pdf
+    │   ├── 📄 Projet DM - Partie 1 (Octobre 2019).pdf
+    │   ├── 📄 Énoncé - Projet DM (2018-19).pdf
+    │   ├── 📄 Projet DM (2016-17).rar
+    │   ├── 📄 Projet DM (2017-18).rar
+    │   └── 📁 Séries du TD + Corr/
+    │       ├── 📁 TD 05/
+    │       │   ├── 📄 Corrigé-type TD 5.pdf
+    │       │   └── 📄 TD 5.pdf
+    │       ├── 📁 TD 06/
+    │       │   ├── 📄 Corrigé-type TD 6.pdf
+    │       │   └── 📄 TD 6.pdf
+    │       └── 📁 TD 07/
+    │           ├── 📄 TD 7.pdf
+    │           └── 📄 Corrigé-type exercice TD 7.pdf
+    ├── 📁 Cours/
+    │   ├── 📄 Solutions Livre - Data Mining - Concepts & Techniques.pdf
+    │   ├── 📄 Data Mining - Concepts & Techniques (Livre).docx
+    │   ├── 📄 Résumé DM (Cahier) [Incomplet].pdf
+    │   └── 📁 Slides/
+    │       ├── 📄 Chap 10 - Cluster Analysis - Basic Concepts and Methods.pdf
+    │       ├── 📄 Chap 09 - Classification - Advanced Methods.pdf
+    │       ├── 📄 Chap 11 - Cluster Analysis - Advanced Methods.pdf
+    │       ├── 📄 Chap 13 - Trends and Research Frontiers in Data Mining.pdf
+    │       ├── 📄 Chap 12 - Outlier Detection.pdf
+    │       ├── 📄 Chap 08 - Classification - Basic Concepts.pdf
+    │       ├── 📄 Chap 07 - Advanced Frequent Pattern Mining.pdf
+    │       ├── 📄 Chap 04 - DW and OLAP.pdf
+    │       ├── 📄 Chap 01 -  Introduction.pdf
+    │       ├── 📄 Chap 03 - Data Preprocessing.pdf
+    │       ├── 📄 Chap 06 - Mining Frequent Patterns, Associations and Correlation.pdf
+    │       ├── 📄 Chap 05 - Data Cube Technology.pdf
+    │       └── 📄 Chap 02 - Know Your Data.pdf
+    └── 📁 Interrogations et examens/
+        ├── 📄 Examen DM (SII, 2019-20).pdf
+        ├── 📄 Examen DM + Corr (SII, 2017-18).pdf
+        ├── 📄 Examen DM (SII, 2014-15).pdf
+        ├── 📄 Examen DM (SII, 2015-16).pdf
+        ├── 📄 Examen DM + Corr (SII, 2013-14).pdf
+        ├── 📄 Rattrapage DM (SII, 2013-14).pdf
+        ├── 📄 Rattrapage DM (SII, 2012-13).pdf
+        ├── 📄 Examen DM (SII, 2011-12).pdf
+        ├── 📄 Rattrapage DM (SII, 2011-12).pdf
+        ├── 📄 Examen DM (SII, 2010-11).pdf
+        ├── 📄 Interrogation DM (SII, 2010-11).pdf
+        ├── 📄 Interrogation DM (SII, 2012-13).pdf
+        ├── 📄 Examen DM + Corr (SII, 2016-17).pdf
+        └── 📄 Examen DM + Corr (SII, 2012-13).pdf
+
+═════════════════════════════════════
+  Fin du fichier · Data mining
+═════════════════════════════════════

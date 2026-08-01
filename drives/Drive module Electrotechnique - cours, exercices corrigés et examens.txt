@@ -1,0 +1,388 @@
+📚 MODULE : Electrotechnique                          
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Electrotechnique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Electrotechnique/
+├── 🔗📁 Electrotechnique/  (raccourci)
+│   ├── 📄 exercices-et-problemes-d-electrotechnique.pdf
+│   ├── 📄 Exercices et probleme d electrotechnique .pdf
+│   ├── 📄 Electrotéchnique.rar
+│   ├── 📄 electroniquel2.pdf
+│   ├── 📄 Chapitre-4-transfos-opt.pdf
+│   ├── 📄 Chapitre-3-machines-asynchrones.pdf
+│   ├── 📄 Chapitre-2-circuits-triphasés-web.pdf
+│   ├── 📄 Chapitre-1-circuits-monophasés-web2.pdf
+│   ├── 📄 Chapitre 3 electromagnetisme  parc GEGM 2016.pdf
+│   ├── 📄 Chapitre 2 circuits triphasés.pdf
+│   ├── 📄 transfo exercices corriges.pdf
+│   ├── 📄 exercices_redressement_3.pdf
+│   ├── 📄 triphase_boucherot_couplage_CORRECTION.pdf
+│   ├── 📄 triphase_boucherot_couplage.pdf
+│   ├── 📄 exercices_triphase.pdf
+│   ├── 📄 Puissance en régime triphasé – Exercice 1 - Corrigé.pdf
+│   ├── 📄 Chap15-bts.pdf
+│   ├── 📄 le_triphase.pdf
+│   ├── 📄 serie-5-machines-asynchrones.pdf
+│   ├── 📄 exercices_moteur_asynchrone.pdf
+│   ├── 📄 exercices_onduleur_2.pdf
+│   └── 📄 exercices_alternateur.pdf
+├── 🔗📁 Electrotechnique/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 📄 Cours Machines Electriques LST GESA Circuits Monophases Fonctions Sinusoidales Électrotechnique
+├── 📄 Exercices TD Electronique de puissance sur l onduleur autonome avec solutions et analyses Électrotechnique
+├── 📄 Exercices TD electrotechnique transformateur monophase licence genie electrique Électrotechnique
+├── 📄 Exercices TD Machines électriques Moteurs asynchrones Électrotechnique
+├── 📄 Exercices et problemes electrotechnique bases solides circuits puissances Électrotechnique
+├── 📄 Exercices TD Electrotechnique regime triphase equilibre et desequilibre Électrotechnique
+├── 📄 Exercices TD Electronique de puissance redressement non commande Électrotechnique
+├── 📄 Exercices TD Electronique de puissance sur l onduleur autonome avec solutions et analyses Électrotechnique
+├── 📄 Exercices TD Electrotechnique moteur asynchrone fraiseuse et pertes Joule Électrotechnique
+├── 📄 Exercices TD Electrotechnique sur l alternateur et ses calculs de puissance Électrotechnique
+├── 📄 Cours dElectrotechnique Niveau 2 Circuits magnetiques et bobines Électrotechnique
+├── 📄 Cours Machines Electriques LST GESA Circuits Triphases Avantages et Generation Électrotechnique
+├── 📄 Cours Machines Electriques LST GESA Circuits Monophases Fonctions Sinusoidales Électrotechnique
+├── 📄 Exercices TD Electromagnetisme Conversion Energie et Champs Fondamentaux Électrotechnique
+├── 📄 Exercices TD Sciences Physiques BTS systemes monophases et triphases Électrotechnique
+├── 📁 Autres drives/
+│   ├── 🔗📁 Electrotechnique/  (raccourci)
+│   │   └── ⚠️  [Référence circulaire ignorée]
+│   ├── 🔗📁 Electrotechnique/  (raccourci)
+│   │   └── ⚠️  [Référence circulaire ignorée]
+│   ├── 🔗📁 Electrotechnique Livres/  (raccourci)
+│   │   ├── 📄 Genie electrique.PDF
+│   │   ├── 📄 Exercices et problèmes délectrotechnique (WWW.livre-technique.com).pdf
+│   │   └── 📄 Puissance deformante.pdf
+│   ├── 🔗📁 ELECTROTECHNIQUE/  (raccourci)
+│   │   ├── 📄 calcul_transfo_mono.pdf
+│   │   ├── 📄 132959.gif
+│   │   ├── 📄 maxresdefault (1).jpg
+│   │   ├── 📄 ch1-machine-a-courant-continu-31-638.jpg
+│   │   ├── 📄 téléchargement (1).jpg
+│   │   ├── 📄 téléchargement.jpg
+│   │   ├── 📄 maxresdefault.jpg
+│   │   ├── 📄 Courant alternatif sinusoidal (1).pdf
+│   │   ├── 📄 Courant alternatif sinusoidal.pdf
+│   │   ├── 📄 courscomplet-d-electronik-ouhmani-121203163054-phpapp01.pdf
+│   │   ├── 📄 GE-S2-M8.2- Automatismes L&I -TD- Serie 4-EL Hammoumi.pdf
+│   │   ├── 📄 GE-S2-M8.2- Automatismes  L&I -TD- correction Ex 5-Serie 2-EL Hammoumi.pdf
+│   │   ├── 📄 GE-S2-M8.1-Automatismes logiques Industriels-CRS-El Hammoumi.pdf
+│   │   ├── 📄 Les circuits électrique en régime sinusoïdal triphasé.PDF
+│   │   ├── 📄 +.pdf
+│   │   ├── 📄 exo_cor_transfo.pdf
+│   │   ├── 📄 transfo_mono_s.pdf
+│   │   ├── 📄 mcc zwin.pdf
+│   │   ├── 📄 TD7.pdf
+│   │   ├── 📄 Chapitre7_MCC.pdf
+│   │   ├── 📄 exerc8.pdf
+│   │   ├── 📄 exercice_chapitre4_1.pdf
+│   │   ├── 📄 G_2_mas_td_extrait-bac.pdf
+│   │   ├── 📄 Mot-asynch-sans-calculatrice.pdf
+│   │   ├── 📄 IMPORTANT.pdf
+│   │   ├── 📄 elec2014.pdf
+│   │   ├── 📄 exercices-et-problemes-delectrotechnique.pdf
+│   │   ├── 📄 TD1Chapitre7_MCC.pdf
+│   │   ├── 📄 tdelectroniquel2.pdf
+│   │   ├── 📄 cours-MAT.pdf
+│   │   ├── 📄 Correction TD Transfo.pdf
+│   │   ├── 📄 Formulaire_transformateur.pdf
+│   │   ├── 📄 MAS.pdf
+│   │   ├── 📄 TD5.pdf
+│   │   ├── 📄 TD4.pdf
+│   │   ├── 📄 Série3.pdf
+│   │   ├── 📄 LE TRIPHASÉ ÉQUILIBRÉ .pdf
+│   │   ├── 📄 New Présentation Microsoft PowerPoint.pptx
+│   │   ├── 📄 mimi.pdf
+│   │   ├── 📄 MAS-Partie 1-17.avi
+│   │   ├── 📄 Le_moteur_asynchrone_triphase.pdf
+│   │   ├── 📁 TD corrigé/
+│   │   │   ├── 📄 correction TD transfo monophasé.pdf
+│   │   │   └── 📄 correction du TD circuit magnétique (serie 3).pdf
+│   │   ├── 📁 TP/
+│   │   │   ├── 📄 TP3.pdf
+│   │   │   └── 📁 CR/
+│   │   │       ├── 📄 TP Machine Électrique 6.docx
+│   │   │       ├── 📄 TP Machine Électrique 3.docx
+│   │   │       ├── 📄 TP Machine Électrique 4.docx
+│   │   │       ├── 📄 TP Machine Électrique 5.docx
+│   │   │       ├── 📄 TP Machine Électrique 1.docx
+│   │   │       ├── 📄 TP Machine Électrique 2.docx
+│   │   │       ├── 📄 CR Electrotechnique TP3.docx
+│   │   │       ├── 📄 CR Electrotechnique TP4.docx
+│   │   │       └── 📄 CR Electrotechnique TP1.docx
+│   │   ├── 📁 MCC/
+│   │   │   ├── 📄 بلاغ بخصوص امتحانات الدورة الربيعية للموسم الجامعي 2019 2020.pdf
+│   │   │   ├── 📄 WhatsApp Image 2020-08-11 at 22.04.33 (2).jpeg
+│   │   │   ├── 📄 WhatsApp Image 2020-08-11 at 22.04.33 (1).jpeg
+│   │   │   ├── 📄 WhatsApp Image 2020-08-11 at 22.04.32 (3).jpeg
+│   │   │   ├── 📄 WhatsApp Image 2020-08-11 at 22.04.32 (2).jpeg
+│   │   │   ├── 📄 WhatsApp Image 2020-08-11 at 22.04.33.jpeg
+│   │   │   ├── 📄 WhatsApp Image 2020-08-11 at 22.04.32 (1).jpeg
+│   │   │   ├── 📄 WhatsApp Image 2020-08-11 at 22.04.32.jpeg
+│   │   │   ├── 📄 IMG-20200823-WA0147.jpg
+│   │   │   ├── 📄 IMG-20200823-WA0139.jpg
+│   │   │   ├── 📄 IMG-20200823-WA0145.jpg
+│   │   │   ├── 📄 IMG-20200823-WA0144.jpg
+│   │   │   ├── 📄 IMG-20200823-WA0142.jpg
+│   │   │   ├── 📄 IMG-20200823-WA0143.jpg
+│   │   │   ├── 📄 IMG-20200823-WA0141.jpg
+│   │   │   └── 📄 IMG-20200823-WA0140.jpg
+│   │   ├── 📁 TD/
+│   │   │   ├── 📄 Chapitre-1-Les-Capteurs-et-Chaine-d’Acquisition.pdf
+│   │   │   ├── 📄 Chapitre-1-Les-Capteurs-et-Chaine-d’Acquisition - Copie.pdf
+│   │   │   ├── 📄 6151-capteur-et-chaine-dacquisition-ens.pdf
+│   │   │   ├── 📄 CHEbeE3yZo9_polycopie2stepro - Copie.pdf
+│   │   │   ├── 📄 CHEbeE3yZo9_polycopie2stepro.pdf
+│   │   │   ├── 📄 Nouveau Document Microsoft Word.docx
+│   │   │   ├── 📄 Correction TD Transformateur.pdf
+│   │   │   ├── 📄 correction du TD circuit magnétique (serie 3).pdf
+│   │   │   ├── 📄 WhatsApp Image 2020-09-06 at 12.10.49.jpeg
+│   │   │   ├── 📄 WhatsApp Image 2020-09-06 at 12.10.49 (3).jpeg
+│   │   │   ├── 📄 WhatsApp Image 2020-09-06 at 12.10.49 (2).jpeg
+│   │   │   ├── 📄 WhatsApp Image 2020-09-06 at 12.10.49 (1).jpeg
+│   │   │   ├── 📄 Correction TD Transfo.pdf
+│   │   │   ├── 📄 corrige-de-td-transformateur-monophase.pdf
+│   │   │   ├── 📄 4a2b74f3-57f9-4f8b-82fb-923ab01462d7.jpg
+│   │   │   ├── 📄 01470e7b-87cc-4168-95aa-ccd2a0e68c80.jpg
+│   │   │   ├── 📄 exercices_transformateur.pdf
+│   │   │   ├── 📄 exo_cor_transfo.pdf
+│   │   │   ├── 📄 Serie6_2.pdf
+│   │   │   ├── 📄 Serie5.pdf
+│   │   │   ├── 📄 Serie4.pdf
+│   │   │   ├── 📄 Serie4_2.pdf
+│   │   │   ├── 📄 Serie6.pdf
+│   │   │   ├── 📄 Serie7_1.pdf
+│   │   │   ├── 📄 Serie7.pdf
+│   │   │   ├── 📄 Serie8.pdf
+│   │   │   ├── 📄 Serie3.pdf
+│   │   │   ├── 📄 Serie1_2.pdf
+│   │   │   ├── 📄 Serie2_2.pdf
+│   │   │   ├── 📄 Serie2.pdf
+│   │   │   ├── 📄 mcc td.PDF
+│   │   │   ├── 📄 EXERCICES_TRIPHASE.pdf
+│   │   │   ├── 📄 exercices_moteur_asynchrone.pdf
+│   │   │   └── 📁 ste/
+│   │   │       ├── 📄 Electro I-Test Examen-notes.xlsx
+│   │   │       ├── 📄 WhatsApp Image 2020-09-08 at 20.18.04.jpeg
+│   │   │       ├── 📄 WhatsApp Image 2020-09-08 at 20.18.05.jpeg
+│   │   │       ├── 📄 WhatsApp Image 2020-09-08 at 20.17.59.jpeg
+│   │   │       ├── 📄 WhatsApp Image 2020-09-08 at 20.18.05 (1).jpeg
+│   │   │       ├── 📄 WhatsApp Image 2020-09-08 at 20.17.53 (1).jpeg
+│   │   │       ├── 📄 WhatsApp Image 2020-09-08 at 20.17.58.jpeg
+│   │   │       └── 📄 WhatsApp Image 2020-09-08 at 20.17.53.jpeg
+│   │   ├── 📁 Examens/
+│   │   │   ├── 📄 exam machine electrique 1 2020.pdf
+│   │   │   ├── 📄 2014-04-08 23.28.57.jpg
+│   │   │   ├── 📄 2014-04-08 23.28.51.jpg
+│   │   │   ├── 📄 2014-04-08 23.28.51 - Copie.jpg
+│   │   │   ├── 📄 2014-04-08 23.28.45.jpg
+│   │   │   ├── 📄 2014-04-08 23.27.14.jpg
+│   │   │   ├── 📄 2014-04-08 23.27.03.jpg
+│   │   │   ├── 📄 2014-04-08 23.28.38 - Copie.jpg
+│   │   │   ├── 📄 2014-04-08 23.26.43.jpg
+│   │   │   ├── 📄 2014-04-08 23.26.29.jpg
+│   │   │   ├── 📄 30f39be4-80dd-4860-876d-a19189d386fa.jpg
+│   │   │   ├── 📄 891b527b-16e2-41d8-84a9-e89ae593fbc7.jpg
+│   │   │   ├── 📄 6e5dcb1c-7efa-45f6-b1d6-25d4ada75e88.jpg
+│   │   │   ├── 📄 ExamSept2004.pdf
+│   │   │   ├── 📄 QCM Transformateur _.html
+│   │   │   ├── 📄 Rattrapage_DS1.pdf
+│   │   │   ├── 📄 Examen1.pdf
+│   │   │   ├── 📄 DS1.pdf
+│   │   │   ├── 📄 DS2.pdf
+│   │   │   ├── 📄 10178369_10204007007124735_694531441_n.jpg
+│   │   │   ├── 📄 10313894_10204007008044758_225475919_n.jpg
+│   │   │   ├── 📄 correction.jpg
+│   │   │   ├── 📄 2014-04-08 23.26.15 - Copie (2).jpg
+│   │   │   ├── 📄 5.PNG
+│   │   │   ├── 📄 10374329_763342130365102_665998267_n.jpg
+│   │   │   ├── 📄 10370777_763342117031770_293949859_n.jpg
+│   │   │   ├── 📄 10385072_763342123698436_1964116160_n.jpg
+│   │   │   ├── 📄 2014-04-08 23.26.15 - Copie.jpg
+│   │   │   ├── 📄 10388351_763342127031769_1606307579_n.jpg
+│   │   │   ├── 📄 2014-04-08 23.26.15.jpg
+│   │   │   ├── 📄 10352708_763342120365103_314115684_n.jpg
+│   │   │   ├── 📄 10346953_10203890671017273_2043353987_n.jpg
+│   │   │   └── 📁 Fri/
+│   │   │       ├── 📄 14.PNG
+│   │   │       ├── 📄 13.PNG
+│   │   │       ├── 📄 12.PNG
+│   │   │       ├── 📄 11.PNG
+│   │   │       ├── 📄 10.PNG
+│   │   │       ├── 📄 9.PNG
+│   │   │       ├── 📄 8.PNG
+│   │   │       ├── 📄 7.PNG
+│   │   │       ├── 📄 6.PNG
+│   │   │       ├── 📄 5 (1).PNG
+│   │   │       ├── 📄 4.PNG
+│   │   │       ├── 📄 3.PNG
+│   │   │       ├── 📄 2.PNG
+│   │   │       └── 📄 1.PNG
+│   │   ├── 📁 Electrotechnique Livres/
+│   │   │   └── ⚠️  [Référence circulaire ignorée]
+│   │   └── 📁 Cours/
+│   │       ├── 📁 2020-2021/
+│   │       │   ├── 📄 Chapitre5_MAS.pdf
+│   │       │   ├── 📄 Chapitre4_Transfo_Mono.pdf
+│   │       │   ├── 📄 Chapitre3_C-Magnetiques cours.pdf
+│   │       │   ├── 📄 Chapitre2_Triphase.pdf
+│   │       │   └── 📄 Chapitre1_Monophasé.pdf
+│   │       ├── 📁 Systéme Triphasé équilibré/
+│   │       │   ├── 📄 LE TRIPHASÉ ÉQUILIBRÉ .pdf
+│   │       │   ├── 📄 Chapitre2_Triphase.pdf
+│   │       │   ├── 📄 exercices_triphase.pdf
+│   │       │   ├── 📄 ch3 systeme triphase.pdf
+│   │       │   └── 📄 Chapitre 3.1 Le triphasé cours complet - 15 min - YouTube.wma
+│   │       ├── 📁 Transformateur Monophasé/
+│   │       │   ├── 📄 Transfo_Mono.pdf
+│   │       │   ├── 📄 Chapitre4_Transfo_Mono.pdf
+│   │       │   ├── 📄 exercices_transformateur.pdf
+│   │       │   └── 📄 ch4 transformateur electrique.pdf
+│   │       ├── 📁 Autres PDF/
+│   │       │   ├── 📄 electrotec-transfo.pdf
+│   │       │   ├── 📄 Protection.pdf
+│   │       │   ├── 📄 Puissance_triphase_PG_corrW_NL.pdf
+│   │       │   └── 📄 methode des 2 wattmetres.pdf
+│   │       ├── 📁 Circuit Magnetique PDF/
+│   │       │   ├── 📄 Chapitre3_C-Magnetiques.pdf
+│   │       │   ├── 📄 ch5 champ magnetique tournant.pdf
+│   │       │   ├── 📄 re_ch3.pdf
+│   │       │   ├── 📄 chap05_Corrige_exo03.pdf
+│   │       │   ├── 📄 2_CircuitsMagnetiques_conversion energie.pdf
+│   │       │   ├── 📄 MateriauxMagnetiques.pps
+│   │       │   └── 📄 Circuit_magnetique_imp-3_AdC.pdf
+│   │       ├── 📁 Machine a courant continu PDF/
+│   │       │   ├── 📄 MCC-MOTEUR_ppt.pdf
+│   │       │   ├── 📄 Chapitre8_MCC.pdf
+│   │       │   ├── 📄 Chapitre7_MCC.pdf
+│   │       │   ├── 📄 exercices_machine_courant_continu.pdf
+│   │       │   └── 📄 ch1 machine a courant continu.pdf
+│   │       ├── 📁 Systéme Monophase/
+│   │       │   ├── 📄 Chapitre1_Monophase.pdf
+│   │       │   ├── 📄 exercices_monophase.pdf
+│   │       │   └── 📄 ch2 systeme monophase.pdf
+│   │       └── 📁 Moteur Asynchrone PDF/
+│   │           ├── 📄 moteur-asynchrone.pdf
+│   │           ├── 📄 Moteur_asynchrone_ppt.pdf
+│   │           ├── 📄 Chapitre5_MAS.pdf
+│   │           ├── 📄 ch6 machine synchrone.pdf
+│   │           ├── 📄 ch7 machine asynchrone.pdf
+│   │           ├── 📄 exercices_moteur_asynchrone.pdf
+│   │           ├── 📄 Principes-de-lelectrotechnique-Dunod.pdf
+│   │           ├── 📄 MoteurAsynchrone.pdf
+│   │           ├── 📄 Exercices et problemes d'electrotech.pdf
+│   │           ├── 📄 Fonction-convertir-moteurs-asynchrones-2-bac-science-dingenieur.pdf
+│   │           ├── 📄 exercices-et-problemes-d-electrotechnique.pdf
+│   │           ├── 📄 8-Exercices-corrigés-sur-Moteurs-Asynchrones-Triphasés-2-bac-science-dingenieur.pdf
+│   │           ├── 📄 10-Exercices-corrigés-d’Electrotechnique-sur-le-moteur-asynchrone-2-bac-science-dingenieur.pdf
+│   │           └── 📄 DÉMARRAGE DIRECT D.pdf
+│   └── 🔗📁 electrotechnique  (raccourci)
+└── 📁 ELECTROTECHNIQUE/
+    ├── 📄 Exercices TD Automatismes Industriels GE1 et SE1 Correction GRAFCET et LOGO Électrotechnique
+    ├── 📄 Transformateur monophasé formules Boucherot et diagramme de Fresnel Électrotechnique
+    ├── 📄 EXERCICES CORRIGES SUR LE TRANSFORMATEUR MONOPHASE
+    ├── 📄 TD d’automatismes Industriels (Série 4) Électrotechnique
+    ├── 📄 Transformateur monophasé formules Boucherot et diagramme de Fresnel Électrotechnique
+    ├── 📄 Analyse des extraits du bac 2019 sur le moteur asynchrone triphasé Électrotechnique
+    ├── 📄 Exercices corrigés machine asynchrone triphasée cage détermination paramètres et rendement Électrotechnique
+    ├── 📄 Analyse des regles et caracteristiques du transformateur monophase parfait et reel Électrotechnique
+    ├── 📄 Exercices TD Electronique Amplificateur Deux Voies Transistors Bipolaires NPN et PNP Électrotechnique
+    ├── 📄 Exercices TD Automatismes Industriels GE1 et SE1 Correction GRAFCET et LOGO Électrotechnique
+    ├── 📄 Correction TD Transfo.pdf
+    ├── 📁 TP/
+    │   └── 📄 TP Transformateur Monophasé Analyse Plaque Signalétique et Essai à Vide Électrotechnique
+    ├── 📁 TD/
+    │   ├── 📄 Exercices TD Electrotechnique Transformateur Monophase Niveau 2 Électrotechnique
+    │   ├── 📄 Exercices TD Transformateurs Monophasés Calculs Rendement et Impédances Électrotechnique
+    │   ├── 📄 Exercices TD Transformateurs Monophasés Calculs Rendement et Impédances Électrotechnique
+    │   ├── 📄 Exercices TD Transformateurs en cascade et parallele 500 kW cos phi 0 8 Électrotechnique
+    │   ├── 📄 Serie exercices TD : TRANSFORMATEUR MONOPHASE
+    │   ├── 📄 EXERCICES SUR LES SYSTEMES TRIPHASES Electrotechnique
+    │   ├── 📄 TD : Exercices Transformateur triphasé
+    │   ├── 📄 Serie exercices TD : TRANSFORMATEUR MONOPHASE.pdf
+    │   ├── 📄 15 exercices corrigés d’Electrotechnique 
+sur la machine à courant continu
+    │   ├── 📄 Exercices TD Electrotechnique Circuits Magnetiques Ampere Solenoide Tore Électrotechnique
+    │   ├── 📄 Exercices TD Electrotechnique I Circuits Monophases Resistances Impedances Puissance Facteur Électrotechnique
+    │   ├── 📄 Exercices TD Systemes Triphases Equilibres Comparaison Monophase et Triphase Électrotechnique
+    │   ├── 📄 Exercices TD Systeme Triphase Equilibre Calculs Courants Puissances Facteur Neutre Électrotechnique
+    │   ├── 📄 Exercices TD Machines Courant Continu Fonctionnement Moteur et Rendement Électrotechnique
+    │   ├── 📄 Exercices TD Transformateurs en cascade et parallele 500 kW cos phi 0 8 Électrotechnique
+    │   ├── 📄 Exercices TD Transformateur triphasé 400V 48V 630VA Essais triangle Électrotechnique
+    │   ├── 📄 Exercices TD Machines Courant Continu Fonctionnement Moteur et Rendement Électrotechnique
+    │   ├── 📄 Exercices TD Machines Courant Continu Fonctionnement Generatrice et Calculs Performances Électrotechnique
+    │   ├── 📄 Exercices TD Moteur Asynchrone Calcul Courant Puissance Couple Glissement Essais Électrotechnique
+    │   ├── 📄 Exercices TD Transformateurs Monophasés Calculs Rendement et Impédances Électrotechnique
+    │   ├── 📄 Exercices TD Circuits Magnétiques Ampère Solénoïde Tore Flux Inductance Électrotechnique
+    │   ├── 📄 Exercices TD Transformateur Monophase Calculs Puissance Apparente Vide Court Circuit Électrotechnique
+    │   ├── 📄 Exercices TD Moteur Asynchrone Analyse Schema Equivalent et Puissances Rotor Stator Glissement Électrotechnique
+    │   ├── 📄 Correction exercices transformateur monophase Blogger Électrotechnique
+    │   ├── 📄 Exercices TD Electrotechnique Transformateur Monophase Niveau 2 Électrotechnique
+    │   ├── 📄 Exercices TD Moteur Asynchrone Explications Calculs Glissement Couple Puissance Essai Vide Électrotechnique
+    │   ├── 📄 Exercices TD Machines Courant Continu Fonctionnement Moteur et Calculs Essentiels Électrotechnique
+    │   ├── 📄 Correction Exercices Champ Magnetique Circuit Solenoide TD Electromagnetisme Électrotechnique
+    │   ├── 📄 Correction Transformateur Monophase Exercices Calculs Pratiques et Rendement Électrotechnique
+    │   ├── 📄 exercices_transformateur.pdf
+    │   ├── 📄 exercices_moteur_asynchrone.pdf
+    │   └── 📁 TD corrigé/
+    │       ├── 📄 Correction Exercices TD Electromagnetisme Champ Magnetique Solenoide Câble Électrotechnique
+    │       └── 📄 correction TD transfo monophasé.pdf
+    ├── 📁 Exams/
+    │   ├── 📄 Examen Electrotechnique I Système Triphasé Circuits Magnétiques Transformateurs Électrotechnique
+    │   ├── 📄 Contrôle Electrotechnique FES 1 GE Circuits Magnétiques Transformateurs Électrotechnique
+    │   ├── 📄 Examen Electrotechnique I Réseau Triphasé Puissance Courant Facteur cos phi Électrotechnique
+    │   ├── 📄 Examen Electrotechnique I Contrôle Rattrapage Triphasé Puissance Wattmètre Électrotechnique
+    │   ├── 📄 Examen Electrotechnique Correction et Explications Circuits Moteurs Triphasés Électrotechnique
+    │   └── 📄 Examen Electrotechnique I Machines Electriques Moteur Courant Continu MAS Électrotechnique
+    └── 📁 Cours/
+        ├── 📁 Circuit Magnetique PDF/
+        │   ├── 📄 Cours Electrotechnique Loi d Hopkinson Circuits Magnetiques Électrotechnique
+        │   ├── 📄 Cours Electrotechnique Champ Magnetique Tournant et Machines Sincro Asincro Électrotechnique
+        │   ├── 📄 Cours Circuits Magnetiques Champ Induction Excitation Ampere Electrotechnique 
+        │   ├── 📄 Corrige Exercices Electrotechnique 1 Calcul Relectance Flux Inductance Électrotechnique
+        │   ├── 📄 Corrigé Exercice Circuit Magnétique Linéaire Inductance Propre et Mutuelle MagnElecPro Électrotechnique
+        │   └── 📄 Circuit magnétique parfait et filiforme comparé aux circuits électriques Électrotechnique
+        ├── 📁 Systéme Monophase/
+        │   ├── 📄 Chapitre 2 Puissances électriques en régime sinusoïdal Electrotechnique
+        │   ├── 📄 Chapitre 1 COURANT ALTERNATIF MONOPHASE
+        │   └── 📄 5 exercices corrigés d’Electrotechnique 
+sur le régime monophasé
+        ├── 📁 Systéme Triphasé équilibré/
+        │   ├── 📄 3 exercices corrigés d’Electrotechnique sur le régime triphasé
+        │   ├── 📄 Chapitre 3 Systèmes triphasés Electrotechnique
+        │   └── 📄 Système Triphasé Équilibré Direct Tensions Simples et Composées Explications Claires Électrotechnique
+        ├── 📁 Transformateur Monophasé/
+        │   ├── 📄 Chapitre 4 Transformateur en régime sinusoïdal Electrotechnique
+        │   ├── 📄 9 exercices corrigés d’Electrotechnique sur le transformateur
+        │   ├── 📄 Cours complet sur le transformateur monophasé en régime sinusoïdal Électrotechnique
+        │   └── 📄 Cours complet Transformateur Monophasé 1ère Année Génie Electrique 2011-2012 Électrotechnique
+        ├── 📁 Machine a courant continu PDF/
+        │   ├── 📄 15 exercices corrigés d’Electrotechnique 
+sur la machine à courant continu
+        │   ├── 📄 Cours Electrotechnique Machines Courant Continu Generatrice Électrotechnique
+        │   ├── 📄 Cours Electrotechnique Machines Courant Continu Fonctionnement Moteur Électrotechnique
+        │   ├── 📄 Cours Electrotechnique I Machine Courant Continu Fonctionnement Moteur Électrotechnique
+        │   └── 📄 ch1 machine a courant continu.pdf
+        └── 📁 Moteur Asynchrone PDF/
+            ├── 📄 10 exercices corrigés d’Electrotechnique 
+sur le moteur asynchrone
+            ├── 📄 PRINCIPES D'ELECTROTECHNIQUE Cours et exercices corrigés
+            ├── 📄 Exercices TD Moteurs Asynchrones Triphasés Résolution et Calculs Pratiques Électrotechnique
+            ├── 📄 Exercices TD Electrotechnique Moteur Asynchrone 10 Exercices Corriges Électrotechnique
+            ├── 📄 Fonction Convertir Moteurs Asynchrones Triphases 2STE 2012 13 Analyse Électrotechnique
+            ├── 📄 Analyse des règles de couplage et plaque signalétique moteur asynchrone triphasé Électrotechnique
+            └── 📄 Moteur Asynchrone Triphase Principe Champ Magnétique Tournant et Force de Laplace Électrotechnique
+
+═════════════════════════════════════
+  Fin du fichier · Electrotechnique
+═════════════════════════════════════

@@ -1,0 +1,58 @@
+📚 MODULE : Filtrage Analogique Passifs et Actifs     
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Filtrage Analogique Passifs et Actifs.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Filtrage Analogique Passifs et Actifs/
+├── 📄 1.Chap1_FAPA.pdf
+├── 📄 2.Chap2_FAPA_El.pdf
+├── 📄 3.Chap2_suite_EL.pdf
+├── 📄 4.td_fapa_1.pdf
+├── 📄 Chap3_partie 1_Filtre passe bande_EL.pdf
+├── 📄 Chap3_partie 2_Filtre passe bande&coupe bande_EL.pdf
+├── 📄 Chap4_suite_Filtre de Bessel.pdf
+├── 📄 Chap4_suite_Filtre de Butterworth.pdf
+├── 📄 Chap4_suite_filtre de tchybetchef.pdf
+├── 📄 Chap4) synthèse des filtres_part1.pdf
+├── 📄 Chap4) synthèse des filtres_part2_EL.pdf
+├── 📄 Chap4)synthése Filtre_chybetchef_ET.pdf
+├── 📄 Chap5_Partie 1_Filtre actif.pdf
+├── 📄 Copy of sujet CC FAPA 2021.pdf
+├── 📄 Copy of sujet exam FAPA 2021.pdf
+├── 📄 Correction_Exam_FAPA_2024.pdf
+├── 📄 correction-ex2-BTRWTH-p1.jpg
+├── 📄 correction-ex2-BTRWTH-p2.jpg
+├── 📄 correction-ex02-BTRWTH-p3.pdf
+├── 📄 corrig_exo1_fapa.pdf
+├── 📄 DS2024.pdf
+├── 📄 Exercice_révision -sol_FAPA_1_2022.pdf
+├── 📄 exercices_Filtres.pdf
+├── 📄 exmn2024.pdf
+├── 📄 Filtre Polynomiaux1.pdf
+├── 📄 Filtre_Bessel.pdf
+├── 📄 Partie 1_Filtre actif.pdf
+├── 📄 Partie 2_Filtre actif_ET.pdf
+├── 📄 récap_Chap2_FAPA_part1.pdf
+├── 📄 Récap_Chap3_partie 2_Filtre passe bande&coupe bande.pdf
+├── 📄 Solution_FAPA.pdf
+├── 📄 TD-filtres-actifs.pdf
+├── 📄 tp_complet_fapa.pdf
+├── 📄 tp01 fapa.pdf
+├── 📄 tp1 STR2.pdf
+├── 📄 TP01_finale.pdf
+├── 📄 TP02_final.pdf
+└── 📄 tp2fapa.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Filtrage Analogique Passifs et Actifs
+═════════════════════════════════════

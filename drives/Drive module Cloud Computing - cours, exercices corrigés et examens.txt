@@ -1,0 +1,95 @@
+📚 MODULE : Cloud Computing                           
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Cloud Computing.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Cloud Computing/
+├── 🔗📁 AWS  Certified Cloud Practitioner/  (raccourci)
+│   └── 📁 Training videos/
+│       ├── 📄 AWS Certified Cloud Practitioner- Monitoring AWS - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- AWS Access Management - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- Pricing Models - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- Network Services - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- A Sample AWS Implementation - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- AWS Cloud Economics - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- Resources for Billing Support - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- Account Structures for Pricing - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- Automation and App Support - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- Resources for Technology Support - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- The Shared Responsibility Model - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- AWS Cloud Security and Compliance - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- Deploying and Operating in AWS - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- The AWS Global Infrastructure - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- Security Services - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- Cloud Architecture Design Principles - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- Database Services - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- Resources for Security Support - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- Compute Services - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- Storage Services - CBT Nuggets.TS
+│       ├── 📄 AWS Certified Cloud Practitioner- Defining AWS - CBT Nuggets.TS
+│       └── 📄 AWS Certified Cloud Practitioner- Course Introduction - CBT Nuggets.TS
+├── 🔗📁 CC | Cloud Computing/  (raccourci)
+│   ├── 📄 PDF1 résumé + qst exam
+│   ├── 📄 3- La sécurité dans le Cloud.pdf
+│   ├── 📄 2- Les Technologies du Cloud Computing.pdf
+│   ├── 📄 1- Introduction au cloud.pdf
+│   ├── 📄 0- Plan du Cours.pdf
+│   ├── 📁 Mini projects/
+│   │   ├── 📄 TP 4.pdf
+│   │   ├── 📄 TP 3.pdf
+│   │   ├── 📄 TP 1.pdf
+│   │   └── 📄 TP 2.pdf
+│   ├── 📁 Examen/
+│   │   ├── 📄 2023 avec corrigé.pdf
+│   │   ├── 📄 2017 avec solution
+│   │   ├── 📄 2018 rattrapage
+│   │   ├── 📄 2022 SID corrigé
+│   │   └── 📄 2022 SID
+│   └── 📁 Tuto TP/
+│       ├── 📄 Database server(RDS).pdf
+│       ├── 📄 Hosting a Static Website with Amazon S3 - DEV Community.pdf
+│       └── 📄 Autoscaling.pdf
+├── 🔗📁 Cloud Computing/  (raccourci)
+│   ├── 📄 VECC_Cours 5_Stockage de données_2020-2021.pdf
+│   ├── 📄 VECC_Cours 5_Stockage de données_2020-2021.ppt
+│   ├── 📄 VECC_Cours 7_Calcul sans serveur_2020-2021.pdf
+│   ├── 📄 VECC_Cours 6_Composants OpenStack_2020-2021.pdf
+│   ├── 📄 VECC_Cours 4_Architecture OpenStack_2020-2021.pdf
+│   ├── 📄 VECC_Cours 3_Conteneurisation_2020-2021.pdf
+│   ├── 📄 VECC_Cours 2_Virtualisation_2020-2021.pdf
+│   └── 📄 VECC_Cours 1_Introduction_2020-2021(1).pdf
+├── 📁 Cours/
+│   ├── 📄 PDF1 résumé + qst exam.pdf
+│   ├── 📄 3- La sécurité dans le Cloud.pdf
+│   ├── 📄 2- Les Technologies du Cloud Computing.pdf
+│   ├── 📄 1- Introduction au cloud.pdf
+│   └── 📄 0- Plan du Cours.pdf
+├── 📁 TPs et Mini projects/
+│   ├── 📄 TP 4.pdf
+│   ├── 📄 TP 3.pdf
+│   ├── 📄 TP 1.pdf
+│   ├── 📄 TP 2.pdf
+│   └── 📁 Tuto TP/
+│       ├── 📄 Database server(RDS).pdf
+│       ├── 📄 Hosting a Static Website with Amazon S3 - DEV Community.pdf
+│       └── 📄 Autoscaling.pdf
+└── 📁 Examen/
+    ├── 📄 2023 avec corrigé.pdf
+    ├── 📄 2017 avec solution.pdf
+    ├── 📄 2018 rattrapage.docx
+    ├── 📄 2022 SID corrigé.pdf
+    └── 📄 2022 SID.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Cloud Computing
+═════════════════════════════════════

@@ -1,0 +1,115 @@
+📚 MODULE : Dynamique Des Structures                  
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Dynamique Des Structures.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Dynamique Des Structures/
+├── 🔗📁 DDS/  (raccourci)
+│   ├── 📁 Cours/
+│   │   ├── 📄 img20120316_01582496.pdf
+│   │   └── 📄 img20120316_01574154.pdf
+│   ├── 📁 Enregistrements /
+│   │   ├── 📁 Vidéo de Mr chalah /
+│   │   └── 📁 Enregistrements d’un étudiant /
+│   └── 📁 série TD/
+│       └── 📄 Td 1.pdf
+├── 🔗📁 DDS2/  (raccourci)
+│   ├── 📄 DDS 2 example.pdf
+│   ├── 📄 examen dds 2 avec solutions.pdf
+│   ├── 📄 TD DDS 2.pdf
+│   ├── 📄 td dds.pdf
+│   ├── 📄 exo 4 dds.pdf
+│   ├── 📄 Introduction to earthquake engineering by Estrada, Hector Lee, Luke S (z-lib.org).pdf
+│   ├── 📄 DDStructures_2_Chapitre_1_2020-2021.pdf
+│   ├── 📄 TDN°1_Chap1_DDStructures_2_2020-2021_imprimer.pdf
+│   ├── 📄 DDStructures_1_Chapitre_3_2020-2021.pdf
+│   └── 📄 TDN°3_Chapitre_3_DDS_1_2020-2021.pdf
+├── 📄 livre dds.pdf
+├── 📄 Drive Preview
+├── 📄 exos DDS.pdf
+├── 🔗📁 livre dds.pdf/  (raccourci)
+├── 🔗📁 Livres exo Dynamics of Structures - Solutions-Prentice Hall (2006).pdf/  (raccourci)
+├── 🔗📁 Dynamique-Des-Structures/  (raccourci)
+│   ├── 📄 solutions TD 01.pdf
+│   ├── 📄 solutions TD 02.pdf
+│   ├── 📄 Examen_DDS_1_2018-2019.pdf
+│   ├── 📄 Anil K. Chopra-Dynamics of Structures - Solutions-Prentice Hall (2006).pdf
+│   ├── 📄 correction des exercices de révisions DDS 1.pdf
+│   ├── 📄 Examen_DDS_1_2019-2020.pdf
+│   ├── 📄 exercices pour révision DDS1.pdf
+│   ├── 📄 dynamic.of.structures.chopra.pdf
+│   ├── 📄 livre dds nacer.pdf
+│   ├── 📄 Dynamique-Des-Structures-Mastere-1.pdf
+│   ├── 📁 Pour Etudiants/
+│   │   ├── 📄 5 - Structural Dynamics.pdf
+│   │   ├── 📄 [Anil_K._Chopra]_Dynamics_of_Structures_Theory_an(BookZZ.org).pdf
+│   │   ├── 📄 Paultre_Dynamique des   structures.pdf
+│   │   ├── 📄 calculdynamiquedesstructuresenzonesismique.pdf
+│   │   ├── 📄 [Mario_Paz,_William_Leigh]_Structural_Dynamics_5th_Ed.pdf
+│   │   ├── 📄 [Ray_Clough,_Joseph_Penzien]_Dynamics_of_Structure(BookZZ.org).pdf
+│   │   ├── 📄 Patrick_Paultre_Dynamics_of_structures.pdf
+│   │   ├── 📄 solutions manual-dynamics of structures(r.w. clough and j. penzien)-francisc.pdf
+│   │   ├── 📄 [Prab_Bhatt]_Programming_the_Dynamic_Analysis_of_S(BookZZ.org).pdf
+│   │   ├── 📄 [Sekaran_Rajasekaran]_Structural_dynamics_of_earth(BookZZ.org).pdf
+│   │   └── 📁 Alain Pecker_POLYCOPIES 2017/
+│   │       ├── 📄 Table_des_matieres.pdf
+│   │       ├── 📄 Chapitre_8.pdf
+│   │       ├── 📄 Chapitre_5.pdf
+│   │       ├── 📄 Chapitre_4.pdf
+│   │       ├── 📄 BE_DYNAM_2017.pdf
+│   │       ├── 📄 Chapitre_6.pdf
+│   │       ├── 📄 Recueil Exercices 2017.pdf
+│   │       ├── 📄 Chapitre_2.pdf
+│   │       ├── 📄 Chapitre_7.pdf
+│   │       ├── 📄 Chapitre_10.pdf
+│   │       ├── 📄 Chapitre 9.pdf
+│   │       ├── 📄 Chapitre_1.pdf
+│   │       ├── 📄 Chapitre 3.pdf
+│   │       └── 📄 Titre.pdf
+│   └── 📁 cours/
+│       ├── 📄 DDStructures_Chapitre_1_2020-2021.pdf
+│       ├── 📄 DDStructures_Chapitre_3_2020-2021.pdf
+│       ├── 📄 TDN°1_Chap1_DDS_2020-2021.pdf
+│       └── 📄 DDStructures_Chapitre_2_2020-2021.pdf
+├── 📁 Examens corrigés/
+│   ├── 📄 Examen corrigé 
+│   ├── 📄 Examens rattrapage corrigé
+│   ├── 📄 GC-2017-MVOA-M1-S1-GV712.pdf
+│   ├── 📄 64887843_2216964661949262_1682095049233399808_n.TextMark.pdf
+│   ├── 📄 emd dds2_p06-15.TextMark.pdf
+│   ├── 📄 emd dds2_p20-31.TextMark.pdf
+│   ├── 📄 emd dds2_p33-44.TextMark.pdf
+│   ├── 📄 emd dds2_p50-60.TextMark.pdf
+│   ├── 📄 emd dds2_p62-73.TextMark.pdf
+│   ├── 📄 emd dds2_p75-81.TextMark.pdf
+│   ├── 📄 emd dds1_p01-05.TextMark.pdf
+│   └── 📄 DDS EMD+RES_p32-39.TextMark.pdf
+├── 📁 Tds et exercices corrigés /
+│   ├── 📄 recueil_d_exercices_alain_peker.pdf
+│   ├── 📄 solutions TD 01.pdf
+│   ├── 📄 solutions TD 02.pdf
+│   ├── 📄 Examen_DDS_1_2018-2019.pdf
+│   ├── 📄 correction des exercices de révisions DDS 1.pdf
+│   ├── 📄 Examen_DDS_1_2019-2020.pdf
+│   ├── 📄 exercices pour révision DDS1.pdf
+│   ├── 📄 TDN°1_Chap1_DDS_2020-2021.pdf
+│   ├── 📄 livre dds nacer.pdf
+│   └── 📄 Dynamique-Des-Structures-Mastere-1.pdf
+└── 📁 cours/
+    ├── 📄 DDStructures_Chapitre_1_2020-2021.pdf
+    ├── 📄 DDStructures_Chapitre_2_2020-2021.pdf
+    └── 📄 DDStructures_Chapitre_3_2020-2021.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Dynamique Des Structures
+═════════════════════════════════════

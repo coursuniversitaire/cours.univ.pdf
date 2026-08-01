@@ -1,0 +1,265 @@
+📚 MODULE : Élasticité                                
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Élasticité.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Élasticité/
+├── 🔗📁 Élasticité /  (raccourci)
+│   ├── 📁 Réviser avec ces fichiers /
+│   │   ├── 📄 Elasticité-Cours-Tenseur-Déformations-NB.pdf
+│   │   ├── 📄 Elasticité-T.D.-Tenseur-Contraintes-1-NB.pdf
+│   │   ├── 📄 Elasticité-T.D.-Tenseur-Déformations-1-NB.pdf
+│   │   ├── 📄 Elasticité-T.D.-Tenseur-Déformations-2-NB.pdf
+│   │   ├── 📄 Elasticité-T.D.-Tenseur-Contraintes-2-NB.pdf
+│   │   └── 📄 Elasticité-T.D.-Tenseur-Contraintes-3-NB.pdf
+│   ├── 📁 Td/
+│   │   ├── 📄 ElasticitÃ©-T.D.-Tenseur DÃ©formations-1.pdf
+│   │   ├── 📄 ElasticitÃ©-T.D.-Tenseur Contraintes-2.pdf
+│   │   └── 📄 Exo1 + corrigé .pdf
+│   └── 📁 Cours /
+│       ├── 📄 ElasticitÃ©-Cours-Tenseur DÃ©formations.pdf
+│       ├── 📄 Cours+ qlq applications corrigé .docx
+│       ├── 📄 Cours1 tenseur .pdf
+│       └── 📄 Cours 1.pdf
+├── 📄 Drive Preview
+├── 📄 examen corrigé.pdf
+├── 📄 Exo1 + corrigé .pdf
+├── 🔗📁 Élasticité /  (raccourci)
+│   ├── 🔗📁 Copie de Enregistrement TD MMC/  (raccourci)
+│   │   ├── 🔗📁 TD Élasticité demi-section A2 (2022-01-06 at 00:11 GMT-8)/  (raccourci)
+│   │   ├── 🔗📁 TD Elasticite  demi-section A2 (2021-12-16 at 00:10 GMT-8)/  (raccourci)
+│   │   ├── 🔗📁 TD Élasticité  demi-section A2 (2021-12-02 at 00:10 GMT-8)/  (raccourci)
+│   │   ├── 🔗📁 TD Elasticité demi-section A2 (2021-11-25 at 00:11 GMT-8)/  (raccourci)
+│   │   ├── 🔗📁 TD Elasticité demi-section A2 (2021-11-11 at 00:12 GMT-8)/  (raccourci)
+│   │   └── 🔗📁 TD Élasticité demi-section A2 (2021-11-04 at 01:11 GMT-7)/  (raccourci)
+│   ├── 📄 Copy of Feuille de réponses corrigée_MMC.pdf
+│   ├── 📄 Copie de Résumé tout les chapitres-1.pdf
+│   ├── 📄 Sujet-MMC-2022.pdf
+│   ├── 📄 Feuille de réponses corrigée_MMC.pdf
+│   ├── 🔗📁 Enregistrement TD MMC/  (raccourci)
+│   │   └── ⚠️  [Référence circulaire ignorée]
+│   ├── 📁 TD A1/
+│   │   ├── 📁 Solutions TD/
+│   │   │   ├── 📄 Les contraintes principales Exo 5 (1).docx
+│   │   │   ├── 📄 Les contraintes principales Exo 5 (1).docx
+│   │   │   └── 📁 mmc /
+│   │   │       ├── 📄 corrigé TD1-(1-6)
+│   │   │       └── 📄 corrigé TD1-(1-6)
+│   │   ├── 📁 Cours 2020-2021/
+│   │   │   └── 📄 chapitre 1- élasticité-1
+│   │   └── 📁 Séries TD/
+│   │       ├── 📄 Série 3_TENSEUR DE DEFORMATIONS-_Finale-1
+│   │       ├── 📄 Série 1_NOTIONS DE TENSEUR
+│   │       ├── 📄 Série 3_TENSEUR DE DEFORMATIONS-_Finale-1
+│   │       ├── 📄 Série 3_TENSEUR DE DEFORMATIONS-_Finale-1.pdf
+│   │       ├── 📄 Série 2_TENSEUR DE CONTRAINTES-Finale.pdf
+│   │       └── 📄 Série 1_NOTIONS DE TENSEUR.pdf
+│   └── 📁 TD A2/
+│       ├── 📄 TD7_ElasticitÃ©_Chap_3_Tenseur des deformations
+│       ├── 📄 TD10_ElasticitÃ©_Chap_3_Tenseur des deformations.pdf
+│       ├── 📄 TD9_ElasticitÃ©_Chap_3_Tenseur des deformations.pdf
+│       ├── 📄 TD8_ElasticitÃ©_Chap_3_Tenseur des deformations.pdf
+│       ├── 📄 TD7_ElasticitÃ©_Chap_3_Tenseur des deformations.pdf
+│       ├── 📄 TD6_ElasticitÃ©_Chap_2_Tenseur des contraintes.pdf
+│       ├── 📄 TD5_ElasticitÃ©_Chap_2_Tenseur des contraintes.pdf
+│       ├── 📄 TD4_ElasticitÃ©_Chap_2_Tenseur des contraintes.pdf
+│       ├── 📄 TD1+_ElasticitÃ©_ElÃ©ments mathÃ©matiques - Rappel algÃ¨bre linÃ©aire.pdf
+│       ├── 📄 TD3_ElasticitÃ©_ElÃ©ments mathÃ©matiques - Rappel algebre lineaire.pdf
+│       ├── 📄 TD2_ElasticitÃ©_ElÃ©ments mathÃ©matiques - Rappel algebre lineaire.pdf
+│       └── 📄 TD1_ElasticitÃ©_ElÃ©ments mathÃ©matiques - Rappel algÃ¨bre linÃ©aire.pdf
+├── 🔗📁 ELASTICITE - MMC/  (raccourci)
+│   ├── 📄 Résumé tout les chapitres.pdf
+│   ├── 📁 VIDEOS/
+│   │   ├── 📁 TD/
+│   │   │   ├── 📄 exo1.wmv
+│   │   │   ├── 📄 exo2.wmv
+│   │   │   ├── 📄 exo3.wmv
+│   │   │   ├── 📄 exo4.wmv
+│   │   │   └── 📄 exà5.wmv
+│   │   └── 📁 COURS/
+│   │       ├── 📄 chapitre1-partie1.asf
+│   │       ├── 📄 chapitre1-partie3.asf
+│   │       ├── 📄 chapitre1-partie2.asf
+│   │       ├── 📄 2em Séance .wmv
+│   │       └── 📄 1er séance .wmv
+│   ├── 📁 EXAMENS/
+│   │   ├── 📄 corrigé avec barême d'examen 2021.pdf
+│   │   ├── 📄 Rattrapage 2017 MMC.pdf
+│   │   ├── 📄 Examen 2017 MMC.pdf
+│   │   ├── 📄 Examen 2020 MMC.pdf
+│   │   ├── 📄 rattrapage 2019 MMC.pdf
+│   │   ├── 📄 Examen 2018 MMC.pdf
+│   │   ├── 📄 Examen 2015 MMC.pdf
+│   │   ├── 📄 Examen 2014 MMC.pdf
+│   │   ├── 📄 Examen 2012-2013 MMC.pdf
+│   │   ├── 📄 Examen 2011-2012 MMC.pdf
+│   │   ├── 📄 examen 2011 mmc.pdf
+│   │   └── 📄 examen avec corriger Elasticité (MMC).pdf
+│   ├── 📁 SERIES DE TD /
+│   │   ├── 📄 Série 3_TENSEUR DE DEFORMATIONS-_Finale.pdf
+│   │   ├── 📄 Série 4_élasticité-Finale.pdf
+│   │   ├── 📄 TD3- Corrigé exos-1-3-5-7-8-10.pdf
+│   │   ├── 📄 TD3- Corrigé exos-2-4-6-9-10-11.pdf
+│   │   ├── 📄 TD4-Corrigé.pdf
+│   │   ├── 📄 TD2-Corrigé exo-9-14.pdf
+│   │   ├── 📄 Série 2_TENSEUR DE CONTRAINTES-Finale.pdf
+│   │   ├── 📄 corrigé TD1-(7-10).pdf
+│   │   ├── 📄 corrigé TD1-(1-6).pdf
+│   │   ├── 📄 Série 1_NOTIONS DE TENSEUR.pdf
+│   │   └── 📄 CorrigéTD2.pdf
+│   └── 📁 COURS/
+│       ├── 📄 chapitre 4-Elasticité.pdf
+│       ├── 📄 chapitre1- élasticité.pdf
+│       ├── 📄 chapitre 2-les contraintes.pdf
+│       ├── 📄 chapitre 3-les déformations.pdf
+│       └── 📄 chapitre 3-les déformations.pdf
+├── 🔗📁 Élasticité /  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 📄 (MATLAB examples) Sadd, Martin Howard - Elasticity_ theory, applications, and numerics-Academic Press is an imprint of Elsevier (2021).pdf
+├── 📄 CHAP 1 prblm en coord cartésien .pdf
+├── 📄 CHAP 2 prblm en coord polaire .pdf
+├── 📄 CHAP 3 plaque minces.pdf
+├── 📄 Elast TD1.pdf
+├── 📄 ELAST TD2 Exo 4 Corrigé.pdf
+├── 📄 Elast TD2.pdf
+├── 📄 Elasticité GC Examen Juin 2021.pdf
+├── 📄 Exo 6.pdf
+├── 📄 Programme d'Elasticité.docx
+├── 🔗📁 elasticite/  (raccourci)
+│   ├── 📄 exo elasticite.docx
+│   ├── 📁 cours/
+│   │   ├── 📄 CHAPITRE 4 (3).pdf
+│   │   ├── 📄 CHAPITRE 4 (2).pdf
+│   │   ├── 📄 CHAPITRE 4 (1).pdf
+│   │   ├── 📄 Théorie de létat de déformations partie 2 (3).pdf
+│   │   ├── 📄 Théorie de létat de déformations partie 2 (2).pdf
+│   │   ├── 📄 Théorie de létat de déformations partie 2 (1).pdf
+│   │   ├── 📄 Théorie de létat de déformations partie 2.pdf
+│   │   ├── 📄 CHAPITRE 3 PART1 (2).pdf
+│   │   ├── 📄 CHAPITRE 3 PART1 (1).pdf
+│   │   ├── 📄 CHAPITRE 3 PART1.pdf
+│   │   ├── 📄 Gradient, Divergence et Rotationnel.pdf
+│   │   ├── 📄 CHAPITRE 1-INTRODUCTION_PARTIE_2.pdf
+│   │   ├── 📄 2.7. Contraintes principales et directions principales.pdf
+│   │   ├── 📄 Chapitre_2 2.6.pdf
+│   │   ├── 📄 Chapitre_2 2.5.pdf
+│   │   ├── 📄 2.4. Conditions d’équilibre à la surface.pdf
+│   │   ├── 📄 2.3. CONVENTION DE SIGNE ET CONFIGURATION.pdf
+│   │   ├── 📄 2.2. NOTATIONS ET COMPOSANTES.pdf
+│   │   └── 📄 2.1. NOTIONS DE CONTRAINTES.pdf
+│   └── 📁 TD/
+│       ├── 📄 Série_7 2020-2021.pdf
+│       ├── 📄 Série_6 2020-2021.pdf
+│       ├── 📄 Solution Exo3 S5.pdf
+│       ├── 📄 Solution Exo2 S5.pdf
+│       ├── 📄 Solution Exo1 S5.pdf
+│       ├── 📄 Série_5 2020-2021.pdf
+│       ├── 📄 Série_6 2019-2020.pdf
+│       ├── 📄 Exo3 s5.pdf
+│       ├── 📄 Exo2 s5.pdf
+│       ├── 📄 Exo1 s5.pdf
+│       ├── 📄 Solution Exo4 S4.pdf
+│       ├── 📄 Solution Exo3 S4.pdf
+│       ├── 📄 Solution Exo2 S4.pdf
+│       ├── 📄 Solution Exo1 S4.pdf
+│       ├── 📄 Solution Exo3 (1).pdf
+│       ├── 📄 Solution Exo2 (1).pdf
+│       ├── 📄 Solution Exo1 (1).pdf
+│       ├── 📄 Exo2 s6.pdf
+│       ├── 📄 Exo1 s6.pdf
+│       ├── 📄 CHAPITRE 4.pdf
+│       ├── 📄 Série_2 2019-2020.pdf
+│       ├── 📄 Série_1 2019-2020.pdf
+│       ├── 📄 Série dexercices n°4.pdf
+│       └── 📄 Série dexercices n°3.pdf
+├── 📁 Séries corrigés élasticité tenseur/
+│   ├── 📄 TD1_ElasticitÃ©_ElÃ©ments mathÃ©matiques - Rappel algÃ¨bre linÃ©aire.pdf
+│   ├── 📄 TD1+_ElasticitÃ©_ElÃ©ments mathÃ©matiques - Rappel algÃ¨bre linÃ©aire.pdf
+│   ├── 📄 TD2_ElasticitÃ©_ElÃ©ments mathÃ©matiques - Rappel algebre lineaire.pdf
+│   ├── 📄 TD3_ElasticitÃ©_ElÃ©ments mathÃ©matiques - Rappel algebre lineaire.pdf
+│   ├── 📄 TD4_ElasticitÃ©_Chap_2_Tenseur des contraintes.pdf
+│   ├── 📄 TD5_ElasticitÃ©_Chap_2_Tenseur des contraintes.pdf
+│   ├── 📄 TD6_ElasticitÃ©_Chap_2_Tenseur des contraintes.pdf
+│   ├── 📄 TD7_ElasticitÃ©_Chap_3_Tenseur des deformations.pdf
+│   ├── 📄 TD7_ElasticitÃ©_Chap_3_Tenseur des deformations.pdf
+│   ├── 📄 TD8_ElasticitÃ©_Chap_3_Tenseur des deformations.pdf
+│   ├── 📄 TD9_ElasticitÃ©_Chap_3_Tenseur des deformations.pdf
+│   ├── 📄 TD10_ElasticitÃ©_Chap_3_Tenseur des deformations.pdf
+│   ├── 📄 Les contraintes principales Exo 5 (1).docx
+│   ├── 📄 Les contraintes principales Exo 5 (1).docx
+│   ├── 📄 corrigé TD1-(1-6).pdf
+│   ├── 📄 corrigé TD1-(1-6).pdf
+│   ├── 📄 Série 1_NOTIONS DE TENSEUR.pdf
+│   ├── 📄 Série 1_NOTIONS DE TENSEUR.pdf
+│   ├── 📄 Série 2_TENSEUR DE CONTRAINTES-Finale.pdf
+│   ├── 📄 Série 3_TENSEUR DE DEFORMATIONS-_Finale-1.pdf
+│   ├── 📄 Série 3_TENSEUR DE DEFORMATIONS-_Finale-1.pdf
+│   ├── 📄 Série 3_TENSEUR DE DEFORMATIONS-_Finale-1.pdf
+│   ├── 📄 Elasticité-Cours-Tenseur-Déformations-NB.pdf
+│   ├── 📄 Elasticité-T.D.-Tenseur-Contraintes-1-NB.pdf
+│   ├── 📄 Elasticité-T.D.-Tenseur-Contraintes-2-NB.pdf
+│   ├── 📄 Elasticité-T.D.-Tenseur-Contraintes-3-NB.pdf
+│   ├── 📄 Elasticité-T.D.-Tenseur-Déformations-1-NB.pdf
+│   ├── 📄 Elasticité-T.D.-Tenseur-Déformations-2-NB.pdf
+│   ├── 📄 ElasticitÃ©-T.D.-Tenseur Contraintes-2.pdf
+│   └── 📄 ElasticitÃ©-T.D.-Tenseur DÃ©formations-1.pdf
+├── 📁 TD/
+│   ├── 📄 exo elasticite.docx
+│   ├── 📄 Série_7 2020-2021.pdf
+│   ├── 📄 Solution Exo3 S5.pdf
+│   ├── 📄 Série_6 2020-2021.pdf
+│   ├── 📄 Solution Exo1 S5.pdf
+│   ├── 📄 Solution Exo2 S5.pdf
+│   ├── 📄 Série_5 2020-2021.pdf
+│   ├── 📄 Série_6 2019-2020.pdf
+│   ├── 📄 Exo3 s5.pdf
+│   ├── 📄 Exo2 s5.pdf
+│   ├── 📄 Exo1 s5.pdf
+│   ├── 📄 Solution Exo4 S4.pdf
+│   ├── 📄 Solution Exo3 S4.pdf
+│   ├── 📄 Solution Exo2 S4.pdf
+│   ├── 📄 Solution Exo1 S4.pdf
+│   ├── 📄 Solution Exo3 (1).pdf
+│   ├── 📄 Solution Exo2 (1).pdf
+│   ├── 📄 Solution Exo1 (1).pdf
+│   ├── 📄 Exo2 s6.pdf
+│   ├── 📄 Exo1 s6.pdf
+│   ├── 📄 CHAPITRE 4.pdf
+│   ├── 📄 Série_2 2019-2020.pdf
+│   ├── 📄 Série_1 2019-2020.pdf
+│   ├── 📄 Série dexercices n°4.pdf
+│   └── 📄 Série dexercices n°3.pdf
+└── 📁 cours/
+    ├── 📄 CHAPITRE 4 (3).pdf
+    ├── 📄 CHAPITRE 4 (2).pdf
+    ├── 📄 CHAPITRE 4 (1).pdf
+    ├── 📄 Théorie de létat de déformations partie 2 (3).pdf
+    ├── 📄 Théorie de létat de déformations partie 2 (2).pdf
+    ├── 📄 Théorie de létat de déformations partie 2 (1).pdf
+    ├── 📄 Théorie de létat de déformations partie 2.pdf
+    ├── 📄 CHAPITRE 3 PART1 (2).pdf
+    ├── 📄 CHAPITRE 3 PART1 (1).pdf
+    ├── 📄 CHAPITRE 3 PART1.pdf
+    ├── 📄 Gradient, Divergence et Rotationnel.pdf
+    ├── 📄 CHAPITRE 1-INTRODUCTION_PARTIE_2.pdf
+    ├── 📄 2.7. Contraintes principales et directions principales.pdf
+    ├── 📄 Chapitre_2 2.6.pdf
+    ├── 📄 Chapitre_2 2.5.pdf
+    ├── 📄 2.4. Conditions d’équilibre à la surface.pdf
+    ├── 📄 2.3. CONVENTION DE SIGNE ET CONFIGURATION.pdf
+    ├── 📄 2.2. NOTATIONS ET COMPOSANTES.pdf
+    └── 📄 2.1. NOTIONS DE CONTRAINTES.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Élasticité
+═════════════════════════════════════

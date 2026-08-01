@@ -1,0 +1,707 @@
+📚 MODULE : Électromagnétisme - Magnétostatique       
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Électromagnétisme - Magnétostatique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Électromagnétisme - Magnétostatique/
+├── 🔗📁 electromagnetisme/  (raccourci)
+│   ├── 📁 cours/
+│   │   ├── 📄 résumé de cours électromagnétisme.pdf
+│   │   ├── 📄 Électro_COURS_S3.pdf
+│   │   ├── 📁 cours_M.Grimech/
+│   │   │   ├── 📄 Cours d'électromagnétisme-Chapitre3.pdf
+│   │   │   ├── 📄 Cours d'électromagnétisme-Chapitre1.pdf
+│   │   │   ├── 📄 Cours d'électromagnétisme-Chapitre2.pdf
+│   │   │   ├── 📄 Cours d'électromagnétisme-Projection3.pdf
+│   │   │   ├── 📄 Cours d'électromagnétisme-Projection2.pdf
+│   │   │   └── 📄 Cours d'électromagnétisme-Projection1.pdf
+│   │   ├── 📁 Autre cours/
+│   │   │   ├── 📄 electromag_Equations de Maxwell dans la matière.pdf
+│   │   │   ├── 📄 Polarisation des milieux matériels isolants.pdf
+│   │   │   ├── 📄 tikz_ondes_em.pdf
+│   │   │   ├── 📄 Propagation des ondes.pdf
+│   │   │   ├── 📄 equations-de-maxwell.pdf
+│   │   │   ├── 📄 ELMBdias Equations de Maxwel electro.pdf
+│   │   │   ├── 📄 les l'equation de maxwell.pdf
+│   │   │   ├── 📄 cours-emag-complet   ÉLECTROMAGNÉTISME.pdf
+│   │   │   └── 📄 electromagnetisme cours extr.pdf
+│   │   └── 📁 cours_M.Grimech veRss 2023/
+│   │       ├── 📄 Cours Chapitre4-2023.pdf
+│   │       ├── 📄 Cours Chapitre5-2023.pdf
+│   │       ├── 📄 Cours Chapitre1-2023.pdf
+│   │       ├── 📄 Cours Chapitre2-2023.pdf
+│   │       └── 📄 Cours Chapitre3-2023.pdf
+│   ├── 📁 TP/
+│   │   ├── 📄 compte rendu TP 1.pdf
+│   │   ├── 📄 Réviser du TP électromagnétisme.pdf
+│   │   ├── 📄 TP 2 électromagnétisme autre façon.pdf
+│   │   ├── 📄 compte rendu TP 2.pdf
+│   │   ├── 📄 TP électromagnétisme polycop.pdf
+│   │   └── 📁 image pour vous/
+│   │       ├── 📄 page 3.jpg
+│   │       ├── 📄 page one pice.jpg
+│   │       ├── 📄 page 2.jpg
+│   │       ├── 📄 page 4.jpg
+│   │       ├── 📄 page 1.jpg
+│   │       ├── 📄 page 10.jpg
+│   │       ├── 📄 page 9.jpg
+│   │       ├── 📄 page 7.jpg
+│   │       ├── 📄 page 6.jpg
+│   │       ├── 📄 page 5.jpg
+│   │       ├── 📄 page 8.jpg
+│   │       ├── 📄 image 2.jpg
+│   │       ├── 📄 image 1.jpg
+│   │       ├── 📄 image 3.jpg
+│   │       ├── 📄 image 7.jpg
+│   │       ├── 📄 image 6.jpg
+│   │       ├── 📄 image 4.jpg
+│   │       ├── 📄 image 5.jpg
+│   │       └── 📄 image 8.jpg
+│   ├── 📁 Examen/
+│   │   ├── 📄 MIP-EM-Exam-Session Normale-nov2023_2024 GRIMCH.pdf
+│   │   ├── 📄 MIP-EM-Exam-Rattrapage-déc2022.pdf
+│   │   ├── 📄 MIP-EM-Exam-1ère session-nov2022.pdf
+│   │   ├── 📄 Exercices corrigés d’EM - Série 2.pdf
+│   │   ├── 📄 Exercices corrigés d’EM - Série 1.pdf
+│   │   ├── 📄 electromagnetisme MIP S3.pdf
+│   │   ├── 📄 Exemple 2 Électromagnétique.pdf
+│   │   ├── 📄 Exemple 1 Électromagnétique 2020.pdf
+│   │   ├── 📄 Epreuve d’Evaluation d’électromagnétisme.pdf
+│   │   ├── 📄 Examens+corrige.pdf
+│   │   └── 📄 ExamensTP_Electromagnetique_MIPCS3.pdf
+│   └── 📁 TD/
+│       ├── 📄 Correction de Tds électromagnétisme.pdf
+│       ├── 📄 TD électromagnétisme.pdf
+│       ├── 📄 Tds COPIE électromagnétique.pdf
+│       └── 📄 TD_Electro @LHI Vesr.pdf
+├── 🔗📁 Electromagnétique /  (raccourci)
+│   ├── 📄 tp electro.
+│   ├── 📄 TP-SMA-S3-manip1.pdf
+│   ├── 📄 Tp electro.pdf
+│   ├── 📁 Cours/
+│   │   ├── 📄 Chapitre 1- Magnétostatique dans le vide.pdf
+│   │   ├── 📄 Polycopié electro-SMA.pdf
+│   │   ├── 📄 F-Séance electro-Rappel-SMA-2021-2022.pdf
+│   │   ├── 📄 Chap4-SMA.pdf
+│   │   ├── 📄 Chap3-SMA.pdf
+│   │   ├── 📄 Chap2-SMA.pdf
+│   │   └── 📁 Resume/
+│   │       ├── 📄 electromagnétisme résume s3.pdf
+│   │       └── 📄 Resumé d'électromagnitisme.pdf
+│   ├── 📁 Series/
+│   │   ├── 📄 CamScanner 11-23-2021 10.23.40.pdf
+│   │   ├── 📄 Série-2-2020-21.pdf
+│   │   ├── 📄 Serie-1+Ex-supp-SMA-2020-21.pdf
+│   │   ├── 📄 Série-2-ex-sup-2020-21.pdf
+│   │   ├── 📄 Série des travaux dirigés N°2.pdf
+│   │   ├── 📄 Serie-1+Ex-supp-SMA-2020-21.pdf
+│   │   ├── 📄 Sol-Série n°2-Elec2-SMA-2020-21.PDF
+│   │   ├── 📄 Sol-Série n°1-Elec2'=-SMA-20-21.PDF
+│   │   ├── 📄 Polycopié electro-SMA.pdf
+│   │   ├── 📁 Td/
+│   │   │   ├── 📄 TP-SMA-S3-manip1.pdf
+│   │   │   ├── 📄 Sol-Série n°1-SMA-S3-2022-2023.pdf
+│   │   │   ├── 📄 Série n°1-SMA-S3-2022-2023.pdf
+│   │   │   ├── 📄 Série n°2-SMA-S3-2022-2023.pdf
+│   │   │   └── 📄 Sol-TD2-SMA-2022-23.pdf
+│   │   └── 📁 Series 2023/
+│   │       ├── 📄 td electro ch2 3.pdf
+│   │       ├── 📄 serie 1 2023.
+│   │       ├── 📄 corr serie 1 .
+│   │       ├── 📄 Corr serie 2 2023
+│   │       └── 📄 serie 2.2023
+│   ├── 📁 Exam /
+│   │   ├── 📄 ExamCorrigVF electromagnetique.pdf
+│   │   ├── 📁 Normal /
+│   │   │   ├── 📄 Contôle-2-11-12.pdf
+│   │   │   ├── 📄 Contôle1-11-12.pdf
+│   │   │   ├── 📄 Contôle1-12-13.pdf
+│   │   │   ├── 📄 Contôle1-10-11.pdf
+│   │   │   ├── 📄 Contôle2-10-11.pdf
+│   │   │   ├── 📄 Contôle1-09-10.pdf
+│   │   │   ├── 📄 Contôle1-06-07.pdf
+│   │   │   ├── 📄 Contôle1-07-08.pdf
+│   │   │   ├── 📄 Contôle1-08-09.pdf
+│   │   │   ├── 📄 Contôle1-04-05.pdf
+│   │   │   ├── 📄 Contôle1-05-06.pdf
+│   │   │   ├── 📄 Contôle2-05-06.pdf
+│   │   │   ├── 📄 Contôle1-15-16.pdf
+│   │   │   ├── 📄 Contôle1-14-15.pdf
+│   │   │   ├── 📄 Contôle1-13-14.pdf
+│   │   │   ├── 📄 Contôle1-16-17.pdf
+│   │   │   ├── 📄 Contôle1-17-18.pdf
+│   │   │   ├── 📄 Contrôle1-18-19.pdf
+│   │   │   └── 📄 CC1-SMA-2019-2020.pdf
+│   │   ├── 📁 Ratt /
+│   │   │   ├── 📄 Contôle-ratt-17-18.pdf
+│   │   │   ├── 📄 Contrôle-ratt-18-19.pdf
+│   │   │   ├── 📄 Contrôle-Ratt-SMA-2019-2020.pdf
+│   │   │   ├── 📄 Contôle-ratt-14-15.pdf
+│   │   │   ├── 📄 Contôle-ratt-15-16.pdf
+│   │   │   ├── 📄 Contrôle-ratt-16-17.pdf
+│   │   │   ├── 📄 Contôle-ratt-13-14.pdf
+│   │   │   ├── 📄 Contôle-ratt-12-13.pdf
+│   │   │   ├── 📄 Contôle-rat-10-11.pdf
+│   │   │   ├── 📄 Contrôle-ratt-08-09.pdf
+│   │   │   ├── 📄 Contrôle-ratt1-04-05.pdf
+│   │   │   └── 📄 Contôle-ratt-11-12.pdf
+│   │   └── 📁 Contr/
+│   │       ├── 📄 ElectroMag Contôle1-SMP_ 17-18.pdf
+│   │       ├── 📄 ElectroMag Contôle1-SMP_ 16-17.pdf
+│   │       ├── 📄 ElectroMag Contôle-ratt-SMP_ 17-18.pdf
+│   │       ├── 📄 ElectroMag Contôle1-SMP_ 04-05.pdf
+│   │       ├── 📄 ElectroMag Contôle1-SMP_ 13-14.pdf
+│   │       ├── 📄 ElectroMag Contôle1-SMP_ 14-15.pdf
+│   │       ├── 📄 ElectroMag Contôle1-SMP_ 07-08.pdf
+│   │       ├── 📄 ElectroMag Contôle1-SMP_ 05-06.pdf
+│   │       ├── 📄 ElectroMag Contôle1-SMP_ 12-13.pdf
+│   │       ├── 📄 ElectroMag Contôle1-SMP_ 15-16.pdf
+│   │       ├── 📄 ElectroMag Contôle1-SMP_ 11-12.pdf
+│   │       ├── 📄 ElectroMag Contôle1-SMP_ 10-11.pdf
+│   │       ├── 📄 ElectroMag Contôle1-SMP_ 08-09.pdf
+│   │       ├── 📄 ElectroMag Contôle1-SMP_ 06-07.pdf
+│   │       ├── 📄 ElectroMag Contôle-ratt-SMP_11-12.pdf
+│   │       ├── 📄 ElectroMag Contôle2-SMP_ 05-06.pdf
+│   │       ├── 📄 ElectroMag Contôle2-SMP_ 10-11.pdf
+│   │       ├── 📄 ElectroMag control SMP_  2005-6.pdf
+│   │       ├── 📄 ElectroMag Contrôle-Ratt-SMA-2019-2020.pdf
+│   │       ├── 📄 ElectroMag Contrôle-ratt-SMP_ 08-09.pdf
+│   │       ├── 📄 ElectroMag Contrôle-ratt-SMP_ 16-17.pdf
+│   │       ├── 📄 ElectroMag Contôle-ratt-SMP_ 15-16.pdf
+│   │       ├── 📄 ElectroMag Contôle-ratt-SMP_12-13.pdf
+│   │       ├── 📄 ElectroMag Contôle-ratt-SMP_ 14-15.pdf
+│   │       ├── 📄 ElectroMag Contrôle-ratt1-SMP_ 04-05.pdf
+│   │       ├── 📄 ElectroMag Contrôle-ratt-SMP_ 18-19.pdf
+│   │       ├── 📄 ElectroMag Contrôle1-SMP_ 18-19.pdf
+│   │       ├── 📄 ElectroMag Contôle-ratt-SMP_ 13-14.pdf
+│   │       ├── 📄 ElectroMag Contôle-rat-SMP_10-11.pdf
+│   │       ├── 📄 ElectroMag Contôle-2SMP-11-12.pdf
+│   │       ├── 📄 ElectroMag-Contrôle-1+Correction-SMP_09-10 .pdf
+│   │       ├── 📄 Ratt-Elect2-2021-2022.pdf
+│   │       ├── 📄 cc1 Elect2-2021-2022.pdf
+│   │       ├── 📄 ratt electromag 22-23.pdf
+│   │       ├── 📄 corr normale 20-21.pdf
+│   │       ├── 📄 ratt+corr 20-21.pdf
+│   │       ├── 📄 control electro 2022-23.pdf
+│   │       ├── 📄 CC1-SMA-2019-2020.pdf
+│   │       ├── 📄 exam electro.pdf
+│   │       ├── 📄 Contrôles Electromagnétisme s3 .pdf
+│   │       ├── 📄 Sol-CC1-SMA-20-21.PDF
+│   │       └── 📄 CC1Electro-SMA-2019-2020.pdf
+│   ├── 📁 Books/
+│   │   └── 📄 null-1.pdf
+│   └── 📁 SMP/
+│       ├── 📄 All_TD_sohayb.pdf
+│       └── 📄 Electro Serie 2.pdf
+├── 🔗📁 Magnetostatique SMI/  (raccourci)
+│   ├── 📄 Corrigé Examen SMI session Rattrapage 2024.pdf
+│   ├── 📄 Examen SMI session Rattrapage 2024.pdf
+│   ├── 📄 Corrigé Examen SMI session normale 2024.docx.pdf
+│   ├── 📄 Examen SMI session normale 2024.pdf
+│   ├── 📄 Corrig- S-rie n-2.pdf
+│   ├── 📄 Corrig- s-rie n-4.pdf
+│   ├── 📄 Corrig- s-rie n-4.pdf
+│   ├── 📄 Corrig- S-rie n-3.pdf
+│   ├── 📄 Corrig- s-rie n-1.pdf
+│   ├── 📄 Corrig- S-rie n-2.pdf
+│   ├── 📄 Corrig- s-rie n-4.pdf
+│   ├── 📄 Resumé electromagnetisme s3 fsr.pdf
+│   ├── 📄 Résumé1 Electromagnétisme SMP3 SMC3.pdf
+│   ├── 📄 td4 magnétostatique.pdf
+│   ├── 📄 TD3 magnétostatique.pdf
+│   ├── 📄 td2 magnétostatique.pdf
+│   ├── 📄 td1 magnétostatique.pdf
+│   ├── 📄 TD3 magnétostatique smi.pdf
+│   ├── 📄 td2 magnétostatique smi.pdf
+│   ├── 📄 Polycopié des travaux pratiques  SMI S4.pdf
+│   └── 📄 Magnetostatique dans le vide SMI s4 (2023-2024.pdf
+├── 🔗📁 [P134] Électromagnétisme/  (raccourci)
+│   ├── 📁 [P134] Bonus/
+│   │   ├── 📄 TD éléctrostatique1.pdf
+│   │   ├── 📄 éléctricité-03-exercices-04.pdf
+│   │   ├── 📄 controles Eletromagnetisme avec corrections.pdf
+│   │   ├── 📄 électromagnétisme resume.pdf
+│   │   ├── 📄 Resumé Examen.pdf
+│   │   ├── 📄 Chapite 3 Electro.pdf
+│   │   ├── 📁 Examens/
+│   │   │   ├── 📄 Examen_em_FST.pdf
+│   │   │   ├── 📄 Exam Electro 2021.pdf
+│   │   │   └── 📄 Examen.pdf
+│   │   ├── 📁 TD/
+│   │   │   ├── 📄 02.jpeg
+│   │   │   ├── 📄 04.jpeg
+│   │   │   ├── 📄 03.jpeg
+│   │   │   └── 📄 01.jpeg
+│   │   └── 📁 TP/
+│   │       ├── 📄 c6296e37-91db-48dd-bf7c-1a3417a04815.jpg
+│   │       ├── 📄 28cb5023-3062-4cc4-b0e7-fdd5eeee7fb8.jpg
+│   │       ├── 📄 Polycope TP P134 (without bullshit).pdf
+│   │       ├── 📄 2.jpeg
+│   │       ├── 📄 3.jpg
+│   │       ├── 📄 4.jpg
+│   │       ├── 📄 6.jpg
+│   │       ├── 📄 5.jpg
+│   │       ├── 📄 1.jpeg
+│   │       └── 📄 Polycope TP P134-converti.pdf
+│   ├── 📁 [P134] Cours/
+│   │   ├── 📄 P134 chapitre 2.pdf
+│   │   ├── 📄 P134 chapitre 4.pdf
+│   │   ├── 📄 Cours P134.pdf
+│   │   ├── 📄 Cours P134.pdf
+│   │   └── 📄 Polycope Cours P134.pdf
+│   ├── 📁 [P134] TD/
+│   │   ├── 📄 TD3-exo3-corr.pdf
+│   │   ├── 📄 poly.td.P134.pdf
+│   │   ├── 📄 TD 1 - Électromagnétisme correction.pdf
+│   │   ├── 📄 TD 3 - Électromagnétisme correction.pdf
+│   │   ├── 📄 TD correction P134.pdf
+│   │   ├── 📄 TD P134.pdf
+│   │   └── 📄 Exercices de Révision 1_221221_131434.pdf
+│   ├── 📁 [P134] TP/
+│   │   ├── 📄 Exemple TP P134.pdf
+│   │   └── 📄 TP P134.pdf
+│   └── 📁 [P134] Archive/
+│       ├── 📄 P134-Archive.pdf
+│       ├── 📄 P134-Archive.pdf
+│       ├── 📁 Pr.bakour/
+│       │   ├── 📄 Correction Examen EM (1).pdf
+│       │   └── 📄 Exam P134 2023.pdf
+│       └── 📁 Pr.tbato/
+│           ├── 📄 P134 - Examen Automne 2021.pdf
+│           ├── 📄 corr-exam-2021.pdf
+│           └── 📄 P134-exam-2023.pdf
+├── 🔗📁 Magnétostatique/  (raccourci)
+│   ├── 📄 formulaire.pdf
+│   ├── 📁 EXERCICES/
+│   │   ├── 📄 correction.pdf
+│   │   ├── 📄 serie2.pdf
+│   │   └── 📄 TD_serie1.pdf
+│   └── 📁 COURS/
+│       ├── 📄 PC-B-complements.pdf
+│       ├── 📄 3-précis-électromagnétisme-By-goodprepa.pdf
+│       ├── 📄 1.pdf
+│       ├── 📄 magneto_part3.pdf
+│       ├── 📄 MAGNETISME.pdf
+│       ├── 📄 magneto_part2.pdf
+│       ├── 📄 Nouveaux_pr_233_cis_d_39__201_lectromagn_233_tisme_PC-PSI.pdf
+│       └── 📄 magneto_part1.pdf
+├── 🔗📁 électromagnétisme/  (raccourci)
+│   ├── 📁 cours/
+│   │   ├── 📄 chap 7 electromag (KH)
+│   │   ├── 📄 chap 6 electromag (KH)
+│   │   ├── 📄 chap 5 electromag (KH)
+│   │   ├── 📄 chap 4 electromag (KH)
+│   │   ├── 📄 chap 3 electromag (KH)
+│   │   ├── 📄 chap 2 electromag (KH)
+│   │   └── 📄 chap 1 electromag (KH)
+│   ├── 📁 TD/
+│   │   ├── 📄 td 4 electromag (KH)
+│   │   ├── 📄 td 3 electromag (KH)
+│   │   ├── 📄 td 2 electromag (KH)
+│   │   ├── 📄 td 1 electromag (KH)
+│   │   └── 📄 rappel+exercices electromagnétisme.pdf
+│   ├── 📁 devoirs/
+│   │   ├── 📄 devoirs electromag 2019
+│   │   ├── 📁 examen/
+│   │   │   ├── 📄 examen 2016 5.jpg
+│   │   │   ├── 📄 examen 2016 4.jpg
+│   │   │   ├── 📄 examen 2014 5.jpeg
+│   │   │   ├── 📄 examen 2014 4.jpeg
+│   │   │   ├── 📄 examen 2014 3.jpeg
+│   │   │   ├── 📄 examen 2014 2.jpeg
+│   │   │   ├── 📄 examen 2014 1.jpeg
+│   │   │   ├── 📄 examen 2015.jpeg
+│   │   │   ├── 📄 examen 2016 3.jpeg
+│   │   │   ├── 📄 examen 2016 1.jpeg
+│   │   │   ├── 📄 examen 2016 2.jpeg
+│   │   │   ├── 📄 examen 2017 3.jpeg
+│   │   │   ├── 📄 examen 2017 2.jpeg
+│   │   │   └── 📄 examen 2017 1.jpeg
+│   │   └── 📁 ds/
+│   │       ├── 📄 53900759_1250813525076404_549437870343979008_n.jpg
+│   │       ├── 📄 52970903_1250813471743076_5710161210465320960_n.jpg
+│   │       ├── 📄 53500046_1250813401743083_3275509739747803136_n.jpg
+│   │       ├── 📄 53209758_1250813331743090_1657389912015503360_n.jpg
+│   │       ├── 📄 53423747_1250813278409762_5641211274374152192_n.jpg
+│   │       ├── 📄 53231489_1250813238409766_7139681207389782016_n.jpg
+│   │       ├── 📄 52410488_1250813185076438_8706979073655570432_n.jpg
+│   │       ├── 📄 52861827_1250813138409776_7732967189132607488_n.jpg
+│   │       ├── 📄 53262091_1250812765076480_7978761742211612672_n.jpg
+│   │       └── 📄 52952743_1250812341743189_1523764155062943744_n.jpg
+│   └── 📁 resumé/
+│       └── 📄 resumé electromag (KH) .pdf
+├── 🔗📁 °°ELECTRICITE2 SABORPCMATH/  (raccourci)
+│   ├── 📄 1  Correction_des_exercices-libre by sabor lar.pdf
+│   ├── 📄 125206708_132390105306423_1857318638155319835_n.png
+│   ├── 📁 TDS/
+│   │   ├── 📄 °TDs ELECTRICITE2 FST-TETOUAN 20-21 SMP.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FST-TETOUAN 20-21 SMA.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FST-TETOUAN 19-20 SMP.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FST-TETOUAN 19-20 SMC3.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FST-TETOUAN 14-15 SMP.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FST-TANGER.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSSM-MARRAKECH 20-21 SMP SMC.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSSM-MARRAKECH 20-21 SMA.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSR-RABAT SMI 2020.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSR-RABAT 19-20 SMC.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSR-RABAT 15-16 SMP.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSR-RABAT 14-15 SMP SMA.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSO-OUAJDA 19-20 SMI.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSO-OUAJDA 12-13 SMPC.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSM-MEKNES 21-22 SMP.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSM-MEKNES 21-22 SMC.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSM-MEKNES 20-21 SMP.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSM-MEKNES 19-20 SMI.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSM-MEKNES 18-19 SMP.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSJ-ELJADIDA SMC 14-15.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSJ-ELJADIDA SMA.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSJ 2020 SMI.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSDM-FES 2020 SMI.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSDM-FES 21-22 SMC.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSDM-FES 20-21 SMA.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSBM 20-21 SMP.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSBM 20-21 SMC.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSBM 20-21 SMA.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSBM 14-15 SMP3.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSBM 10-11 SMC3.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSAC SMP.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSAC 2020 SMA.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSAC 21-22 SMC.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSAC 20-21 SMP.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSA-AGADIR SMI 2020.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSA-AGADIR 21-22 SMP.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSA-AGADIR 20-21 SMP.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSA-AGADIR 16-17 SMP.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FSA-AGADIR 08-09.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FS-TETOUAN SMI 2020.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FS-TETOUAN 15 16 F.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FPT-TAZA SMI 2020.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FPN-SAFI SMP 2020.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FPN-NADOR SMA SMPC.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 FPN-NADOR 2020 SMI.pdf
+│   │   ├── 📄 °TDs ELECTRICITE2 ENSA-FES 2015.pdf
+│   │   └── 📄 °TDs COURS ELECTRICITE2  FPN-NADOR SMA SMPC.pdf
+│   ├── 📁 COURS/
+│   │   ├── 📄 °°COURSs ELECTRICITE2 FS-TETOUAN SMC 19-20.pdf
+│   │   ├── 📄 °°COURs TDS ELECTRICITE2 ENSA-SAFI.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSSM 2017.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSSM 20-21 SMA.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSSM 18-19 SMP.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSSM 17-18 SMP.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSR 14-15 SMP.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSO-OUAJDA 2017 SMC.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSO-OUAJDA 2012 SMPC.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSO-OUAJDA 19-20 SMI.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSM-MEKNES 2020 SMI.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSM-MEKNES 21-22 SMC.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSM-MEKNES 20-21 SMP.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSK-KENITRA 2015 SMP.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSDM-FES 2020 SMI.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSDM-FES 2018 SMP.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSDM-FES 21-22 SMC.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSDM-FES 20-21 SMP.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSDM-FES 20-21 SMA.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSBM 2012 SMP.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSBM 2011 SMC.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSBM 20-21 SMP.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSBM 20-21 SMC.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSBM 06-07 SMP.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSAC-CASA 2020 SMI.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSAC-CASA 21-22 SMC.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSAC-CASA 20-21 SMP.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSAC-CASA 20-21 SMA.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSA-AGADIR 2012 SMP.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSA-AGADIR 21-22.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FSA-AGADIR 20-21 SMP.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FS-TETOUAN SMI 2020.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FS-TETOUAN 14-15 SMP.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FS-TETOUAN 12-13 SMP.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FPT-TAZA 2020 SMI.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FPS-SAFI.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FPN-NADOR.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FPN-NADOR 2020 SMI.pdf
+│   │   ├── 📄 °°COURs ELECTRICITE2 FPK-KHOURIBA 20-21 SMA.pdf
+│   │   └── 📄 °°COURs ELECTRICITE FSJ 2020 SMI.pdf
+│   └── 📁 EXAMENS/
+│       ├── 📄 °°°EXAMENS ELECTRICITE2 FST-TETOUAN SMP  BY SABOR.pdf
+│       ├── 📄 °°°EXAMENS ELECTRICITE2 FSSM SMA.pdf
+│       ├── 📄 °°°EXAMENs ELECTRICITE2 FSSM  SMP 20102020 BY SABOR.pdf
+│       ├── 📄 °°°EXAMENS ELECTRICITE2 FSO.pdf
+│       ├── 📄 °°°EXAMENS ELECTRICITE2 FSM-MEKNES SMP SMC.pdf
+│       ├── 📄 °°°EXAMENS ELECTRICITE2 FSk.pdf
+│       ├── 📄 °°°EXAMENS ELECTRICITE2 FSJ-ELJADIDA SMA.pdf
+│       ├── 📄 °°°EXAMENS ELECTRICITE2 FSDM-FES  SMAI SMPC.pdf
+│       ├── 📄 °°°EXAMENS ELECTRICITE2 FSDM-FES  17 18.pdf
+│       ├── 📄 °°°EXAMENS ELECTRICITE2 FSDM SMPC SMI.pdf
+│       ├── 📄 °°°EXAMENS ELECTRICITE2 FSAC.pdf
+│       ├── 📄 °°°EXAMENS ELECTRICITE2 FSAC SMC.pdf
+│       ├── 📄 °°°EXAMENS ELECTRICITE2 FSAC SMA.pdf
+│       ├── 📄 °°°EXAMENS ELECTRICITE2 FSA-AGADIR.pdf
+│       ├── 📄 °°°EXAMENS ELECTRICITE2 FSA-AGADIR SMP SMC.pdf
+│       └── 📄 °°°EXAEMENs TDs ELECTRICITE2 FPO.pdf
+├── 🔗📁 °Electromagnétisme & electricite 3  ENSA FST SMP/  (raccourci)
+│   ├── 📄 ELECTROMAGNÉTISME-S4 TD FST MOHAMMEDIA.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 TD FST G MARRAKECH.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 TD FST FES.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 TD FST ERRACHIDIA.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 TD FSSM.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 TD FSR.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 TD FSO.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 TD FSM.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 TD FSJ.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 TD FSDM.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 TD FSBM 19 20.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 TD FSBM 2.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 TD FS-TETOUAN.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 TD FPT TAZA.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 TD FPS SAFI.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 TD FPO.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 TD FP KHOURIBGHA.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 TD ENSA AGADIR.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 EXAMENS FSSM.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 EXAMENS FS-TETOUAN.pdf
+│   ├── 📄 ELECTROMAGNÉTISME-S4 EXAMENS FPO.pdf
+│   ├── 📄 +TD ELECTROMAGNÉTISME-S4 SMP FSAC CASABLANCA 20 21.pdf
+│   ├── 📄 +TD ELECTROMAGNÉTISME-S4 SMP FSA AGADIR 20 21.pdf
+│   ├── 📄 +TD Electricité 3 FSM MEKNES 21 22.pdf
+│   ├── 📄 +S4 TD Electromagnétisme ENSA TETOUAN.pdf
+│   ├── 📄 +S4 EXAMENS ENSAJ Eléctromagnétisme ENSA ELJADIDA.pdf
+│   ├── 📄 +FST TANGER TD électromagnétisme S4 MIP.pdf
+│   ├── 📄 +FST TANGER COURS Électromagnétisme S4 MIP.pdf
+│   ├── 📄 +FSSM TD 20 21 Electromagnétisme dans la matière.pdf
+│   ├── 📄 +FSSM TD 16 17 Electromagnétisme dans la matière partie 1.pdf
+│   ├── 📄 +FSSM TD 13 14 Electromagnétisme dans la matière partie 1.pdf
+│   ├── 📄 +FSM MEKNES EXAMENS ELECTRICITE2.pdf
+│   ├── 📄 +EXAMENS ELECTROMAGNÉTISME-S4 SMP FSAC CASABLANCA.pdf
+│   ├── 📄 +EXAMENS ELECTROMAGNÉTISME-S4 SMP FSA AGADIR 20 21.pdf
+│   ├── 📄 +COURS ELECTROMAGNÉTISME-S4 COURS ENSA AGADIR.pdf
+│   ├── 📄 °TD FSDM FES electromagnetique  S4 SMP.pdf
+│   ├── 📄 +COURS ELECTROMAGNÉTISME-S4 SMP FSA AGADIR 20 21.pdf
+│   ├── 📄 +COURS ELECTRICITE3 FPK KHORIBGA SMP4.pdf
+│   ├── 📄 +S4 COURS Electromagnétisme ENSA TETOUAN.pdf
+│   ├── 📄 +COURS ELECTROMAGNÉTISME-S4 SMP FSAC CASABLANCA 20 21.pdf
+│   ├── 📄 +S4 COURS ENSAJ Eléctromagnétisme -Présentation.pdf
+│   ├── 📄 +S4 COURS ENSAJ Eléctromagnétisme.pdf
+│   └── 📄 °COURS ELECTRICITE3 FSDM FES 19 20.pdf
+├── 🔗📁 ++ELECTROSTATIQUE & ELECTROCINETIQUE SABORPCMATH.COM/  (raccourci)
+│   ├── 📄 +TDS SMPC ELECTRICITE FPO-OUARZAZATE 19 20 B.pdf
+│   ├── 📄 +TDS SMPC ELECTRICITE FPO-OUARZAZATE 19 20 A.pdf
+│   ├── 📄 +Tds electricite FSAC.pdf
+│   ├── 📄 +TD magnetostatique ENSA ELJADIDA + examens.pdf
+│   ├── 📄 +TD ELECTROSTATIQUE FSA AGADIR 15 16.pdf
+│   ├── 📄 +TD ELECTROSTATIQUE ENSA-TANGER 2019-2020.pdf
+│   ├── 📄 +TD ELECTRICITE1 FSR 14-15.pdf
+│   ├── 📄 +TD ELECTRICITE1 FSR 13-14.pdf
+│   ├── 📄 +TD ELECTRICITE SMPC FST-TETOUAN 2019-2020 SMPC.pdf
+│   ├── 📄 +TD ELECTRICITE SMPC FST-TETOUAN 2018-2019 SMPC.pdf
+│   ├── 📄 +TD ELECTRICITE SMPC FST-TETOUAN 2014-2015 SMPC.pdf
+│   ├── 📄 +TD ELECTRICITE SMPC FST-TETOUAN 2013-2014 SMPC.pdf
+│   ├── 📄 +TD ELECTRICITE SMPC FST-TETOUAN 2008-2009 SMPC.pdf
+│   ├── 📄 +TD ELECTRICITE SMPC FST-TETOUAN 2007-2008 SMPC.pdf
+│   ├── 📄 +TD ELECTRICITE SMPC FSO OUAJDA 19 20.pdf
+│   ├── 📄 +TD ELECTRICITE SMPC FSM MEKNES 19 20.pdf
+│   ├── 📄 +TD ELECTRICITE SMPC FSJ-ELJADIDA 2019-2020.pdf
+│   ├── 📄 +TD ELECTRICITE SMPC FSDM FES 20 21.pdf
+│   ├── 📄 +TD ELECTRICITE SMPC 19 20 FPN NADOR.pdf
+│   ├── 📄 +TD ELECTRICITE SMAI FST-TETOUAN 2019-2020 SMAI.pdf
+│   ├── 📄 +TD ELECTRICITE SMAI FSO OUAJDA 19 20.pdf
+│   ├── 📄 +TD ELECTRICITE SMAI FSM MEKNES 19 20.pdf
+│   ├── 📄 +TD ELECTRICITE SMAI FSJ-ELJADIDA 2019-2020.pdf
+│   ├── 📄 +TD ELECTRICITE SMAI FSDM FES 19 20.pdf
+│   ├── 📄 +TD ELECTRICITE SMAI FPO-OUARZAZATE.pdf
+│   ├── 📄 +TD ELECTRICITE SMAI 19 20 FPN NADOR.pdf
+│   ├── 📄 +TD ELECTRICITE FST MOHAMEDIA.pdf
+│   ├── 📄 +TD ELECTRICITE FST MARRAKECH MIPC 19 20.pdf
+│   ├── 📄 +TD ELECTRICITE FST MARRAKECH MIPC 14 15.pdf
+│   ├── 📄 +TD ELECTRICITE FST FES MIPC 19 20 B.pdf
+│   ├── 📄 +TD ELECTRICITE FST FES MIPC 19 20 A.pdf
+│   ├── 📄 +TD ELECTRICITE FST ERRACHIDIA MIPC 19 20 F.pdf
+│   ├── 📄 +TD ELECTRICITE FSSM MARRAKECH SMAI 19-20-21-22.pdf
+│   ├── 📄 +TD ELECTRICITE FSR SMPC 2019 2020.pdf
+│   ├── 📄 +TD ELECTRICITE FSR SMPC 2018 2019.pdf
+│   ├── 📄 +TD ELECTRICITE FSR SMAI 2019 2020.pdf
+│   ├── 📄 +TD ELECTRICITE FSK KENITRA 2015-2016.pdf
+│   ├── 📄 +TD ELECTRICITE FSK KENITRA 2013-2014.pdf
+│   ├── 📄 +TD ELECTRICITE FSJ-ELJADIDA 2010-2011.pdf
+│   ├── 📄 +TD ELECTRICITE FSBM-CASA 19 20.pdf
+│   ├── 📄 +TD ELECTRICITE FSA AGADIR 20 21 22.pdf
+│   ├── 📄 +TD ELECTRICITE FSA AGADIR 19 20 SMPC SMAI.pdf
+│   ├── 📄 +TD ELECTRICITE FPT TAZA SMPC 19 20 B.pdf
+│   ├── 📄 +TD ELECTRICITE FPT TAZA SMPC 19 20 A.pdf
+│   ├── 📄 +TD ELECTRICITE FPT TAZA SMAI 19 20.pdf
+│   ├── 📄 +TD ELECTRICITE FPS-SAFI 19 20 SMPC.pdf
+│   ├── 📄 +TD ELECTRICITE FPS-SAFI 19 20 SMAI.pdf
+│   ├── 📄 +TD ELECTRICITE FPK-KHOURIBGHA 2020.pdf
+│   ├── 📄 +TD ELECTRICITE FPBM 19 20 SMPC SMAI.pdf
+│   ├── 📄 +TD ELECTRICITE ESEF-BM 2020.pdf
+│   ├── 📄 +TD ELECTRICITE ENSAO CP1.pdf
+│   ├── 📄 +TD ELECTRICITE ENSAM CP1.pdf
+│   ├── 📄 +TD ELECTRICITE ENSA TETOUAN.pdf
+│   ├── 📄 +TD ELECTRICITE ENSA TETOUAN 11 12.pdf
+│   ├── 📄 +TD ELECTRICITE ENSA TANGER 14 15 16 17.pdf
+│   ├── 📄 +TD ELECTRICITE ENSA KENITRA 14-15.pdf
+│   ├── 📄 +TD ELECTRICITE ENSA KENITRA 12-13.pdf
+│   ├── 📄 +TD ELECTRICITE ENSA FES 2016.pdf
+│   ├── 📄 +TD ELECTRICITE ENSA ELJDIDA cp1 +examens 2020.pdf
+│   ├── 📄 +TD ELECTRICITE ENSA AGADIR 20-21.pdf
+│   ├── 📄 +TD ELECTRICITE ENSA AGADIR 16-17-18.pdf
+│   ├── 📄 +TD ELECTRICITE ENS TETOUAN.pdf
+│   ├── 📄 +TD ELECTRICITE ENS FES.pdf
+│   ├── 📄 +TD électricité + EXAMENS FSAC-CASABLANCA.pdf
+│   ├── 📄 +Td devoir électrostatique ELECTRICITE ENSAJ.pdf
+│   ├── 📄 +TD COURS ELECTRICITE SMPC 20 21 FPL LARACH.pdf
+│   ├── 📄 +TD COURS ELECTRICITE SMAI 20 21 FPL LARACH.pdf
+│   ├── 📄 +TD COURS ELECTRICITE FPK KHOURIBGA 19 20.pdf
+│   ├── 📄 +TD COURS ELECTRICITE ENSAM CASA CP1.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE FST-TETOUAN 2006 2019.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE FST BENI-MELLAL 13 14.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE FSSM MARRAKECH SMPC.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE FSSM MARRAKECH SMAI.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE FSR SMPC SMAI.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE FSR SMPC SMAI 2002-2018.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE FSO-OUAJDA 2017 2019.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE FSK-KENITRA 2010 2016.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE FSJ ELJADIDA.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE FSAC CASABLANCA SMPC.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE FSAC CASABLANCA SMAI.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE FSA AGADIR SMPC.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE FSA AGADIR SMAI.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE FPT TAZA.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE FPS-SAFI 15 16.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE FPN NADOR B.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE FPN NADOR A.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE ENSAM CP1.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE ENSA TANGER.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE ENSA KENITRA.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE ENSA ELJDIDA.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE ENSA AGADIR.pdf
+│   ├── 📄 +COURS ELECTRICITE ENSA HOCIEMA.pdf
+│   ├── 📄 +COURS ELECTRICITE SMAI FSM MEKNES 19 20.pdf
+│   ├── 📄 +COURS ELECTRICITE FST MOHAMEDIA.pdf
+│   ├── 📄 +COURS ELECTRICITE SMPC FSM MEKNES 19 20.pdf
+│   ├── 📄 +Cours électricité SMPC 2021_2022.pdf
+│   ├── 📄 +COURS ELECTRICITE SMPC FPK KHOURIBGA 19 20.pdf
+│   ├── 📄 +COURS ELECTRICITE SMPC FSO OUAJDA 19 20.pdf
+│   ├── 📄 +COURS ELECTRICITE FST MARRAKECH MIPC 19 20 A.pdf
+│   ├── 📄 +COURS ELECTRICITE FST MARRAKECH MIPC 19 20 B.pdf
+│   ├── 📄 +COURS ELECTRICITE SMAI FSO OUAJDA 19 20.pdf
+│   ├── 📄 +COURS ELECTRICITE FST ERRACHIDIA MIPC 19 20.pdf
+│   ├── 📄 +COURS ELECTRICITE SMPC FSM MEKNES 19 20 B.pdf
+│   ├── 📄 +Cours électricité SMC 2018_2019.pdf
+│   ├── 📄 +EXAMENS ELECTRICITE FSAC CASABLANCA.pdf
+│   └── 📄 +COURS ELECTRICITE SMPC FSM MEKNES 19 20 A.pdf
+├── 📄 Travaux dirigés d’électromagnétisme avec Corrections.pdf
+├── 📄 TD 1 Magnetostatique
+├── 📄 TD Electromagnetisme
+├── 📄 Exercices Formulaire de Magnétostatique
+├── 📄 Exercices Circuits Magnetiques
+├── 📄 Cours ARQS Induction electromagnetique
+├── 📄 TD  d’Électromagnétisme Courant Alternatif.pdf
+├── 📄 Exercices corrigés Electromagnetisme 
+├── 📄 Exercices Electromagnetisme Revision
+├── 📄 cours Magnetostatique Reformulation de l'expression du champ magnetique
+├── 📄 TD 1 Electromagnetisme SMP3
+├── 📄 Cours  Magnetostatique du vide
+├── 📄 Exercices Induction electromagnetique
+├── 📄 TD 4 Force de Lorentz
+├── 📄 Cours Symétrie Invariance Electromagnetisme
+├── 📄 TD 2 Electromagnetisme
+├── 📄 TD 6 Magnétostatique
+├── 📄 Exercices Electromagnetisme
+├── 📄 Cours et exercices corrigés Magnetisme
+├── 📄 Exercices Electromagnetisme SMP3 Test en TD1 Diouri
+├── 📄 TD 4  Magnetostatique
+├── 📄 Exercices  correction Serie 1
+├── 📄 Exercices Inductances mutuelle et propre et energie magnetique
+├── 📄 Cours Magnetostatique
+├── 📄 Exercices Magnetostatique revisions PC
+├── 📄 Cours Equation de Maxwell Ampere dans le regime variable
+├── 📄 TD 1 Physique Ondes Electromagnetiques
+├── 📄 Cours Approximation des regimes quasi stationnaires
+├── 📄 Cours Equation Locale Conservation Charges
+├── 📄 TD 1  Magnetostatique dans le vide  SMP S3
+├── 📄 Cours Electromagnetisme Inductances Propres et Mutuelles des Circuits Electriques
+├── 📄 Cours ARQS Induction Electromagnetique
+├── 📄 Cours Complements Mathematiques
+├── 📄 Exercices Electromagnetisme SMP3
+├── 📄 Exercices Electromagnetisme SMP3 Test en TD
+├── 🔗📁 °°ELECTRICITE2 BY SABOR/  (raccourci)
+│   ├── 📄 125206708_132390105306423_1857318638155319835_n.png
+│   ├── 📄 °TDs ELECTRICITE2 FSM-MEKNES 18-19.pdf
+│   ├── 📄 °TDs COURS ELECTRICITE2  FPN-NADOR SMA SMPC.pdf
+│   ├── 📄 °TDs ELECTRICITE2 FPN-NADOR SMA SMPC.pdf
+│   ├── 📄 °TDs ELECTRICITE2 ENSA-FES 2015.pdf
+│   ├── 📄 °TDs ELECTRICITE2 FPN-SAFI SMP 2020.pdf
+│   ├── 📄 °TDs ELECTRICITE2 FSA-AGADIR 08-09.pdf
+│   ├── 📄 °°°EXAMENS ELECTRICITE2 FSAC.pdf
+│   ├── 📄 °TDs ELECTRICITE2 FSBM 14-15 SMP3.pdf
+│   ├── 📄 °TDs ELECTRICITE2 FSBM 10-11 SMC3.pdf
+│   ├── 📄 °°°EXAMENS ELECTRICITE2 FSDM SMPC SMI.pdf
+│   ├── 📄 °°°EXAMENS ELECTRICITE2 FSk.pdf
+│   ├── 📄 °°°EXAMENS ELECTRICITE2 FSO.pdf
+│   ├── 📄 °TDs ELECTRICITE2 FSO-OUAJDA 12-13.pdf
+│   ├── 📄 °°°EXAMENs ELECTRICITE2 FSSM  SMP 20102020 BY SABOR.pdf
+│   ├── 📄 °TDs ELECTRICITE2 FST-TANGER.pdf
+│   ├── 📄 °°°EXAMENSs ELECTRICITE2 FP-TETOUAN SMP  BY SABOR.pdf
+│   ├── 📄 °TDs ELECTRICITE2 FS-TETOUAN 15 16 F.pdf
+│   ├── 📄 °TDs ELECTRICITE2 FSJ-ELJADIDA SMC 14-15.pdf
+│   ├── 📄 °TDs ELECTRICITE2 FSAC.pdf
+│   ├── 📄 °°COURs ELECTRICITE2 FSR 14-15 SMP.pdf
+│   ├── 📄 °°COURs ELECTRICITE2 FSA-AGADIR 2012 SMP.pdf
+│   ├── 📄 °°°EXAMENS ELECTRICITE2 FSA-AGADIR.pdf
+│   ├── 📄 °°COURs ELECTRICITE2 FSBM 2012 SMP.pdf
+│   ├── 📄 °°COURs ELECTRICITE2 FSBM 2011 SMC.pdf
+│   ├── 📄 °°COURs ELECTRICITE2 FSSM 17-18 SMP.pdf
+│   ├── 📄 °°COURs ELECTRICITE2 FSDM-FES 2018 SMP.pdf
+│   ├── 📄 °°COURs ELECTRICITE2 FSK-KENITRA 2015 SMP.pdf
+│   ├── 📄 °°COURs ELECTRICITE2 FSO-OUAJDA 2017 SMC.pdf
+│   ├── 📄 °°COURs ELECTRICITE2 FSO-OUAJDA 2012 SMPC.pdf
+│   ├── 📄 °°COURs ELECTRICITE2 FS-TETOUAN 14-15 SMP.pdf
+│   ├── 📄 °°COURs ELECTRICITE2 FS-TETOUAN 12-13 SMP.pdf
+│   ├── 📄 °°COURs ELECTRICITE2 FPN-NADOR 2020 SMI.pdf
+│   ├── 📄 °°COURs ELECTRICITE2 FPT-TAZA 2020 SMI.pdf
+│   ├── 📄 °°COURs ELECTRICITE2 FS-TETOUAN SMI 2020.pdf
+│   ├── 📄 °°COURs ELECTRICITE2 FSAC-CASA 2020 SMI.pdf
+│   ├── 📄 °°COURs ELECTRICITE2 FSDM-FES 2020 SMI.pdf
+│   ├── 📄 °°COURs ELECTRICITE FSJ 2020 SMI.pdf
+│   ├── 📄 °°COURs ELECTRICITE2 FSM-MEKNES 2020 SMI.pdf
+│   ├── 📄 °TDs ELECTRICITE2 FPN-NADOR 2020 SMI.pdf
+│   ├── 📄 °TDs ELECTRICITE2 FPT-TAZA SMI 2020.pdf
+│   ├── 📄 °TDs ELECTRICITE2 FS-TETOUAN SMI 2020.pdf
+│   ├── 📄 °TDs ELECTRICITE2 FSA-AGADIR SMI 2020.pdf
+│   ├── 📄 °TDs ELECTRICITE2 FSDM-FES 2020 SMI.pdf
+│   ├── 📄 °°°EXAMENS ELECTRICITE2 FSDM-FES  17 18.pdf
+│   ├── 📄 °TDs ELECTRICITE2 FSR-RABAT SMI 2020.pdf
+│   ├── 📄 °TDs ELECTRICITE2 FSJ 2020 SMI.pdf
+│   ├── 📄 °°°EXAEMENs TDs ELECTRICITE2 FPO.pdf
+│   └── 📄 1  Correction_des_exercices-libre by sabor lar.pdf
+├── 🔗📁 Magnétostatique   (raccourci)
+└── 📁 TDs/
+    ├── 📄 P134-Archive.pdf
+    ├── 📄 P134-Archive.pdf
+    ├── 📄 Correction Examen EM (1).pdf
+    ├── 📄 Exam P134 2023.pdf
+    ├── 📄 corr-exam-2021.pdf
+    ├── 📄 P134 - Examen Automne 2021.pdf
+    ├── 📄 P134-exam-2023.pdf
+    ├── 📄 Exercices de Révision 1_221221_131434.pdf
+    ├── 📄 poly.td.P134.pdf
+    ├── 📄 TD 1 - Électromagnétisme correction.pdf
+    ├── 📄 TD 3 - Électromagnétisme correction.pdf
+    ├── 📄 TD correction P134.pdf
+    ├── 📄 TD P134.pdf
+    └── 📄 TD3-exo3-corr.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Électromagnétisme - Magnétostatique
+═════════════════════════════════════

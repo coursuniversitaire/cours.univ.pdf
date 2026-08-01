@@ -1,0 +1,119 @@
+📚 MODULE : cybersécurité                             
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module cybersécurité.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 cybersécurité/
+├── 🔗📁 15CS61- Cryptography, Network Security and Cyber Law/  (raccourci)
+│   ├── 📄 GD_CNSCL_7FEB2018_REPORT.doc
+│   ├── 📄 cnscl_content_beyond_syllabus.doc
+│   ├── 📄 Slowlearners_questions__cnscl_module2.docx
+│   ├── 📄 Toppers_questions_cnscl.docx
+│   ├── 📄 Slowlearners_questions__cnscl_module1.docx
+│   ├── 📄 CNS_assignment3_key.docx
+│   ├── 📄 PS_CNSCL_8FEB2018_REPORT.doc
+│   ├── 📄 Question Bank _MODULE_5_CNS&CL.docx
+│   ├── 📄 Question Bank _1_2_3_CNSCL_SWATHI.docx
+│   ├── 📄 DES_CNSCL_PPT.ppt
+│   ├── 📄 AV_CNSCL.doc
+│   ├── 📄 Question Bank _1_2_3_MODULES_CNS&CL.docx
+│   ├── 📄 CNSCL_Assignment -3.docx
+│   ├── 📄 CNSCL_assignment1_Questions.docx
+│   ├── 📄 CNSCL_assignment1_KEY.docx
+│   ├── 📄 Question Bank _MODULE4_CNS&CL.docx
+│   ├── 📄 assignment2CNSCL_questions.docx
+│   └── 📁 CNS Notes/
+│       ├── 📄 des example.pdf
+│       ├── 📁 CNS MODULE3/
+│       │   ├── 📄 Chapter 11.pptx
+│       │   ├── 📄 Chapter 10.pptx
+│       │   ├── 📄 Chapter 14 (1).pptx
+│       │   ├── 📄 Chapter 12.pptx
+│       │   ├── 📄 Chapter 8.pptx
+│       │   └── 📄 Chapter 13.pptx
+│       └── 📁 module 4 & 5/
+│           ├── 📄 Chapter 15.pptx
+│           ├── 📄 Apoorva-IDS.pptx
+│           ├── 📄 Chapter 21.pptx
+│           ├── 📄 Chapter 19.pptx
+│           ├── 📄 Chapter 25.pptx
+│           └── 📁 cyberlaw/
+│               ├── 📄 CyberSecurity.ppt
+│               ├── 📄 Information-Technology-Act 2000- An overview-sethassociatesppt.ppt
+│               ├── 📄 IT_Act_2000_NIIConsulting.ppt
+│               └── 📄 cyber-laws.ppt
+├── 🔗📁 CS/  (raccourci)
+│   ├── 📁 TP/
+│   │   ├── 📄 Gestion du pare-feu Windows via la ligne de commande.pdf
+│   │   ├── 📁 IGE47/
+│   │   │   ├── 📄 Atelier_4.pdf
+│   │   │   ├── 📄 Atelier_3.pdf
+│   │   │   ├── 📄 Atelier_2.pdf
+│   │   │   └── 📄 Atelier_1.pdf
+│   │   └── 📁 IGE46/
+│   │       ├── 📄 Atelier_4.pdf
+│   │       ├── 📄 Atelier_3.pdf
+│   │       ├── 📄 Atelier_2.pdf
+│   │       └── 📄 Atelier_1.pdf
+│   ├── 📁 résume/
+│   │   └── 📄 .N résume Cyber.pdf
+│   ├── 📁 Cahier/
+│   │   ├── 📄 .k CS.pdf
+│   │   └── 📄 .N cour Cyber.pdf
+│   └── 📁 Cours/
+│       └── 📁 Cour MmeABDERRAHIM/
+│           ├── 📄 4.Sécurité du Web et des applications.pdf
+│           ├── 📄 3.Sécurité des sytèmes dexploitation.pdf
+│           ├── 📄 2.Sécurité des réseaux.pdf
+│           ├── 📄 5.Introduction à la Cryptographie.pdf
+│           ├── 📄 1.Introduction à la Cybersécurité.pdf
+│           ├── 📄 Gestion du pare-feu Windows via la ligne de commande.pdf
+│           └── 📄 0.Plan du cours.pdf
+├── 📁 cours/
+│   ├── 📄 Cours Sécurité informatique séance 9.pdf
+│   ├── 📄 Cours Sécurité informatique séance 6.pdf
+│   ├── 📄 cybercrime.docx
+│   ├── 📄 Cours Sécurité informatique séance 13.pdf
+│   ├── 📄 Cours Sécurité informatique séance 8.pdf
+│   ├── 📄 Cours Sécurité informatique séance 11.pdf
+│   ├── 📄 Cours Sécurité informatique  P3.pdf
+│   ├── 📄 Cours Sécurité informatique  P2.pdf
+│   ├── 📄 Cours Sécurité informatique  5.pdf
+│   ├── 📄 Cours Sécurité informatique  séance 1.pdf
+│   ├── 📄 Cours Sécurité informatique  4.pdf
+│   ├── 📄 Cours Sécurité informatique  3.pdf
+│   ├── 📄 Cours Sécurité informatique  1.pdf
+│   ├── 📄 Cours Sécurité informatique séance 10.pdf
+│   ├── 📄 Cours Sécurité informatique  séance 2.pdf
+│   ├── 📄 Cours Sécurité informatique séance 12.pdf
+│   ├── 📄 Cours Sécurité informatique  séance 4.pdf
+│   └── 📄 Cours Sécurité informatique  séance 3.pdf
+└── 📁 crs td tp/
+    ├── 📄 TD 1.pdf
+    ├── 📄 Guide Tp4 (1).pdf
+    ├── 📄 Guide Tp3 (1).pdf
+    ├── 📄 Guide Tp5 (1).pdf
+    ├── 📄 TD 1 1.pdf
+    ├── 📄 Guide Tp2.pdf
+    ├── 📄 TD 2 S6.pptx
+    ├── 📄 flowTable.pdf
+    ├── 📄 CR1 (1).pdf
+    ├── 📄 Guide Tp1.pdf
+    ├── 📄 tp - ssh srv.pdf
+    ├── 📄 Tp2 DHCP STARVATION.pdf
+    ├── 📄 tp chiffrement.xlsx
+    └── 📄 TD 2 S6.pdf
+
+═════════════════════════════════════
+  Fin du fichier · cybersécurité
+═════════════════════════════════════

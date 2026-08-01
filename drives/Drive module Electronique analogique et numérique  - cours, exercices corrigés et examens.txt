@@ -1,0 +1,1241 @@
+📚 MODULE : Electronique analogique et numérique      
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Electronique analogique et numérique .
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Electronique analogique et numérique /
+├── 🔗📁 Livre_Exercices et Probl_corrig_lectronique analogique.pdf/  (raccourci)
+├── 🔗📁 livre cours et exo-delectronique-3e-ed-(2).pdf/  (raccourci)
+├── 🔗📁 EN/  (raccourci)
+│   ├── 📄 ~$RIE3_LES COMPTEURS_cor.docx
+│   ├── 📄 CHAPITRE 4_LES MEMOIRES.pdf
+│   ├── 📄 SERIE3_LES COMPTEURS_cor.docx
+│   ├── 📄 TEST3-20-21.docx
+│   ├── 📄 CHAPITRE 3_LES COMPTEURS.pdf
+│   ├── 📄 SERIE3_LES COMPTEURS (1).pdf
+│   ├── 📄 SERIE2_LES REGISTRES.pdf
+│   ├── 📄 CHAPITRE 2_LES REGISTRES.pdf
+│   ├── 📄 SERIE2_LES REGISTRES_cor.docx
+│   ├── 📄 TEST2_20_21.docx
+│   ├── 📄 TEST1-20-21.docx
+│   ├── 📄 Série 5_Les circuits de transcodage.pdf
+│   ├── 📄 CHAPITRE 5_Les transcodeurs.pdf
+│   ├── 📄 Chapitre 3_Les circuits arythmétiques.pdf
+│   ├── 📄 SERIE4_Les circuits d'aiguillage.pdf
+│   ├── 📄 Corrigé de la SERIE2.pdf
+│   ├── 📄 Corrigé de la SERIE4.pdf
+│   ├── 📄 CHAPITRE 4_Les circuits d'aiguillage.pdf
+│   ├── 📄 Corrigé de la SERIE3.pdf
+│   ├── 📄 SERIE3_Les circuits arytmétiques (3).pdf
+│   ├── 📄 séries-1-2-3-4-5-6-avec-correction.pdf
+│   ├── 📄 dqsd.ppt.pdf
+│   ├── 📄 SERIE2_EN.pdf
+│   ├── 📄 CHAPITRE 2.pdf
+│   ├── 📄 SERIE1.pdf
+│   ├── 📄 INTRODUCTION-converti (1).pdf
+│   ├── 📄 CHAPITRE 1.pdf
+│   └── 📄 CHAPITRE 1.pdf
+├── 🔗📁 eln num/  (raccourci)
+│   ├── 📄 Exemple de Programme en VHDL.docx
+│   ├── 📁 cours/
+│   │   ├── 📄 Nouveau-document-2018-12-10-23.18.52.pdf
+│   │   ├── 📄 FPGA-part-2.pdf
+│   │   └── 📄 Le langage VHDL Resumé 1 ver3 .pdf
+│   ├── 📁 pdf/
+│   │   ├── 📄 TD2 VHDL et logique programmable — Wikilivres.pdf
+│   │   ├── 📄 Cours_complet_PLD(cours1) off.pdf
+│   │   ├── 📄 CLP_FPGA(cours1).ppt
+│   │   ├── 📄 plds.pdf
+│   │   ├── 📄 CoursPLD.pdf
+│   │   ├── 📄 TD1 VHDL — Wikilivres.pdf
+│   │   ├── 📄 TD3 VHDL Compteurs et registres — Wikilivres.pdf
+│   │   ├── 📄 TD3_3.pdf
+│   │   ├── 📄 Fonctions logiques élémentaires et langages comportementaux .pdf
+│   │   ├── 📄 cours-VHDL off.ppt
+│   │   ├── 📄 19.VHDL.pdf
+│   │   ├── 📄 circuits-logiques-programmables.pdf
+│   │   ├── 📄 Cour et Exercices+Corrigés. VHDL.pdf
+│   │   ├── 📄 Serie N3_ENA_ESE.docx
+│   │   ├── 📄 Cours-E-Fonctions-Logiques-programmables.pdf
+│   │   ├── 📄 Exemple-de-Programme-en-VHDL.pdf
+│   │   ├── 📄 exo1.pdf
+│   │   ├── 📄 Exercices d'électronique numérique.pdf
+│   │   ├── 📄 compteur_vhdl.pdf
+│   │   ├── 📄 analysesvhd.pdf
+│   │   └── 📄 add-8bits.docx
+│   ├── 📁 exam/
+│   │   ├── 📄 48377114_2632940873390362_2320157465196363776_n.jpg
+│   │   ├── 📄 48275616_166703717633208_6937930903981129728_n.jpg
+│   │   ├── 📄 47687895_2632940743390375_1089618050350579712_n.jpg
+│   │   ├── 📄 47580558_2632940813390368_8968124282232111104_n.jpg
+│   │   ├── 📄 47686425_166704100966503_5360910515952418816_n.jpg
+│   │   ├── 📄 47577514_166704054299841_5838624399548219392_n.jpg
+│   │   ├── 📄 47577261_166703940966519_8589881643643174912_n.jpg
+│   │   ├── 📁 sans corriger/
+│   │   │   ├── 📄 Rattrapage_FPGA_2017.docx
+│   │   │   ├── 📄 Examen_Final_FPGA_2017 (1).docx
+│   │   │   └── 📄 Examen_Final_FPGA_2016.docx
+│   │   ├── 📁 intero/
+│   │   │   ├── 📄 13062548_1227230864000794_8792602098489290866_n(1).jpg
+│   │   │   ├── 📄 13083230_1227230650667482_7047361228034871118_n.jpg
+│   │   │   └── 📁 intero 2015/
+│   │   │       ├── 📄 13246266_1724626034462777_6690227995784309960_o.jpg
+│   │   │       ├── 📄 13217093_1724625987796115_7041016219446010991_o.jpg
+│   │   │       └── 📄 12994347_1217696364954244_3831365115889822884_n.jpg
+│   │   ├── 📁 Nouveau dossier/
+│   │   │   ├── 📄 Examen_Final_FPGA_2015.docx
+│   │   │   ├── 📄 exam2011-2012.pdf
+│   │   │   ├── 📄 interro_M1_SE _2 - correction.docx
+│   │   │   ├── 📄 interro_M1_SE - correction.docx
+│   │   │   ├── 📄 Correction Examen Conception numérique 2015.docx
+│   │   │   ├── 📄 Correction Examen Conception numérique 2014.docx
+│   │   │   ├── 📄 Correction Examen Conception numérique 2013.docx
+│   │   │   ├── 📁 exam+ratt 2009/
+│   │   │   │   ├── 📄 Corrigé004.jpg
+│   │   │   │   ├── 📄 Sujet003.jpg
+│   │   │   │   ├── 📄 Sujet002.jpg
+│   │   │   │   ├── 📄 Sujet001.jpg
+│   │   │   │   ├── 📄 Corrigé003.jpg
+│   │   │   │   ├── 📄 Rattrapage.jpg
+│   │   │   │   ├── 📄 Corrigé001.jpg
+│   │   │   │   └── 📄 Corrigé002.jpg
+│   │   │   ├── 📁 exam 2015/
+│   │   │   │   ├── 📄 12507437_919873764748541_7129802572120273356_n.jpg
+│   │   │   │   ├── 📄 12714476_1170507796339768_2090702357_n.jpg
+│   │   │   │   ├── 📄 12417850_919873808081870_7942863678538786271_n.jpg
+│   │   │   │   ├── 📄 12417607_919873744748543_422274500236252454_n.jpg
+│   │   │   │   └── 📄 1170819_919873841415200_669294402067631763_n.jpg
+│   │   │   ├── 📁 corrigé fpga/
+│   │   │   │   ├── 📄 27066847_1384820414961812_6123629744238732974_n.jpg
+│   │   │   │   ├── 📄 26903797_1384820384961815_5722532083153585730_n.jpg
+│   │   │   │   ├── 📄 26993825_1384820441628476_5702167709956585851_n.jpg
+│   │   │   │   └── 📄 26903923_1384820508295136_8077240269029090770_n.jpg
+│   │   │   ├── 📁 exam 2013/
+│   │   │   │   ├── 📄 SAM_1746.JPG
+│   │   │   │   ├── 📄 22113_4959813760363_923469951_n.jpg
+│   │   │   │   ├── 📄 1486068_10202541353402293_1057772809_o.jpg
+│   │   │   │   └── 📄 67431_4959830360778_1483705209_n.jpg
+│   │   │   └── 📁 exam 2014/
+│   │   │       ├── 📄 exam2.jpg
+│   │   │       ├── 📄 4.jpg
+│   │   │       ├── 📄 6.jpg
+│   │   │       ├── 📄 3.jpg
+│   │   │       ├── 📄 exam1.jpg
+│   │   │       ├── 📄 5.jpg
+│   │   │       ├── 📄 2.jpg
+│   │   │       ├── 📄 1.jpg
+│   │   │       └── 📄 1530468_585136341574715_1482214298_n.jpg
+│   │   ├── 📁 exo suplementaire/
+│   │   │   ├── 📄 Devoir_Corrigé .doc
+│   │   │   ├── 📄 Exercices de synthése.doc
+│   │   │   ├── 📄 chi003(1).jpg
+│   │   │   ├── 📄 chi002(1).jpg
+│   │   │   ├── 📄 chi001.jpg
+│   │   │   ├── 📄 chi004(1).jpg
+│   │   │   └── 📄 ~$voir_Corrigé .doc
+│   │   └── 📁 faiyt/
+│   │       ├── 📄 corr-fpga-exam-2017.pdf
+│   │       ├── 📄 Examen-FPGA.docx
+│   │       ├── 📄 corrige-examen-fpga-2012-2013.pdf
+│   │       ├── 📄 Rattrapage_FPGA_2015.docx
+│   │       ├── 📁 exam 2012/
+│   │       │   ├── 📄 Corrigé Examen final11_12.pdf
+│   │       │   ├── 📄 EF_Exo2st20112012.jpg
+│   │       │   └── 📄 EF_Exo1st20112012.jpg
+│   │       └── 📁 exam 2016/
+│   │           ├── 📄 12722429_1170508679673013_2106808494_o.jpg
+│   │           ├── 📄 12699239_1170508523006362_229516284_o.jpg
+│   │           ├── 📄 12695618_1170508709673010_2032477420_o.jpg
+│   │           └── 📄 12698933_1170508449673036_389310526_o.jpg
+│   ├── 📁 programme/
+│   │   ├── 📄 48392366_1098432493663089_3017041146200195072_n.jpg
+│   │   ├── 📄 48390312_2193885150870621_6685146639520235520_n.jpg
+│   │   ├── 📄 48408817_10210465659956783_1235671874994700288_n.jpg
+│   │   ├── 📄 48394081_10210465659876781_3962041819423834112_n.jpg
+│   │   ├── 📄 48396953_10210465659516772_689649079176658944_n.jpg
+│   │   ├── 📄 48417214_2222349361317667_1753239382900342784_n.jpg
+│   │   ├── 📄 48393440_10210465659356768_6094528919094951936_n.jpg
+│   │   ├── 📄 48382278_10210465659276766_8599142404882169856_n.jpg
+│   │   ├── 📄 48378283_10210465658476746_5364419624492335104_n.jpg
+│   │   ├── 📄 48368671_10210465658636750_3197485482652991488_n.jpg
+│   │   ├── 📄 48377509_10210465658716752_204335246655619072_n.jpg
+│   │   ├── 📄 48374117_10210465658396744_4672754397472620544_n.jpg
+│   │   ├── 📄 48366100_10210465659196764_5899958748738224128_n.jpg
+│   │   ├── 📁 serialisateru/
+│   │   │   ├── 📄 Capture.PNG
+│   │   │   ├── 📄 48376734_2215533918489830_3263494319629139968_n.jpg
+│   │   │   ├── 📄 48423004_2215533815156507_1510560802824781824_n.jpg
+│   │   │   ├── 📄 48375037_2215533818489840_2821234622262673408_n.jpg
+│   │   │   └── 📄 48365967_2215533811823174_4260119048051752960_n.jpg
+│   │   └── 📁 interro/
+│   │       ├── 📄 48367609_2215684711808084_3259541016981536768_n.jpg
+│   │       ├── 📄 48391160_2215684671808088_5937264821786378240_n.jpg
+│   │       └── 📄 48373303_2215684701808085_6874332415536398336_n.jpg
+│   ├── 📁 RESUME/
+│   │   ├── 📄 48243163_731280600586548_9222774185997107200_n.jpg
+│   │   ├── 📄 47683548_731279410586667_5880297865925885952_n.jpg
+│   │   ├── 📄 47682200_731280460586562_3537381278833704960_n.jpg
+│   │   ├── 📄 48081803_731279850586623_2183254768456040448_n.jpg
+│   │   ├── 📄 47681818_731280063919935_2072323653055283200_n.jpg
+│   │   ├── 📄 47682334_731279463919995_5425194768940400640_n.jpg
+│   │   ├── 📄 47684978_731279597253315_8834517637884018688_n.jpg
+│   │   ├── 📄 47681700_731280287253246_5544026253343850496_n.jpg
+│   │   ├── 📄 47680585_731280190586589_3579453154967683072_n.jpg
+│   │   ├── 📄 47681313_731279650586643_7037831903415631872_n.jpg
+│   │   ├── 📄 47572623_731280357253239_2064314148933599232_n.jpg
+│   │   ├── 📄 47573606_731280543919887_507946905716654080_n.jpg
+│   │   ├── 📄 47576266_731279800586628_5929079786646274048_n.jpg
+│   │   ├── 📄 47574588_731279730586635_3301774882102050816_n.jpg
+│   │   ├── 📄 47576515_731279553919986_6836117398559391744_n.jpg
+│   │   ├── 📄 47572371_731278997253375_7500159496170242048_n.jpg
+│   │   └── 📄 47501535_731280123919929_3070988834540879872_n.jpg
+│   ├── 📁 VHDL & FPGA/
+│   │   ├── 📄 .DS_Store
+│   │   ├── 📁 compte rendu tp/
+│   │   │   ├── 📄 FPGA-TP5-KORKUTOVIC-ZOUAOUI.docx
+│   │   │   ├── 📄 FPGA-TP4.docx
+│   │   │   ├── 📄 FPGA-TP3 (2).docx
+│   │   │   ├── 📄 FPGA-TP2-ZOUAOUI-KORKUTOVIC.docx
+│   │   │   └── 📁 TPs/
+│   │   │       ├── 📄 Lab 1 - Système de dévellopement Xilinx Nexsys2.docx
+│   │   │       ├── 📄 Lab 2 -Introduction à VHDL 1.doc
+│   │   │       └── 📄 Lab 3 - Bascule D et Registres à décalage.docx
+│   │   ├── 📁 tp autres/
+│   │   │   ├── 📄 tp_vhdl_isi.pdf
+│   │   │   ├── 📄 LO11_TP_2013.pdf
+│   │   │   ├── 📄 in-ele106_cours_tp.pdf
+│   │   │   ├── 📄 ele106_cours_tp.pdf
+│   │   │   ├── 📄 cours-fpga-tayari-vf-1.pdf
+│   │   │   ├── 📄 vhdl.pdf
+│   │   │   ├── 📄 TP_SIN_2018_2017.pdf
+│   │   │   ├── 📄 EN325_SEQ_TP.pdf
+│   │   │   ├── 📄 in-vhdl-intro.pdf
+│   │   │   ├── 📄 vhdl_tp0.pdf
+│   │   │   ├── 📄 TP1_VHDL.pdf
+│   │   │   ├── 📄 TP1.pdf
+│   │   │   ├── 📄 16.VHDL.Processus.pdf
+│   │   │   ├── 📄 TP_logique-ERII4.pdf
+│   │   │   ├── 📄 TP_EN101.pdf
+│   │   │   ├── 📄 TP5.pdf
+│   │   │   ├── 📄 cours-vhdl-10-partie6-combinatoire-sequentiel.pdf
+│   │   │   ├── 📄 tp2_ing_2015.pdf
+│   │   │   ├── 📄 Sans titre.png
+│   │   │   ├── 📄 15.VHDL.Introduction.pdf
+│   │   │   ├── 📄 labo5_2013.pdf
+│   │   │   ├── 📄 tp1_ing_2015.pdf
+│   │   │   ├── 📄 INF1500_TD2_HIV11.pdf
+│   │   │   ├── 📄 introduction.pdf
+│   │   │   ├── 📄 in-tp1_ing_2015.pdf
+│   │   │   ├── 📄 7segments_vhdl.pdf
+│   │   │   ├── 📁 prtp3/
+│   │   │   │   ├── 📄 TP-3-FPGA (1).docx
+│   │   │   │   ├── 📄 TP ISE 1 2 3 V2.1 .pdf
+│   │   │   │   ├── 📄 Programmation_VHD.pdf
+│   │   │   │   ├── 📄 MCENSL1_2011.pdf
+│   │   │   │   ├── 📄 chap5.pdf
+│   │   │   │   ├── 📄 theocircannexeI.pdf
+│   │   │   │   ├── 📄 tp3-D-fpga.docx
+│   │   │   │   ├── 📄 chap1.pdf
+│   │   │   │   └── 📄 Manip-Seq-Bascule-anti-rebond.i1355.pdf
+│   │   │   └── 📁 pr tp2/
+│   │   │       ├── 📄 1325935.ppt
+│   │   │       ├── 📄 TD3 VHDL Compteurs et registres — Wikilivres.pdf
+│   │   │       ├── 📄 Registre a decalage, avec bascule D(VHDL).pdf
+│   │   │       ├── 📄 prgrm halfadder dataflow.png
+│   │   │       ├── 📄 prgrm full adder.png
+│   │   │       ├── 📄 fulladder.png
+│   │   │       ├── 📄 halfadderdataflow.png
+│   │   │       ├── 📄 or22.png
+│   │   │       ├── 📄 Nouveau Document Microsoft Office Word.docx
+│   │   │       ├── 📄 halfadder.png
+│   │   │       └── 📄 halfadder on full.png
+│   │   ├── 📁 Cours/
+│   │   │   ├── 📄 VHDL.pdf
+│   │   │   ├── 📄 Cours_complet_PLD(cours1).pdf
+│   │   │   ├── 📄 Cours VHDL FPGA 2.pdf
+│   │   │   ├── 📄 CLP_FPGA(cours1).ppt
+│   │   │   ├── 📄 2013_SE3_S4_Implementation.pdf
+│   │   │   ├── 📄 coursvhdl 4éme année.ppt
+│   │   │   ├── 📄 cours-VHDL.ppt
+│   │   │   └── 📄 VHDL_FPGA.pdf
+│   │   └── 📁 TDs/
+│   │       ├── 📄 TD-FPGA-exo5serie2jusqu'a%20la%20fin[1].pdf
+│   │       ├── 📄 TD fpga G1.pdf
+│   │       ├── 📄 TD13 FPGA.doc
+│   │       └── 📄 TD11 FPGA (3).doc
+│   └── 📁 td/
+│       ├── 📄 TD_FPFA.pdf
+│       ├── 📄 TD-VHDL.pdf
+│       ├── 📄 td3-vhdl.pdf
+│       ├── 📄 CorrigExo3 pal22v10.pdf
+│       ├── 📄 CorrigExo2 pal22v10.pdf
+│       ├── 📄 T_comp_decom_modulo10.vhd
+│       ├── 📄 compt_decompt_modulo10.vhd
+│       ├── 📄 46684426_10213821094097959_648250301727375360_n.jpg
+│       ├── 📄 46516342_10213821093577946_20884390145949696_n.jpg
+│       ├── 📄 46513736_10213821093657948_3407527576908857344_n.jpg
+│       └── 📁 série/
+│           ├── 📄 20181118_102106.jpg
+│           ├── 📄 20181118_102120.jpg
+│           ├── 📄 20181209_110037.jpg
+│           ├── 📄 Serie1_2018(ESE).pdf
+│           ├── 📄 PLUS405.pdf
+│           ├── 📄 PLS100.pdf
+│           ├── 📄 PLS105(RS sequencers).pdf
+│           └── 📄 pal22v10.pdf
+├── 🔗📁 ELECTRONIQUE/  (raccourci)
+│   ├── 📄 4_transistor_bip.pdf
+│   ├── 📄 4_transistor_bip.pdf
+│   ├── 📄 4_transistor_bip.pdf
+│   ├── 📄 L2_eni2_tp.pdf
+│   ├── 📄 serie-td-transistor.pdf
+│   ├── 📄 F6-ED1.pdf
+│   ├── 📄 F-IRIS1-06.pdf
+│   ├── 📄 bascule_cr.pdf
+│   ├── 📄 bascule_cr.pdf
+│   ├── 📄 Poly_TP_ELECTRONIQUE_CP.pdf
+│   ├── 📄 Applications de la diode.pdf
+│   ├── 📄 UTBM_Electronique-analogique_1999_TC.pdf
+│   ├── 📄 Série d'exercices N°3-3tech-Bascules-Compteurs-2012-2013-Correction.pdf
+│   ├── 📄 Série d'exercices N°3-3tech-Bascules-Compteurs-2012-2013-Correction.pdf
+│   ├── 📄 td-03-corrige les bascules.pdf
+│   └── 📄 Export.pdf
+├── 🔗📁 Electronique/  (raccourci)
+│   ├── 📁 EXAMEN/
+│   │   ├── 📄 electronique Binb.pdf
+│   │   ├── 📄 Épreuve d'électronique SMP 2015.pdf
+│   │   └── 📁 Examens Ressources-20221231/
+│   │       ├── 📁 2021/
+│   │       │   ├── 📄 examSess1-SMP4-2021.pdf
+│   │       │   ├── 📄 examSess1-SMP4-2021 corrigé.pdf
+│   │       │   ├── 📄 exam TP SMP4   2021.pdf
+│   │       │   ├── 📄 Corrigé exam TP SMP4   2021.pdf
+│   │       │   ├── 📄 examSess2-SMP4-2021.pdf
+│   │       │   └── 📄 examSess2-SMP4-2021 corrigé.pdf
+│   │       ├── 📁 2020/
+│   │       │   ├── 📄 examSess1-SMP4-2020.pdf
+│   │       │   ├── 📄 examSess1-SMP4-2020 Corrigé.pdf
+│   │       │   ├── 📄 exam Sess2-SMP4-2020.pdf
+│   │       │   └── 📄 exam Sess2-SMP4-2020 corrigé.pdf
+│   │       ├── 📁 2019/
+│   │       │   ├── 📄 examSess1-SMP4-2019 Corrigé.pdf
+│   │       │   ├── 📄 examSess2-SMP4-2019  Corrigé.pdf
+│   │       │   ├── 📄 examSess1-SMP4-2019.pdf
+│   │       │   └── 📄 examSess2-SMP4-2019.pdf
+│   │       ├── 📁 2018/
+│   │       │   ├── 📄 examSess1-SMP4-2018  Corrigé.pdf
+│   │       │   ├── 📄 examSess2-SMP4-2018.pdf
+│   │       │   ├── 📄 examSess2-SMP4-2018  Corrigé.pdf
+│   │       │   └── 📄 examSess1-SMP4-2018.pdf
+│   │       └── 📁 2017/
+│   │           ├── 📄 examSess1-SMP4-2017.pdf
+│   │           ├── 📄 examSess2-SMP4-2017.pdf
+│   │           ├── 📄 examSess1-SMP4-2017  Corrigé.pdf
+│   │           └── 📄 examSess2-SMP4-2017 corrigé.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 serie1 2020.pdf
+│   │   ├── 📄 serie1 2020 Corrigé.pdf
+│   │   ├── 📄 serie3 2020.pdf
+│   │   ├── 📄 serie3 2020 Corrigé.pdf
+│   │   ├── 📄 serie2 2020.pdf
+│   │   ├── 📄 serie2  Corrigé 2020.pdf
+│   │   ├── 📄 Serie 1 - 2023.pdf
+│   │   ├── 📄 Serie 1 - 2023 corrigé_60b5fc437ed106374acfc13c1c5126f0.pdf
+│   │   ├── 📄 serie4 2023 corrigé.pdf
+│   │   ├── 📄 serie4 2023.pdf
+│   │   ├── 📄 Série2 - 2023.pdf
+│   │   ├── 📄 Serie 2 - 2023 corrigé.pdf
+│   │   ├── 📄 serie3 2023.pdf
+│   │   └── 📄 serie3 2023 corrigé.pdf
+│   ├── 📁 cours/
+│   │   ├── 📄 Chap1 -Théorèmes Généraux.pdf
+│   │   ├── 📄 Chapitre1 - Bode.pdf
+│   │   ├── 📄 Quiz Enoncé.pdf
+│   │   ├── 📄 Chapitre 1-20.pdf
+│   │   ├── 📄 Tableau comparatif transistor.pdf
+│   │   ├── 📄 Chapitre 2-20.pdf
+│   │   ├── 📄 chapitre 3-20.pdf
+│   │   └── 📄 AO.pdf
+│   └── 📁 TP/
+│       ├── 📄 Transistor Bipolaire.pdf
+│       ├── 📄 Transistor Bipolaire Feuille réponse.pdf
+│       ├── 📄 TP1 corrigé Multisim (1).pdf
+│       ├── 📄 QCM SMP4.pdf
+│       ├── 📄 Liste SMP4 T.pdf
+│       ├── 📄 QCM1 SMP4 Corrigé.pdf
+│       ├── 📄 Notes SMP4 QCM1.pdf
+│       ├── 📄 TP1.pdf
+│       ├── 📄 TP1 CR.pdf
+│       ├── 📄 TP1 corrigé Multisim.pdf
+│       ├── 📄 TP2.pdf
+│       ├── 📄 TP2 CR.pdf
+│       ├── 📄 TP2 corrigé Multisim.pdf
+│       ├── 📄 TP4.pdf
+│       ├── 📄 TP4 CR.pdf
+│       ├── 📄 TP4Corrig.pdf
+│       ├── 📄 TP3.pdf
+│       ├── 📄 TP3 CR.pdf
+│       └── 📄 TP3 ta3 Mad Moh.pdf
+├── 🔗📁 °ELECTRONIQUE BY SABOR/  (raccourci)
+│   ├── 📄 TDs+EXAMENs ÉLECTRONIQUES FSJ.pdf
+│   ├── 📄 TDs&EXAMENs  ÉLECTRONIQUES ENSA TANGER.pdf
+│   ├── 📄 TDs ÉLECTRONIQUES2 FSR 11 12.pdf
+│   ├── 📄 TDs ÉLECTRONIQUES FSSM 19-20.pdf
+│   ├── 📄 TDs ÉLECTRONIQUES FSR-RABAT 2019-2020.pdf
+│   ├── 📄 TDs ÉLECTRONIQUES FSR- RABAT 2018-2019.pdf
+│   ├── 📄 TDs ÉLECTRONIQUES FSR 14 15.pdf
+│   ├── 📄 TDs ÉLECTRONIQUES FSO- OUAJDA 2019-2020.pdf
+│   ├── 📄 TDs ÉLECTRONIQUES FSDM 19-20.pdf
+│   ├── 📄 TDs ÉLECTRONIQUES FPT-TAZA  2020.pdf
+│   ├── 📄 TDs ÉLECTRONIQUES FPK  2020.pdf
+│   ├── 📄 TDs ÉLECTRONIQUES EST-CASABLANCA  2020.pdf
+│   ├── 📄 TDs CIRCUITS ELECTRONIQUES FSR- RABAT 10-11.pdf
+│   ├── 📄 COURs ÉLECTRONIQUES EST-CASABLANCA  2020.pdf
+│   ├── 📄 °TDs ÉLECTRONIQUES FST-BM.pdf
+│   ├── 📄 °TD FSBM ELECTRONIQUE ANALGIQUE SMP4.pdf
+│   ├── 📄 °TD ELECTRONIQUE ANALOGIQUE1 19 20 FPO.pdf
+│   ├── 📄 °EXAMENS ELECTRONIQUE ANALOGIQUE1 19 20 FPO.pdf
+│   ├── 📄 COURS ÉLECTRONIQUES FPK  2020.pdf
+│   └── 📄 FPN Cours-SMP-S4-2020-TransistorBipolaire.pdf
+├── 📁 ELECTRONIQUE ensaf/
+│   ├── 📄 4_transistor_bip.pdf
+│   ├── 📄 F6-ED1.pdf
+│   ├── 📄 serie-td-transistor.pdf
+│   ├── 📄 Applications de la diode.pdf
+│   ├── 📄 Série d_exercices N°3-3tech-Bascules-Compteurs-2012-2013-Correction(1).pdf
+│   ├── 📄 bascule_cr(1).pdf
+│   ├── 📄 Poly_TP_ELECTRONIQUE_CP.pdf
+│   ├── 📄 L2_eni2_tp.pdf
+│   ├── 📄 UTBM_Electronique-analogique_1999_TC.pdf
+│   ├── 📄 bascule_cr.pdf
+│   ├── 📄 Export.pdf
+│   ├── 📄 F-IRIS1-06.pdf
+│   ├── 📄 td-03-corrige les bascules.pdf
+│   ├── 📁 Intro à l_ électronique/
+│   │   ├── 📁 Electronique numérique/
+│   │   │   ├── 📄 Exam 2021 Electronique numérique.pdf
+│   │   │   ├── 📄 résumé.pdf
+│   │   │   ├── 📄 cours electronique.pdf
+│   │   │   ├── 📄 électronique numérique .pdf
+│   │   │   ├── 📄 EXAM NUM.pdf
+│   │   │   ├── 📄 Exam numérique 2015_2016.pdf
+│   │   │   ├── 📄 Exam_2016.pdf
+│   │   │   ├── 📁 TP/
+│   │   │   ├── 📁 exams/
+│   │   │   └── 📁 cour/
+│   │   │       └── 📄 Systèmes logiques L1 2.pdf
+│   │   └── 📁 Electronique analogique/
+│   │       ├── 📄 exam_2018.pdf
+│   │       ├── 📄 CamScanner 05-17-2022 10.46.pdf
+│   │       ├── 📄 Solution examen final eln cp2 2022.pdf
+│   │       ├── 📄 exam_2016-1.pdf
+│   │       ├── 📄 Exams.pdf
+│   │       ├── 📄 CamScanner 07-01-2022 16.30.pdf
+│   │       ├── 📁 TP/
+│   │       │   ├── 📄 tp électronique .pdf
+│   │       │   └── 📄 rapport de tp.docx
+│   │       ├── 📁 Compte rendu ds Tps/
+│   │       │   ├── 📄 tp3   montage  1 et 2.pdf
+│   │       │   ├── 📄 tp4.pdf
+│   │       │   ├── 📄 TP1-1.pdf
+│   │       │   ├── 📄 tp3 .pdf
+│   │       │   └── 📄 Tp1 analogie vf.pdf
+│   │       ├── 📁 cour/
+│   │       │   └── 📄 électronique_mazer.pdf
+│   │       └── 📁 exams/
+│   │           └── 📄 exo.pdf
+│   ├── 📁 E.A/
+│   │   ├── 📄 Chapitre1_PN.pdf
+│   │   ├── 📄 UTBM_Electronique-analogique_2010_TC.pdf
+│   │   ├── 📄 Rapport TP3.pdf
+│   │   ├── 📄 ~$ercice zener BEP 2000.doc
+│   │   ├── 📄 3_diodes google.pdf
+│   │   ├── 📄 Capture EA.PNG
+│   │   ├── 📄 Chapitre4-AO (1).pdf
+│   │   ├── 📄 9-diode.pdf
+│   │   ├── 📄 83185289exos-diodes2-corr-pdf.pdf
+│   │   ├── 📄 applications-des-amplificateurs-operationnels.pdf
+│   │   ├── 📄 S5 ELECTRONIC Examen_2011_2012_Probleme_resolu.pdf
+│   │   ├── 📄 ~$ercice zener BEP 2000(1).doc
+│   │   ├── 📄 Cahier des charges,projet.docx
+│   │   ├── 📄 Chapitre2_Diodes(1).pdf
+│   │   ├── 📄 Exercice zener BEP 2000.doc
+│   │   ├── 📄 Chapitre2_Diodes.pdf
+│   │   ├── 📄 exercices.pdf
+│   │   ├── 📄 Chapitre3-Tansistors.pdf
+│   │   ├── 📄 Rapport TP3.1.pdf
+│   │   └── 📁 tp/
+│   │       ├── 📄 Rapport-TP2.docx
+│   │       ├── 📄 ~$pport-TP4.docx
+│   │       ├── 📄 Rapport-TP3.pdf
+│   │       ├── 📄 Rapport-TP4(1).docx
+│   │       ├── 📄 tp2.jpg
+│   │       └── 📄 Rapport TP1.pdf
+│   └── 📁 Electronique Numerique/
+│       ├── 📁 Résumé/
+│       ├── 📁 Résumé(1)/
+│       ├── 📁 TP/
+│       │   ├── 📁 TP 1 (Chihab)/
+│       │   ├── 📁 TP 2 (Chihab)/
+│       │   ├── 📁 TP 2 (samir)/
+│       │   ├── 📁 TP 3 (Samir)/
+│       │   └── 📁 TP 3 (Chihab)/
+│       ├── 📁 TD/
+│       ├── 📁 TD(1)/
+│       ├── 📁 (781) 43 - Data structures _ Langage C (Darija) - YouTube_files/
+│       │   ├── 📄 css
+│       │   ├── 📄 hqdefault(41).jpg
+│       │   ├── 📄 remote.js.téléchargement
+│       │   ├── 📄 hqdefault(42).jpg
+│       │   ├── 📄 annotations_module.js.téléchargement
+│       │   ├── 📄 unnamed(11).jpg
+│       │   ├── 📄 hq720(5).jpg
+│       │   ├── 📄 unnamed(25).jpg
+│       │   ├── 📄 hqdefault(11).jpg
+│       │   ├── 📄 unnamed(4).jpg
+│       │   ├── 📄 hqdefault(31).jpg
+│       │   ├── 📄 unnamed(21).jpg
+│       │   ├── 📄 unnamed(18).jpg
+│       │   ├── 📄 web-animations-next-lite.min.js.téléchargement
+│       │   ├── 📄 unnamed(23).jpg
+│       │   ├── 📄 hqdefault(34).jpg
+│       │   ├── 📄 unnamed(6).jpg
+│       │   ├── 📄 hqdefault(1).jpg
+│       │   ├── 📄 mqdefault(4).jpg
+│       │   ├── 📄 photo(1).jpg
+│       │   ├── 📄 hqdefault(10).jpg
+│       │   ├── 📄 hqdefault(44).jpg
+│       │   ├── 📄 hqdefault(49).jpg
+│       │   ├── 📄 unnamed(22).jpg
+│       │   ├── 📄 hq720(2).jpg
+│       │   ├── 📄 unnamed(28).jpg
+│       │   ├── 📄 www-prepopulator.js.téléchargement
+│       │   ├── 📄 unnamed(20).jpg
+│       │   ├── 📄 unnamed(29).jpg
+│       │   ├── 📄 hqdefault(35).jpg
+│       │   ├── 📄 css(1)
+│       │   ├── 📄 scheduler.js.téléchargement
+│       │   ├── 📄 hqdefault(18).jpg
+│       │   ├── 📄 hqdefault(16).jpg
+│       │   ├── 📄 hqdefault.jpg
+│       │   ├── 📄 hqdefault(27).jpg
+│       │   ├── 📄 hqdefault(12).jpg
+│       │   ├── 📄 hqdefault(28).jpg
+│       │   ├── 📄 www-main-desktop-home-page-skeleton-webp-vfl4iT_wE.css
+│       │   ├── 📄 hqdefault(33).jpg
+│       │   ├── 📄 www-main-desktop-watch-page-skeleton-webp-vflQ9GNSj.css
+│       │   ├── 📄 hqdefault(32).jpg
+│       │   ├── 📄 hqdefault(29).jpg
+│       │   ├── 📄 mqdefault.jpg
+│       │   ├── 📄 unnamed(10).jpg
+│       │   ├── 📄 unnamed(24).jpg
+│       │   ├── 📄 hqdefault(8).jpg
+│       │   ├── 📄 hqdefault(3).jpg
+│       │   ├── 📄 unnamed(15).jpg
+│       │   ├── 📄 hqdefault(15).jpg
+│       │   ├── 📄 spf.js.téléchargement
+│       │   ├── 📄 photo.jpg
+│       │   ├── 📄 hqdefault(40).jpg
+│       │   ├── 📄 hqdefault(26).jpg
+│       │   ├── 📄 hqdefault(21).jpg
+│       │   ├── 📄 www-onepick-webp-vflsYL2Tr.css
+│       │   ├── 📄 unnamed(8).jpg
+│       │   ├── 📄 favicons(1).png
+│       │   ├── 📄 saved_resource(1).html
+│       │   ├── 📄 hqdefault(48).jpg
+│       │   ├── 📄 hqdefault(36).jpg
+│       │   ├── 📄 hqdefault(39).jpg
+│       │   ├── 📄 hqdefault(25).jpg
+│       │   ├── 📄 unnamed(5).jpg
+│       │   ├── 📄 featured_channel.jpg
+│       │   ├── 📄 hqdefault(24).jpg
+│       │   ├── 📄 hqdefault(7).jpg
+│       │   ├── 📄 unnamed(19).jpg
+│       │   ├── 📄 hqdefault(22).jpg
+│       │   ├── 📄 saved_resource.html
+│       │   ├── 📄 hqdefault_live.jpg
+│       │   ├── 📄 unnamed.jpg
+│       │   ├── 📄 mqdefault(5).jpg
+│       │   ├── 📄 unnamed(27).jpg
+│       │   ├── 📄 hq720(1).jpg
+│       │   ├── 📄 hq720.jpg
+│       │   ├── 📄 mqdefault(3).jpg
+│       │   ├── 📄 hqdefault(30).jpg
+│       │   ├── 📄 unnamed(9).jpg
+│       │   ├── 📄 hqdefault(23).jpg
+│       │   ├── 📄 unnamed(30).jpg
+│       │   ├── 📄 hqdefault(6).jpg
+│       │   ├── 📄 favicons.png
+│       │   ├── 📄 hqdefault(37).jpg
+│       │   ├── 📄 hqdefault(14).jpg
+│       │   ├── 📄 unnamed(7).jpg
+│       │   ├── 📄 unnamed(13).jpg
+│       │   ├── 📄 hqdefault(43).jpg
+│       │   ├── 📄 unnamed(17).jpg
+│       │   ├── 📄 css(2)
+│       │   ├── 📄 hqdefault(5).jpg
+│       │   ├── 📄 webcomponents-sd.js.téléchargement
+│       │   ├── 📄 www-tampering.js.téléchargement
+│       │   ├── 📄 miniplayer.js.téléchargement
+│       │   ├── 📄 hqdefault(4).jpg
+│       │   ├── 📄 unnamed(26).jpg
+│       │   ├── 📄 unnamed(2).jpg
+│       │   ├── 📄 hqdefault(20).jpg
+│       │   ├── 📄 hqdefault(46).jpg
+│       │   ├── 📄 saved_resource.gif
+│       │   ├── 📄 hqdefault(2).jpg
+│       │   ├── 📄 unnamed(16).jpg
+│       │   ├── 📄 hqdefault(45).jpg
+│       │   ├── 📄 unnamed(3).jpg
+│       │   ├── 📄 mqdefault(1).jpg
+│       │   ├── 📄 hqdefault(9).jpg
+│       │   ├── 📄 unnamed(14).jpg
+│       │   ├── 📄 hqdefault(47).jpg
+│       │   ├── 📄 unnamed(1).jpg
+│       │   ├── 📄 hqdefault(19).jpg
+│       │   ├── 📄 mqdefault(2).jpg
+│       │   ├── 📄 favicons(2).png
+│       │   ├── 📄 hqdefault(13).jpg
+│       │   ├── 📄 network.js.téléchargement
+│       │   ├── 📄 unnamed(12).jpg
+│       │   ├── 📄 analytics.js.téléchargement
+│       │   ├── 📄 hq720(3).jpg
+│       │   ├── 📄 custom-elements-es5-adapter.js.téléchargement
+│       │   ├── 📄 hqdefault(38).jpg
+│       │   ├── 📄 endscreen.js.téléchargement
+│       │   ├── 📄 hqdefault(17).jpg
+│       │   └── 📄 hq720(4).jpg
+│       ├── 📁 (779) LOGIQUE SEQUENTIELLE BASCULE RS PART 1 - YouTube_files/
+│       │   ├── 📄 hqdefault(12).jpg
+│       │   ├── 📄 unnamed(17).jpg
+│       │   ├── 📄 hqdefault(29).jpg
+│       │   ├── 📄 unnamed(32).jpg
+│       │   ├── 📄 annotations_module.js.téléchargement
+│       │   ├── 📄 www-main-desktop-watch-page-skeleton-webp-vflQ9GNSj.css
+│       │   ├── 📄 unnamed.jpg
+│       │   ├── 📄 hqdefault(25).jpg
+│       │   ├── 📄 unnamed(3).jpg
+│       │   ├── 📄 favicons(2).png
+│       │   ├── 📄 hqdefault(44).jpg
+│       │   ├── 📄 miniplayer.js.téléchargement(1)
+│       │   ├── 📄 hqdefault(13).jpg
+│       │   ├── 📄 unnamed(22).jpg
+│       │   ├── 📄 hqdefault(14).jpg
+│       │   ├── 📄 analytics.js.téléchargement
+│       │   ├── 📄 hqdefault(31).jpg
+│       │   ├── 📄 unnamed(25).jpg
+│       │   ├── 📄 hqdefault(52).jpg
+│       │   ├── 📄 hqdefault(9).jpg
+│       │   ├── 📄 hqdefault(48).jpg
+│       │   ├── 📄 hqdefault(4).jpg
+│       │   ├── 📄 www-onepick-webp-vflsYL2Tr.css
+│       │   ├── 📄 webcomponents-sd.js.téléchargement
+│       │   ├── 📄 hqdefault(18).jpg
+│       │   ├── 📄 unnamed(15).jpg
+│       │   ├── 📄 web-animations-next-lite.min.js.téléchargement
+│       │   ├── 📄 hq720(1).jpg
+│       │   ├── 📄 hqdefault(2).jpg
+│       │   ├── 📄 hqdefault(24).jpg
+│       │   ├── 📄 hqdefault(50).jpg
+│       │   ├── 📄 hq720(4).jpg
+│       │   ├── 📄 photo(2).jpg
+│       │   ├── 📄 meh_mini-vfl0Ugnu3.png
+│       │   ├── 📄 favicons.png
+│       │   ├── 📄 unnamed(9).jpg
+│       │   ├── 📄 unnamed(24).jpg
+│       │   ├── 📄 hqdefault(3).jpg
+│       │   ├── 📄 hqdefault(1).jpg
+│       │   ├── 📄 custom-elements-es5-adapter.js.téléchargement
+│       │   ├── 📄 hqdefault(27).jpg
+│       │   ├── 📄 unnamed(23).jpg
+│       │   ├── 📄 www-tampering.js.téléchargement
+│       │   ├── 📄 remote.js.téléchargement
+│       │   ├── 📄 hq720(5).jpg
+│       │   ├── 📄 captions.js.téléchargement
+│       │   ├── 📄 unnamed(29).jpg
+│       │   ├── 📄 hqdefault(30).jpg
+│       │   ├── 📄 unnamed(5).jpg
+│       │   ├── 📄 photo(1).jpg
+│       │   ├── 📄 unnamed(4).jpg
+│       │   ├── 📄 hqdefault(54).jpg
+│       │   ├── 📄 unnamed(28).jpg
+│       │   ├── 📄 hqdefault(32).jpg
+│       │   ├── 📄 hqdefault(55).jpg
+│       │   ├── 📄 unnamed(19).jpg
+│       │   ├── 📄 hqdefault(46).jpg
+│       │   ├── 📄 unnamed(26).jpg
+│       │   ├── 📄 hq720.jpg
+│       │   ├── 📄 network.js.téléchargement(1)
+│       │   ├── 📄 hqdefault(22).jpg
+│       │   ├── 📄 hqdefault(11).jpg
+│       │   ├── 📄 unnamed(16).jpg
+│       │   ├── 📄 photo.jpg
+│       │   ├── 📄 hqdefault(15).jpg
+│       │   ├── 📄 hqdefault.jpg
+│       │   ├── 📄 hq720(6).jpg
+│       │   ├── 📄 unnamed(14).jpg
+│       │   ├── 📄 hqdefault(28).jpg
+│       │   ├── 📄 hqdefault(37).jpg
+│       │   ├── 📄 unnamed(6).jpg
+│       │   ├── 📄 hqdefault(16).jpg
+│       │   ├── 📄 hqdefault(19).jpg
+│       │   ├── 📄 hqdefault(38).jpg
+│       │   ├── 📄 hqdefault(23).jpg
+│       │   ├── 📄 css
+│       │   ├── 📄 hqdefault_live.jpg
+│       │   ├── 📄 hqdefault(43).jpg
+│       │   ├── 📄 spf.js.téléchargement
+│       │   ├── 📄 hqdefault(47).jpg
+│       │   ├── 📄 hqdefault(10).jpg
+│       │   ├── 📄 css(2)
+│       │   ├── 📄 www-prepopulator.js.téléchargement
+│       │   ├── 📄 unnamed(1).jpg
+│       │   ├── 📄 css(1)
+│       │   ├── 📄 www-main-desktop-home-page-skeleton-webp-vfl4iT_wE.css
+│       │   ├── 📄 hqdefault(35).jpg
+│       │   ├── 📄 hqdefault(7).jpg
+│       │   ├── 📄 hqdefault(36).jpg
+│       │   ├── 📄 saved_resource(1).html
+│       │   ├── 📄 hqdefault(8).jpg
+│       │   ├── 📄 hqdefault(45).jpg
+│       │   ├── 📄 scheduler.js.téléchargement
+│       │   ├── 📄 unnamed(2).jpg
+│       │   ├── 📄 unnamed(12).jpg
+│       │   ├── 📄 unnamed(30).jpg
+│       │   ├── 📄 endscreen.js.téléchargement
+│       │   ├── 📄 meh_mini-vfl0Ugnu3(1).png
+│       │   ├── 📄 unnamed(11).jpg
+│       │   ├── 📄 hqdefault(5).jpg
+│       │   ├── 📄 hqdefault(20).jpg
+│       │   ├── 📄 unnamed(8).jpg
+│       │   ├── 📄 unnamed(31).jpg
+│       │   ├── 📄 miniplayer.js.téléchargement
+│       │   ├── 📄 unnamed(18).jpg
+│       │   ├── 📄 photo(1)(1).jpg
+│       │   ├── 📄 unnamed(20).jpg
+│       │   ├── 📄 unnamed(10).jpg
+│       │   ├── 📄 unnamed(7).jpg
+│       │   ├── 📄 unnamed(21).jpg
+│       │   ├── 📄 hqdefault(53).jpg
+│       │   ├── 📄 hqdefault(51).jpg
+│       │   ├── 📄 unnamed(27).jpg
+│       │   ├── 📄 hqdefault(42).jpg
+│       │   ├── 📄 unnamed(13).jpg
+│       │   ├── 📄 saved_resource.html
+│       │   ├── 📄 network.js.téléchargement
+│       │   ├── 📄 hqdefault(40).jpg
+│       │   ├── 📄 hq720_live.jpg
+│       │   ├── 📄 hqdefault(34).jpg
+│       │   ├── 📄 hq720(2).jpg
+│       │   ├── 📄 hqdefault(26).jpg
+│       │   ├── 📄 hqdefault(6).jpg
+│       │   ├── 📄 hqdefault(49).jpg
+│       │   ├── 📄 hqdefault(41).jpg
+│       │   ├── 📄 hq720(3).jpg
+│       │   ├── 📄 hqdefault(33).jpg
+│       │   ├── 📄 favicons(1).png
+│       │   ├── 📄 hqdefault(21).jpg
+│       │   ├── 📄 hqdefault(39).jpg
+│       │   └── 📄 hqdefault(17).jpg
+│       ├── 📁 Cours/
+│       │   ├── 📄 symboles.png
+│       │   ├── 📄 cours electronique numerique.pdf
+│       │   ├── 📄 Cours sur les bascules.pdf
+│       │   └── 📄 Relations.png
+│       ├── 📁 (781) CAFE ECO #EP 08 Statistique Descriptive S1 Les indices de prix _ indice élémentaire (simple) Darija - YouTube_files/
+│       │   ├── 📄 saved_resource(1).html
+│       │   ├── 📄 css(1)
+│       │   ├── 📄 hq720(2).jpg
+│       │   ├── 📄 hqdefault(14).jpg
+│       │   ├── 📄 hq720(4).jpg
+│       │   ├── 📄 hqdefault.jpg
+│       │   ├── 📄 saved_resource.html
+│       │   ├── 📄 hq720.jpg
+│       │   ├── 📄 css
+│       │   ├── 📄 unnamed(22).jpg
+│       │   ├── 📄 hqdefault(2).jpg
+│       │   ├── 📄 unnamed(6).jpg
+│       │   ├── 📄 hqdefault(23).jpg
+│       │   ├── 📄 hqdefault(3).jpg
+│       │   ├── 📄 unnamed(17).jpg
+│       │   ├── 📄 hq720(6).jpg
+│       │   ├── 📄 hqdefault(20).jpg
+│       │   ├── 📄 hqdefault(11).jpg
+│       │   ├── 📄 hqdefault(22).jpg
+│       │   ├── 📄 unnamed(13).jpg
+│       │   ├── 📄 hqdefault(17).jpg
+│       │   ├── 📄 miniplayer.js.téléchargement
+│       │   ├── 📄 hqdefault(8).jpg
+│       │   ├── 📄 unnamed(7).jpg
+│       │   ├── 📄 www-main-desktop-home-page-skeleton-webp-vfl4iT_wE.css
+│       │   ├── 📄 unnamed(3).jpg
+│       │   ├── 📄 hq720(1).jpg
+│       │   ├── 📄 hq720(5).jpg
+│       │   ├── 📄 unnamed(18).jpg
+│       │   ├── 📄 unnamed(9).jpg
+│       │   ├── 📄 unnamed(19).jpg
+│       │   ├── 📄 unnamed(21).jpg
+│       │   ├── 📄 www-tampering.js.téléchargement
+│       │   ├── 📄 endscreen.js.téléchargement
+│       │   ├── 📄 photo(1).jpg
+│       │   ├── 📄 unnamed(15).jpg
+│       │   ├── 📄 unnamed(2).jpg
+│       │   ├── 📄 spf.js.téléchargement
+│       │   ├── 📄 hqdefault(16).jpg
+│       │   ├── 📄 unnamed(8).jpg
+│       │   ├── 📄 unnamed(12).jpg
+│       │   ├── 📄 unnamed(11).jpg
+│       │   ├── 📄 hqdefault(6).jpg
+│       │   ├── 📄 hqdefault(7).jpg
+│       │   ├── 📄 unnamed(20).jpg
+│       │   ├── 📄 unnamed(1).jpg
+│       │   ├── 📄 hqdefault(15).jpg
+│       │   ├── 📄 unnamed.jpg
+│       │   ├── 📄 scheduler.js.téléchargement
+│       │   ├── 📄 unnamed(4).jpg
+│       │   ├── 📄 photo.jpg
+│       │   ├── 📄 network.js.téléchargement
+│       │   ├── 📄 www-prepopulator.js.téléchargement
+│       │   ├── 📄 www-main-desktop-watch-page-skeleton-webp-vflQ9GNSj.css
+│       │   ├── 📄 www-onepick-webp-vflsYL2Tr.css
+│       │   ├── 📄 captions.js.téléchargement
+│       │   ├── 📄 custom-elements-es5-adapter.js.téléchargement
+│       │   ├── 📄 hq720(3).jpg
+│       │   ├── 📄 hqdefault(13).jpg
+│       │   ├── 📄 annotations_module.js.téléchargement
+│       │   ├── 📄 hqdefault_live.jpg
+│       │   ├── 📄 hqdefault(1).jpg
+│       │   ├── 📄 web-animations-next-lite.min.js.téléchargement
+│       │   ├── 📄 remote.js.téléchargement
+│       │   ├── 📄 hqdefault(21).jpg
+│       │   ├── 📄 webcomponents-sd.js.téléchargement
+│       │   ├── 📄 hqdefault(5).jpg
+│       │   ├── 📄 unnamed(14).jpg
+│       │   ├── 📄 hqdefault(9).jpg
+│       │   ├── 📄 unnamed(5).jpg
+│       │   ├── 📄 hqdefault(4).jpg
+│       │   ├── 📄 css(2)
+│       │   ├── 📄 unnamed(16).jpg
+│       │   ├── 📄 hqdefault(10).jpg
+│       │   ├── 📄 hqdefault(19).jpg
+│       │   ├── 📄 hqdefault(12).jpg
+│       │   ├── 📄 hqdefault(18).jpg
+│       │   ├── 📄 hq720(7).jpg
+│       │   └── 📄 unnamed(10).jpg
+│       ├── 📁 Examens/
+│       │   ├── 📄 2015(1).jpeg
+│       │   ├── 📄 2016.jpeg
+│       │   └── 📄 2015(2).jpeg
+│       ├── 📁 numerique/
+│       │   ├── 📄 IMG_20190403_112536.jpg
+│       │   ├── 📄 IMG_20190403_122606.jpg
+│       │   ├── 📄 IMG_20190403_112547.jpg
+│       │   ├── 📄 IMG_20190403_112711.jpg
+│       │   ├── 📄 IMG_20190403_112529.jpg
+│       │   └── 📄 IMG_20190403_112720.jpg
+│       ├── 📁 (1986) Electronique analogique S5 - YouTube_files/
+│       │   ├── 📄 hqdefault(7).jpg
+│       │   ├── 📄 unnamed(3).jpg
+│       │   ├── 📄 hq720(5).jpg
+│       │   ├── 📄 remote.js.téléchargement
+│       │   ├── 📄 unnamed(16).jpg
+│       │   ├── 📄 www-tampering.js.téléchargement(1)
+│       │   ├── 📄 saved_resource(1).html
+│       │   ├── 📄 hqdefault(6).jpg
+│       │   ├── 📄 unnamed(11).jpg
+│       │   ├── 📄 miniplayer.js.téléchargement
+│       │   ├── 📄 www-main-desktop-watch-page-skeleton-webp-vflQ9GNSj.css
+│       │   ├── 📄 hqdefault(13).jpg
+│       │   ├── 📄 unnamed(22)(1).jpg
+│       │   ├── 📄 unnamed(4).jpg
+│       │   ├── 📄 unnamed(17).jpg
+│       │   ├── 📄 css
+│       │   ├── 📄 hqdefault(16).jpg
+│       │   ├── 📄 endscreen.js.téléchargement
+│       │   ├── 📄 hqdefault(15).jpg
+│       │   ├── 📄 captions.js.téléchargement
+│       │   ├── 📄 hq720(1).jpg
+│       │   ├── 📄 photo.jpg
+│       │   ├── 📄 unnamed(15).jpg
+│       │   ├── 📄 scheduler.js.téléchargement
+│       │   ├── 📄 hqdefault(14).jpg
+│       │   ├── 📄 unnamed(31).jpg
+│       │   ├── 📄 unnamed.jpg
+│       │   ├── 📄 unnamed(2).jpg
+│       │   ├── 📄 hqdefault.jpg
+│       │   ├── 📄 unnamed(26).jpg
+│       │   ├── 📄 unnamed(28).jpg
+│       │   ├── 📄 unnamed(20).jpg
+│       │   ├── 📄 network.js.téléchargement
+│       │   ├── 📄 unnamed(27).jpg
+│       │   ├── 📄 unnamed(22).jpg
+│       │   ├── 📄 unnamed(32).jpg
+│       │   ├── 📄 www-tampering.js.téléchargement(2)
+│       │   ├── 📄 unnamed(24).jpg
+│       │   ├── 📄 hqdefault(5).jpg
+│       │   ├── 📄 unnamed(12).jpg
+│       │   ├── 📄 hqdefault(19).jpg
+│       │   ├── 📄 saved_resource.html
+│       │   ├── 📄 css(2)
+│       │   ├── 📄 unnamed(9).jpg
+│       │   ├── 📄 unnamed(21).jpg
+│       │   ├── 📄 custom-elements-es5-adapter.js.téléchargement
+│       │   ├── 📄 unnamed(2)(1).jpg
+│       │   ├── 📄 hq720(2).jpg
+│       │   ├── 📄 unnamed(7).jpg
+│       │   ├── 📄 unnamed(27)(1).jpg
+│       │   ├── 📄 hq720(4).jpg
+│       │   ├── 📄 hqdefault(2).jpg
+│       │   ├── 📄 unnamed(20)(1).jpg
+│       │   ├── 📄 hqdefault(18).jpg
+│       │   ├── 📄 hqdefault(12).jpg
+│       │   ├── 📄 hq720.jpg
+│       │   ├── 📄 hq720_live.jpg
+│       │   ├── 📄 www-onepick-webp-vflsYL2Tr.css
+│       │   ├── 📄 unnamed(18).jpg
+│       │   ├── 📄 unnamed(23)(1).jpg
+│       │   ├── 📄 css(1)
+│       │   ├── 📄 unnamed(30).jpg
+│       │   ├── 📄 unnamed(1).jpg
+│       │   ├── 📄 spf.js.téléchargement
+│       │   ├── 📄 unnamed(19).webp
+│       │   ├── 📄 hqdefault(4).jpg
+│       │   ├── 📄 unnamed(13).jpg
+│       │   ├── 📄 unnamed(26)(1).jpg
+│       │   ├── 📄 web-animations-next-lite.min.js.téléchargement
+│       │   ├── 📄 unnamed(8).jpg
+│       │   ├── 📄 hq720(3).jpg
+│       │   ├── 📄 hqdefault(1).jpg
+│       │   ├── 📄 www-prepopulator.js.téléchargement
+│       │   ├── 📄 webcomponents-sd.js.téléchargement
+│       │   ├── 📄 unnamed(6).jpg
+│       │   ├── 📄 hqdefault(17).jpg
+│       │   ├── 📄 annotations_module.js.téléchargement
+│       │   ├── 📄 unnamed(25)(1).jpg
+│       │   ├── 📄 unnamed(23).jpg
+│       │   ├── 📄 unnamed(21)(1).jpg
+│       │   ├── 📄 hqdefault(3).jpg
+│       │   ├── 📄 unnamed(10).jpg
+│       │   ├── 📄 hqdefault(9).jpg
+│       │   ├── 📄 unnamed(29).jpg
+│       │   ├── 📄 hqdefault(11).jpg
+│       │   ├── 📄 unnamed(25).jpg
+│       │   ├── 📄 unnamed(24)(1).jpg
+│       │   ├── 📄 www-tampering.js.téléchargement
+│       │   ├── 📄 hqdefault(8).jpg
+│       │   ├── 📄 unnamed(14).jpg
+│       │   ├── 📄 photo(1).jpg
+│       │   ├── 📄 hqdefault(10).jpg
+│       │   ├── 📄 www-main-desktop-home-page-skeleton-webp-vfl4iT_wE.css
+│       │   └── 📄 unnamed(5).jpg
+│       ├── 📁 (781) les structures en langage c (Partie 1 _4 ) - YouTube_files/
+│       │   ├── 📄 css(2)
+│       │   ├── 📄 webcomponents-sd.js.téléchargement
+│       │   ├── 📄 unnamed(2)(1).jpg
+│       │   ├── 📄 www-player-webp.css
+│       │   ├── 📄 unnamed(3).jpg
+│       │   ├── 📄 unnamed(6)(1).jpg
+│       │   ├── 📄 hqdefault(12).jpg
+│       │   ├── 📄 unnamed(5)(1).jpg
+│       │   ├── 📄 network.js.téléchargement
+│       │   ├── 📄 photo(1).jpg
+│       │   ├── 📄 hqdefault(10).jpg
+│       │   ├── 📄 unnamed(6).jpg
+│       │   ├── 📄 featured_channel.jpg
+│       │   ├── 📄 www-main-desktop-watch-page-skeleton-webp-vflQ9GNSj(1).css
+│       │   ├── 📄 hqdefault(13).jpg
+│       │   ├── 📄 unnamed(2).jpg
+│       │   ├── 📄 hqdefault(8).jpg
+│       │   ├── 📄 spf.js.téléchargement
+│       │   ├── 📄 unnamed(4)(1).jpg
+│       │   ├── 📄 hqdefault(9).jpg
+│       │   ├── 📄 unnamed(1).jpg
+│       │   ├── 📄 photo.jpg
+│       │   ├── 📄 custom-elements-es5-adapter.js.téléchargement
+│       │   ├── 📄 hqdefault(5).jpg
+│       │   ├── 📄 annotations_module.js.téléchargement
+│       │   ├── 📄 hqdefault(1).jpg
+│       │   ├── 📄 hqdefault(3).jpg
+│       │   ├── 📄 hqdefault(16).jpg
+│       │   ├── 📄 hqdefault(2).jpg
+│       │   ├── 📄 webcomponents-sd.js.téléchargement(1)
+│       │   ├── 📄 hqdefault(7).jpg
+│       │   ├── 📄 css
+│       │   ├── 📄 endscreen.js.téléchargement
+│       │   ├── 📄 hqdefault(11).jpg
+│       │   ├── 📄 hqdefault(6).jpg
+│       │   ├── 📄 unnamed(3)(1).jpg
+│       │   ├── 📄 web-animations-next-lite.min.js.téléchargement(1)
+│       │   ├── 📄 unnamed(4).jpg
+│       │   ├── 📄 unnamed(7).jpg
+│       │   ├── 📄 scheduler.js.téléchargement
+│       │   ├── 📄 remote.js.téléchargement
+│       │   ├── 📄 hqdefault.jpg
+│       │   ├── 📄 hqdefault_live.jpg
+│       │   ├── 📄 css(1)
+│       │   ├── 📄 www-main-desktop-watch-page-skeleton-webp-vflQ9GNSj.css
+│       │   ├── 📄 hqdefault(15).jpg
+│       │   ├── 📄 www-main-desktop-player-skeleton-webp-vflUDgkBz(1).css
+│       │   ├── 📄 hqdefault(4).jpg
+│       │   ├── 📄 unnamed(5).jpg
+│       │   ├── 📄 miniplayer.js.téléchargement
+│       │   ├── 📄 www-main-desktop-player-skeleton-webp-vflUDgkBz.css
+│       │   ├── 📄 unnamed.jpg
+│       │   ├── 📄 hqdefault(14).jpg
+│       │   └── 📄 web-animations-next-lite.min.js.téléchargement
+│       └── 📁 (2527) Analyse 4 - Plan de Travail - YouTube_files/
+│           ├── 📄 hqdefault(25).jpg
+│           ├── 📄 hqdefault(10).jpg
+│           ├── 📄 unnamed(2).jpg
+│           ├── 📄 www-main-desktop-player-skeleton-webp-vflUDgkBz.css
+│           ├── 📄 hqdefault(39).jpg
+│           ├── 📄 hqdefault(20).jpg
+│           ├── 📄 unnamed(4).jpg
+│           ├── 📄 hqdefault(3).jpg
+│           ├── 📄 hqdefault(34).jpg
+│           ├── 📄 unnamed(3).jpg
+│           ├── 📄 hqdefault(15).jpg
+│           ├── 📄 hqdefault(21).jpg
+│           ├── 📄 spf.js.téléchargement
+│           ├── 📄 custom-elements-es5-adapter.js.téléchargement
+│           ├── 📄 unnamed.jpg
+│           ├── 📄 css(2)
+│           ├── 📄 hqdefault(11).jpg
+│           ├── 📄 hqdefault(29).jpg
+│           ├── 📄 photo(1).jpg
+│           ├── 📄 hqdefault(7).jpg
+│           ├── 📄 hqdefault(12).jpg
+│           ├── 📄 hqdefault(4).jpg
+│           ├── 📄 www-player-webp.css
+│           ├── 📄 hqdefault(33).jpg
+│           ├── 📄 webcomponents-sd.js.téléchargement
+│           ├── 📄 css(1)
+│           ├── 📄 hqdefault(14).jpg
+│           ├── 📄 hqdefault(22).jpg
+│           ├── 📄 hqdefault.jpg
+│           ├── 📄 hqdefault(37).jpg
+│           ├── 📄 hqdefault(27).jpg
+│           ├── 📄 hqdefault(30).jpg
+│           ├── 📄 hqdefault(31).jpg
+│           ├── 📄 hqdefault(38).jpg
+│           ├── 📄 featured_channel.jpg
+│           ├── 📄 web-animations-next-lite.min.js.téléchargement
+│           ├── 📄 hqdefault(35).jpg
+│           ├── 📄 hqdefault(18).jpg
+│           ├── 📄 unnamed(5).jpg
+│           ├── 📄 unnamed(1).jpg
+│           ├── 📄 hqdefault(24).jpg
+│           ├── 📄 hqdefault(16).jpg
+│           ├── 📄 hqdefault(26).jpg
+│           ├── 📄 hqdefault(17).jpg
+│           ├── 📄 hqdefault(13).jpg
+│           ├── 📄 network.js.téléchargement
+│           ├── 📄 hqdefault(1).jpg
+│           ├── 📄 hqdefault(2).jpg
+│           ├── 📄 annotations_module.js.téléchargement
+│           ├── 📄 hqdefault(6).jpg
+│           ├── 📄 scheduler.js.téléchargement
+│           ├── 📄 remote.js.téléchargement
+│           ├── 📄 hqdefault(5).jpg
+│           ├── 📄 miniplayer.js.téléchargement
+│           ├── 📄 photo.jpg
+│           ├── 📄 css
+│           ├── 📄 endscreen.js.téléchargement
+│           ├── 📄 hqdefault(36).jpg
+│           ├── 📄 www-main-desktop-watch-page-skeleton-webp-vflQ9GNSj.css
+│           ├── 📄 hqdefault(19).jpg
+│           ├── 📄 hqdefault(28).jpg
+│           ├── 📄 hqdefault(9).jpg
+│           ├── 📄 saved_resource.html
+│           ├── 📄 hqdefault(32).jpg
+│           ├── 📄 hqdefault(8).jpg
+│           └── 📄 hqdefault(23).jpg
+├── 📁 Electronique numerique/
+│   ├── 🔗📁 ELN/  (raccourci)
+│   │   ├── 📄 Exercices et problemes ELN.pdf
+│   │   ├── 📄 amplification.pdf
+│   │   ├── 📄 polycope_des_exercices ELN.pdf
+│   │   ├── 📄 Norton thevenin.pdf
+│   │   ├── 📄 Techniques d'analyse de circuits.pdf
+│   │   ├── 📄 theoremesuperposition.pdf
+│   │   ├── 📄 Exercices-Superposition-Thevenin-Norton.pdf
+│   │   ├── 📄 ELN corrige1.pdf
+│   │   ├── 📄 td électronique  corriger.pdf
+│   │   ├── 📄 Examen ELN.pdf
+│   │   ├── 📄 chapitre-6-transistor-bipolaire-en-regime-variable.pdf
+│   │   ├── 📄 Résumé-ELN.pdf
+│   │   ├── 📄 ElectroniqueFondamentale.pdf
+│   │   ├── 📄 cours_EN2_1.pdf
+│   │   ├── 📄 57- les_diodes-redressement (17 Décembre 2015).pdf
+│   │   ├── 📄 29- resolution-par-methode-norton-millman-kennely-14 (07 Décembre 2015).pdf
+│   │   ├── 📄 28- resolution-par-methode-superposition-thevenin-13 (07 Décembre 2015).pdf
+│   │   ├── 📄 les diodes.pdf
+│   │   ├── 📄 3_diodes.pdf
+│   │   ├── 📄 L'Electronique Pour les Nuls ( PDFDrive.com ).pdf
+│   │   ├── 📄 Polycopie-S.-BENKARA-ELN-F-1.pdf
+│   │   └── 📄 Chap-3-Theoreme-de-Thevenin-et-de-Northon.pdf
+│   ├── 🔗📁 °Electronique Numérique SMI BY SABORPCMATH/  (raccourci)
+│   │   ├── 📄 +SMI3 TDS ELECTRONIQUE NUMÉRIQUE FSSM-MARRAKECH.pdf
+│   │   ├── 📄 +SMI3 TDS ELECTRONIQUE NUMÉRIQUE FSJ-ELJADIDA.pdf
+│   │   ├── 📄 +SMI3 TDS ELECTRONIQUE NUMÉRIQUE FSDM-FES.pdf
+│   │   ├── 📄 +SMI3 TDS ELECTRONIQUE NUMÉRIQUE FSBM-CASABLANCA.pdf
+│   │   ├── 📄 +SMI3 TDS ELECTRONIQUE NUMÉRIQUE FPO-OUARZAZATE.pdf
+│   │   ├── 📄 +SMI3 TDS ELECTRONIQUE NUMÉRIQUE FPK-KHOURIBGA.pdf
+│   │   ├── 📄 +SMI3 TDS 2020 ELECTRONIQUE NUMÉRIQUE FSA-AGADIR.pdf
+│   │   ├── 📄 +SMI3 TDS 2018 ELECTRONIQUE NUMÉRIQUE FSA-AGADIR.pdf
+│   │   ├── 📄 +SMI3 TDS 20-21 ELECTRONIQUE NUMÉRIQUE FST-TETOUAN.pdf
+│   │   ├── 📄 +SMI3 TDS 19-20 ELECTRONIQUE NUMÉRIQUE FST-TETOUAN.pdf
+│   │   ├── 📄 ++SMI3 COURS TDS 20 21 ELECTRONIQUE NUMÉRIQUE FSAC-CASABLANCA.pdf
+│   │   ├── 📄 ++SMI3 COURS TDS 17 18 ELECTRONIQUE NUMÉRIQUE FSAC-CASABLANCA.pdf
+│   │   ├── 📄 ++SMI3 COURS ELECTRONIQUE NUMÉRIQUE FST-TETOUAN.pdf
+│   │   ├── 📄 ++SMI3 COURS ELECTRONIQUE NUMÉRIQUE FSSM-MARRAKECH.pdf
+│   │   ├── 📄 ++SMI3 COURS ELECTRONIQUE NUMÉRIQUE FSM-MEKNES.pdf
+│   │   ├── 📄 ++SMI3 COURS ELECTRONIQUE NUMÉRIQUE FPL-LARACH.pdf
+│   │   ├── 📄 ++SMI3 COURS ELECTRONIQUE NUMÉRIQUE FPK-KHOURIBGA.pdf
+│   │   ├── 📄 °SMI3 EXAMENS ELECTRONIQUE NUMÉRIQUE FST-TETOUAN.pdf
+│   │   ├── 📄 °SMI3 EXAMENS ELECTRONIQUE NUMÉRIQUE FSR-RABAT.pdf
+│   │   ├── 📄 °SMI3 EXAMENS ELECTRONIQUE NUMÉRIQUE FSDM-FES.pdf
+│   │   ├── 📄 °SMI3 EXAMENS ELECTRONIQUE NUMÉRIQUE FSBM-CASABLANCA.pdf
+│   │   ├── 📄 °SMI3 EXAMENS ELECTRONIQUE NUMÉRIQUE FSAC-CASABLANCA.pdf
+│   │   ├── 📄 °SMI3 EXAMENS ELECTRONIQUE NUMÉRIQUE FSA-AGADIR.pdf
+│   │   └── 📄 ++SMI3 COURS ELECTRONIQUE NUMÉRIQUE FPO-OUARZAZATE.pdf
+│   ├── 🔗📁 °Electronique Numérique SMI BY SABORPCMATH/  (raccourci)
+│   │   └── ⚠️  [Référence circulaire ignorée]
+│   ├── 📄 Exercices_bascules JK.pdf
+│   ├── 📄 Corrigé d'exercices_compteurs synchrones.pdf
+│   ├── 📄 Corrigé d'exercices_bascules JK.pdf
+│   ├── 📄 Série N° 5 d’exercices corrigés.pdf
+│   ├── 📄 Problèmes de logique combinatoire.pdf
+│   ├── 📄 exercices_compteur-et-bascules.pdf
+│   ├── 📄 Résumé Comment brancher une bascule pour charger une information.pdf
+│   ├── 📄 Exercices_compteurs synchrones.pdf
+│   ├── 📄 Corrigé d'exercices_compteurs_decompteurs asynchrones.pdf
+│   ├── 📄 Corrige-TD06-seque-difficile.pdf
+│   ├── 📄 exercices Tableau de KARNAUGH.pdf
+│   ├── 📄 Exercices_bascules D.pdf
+│   ├── 📄 Exercices de Révision sur les Circuits .pdf
+│   ├── 📄 Corrigé d'exercices_compteurs asynchrones.pdf
+│   ├── 📄 Problèmes de logique combinatoire  corrigés.pdf
+│   ├── 📄 exercices Conversions entre bases numériques.pdf
+│   ├── 📄 Corrigés exercices Portes logiques et algèbre de Boole.pdf
+│   ├── 📄 Corrigé d'exercices_bascules D.pdf
+│   ├── 📄 Corrigés d'exercices Conversions entre bases numériques.pdf
+│   ├── 📄 Exercices Compteurs  décompteurs asynchrones.pdf
+│   ├── 📄 Exercices_compteurs asynchrones.pdf
+│   ├── 📄 Corrigé des exercices Tableau de KARNAUGH.pdf
+│   ├── 📄 Synthese Compteur Asynchrone.pdf
+│   ├── 📄 Corrigés d'exercices_multiplexeur 74151.pdf
+│   ├── 📄 Exercices de Révision sur les Circuits Combinatoires, Multiplexeur, Démultiplexeur et Circuit Séquentiel (Solution).pdf
+│   ├── 📄 Corrigés des Problèmes de logique combinatoire.pdf
+│   ├── 📄 Exercices Portes logiques et algèbre de Boole.pdf
+│   ├── 📄 Cours_exercices corr circuits seqauentielles.pdf
+│   └── 📄 Série N° 6 d’exercices corrigés.pdf
+└── 📁 Électronique analogique/
+    ├── 🔗📁 Electronique analogiques/  (raccourci)
+    │   ├── 📄 chap4 ELN analogique 1.pdf
+    │   ├── 📄 chap3 ELN analog1.pdf
+    │   ├── 📄 chap3 ELN analog1.docx
+    │   ├── 📄 chap4 ELN analogique 1.docx
+    │   ├── 📄 chap 2 les quadripoles.pdf
+    │   ├── 📄 td2 eln.pdf
+    │   ├── 📄 td1 eln.pdf
+    │   ├── 📄 td3 eln.pdf
+    │   ├── 📄 td4 eln.pdf
+    │   └── 📄 chap1 ELN analog1.pdf
+    ├── 🔗📁 +Electronique Analogique SABORPCMATH.COM SMP5/  (raccourci)
+    │   ├── 📄 °TD Electronique Analogique FSSM MARRAKECH 20 21 SMP5.pdf
+    │   ├── 📄 °TD Electronique Analogique FSSM MARRAKECH 18 19 SMP5.pdf
+    │   ├── 📄 °TD Electronique Analogique FSSM MARRAKECH 16 17 SMP5.pdf
+    │   ├── 📄 °TD Electronique Analogique FSR RABAT 20 21 SMP5.pdf
+    │   ├── 📄 °TD Electronique Analogique FSR RABAT 19 20 SMP5.pdf
+    │   ├── 📄 °TD Electronique Analogique FSR RABAT 11 12 SMP5.pdf
+    │   ├── 📄 °TD Electronique Analogique FSDM FES 20 21 SMP5.pdf
+    │   ├── 📄 °TD Electronique Analogique FSDM FES 12 13 SMP5.pdf
+    │   ├── 📄 °TD Electronique Analogique FSBM CASABLANCA S3 4 5 20 21 SMP5.pdf
+    │   ├── 📄 °TD Electronique Analogique FSA AGADIR 16 17 SMP5.pdf
+    │   ├── 📄 °TD Electronique Analogique FSA AGADIR 14 15 SMP5.pdf
+    │   ├── 📄 °TD Electronique Analogique FPK KHOURIBGA SMP5.pdf
+    │   ├── 📄 °EXAMENS Electronique Analogique FSSM MARRAKECH SMP5.pdf
+    │   ├── 📄 °EXAMENS Electronique Analogique FSO OUAJDA SMP5.pdf
+    │   ├── 📄 °EXAMENS Electronique Analogique FSDM FES SMP5.pdf
+    │   ├── 📄 °EXAMENS Electronique Analogique FSA AGADIR SMP5.pdf
+    │   ├── 📄 °COURS Electronique Analogique FSSM MARRAKECH 20 21 SMP5.pdf
+    │   ├── 📄 °COURS Electronique Analogique FSSM MARRAKECH 18 19 SMP5.pdf
+    │   ├── 📄 °COURS Electronique Analogique FSR RABAT 20 21 SMP5.pdf
+    │   ├── 📄 °COURS Electronique Analogique FSK KENITRA 16 17 SMP5.pdf
+    │   ├── 📄 °COURS Electronique Analogique FSJ ELJADIDA SMP5.pdf
+    │   ├── 📄 °COURS Electronique Analogique FSBM CASABLANCA SMP5.pdf
+    │   ├── 📄 °COURS Electronique Analogique FSA AGADIR 15 16 SMP5.pdf
+    │   └── 📄 °COURS Electronique Analogique FPK KHOURIBGA SMP5.pdf
+    ├── 📁 TDs TPs et exercices corrigés/
+    │   ├── 🔗📁 °TD Electronique Analogique FPK KHOURIBGA SMP5.pdf/  (raccourci)
+    │   ├── 🔗📁 °TD Electronique Analogique FSA AGADIR 14 15 SMP5.pdf/  (raccourci)
+    │   ├── 🔗📁 °TD Electronique Analogique FSA AGADIR 16 17 SMP5.pdf/  (raccourci)
+    │   ├── 🔗📁 °TD Electronique Analogique FSBM CASABLANCA S3 4 5 20 21 SMP5.pdf/  (raccourci)
+    │   ├── 🔗📁 °TD Electronique Analogique FSDM FES 12 13 SMP5.pdf/  (raccourci)
+    │   ├── 🔗📁 °TD Electronique Analogique FSDM FES 20 21 SMP5.pdf/  (raccourci)
+    │   ├── 🔗📁 °TD Electronique Analogique FSR RABAT 11 12 SMP5.pdf/  (raccourci)
+    │   ├── 🔗📁 °TD Electronique Analogique FSR RABAT 19 20 SMP5.pdf/  (raccourci)
+    │   ├── 🔗📁 °TD Electronique Analogique FSR RABAT 20 21 SMP5.pdf/  (raccourci)
+    │   ├── 🔗📁 °TD Electronique Analogique FSSM MARRAKECH 16 17 SMP5.pdf/  (raccourci)
+    │   ├── 🔗📁 °TD Electronique Analogique FSSM MARRAKECH 18 19 SMP5.pdf/  (raccourci)
+    │   ├── 🔗📁 °TD Electronique Analogique FSSM MARRAKECH 20 21 SMP5.pdf/  (raccourci)
+    │   ├── 📄 Exercices sur les montages à amplificateurs opérationnels.pdf
+    │   ├── 📄 TD transistor_bip.pdf
+    │   ├── 📄 Exercices corriges Amplificateur opérationnel en régime linéaire.pdf
+    │   ├── 📄 Exercices corriges Alimentation régulée régulateurs monolithiques.pdf
+    │   ├── 📄 Exercices corriges Diode.pdf
+    │   ├── 📄 Série TD2 avec correction.pdf
+    │   ├── 📄 TD N°07 LES CONVERTISSEURS CAN.pdf
+    │   ├── 📄 TD N°2  Les diodes.pdf
+    │   ├── 📄 Exercices corriges Redressement et filtrage.pdf
+    │   ├── 📄 Exercices corriges sur les montages à amplificateurs opérationnels.pdf
+    │   ├── 📄 Exercices corrigés transistor.pdf
+    │   ├── 📄 Exercices corriges Diode zener.pdf
+    │   ├── 📄 Exercices corrigés Polarisation d'un transistor bipolaire.pdf
+    │   ├── 📄 TRAVAUX DIRIGES D’ELECTRONIQUE.pdf
+    │   ├── 📄 Travaux Pratiques d'Electronique analogique.pdf
+    │   ├── 📄 Série 2 d'exercices corriges Amplificateur opérationnel.pdf
+    │   ├── 📄 exercices corrigés amplificateur.pdf
+    │   ├── 📄 Série TD1 d’électronique  Amplification par transistor bipolaire.pdf
+    │   ├── 📄 TD N°06 LES CONVERTISSEURS CNA.pdf
+    │   ├── 📄 Exercices corriges Redressement monophasé non commandé.pdf
+    │   ├── 📄 Exercices corriges Amplificateur opérationnel.pdf
+    │   ├── 📄 Quelques exercices Amplificateurs.pdf
+    │   ├── 📄 TD corrigé-diode zener.pdf
+    │   ├── 📄 Exercices corriges Générateurs de signaux.pdf
+    │   ├── 📄 Exercices corriges Emetteur commun et diagramme fonctionnel.pdf
+    │   ├── 📄 S4 TD ELECTRONIQUE  TD SERIE  Transistor Bipolaire_2.pdf
+    │   ├── 📄 Exercices corriges Astables RC à AOP.pdf
+    │   ├── 📄 Travaux dirigés d’électronique Amplification par transistor bipolaire.pdf
+    │   ├── 📄 Exercices corriges Redresseurs de précisions.pdf
+    │   ├── 📄 Exercices avec solutions. (Exercices des TDs et des anciens examens).pdf
+    │   ├── 📄 TD3 transistor Corrige.pdf
+    │   └── 📄 Exercices corriges Comparateurs de tensions.pdf
+    ├── 📁 Examens/
+    │   ├── 🔗📁 °EXAMENS Electronique Analogique FSA AGADIR SMP5.pdf/  (raccourci)
+    │   ├── 🔗📁 °EXAMENS Electronique Analogique FSDM FES SMP5.pdf/  (raccourci)
+    │   ├── 🔗📁 °EXAMENS Electronique Analogique FSO OUAJDA SMP5.pdf/  (raccourci)
+    │   ├── 🔗📁 °EXAMENS Electronique Analogique FSSM MARRAKECH SMP5.pdf/  (raccourci)
+    │   ├── 📄 S4 Contr_le corrig_ d'_lectronique de base SMPs4 session normale-2016-2017 FSSM.pdf
+    │   └── 📄 S4 Contr_le corrig_ d'_lectronique de base SMPs4 session de rattrapage 2015-2016 FSSM.pdf
+    ├── 📁 Cours/
+    │   ├── 📄 Chapitre II La diode et ses applications  cours.pdf
+    │   ├── 📄 Cours d’Electronique Analogique  cours.pdf
+    │   └── 📄 amplification avec les transistor - cours.pdf
+    └── 📁 analogies/
+        └── 📄 Examen de rattrapage électronique analogique AP2 22_23.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Electronique analogique et numérique 
+═════════════════════════════════════

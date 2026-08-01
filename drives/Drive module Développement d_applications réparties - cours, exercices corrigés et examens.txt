@@ -1,0 +1,268 @@
+📚 MODULE : Développement d'applications réparties    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Développement d'applications réparties.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Développement d'applications réparties/
+├── 📄 Cours Analyse de Texte -Développement d'applications réparties
+├── 🔗📁 intergiciels/  (raccourci)
+│   ├── 📄 Drive module intergiciels - systèmes distribués - cours, exercices corrigés et examens.txt
+│   ├── 🔗📁 SID/  (raccourci)
+│   │   ├── 📁 EXAMS/
+│   │   │   ├── 📄 EXAM SID.pdf
+│   │   │   ├── 📄 corrige_partie2 (1).pdf
+│   │   │   ├── 📄 exo_supp.pdf
+│   │   │   ├── 📄 Examen_SID_22_23.pdf
+│   │   │   ├── 📄 Sid_23_24.pdf
+│   │   │   └── 📄 corrige_partie2.pdf
+│   │   ├── 📁 SOLUTION TD/
+│   │   │   ├── 📄 SOLUTION TD6.pdf
+│   │   │   ├── 📄 SOLUTION TD5.pdf
+│   │   │   ├── 📄 SOLUTION TD4.pdf
+│   │   │   ├── 📄 SOLUTION TD3.pdf
+│   │   │   ├── 📄 SOLUTION TD2.pdf
+│   │   │   └── 📄 SOLUTION TD1.pdf
+│   │   ├── 📁 TD/
+│   │   │   ├── 📄 TD_06_Java_EE_1 (1).pdf
+│   │   │   ├── 📄 Interrogation-22-23-CorrigA.pdf
+│   │   │   ├── 📄 TD_02_Corrige_Exo_4.pdf
+│   │   │   ├── 📄 TD_05_RMI.pdf
+│   │   │   ├── 📄 TD_04.pdf
+│   │   │   ├── 📄 TD_03_SID (1).docx
+│   │   │   ├── 📄 TD_02_SID.pdf
+│   │   │   ├── 📄 Corrige_Exercice.docx
+│   │   │   ├── 📄 Test_de_Niveau.docx
+│   │   │   ├── 📄 TD-01 (3).docx
+│   │   │   └── 📄 TD-01.docx
+│   │   └── 📁 COURS/
+│   │       ├── 📄 Plan de cours.pptx
+│   │       ├── 📄 Cours 4.pdf
+│   │       ├── 📄 Cours 3 partie 1.pdf
+│   │       ├── 📄 Cours 2.pdf
+│   │       └── 📄 Cours 1.pdf
+│   ├── 🔗📁 FST TETOUAN archi distribuee 2019/  (raccourci)
+│   │   ├── 📁 tp/
+│   │   │   ├── 📄 TP 5 - ARCHITECTURE DISTRIBUÉE.pdf
+│   │   │   ├── 📄 TP 4 - ARCHITECTURE DISTRIBUÉE.pdf
+│   │   │   ├── 📄 TP 3 - ARCHITECTURE DISTRIBUÉE.pdf
+│   │   │   ├── 📄 TP 2 - ARCHITECTURE DISTRIBUÉE.pdf
+│   │   │   └── 📄 TP 1 - ARCHITECTURE DISTRIBUÉE.pdf
+│   │   └── 📁 cour/
+│   │       ├── 📄 Generation des etats jasperreports - partie 5.pdf
+│   │       ├── 📄 Connexion a la base des données - JDBC - Partie 4 .pdf
+│   │       ├── 📄 Programmation evenementielle [java] - Partie 3.pdf
+│   │       ├── 📄 Programmation evenementielle [java] - Partie 2  (- videos).pdf
+│   │       ├── 📄 Programmation evenementielle [java] - Partie 1 (-video).pdf
+│   │       └── 📄 - A -  Java base [Notions de base] .pdf
+│   ├── 🔗📁 FSO SMI Systèmes Distribués/  (raccourci)
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 TP_ArchitecturesRepartties_M2I_S2_2019-2020.pdf
+│   │   ├── 📄 TD_ArchitecturesRepartties_M2I_S2_2019-2020.pdf
+│   │   └── 📄 CoursArchitecturesRepartties_M2I_S2_2019-2020.pdf
+│   ├── 📄 ++Exercice RMI....pdf
+│   ├── 📄 exm p2.png
+│   ├── 📄 exm.png
+│   ├── 📄 Résumé Exam MOUHIM Ghita.pdf
+│   ├── 📄 Résumé.txt
+│   ├── 📄 chap sockets.pdf
+│   ├── 📄 1-qcm-60-points-par-jacques-laforgue_compress.pdf
+│   ├── 📄 RMI et design patterns.pdf
+│   ├── 📄 exm RMI et design patterns.pdf
+│   ├── 📄 TP_RMI_corrige.pdf
+│   ├── 📄 chap2 cours s3.pdf
+│   ├── 📄 vdocuments.mx_po-java-td9-correction-2.pdf
+│   ├── 📄 QCM (60 points).pdf
+│   ├── 📄 chap3 RMI.pdf
+│   ├── 📄 chap1.pdf
+│   ├── 📄 qcm.pdf
+│   ├── 📁 Ingénierie logicielle à base de composants/
+│   │   ├── 📄 correctionProf.rar
+│   │   ├── 📄 ejbProjectSaraEDDahbi(complet).rar
+│   │   ├── 📄 HanaeBenseddik-TP-EJB.pdf
+│   │   ├── 📄 TP.pdf
+│   │   ├── 📄 chapitre 5 Les Entreprise Java Beans (EJB).pdf
+│   │   ├── 📄 coursejb-youssfi.pdf
+│   │   └── 📄 karimKHACHOUCH-RapportEJB.pdf
+│   └── 📁 TPs/
+│       ├── 📁 TP0 files/
+│       │   └── 📄 tp0.pdf
+│       ├── 📁 tp1 threads/
+│       │   ├── 📄 ThreadsTP.zip
+│       │   ├── 📄 tp1.pdf
+│       │   └── 📁 ThreadsTP/
+│       │       ├── 📄 pom.xml
+│       │       ├── 📁 .idea/
+│       │       │   ├── 📄 .gitignore
+│       │       │   ├── 📄 compiler.xml
+│       │       │   ├── 📄 jarRepositories.xml
+│       │       │   ├── 📄 misc.xml
+│       │       │   ├── 📄 runConfigurations.xml
+│       │       │   └── 📄 workspace.xml
+│       │       ├── 📁 src/
+│       │       │   ├── 📁 main/
+│       │       │   │   ├── 📁 java/
+│       │       │   │   │   ├── 📄 Exercice1.java
+│       │       │   │   │   ├── 📄 Exercice2.java
+│       │       │   │   │   ├── 📄 Exercice3.java
+│       │       │   │   │   ├── 📄 Exercice4.java
+│       │       │   │   │   ├── 📄 Exercice5.java
+│       │       │   │   │   ├── 📄 Exercice6.java
+│       │       │   │   │   └── 📄 Exercice7.java
+│       │       │   │   └── 📁 resources/
+│       │       │   └── 📁 test/
+│       │       │       └── 📁 java/
+│       │       └── 📁 target/
+│       │           ├── 📁 classes/
+│       │           │   ├── 📄 Exercice1$ThreadCompteur.class
+│       │           │   ├── 📄 Exercice1.class
+│       │           │   ├── 📄 Exercice2$ThreadAffichage.class
+│       │           │   ├── 📄 Exercice2.class
+│       │           │   ├── 📄 Exercice3$CompteurConcurrent.class
+│       │           │   ├── 📄 Exercice3$ThreadRecherche.class
+│       │           │   ├── 📄 Exercice3.class
+│       │           │   ├── 📄 Exercice4$Alphabet.class
+│       │           │   ├── 📄 Exercice4.class
+│       │           │   ├── 📄 Exercice5$ThreadValeur.class
+│       │           │   ├── 📄 Exercice5.class
+│       │           │   ├── 📄 Exercice6$Synchronisateur.class
+│       │           │   ├── 📄 Exercice6$ThreadAffichage.class
+│       │           │   ├── 📄 Exercice6.class
+│       │           │   ├── 📄 Exercice7$ThreadAffichage.class
+│       │           │   └── 📄 Exercice7.class
+│       │           └── 📁 generated-sources/
+│       │               └── 📁 annotations/
+│       ├── 📁 tp2 socket/
+│       │   ├── 📄 chap 2 socket.pdf
+│       │   └── 📄 tp2.pdf
+│       ├── 📁 TP4_proj biblio/
+│       │   ├── 📄 Projet RMI_GestionBiblio_code et demo.rar
+│       │   └── 📄 projet.pdf
+│       ├── 📁 tp5_android socket/
+│       │   └── 📄 Projet socket + android.rar
+│       └── 📁 TP_intergiciels/
+│           ├── 📁 TP1_Files/
+│           │   └── 📁 tp1/
+│           │       ├── 📄 client.java
+│           │       ├── 📄 main.java
+│           │       └── 📄 tp1_files.java
+│           ├── 📁 TP2_Threads/
+│           │   └── 📁 tp2_threads/
+│           │       ├── 📄 ex1_ThreadComptuer.java
+│           │       ├── 📄 Impression.java
+│           │       ├── 📄 ThreadCompteur.java
+│           │       ├── 📄 ThreatWait.java
+│           │       ├── 📄 TPrint.java
+│           │       └── 📁 ex3/
+│           │           ├── 📄 CompteurConcurrent.java
+│           │           ├── 📄 Exercice1.java
+│           │           ├── 📄 Exercice2.java
+│           │           ├── 📄 Exercice3.java
+│           │           ├── 📄 Exercice4.java
+│           │           ├── 📄 Exercice5.java
+│           │           ├── 📄 Exercice6.java
+│           │           ├── 📄 Exercice7.java
+│           │           └── 📄 ThreadShearch.java
+│           ├── 📁 TP3_Sockets/
+│           │   ├── 📁 tp3/
+│           │   │   ├── 📁 datagram/
+│           │   │   │   ├── 📄 Client.java
+│           │   │   │   └── 📄 Server.java
+│           │   │   └── 📁 sockets/
+│           │   │       ├── 📄 Client.java
+│           │   │       ├── 📄 Server.java
+│           │   │       ├── 📄 Server_sockets.java
+│           │   │       └── 📄 Service.java
+│           │   ├── 📁 TpAtelier_cas1/
+│           │   │   ├── 📄 Client.java
+│           │   │   └── 📄 Server.java
+│           │   ├── 📁 TpAtelier_cas1bis/
+│           │   │   ├── 📄 Client.java
+│           │   │   └── 📄 Server.java
+│           │   ├── 📁 TpAtelier_cas2/
+│           │   │   ├── 📄 Client.java
+│           │   │   ├── 📄 Personne.java
+│           │   │   └── 📄 Server.java
+│           │   ├── 📁 TpAtelier_cas3/
+│           │   │   ├── 📄 Client.java
+│           │   │   ├── 📄 Personne.java
+│           │   │   └── 📄 Server.java
+│           │   ├── 📁 TpAtelier_cas4/
+│           │   │   ├── 📄 Client.java
+│           │   │   ├── 📄 Individu.java
+│           │   │   └── 📄 Serveur.java
+│           │   ├── 📁 TpAtelier_cas5/
+│           │   │   ├── 📄 Client.java
+│           │   │   ├── 📄 Personne.java
+│           │   │   └── 📄 Serveur.java
+│           │   └── 📁 TpAtelier_cas6/
+│           │       ├── 📄 Client.java
+│           │       ├── 📄 Individu.java
+│           │       └── 📄 Serveur.java
+│           └── 📁 TP5_RMI/
+│               ├── 📁 Client/
+│               │   ├── 📄 Client.java
+│               │   └── 📄 ITempiratureSensor.java
+│               ├── 📁 Ex1/
+│               │   ├── 📄 Client_parking.java
+│               │   ├── 📄 IParking.java
+│               │   ├── 📄 ParkingCar.java
+│               │   └── 📄 Parking_Server.java
+│               ├── 📁 ex2_banque/
+│               │   ├── 📄 Bank_Server.java
+│               │   ├── 📄 Client_bank.java
+│               │   └── 📄 IBank.java
+│               └── 📁 Server/
+│                   ├── 📄 ITempiratureSensor.java
+│                   ├── 📄 Serveur.java
+│                   └── 📄 TemperatureSensor.java
+├── 📄 DARE-20260327T200341Z-3-001.zip
+├── 📁 Examens/
+│   ├── 📄 Examen DARE M1 Réseaux et Systèmes Distribués -Développement d'applications réparties
+│   ├── 📄 Examen DARE M1 Reseaux et Systemes Distribues -Développement d'applications réparties
+│   ├── 📄 Examen DARE 2018-2019 -Développement d'applications réparties
+│   ├── 📄 Examen DARE M1 Reseaux et Systemes Distribues -Développement d'applications réparties
+│   └── 📄 Exercices TD DARE -Développement d'applications réparties
+├── 📁 TPs et TDs/
+│   ├── 📄 Exercices TD Programmation concurrente avec les Threads
+│   ├── 📄 Exercices TP Les Threads Concurrence Et Synchronisation
+│   ├── 📄 Exercices TD Développement d'applications réparties
+│   ├── 📄 Exercices TP Les entrées et sorties en java -Développement d'applications réparties
+│   ├── 📄 Exercices TP Communication par Sockets -Développement d'applications réparties
+│   ├── 📄 Exercices TP Les entrées et sorties en java -Développement d'applications réparties
+│   ├── 📄 Exercices TP Communication par Middleware RMI -Développement d'applications réparties
+│   └── 📁 Supports/
+│       ├── 📄 Exercices TP Communication par Sockets -Développement d'applications réparties
+│       ├── 📄 Exercices TP Les Threads Concurrence Et Synchronisation
+│       ├── 📄 Exercices TP Les entrées et sorties en Java -Développement d'applications réparties
+│       └── 📄 Exercices TP Développement d'applications réparties Java
+└── 📁 Cours/
+    ├── 📄 Cours Developpement d'applications reparties -Développement d'applications réparties
+    ├── 📄 Cours Introduction aux Systèmes Distribués et Calcul Parallèle
+    ├── 📄 Cours Developpement Applications Reparties -Développement d'applications réparties
+    ├── 📄 Cours Programmation Concurrente avec les Threads -Développement d'applications réparties
+    ├── 📄 Cours Developpement Applications Reparties Threads
+    ├── 📄 Cours Developpement Applications Reparties -Développement d'applications réparties
+    ├── 📄 Cours Developpement Applications Reparties -Développement d'applications réparties
+    ├── 📄 Cours Developpement Applications Reparties -Développement d'applications réparties
+    ├── 📄 Cours Développement Applications Réparties -Développement d'applications réparties
+    ├── 📄 Cours Organisations des SD Architectures -Développement d'applications réparties
+    ├── 📄 DARE-chapitre2-Archi-20-21
+    ├── 📄 DARE-chapitre2-Archi-20-21
+    ├── 📄 Cours Communication dans les Systèmes Distribués -Développement d'applications réparties
+    ├── 📄 Cours Sockets en Réseaux et Systèmes Distribués -Développement d'applications réparties
+    ├── 📄 Cours Master 1 Reseaux et Systemes Distribues -Développement d'applications réparties
+    └── 📄 DARE-chapitre4-RMI-20-21
+
+═════════════════════════════════════
+  Fin du fichier · Développement d'applications réparties
+═════════════════════════════════════

@@ -1,0 +1,429 @@
+📚 MODULE : Électronique de puissance                 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Électronique de puissance.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Électronique de puissance/
+├── 🔗📁 eln de puissance/  (raccourci)
+│   ├── 📄 Chapitre II Les redresseurs - Convertisseurs AC-DC.pdf
+│   ├── 📄 Chapitre III Hacheurs.pdf
+│   ├── 📄 200281089_2712052519086872_6418847238329790761_n.jpg
+│   ├── 📄 202183680_2712052489086875_835268692667353090_n.jpg
+│   ├── 📄 S-chap I.2   Thyristor -  triac -  gto (couleur) résumé.pdf
+│   ├── 📄 Sous chapitre I.3 - Le transistor bipolaire  (couleur).pdf
+│   ├── 📄 S-chap I.1.pdf
+│   ├── 📄 cours 1.pdf
+│   ├── 📄 td6 gradateur P-1.PNG
+│   ├── 📄 TD 6 Gradateur p-5.pdf
+│   ├── 📄 TD 6 Gradateur p-4.pdf
+│   ├── 📄 TD 6 Gradateur p-3.pdf
+│   ├── 📄 TD 4 Solution - Convertisseurs AC-DC.docx
+│   ├── 📄 TD 3  Transistor Bipolaire avec solution 2020.pdf
+│   ├── 📄 TD 2  avec solution -Thyristor -Triac et GTO (1).pdf
+│   ├── 📄 TD 1   Solution  seul - Diodes-.docx
+│   ├── 📄 cours 6.pdf
+│   ├── 📄 cours 5.pdf
+│   ├── 📄 cours 4p2.pdf
+│   ├── 📄 cours 4p1.pdf
+│   ├── 📄 cours 3.pdf
+│   └── 📄 cours 2.pdf
+├── 🔗📁 livre cours et exo-delectronique-3e-ed-(2).pdf/  (raccourci)
+├── 🔗📁 eln de pui/  (raccourci)
+│   ├── 📁 تيدي بوسانس/
+│   │   ├── 📄 20180502_093222.jpg
+│   │   ├── 📄 20180502_093206.jpg
+│   │   ├── 📄 20180502_093153.jpg
+│   │   ├── 📄 20180502_093140.jpg
+│   │   ├── 📄 20180502_093125.jpg
+│   │   ├── 📄 20180502_093116.jpg
+│   │   ├── 📄 20180502_093101.jpg
+│   │   ├── 📄 20180502_093049.jpg
+│   │   ├── 📄 20180502_093038.jpg
+│   │   ├── 📄 20180502_093024.jpg
+│   │   ├── 📄 20180502_093008.jpg
+│   │   └── 📄 20180502_092720.jpg
+│   └── 📁 examen/
+│       ├── 📁 2019/
+│       │   ├── 📄 Correction_Examen2019_page-0002.jpg
+│       │   ├── 📄 Correction_Examen2019_page-0004.jpg
+│       │   ├── 📄 Correction_Examen2019_page-0005.jpg
+│       │   ├── 📄 Correction_Examen2019_page-0003.jpg
+│       │   ├── 📄 Correction_Examen2019_page-0001.jpg
+│       │   ├── 📄 EMD_2019_page-0001.jpg
+│       │   └── 📄 EMD_2019_page-0002.jpg
+│       ├── 📁 2018/
+│       │   ├── 📄 Corrigés des Examens_2017_2018_page-0008.jpg
+│       │   ├── 📄 Corrigés des Examens_2017_2018_page-0005.jpg
+│       │   ├── 📄 Corrigés des Examens_2017_2018_page-0005.jpg
+│       │   ├── 📄 Corrigés des Examens_2017_2018_page-0007.jpg
+│       │   ├── 📄 Corrigés des Examens_2017_2018_page-0007.jpg
+│       │   ├── 📄 Corrigés des Examens_2017_2018_page-0007.jpg
+│       │   ├── 📄 Corrigés des Examens_2017_2018_page-0006.jpg
+│       │   ├── 📄 Corrigés des Examens_2017_2018_page-0006.jpg
+│       │   ├── 📄 Corrigés des Examens_2017_2018_page-0006.jpg
+│       │   ├── 📄 EMD_2018_page-0001.jpg
+│       │   └── 📄 EMD_2018_page-0002.jpg
+│       ├── 📁 2016/
+│       │   ├── 📄 20170503_101839.jpg
+│       │   ├── 📄 1.jpg
+│       │   ├── 📄 2.jpg
+│       │   ├── 📄 6 (2).jpg
+│       │   ├── 📄 6 (2).jpg
+│       │   ├── 📄 6 (2).jpg
+│       │   ├── 📄 3.jpg
+│       │   ├── 📄 4.jpg
+│       │   └── 📄 5.jpg
+│       └── 📁 2017/
+│           ├── 📄 Corrigés des Examens_2017_2018_page-0004.jpg
+│           ├── 📄 Corrigés des Examens_2017_2018_page-0004.jpg
+│           ├── 📄 Corrigés des Examens_2017_2018_page-0003.jpg
+│           ├── 📄 Corrigés des Examens_2017_2018_page-0002.jpg
+│           ├── 📄 Corrigés des Examens_2017_2018_page-0003.jpg
+│           ├── 📄 Corrigés des Examens_2017_2018_page-0002.jpg
+│           ├── 📄 Corrigés des Examens_2017_2018_page-0001.jpg
+│           ├── 📄 Examen_2017_page-0002.jpg
+│           ├── 📄 Examen_2017_page-0003.jpg
+│           ├── 📄 Examen_2017_page-0003.jpg
+│           ├── 📄 Examen_2017_page-0001.jpg
+│           ├── 📄 Examen_2017_page-0002.jpg
+│           ├── 📄 tatt2017 (6).jpg
+│           ├── 📄 tatt2017 (5).jpg
+│           ├── 📄 tatt2017 (4).jpg
+│           ├── 📄 tatt2017 (3).jpg
+│           ├── 📄 tatt2017 (2).jpg
+│           └── 📄 ratt2017 (1).jpg
+├── 🔗📁 Électronique de puissance.rar/  (raccourci)
+├── 🔗📁 Electronique de puissance/  (raccourci)
+│   ├── 📄 Electronique de Puissance EII.pdf
+│   ├── 📄 Redressement.pdf
+│   ├── 📄 COMPTE RENDU pdf.pdf
+│   ├── 📄 desktop.ini
+│   ├── 📁 TD/
+│   │   ├── 📄 td ep.pdf
+│   │   ├── 📄 tp electronique de puissance.pdf
+│   │   └── 📄 TD Avec correction.pdf
+│   ├── 📁 PDF/
+│   │   ├── 📄 elec_de_P5_light.pdf
+│   │   ├── 📄 exercices_redressement.pdf
+│   │   ├── 📄 exercices_hacheur.pdf
+│   │   └── 📄 Extrait_elen puiss .pdf
+│   ├── 📁 Exams/
+│   │   ├── 📄 exam final21.pdf
+│   │   ├── 📄 2019_10_31_20_20_IMG_0894.JPG
+│   │   ├── 📄 IMG_1403.JPG
+│   │   ├── 📄 IMG_1402.JPG
+│   │   ├── 📄 Exercice.jpg
+│   │   ├── 📄 exam hacheur.jpg
+│   │   ├── 📄 partiel thyristor.jpg
+│   │   ├── 📄 2008.jpg
+│   │   ├── 📄 2007.jpg
+│   │   ├── 📄 Controle REDRESSEUR.jpg
+│   │   ├── 📄 2011.jpg
+│   │   └── 📄 Initiation.jpg
+│   └── 📁 Compte rendu TOUATI/
+│       └── 📁 TP1/
+│           ├── 📄 2019_11_19_22_28_IMG_1028.JPG
+│           ├── 📄 2019_11_19_22_28_IMG_1027.JPG
+│           ├── 📄 2019_11_19_22_28_IMG_1026.JPG
+│           ├── 📄 2019_11_19_22_28_IMG_1025.JPG
+│           ├── 📄 2019_11_17_20_49_IMG_1007.JPG
+│           ├── 📄 2019_11_17_19_40_IMG_1006.JPG
+│           └── 📄 2019_11_17_19_40_IMG_1005.JPG
+├── 📄 Exercices TP Electronique de puissance - Électronique de puissance
+├── 📄 3_TP_Electronique_de_puissance
+├── 📄 3_TP_Electronique_de_puissance
+├── 📄 Exercices TD Electronique de puissance - Électronique de puissance
+├── 📄 Cours Electronique de Puissance - Électronique de puissance
+├── 📄 Exercices TD Electronique de Puissance - Électronique de puissance
+├── 🔗📁 M10 Electronique de puissance/  (raccourci)
+│   ├── 📁 Bachtiri Cours et Td/
+│   │   ├── 📁 Cours et correction 2019 2020/
+│   │   │   ├── 📄 42.jpeg
+│   │   │   ├── 📄 41.jpeg
+│   │   │   ├── 📄 40.jpeg
+│   │   │   ├── 📄 39.jpeg
+│   │   │   ├── 📄 38.jpeg
+│   │   │   ├── 📄 37.jpeg
+│   │   │   ├── 📄 36.jpeg
+│   │   │   ├── 📄 35.jpeg
+│   │   │   ├── 📄 34.jpeg
+│   │   │   ├── 📄 33.jpeg
+│   │   │   ├── 📄 32.jpeg
+│   │   │   ├── 📄 31.jpeg
+│   │   │   ├── 📄 30.jpeg
+│   │   │   ├── 📄 29.jpeg
+│   │   │   ├── 📄 28.jpeg
+│   │   │   ├── 📄 27.jpeg
+│   │   │   ├── 📄 26.jpeg
+│   │   │   ├── 📄 25.jpeg
+│   │   │   ├── 📄 24.jpeg
+│   │   │   ├── 📄 23.jpeg
+│   │   │   ├── 📄 22.jpeg
+│   │   │   ├── 📄 21.jpeg
+│   │   │   ├── 📄 20.jpeg
+│   │   │   ├── 📄 19.jpeg
+│   │   │   ├── 📄 18.jpeg
+│   │   │   ├── 📄 17.jpeg
+│   │   │   ├── 📄 16.jpeg
+│   │   │   ├── 📄 15.jpeg
+│   │   │   ├── 📄 14.jpeg
+│   │   │   ├── 📄 13.jpeg
+│   │   │   ├── 📄 12.jpeg
+│   │   │   ├── 📄 11.jpeg
+│   │   │   ├── 📄 10.jpeg
+│   │   │   ├── 📄 9.jpeg
+│   │   │   ├── 📄 8.jpeg
+│   │   │   ├── 📄 7.jpeg
+│   │   │   ├── 📄 6.jpeg
+│   │   │   ├── 📄 5.jpeg
+│   │   │   ├── 📄 4.jpeg
+│   │   │   ├── 📄 3.jpeg
+│   │   │   ├── 📄 2.jpeg
+│   │   │   └── 📄 1.jpeg
+│   │   └── 📁 Cours ELBchtiri/
+│   │       ├── 📄 IMAG0801.jpg
+│   │       ├── 📄 IMAG0795.jpg
+│   │       ├── 📄 IMAG0800.jpg
+│   │       ├── 📄 IMAG0799.jpg
+│   │       ├── 📄 IMAG0798.jpg
+│   │       ├── 📄 IMAG0796.jpg
+│   │       ├── 📄 IMAG0797.jpg
+│   │       ├── 📄 IMAG0794.jpg
+│   │       ├── 📄 IMAG0792.jpg
+│   │       ├── 📄 IMAG0793.jpg
+│   │       ├── 📄 IMAG0790.jpg
+│   │       ├── 📄 IMAG0791.jpg
+│   │       ├── 📄 IMAG0626.jpg
+│   │       ├── 📁 Td 2 Transistor/
+│   │       │   ├── 📄 IMAG0774.jpg
+│   │       │   └── 📄 IMAG0775.jpg
+│   │       ├── 📁 Td 1 Commutation/
+│   │       │   ├── 📄 IMAG0773.jpg
+│   │       │   ├── 📄 IMAG0772.jpg
+│   │       │   ├── 📄 IMAG0771.jpg
+│   │       │   └── 📄 IMAG0770.jpg
+│   │       ├── 📁 Circuit RL/
+│   │       │   ├── 📄 IMAG0768.jpg
+│   │       │   ├── 📄 IMAG0767.jpg
+│   │       │   ├── 📄 IMAG0766.jpg
+│   │       │   └── 📄 IMAG0765.jpg
+│   │       └── 📁 Correction Controle Transistor/
+│   │           ├── 📄 IMAG0776.jpg
+│   │           └── 📄 IMAG0778.jpg
+│   ├── 📁 Bachtiri Exam/
+│   │   ├── 📄 2005.jpg
+│   │   ├── 📄 IMAG0617.jpg
+│   │   ├── 📄 IMAG0625.jpg
+│   │   ├── 📄 IMAG0624.jpg
+│   │   ├── 📄 IMAG0621.jpg
+│   │   ├── 📄 IMAG0619.jpg
+│   │   ├── 📁 Exams et TDs les convertisseurs/
+│   │   │   ├── 📄 WhatsApp Image 2020-09-24 at 18.30.48.jpeg
+│   │   │   ├── 📄 WhatsApp Image 2020-09-24 at 18.24.38.jpeg
+│   │   │   ├── 📄 WhatsApp Image 2020-09-24 at 18.24.14.jpeg
+│   │   │   ├── 📄 WhatsApp Image 2020-09-24 at 18.23.04.jpeg
+│   │   │   ├── 📄 WhatsApp Image 2020-09-24 at 18.22.37.jpeg
+│   │   │   ├── 📄 DSC_0149.JPG
+│   │   │   ├── 📄 DSC_0134.JPG
+│   │   │   ├── 📄 2003.jpg
+│   │   │   ├── 📄 Exam commutation 2012.jpg
+│   │   │   ├── 📄 2010-2011.jpg
+│   │   │   ├── 📄 IMAG0616.jpg
+│   │   │   ├── 📄 Exercice.jpg
+│   │   │   ├── 📄 exam hacheur.jpg
+│   │   │   ├── 📄 partiel thyristor.jpg
+│   │   │   ├── 📄 2011.jpg
+│   │   │   ├── 📄 Initiation.jpg
+│   │   │   ├── 📄 2013.jpg
+│   │   │   ├── 📄 2012 (2).jpg
+│   │   │   ├── 📄 2012.jpg
+│   │   │   └── 📁 Deux exams/
+│   │   │       ├── 📄 Exam 2 partie 2.jpeg
+│   │   │       ├── 📄 Exam 2 partie 1.jpeg
+│   │   │       ├── 📄 Exam 1 partie 2.jpeg
+│   │   │       └── 📄 Exam 1 partie 1.jpeg
+│   │   └── 📁 Examn Electronique de commutation/
+│   │       ├── 📄 WhatsApp Image 2020-09-24 at 18.22.37.jpeg
+│   │       ├── 📄 2008.jpg
+│   │       ├── 📄 IMAG0620.jpg
+│   │       ├── 📄 IMAG0623.jpg
+│   │       ├── 📄 IMAG0622.jpg
+│   │       └── 📄 IMAG0618.jpg
+│   └── 📁 Convertisseurs statiques/
+│       ├── 📄 L'essentiel sur la diode de puissance.pdf
+│       ├── 📄 ELECTRONIQUE DE PUISSANCE09.pdf
+│       ├── 📄 fiche_convertisseurs_statiq.pdf
+│       ├── 📁 4° Hacheur/
+│       │   ├── 📄 exercices_hacheur.pdf
+│       │   ├── 📄 Hacheurs.mht
+│       │   ├── 📄 transparents_cours_hacheur.pdf
+│       │   └── 📄 cours_hacheur_serie.pdf
+│       ├── 📁 cours redressement 2015-2016/
+│       │   ├── 📄 20160204_142200.jpg
+│       │   ├── 📄 20160204_142151.jpg
+│       │   ├── 📄 20160204_142145.jpg
+│       │   ├── 📄 20160204_142136.jpg
+│       │   ├── 📄 20160204_142130.jpg
+│       │   ├── 📄 20160204_142038.jpg
+│       │   ├── 📄 20160204_142031.jpg
+│       │   ├── 📄 20160204_142019.jpg
+│       │   ├── 📄 20160204_142013.jpg
+│       │   ├── 📄 20160204_142005.jpg
+│       │   ├── 📄 20160204_141958.jpg
+│       │   ├── 📄 20160204_141951.jpg
+│       │   ├── 📄 20160204_141945.jpg
+│       │   ├── 📄 20160204_141938.jpg
+│       │   ├── 📄 20160204_141932.jpg
+│       │   ├── 📄 20160204_141925.jpg
+│       │   └── 📄 20160204_141919.jpg
+│       ├── 📁 3° Onduleur/
+│       │   ├── 📄 exercices_onduleur.pdf
+│       │   └── 📄 cours_onduleur_autonome.pdf
+│       ├── 📁 2° Gradateurs/
+│       │   ├── 📄 TD sur STS2_14_Gradateurs.doc
+│       │   ├── 📄 Cours_STS2_14_Gradateurs.doc
+│       │   ├── 📄 Resume_STS2_14_Gradateurs.doc
+│       │   └── 📄 Gradateurs.mht
+│       └── 📁 1° Redresseurs/
+│           ├── 📄 Conversion AC CC.pdf
+│           ├── 📄 Electronique-de-puissanceChapitre3.pdf
+│           ├── 📄 Doc_technique.pdf
+│           ├── 📄 memoire-18.pdf
+│           ├── 📄 chapitre identification.pdf
+│           ├── 📄 Chapitre4.pdf
+│           ├── 📄 Redressement triphasé Bestttt.pdf
+│           ├── 📄 chapitre 16 Redressement non commandé.pdf
+│           ├── 📄 Redresseurs non commandés corrigeExercices1et2.pdf
+│           ├── 📄 exercices_redressement.pdf
+│           ├── 📄 Redresseurs commandés à thyristors avec charge inductive.mht
+│           ├── 📄 Redressement commandé monophasé.mht
+│           ├── 📄 Redressement monophasé.mht
+│           ├── 📄 Redressement non commandé .mht
+│           ├── 📄 redressement commandé.pdf
+│           ├── 📄 cours_redressement_non_com.pdf
+│           ├── 📄 cours_redressement_commande.pdf
+│           ├── 📄 redressemnt  à thyristor.doc
+│           ├── 📄 Redresseur en pont à quatre diodes.doc
+│           ├── 📄 thyris hamdaoui.doc
+│           └── 📄 TP COMPOS dounass.doc
+├── 📁 tps/
+│   ├── 🔗📁 TP ELP/  (raccourci)
+│   │   ├── 📄 GradateurMonophaseSimulink0x2820x29.slx
+│   │   ├── 📄 GradateurMonophaseSimulink (2).mdl
+│   │   ├── 📄 GradateurMonophaseSimulink.mdl
+│   │   ├── 📄 TPGradateur.pdf
+│   │   ├── 📄 RedC_monoP.docx
+│   │   ├── 📄 RedC_monoP.pdf
+│   │   ├── 📄 RedComMonoP_DA.mdl.txt
+│   │   ├── 📄 Vie_8772593.pdf
+│   │   ├── 📄 3P_NC_DA.docx
+│   │   ├── 📄 3P_NC_DA.pdf
+│   │   ├── 📄 tp4elp .docx
+│   │   ├── 📄 tp4elp .pdf
+│   │   ├── 📄 TP3.mdl.txt
+│   │   ├── 📄 TP3.pdf
+│   │   ├── 📄 TP2.pdf
+│   │   ├── 📄 TP4.pdf
+│   │   ├── 📄 TP1.pdf
+│   │   ├── 📁 TP elp/
+│   │   │   ├── 📄 hacheur.slx
+│   │   │   ├── 📄 RedC_monoP2.pdf
+│   │   │   ├── 📄 RedC_monoP.pdf
+│   │   │   ├── 📄 3P_NC_DA.pdf
+│   │   │   ├── 📄 tp4elp .pdf
+│   │   │   ├── 📄 TP3.pdf
+│   │   │   ├── 📄 TP3.odg
+│   │   │   ├── 📄 tvip.mdl
+│   │   │   └── 📄 tvip.mdl.r2009b
+│   │   └── 📁 SOLU TP/
+│   │       ├── 📄 TP5_HacheurSerie.mdl.txt
+│   │       ├── 📄 TP-01.pdf
+│   │       ├── 📄 TP4.pdf
+│   │       ├── 📄 TP92.pdf
+│   │       ├── 📄 TP6.pdf
+│   │       ├── 📄 TP-elep-8.pdf
+│   │       ├── 📄 TP5.pdf
+│   │       ├── 📄 TP3.pdf
+│   │       └── 📄 TP2.pdf
+│   ├── 📄 1-TP_Red_1P_NC_SA.pdf
+│   ├── 📄 2-TP_Red_1P_NC_DA.pdf
+│   ├── 📄 3-TP_Red_3P_NC_SA.pdf
+│   ├── 📄 4-TP_Red_3P_NC_DA.pdf
+│   ├── 📄 5-TP_RedC_monoP.pdf
+│   ├── 📄 6-TP_RedCom3P.pdf
+│   ├── 📄 7-TP_Gradateur.pdf
+│   └── 📄 8-TP_HacheurSerie.pdf
+├── 📁 examens/
+│   ├── 📄 Controle_2017_2018.pdf
+│   ├── 📄 EMD-2007.pdf
+│   ├── 📄 EMD-2008.pdf
+│   ├── 📄 examen_elp_2008_2009_rattrapage.pdf
+│   ├── 📄 examen_elp_2008_2009.pdf
+│   ├── 📄 examen_elp_2010_2011_BOUCHAFAA.pdf
+│   ├── 📄 examen_elp_2010_2011_TALHA.pdf
+│   ├── 📄 examen_elp_2014_2015.pdf
+│   ├── 📄 examen_elp_2015_2016.pdf
+│   ├── 📄 examen_elp_2017_2018.pdf
+│   ├── 📄 rattrapage_elp_2017_2018.pdf
+│   └── 📁 cntls et examens/
+│       ├── 📄 Devoir 1.pdf
+│       ├── 📄 Devoir 2.pdf
+│       ├── 📄 Devoir1-Solution.pdf
+│       ├── 📄 Devoir1.pdf
+│       ├── 📄 Devoir2-Solution.pdf
+│       ├── 📄 Devoir2.pdf
+│       ├── 📄 Devoir4.pdf
+│       ├── 📄 1_examen_ELP_2026.pdf
+│       ├── 📄 2_examen_ELP_2025.pdf
+│       ├── 📄 3_Rattrapage_ELP_2026.pdf
+│       ├── 📄 Corrigé_Interro_20_21.pdf
+│       ├── 📄 examen_ELP_19-20.pdf
+│       ├── 📄 ExamenELP2021.pdf
+│       ├── 📄 Interro_19-20.pdf
+│       ├── 📄 Interro_21-22.pdf
+│       ├── 📄 Interro_22-23.pdf
+│       ├── 📄 Interro2_21-22.pdf
+│       ├── 📄 Interro23_24.pdf
+│       ├── 📄 Interro2021.pdf
+│       ├── 📄 Test dentrée.pdf
+│       └── 📄 TestEntreeSolution.pdf
+└── 📁 tds corrigés /
+    ├── 📄 604-TD-2016.pdf
+    ├── 📄 td1_solut°.pdf
+    ├── 📄 td1.pdf
+    ├── 📄 td2_solut°.pdf
+    ├── 📄 td2.pdf
+    ├── 📄 td3_solut°.pdf
+    ├── 📄 td3.pdf
+    ├── 📁 tds/
+    │   ├── 📄 hacheurs 
+    │   ├── 📄 gradateurs
+    │   ├── 📄 série 2-B
+    │   ├── 📄 serie 2-A
+    │   ├── 📄 Redressement triphasé 
+    │   └── 📄 série 01 
+    └── 📁 autres tds/
+        ├── 📄 5_TestFinal.pdf
+        ├── 📄 4_1 ELP - TD 4.pdf
+        ├── 📄 3_1 ELP - TD 3.pdf
+        ├── 📄 4_2 ELP - TD 4 avec SOLUTION.pdf
+        ├── 📄 3_2 ELP - TD 3 avec SOLUTION.pdf
+        ├── 📄 0_TD_ELEP-Rappels.PDF
+        ├── 📄 2_2 ELP - TD 2 avec SOLUTION.pdf
+        ├── 📄 2_1 ELP - TD 2.pdf
+        ├── 📄 1_1 ELP - TD 1.pdf
+        └── 📄 1_2 ELP - TD 1 avec SOLUTION.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Électronique de puissance
+═════════════════════════════════════

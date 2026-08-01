@@ -1,0 +1,331 @@
+📚 MODULE : Entrepôts de Données ENDO                 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Entrepôts de Données ENDO.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Entrepôts de Données ENDO/
+├── 🔗📁 EIDM/  (raccourci)
+│   ├── 📁 COURS/
+│   │   ├── 📄 IFB-Cloud.pdf
+│   │   ├── 📄 Apache Spark Quick Guide.pdf
+│   │   ├── 📄 hadoop_quick_guide.pdf
+│   │   ├── 📄 mapreduce.pdf
+│   │   ├── 📄 ch2- entrepots de donnees- optimisation.pdf
+│   │   ├── 📄 ch1- entrepots de donnees- architecture et modeles.pdf
+│   │   └── 📁 ch1 et ch2 chaque slide une page/
+│   │       ├── 📄 ch2- entrepots de donnees- optimisationV2.pdf
+│   │       └── 📄 ch1- entrepots de donnees- architecture et modelesV2.pdf
+│   ├── 📁 Examens/
+│   │   ├── 📄 essai emd eidm 2021.pdf
+│   │   ├── 📄 Examen BIO_2019 Final_Corrigé.pdf
+│   │   ├── 📄 EXAM 2019 bio-inf.docx
+│   │   └── 📄 Examen BIO_2020 corrigénew.pdf
+│   └── 📁 TP/
+│       ├── 📄 TP4_EIDM_M1BioInfo_Conception de l'entrepôt de données2.ppsx
+│       ├── 📄 TP1_EIDM_M1BioInfo_Introduction et présentation des outils utilisés.ppsx
+│       └── 📁 TP 2 /
+│           ├── 📄 Schema relationnel Northwind sous Access.webp
+│           ├── 📄 Northwind 2012.rar
+│           ├── 📄 Northwind.zip
+│           ├── 📄 script_Northwind.rar
+│           └── 📄 TP2_EIDM_M1BioInfo_Etude de cas_présentation du projet.ppsx
+├── 🔗📁 ENDO/  (raccourci)
+│   ├── 📁 TD/
+│   │   ├── 📄 EDMIND2021.pdf
+│   │   ├── 📄 TD Conception multidimensionnelle.pdf
+│   │   └── 🔗📁 TD-ED-2022/  (raccourci)
+│   ├── 📁 TP/
+│   │   ├── 📄 TP6.pdf
+│   │   ├── 📄 TP5.pdf
+│   │   ├── 📄 TP4.pdf
+│   │   ├── 📄 TP3.pdf
+│   │   └── 📄 TP2.pdf
+│   └── 📁 Cours/
+│       ├── 📄 EDChap2.pdf
+│       ├── 📄 EDChap3.pdf
+│       ├── 📄 EDChap5.pdf
+│       ├── 📄 EDChap4.pdf
+│       ├── 📄 EDChap1.pdf
+│       └── 📄 FicheTechniqueModulepdf
+├── 🔗📁 ENDO/  (raccourci)
+│   ├── 📁 examens/
+│   │   ├── 📄 EDMIND2016.pdf
+│   │   ├── 📄 EDMIND2019.pdf
+│   │   ├── 📄 EDMIND2020.pdf
+│   │   ├── 📄 EDMIND2017.pdf
+│   │   └── 📄 EDMIND2015.pdf
+│   ├── 📁 TPS/
+│   │   ├── 📄 corrigé.pdf
+│   │   ├── 📄 TP6.pdf
+│   │   ├── 🔗📁 TP5.pdf/  (raccourci)
+│   │   ├── 🔗📁 TD Conception Multidimensionnelle  (raccourci)
+│   │   ├── 📄 TD Conception Multidimensionnelle(1).pdf
+│   │   ├── 📄 TP4.pdf
+│   │   ├── 📄 TP3.pdf
+│   │   ├── 📄 TP2.pdf
+│   │   ├── 📄 TPED1Suite.pdf
+│   │   ├── 📄 TPED1.pdf
+│   │   └── 📁 VIDEOS/
+│   │       ├── 🔗📁 TD-TP-10/06/2021/  (raccourci)
+│   │       ├── 🔗📁 TD_ED_03/06/2021/  (raccourci)
+│   │       ├── 🔗📁 TD-ED-27/05/2021/  (raccourci)
+│   │       ├── 🔗📁 TP-ED-20/02/2021/  (raccourci)
+│   │       ├── 🔗📁 TP-3-06/05/2021/  (raccourci)
+│   │       └── 🔗📁 TP_2_29/04/2021/  (raccourci)
+│   └── 📁 COURS/
+│       └── 📁 PDFS/
+│           ├── 📄 EDChap5.pdf
+│           ├── 📄 EDChap4.pdf
+│           ├── 📄 EDChap3.pdf
+│           ├── 📄 EDChap2.pdf
+│           ├── 📄 EDChap1.pdf
+│           └── 📄 Syllabus.pdf
+├── 🔗📁 BDMED |  Base de Données Multidimensionnelles et Entrepôts de Données/  (raccourci)
+│   ├── 📄 SQL Etendu pour de l’OLAP.pdf
+│   ├── 📄 Cours_BDMED.pdf
+│   ├── 📁 Examens / Tests /
+│   │   ├── 📄 BDMED examen 2021-2022
+│   │   ├── 📄 BDMED Test  2021-2022
+│   │   ├── 📄 BDMED 18-19 avec solution.pdf
+│   │   ├── 📄 BDMED 18-19
+│   │   └── 📄 Test 2017-2018.pdf
+│   ├── 📁 Fiches TP/
+│   │   ├── 📄 TP4_Historisation.pdf
+│   │   ├── 📄 TP5_IntegrationED.pdf
+│   │   ├── 📄 TP3_BonnesPratiques.pdf
+│   │   ├── 📄 TP2_JointureSelection.pdf
+│   │   └── 📄 TP1_Initiation.pdf
+│   └── 📁 Fiche TD/
+│       ├── 📁 TD 1/
+│       │   └── 📄 TD1_Analyse_des_besoins.pdf
+│       ├── 📁 TD 3/
+│       │   ├── 📄 TD3_CORRIGE.pdf
+│       │   └── 📄 TD3_interrogation.pdf
+│       └── 📁 TD 2/
+│           ├── 📄 TD 2 avec corréction.pdf
+│           └── 📄 TD2 Conception ED.pdf
+└── 📁 Entrepôts de données (ENDO)/
+    ├── 📁 RAPPORTS TP 2019/
+    │   ├── 📁 TP8/
+    │   │   ├── 📄 TP8_ENDO_ALL.sql
+    │   │   └── 📄 TP8.pdf
+    │   ├── 📁 TP7/
+    │   │   ├── 📄 rapport7_endo_MATA_ELKEFIF.pdf
+    │   │   ├── 📄 TP7_ENDO.sql
+    │   │   └── 📄 TP7.jpg
+    │   ├── 📁 TP6/
+    │   │   ├── 📄 TP6_ENDO.sql
+    │   │   ├── 📄 rapport6_endo_MATA_ELKEFIF.pdf
+    │   │   └── 📄 TP6.jpg
+    │   ├── 📁 TP5/
+    │   │   ├── 📄 rapport5_endo_MATA_ELKEFIF.pdf
+    │   │   ├── 📄 TP5_ENDO_MATA_ELK.sql
+    │   │   └── 📄 TP5.jpg
+    │   ├── 📁 TP4/
+    │   │   ├── 📄 rapport4_endo_MATA_ELKEFIF.pdf
+    │   │   ├── 📄 TP4.jpg
+    │   │   └── 📄 TP4_ENDO.sql
+    │   ├── 📁 TP3/
+    │   │   ├── 📄 rapport3_endo_MATA_ELKEFIF.pdf
+    │   │   └── 📄 TP3.jpg
+    │   └── 📁 TP1-2/
+    │       ├── 📄 TP1-2_ENDO_MATA_NASSIM.sql
+    │       ├── 📄 rapport1-2_endo_MATA_ELKEFIF.pdf
+    │       ├── 📄 TP1.jpg
+    │       └── 📄 TP2.jpg
+    ├── 📁 TP-19/
+    │   └── 📄 TP8-ENDO - Page 1.pdf
+    ├── 📁 TD/
+    │   ├── 📄 TD2-ENDO.jpg
+    │   ├── 📄 TD_ENDO.txt
+    │   └── 📄 TD-ENDO.pdf
+    ├── 📁 RAPPORTS TP/
+    │   ├── 📁 rapport_4edd/
+    │   │   ├── 📄 10.png
+    │   │   ├── 📄 1.png
+    │   │   ├── 📄 12.png
+    │   │   ├── 📄 11.png
+    │   │   ├── 📄 15.png
+    │   │   ├── 📄 14.png
+    │   │   ├── 📄 13.png
+    │   │   ├── 📄 16.png
+    │   │   ├── 📄 17.png
+    │   │   ├── 📄 2.png
+    │   │   ├── 📄 6.png
+    │   │   ├── 📄 5.png
+    │   │   ├── 📄 3.png
+    │   │   ├── 📄 4.png
+    │   │   ├── 📄 7.png
+    │   │   ├── 📄 8.png
+    │   │   ├── 📄 rapport_tp4.docx
+    │   │   ├── 📄 9.png
+    │   │   ├── 📄 rapport_tp4.pdf
+    │   │   └── 📄 tp4_edd.sql
+    │   ├── 📁 rapport_3_e_dd/
+    │   │   ├── 📄 1.png
+    │   │   ├── 📄 10.png
+    │   │   ├── 📄 11.png
+    │   │   ├── 📄 12.png
+    │   │   ├── 📄 14.png
+    │   │   ├── 📄 13.png
+    │   │   ├── 📄 16.png
+    │   │   ├── 📄 17.png
+    │   │   ├── 📄 15.png
+    │   │   ├── 📄 18.png
+    │   │   ├── 📄 2.png
+    │   │   ├── 📄 4_1.png
+    │   │   ├── 📄 3.png
+    │   │   ├── 📄 glt.png
+    │   │   ├── 📄 9.png
+    │   │   ├── 📄 rapport_tp3.docx
+    │   │   ├── 📄 tp3_edd.txt
+    │   │   ├── 📄 tp3_e_dd.sql
+    │   │   └── 📄 rapport_tp3.output.pdf
+    │   ├── 📁 rapport8_edd/
+    │   │   ├── 📄 1.png
+    │   │   ├── 📄 10.png
+    │   │   ├── 📄 11.png
+    │   │   ├── 📄 12.png
+    │   │   ├── 📄 13.png
+    │   │   ├── 📄 14.png
+    │   │   ├── 📄 15.png
+    │   │   ├── 📄 7.png
+    │   │   ├── 📄 8.png
+    │   │   ├── 📄 3.png
+    │   │   ├── 📄 16.png
+    │   │   ├── 📄 2.png
+    │   │   ├── 📄 17.png
+    │   │   ├── 📄 4.png
+    │   │   ├── 📄 6.png
+    │   │   ├── 📄 5.png
+    │   │   ├── 📄 9.png
+    │   │   ├── 📄 rapport_tp8.docx
+    │   │   ├── 📄 tp8.sql
+    │   │   └── 📄 rapport_tp8.output.pdf
+    │   ├── 📁 rapport_1e_et 2_dd/
+    │   │   ├── 📄 rapport_1.docx
+    │   │   ├── 📄 passageMCDMR.pdf
+    │   │   ├── 📄 rapport_1.pdf
+    │   │   └── 📄 tp1_tp2.txt
+    │   ├── 📁 rapport6_edd/
+    │   │   ├── 📄 1.png
+    │   │   ├── 📄 10.png
+    │   │   ├── 📄 12.png
+    │   │   ├── 📄 11.png
+    │   │   ├── 📄 2.png
+    │   │   ├── 📄 5.png
+    │   │   ├── 📄 4.png
+    │   │   ├── 📄 3.png
+    │   │   ├── 📄 8.png
+    │   │   ├── 📄 6.png
+    │   │   ├── 📄 7.png
+    │   │   ├── 📄 9.png
+    │   │   ├── 📄 rapport_tp6.docx
+    │   │   ├── 📄 rapport_tp6.output.pdf
+    │   │   └── 📄 tp6_edd.sql
+    │   ├── 📁 rapport7_edd/
+    │   │   ├── 📄 1.png
+    │   │   ├── 📄 12.png
+    │   │   ├── 📄 11.png
+    │   │   ├── 📄 10.png
+    │   │   ├── 📄 13.png
+    │   │   ├── 📄 14.png
+    │   │   ├── 📄 17.png
+    │   │   ├── 📄 15.png
+    │   │   ├── 📄 19.png
+    │   │   ├── 📄 16.png
+    │   │   ├── 📄 18.png
+    │   │   ├── 📄 4.png
+    │   │   ├── 📄 2.png
+    │   │   ├── 📄 5.png
+    │   │   ├── 📄 3.png
+    │   │   ├── 📄 6.png
+    │   │   ├── 📄 7.png
+    │   │   ├── 📄 8.png
+    │   │   ├── 📄 9.png
+    │   │   ├── 📄 rapport_tp7.docx
+    │   │   ├── 📄 tp7.sql
+    │   │   └── 📄 rapport_tp7edd.pdf
+    │   └── 📁 rapport5_edd/
+    │       ├── 📄 5.png
+    │       ├── 📄 1.png
+    │       ├── 📄 2.png
+    │       ├── 📄 6.png
+    │       ├── 📄 4.png
+    │       ├── 📄 a.png
+    │       ├── 📄 7.png
+    │       ├── 📄 c.png
+    │       ├── 📄 b.png
+    │       ├── 📄 d.7.png
+    │       ├── 📄 e.png
+    │       ├── 📄 g.png
+    │       ├── 📄 f.png
+    │       ├── 📄 h.png
+    │       ├── 📄 i.png
+    │       ├── 📄 k.png
+    │       ├── 📄 j.png
+    │       ├── 📄 m.png
+    │       ├── 📄 l.png
+    │       ├── 📄 tp5_edd.sql
+    │       ├── 📄 rapport_tp5_edd.docx
+    │       └── 📄 rapport_tp5_edd.pdf
+    ├── 📁 TP/
+    │   ├── 📄 tp3_e_dd.sql
+    │   ├── 📄 tp2edd.sql
+    │   ├── 📄 tp1edd.sql
+    │   ├── 📄 tp4_edd.sql
+    │   ├── 📄 tp5_edd.sql
+    │   ├── 📄 tp7.sql
+    │   ├── 📄 tp6_edd.sql
+    │   ├── 📄 tp8.sql
+    │   ├── 📄 TP_09.txt
+    │   └── 📄 tp9_edd.sql
+    ├── 📁 COURS_SELMOUNE/
+    │   ├── 📄 COURS_ENDO_ALL.pdf
+    │   ├── 📄 EDChap1.pdf
+    │   ├── 📄 EDChap5.pdf
+    │   ├── 📄 EDChap2.pdf
+    │   ├── 📄 EDChap3.pdf
+    │   └── 📄 EDChap4.pdf
+    ├── 📁 EXAMENS_CORRIGÉS/
+    │   ├── 📄 EDMIND2015.pdf
+    │   ├── 📄 EDMIND-2016.pdf
+    │   └── 📄 EDMIND2017.pdf
+    └── 📁 SUJETS/
+        ├── 📄 exam SDED 2010-2011.pdf
+        ├── 📄 examSDED2012cor (4).docx
+        ├── 📄 examSDED2014-3.docx
+        ├── 📄 examSDED2013cor-5.docx
+        ├── 📄 Rattrapage SDED 2011.doc
+        ├── 📄 Rattrapage-SDED-2011.doc
+        ├── 📄 sded-td2.docx
+        ├── 📄 EDMIND2015(1).pdf
+        ├── 📄 Examen 2012-2013.pdf
+        ├── 📄 Examen 2011-2012.pdf
+        ├── 📄 Serie TD enterpot de donnée.pdf
+        ├── 📄 Examen enterpot 2009.pdf
+        ├── 📁 tests enterpot de donnée/
+        │   ├── 📄 img042.jpg
+        │   ├── 📄 img039.jpg
+        │   ├── 📄 img038.jpg
+        │   ├── 📄 img043.jpg
+        │   ├── 📄 img040.jpg
+        │   └── 📄 img041.jpg
+        └── 📁 correction entrepot examen 2009/
+            ├── 📄 Correction entrepot examen 2009 (p1).jpg
+            ├── 📄 A lire.txt
+            └── 📄 Correction entrepot examen 2009 (p2).jpg
+
+═════════════════════════════════════
+  Fin du fichier · Entrepôts de Données ENDO
+═════════════════════════════════════

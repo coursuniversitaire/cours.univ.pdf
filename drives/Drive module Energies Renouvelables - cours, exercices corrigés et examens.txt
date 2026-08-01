@@ -1,0 +1,436 @@
+📚 MODULE : Energies Renouvelables                    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Energies Renouvelables.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Energies Renouvelables/
+├── 🔗📁 Energies renouvelables/  (raccourci)
+│   ├── 📁 Examens solaire et éolienne/
+│   │   ├── 📄 .DS_Store
+│   │   ├── 📄 173492574_2935356820075416_1151547177016062160_n.jpg
+│   │   ├── 📄 156284794_2954386924782331_8620749848448414432_o.jpg
+│   │   ├── 📁 _couple solaire eolienne/
+│   │   │   ├── 📄 .DS_Store
+│   │   │   └── 📄 156284794_2954386924782331_8620749848448414432_o.jpg
+│   │   └── 📁 PV et éolienne hada howa rassmi/
+│   │       └── 📁 TD gisment/
+│   │           ├── 📄 .picasa.ini
+│   │           └── 📁 gisemet/
+│   │               └── 📄 .picasa.ini
+│   ├── 📁 Eolienne cours et TD/
+│   │   ├── 📄 CH3 Conversion de lénergie éolienne.pdf
+│   │   ├── 📄 CH4 Modélisation et simulation du.pdf
+│   │   ├── 📄 CH2 Les Systèmes de conversi.pdf
+│   │   ├── 📄 TD2.pdf
+│   │   ├── 📄 CH5 Topologies des systèmes éoliens.pdf
+│   │   ├── 📄 TD1.pdf
+│   │   └── 📄 CH1 Caractéristique du vent.pdf
+│   ├── 📁 Cours/
+│   │   └── 📄 .DS_Store
+│   └── 📁 Energie solaire/
+│       ├── 📄 .DS_Store
+│       └── 📁 Potentiel et Gisement Solaire (MER 103)/
+│           └── 📁 TD gisment/
+│               └── 📁 solution TD gisemet/
+│                   └── 📄 .picasa.ini
+├── 📄 Energie Renouvlable-20260627T195055Z-3-001.zip
+├── 🔗📁 Energie Renouvlable/  (raccourci)
+│   ├── 📄 Contrôle.pdf
+│   ├── 📁 COURS/
+│   │   ├── 📄 Resume-ER-final-version.pdf
+│   │   ├── 📄 Chapitre_4_2024.pdf
+│   │   ├── 📄 Chapitre_3_2024.pdf
+│   │   ├── 📄 Énergie solaire Photovoltaïque.pdf
+│   │   ├── 📄 Énergie éolienne.pdf
+│   │   ├── 📄 Chapitre_3_2023.pdf
+│   │   ├── 📄 Chapitre_2_2_2023.pdf
+│   │   ├── 📄 Chapitre_2_1_2023.pdf
+│   │   ├── 📄 Chapitre_1_2_2023.pdf
+│   │   └── 📄 Chapitre_1_1_2023.pdf
+│   ├── 📁 MINI_PROJET/
+│   │   ├── 📄 Mini_Projet_ER.slx
+│   │   ├── 📄 mini-projet-pv.pdf
+│   │   ├── 📄 Experimental_validation_of_synergetic_approach_bas.pdf
+│   │   ├── 📄 mini_projet_lbou3.docx
+│   │   └── 📄 Projects.docx
+│   ├── 📁 TP/
+│   │   ├── 📄 Untitled.m
+│   │   ├── 📁 Negoud_Walid/
+│   │   │   ├── 📁 TP2/
+│   │   │   │   ├── 📄 TP02ERP2.slx
+│   │   │   │   ├── 📄 TP02ERP2.slxc
+│   │   │   │   ├── 📄 TP_N2_NegoudiOualid_ER.m
+│   │   │   │   ├── 📄 TP N2_Arab Adem_ER.pdf
+│   │   │   │   ├── 📄 TP N2_Negoudi Oualid _ER  .pdf
+│   │   │   │   ├── 📄 TP N2_Negoudi Oualid _ER  .docx
+│   │   │   │   ├── 📄 TP02ER.mlx
+│   │   │   │   ├── 📄 CRTPI_Hammouche_Idris.pdf
+│   │   │   │   └── 📄 TP N2_ER.pdf
+│   │   │   ├── 📁 TP1/
+│   │   │   │   ├── 📄 TP01ERP1.slx
+│   │   │   │   └── 📄 TP01_ER.m
+│   │   │   ├── 📁 TP5/
+│   │   │   │   ├── 📄 TP03_5_ER.slxc
+│   │   │   │   ├── 📄 TP N5_Negoudi Oualid _ER   .pdf
+│   │   │   │   ├── 📄 TP N5_Negoudi Oualid _ER   .docx
+│   │   │   │   ├── 📄 TP03_5_ER.slx
+│   │   │   │   ├── 📄 TP03ER1.m
+│   │   │   │   └── 📄 FUZZT_TP05_ER.fis
+│   │   │   ├── 📁 TP3/
+│   │   │   │   ├── 📄 TP03ER.slxc
+│   │   │   │   ├── 📄 TP03ER.slx
+│   │   │   │   ├── 📄 TP03ER1.m
+│   │   │   │   ├── 📄 TP N3_Negoudi Oualid _ER   .pdf
+│   │   │   │   ├── 📄 TP N3_Negoudi Oualid _ER   .docx
+│   │   │   │   ├── 📄 CRTPII_Hammouche_Idris.pdf
+│   │   │   │   ├── 📄 TP03ER.slx.original
+│   │   │   │   └── 📁 slprj/
+│   │   │   │       └── 📁 sim/
+│   │   │   │           └── 📁 varcache/
+│   │   │   │               └── 📁 TP03ER/
+│   │   │   │                   ├── 📄 checksumOfCache.mat
+│   │   │   │                   ├── 📄 varInfo.mat
+│   │   │   │                   └── 📁 tmwinternal/
+│   │   │   │                       └── 📄 simulink_cache.xml
+│   │   │   └── 📁 TP4/
+│   │   │       ├── 📄 TP04ER_NEGOUDI_WALD.slx
+│   │   │       ├── 📄 untitled.slxc
+│   │   │       ├── 📄 TP N4_Negoudi Oualid _ER   .pdf
+│   │   │       ├── 📄 TP N4_Negoudi Oualid _ER   .docx
+│   │   │       ├── 📄 TP04ER.m
+│   │   │       ├── 📄 TP04.pdf
+│   │   │       └── 📁 slprj/
+│   │   │           ├── 📁 _jitprj/
+│   │   │           │   ├── 📄 jitEngineAccessInfo.mat
+│   │   │           │   ├── 📄 sxm9eZLfGlz4gS6WxU0J2vB.mat
+│   │   │           │   ├── 📄 s0KS5x16VRAodPSe6ZZJbfH.mat
+│   │   │           │   ├── 📄 sxm9eZLfGlz4gS6WxU0J2vB.l
+│   │   │           │   ├── 📄 sOSxrb26qVOfDtM9YVLMfeF.l
+│   │   │           │   ├── 📄 s0KS5x16VRAodPSe6ZZJbfH.l
+│   │   │           │   ├── 📄 sOSxrb26qVOfDtM9YVLMfeF.mat
+│   │   │           │   ├── 📄 sqSCUBUV3atIsphWxdJaPrD.mat
+│   │   │           │   └── 📄 sqSCUBUV3atIsphWxdJaPrD.l
+│   │   │           ├── 📁 sim/
+│   │   │           │   └── 📁 varcache/
+│   │   │           │       └── 📁 untitled/
+│   │   │           │           ├── 📄 checksumOfCache.mat
+│   │   │           │           ├── 📄 varInfo.mat
+│   │   │           │           └── 📁 tmwinternal/
+│   │   │           │               └── 📄 simulink_cache.xml
+│   │   │           └── 📁 _sfprj/
+│   │   │               ├── 📁 EMLReport/
+│   │   │               │   ├── 📄 emlReportAccessInfo.mat
+│   │   │               │   ├── 📄 sOSxrb26qVOfDtM9YVLMfeF.mat
+│   │   │               │   ├── 📄 sxm9eZLfGlz4gS6WxU0J2vB.mat
+│   │   │               │   ├── 📄 s0KS5x16VRAodPSe6ZZJbfH.mat
+│   │   │               │   └── 📄 sqSCUBUV3atIsphWxdJaPrD.mat
+│   │   │               ├── 📁 untitled/
+│   │   │               │   ├── 📄 amsi_serial.mat
+│   │   │               │   └── 📁 _self/
+│   │   │               │       └── 📁 sfun/
+│   │   │               │           └── 📁 info/
+│   │   │               │               └── 📄 binfo.mat
+│   │   │               └── 📁 precompile/
+│   │   │                   ├── 📄 autoInferAccessInfo.mat
+│   │   │                   ├── 📄 C7xLhJQJdobFqA2rYXHSeH.mat
+│   │   │                   ├── 📄 rfP0Dvh0ImsAzqIr41641.mat
+│   │   │                   ├── 📄 39NjvH1vLil6bl5PUYoYQC.mat
+│   │   │                   ├── 📄 s0hwgGyTHv7aXm1RCxiedD.mat
+│   │   │                   ├── 📄 xVidkGts7fHOm7VJfpPrJB.mat
+│   │   │                   ├── 📄 VhUiyRdzMt7RHFs6kGeQmC.mat
+│   │   │                   ├── 📄 UdWH5FyGgHSCMZvLoZ6NhE.mat
+│   │   │                   └── 📄 e1o6cpBnpgRvlki6nGRXoG.mat
+│   │   ├── 📁 WASSIM LEBDIOUI/
+│   │   │   ├── 📁 tp_2_ER/
+│   │   │   │   ├── 📄 Tp2_ER_wassim.docx
+│   │   │   │   ├── 📄 Tp2_ER_wassim.pdf
+│   │   │   │   └── 📁 TP bou3/
+│   │   │   │       ├── 📄 TP2Energie_renouvlable.slxc
+│   │   │   │       ├── 📄 Parametres_PV.m
+│   │   │   │       ├── 📄 TP2Energie_renouvlable.slx
+│   │   │   │       └── 📁 slprj/
+│   │   │   │           └── 📁 sim/
+│   │   │   │               └── 📁 varcache/
+│   │   │   │                   └── 📁 TP2Energie_renouvlable/
+│   │   │   │                       ├── 📄 varInfo.mat
+│   │   │   │                       ├── 📄 checksumOfCache.mat
+│   │   │   │                       └── 📁 tmwinternal/
+│   │   │   │                           └── 📄 simulink_cache.xml
+│   │   │   ├── 📁 tp_1_ER/
+│   │   │   │   ├── 📄 WASSIM LEBDIOUI TP1 EN.docx
+│   │   │   │   ├── 📄 tp1_ER_wassim.pdf
+│   │   │   │   ├── 📄 tp01_EN_2.m
+│   │   │   │   └── 📄 tp01_ER.m
+│   │   │   └── 📁 tp_3_ER/
+│   │   │       ├── 📄 tp3_ER_wassim.docx
+│   │   │       └── 📄 tp3_ER_wassim.pdf
+│   │   └── 📁 slprj/
+│   │       ├── 📁 sim/
+│   │       │   └── 📁 varcache/
+│   │       │       ├── 📁 TP02ERP2/
+│   │       │       │   ├── 📄 checksumOfCache.mat
+│   │       │       │   ├── 📄 varInfo.mat
+│   │       │       │   └── 📁 tmwinternal/
+│   │       │       │       └── 📄 simulink_cache.xml
+│   │       │       ├── 📁 TP03ER/
+│   │       │       │   ├── 📄 varInfo.mat
+│   │       │       │   ├── 📄 checksumOfCache.mat
+│   │       │       │   └── 📁 tmwinternal/
+│   │       │       │       └── 📄 simulink_cache.xml
+│   │       │       └── 📁 TP03_5_ER/
+│   │       │           ├── 📄 checksumOfCache.mat
+│   │       │           ├── 📄 varInfo.mat
+│   │       │           └── 📁 tmwinternal/
+│   │       │               └── 📄 simulink_cache.xml
+│   │       └── 📁 _sfprj/
+│   │           ├── 📁 EMLReport/
+│   │           │   ├── 📄 sNNZb9yB1BDc6ow4w0xzWUE.mat
+│   │           │   ├── 📄 sy174b2WzWSrtijnXJLYSDD.mat
+│   │           │   ├── 📄 emlReportAccessInfo.mat
+│   │           │   ├── 📄 sDRaHJmZCgezQmaNc1mplKG.mat
+│   │           │   ├── 📄 sZbavWkiziXSvwN41YBJtvF.mat
+│   │           │   ├── 📄 s8wg9PaMseviLgfG7fa9nTD.mat
+│   │           │   ├── 📄 UCn7HVpXCVQ5FczANdjooG.mat
+│   │           │   └── 📁 UCn7HVpXCVQ5FczANdjooG/
+│   │           │       └── 📄 report.mldatx
+│   │           ├── 📁 TP03_5_ER/
+│   │           │   ├── 📄 amsi_serial.mat
+│   │           │   └── 📁 _self/
+│   │           │       └── 📁 sfun/
+│   │           │           └── 📁 info/
+│   │           │               └── 📄 binfo.mat
+│   │           └── 📁 TP03ER/
+│   │               ├── 📄 amsi_serial.mat
+│   │               └── 📁 _self/
+│   │                   └── 📁 sfun/
+│   │                       └── 📁 info/
+│   │                           └── 📄 binfo.mat
+│   └── 📁 TD/
+│       ├── 📄 Energie-eolienne.pdf
+│       ├── 📄 TD4-avec-Solution-Stockage-dEnergie.pdf
+│       ├── 📄 TD2-avec-Solution-Energie-Solaire.pdf
+│       ├── 📄 TD3.pdf
+│       ├── 📄 TD4ESS.pdf
+│       ├── 📄 td bo3.pdf
+│       └── 📁 td_bou3_tarek/
+│           ├── 📄 photo_2023-12-03_18-14-39.jpg
+│           ├── 📄 photo_2023-12-03_18-15-35.jpg
+│           ├── 📄 photo_2023-12-03_18-16-05.jpg
+│           ├── 📄 photo_2023-12-03_18-16-00.jpg
+│           ├── 📄 photo_2023-12-03_18-15-56.jpg
+│           ├── 📄 photo_2023-12-03_18-15-45.jpg
+│           ├── 📄 photo_2023-12-03_18-15-40.jpg
+│           ├── 📄 photo_2023-12-03_18-15-29.jpg
+│           ├── 📄 photo_2023-12-03_18-15-25.jpg
+│           ├── 📄 photo_2023-12-03_18-15-21.jpg
+│           ├── 📄 photo_2023-12-03_18-15-16.jpg
+│           ├── 📄 photo_2023-12-03_18-15-11.jpg
+│           ├── 📄 photo_2023-12-03_18-15-06.jpg
+│           ├── 📄 photo_2023-12-03_18-15-01.jpg
+│           ├── 📄 photo_2023-12-03_18-14-54.jpg
+│           └── 📄 photo_2023-12-03_18-14-48.jpg
+└── 📁 drives/
+    ├── 🔗📁 energie renouvelable/  (raccourci)
+    │   ├── 📄 Systeme éolien et énergie éolienne ing.pptx
+    │   ├── 📄 Enegie renouvelable cours ing.pptx
+    │   ├── 📄 GENERALITES  energie renouvelable Khiat Mounir COURS ING'.pptx
+    │   ├── 📄 ENERGIES RENOUVELABLES.docx
+    │   └── 📄 Enegie hydraulique cours ing.pptx
+    ├── 🔗📁 7- Énergie renouvelable: production et stockage /  (raccourci)
+    │   ├── 📁 note/
+    │   │   └── 📄 ENERGIE-note-final-avec-projet.pdf
+    │   ├── 📁 chapitre 3/
+    │   │   └── 📄 chap3installation_PV.pdf
+    │   ├── 📁 Chapitre 2/
+    │   │   └── 📄 Energie_PV.pdf
+    │   └── 📁 Chapitre 1/
+    │       └── 📄 chap1_GENERALITE.pptx
+    ├── 🔗📁 Énergie renouvelable /  (raccourci)
+    │   ├── 📄 PV-FIN-ENERG-ELNP-L3-AUTO_2021-2022 (1).pdf
+    │   └── 📁 Projets/
+    │       ├── 📄 Liste des groupe 
+    │       └── 📄 miniProjet (1).docx
+    ├── 🔗📁 énergie renouvelable/  (raccourci)
+    │   ├── 📄 ENERGIES RENOUVELABLES -20260426T015736Z-3-001.zip
+    │   └── 📄 Energies renouvelables dans l'électrotechnique-20260426T015240Z-3-001.zip
+    └── 🔗📁 energie renouvlable/  (raccourci)
+        ├── 📄 25443182_318270891989781_574635720236490342_n.jpg
+        ├── 📄 25399091_318270281989842_2842132206326251229_n.jpg
+        ├── 📄 25550539_318270628656474_8833403912101535461_n.jpg
+        ├── 📄 ~$ap-5-systeme-photovoltaique.docx
+        ├── 📄 25498242_318271135323090_1975213617798728076_n.jpg
+        ├── 📄 25507866_318270951989775_4778576225485861852_n.jpg
+        ├── 📄 25498061_318271105323093_6105185964504643611_n.jpg
+        ├── 📄 25498452_318270788656458_8075239859334898287_n.jpg
+        ├── 📄 Serie_d_exercice_sur_le_solaire.pdf
+        ├── 📄 25551991_318271065323097_8844533066121536326_n.jpg
+        ├── 📄 chap-5-systeme-photovoltaique.docx
+        ├── 📄 serie_d_exercice_energie_renouvelable.pdf
+        ├── 📄 25507965_318270801989790_2246272457982897631_n.jpg
+        ├── 📄 25445898_318270838656453_8526020095418709226_n.jpg
+        ├── 📄 25443231_318270585323145_8798959759763791336_n.jpg
+        ├── 📄 Chap-3-potentiel-eolien.docx
+        ├── 📄 25399022_318270568656480_267116715396638080_n.jpg
+        ├── 📄 25399207_318270925323111_2782336176209593281_n.jpg
+        ├── 📄 25442972_318270991989771_6148209847798028202_n.jpg
+        ├── 📄 25399189_318270438656493_3854407027129768465_n.jpg
+        ├── 📄 25443057_318270338656503_4862025042108882413_n.jpg
+        ├── 📄 25398910_318270721989798_4907339526753584073_n.jpg
+        ├── 📄 25398723_318270315323172_8333799441587537446_n.jpg
+        ├── 📄 25399108_318270478656489_6545151285713043774_n.jpg
+        ├── 📄 25442749_318270515323152_7785926265036103559_n.jpg
+        ├── 📄 25443053_318271011989769_3622962722648274252_n.jpg
+        ├── 📄 25399023_318270368656500_6477623298822403530_n.jpg
+        ├── 📄 25399108_318270478656489_6545151285713043774_n (1).jpg
+        ├── 📄 25396272_318270258656511_2731803484430634266_n.jpg
+        ├── 📄 25396096_318270225323181_3172479101813270372_n.jpg
+        ├── 📄 25396014_318270761989794_7259624845587545258_n.jpg
+        ├── 📄 25395789_318270861989784_593168826224163600_n.jpg
+        ├── 📄 25398679_318270665323137_3307404268973899340_n.jpg
+        ├── 📄 25396261_318270695323134_5241066138219144248_n.jpg
+        ├── 📁 555/
+        │   ├── 📄 15740967_1154945167957941_7082420162506527741_n.jpg
+        │   ├── 📄 15934518_1765499390440029_165262235_n.jpg
+        │   ├── 📄 15781712_1154945394624585_5591786123904942640_n.jpg
+        │   ├── 📄 15935852_1765499300440038_1969254204_n.jpg
+        │   ├── 📄 15940807_1520093848030545_3079955590359214906_n.jpg
+        │   ├── 📄 15747505_1154945861291205_2038938359117446370_n.jpg
+        │   ├── 📄 15740880_1154945411291250_7281685132515623880_n.jpg
+        │   ├── 📄 15941686_1765499433773358_1733691142_n.jpg
+        │   ├── 📄 15780747_1154945341291257_8947663236106295989_n.jpg
+        │   ├── 📄 15910251_1765499437106691_1078821436_n.jpg
+        │   ├── 📄 15965431_1520093471363916_4688965078851394539_n.jpg
+        │   ├── 📄 15872008_1859801580931646_5420243298990079540_n.jpg
+        │   ├── 📄 15941813_1765499037106731_146763016_n.jpg
+        │   ├── 📄 15934493_1765499297106705_1974515460_n.jpg
+        │   ├── 📄 15747740_1154945597957898_5330489311318911822_n.jpg
+        │   ├── 📄 15740967_1154945664624558_8657610440876390828_n.jpg
+        │   ├── 📄 15879234_1765499047106730_1228002913_n.jpg
+        │   ├── 📄 15672508_1154945561291235_7341783379585933272_n.jpg
+        │   ├── 📄 15697519_1154945191291272_3531242657096375443_n.jpg
+        │   ├── 📄 15698090_1154946164624508_5419384527534394544_n.jpg
+        │   ├── 📄 15697776_1154945154624609_2054088364173753888_n.jpg
+        │   └── 📄 15726452_1154946081291183_4957732881522001272_n.jpg
+        └── 📁 er/
+            ├── 📄 15578975_127809437715149_7331843233567763294_n.jpg
+            ├── 📄 15665711_127804894382270_7524974283038102440_n.jpg
+            ├── 📄 15741317_127809964381763_512833796458567093_n.jpg
+            ├── 📄 15726522_127806461048780_5426852770387896824_n.jpg
+            ├── 📄 15697989_127809647715128_942100238893490002_n.jpg
+            ├── 📄 15665526_127806684382091_7456405794534603245_n.jpg
+            ├── 📄 15698085_127808224381937_7753988801723281892_n.jpg
+            └── 📁 cours énergie r/
+                ├── 📄 21.jpeg
+                ├── 📄 4.jpeg
+                ├── 📄 15.jpeg
+                ├── 📄 les matrices.docx
+                ├── 📄 cc.docx
+                ├── 📄 Nouveau Document Microsoft Word (7).docx
+                ├── 📄 9.jpeg
+                ├── 📄 6.jpeg
+                ├── 📄 7.jpeg
+                ├── 📄 remeciment.docx
+                ├── 📄 mémoir.pptx
+                ├── 📄 tranformateur de CSTF.docx
+                ├── 📄 5.jpeg
+                ├── 📄 tp assarvis1.docx
+                ├── 📄 mémo.docx
+                ├── 📄 Écoulement de puissanc1.docx
+                ├── 📄 8.jpeg
+                ├── 📄 10.jpeg
+                ├── 📄 2.jpeg
+                ├── 📄 18.jpeg
+                ├── 📄 19.jpeg
+                ├── 📄 16.jpeg
+                ├── 📄 12.jpeg
+                ├── 📄 1.jpeg
+                ├── 📄 22.jpeg
+                ├── 📄 14.jpeg
+                ├── 📄 17.jpeg
+                ├── 📄 3.jpeg
+                ├── 📄 13.jpeg
+                ├── 📄 11.jpeg
+                ├── 📄 23.jpeg
+                ├── 📁 releases/
+                │   ├── 📁 installer/
+                │   │   └── 📁 deploy/
+                │   │       ├── 📄 api-ms-win-core-string-l1-1-0.dll
+                │   │       ├── 📄 api-ms-win-core-memory-l1-1-0.dll
+                │   │       ├── 📄 api-ms-win-core-synch-l1-1-0.dll
+                │   │       ├── 📄 api-ms-win-core-localization-l1-2-0.dll
+                │   │       ├── 📄 api-ms-win-core-sysinfo-l1-1-0.dll
+                │   │       ├── 📄 api-ms-win-core-processenvironment-l1-1-0.dll
+                │   │       ├── 📄 api-ms-win-core-rtlsupport-l1-1-0.dll
+                │   │       ├── 📄 api-ms-win-core-synch-l1-2-0.dll
+                │   │       ├── 📄 api-ms-win-core-profile-l1-1-0.dll
+                │   │       ├── 📄 api-ms-win-core-processthreads-l1-1-0.dll
+                │   │       ├── 📄 api-ms-win-core-console-l1-1-0.dll
+                │   │       ├── 📄 api-ms-win-core-errorhandling-l1-1-0.dll
+                │   │       ├── 📄 api-ms-win-core-heap-l1-1-0.dll
+                │   │       ├── 📄 api-ms-win-core-libraryloader-l1-1-0.dll
+                │   │       ├── 📄 api-ms-win-core-handle-l1-1-0.dll
+                │   │       ├── 📄 api-ms-win-core-file-l2-1-0.dll
+                │   │       ├── 📄 api-ms-win-core-datetime-l1-1-0.dll
+                │   │       ├── 📄 api-ms-win-core-file-l1-1-0.dll
+                │   │       ├── 📄 api-ms-win-core-file-l1-2-0.dll
+                │   │       ├── 📄 api-ms-win-core-debug-l1-1-0.dll
+                │   │       └── 📄 api-ms-win-core-interlocked-l1-1-0.dll
+                │   ├── 📁 0.0.0.153/
+                │   │   └── 📄 releasemanifest
+                │   ├── 📁 0.0.0.156/
+                │   │   └── 📄 releasemanifest
+                │   ├── 📁 0.0.0.178/
+                │   │   └── 📄 releasemanifest
+                │   └── 📁 0.0.0.113/
+                │       └── 📄 releasemanifest
+                ├── 📁 0.0.0.178/
+                │   └── 📁 Plugins/
+                │       └── 📄 plugin-manifest.json
+                ├── 📁 0.0.0.156/
+                │   └── 📁 Plugins/
+                │       └── 📄 plugin-manifest.json
+                ├── 📁 memoir/
+                │   ├── 📄 Page de garde_Modèle.pdf
+                │   ├── 📄 Remerciement.pdf
+                │   ├── 📄 Remerciement.docx
+                │   ├── 📄 mémoir.pptx
+                │   ├── 📄 Page.pdf
+                │   ├── 📄 Avant.docx
+                │   ├── 📄 ~$Page.docx
+                │   ├── 📄 000000000000000000000000000000000.PNG
+                │   ├── 📄 Avant (1).pdf
+                │   ├── 📄 ~$mémoir.pptx
+                │   ├── 📄 ~$Avant.docx
+                │   ├── 📄 Page.docx
+                │   ├── 📄 mémoir.pdf
+                │   └── 📁 Manel/
+                │       ├── 📄 mémoir.pptx
+                │       ├── 📄 Page.pdf
+                │       ├── 📄 Page de garde_Modèle.pdf
+                │       ├── 📄 Remerciement.pdf
+                │       └── 📄 Avant (1).pdf
+                ├── 📁 regulation tout au rien/
+                │   ├── 📄 page 2.docx
+                │   ├── 📄 ~$page 2.docx
+                │   └── 📄 page.docx
+                ├── 📁 System Volume Information/
+                │   ├── 📄 WPSettings.dat
+                │   └── 📄 IndexerVolumeGuid
+                └── 📁 البحوث/
+                    ├── 📄 تاريخ و تطور الحركات الإجتماعة.docx
+                    ├── 📄 مجالات الفن.docx
+                    └── 📄 الظاهرتية.docx
+
+═════════════════════════════════════
+  Fin du fichier · Energies Renouvelables
+═════════════════════════════════════

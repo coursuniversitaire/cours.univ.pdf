@@ -1,0 +1,61 @@
+📚 MODULE : Comptabilité générale                     
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Comptabilité générale.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Comptabilité générale/
+├── 🔗📁 compta/  (raccourci)
+│   ├── 📁 exercices/
+│   │   ├── 📄 TD 4-8.pdf
+│   │   ├── 📄 CORRECTION TDS.pdf
+│   │   ├── 📄 TD 3 comptabilité générale -Le Compte-Le système classique_dab07345d078850b81b06d8de4fbfc08.pdf
+│   │   ├── 📄 TD 2 comptabilité générale -Le CPC_52d61a809f728fec1916710d9af7069c.pdf
+│   │   └── 📄 TD 1 comptabilité générale 1 S1 2021-2022 rectifié_e6aa3393cf197e1139baadd36ef59845.pdf
+│   ├── 📁 videos/
+│   │   ├── 📄 comptabilité générale S1 _ Le transport EP 3 _.mp4
+│   │   ├── 📄 Comptabilité générale S1 _ Le transport EP 2 _.mp4
+│   │   ├── 📄 Comptabilité générale S1 _ le transport EP 1 _.mp4
+│   │   └── 📄 Comptabilité générale S1 _ le Grand livre _.mp4
+│   ├── 📁 résumé/
+│   │   └── 📄 résumé compta.pdf
+│   └── 📁 cours/
+│       ├── 📄 comptabilite-generale-s1_2.pdf
+│       └── 📄 Comptabilité.pdf
+├── 📄 Chapitre 3 comptabilité Les provisions.PDF
+├── 📄 Cours Comptabilité Travaux d Inventaire Deuxième Partie-Comptabilité générale
+├── 📄 Cours et Exercices Chapitre 3 Rapprochement Bancaire-Comptabilité générale
+├── 📄 TD Comptabilite Enseignement Les Amortissements Serie N1-Comptabilité générale
+├── 📄 Cours Comptabilité Les travaux d inventaire de fin d exercice-Comptabilité générale
+├── 📄 Exercices Amortissements Linéaire Dégressif Série 1 Exo 2-Comptabilité générale
+├── 📄 Cours Comptabilité Définition Actifs Passifs Evaluation-Comptabilité générale
+├── 📄 Comptabilité Cours Régularisation des Charges et Produits S1-Comptabilité générale
+├── 📄 TD Comptabilité Les amortissements Exercices Série 1-Comptabilité générale
+├── 📄 TD ENCG Kenitra Exercice Comptabilité Les Provisions-Comptabilité générale
+├── 📄 30 Exercices Comptabilité Générale Avec Correction Learneconomie-Comptabilité générale
+├── 📄 Comptabilite Generale TD Principe Partie Double Etape 4-Comptabilité générale
+├── 📄 Planete Expertises Comptabilité Usuelle Exercices Corrigés-Comptabilité générale
+├── 📄 Cours Comptabilité La notion de produit et son enregistrement-Comptabilité générale
+├── 📄 Examen Rattr Compta Générale S1 2017 2018 ZARKI-Comptabilité générale
+├── 📄 Exercices Comptabilité Financière Exercice 1-Comptabilité générale
+├── 📄 TD N1 Comptabilité Générale 1 Analyse de la situation du Bilan-Comptabilité générale
+├── 📄 TD 2 Comptabilité générale Analyse activité entreprise CPC LAGDIM
+├── 📄 TD Comptabilité générale N3 Le compte et système classique
+├── 📄 TD 4 Comptabilité Générale Le Compte Système Classique-Comptabilité générale
+├── 📄 Cours Comptabilité générale Introduction Définition entreprise
+├── 📄 Cours Comptabilité Générale 1 Ch1 Introduction LAGDIM-Comptabilité générale
+├── 📄 Les régularisations des comptes des charges et des produits.PDF
+└── 📄 Les provisions 2013-1 td.PDF
+
+═════════════════════════════════════
+  Fin du fichier · Comptabilité générale
+═════════════════════════════════════

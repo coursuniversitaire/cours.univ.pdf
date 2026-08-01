@@ -1,0 +1,49 @@
+📚 MODULE : DSS - XML DTD                             
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module DSS - XML DTD.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 DSS - XML DTD/
+├── 📁 COURS/
+│   ├── 📄 Cours XML Introduction et Modélisation -DSS - XML, DTD, XML
+│   └── 📄 Cours XML et XPATH -DSS - XML, DTD, XML
+├── 📁 EXAMS/
+│   ├── 📄 Examen Données semi structurées -DSS - XML, DTD, XML
+│   ├── 📄 Exercices TP Données semi structurées -DSS - XML, DTD, XML
+│   ├── 📄 Examen Données semi structurées -DSS - XML, DTD, XML
+│   ├── 📄 Examen Données semi structurées -DSS - XML, DTD, XML
+│   ├── 📄 Corrigé Type Données Semi-structurées -DSS - XML, DTD, XML
+│   ├── 📄 Examen Données Semi-structurées -DSS - XML, DTD, XML
+│   ├── 📄 Examen Données semi structurées -DSS - XML, DTD, XML
+│   ├── 📄 Examen Données semi structurées -DSS - XML, DTD, XML
+│   ├── 📄 Examen Données Semi-structurées -DSS - XML, DTD, XML
+│   └── 📄 Examen Données Semi-structurées -DSS - XML, DTD, XML
+├── 📁 SOLUTION TP/
+│   ├── 📄 Exercices TP Données semi structurées L3 ISIL 2022 2023
+│   ├── 📄 Exercices TP Bases de donnees avancees -DSS - XML, DTD, XML
+│   ├── 📄 Exercices TP Données semi structurées L3 ISIL -DSS - XML, DTD, XML
+│   ├── 📄 Solution TP 4 (2)
+│   ├── 📄 Exercices TP Données semi-structurées L3 ISIL 2022 2023
+│   ├── 📄 exo3_TP2.xml
+│   └── 📄 exo4_TP2 (1).dtd
+└── 📁 TP/
+    ├── 📄 Exercices TP Structure des documents XML -DSS - XML, DTD, XML
+    ├── 📄 Exercices TP Langage XML Syntaxe de base -DSS - XML, DTD, XML
+    ├── 📄 Exercices TP Données semi structurées L3 ISIL -DSS - XML, DTD, XML
+    ├── 📄 Exercices TP Données semi structurées -DSS - XML, DTD, XML
+    ├── 📄 Exercices TP Données semi structurées L3 ISIL 2023 2024
+    └── 📄 Exercices TP Les expressions XPath -DSS - XML, DTD, XML
+
+═════════════════════════════════════
+  Fin du fichier · DSS - XML DTD
+═════════════════════════════════════

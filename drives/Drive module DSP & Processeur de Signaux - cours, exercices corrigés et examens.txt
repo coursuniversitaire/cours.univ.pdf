@@ -1,0 +1,765 @@
+📚 MODULE : DSP & Processeur de Signaux               
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module DSP & Processeur de Signaux.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 DSP & Processeur de Signaux/
+├── 🔗📁 DSP/  (raccourci)
+│   ├── 📄 dsp simon.pdf
+│   ├── 📄 chapitre 2 Representation des nombres [Mode de compatibilité].pdf
+│   ├── 📄 dsp.ppt
+│   ├── 📄 dsp architecture.ppt
+│   ├── 📄 cours_DSP_1.pdf
+│   ├── 📄 Devoir.pdf
+│   ├── 📄 ADC DAC.ppt
+│   ├── 📁 cours dsp complet/
+│   │   ├── 📄 Poly-DSP-2009-10.pdf
+│   │   └── 📄 Poly-DSP-2008-09.pdf
+│   ├── 📁 cours dsp montagny/
+│   │   └── 📄 ETRS705-cours_20version_20web.pdf
+│   ├── 📁 cours dsp ESE/
+│   │   ├── 📄 procsseur de sig.pdf
+│   │   ├── 📄 Processing.pdf
+│   │   ├── 📄 dsp simon.pdf
+│   │   ├── 📄 ADC DAC.ppt
+│   │   ├── 📄 dsp.ppt
+│   │   ├── 📄 dsp architecture.ppt
+│   │   ├── 📁 cours dsp complet/
+│   │   │   ├── 📄 Poly-DSP-2009-10.pdf
+│   │   │   └── 📄 Poly-DSP-2008-09.pdf
+│   │   ├── 📁 cours dsp montagny/
+│   │   │   └── 📄 ETRS705-cours_20version_20web.pdf
+│   │   ├── 📁 cours laas.fr/
+│   │   │   └── 📄 DSP.pdf
+│   │   ├── 📁 livres/
+│   │   │   └── 📁 cours dsp site smith/
+│   │   │       ├── 📄 CH8.pdf
+│   │   │       ├── 📄 CH9.pdf
+│   │   │       ├── 📄 CH34.pdf
+│   │   │       ├── 📄 PROGRAMMING EXERCISES FOR CHAPTERS 2.doc
+│   │   │       ├── 📄 HOMEWORK PROBLEMS FOR CHAPTERS 2.doc
+│   │   │       ├── 📄 Programs from.doc
+│   │   │       ├── 📄 CH7.pdf
+│   │   │       ├── 📄 Errata.doc
+│   │   │       ├── 📄 Eight good reasons for learning DSP.doc
+│   │   │       ├── 📄 DSP Programs and Files.doc
+│   │   │       ├── 📄 CH6.pdf
+│   │   │       ├── 📄 CH28.pdf
+│   │   │       ├── 📄 CH26.pdf
+│   │   │       ├── 📄 CH31.pdf
+│   │   │       ├── 📄 CH5.pdf
+│   │   │       ├── 📄 CH4.pdf
+│   │   │       ├── 📄 CH3.pdf
+│   │   │       ├── 📄 CH23.pdf
+│   │   │       ├── 📄 CH25.pdf
+│   │   │       ├── 📄 CH33.pdf
+│   │   │       ├── 📄 CH30.pdf
+│   │   │       ├── 📄 CH28 digital sig processors.pdf
+│   │   │       ├── 📄 CH27.pdf
+│   │   │       ├── 📄 CH22.pdf
+│   │   │       ├── 📄 CH2.pdf
+│   │   │       ├── 📄 CH17.pdf
+│   │   │       ├── 📄 CH16.pdf
+│   │   │       ├── 📄 CH20.pdf
+│   │   │       ├── 📄 CH19.pdf
+│   │   │       ├── 📄 CH21.pdf
+│   │   │       ├── 📄 CH10.pdf
+│   │   │       ├── 📄 CH18.pdf
+│   │   │       ├── 📄 CH15.pdf
+│   │   │       ├── 📄 CH11.pdf
+│   │   │       ├── 📄 CH13.pdf
+│   │   │       ├── 📄 CH14.pdf
+│   │   │       ├── 📄 CH12.pdf
+│   │   │       ├── 📄 CH1.pdf
+│   │   │       ├── 📄 Book Editions.doc
+│   │   │       └── 📁 fft prog/
+│   │   │           ├── 📄 fft.exe
+│   │   │           ├── 📄 TR.DAT.doc
+│   │   │           ├── 📄 TI.DAT.doc
+│   │   │           ├── 📄 FR.DAT.doc
+│   │   │           └── 📄 FI.DAT.doc
+│   │   ├── 📁 tp/
+│   │   │   ├── 📄 Tp1-presentation-materiel-utilise-tp-traitement-signal.pdf
+│   │   │   ├── 📄 Tp5-generation-produit-convolution-signaux-discrets.pdf
+│   │   │   ├── 📄 Tp3-generation-correlation-produit-convolution-signaux-continus.pdf
+│   │   │   ├── 📄 Tp4-transformation-fourier-echantillonage-signaux-analogiques.pdf
+│   │   │   ├── 📄 Tp2-operations-arithmetiques-matrices-dsp-matlab.pdf
+│   │   │   ├── 📄 tp.doc
+│   │   │   └── 📄 Preambule.pdf
+│   │   ├── 📁 dsp cours1 TECHNOPROG/
+│   │   │   ├── 📄 chapitre-5-LE-TMS320C6701-DSP.pdf
+│   │   │   ├── 📄 chapitre-4-Methodes-et-outils-de-developpements-DSP.pdf
+│   │   │   ├── 📄 chapitre-2-Caracteristiques-des-DSP.pdf
+│   │   │   ├── 📄 chapitre-1-DSP-introduction.pdf
+│   │   │   ├── 📄 Exercices-application-DSP.pdf
+│   │   │   ├── 📄 chapitre-3-Architecture-des-DSP.pdf
+│   │   │   ├── 📄 Un DSP est un type particulier de microprocesseur.doc
+│   │   │   └── 📁 tp traitement de signal/
+│   │   │       ├── 📄 Tp5-generation-produit-convolution-signaux-discrets.pdf
+│   │   │       ├── 📄 Tp1-presentation-materiel-utilise-tp-traitement-signal.pdf
+│   │   │       ├── 📄 Tp4-transformation-fourier-echantillonage-signaux-analogiques.pdf
+│   │   │       ├── 📄 Tp3-generation-correlation-produit-convolution-signaux-continus.pdf
+│   │   │       ├── 📄 Traitement de signal.doc
+│   │   │       ├── 📄 Tp2-operations-arithmetiques-matrices-dsp-matlab.pdf
+│   │   │       └── 📄 Preambule.pdf
+│   │   ├── 📁 dsp cours 2013/
+│   │   │   ├── 📄 Intro_2012.pdf
+│   │   │   ├── 📄 dsp_design_flows.ppt
+│   │   │   ├── 📄 DSP.pdf
+│   │   │   ├── 📄 VLSIDSP_CHAP3.pdf
+│   │   │   ├── 📄 Matlab_DSP1.pdf
+│   │   │   ├── 📄 VLSIDSP_CHAP6.pdf
+│   │   │   ├── 📄 DSP(TC).pdf
+│   │   │   ├── 📄 Digital Signal Processing Architectures.doc
+│   │   │   ├── 📄 Syllabus_20for_20Digital_20Signal_20Processing_20Course.pdf
+│   │   │   ├── 📄 TSEA26.doc
+│   │   │   ├── 📄 Matlab_DSP.pdf
+│   │   │   ├── 📄 Simplified Floating Point for DSP.doc
+│   │   │   ├── 📄 Digital_20Signal_20Processing,_20MM1,_20version_200.6.pdf
+│   │   │   ├── 📄 Optimizing efficiency and flexibility in DSP systems.doc
+│   │   │   ├── 📄 DSP Tricks.doc
+│   │   │   ├── 📄 Intro_2009_6tp.pdf
+│   │   │   ├── 📄 history.doc
+│   │   │   ├── 📁 psp lab/
+│   │   │   │   └── 📄 chap0-1.pdf
+│   │   │   ├── 📁 tutorials/
+│   │   │   │   ├── 📄 Tutorial-3.pdf
+│   │   │   │   ├── 📄 Tut5-AGU.pdf
+│   │   │   │   ├── 📄 Tutorial-4.pdf
+│   │   │   │   ├── 📄 Tutorial-1.pdf
+│   │   │   │   └── 📄 Tutorial-2.pdf
+│   │   │   ├── 📁 assemleur/
+│   │   │   │   ├── 📄 senior_instruction_set_manual.pdf
+│   │   │   │   └── 📄 senior_assembler_and_simulator.pdf
+│   │   │   ├── 📁 labs/
+│   │   │   │   ├── 📄 Ch_4_Lab_4_Prototyping_ASIP_Instructions.pdf
+│   │   │   │   ├── 📄 Ch_3_Lab_3_Program_Flow.pdf
+│   │   │   │   ├── 📄 Ch_1_Lab_1_Firmware.pdf
+│   │   │   │   ├── 📄 Ch_0_Introduction.pdf
+│   │   │   │   └── 📄 Ch_2_Lab_2_Datapath.pdf
+│   │   │   └── 📁 cours complzt/
+│   │   │       ├── 📄 08-AGU.pdf
+│   │   │       ├── 📄 06-MAC.pdf
+│   │   │       ├── 📄 03-Junior.pdf
+│   │   │       ├── 📄 chap9.pdf
+│   │   │       ├── 📄 09-Toolchain.pdf
+│   │   │       ├── 📄 mac-example-from-lecture6.pdf
+│   │   │       ├── 📄 TSEA26.doc
+│   │   │       ├── 📄 10-Modelling_and_firmware.pdf
+│   │   │       ├── 📄 05-Microarchitecture.pdf
+│   │   │       ├── 📄 11-Wrapup.pdf
+│   │   │       ├── 📄 04-DSP-Architectures-and-design-flow.pdf
+│   │   │       ├── 📄 01-Introduction.pdf
+│   │   │       ├── 📄 02-Numerical.pdf
+│   │   │       └── 📁 cours2011/
+│   │   │           ├── 📄 04-DSP-Architectures-and-design-flow.pdf
+│   │   │           ├── 📄 10-Modelling_and_firmware.pdf
+│   │   │           ├── 📄 03-Junior.pdf
+│   │   │           ├── 📄 05-Microarchitecture.pdf
+│   │   │           ├── 📄 09-Toolchain.pdf
+│   │   │           ├── 📄 mac-example-from-lecture7.pdf
+│   │   │           ├── 📄 01-introduction.pdf
+│   │   │           ├── 📄 mac-example-from-lecture6.pdf
+│   │   │           ├── 📄 02-numerical.pdf
+│   │   │           └── 📄 11-Wrapup.pdf
+│   │   └── 📁 docum technique/
+│   │       ├── 📄 spru302--C54x-references-set-vol5-enhanced-peripherals.pdf
+│   │       ├── 📄 spru173--C54x-reference-set-vol4-applications-guide.pdf
+│   │       ├── 📄 spru172c--C54x-reference-set-vol2-mnemonic-instruction-set.pdf
+│   │       ├── 📄 spru131g--C54x-reference-set-vol1-cpu-and-peripherals.pdf
+│   │       ├── 📄 PCM3002_techref.pdf
+│   │       ├── 📄 dsk5416_techref.pdf
+│   │       └── 📄 spru518d--C54x-DSPLIB-Programmer-reference.pdf
+│   ├── 📁 cours laas.fr/
+│   │   └── 📄 DSP.pdf
+│   ├── 📁 dsp cours1 TECHNOPROG/
+│   │   ├── 📄 chapitre-5-LE-TMS320C6701-DSP.pdf
+│   │   ├── 📄 chapitre-4-Methodes-et-outils-de-developpements-DSP.pdf
+│   │   ├── 📄 chapitre-2-Caracteristiques-des-DSP.pdf
+│   │   ├── 📄 chapitre-1-DSP-introduction.pdf
+│   │   ├── 📄 chapitre-3-Architecture-des-DSP.pdf
+│   │   ├── 📄 Exercices-application-DSP.pdf
+│   │   ├── 📄 Un DSP est un type particulier de microprocesseur.doc
+│   │   └── 📁 tp traitement de signal/
+│   │       ├── 📄 Tp5-generation-produit-convolution-signaux-discrets.pdf
+│   │       ├── 📄 Tp1-presentation-materiel-utilise-tp-traitement-signal.pdf
+│   │       ├── 📄 Traitement de signal.doc
+│   │       ├── 📄 Tp4-transformation-fourier-echantillonage-signaux-analogiques.pdf
+│   │       ├── 📄 Tp3-generation-correlation-produit-convolution-signaux-continus.pdf
+│   │       ├── 📄 Tp2-operations-arithmetiques-matrices-dsp-matlab.pdf
+│   │       └── 📄 Preambule.pdf
+│   ├── 📁 livres/
+│   │   ├── 📄 digital processor.pdf
+│   │   └── 📁 cours dsp site smith/
+│   │       ├── 📄 CH8.pdf
+│   │       ├── 📄 CH34.pdf
+│   │       ├── 📄 CH3.pdf
+│   │       ├── 📄 Programs from.doc
+│   │       ├── 📄 CH9.pdf
+│   │       ├── 📄 HOMEWORK PROBLEMS FOR CHAPTERS 2.doc
+│   │       ├── 📄 CH7.pdf
+│   │       ├── 📄 PROGRAMMING EXERCISES FOR CHAPTERS 2.doc
+│   │       ├── 📄 Errata.doc
+│   │       ├── 📄 CH6.pdf
+│   │       ├── 📄 Eight good reasons for learning DSP.doc
+│   │       ├── 📄 DSP Programs and Files.doc
+│   │       ├── 📄 CH33.pdf
+│   │       ├── 📄 CH33(1).pdf
+│   │       ├── 📄 CH28 digital sig processors.pdf
+│   │       ├── 📄 CH5.pdf
+│   │       ├── 📄 CH31.pdf
+│   │       ├── 📄 CH30.pdf
+│   │       ├── 📄 CH4.pdf
+│   │       ├── 📄 CH28.pdf
+│   │       ├── 📄 CH10.pdf
+│   │       ├── 📄 CH25.pdf
+│   │       ├── 📄 CH23.pdf
+│   │       ├── 📄 CH27.pdf
+│   │       ├── 📄 CH26.pdf
+│   │       ├── 📄 CH20.pdf
+│   │       ├── 📄 CH22.pdf
+│   │       ├── 📄 CH2.pdf
+│   │       ├── 📄 CH14.pdf
+│   │       ├── 📄 CH11.pdf
+│   │       ├── 📄 CH19.pdf
+│   │       ├── 📄 CH21.pdf
+│   │       ├── 📄 CH17.pdf
+│   │       ├── 📄 CH16.pdf
+│   │       ├── 📄 CH13.pdf
+│   │       ├── 📄 CH18.pdf
+│   │       ├── 📄 CH15.pdf
+│   │       ├── 📄 CH12.pdf
+│   │       ├── 📄 CH1.pdf
+│   │       ├── 📄 Book Editions.doc
+│   │       └── 📁 fft prog/
+│   │           ├── 📄 TR.DAT.doc
+│   │           ├── 📄 TI.DAT.doc
+│   │           ├── 📄 FR.DAT.doc
+│   │           ├── 📄 fft.exe
+│   │           └── 📄 FI.DAT.doc
+│   ├── 📁 dsp cours 2013/
+│   │   ├── 📄 Intro_2012.pdf
+│   │   ├── 📄 dsp_design_flows.ppt
+│   │   ├── 📄 DSP.pdf
+│   │   ├── 📄 VLSIDSP_CHAP3.pdf
+│   │   ├── 📄 Matlab_DSP1.pdf
+│   │   ├── 📄 VLSIDSP_CHAP6.pdf
+│   │   ├── 📄 DSP(TC).pdf
+│   │   ├── 📄 Syllabus_20for_20Digital_20Signal_20Processing_20Course.pdf
+│   │   ├── 📄 TSEA26.doc
+│   │   ├── 📄 Simplified Floating Point for DSP.doc
+│   │   ├── 📄 Matlab_DSP.pdf
+│   │   ├── 📄 Digital_20Signal_20Processing,_20MM1,_20version_200.6.pdf
+│   │   ├── 📄 Optimizing efficiency and flexibility in DSP systems.doc
+│   │   ├── 📄 Intro_2009_6tp.pdf
+│   │   ├── 📄 history.doc
+│   │   ├── 📄 Digital_20Signal_20Processing,_20MM1,_20version_200.6(1).pdf
+│   │   ├── 📄 DSP Tricks.doc
+│   │   ├── 📄 Digital Signal Processing Architectures.doc
+│   │   ├── 📁 tutorials/
+│   │   │   ├── 📄 Tutorial-3.pdf
+│   │   │   ├── 📄 Tut5-AGU.pdf
+│   │   │   ├── 📄 Tutorial-4.pdf
+│   │   │   ├── 📄 Tutorial-1.pdf
+│   │   │   └── 📄 Tutorial-2.pdf
+│   │   ├── 📁 labs/
+│   │   │   ├── 📄 Ch_3_Lab_3_Program_Flow.pdf
+│   │   │   ├── 📄 Ch_4_Lab_4_Prototyping_ASIP_Instructions.pdf
+│   │   │   ├── 📄 Ch_2_Lab_2_Datapath.pdf
+│   │   │   ├── 📄 Ch_1_Lab_1_Firmware.pdf
+│   │   │   └── 📄 Ch_0_Introduction.pdf
+│   │   ├── 📁 psp lab/
+│   │   │   └── 📄 chap0-1.pdf
+│   │   ├── 📁 assemleur/
+│   │   │   ├── 📄 senior_instruction_set_manual.pdf
+│   │   │   └── 📄 senior_assembler_and_simulator.pdf
+│   │   └── 📁 cours complzt/
+│   │       ├── 📄 chap9.pdf
+│   │       ├── 📄 09-Toolchain.pdf
+│   │       ├── 📄 03-Junior.pdf
+│   │       ├── 📄 mac-example-from-lecture6.pdf
+│   │       ├── 📄 TSEA26.doc
+│   │       ├── 📄 11-Wrapup.pdf
+│   │       ├── 📄 04-DSP-Architectures-and-design-flow.pdf
+│   │       ├── 📄 05-Microarchitecture.pdf
+│   │       ├── 📄 10-Modelling_and_firmware.pdf
+│   │       ├── 📄 06-MAC.pdf
+│   │       ├── 📄 01-Introduction.pdf
+│   │       ├── 📄 02-Numerical.pdf
+│   │       └── 📁 cours2011/
+│   │           ├── 📄 05-Microarchitecture.pdf
+│   │           ├── 📄 04-DSP-Architectures-and-design-flow.pdf
+│   │           ├── 📄 10-Modelling_and_firmware.pdf
+│   │           ├── 📄 03-Junior.pdf
+│   │           ├── 📄 09-Toolchain.pdf
+│   │           ├── 📄 mac-example-from-lecture7.pdf
+│   │           ├── 📄 11-Wrapup.pdf
+│   │           ├── 📄 mac-example-from-lecture6.pdf
+│   │           ├── 📄 01-introduction.pdf
+│   │           └── 📄 02-numerical.pdf
+│   └── 📁 docum technique/
+│       ├── 📄 spru302--C54x-references-set-vol5-enhanced-peripherals.pdf
+│       ├── 📄 spru173--C54x-reference-set-vol4-applications-guide.pdf
+│       ├── 📄 spru172c--C54x-reference-set-vol2-mnemonic-instruction-set.pdf
+│       ├── 📄 spru131g--C54x-reference-set-vol1-cpu-and-peripherals.pdf
+│       ├── 📄 dsk5416_techref.pdf
+│       ├── 📄 spru518d--C54x-DSPLIB-Programmer-reference.pdf
+│       └── 📄 PCM3002_techref.pdf
+├── 🔗📁 DSP/  (raccourci)
+│   ├── 📄 TMS320.pdf
+│   ├── 📄 ProjectKhan.pdf
+│   ├── 📄 DSP_Lab_Manual.pdf
+│   ├── 📄 260809-140534.pdf
+│   ├── 📄 6fe241098f2c6b2a0ddb6d34dba7073c7511.pdf
+│   ├── 📄 MYAH_Sofiane.docx
+│   ├── 📄 Devoir.pdf
+│   ├── 📄 cours_DSP_1.pdf
+│   ├── 📄 Sans titre1.png
+│   ├── 📁 cours/
+│   │   ├── 📄 chapitre 3 DSK 6713.ppt
+│   │   ├── 📄 chapitre 3 DSK 6713 [Mode de compatibilité].pdf
+│   │   ├── 📄 Cours_DSP_2.pdf
+│   │   ├── 📄 chapitre 2 Representation des nombres [Mode de compatibilité].pdf
+│   │   ├── 📄 Chp2-HTML.pdf
+│   │   ├── 📄 DSP BIOS [Mode de compatibilité].pdf
+│   │   ├── 📄 performances du CPU [Mode de compatibilité].pdf
+│   │   ├── 📄 performances du CPU [Mode de compatibilité] (1).pdf
+│   │   └── 📄 cours_DSP_1.pdf
+│   ├── 📁 DSP/
+│   │   └── ⚠️  [Référence circulaire ignorée]
+│   ├── 📁 devoir/
+│   │   ├── 📄 MYAH_Sofiane.docx
+│   │   ├── 📄 devoir.txt
+│   │   ├── 📄 dsk tms320C6713.JPG
+│   │   ├── 📄 square_v22.c
+│   │   ├── 📄 square_v11.c
+│   │   ├── 📄 square_v11 - Copie.c
+│   │   ├── 📄 Sans titre.png
+│   │   ├── 📄 4.png
+│   │   ├── 📄 m.txt
+│   │   ├── 📄 devoir exmpl3.txt
+│   │   ├── 📄 dev.png
+│   │   ├── 📄 devoir exmpl2.txt
+│   │   ├── 📄 3.png
+│   │   ├── 📄 devoir exmpl1.txt
+│   │   ├── 📄 5.png
+│   │   ├── 📄 2.png
+│   │   ├── 📄 1452.index.8.jpg
+│   │   └── 📄 1.png
+│   ├── 📁 ext/
+│   │   ├── 📄 chapitre-5-LE-TMS320C6701-DSP.pdf
+│   │   ├── 📄 chapitre-4-Methodes-et-outils-de-developpements-DSP.pdf
+│   │   ├── 📄 chapitre-2-Caracteristiques-des-DSP.pdf
+│   │   ├── 📄 chapitre-1-DSP-introduction.pdf
+│   │   ├── 📄 Exercices-application-DSP.pdf
+│   │   └── 📄 chapitre-3-Architecture-des-DSP.pdf
+│   ├── 📁 sujets/
+│   │   ├── 📄 33310145_213554119249300_8757674303522078720_n.jpg
+│   │   ├── 📄 33152714_213554579249254_1328637369829556224_n.jpg
+│   │   ├── 📄 33248977_213553252582720_584033531265548288_n.jpg
+│   │   ├── 📄 33060920_213554392582606_5023075505209868288_n.jpg
+│   │   ├── 📄 33154392_213553899249322_5789114846943379456_n.jpg
+│   │   ├── 📄 33168506_213553232582722_4066684256594690048_n.jpg
+│   │   ├── 📄 33163174_213553262582719_1002113602137620480_n.jpg
+│   │   ├── 📄 33130377_213553882582657_2214930289702993920_n.jpg
+│   │   ├── 📄 33079936_213553579249354_5778764018709692416_n.jpg
+│   │   ├── 📄 33116247_213554132582632_4317853840985554944_n.jpg
+│   │   ├── 📄 33060920_213554392582606_5023075505209868288_n (1).jpg
+│   │   ├── 📄 33110427_213553655916013_1263644176654794752_n.jpg
+│   │   ├── 📄 33072616_213554405915938_2761204263798439936_n.jpg
+│   │   └── 📄 32944441_213554549249257_6930407920869834752_n.jpg
+│   └── 📁 photos/
+│       ├── 📄 AQCTLA_2.png
+│       └── 📄 AQCTLA_1.png
+├── 🔗📁 dsp/  (raccourci)
+│   ├── 📁 td/
+│   │   ├── 📁 td2/
+│   │   │   ├── 📄 Travaux dirigés DSP N°2.pdf
+│   │   │   └── 📄 sine8_buf.c
+│   │   ├── 📁 TD3/
+│   │   │   ├── 📄 Travaux dirigés DSP N°3.pdf
+│   │   │   ├── 📄 vecs_dotp4a.asm
+│   │   │   ├── 📄 dotp4a_init.asm
+│   │   │   └── 📄 dotp4afunc.asm
+│   │   ├── 📁 td1/
+│   │   │   ├── 📄 Travaux dirigés DSP N°1.pdf
+│   │   │   ├── 📄 gain.gel
+│   │   │   └── 📄 Sine8_LED (1).c
+│   │   ├── 📁 td5/
+│   │   │   ├── 📄 TD5.pdf
+│   │   │   └── 📄 TD5.c
+│   │   └── 📁 td4/
+│   │       ├── 📄 TD4.pdf
+│   │       ├── 📄 FIR.C
+│   │       └── 📄 BS2700.COF
+│   ├── 📁 tp/
+│   │   ├── 📁 tp1/
+│   │   │   ├── 📄 Module_05.pdf
+│   │   │   ├── 📄 TP1.c
+│   │   │   ├── 📄 TP1 DSP.pdf
+│   │   │   ├── 📄 TP1.c.ini
+│   │   │   └── 📄 TP 1solution.c
+│   │   ├── 📁 tp2/
+│   │   │   ├── 📄 Module_06.pdf
+│   │   │   ├── 📄 TP2 DSP.pdf
+│   │   │   └── 📄 TP2.c
+│   │   ├── 📁 tp3/
+│   │   │   ├── 📄 sprug04a.pdf
+│   │   │   ├── 📄 Module_07.pdf
+│   │   │   ├── 📄 TP3 DSP.pdf
+│   │   │   └── 📄 TP3.c
+│   │   └── 📁 tp4/
+│   │       ├── 📄 Module_08.pdf
+│   │       ├── 📄 Display_ADC.c
+│   │       ├── 📄 TP4 DSP.pdf
+│   │       └── 📄 TP4.c
+│   ├── 📁 exam/
+│   │   ├── 📄 emd.c
+│   │   ├── 📄 solution emd.c
+│   │   └── 📁 ese/
+│   │       ├── 📄 66385306_3133154023369042_7030566583982358528_n.jpg
+│   │       ├── 📄 65913604_3133153936702384_6023885898305765376_n.jpg
+│   │       ├── 📄 65837127_3133154146702363_5908065405020143616_n.jpg
+│   │       ├── 📄 65320964_3104015579616220_8391500149372747776_n.jpg
+│   │       ├── 📄 65100223_3104015596282885_7680651751573159936_n.jpg
+│   │       ├── 📁 exm/
+│   │       │   ├── 📄 65873281_3104007056283739_6647960198491144192_n.jpg
+│   │       │   ├── 📄 65546232_3104006582950453_3012334841296322560_n.jpg
+│   │       │   ├── 📄 65389614_3104007066283738_5510080747391680512_n.jpg
+│   │       │   ├── 📄 65205111_3104006589617119_3802460217891880960_n.jpg
+│   │       │   ├── 📄 65087494_3104007039617074_6950955529745203200_n.jpg
+│   │       │   └── 📄 64937374_3104006612950450_8729577632493993984_n.jpg
+│   │       └── 📁 autre/
+│   │           ├── 📄 65439860_3104008846283560_2389484460761415680_n.jpg
+│   │           ├── 📄 65116312_3104008839616894_4099195745981169664_n.jpg
+│   │           └── 📄 65221990_3104008836283561_6378390166750363648_n.jpg
+│   ├── 📁 cours/
+│   │   ├── 📄 Présentation DSK.pdf
+│   │   ├── 📄 multicore dsp cours.pdf
+│   │   ├── 📄 cours DSP présentation des nombres.pdf
+│   │   ├── 📄 cours DSP Chapitre 1.pdf
+│   │   ├── 📄 DSP BIOS [Mode de compatibilité].pdf
+│   │   ├── 📄 Les instructions dans le processeur TMS320C6713.pdf
+│   │   └── 📁 non/
+│   │       ├── 📄 Filtre IIR [Mode de compatibilité].pdf
+│   │       ├── 📄 Filtre FIR Cours ESE [Mode de compatibilité].pdf
+│   │       └── 📄 DSP_Module_04.pdf
+│   └── 📁 DSP/
+│       └── ⚠️  [Référence circulaire ignorée]
+└── 📁 dsp/
+    ├── 📁 td/
+    │   ├── 📁 td1/
+    │   │   ├── 📄 Travaux dirigés DSP N°1.pdf
+    │   │   ├── 📄 gain.gel
+    │   │   └── 📄 Sine8_LED (1).c
+    │   ├── 📁 td2/
+    │   │   ├── 📄 Travaux dirigés DSP N°2.pdf
+    │   │   └── 📄 sine8_buf.c
+    │   ├── 📁 TD3/
+    │   │   ├── 📄 Travaux dirigés DSP N°3.pdf
+    │   │   ├── 📄 vecs_dotp4a.asm
+    │   │   ├── 📄 dotp4a_init.asm
+    │   │   └── 📄 dotp4afunc.asm
+    │   ├── 📁 td4/
+    │   │   ├── 📄 TD4.pdf
+    │   │   ├── 📄 FIR.C
+    │   │   └── 📄 BS2700.COF
+    │   └── 📁 td5/
+    │       ├── 📄 TD5.pdf
+    │       └── 📄 TD5.c
+    ├── 📁 tp/
+    │   ├── 📁 tp1/
+    │   │   ├── 📄 Module_05.pdf
+    │   │   ├── 📄 TP1.c
+    │   │   ├── 📄 TP1 DSP.pdf
+    │   │   ├── 📄 TP1.c.ini
+    │   │   └── 📄 TP 1solution.c
+    │   ├── 📁 tp2/
+    │   │   ├── 📄 Module_06.pdf
+    │   │   ├── 📄 TP2 DSP.pdf
+    │   │   └── 📄 TP2.c
+    │   ├── 📁 tp4/
+    │   │   ├── 📄 Module_08.pdf
+    │   │   ├── 📄 Display_ADC.c
+    │   │   ├── 📄 TP4 DSP.pdf
+    │   │   └── 📄 TP4.c
+    │   └── 📁 tp3/
+    │       ├── 📄 sprug04a.pdf
+    │       ├── 📄 Module_07.pdf
+    │       ├── 📄 TP3 DSP.pdf
+    │       └── 📄 TP3.c
+    ├── 📁 cours/
+    │   ├── 📄 Présentation DSK.pdf
+    │   ├── 📄 multicore dsp cours.pdf
+    │   ├── 📄 cours DSP présentation des nombres.pdf
+    │   ├── 📄 cours DSP Chapitre 1.pdf
+    │   ├── 📄 DSP BIOS [Mode de compatibilité].pdf
+    │   ├── 📄 Les instructions dans le processeur TMS320C6713.pdf
+    │   └── 📁 non/
+    │       ├── 📄 Filtre IIR [Mode de compatibilité].pdf
+    │       ├── 📄 Filtre FIR Cours ESE [Mode de compatibilité].pdf
+    │       └── 📄 DSP_Module_04.pdf
+    ├── 📁 DSP/
+    │   ├── 📄 TMS320.pdf
+    │   ├── 📄 ProjectKhan.pdf
+    │   ├── 📄 DSP_Lab_Manual.pdf
+    │   ├── 📄 6fe241098f2c6b2a0ddb6d34dba7073c7511.pdf
+    │   ├── 📄 MYAH_Sofiane.docx
+    │   ├── 📄 Devoir.pdf
+    │   ├── 📄 cours_DSP_1.pdf
+    │   ├── 📄 Sans titre1.png
+    │   ├── 📁 devoir/
+    │   │   ├── 📄 MYAH_Sofiane.docx
+    │   │   ├── 📄 devoir.txt
+    │   │   ├── 📄 dsk tms320C6713.JPG
+    │   │   ├── 📄 square_v22.c
+    │   │   ├── 📄 square_v11.c
+    │   │   ├── 📄 square_v11 - Copie.c
+    │   │   ├── 📄 Sans titre.png
+    │   │   ├── 📄 4.png
+    │   │   ├── 📄 m.txt
+    │   │   ├── 📄 dev.png
+    │   │   ├── 📄 devoir exmpl3.txt
+    │   │   ├── 📄 devoir exmpl2.txt
+    │   │   ├── 📄 3.png
+    │   │   ├── 📄 devoir exmpl1.txt
+    │   │   ├── 📄 5.png
+    │   │   ├── 📄 2.png
+    │   │   ├── 📄 1.png
+    │   │   └── 📄 1452.index.8.jpg
+    │   ├── 📁 cours/
+    │   │   ├── 📄 chapitre 3 DSK 6713.ppt
+    │   │   ├── 📄 chapitre 3 DSK 6713 [Mode de compatibilité].pdf
+    │   │   ├── 📄 Cours_DSP_2.pdf
+    │   │   ├── 📄 chapitre 2 Representation des nombres [Mode de compatibilité].pdf
+    │   │   ├── 📄 Chp2-HTML.pdf
+    │   │   ├── 📄 DSP BIOS [Mode de compatibilité].pdf
+    │   │   ├── 📄 performances du CPU [Mode de compatibilité].pdf
+    │   │   ├── 📄 performances du CPU [Mode de compatibilité] (1).pdf
+    │   │   └── 📄 cours_DSP_1.pdf
+    │   ├── 📁 DSP/
+    │   │   ├── 📄 chapitre 2 Representation des nombres [Mode de compatibilité].pdf
+    │   │   ├── 📄 dsp.ppt
+    │   │   ├── 📄 dsp architecture.ppt
+    │   │   ├── 📄 cours_DSP_1.pdf
+    │   │   ├── 📄 Devoir.pdf
+    │   │   ├── 📄 ADC DAC.ppt
+    │   │   ├── 📁 cours dsp ESE/
+    │   │   │   ├── 📄 procsseur de sig.pdf
+    │   │   │   ├── 📄 Processing.pdf
+    │   │   │   ├── 📄 dsp simon.pdf
+    │   │   │   ├── 📄 ADC DAC.ppt
+    │   │   │   ├── 📄 dsp.ppt
+    │   │   │   ├── 📄 dsp architecture.ppt
+    │   │   │   ├── 📁 cours dsp complet/
+    │   │   │   │   ├── 📄 Poly-DSP-2009-10.pdf
+    │   │   │   │   └── 📄 Poly-DSP-2008-09.pdf
+    │   │   │   ├── 📁 cours dsp montagny/
+    │   │   │   │   └── 📄 ETRS705-cours_20version_20web.pdf
+    │   │   │   ├── 📁 cours laas.fr/
+    │   │   │   │   └── 📄 DSP.pdf
+    │   │   │   ├── 📁 dsp cours1 TECHNOPROG/
+    │   │   │   │   ├── 📄 chapitre-5-LE-TMS320C6701-DSP.pdf
+    │   │   │   │   ├── 📄 chapitre-2-Caracteristiques-des-DSP.pdf
+    │   │   │   │   ├── 📄 chapitre-1-DSP-introduction.pdf
+    │   │   │   │   ├── 📄 Exercices-application-DSP.pdf
+    │   │   │   │   ├── 📄 chapitre-3-Architecture-des-DSP.pdf
+    │   │   │   │   ├── 📄 Un DSP est un type particulier de microprocesseur.doc
+    │   │   │   │   └── 📁 tp traitement de signal/
+    │   │   │   ├── 📁 docum technique/
+    │   │   │   │   ├── 📄 spru302--C54x-references-set-vol5-enhanced-peripherals.pdf
+    │   │   │   │   ├── 📄 spru173--C54x-reference-set-vol4-applications-guide.pdf
+    │   │   │   │   ├── 📄 spru172c--C54x-reference-set-vol2-mnemonic-instruction-set.pdf
+    │   │   │   │   ├── 📄 spru131g--C54x-reference-set-vol1-cpu-and-peripherals.pdf
+    │   │   │   │   ├── 📄 PCM3002_techref.pdf
+    │   │   │   │   ├── 📄 dsk5416_techref.pdf
+    │   │   │   │   └── 📄 spru518d--C54x-DSPLIB-Programmer-reference.pdf
+    │   │   │   ├── 📁 livres/
+    │   │   │   │   └── 📁 cours dsp site smith/
+    │   │   │   └── 📁 tp/
+    │   │   │       ├── 📄 Tp1-presentation-materiel-utilise-tp-traitement-signal.pdf
+    │   │   │       ├── 📄 Tp5-generation-produit-convolution-signaux-discrets.pdf
+    │   │   │       ├── 📄 Tp3-generation-correlation-produit-convolution-signaux-continus.pdf
+    │   │   │       ├── 📄 Tp4-transformation-fourier-echantillonage-signaux-analogiques.pdf
+    │   │   │       ├── 📄 Tp2-operations-arithmetiques-matrices-dsp-matlab.pdf
+    │   │   │       ├── 📄 tp.doc
+    │   │   │       └── 📄 Preambule.pdf
+    │   │   ├── 📁 cours dsp complet/
+    │   │   │   ├── 📄 Poly-DSP-2009-10.pdf
+    │   │   │   └── 📄 Poly-DSP-2008-09.pdf
+    │   │   ├── 📁 livres/
+    │   │   │   └── 📁 cours dsp site smith/
+    │   │   │       ├── 📄 CH8.pdf
+    │   │   │       ├── 📄 CH34.pdf
+    │   │   │       ├── 📄 CH3.pdf
+    │   │   │       ├── 📄 Programs from.doc
+    │   │   │       ├── 📄 CH9.pdf
+    │   │   │       ├── 📄 HOMEWORK PROBLEMS FOR CHAPTERS 2.doc
+    │   │   │       ├── 📄 CH7.pdf
+    │   │   │       ├── 📄 PROGRAMMING EXERCISES FOR CHAPTERS 2.doc
+    │   │   │       ├── 📄 Errata.doc
+    │   │   │       ├── 📄 CH6.pdf
+    │   │   │       ├── 📄 Eight good reasons for learning DSP.doc
+    │   │   │       ├── 📄 DSP Programs and Files.doc
+    │   │   │       ├── 📄 CH33(1).pdf
+    │   │   │       ├── 📄 CH33.pdf
+    │   │   │       ├── 📄 CH31.pdf
+    │   │   │       ├── 📄 CH5.pdf
+    │   │   │       ├── 📄 CH28 digital sig processors.pdf
+    │   │   │       ├── 📄 CH30.pdf
+    │   │   │       ├── 📄 CH4.pdf
+    │   │   │       ├── 📄 CH28.pdf
+    │   │   │       ├── 📄 CH10.pdf
+    │   │   │       ├── 📄 CH25.pdf
+    │   │   │       ├── 📄 CH23.pdf
+    │   │   │       ├── 📄 CH27.pdf
+    │   │   │       ├── 📄 CH26.pdf
+    │   │   │       ├── 📄 CH20.pdf
+    │   │   │       ├── 📄 CH22.pdf
+    │   │   │       ├── 📄 CH2.pdf
+    │   │   │       ├── 📄 CH14.pdf
+    │   │   │       ├── 📄 CH11.pdf
+    │   │   │       ├── 📄 CH19.pdf
+    │   │   │       ├── 📄 CH21.pdf
+    │   │   │       ├── 📄 CH17.pdf
+    │   │   │       ├── 📄 CH16.pdf
+    │   │   │       ├── 📄 CH13.pdf
+    │   │   │       ├── 📄 CH18.pdf
+    │   │   │       ├── 📄 CH15.pdf
+    │   │   │       ├── 📄 CH12.pdf
+    │   │   │       ├── 📄 CH1.pdf
+    │   │   │       ├── 📄 Book Editions.doc
+    │   │   │       └── 📁 fft prog/
+    │   │   ├── 📁 dsp cours 2013/
+    │   │   │   ├── 📄 Intro_2012.pdf
+    │   │   │   ├── 📄 dsp_design_flows.ppt
+    │   │   │   ├── 📄 DSP.pdf
+    │   │   │   ├── 📄 VLSIDSP_CHAP3.pdf
+    │   │   │   ├── 📄 Matlab_DSP1.pdf
+    │   │   │   ├── 📄 VLSIDSP_CHAP6.pdf
+    │   │   │   ├── 📄 DSP(TC).pdf
+    │   │   │   ├── 📄 Syllabus_20for_20Digital_20Signal_20Processing_20Course.pdf
+    │   │   │   ├── 📄 TSEA26.doc
+    │   │   │   ├── 📄 Simplified Floating Point for DSP.doc
+    │   │   │   ├── 📄 Matlab_DSP.pdf
+    │   │   │   ├── 📄 Digital_20Signal_20Processing,_20MM1,_20version_200.6.pdf
+    │   │   │   ├── 📄 Optimizing efficiency and flexibility in DSP systems.doc
+    │   │   │   ├── 📄 Intro_2009_6tp.pdf
+    │   │   │   ├── 📄 history.doc
+    │   │   │   ├── 📄 Digital_20Signal_20Processing,_20MM1,_20version_200.6(1).pdf
+    │   │   │   ├── 📄 DSP Tricks.doc
+    │   │   │   ├── 📄 Digital Signal Processing Architectures.doc
+    │   │   │   ├── 📁 assemleur/
+    │   │   │   │   ├── 📄 senior_instruction_set_manual.pdf
+    │   │   │   │   └── 📄 senior_assembler_and_simulator.pdf
+    │   │   │   ├── 📁 cours complzt/
+    │   │   │   │   ├── 📄 chap9.pdf
+    │   │   │   │   ├── 📄 09-Toolchain.pdf
+    │   │   │   │   ├── 📄 03-Junior.pdf
+    │   │   │   │   ├── 📄 mac-example-from-lecture6.pdf
+    │   │   │   │   ├── 📄 TSEA26.doc
+    │   │   │   │   ├── 📄 11-Wrapup.pdf
+    │   │   │   │   ├── 📄 04-DSP-Architectures-and-design-flow.pdf
+    │   │   │   │   ├── 📄 05-Microarchitecture.pdf
+    │   │   │   │   ├── 📄 10-Modelling_and_firmware.pdf
+    │   │   │   │   ├── 📄 06-MAC.pdf
+    │   │   │   │   ├── 📄 01-Introduction.pdf
+    │   │   │   │   ├── 📄 02-Numerical.pdf
+    │   │   │   │   └── 📁 cours2011/
+    │   │   │   ├── 📁 psp lab/
+    │   │   │   │   └── 📄 chap0-1.pdf
+    │   │   │   ├── 📁 labs/
+    │   │   │   │   ├── 📄 Ch_3_Lab_3_Program_Flow.pdf
+    │   │   │   │   ├── 📄 Ch_4_Lab_4_Prototyping_ASIP_Instructions.pdf
+    │   │   │   │   ├── 📄 Ch_2_Lab_2_Datapath.pdf
+    │   │   │   │   ├── 📄 Ch_1_Lab_1_Firmware.pdf
+    │   │   │   │   └── 📄 Ch_0_Introduction.pdf
+    │   │   │   └── 📁 tutorials/
+    │   │   │       ├── 📄 Tutorial-3.pdf
+    │   │   │       ├── 📄 Tut5-AGU.pdf
+    │   │   │       ├── 📄 Tutorial-4.pdf
+    │   │   │       ├── 📄 Tutorial-1.pdf
+    │   │   │       └── 📄 Tutorial-2.pdf
+    │   │   ├── 📁 dsp cours1 TECHNOPROG/
+    │   │   │   ├── 📄 chapitre-5-LE-TMS320C6701-DSP.pdf
+    │   │   │   ├── 📄 chapitre-4-Methodes-et-outils-de-developpements-DSP.pdf
+    │   │   │   ├── 📄 chapitre-2-Caracteristiques-des-DSP.pdf
+    │   │   │   ├── 📄 chapitre-1-DSP-introduction.pdf
+    │   │   │   ├── 📄 chapitre-3-Architecture-des-DSP.pdf
+    │   │   │   ├── 📄 Exercices-application-DSP.pdf
+    │   │   │   ├── 📄 Un DSP est un type particulier de microprocesseur.doc
+    │   │   │   └── 📁 tp traitement de signal/
+    │   │   │       ├── 📄 Tp5-generation-produit-convolution-signaux-discrets.pdf
+    │   │   │       ├── 📄 Tp1-presentation-materiel-utilise-tp-traitement-signal.pdf
+    │   │   │       ├── 📄 Traitement de signal.doc
+    │   │   │       ├── 📄 Tp4-transformation-fourier-echantillonage-signaux-analogiques.pdf
+    │   │   │       ├── 📄 Tp3-generation-correlation-produit-convolution-signaux-continus.pdf
+    │   │   │       ├── 📄 Tp2-operations-arithmetiques-matrices-dsp-matlab.pdf
+    │   │   │       └── 📄 Preambule.pdf
+    │   │   └── 📁 docum technique/
+    │   │       ├── 📄 spru302--C54x-references-set-vol5-enhanced-peripherals.pdf
+    │   │       ├── 📄 spru173--C54x-reference-set-vol4-applications-guide.pdf
+    │   │       ├── 📄 spru172c--C54x-reference-set-vol2-mnemonic-instruction-set.pdf
+    │   │       ├── 📄 spru131g--C54x-reference-set-vol1-cpu-and-peripherals.pdf
+    │   │       ├── 📄 dsk5416_techref.pdf
+    │   │       ├── 📄 spru518d--C54x-DSPLIB-Programmer-reference.pdf
+    │   │       └── 📄 PCM3002_techref.pdf
+    │   ├── 📁 ext/
+    │   │   ├── 📄 chapitre-5-LE-TMS320C6701-DSP.pdf
+    │   │   ├── 📄 chapitre-4-Methodes-et-outils-de-developpements-DSP.pdf
+    │   │   ├── 📄 chapitre-2-Caracteristiques-des-DSP.pdf
+    │   │   ├── 📄 chapitre-1-DSP-introduction.pdf
+    │   │   ├── 📄 Exercices-application-DSP.pdf
+    │   │   └── 📄 chapitre-3-Architecture-des-DSP.pdf
+    │   ├── 📁 photos/
+    │   │   ├── 📄 AQCTLA_2.png
+    │   │   └── 📄 AQCTLA_1.png
+    │   └── 📁 sujets/
+    │       ├── 📄 33310145_213554119249300_8757674303522078720_n.jpg
+    │       ├── 📄 33152714_213554579249254_1328637369829556224_n.jpg
+    │       ├── 📄 33248977_213553252582720_584033531265548288_n.jpg
+    │       ├── 📄 33060920_213554392582606_5023075505209868288_n.jpg
+    │       ├── 📄 33154392_213553899249322_5789114846943379456_n.jpg
+    │       ├── 📄 33168506_213553232582722_4066684256594690048_n.jpg
+    │       ├── 📄 33163174_213553262582719_1002113602137620480_n.jpg
+    │       ├── 📄 33079936_213553579249354_5778764018709692416_n.jpg
+    │       ├── 📄 33130377_213553882582657_2214930289702993920_n.jpg
+    │       ├── 📄 33060920_213554392582606_5023075505209868288_n (1).jpg
+    │       ├── 📄 33116247_213554132582632_4317853840985554944_n.jpg
+    │       ├── 📄 33072616_213554405915938_2761204263798439936_n.jpg
+    │       ├── 📄 33110427_213553655916013_1263644176654794752_n.jpg
+    │       └── 📄 32944441_213554549249257_6930407920869834752_n.jpg
+    └── 📁 exam/
+        ├── 📄 emd.c
+        ├── 📄 solution emd.c
+        └── 📁 ese/
+            ├── 📄 66385306_3133154023369042_7030566583982358528_n.jpg
+            ├── 📄 65913604_3133153936702384_6023885898305765376_n.jpg
+            ├── 📄 65837127_3133154146702363_5908065405020143616_n.jpg
+            ├── 📄 65320964_3104015579616220_8391500149372747776_n.jpg
+            ├── 📄 65100223_3104015596282885_7680651751573159936_n.jpg
+            ├── 📁 autre/
+            │   ├── 📄 65439860_3104008846283560_2389484460761415680_n.jpg
+            │   ├── 📄 65116312_3104008839616894_4099195745981169664_n.jpg
+            │   └── 📄 65221990_3104008836283561_6378390166750363648_n.jpg
+            └── 📁 exm/
+                ├── 📄 65873281_3104007056283739_6647960198491144192_n.jpg
+                ├── 📄 65546232_3104006582950453_3012334841296322560_n.jpg
+                ├── 📄 65389614_3104007066283738_5510080747391680512_n.jpg
+                ├── 📄 65205111_3104006589617119_3802460217891880960_n.jpg
+                ├── 📄 65087494_3104007039617074_6950955529745203200_n.jpg
+                └── 📄 64937374_3104006612950450_8729577632493993984_n.jpg
+
+═════════════════════════════════════
+  Fin du fichier · DSP & Processeur de Signaux
+═════════════════════════════════════

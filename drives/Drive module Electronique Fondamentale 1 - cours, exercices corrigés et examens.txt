@@ -1,0 +1,418 @@
+📚 MODULE : Electronique Fondamentale 1               
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Electronique Fondamentale 1.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Electronique Fondamentale 1/
+├── 🔗📁 3_Électrotechnique fondamentale 1-20260619T200313Z-3-001.zip/  (raccourci)
+├── 🔗📁 4_Électronique fondamentale 1/  (raccourci)
+│   ├── 📁 4_Tp Électronique fondamentale 1 /
+│   │   ├── 📄 TP1_thevenin F (4) (1).pdf
+│   │   ├── 🔗📁 Videos révison Cnrl Tp/  (raccourci)
+│   │   │   ├── 📄 TP-4 Transistore.mp4
+│   │   │   ├── 📄 TP-3 Diodes.mp4
+│   │   │   ├── 📄 TP-2 Filtres.mp4
+│   │   │   ├── 📄 TP-1 Thevenin.mp4
+│   │   │   ├── 📄 TP Electronic Materials.mp4
+│   │   │   └── 📁 Semestre 2/
+│   │   │       ├── 📄 TP04 pont d’impédances .mp4
+│   │   │       ├── 📄 TP04 Montage.mp4
+│   │   │       └── 📄 TP02-VoltAmpermetrique.mp4
+│   │   ├── 📄 TP4 transistor  F.pdf
+│   │   ├── 📄 TP2_ les Filtres.pdf
+│   │   ├── 📄 TP3_diode F.pdf
+│   │   └── 📄 tp-electronique-st2a (1).pdf
+│   ├── 📁 3_Cntrls/
+│   │   ├── 📁 2016/
+│   │   │   └── 📄 Cntrl.pdf
+│   │   ├── 📁 2017/
+│   │   │   ├── 📄 Cntrl.pdf
+│   │   │   └── 📄 Ratt.pdf
+│   │   ├── 📁 2022/
+│   │   │   ├── 📄 Interr.pdf
+│   │   │   └── 📄 Cntrl.pdf
+│   │   ├── 📁 2015/
+│   │   │   └── 📄 Cntrl.pdf
+│   │   ├── 📁 2020/
+│   │   │   └── 📄 Ratt.pdf
+│   │   ├── 📁 2019/
+│   │   │   └── 📄 Ratt.pdf
+│   │   ├── 📁 2018/
+│   │   │   ├── 📄 Ratt.pdf
+│   │   │   └── 📄 Cntrl.pdf
+│   │   ├── 📁 2023/
+│   │   │   ├── 📄 Ratt.pdf
+│   │   │   └── 📄 Cntrl.pdf
+│   │   ├── 📁 2024/
+│   │   │   ├── 📄 Cntrl.pdf
+│   │   │   └── 📄 Interr.pdf
+│   │   └── 📁 2025/
+│   │       ├── 📄 Cntrl.pdf
+│   │       └── 📄 Interr.pdf
+│   ├── 📁 2_Tds/
+│   │   ├── 📁 Devoir/
+│   │   │   ├── 📄 Devoir 1 2025.pdf
+│   │   │   └── 📄 Devoir 2 2025.pdf
+│   │   ├── 📁 Rest+sup/
+│   │   │   └── 📄 Polycopie TD electronique.pdf
+│   │   ├── 📁 Td3/
+│   │   │   ├── 📄 3_Solution Td3 2025.pdf
+│   │   │   ├── 📄 2_td3 electronique 2024.pdf
+│   │   │   └── 📄 1_td3 electronique 2025.pdf
+│   │   ├── 📁 Td2/
+│   │   │   ├── 📄 3_Solution td 2 2025.pdf
+│   │   │   ├── 📄 2_td 2  électronique fondamentale 1 2024docx.pdf
+│   │   │   └── 📄 1_td 2  électronique fondamentale 1 2025.pdf
+│   │   └── 📁 Td1/
+│   │       ├── 📄 3_Soluton td 1 2025.pdf
+│   │       ├── 📄 2_td1electronique2024_.pdf
+│   │       └── 📄 1_Td1electronique1 2025.pdf
+│   └── 📁 1_Cours /
+│       ├── 📄 Polycopie TD electronique.pdf
+│       └── 📄 cours-electronique-fondamentale-1.pdf
+├── 🔗📁 3_Électrotechnique fondamentale 1/  (raccourci)
+│   ├── 📁 4_Tp Électrotechnique fondamentale 1/
+│   │   ├── 📄 TP4.pdf
+│   │   ├── 📄 TP3.pdf
+│   │   ├── 📄 TP2.pdf
+│   │   └── 📄 TP1.pdf
+│   ├── 📁 3_Cntrls/
+│   │   ├── 📁 2020/
+│   │   │   └── 📄 Ratt.pdf
+│   │   ├── 📁 2018/
+│   │   │   ├── 📄 Ratt.pdf
+│   │   │   └── 📄 Cntrl.pdf
+│   │   ├── 📁 2019/
+│   │   │   ├── 📄 Ratt.pdf
+│   │   │   ├── 📄 Cntrl Remp.pdf
+│   │   │   └── 📄 Cntrl.pdf
+│   │   ├── 📁 2022/
+│   │   │   ├── 📄 Interro.pdf
+│   │   │   └── 📄 Cntrl.pdf
+│   │   ├── 📁 2017/
+│   │   │   └── 📄 Cntrl.pdf
+│   │   ├── 📁 2016/
+│   │   │   └── 📄 Cntrl.pdf
+│   │   ├── 📁 2024/
+│   │   │   ├── 📄 Cntrl.pdf
+│   │   │   └── 📄 Interro.pdf
+│   │   └── 📁 2025/
+│   │       ├── 📄 Interro.pdf
+│   │       └── 📄 Cntrl.pdf
+│   ├── 📁 2_Tds/
+│   │   ├── 📁 Td5/
+│   │   │   └── 📄 1_Td5 avec solution
+│   │   ├── 📁 Td4/
+│   │   │   ├── 📄 2_Solution TD4.pdf
+│   │   │   └── 📄 1_TD4.pdf
+│   │   ├── 📁 Td3/
+│   │   │   ├── 📄 3_Solution TD 3.pdf
+│   │   │   ├── 📄 2_TD3 2.pdf
+│   │   │   └── 📄 1_TD3.pdf
+│   │   ├── 📁 Td2/
+│   │   │   ├── 📄 2_Solution TD 2.pdf
+│   │   │   └── 📄 1_TD2.pdf
+│   │   └── 📁 Td1/
+│   │       ├── 📄 2_Solution TD1.pdf
+│   │       └── 📄 1_TD1.pdf
+│   └── 📁 1_Cours/
+│       ├── 📄 07.pdf
+│       ├── 📄 06.pdf
+│       ├── 📄 03.pdf
+│       ├── 📄 02.pdf
+│       ├── 📄 01.pdf
+│       ├── 📄 04.pdf
+│       ├── 📄 05.pdf
+│       ├── 📄 chapitre 2.pdf
+│       ├── 📄 Chapitre 4.pdf
+│       ├── 📄 chapitre 3-partie2-triphasé.pdf
+│       └── 📄 chapitre 3-partie1-monophasé.pdf
+├── 🔗📁 livre cours et exo-delectronique-3e-ed-(2).pdf/  (raccourci)
+├── 🔗📁 Electronique Fondamentale 1/  (raccourci)
+│   ├── 📁 TP/
+│   │   ├── 📁 TP1/
+│   │   │   └── 📄 TP-electr5onic.docx
+│   │   └── 📁 TP2/
+│   │       ├── 📄 TP2redressment-et-filtrage-1.docx
+│   │       └── 📄 PAGE-DE-GARDE.doc
+│   ├── 📁 TD/
+│   │   ├── 📁 Lagh Td/
+│   │   │   ├── 📁 solution serie n 04/
+│   │   │   │   ├── 📄 Image (1).jpg
+│   │   │   │   ├── 📄 2.jpg
+│   │   │   │   ├── 📄 1.jpg
+│   │   │   │   ├── 📄 Image (8).jpg
+│   │   │   │   ├── 📄 Image (7).jpg
+│   │   │   │   ├── 📄 Solution TD N_04.pdf
+│   │   │   │   ├── 📄 Image (6).jpg
+│   │   │   │   ├── 📄 Image (4).jpg
+│   │   │   │   ├── 📄 Image (5).jpg
+│   │   │   │   ├── 📄 Image (3).jpg
+│   │   │   │   └── 📄 Image (2).jpg
+│   │   │   ├── 📁 solution serie n 05/
+│   │   │   │   ├── 📄 Image (4).jpg
+│   │   │   │   ├── 📄 Image (3).jpg
+│   │   │   │   ├── 📄 Image (2).jpg
+│   │   │   │   ├── 📄 1.jpg
+│   │   │   │   ├── 📄 Image (1).jpg
+│   │   │   │   └── 📄 2.jpg
+│   │   │   ├── 📁 solution serie n 03/
+│   │   │   │   ├── 📄 Solution TD N_3.pdf
+│   │   │   │   ├── 📄 Image (7).jpg
+│   │   │   │   ├── 📄 Image (6).jpg
+│   │   │   │   ├── 📄 Image (5).jpg
+│   │   │   │   ├── 📄 Image (4).jpg
+│   │   │   │   ├── 📄 Image (3).jpg
+│   │   │   │   ├── 📄 Image (2).jpg
+│   │   │   │   ├── 📄 Image (1).jpg
+│   │   │   │   ├── 📄 2.jpg
+│   │   │   │   └── 📄 1.jpg
+│   │   │   ├── 📁 solution serie n 02/
+│   │   │   │   ├── 📄 Image (7).jpg
+│   │   │   │   ├── 📄 Image (6).jpg
+│   │   │   │   ├── 📄 Image (5).jpg
+│   │   │   │   ├── 📄 Image (4).jpg
+│   │   │   │   ├── 📄 Image (3).jpg
+│   │   │   │   ├── 📄 Image (9).jpg
+│   │   │   │   ├── 📄 Image (8).jpg
+│   │   │   │   ├── 📄 Image (2).jpg
+│   │   │   │   ├── 📄 Image (13).jpg
+│   │   │   │   ├── 📄 Image (12).jpg
+│   │   │   │   ├── 📄 Image (11).jpg
+│   │   │   │   ├── 📄 Image (10).jpg
+│   │   │   │   ├── 📄 Image  (1).jpg
+│   │   │   │   ├── 📄 2.jpg
+│   │   │   │   └── 📄 1.jpg
+│   │   │   └── 📁 solution serie n 01/
+│   │   │       ├── 📄 Image (2).jpg
+│   │   │       └── 📄 1.jpg
+│   │   └── 📁 New folder/
+│   │       ├── 📄 8.jpg
+│   │       ├── 📄 9.jpg
+│   │       ├── 📄 7.jpg
+│   │       ├── 📄 6.jpg
+│   │       ├── 📄 5'.jpg
+│   │       ├── 📄 5.jpg
+│   │       ├── 📄 4.jpg
+│   │       ├── 📄 3.jpg
+│   │       ├── 📄 26.jpg
+│   │       ├── 📄 23.jpg
+│   │       ├── 📄 25.jpg
+│   │       ├── 📄 22.jpg
+│   │       ├── 📄 24.jpg
+│   │       ├── 📄 21.jpg
+│   │       ├── 📄 20.jpg
+│   │       ├── 📄 2.jpg
+│   │       ├── 📄 19.jpg
+│   │       ├── 📄 18.jpg
+│   │       ├── 📄 16.jpg
+│   │       ├── 📄 17.jpg
+│   │       ├── 📄 15.jpg
+│   │       ├── 📄 14.jpg
+│   │       ├── 📄 13.jpg
+│   │       ├── 📄 12.jpg
+│   │       ├── 📄 11.jpg
+│   │       ├── 📄 10.jpg
+│   │       └── 📄 1.jpg
+│   ├── 📁 Cours/
+│   │   ├── 📄 Polycopie_Bekhouche_Khaled.pdf
+│   │   └── 📁 Cr/
+│   │       ├── 📄 12.jpg
+│   │       ├── 📄 11.jpg
+│   │       ├── 📄 10.jpg
+│   │       ├── 📄 1.jpg
+│   │       ├── 📄 9.jpg
+│   │       ├── 📄 8.jpg
+│   │       ├── 📄 7.jpg
+│   │       ├── 📄 5.jpg
+│   │       ├── 📄 4.jpg
+│   │       ├── 📄 6.jpg
+│   │       ├── 📄 3.jpg
+│   │       ├── 📄 23.jpg
+│   │       ├── 📄 21.jpg
+│   │       ├── 📄 22.jpg
+│   │       ├── 📄 20.jpg
+│   │       ├── 📄 2.jpg
+│   │       ├── 📄 19.jpg
+│   │       ├── 📄 18.jpg
+│   │       ├── 📄 17.jpg
+│   │       ├── 📄 16.jpg
+│   │       ├── 📄 15.jpg
+│   │       ├── 📄 14.jpg
+│   │       └── 📄 13.jpg
+│   └── 📁 Examens Tests/
+│       ├── 📄 الترانزستور.pdf
+│       ├── 📁 Lagh 2018/
+│       │   ├── 📄 2-Correction  ELN 2018.pdf
+│       │   └── 📄 1-ELN 2018.pdf
+│       ├── 📁 Béjaia 2012/
+│       │   └── 📄 Béjaia2012.pdf
+│       ├── 📁 Lagh 2015/
+│       │   ├── 📄 Image (8).jpg
+│       │   ├── 📄 Image (4).jpg
+│       │   ├── 📄 Image (7).jpg
+│       │   ├── 📄 Image (6).jpg
+│       │   ├── 📄 Image (5).jpg
+│       │   ├── 📄 Image (3).jpg
+│       │   ├── 📄 Image (2).jpg
+│       │   ├── 📄 1.jpg
+│       │   └── 📄 EMD-Electronique2014-2015.pdf
+│       ├── 📁 Lagh 2016/
+│       │   ├── 📄 4.jpg
+│       │   ├── 📄 3.jpg
+│       │   ├── 📄 2.jpg
+│       │   ├── 📄 1.jpg
+│       │   ├── 📄 6.jpg
+│       │   └── 📄 5.jpg
+│       ├── 📁 Lagh 2017/
+│       │   ├── 📄 5.jpg
+│       │   ├── 📄 3.jpg
+│       │   ├── 📄 4.jpg
+│       │   ├── 📄 2.jpg
+│       │   └── 📄 1.jpg
+│       ├── 📁 Lagh Ecole Supérieur/
+│       │   └── 📄 electronique exam lagh .pdf
+│       ├── 📁 Test TD 2017/
+│       │   └── 📄 Correction Test TD2016-2017.pdf
+│       └── 📁 Test TD 2015/
+│           └── 📄 Correction Test TD éléctronique2014-2015.pdf
+└── 📁 Electronique Fondamentale 1/
+    ├── 📁 Cours/
+    │   ├── 📄 Polycopie_Bekhouche_Khaled.pdf
+    │   └── 📁 Cr/
+    │       ├── 📄 12.jpg
+    │       ├── 📄 11.jpg
+    │       ├── 📄 10.jpg
+    │       ├── 📄 1.jpg
+    │       ├── 📄 9.jpg
+    │       ├── 📄 8.jpg
+    │       ├── 📄 7.jpg
+    │       ├── 📄 5.jpg
+    │       ├── 📄 4.jpg
+    │       ├── 📄 6.jpg
+    │       ├── 📄 3.jpg
+    │       ├── 📄 23.jpg
+    │       ├── 📄 21.jpg
+    │       ├── 📄 22.jpg
+    │       ├── 📄 20.jpg
+    │       ├── 📄 2.jpg
+    │       ├── 📄 19.jpg
+    │       ├── 📄 18.jpg
+    │       ├── 📄 17.jpg
+    │       ├── 📄 16.jpg
+    │       ├── 📄 15.jpg
+    │       ├── 📄 14.jpg
+    │       └── 📄 13.jpg
+    ├── 📁 Examens Tests/
+    │   ├── 📄 الترانزستور.pdf
+    │   ├── 📁 2016 corrigé /
+    │   │   ├── 📄 4.jpg
+    │   │   ├── 📄 3.jpg
+    │   │   ├── 📄 2.jpg
+    │   │   ├── 📄 1.jpg
+    │   │   ├── 📄 6.jpg
+    │   │   └── 📄 5.jpg
+    │   ├── 📁 2017 corrigé /
+    │   │   ├── 📄 5.jpg
+    │   │   ├── 📄 3.jpg
+    │   │   ├── 📄 4.jpg
+    │   │   ├── 📄 2.jpg
+    │   │   └── 📄 1.jpg
+    │   ├── 📁  2015 corrigé /
+    │   │   ├── 📄 Image (8).jpg
+    │   │   ├── 📄 Image (4).jpg
+    │   │   ├── 📄 Image (7).jpg
+    │   │   ├── 📄 Image (6).jpg
+    │   │   ├── 📄 Image (5).jpg
+    │   │   ├── 📄 Image (3).jpg
+    │   │   ├── 📄 Image (2).jpg
+    │   │   ├── 📄 1.jpg
+    │   │   └── 📄 EMD-Electronique2014-2015.pdf
+    │   ├── 📁 Ecole Supérieur corrigé/
+    │   │   └── 📄 electronique exam lagh .pdf
+    │   ├── 📁 2012 corrigé /
+    │   │   └── 📄 Béjaia2012.pdf
+    │   ├── 📁 2018 corrigé /
+    │   │   ├── 📄 2-Correction  ELN 2018.pdf
+    │   │   └── 📄 1-ELN 2018.pdf
+    │   ├── 📁 Test TD 2015/
+    │   │   └── 📄 Correction Test TD éléctronique2014-2015.pdf
+    │   └── 📁 Test TD 2017/
+    │       └── 📄 Correction Test TD2016-2017.pdf
+    ├── 📁 TD/
+    │   ├── 📁 Lagh Td/
+    │   │   ├── 📁 solution serie n 02/
+    │   │   ├── 📁 solution serie n 03/
+    │   │   │   ├── 📄 Solution TD N_3.pdf
+    │   │   │   ├── 📄 Image (7).jpg
+    │   │   │   ├── 📄 Image (6).jpg
+    │   │   │   ├── 📄 Image (5).jpg
+    │   │   │   ├── 📄 Image (4).jpg
+    │   │   │   ├── 📄 Image (3).jpg
+    │   │   │   ├── 📄 Image (2).jpg
+    │   │   │   ├── 📄 Image (1).jpg
+    │   │   │   ├── 📄 2.jpg
+    │   │   │   └── 📄 1.jpg
+    │   │   ├── 📁 solution serie n 04/
+    │   │   │   ├── 📄 Image (1).jpg
+    │   │   │   ├── 📄 2.jpg
+    │   │   │   ├── 📄 Image (8).jpg
+    │   │   │   ├── 📄 Image (6).jpg
+    │   │   │   ├── 📄 Image (5).jpg
+    │   │   │   └── 📄 Image (4).jpg
+    │   │   ├── 📁 solution serie n 05/
+    │   │   │   ├── 📄 Image (4).jpg
+    │   │   │   ├── 📄 Image (3).jpg
+    │   │   │   ├── 📄 Image (2).jpg
+    │   │   │   ├── 📄 1.jpg
+    │   │   │   ├── 📄 Image (1).jpg
+    │   │   │   └── 📄 2.jpg
+    │   │   └── 📁 solution serie n 01/
+    │   └── 📁 New folder/
+    │       ├── 📄 8.jpg
+    │       ├── 📄 9.jpg
+    │       ├── 📄 7.jpg
+    │       ├── 📄 6.jpg
+    │       ├── 📄 5.jpg
+    │       ├── 📄 5_.jpg
+    │       ├── 📄 4.jpg
+    │       ├── 📄 3.jpg
+    │       ├── 📄 26.jpg
+    │       ├── 📄 25.jpg
+    │       ├── 📄 23.jpg
+    │       ├── 📄 22.jpg
+    │       ├── 📄 24.jpg
+    │       ├── 📄 21.jpg
+    │       ├── 📄 2.jpg
+    │       ├── 📄 20.jpg
+    │       ├── 📄 19.jpg
+    │       ├── 📄 18.jpg
+    │       ├── 📄 16.jpg
+    │       ├── 📄 17.jpg
+    │       ├── 📄 15.jpg
+    │       ├── 📄 14.jpg
+    │       ├── 📄 13.jpg
+    │       ├── 📄 12.jpg
+    │       ├── 📄 11.jpg
+    │       ├── 📄 10.jpg
+    │       └── 📄 1.jpg
+    └── 📁 TP/
+        ├── 📁 TP1/
+        │   └── 📄 TP-electr5onic.docx
+        └── 📁 TP2/
+            ├── 📄 TP2redressment-et-filtrage-1.docx
+            └── 📄 PAGE-DE-GARDE.doc
+
+═════════════════════════════════════
+  Fin du fichier · Electronique Fondamentale 1
+═════════════════════════════════════

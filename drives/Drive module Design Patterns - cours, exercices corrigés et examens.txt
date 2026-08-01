@@ -1,0 +1,430 @@
+📚 MODULE : Design Patterns                           
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Design Patterns.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Design Patterns/
+├── 📄 command pattern2.png
+├── 📄 corr exam 2021.png
+├── 📄 corr exm salah.jpeg
+├── 📄 ds pattern.txt
+├── 📄 exm ds +imple.rar
+├── 📄 exm p2.png
+├── 📄 mvs patterns.png
+├── 📄 resumé naaadyaaa.txt
+├── 📄 src explinations.lnk
+├── 📄 tuto.txt
+├── 📄 my-resume design patterns.pdf
+├── 📄 tdtp-designPatt 2021.pdf
+├── 📄 designpatternscard (1saad).pdf
+├── 📄 exms.pdf
+├── 📄 exercices + Resumé     Demo6.pdf
+├── 📄 book Design Patterns - Java Companion.pdf
+├── 📄 Examen (avec document) Corrigé.pdf
+├── 📄 CorrectionExamen1emeSessionNSY102_2017-2018.pdf
+├── 📄 Examen Final Ginfo3.pdf
+├── 📄 _resume designpatternscard EN.pdf
+├── 📄 designpatterns Gof book.pdf
+├── 📁 ++/
+│   ├── 📄 20538954.pdf
+│   ├── 📄 sujet-COO-juin2006.pdf
+│   └── 📄 solution_5.pdf
+├── 📁 exo/
+│   ├── 📄 pdf-td-design-pattern_compress.pdf
+│   ├── 📄 TD3_DesignPattern_2010-2011.pdf
+│   ├── 📄 IR2-TP1.pdf
+│   ├── 📄 Exam2010-Corrigé.pdf
+│   ├── 📄 Corrige_TP3.pdf
+│   └── 📄 IR2-TP2.pdf
+├── 📁 projet/
+│   ├── 📄 Presentation design pattern.pptx
+│   └── 📄 RoomReservation_designPatterns - Copy.rar
+├── 📁 revision all methds/
+│   ├── 📄 Composite.java
+│   ├── 📄 AbstractFactory.java
+│   ├── 📄 Adapter.java
+│   ├── 📄 builder.png
+│   ├── 📄 Decorator.java
+│   ├── 📄 Facade.java
+│   ├── 📄 FactoryMethod.java
+│   ├── 📄 IteratorDemo.java
+│   ├── 📄 mediator uml.png
+│   ├── 📄 mediator1 prob.png
+│   ├── 📄 mediator1 sol.png
+│   ├── 📄 mediator1.png
+│   ├── 📄 ObserverApp.java
+│   ├── 📄 Prototype.java
+│   ├── 📄 Proxy.java
+│   ├── 📄 resumé naaadyaaa.txt
+│   ├── 📄 Singleton.java
+│   └── 📄 state pattern.png
+├── 📁 TD/
+│   ├── 📄 .DS_Store
+│   └── 📄 tdtp-designPatt.pdf
+├── 📁 TP/
+│   ├── 📁 DesignPatterns/
+│   │   ├── 📄 .classpath
+│   │   ├── 📄 .project
+│   │   ├── 📁 .settings/
+│   │   │   └── 📄 org.eclipse.jdt.core.prefs
+│   │   ├── 📁 bin/
+│   │   │   ├── 📄 tp.rar
+│   │   │   ├── 📁 Creational/
+│   │   │   │   ├── 📁 Builder/
+│   │   │   │   │   ├── 📄 builder.png
+│   │   │   │   │   ├── 📄 CarBuilder.class
+│   │   │   │   │   ├── 📄 Director.class
+│   │   │   │   │   ├── 📄 Door.class
+│   │   │   │   │   ├── 📄 Engine.class
+│   │   │   │   │   ├── 📄 MotoBuilder.class
+│   │   │   │   │   ├── 📄 Vehicule.class
+│   │   │   │   │   ├── 📄 VehiculeBuilder.class
+│   │   │   │   │   └── 📄 Wheel.class
+│   │   │   │   ├── 📁 FactoryMethod/
+│   │   │   │   │   ├── 📄 Car.class
+│   │   │   │   │   ├── 📄 class diag FactoryMethod.png
+│   │   │   │   │   ├── 📄 example class diag.png
+│   │   │   │   │   ├── 📄 Truck.class
+│   │   │   │   │   └── 📄 Vehicule.class
+│   │   │   │   ├── 📁 Prototype/
+│   │   │   │   │   ├── 📄 proto.png
+│   │   │   │   │   ├── 📄 Prototype$Address.class
+│   │   │   │   │   └── 📄 Prototype.class
+│   │   │   │   └── 📁 singleton/
+│   │   │   │       ├── 📄 class diage.png
+│   │   │   │       ├── 📄 Singleton.class
+│   │   │   │       └── 📄 UsersCounter.class
+│   │   │   ├── 📁 Structural/
+│   │   │   │   ├── 📁 Adapter/
+│   │   │   │   │   ├── 📄 AdapterPatternDemo.class
+│   │   │   │   │   ├── 📄 AdvancedMediaPlayer.class
+│   │   │   │   │   ├── 📄 AudioPlayer.class
+│   │   │   │   │   ├── 📄 MediaAdapter.class
+│   │   │   │   │   ├── 📄 MediaPlayer.class
+│   │   │   │   │   ├── 📄 Mp4Player.class
+│   │   │   │   │   └── 📄 VlcPlayer.class
+│   │   │   │   └── 📁 CollectionAdapter/
+│   │   │   │       ├── 📄 Collection.class
+│   │   │   │       ├── 📄 Demo.class
+│   │   │   │       ├── 📄 ListeEntier.class
+│   │   │   │       └── 📄 MyArrListeEntier.class
+│   │   │   └── 📁 tp1/
+│   │   │       ├── 📁 mvc/
+│   │   │       │   ├── 📄 CompteurGui$1.class
+│   │   │       │   ├── 📄 CompteurGui$2.class
+│   │   │       │   ├── 📄 CompteurGui$3.class
+│   │   │       │   ├── 📄 CompteurGui.class
+│   │   │       │   ├── 📄 CompteurGui2$1.class
+│   │   │       │   ├── 📄 CompteurGui2$2.class
+│   │   │       │   ├── 📄 CompteurGui2$3.class
+│   │   │       │   ├── 📄 CompteurGui2.class
+│   │   │       │   └── 📄 CompteurModel.class
+│   │   │       └── 📁 observer/
+│   │   │           ├── 📄 Acteur.class
+│   │   │           ├── 📄 Article.class
+│   │   │           ├── 📄 Consummateur.class
+│   │   │           ├── 📄 main.class
+│   │   │           ├── 📄 Observable.class
+│   │   │           ├── 📄 Observer.class
+│   │   │           ├── 📄 OrganismControle.class
+│   │   │           └── 📁 JavaAPI/
+│   │   │               ├── 📄 Acteur.class
+│   │   │               ├── 📄 Article.class
+│   │   │               ├── 📄 Consummateur.class
+│   │   │               ├── 📄 main.class
+│   │   │               └── 📄 OrganismControle.class
+│   │   └── 📁 src/
+│   │       ├── 📄 tp.rar
+│   │       ├── 📁 Creational/
+│   │       │   ├── 📁 Builder/
+│   │       │   │   ├── 📄 builder.png
+│   │       │   │   ├── 📄 CarBuilder.java
+│   │       │   │   ├── 📄 Director.java
+│   │       │   │   ├── 📄 MotoBuilder.java
+│   │       │   │   ├── 📄 Vehicule.java
+│   │       │   │   └── 📄 VehiculeBuilder.java
+│   │       │   ├── 📁 FactoryMethod/
+│   │       │   │   ├── 📄 Car.java
+│   │       │   │   ├── 📄 class diag FactoryMethod.png
+│   │       │   │   ├── 📄 example class diag.png
+│   │       │   │   ├── 📄 Truck.java
+│   │       │   │   └── 📄 Vehicule.java
+│   │       │   ├── 📁 Prototype/
+│   │       │   │   ├── 📄 proto.png
+│   │       │   │   └── 📄 Prototype.java
+│   │       │   └── 📁 singleton/
+│   │       │       ├── 📄 class diage.png
+│   │       │       ├── 📄 Singleton.java
+│   │       │       └── 📄 UsersCounter.java
+│   │       ├── 📁 Structural/
+│   │       │   ├── 📁 Adapter/
+│   │       │   │   ├── 📄 AdapterPatternDemo.java
+│   │       │   │   ├── 📄 AdvancedMediaPlayer.java
+│   │       │   │   ├── 📄 AudioPlayer.java
+│   │       │   │   ├── 📄 MediaAdapter.java
+│   │       │   │   ├── 📄 MediaPlayer.java
+│   │       │   │   ├── 📄 Mp4Player.java
+│   │       │   │   └── 📄 VlcPlayer.java
+│   │       │   └── 📁 CollectionAdapter/
+│   │       │       ├── 📄 Collection.java
+│   │       │       ├── 📄 Demo.java
+│   │       │       ├── 📄 ListeEntier.java
+│   │       │       └── 📄 MyArrListeEntier.java
+│   │       └── 📁 tp1/
+│   │           ├── 📁 mvc/
+│   │           │   ├── 📄 CompteurGui.java
+│   │           │   ├── 📄 CompteurGui2.java
+│   │           │   └── 📄 CompteurModel.java
+│   │           └── 📁 observer/
+│   │               ├── 📄 Acteur.java
+│   │               ├── 📄 Article.java
+│   │               ├── 📄 Consummateur.java
+│   │               ├── 📄 main.java
+│   │               ├── 📄 Observable.java
+│   │               ├── 📄 Observer.java
+│   │               ├── 📄 OrganismControle.java
+│   │               └── 📁 JavaAPI/
+│   │                   ├── 📄 Acteur.java
+│   │                   ├── 📄 Article.java
+│   │                   ├── 📄 Consummateur.java
+│   │                   ├── 📄 main.java
+│   │                   └── 📄 OrganismControle.java
+│   ├── 📁 tp , projet/
+│   │   ├── 📄 Gestion des collections - Hnini Ibrahim.jar
+│   │   ├── 📄 Gestion des collections - Naji Idriss.jar
+│   │   ├── 📄 Gestiondescollections-HniniIbrahim_source_from_Procyon.zip
+│   │   ├── 📄 Gestiondescollections-NajiIdriss_source_from_Procyon.zip
+│   │   ├── 📄 jd-gui-windows-1.4.0.zip
+│   │   ├── 📄 TP2 Design patterns.pdf
+│   │   └── 📁 Gestiondescollections-NajiIdriss_source_from_Procyon/
+│   │       ├── 📁 abstractFactory/
+│   │       │   ├── 📄 ArrayFactory.java
+│   │       │   ├── 📄 LinkedFactory.java
+│   │       │   └── 📄 MyCollectionFactory.java
+│   │       ├── 📁 beans/
+│   │       │   ├── 📄 ArraySet.java
+│   │       │   ├── 📄 LinkedSet.java
+│   │       │   ├── 📄 Main.java
+│   │       │   ├── 📄 MyArrayList.java
+│   │       │   ├── 📄 MyCollection.java
+│   │       │   ├── 📄 MyLinkedList.java
+│   │       │   ├── 📄 MyList.java
+│   │       │   └── 📄 MySet.java
+│   │       ├── 📁 com/
+│   │       │   └── 📁 jgoodies/
+│   │       │       └── 📁 forms/
+│   │       │           ├── 📄 FormsSetup.java
+│   │       │           ├── 📁 builder/
+│   │       │           │   ├── 📄 AbstractBuilder.java
+│   │       │           │   ├── 📄 AbstractButtonPanelBuilder.java
+│   │       │           │   ├── 📄 AbstractFormBuilder.java
+│   │       │           │   ├── 📄 ButtonBarBuilder.java
+│   │       │           │   ├── 📄 ButtonStackBuilder.java
+│   │       │           │   ├── 📄 DefaultFormBuilder.java
+│   │       │           │   ├── 📄 I15dPanelBuilder.java
+│   │       │           │   ├── 📄 ListViewBuilder.java
+│   │       │           │   └── 📄 PanelBuilder.java
+│   │       │           ├── 📁 debug/
+│   │       │           │   ├── 📄 FormDebugPanel.java
+│   │       │           │   └── 📄 FormDebugUtils.java
+│   │       │           ├── 📁 factories/
+│   │       │           │   ├── 📄 Borders.java
+│   │       │           │   ├── 📄 CC.java
+│   │       │           │   ├── 📄 ComponentFactory.java
+│   │       │           │   ├── 📄 DefaultComponentFactory.java
+│   │       │           │   └── 📄 Forms.java
+│   │       │           ├── 📁 internal/
+│   │       │           │   └── 📄 FocusTraversalUtilsAccessor.java
+│   │       │           ├── 📁 layout/
+│   │       │           │   ├── 📄 BoundedSize.java
+│   │       │           │   ├── 📄 CellConstraints.java
+│   │       │           │   ├── 📄 ColumnSpec.java
+│   │       │           │   ├── 📄 ConstantSize.java
+│   │       │           │   ├── 📄 FormLayout.java
+│   │       │           │   ├── 📄 FormSpec.java
+│   │       │           │   ├── 📄 FormSpecParser.java
+│   │       │           │   ├── 📄 FormSpecs.java
+│   │       │           │   ├── 📄 LayoutMap.java
+│   │       │           │   ├── 📄 PrototypeSize.java
+│   │       │           │   ├── 📄 RowSpec.java
+│   │       │           │   ├── 📄 Size.java
+│   │       │           │   └── 📄 Sizes.java
+│   │       │           └── 📁 util/
+│   │       │               ├── 📄 AbstractUnitConverter.java
+│   │       │               ├── 📄 DefaultUnitConverter.java
+│   │       │               ├── 📄 FormUtils.java
+│   │       │               ├── 📄 LayoutStyle.java
+│   │       │               ├── 📄 MacLayoutStyle.java
+│   │       │               ├── 📄 UnitConverter.java
+│   │       │               └── 📄 WindowsLayoutStyle.java
+│   │       ├── 📁 decorateur/
+│   │       │   ├── 📄 Decorateur.java
+│   │       │   ├── 📄 MainDeco.java
+│   │       │   ├── 📄 MaListeSD.java
+│   │       │   └── 📄 MaListeTrier.java
+│   │       ├── 📁 GUI/
+│   │       │   ├── 📄 Clone.java
+│   │       │   └── 📄 Fenetre1.java
+│   │       ├── 📁 iterator/
+│   │       │   ├── 📄 Iterator.java
+│   │       │   └── 📄 IteratorImpl.java
+│   │       ├── 📁 memento/
+│   │       │   └── 📄 Gardian.java
+│   │       ├── 📁 Observer/
+│   │       │   ├── 📄 CollectionObservateur.java
+│   │       │   ├── 📄 CollectionObserve.java
+│   │       │   ├── 📄 Main.java
+│   │       │   ├── 📄 ObservateurMoy.java
+│   │       │   └── 📄 ObservateurSomme.java
+│   │       ├── 📁 strategie/
+│   │       │   ├── 📄 StrategieTrie.java
+│   │       │   ├── 📄 TrieABulle.java
+│   │       │   ├── 📄 TrieParInsersion.java
+│   │       │   └── 📄 TrieParSelection.java
+│   │       └── 📁 test/
+│   │           ├── 📄 ListFactory.java
+│   │           └── 📄 ListFactoryImpl.java
+│   └── 📁 tp0/
+│       └── 📄 tp0 uml.pdf
+└── 📁 Design Patterns/
+    ├── 📄 src explinations.lnk
+    ├── 📄 tuto.txt
+    ├── 📄 exm ds +imple.rar
+    ├── 📄 mvs patterns.png
+    ├── 📄 exm2019.jpg
+    ├── 📄 exm p1.png
+    ├── 📄 exm p2.png
+    ├── 📄 ds pattern.txt
+    ├── 📄 command pattern.png
+    ├── 📄 command pattern2.png
+    ├── 📄 corr exam 2021.png
+    ├── 📄 corr exm salah.jpeg
+    ├── 📄 20200116_131509.jpg
+    ├── 📄 resumé naaadyaaa.txt
+    ├── 📄 TD n°1 Design Pattern.pdf
+    ├── 📄 TP2 : Composite & Decorator.pdf
+    ├── 📄 Examen Corrigé.pdf
+    ├── 📄 TP1 : Design Patterns.pdf
+    ├── 📄 Examen + Correction Design Pattern.pdf
+    ├── 📄 Examen + Correction 2016 .pdf
+    ├── 📄 Examen en Design Patterns.pdf
+    ├── 📄 Cours Design Patterns.pdf
+    ├── 📄 TD/TP Patrons de Conception  Patrons : Observateur, Strategie, Singleton Framework : Modele-Vue-Controleur.pdf
+    ├── 📄 Resume design patterns.pdf
+    ├── 📄 exercices + Resumé.pdf
+    ├── 📄 Projet DesignPatterns M2K.pdf
+    ├── 📄 Examen Final en Design Patterns.pdf
+    ├── 📁 exo/
+    │   ├── 📄 TD04. Design patterns (correction).pdf
+    │   ├── 📄 Exam2010-Corrigé.pdf
+    │   ├── 📄 IR2-TP4.pdf
+    │   ├── 📄 TD n°3  Le Modèle ­Vue­ Contrôleur (MVC).pdf
+    │   ├── 📄 IR2-TP5.pdf
+    │   ├── 📄 Corrige_TP3.pdf
+    │   ├── 📄 IR2-TP2.pdf
+    │   ├── 📄 IR2-TP6.pdf
+    │   └── 📄 IR2-TP1.pdf
+    ├── 📁 TP/
+    │   ├── 📁 tp , projet/
+    │   │   └── 📁 Gestiondescollections-NajiIdriss_source_from_Procyon/
+    │   │       ├── 📁 abstractFactory/
+    │   │       ├── 📁 beans/
+    │   │       ├── 📁 com/
+    │   │       │   └── 📁 jgoodies/
+    │   │       │       └── 📁 forms/
+    │   │       │           ├── 📁 debug/
+    │   │       │           ├── 📁 builder/
+    │   │       │           ├── 📁 factories/
+    │   │       │           ├── 📁 internal/
+    │   │       │           ├── 📁 util/
+    │   │       │           └── 📁 layout/
+    │   │       ├── 📁 GUI/
+    │   │       ├── 📁 decorateur/
+    │   │       ├── 📁 iterator/
+    │   │       ├── 📁 memento/
+    │   │       ├── 📁 Observer/
+    │   │       ├── 📁 strategie/
+    │   │       └── 📁 test/
+    │   ├── 📁 DesignPatterns/
+    │   │   ├── 📁 .settings/
+    │   │   ├── 📁 bin/
+    │   │   │   ├── 📁 Structural/
+    │   │   │   │   ├── 📁 Adapter/
+    │   │   │   │   └── 📁 CollectionAdapter/
+    │   │   │   ├── 📁 Creational/
+    │   │   │   │   ├── 📁 Builder/
+    │   │   │   │   ├── 📁 FactoryMethod/
+    │   │   │   │   ├── 📁 Prototype/
+    │   │   │   │   └── 📁 singleton/
+    │   │   │   └── 📁 tp1/
+    │   │   │       ├── 📁 mvc/
+    │   │   │       └── 📁 observer/
+    │   │   │           └── 📁 JavaAPI/
+    │   │   └── 📁 src/
+    │   │       ├── 📁 Creational/
+    │   │       │   ├── 📁 FactoryMethod/
+    │   │       │   ├── 📁 Builder/
+    │   │       │   ├── 📁 singleton/
+    │   │       │   └── 📁 Prototype/
+    │   │       ├── 📁 Structural/
+    │   │       │   ├── 📁 CollectionAdapter/
+    │   │       │   └── 📁 Adapter/
+    │   │       └── 📁 tp1/
+    │   │           ├── 📁 mvc/
+    │   │           └── 📁 observer/
+    │   │               └── 📁 JavaAPI/
+    │   └── 📁 tp0/
+    │       └── 📄 tp0 uml.pdf
+    ├── 📁 revision all methds/
+    │   ├── 📄 AbstractFactory.java
+    │   ├── 📄 Prototype.java
+    │   ├── 📄 Proxy.java
+    │   ├── 📄 Facade.java
+    │   ├── 📄 ObserverApp.java
+    │   ├── 📄 FactoryMethod.java
+    │   ├── 📄 Decorator.java
+    │   ├── 📄 Adapter.java
+    │   ├── 📄 IteratorDemo.java
+    │   ├── 📄 Singleton.java
+    │   ├── 📄 Composite.java
+    │   ├── 📄 state pattern.png
+    │   ├── 📄 builder.png
+    │   ├── 📄 mediator1 prob.png
+    │   ├── 📄 mediator1 sol.png
+    │   ├── 📄 mediator1.png
+    │   ├── 📄 mediator uml.png
+    │   └── 📄 resumé naaadyaaa.txt
+    ├── 📁 ++/
+    │   ├── 📄 Td Design Pattern.pdf
+    │   ├── 📄 Assignment 5: Design Patterns  (solution).pdf
+    │   ├── 📄 Design Pattern – TD n°3.pdf
+    │   ├── 📄 td design pattern_exos_corrigés.pdf
+    │   ├── 📄 DesignPatterns Creation.pdf
+    │   ├── 📄 Examen Correction 1ere Session 2015-2016.pdf
+    │   ├── 📄 Pattern Pattern Composite Composite.pdf
+    │   ├── 📄 TD5 + Correction : Le design pattern Composite.pdf
+    │   ├── 📄 UE Conception Orientee Objet  Examen juin 2006.pdf
+    │   ├── 📄 Examen + Correction 1ere Session 2018-2019.pdf
+    │   ├── 📄 Cours Design Patterns .pdf
+    │   ├── 📄 Design Pattern – Corrigé TD n°2.pdf
+    │   ├── 📄 Examen + Correction 1ere Session 2016-2017.pdf
+    │   ├── 📄 Design Pattern – Corrigé du TD n°4.pdf
+    │   └── 📄 Examen + Correction 1ere Session 2015-2016.pdf
+    └── 📁 TD/
+        ├── 📄 .DS_Store
+        ├── 📄 Main.jpg
+        └── 📄 Rapport-projet-DP.docx
+
+═════════════════════════════════════
+  Fin du fichier · Design Patterns
+═════════════════════════════════════

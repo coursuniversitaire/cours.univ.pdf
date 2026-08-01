@@ -1,0 +1,175 @@
+📚 MODULE : Diagnostic des systèmes                   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Diagnostic des systèmes.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Diagnostic des systèmes/
+├── 🔗📁 4# Diagnostic des systèmes (DS) MECHAT-20260602T203812Z-3-001.zip  (raccourci)
+├── 🔗📁 4# Diagnostic des systèmes (DS) MECHAT/  (raccourci)
+│   ├── 📄 desktop.ini
+│   ├── 📄 programme.pdf
+│   ├── 📄 email.txt
+│   ├── 📁 td/
+│   │   ├── 📄 td1 solution.pdf
+│   │   ├── 📄 Série d exercices.pdf
+│   │   ├── 📄 td4_exo1.m
+│   │   └── 📁 old/
+│   │       ├── 📄 Diagnostic-TD.pdf
+│   │       ├── 📁 td matlab/
+│   │       │   ├── 📄 EXO3.mdl
+│   │       │   ├── 📄 EXO2.m
+│   │       │   ├── 📄 EXO1.mdl
+│   │       │   ├── 📄 EXO1.m
+│   │       │   ├── 📄 EXO1.asv
+│   │       │   ├── 📄 EXERCICE3.asv
+│   │       │   └── 📄 EXERCICE3.m
+│   │       ├── 📁 Solution td2 et 3/
+│   │       │   ├── 📄 49625809_293223408058968_2747378553619218432_n.jpg
+│   │       │   ├── 📄 49452252_1468036373340953_1840623864086790144_n.jpg
+│   │       │   ├── 📄 49535981_376747772890636_6798782978727084032_n.jpg
+│   │       │   ├── 📄 48932502_222421341978657_5753110024431861760_n.jpg
+│   │       │   ├── 📄 48926269_292763154712420_1290582280254783488_n.jpg
+│   │       │   ├── 📄 48424958_1236132073206107_918659205005574144_n.jpg
+│   │       │   └── 📄 49776635_136874107226816_506045540874584064_n.jpg
+│   │       └── 📁 Solution td/
+│   │           ├── 📄 9.jpg
+│   │           ├── 📄 6.jpg
+│   │           ├── 📄 8.jpg
+│   │           ├── 📄 7.jpg
+│   │           ├── 📄 3.jpg
+│   │           ├── 📄 4.jpg
+│   │           ├── 📄 5.jpg
+│   │           ├── 📄 2.jpg
+│   │           ├── 📄 13.jpg
+│   │           ├── 📄 1.jpg
+│   │           ├── 📄 12.jpg
+│   │           ├── 📄 11.jpg
+│   │           └── 📄 10.jpg
+│   ├── 📁 cours/
+│   │   ├── 📄 cours DS (version2).pdf
+│   │   ├── 📄 cours DS (version1).pdf
+│   │   └── 📄 CHAPITRE IV Diagnostic par identification paramétrique.pdf
+│   ├── 📁 examens/
+│   │   ├── 📄 examen 2019.pdf
+│   │   └── 📄 examen 2014.pdf
+│   ├── 📁 résumé/
+│   │   ├── 📄 49282239_335694007265886_2430305350361022464_n.jpg
+│   │   ├── 📄 48415650_377096653063468_4190600050268700672_n.jpg
+│   │   └── 📄 48404073_370860217079705_7347887585378697216_n.jpg
+│   └── 📁 tp/
+│       ├── 📁 tp1/
+│       │   ├── 📄 TP N01ACS.pdf
+│       │   ├── 📄 TP1_DIAG_MECHAT.m
+│       │   ├── 📄 tp1.slx
+│       │   └── 📄 Rappeltp1.pdf
+│       ├── 📁 tp3/
+│       │   ├── 📄 Résumé tp3 diag.pdf
+│       │   ├── 📄 NB.txt
+│       │   └── 📄 EspaceDeParite.m
+│       └── 📁 tp2/
+│           ├── 📄 Résumétp2.pdf
+│           ├── 📄 DOSActionneurs.m
+│           ├── 📄 CompteRenduTP2Diag.pdf
+│           ├── 📄 Q4_StructureDOSactionneurs.slx
+│           ├── 📄 Q3_StructureGOScapteurs.slx
+│           ├── 📄 Q1_UIOcapteurs.slx
+│           ├── 📄 Q2_StructureDOScapteurs.slx
+│           ├── 📄 GOS.m
+│           ├── 📄 DOScapteurs.m
+│           └── 📁 préparation/
+│               ├── 📄 untitled.slx
+│               ├── 📄 preptp2dsi.slx
+│               ├── 📄 tp2prepa.m
+│               ├── 📄 prepa tp2 mechat.pdf
+│               └── 📄 PartieA.m
+└── 📁 4# Diagnostic des systèmes (DS) MECHAT/
+    ├── 📄 desktop.ini
+    ├── 📄 programme.pdf
+    ├── 📄 email.txt
+    ├── 📁 cours/
+    │   ├── 📄 cours DS (version2).pdf
+    │   ├── 📄 cours DS (version1).pdf
+    │   └── 📄 CHAPITRE IV Diagnostic par identification paramétrique.pdf
+    ├── 📁 td/
+    │   ├── 📄 td1 solution.pdf
+    │   ├── 📄 Série d exercices.pdf
+    │   ├── 📄 td4_exo1.m
+    │   └── 📁 old/
+    │       ├── 📄 Diagnostic-TD.pdf
+    │       ├── 📁 td matlab/
+    │       │   ├── 📄 EXO3.mdl
+    │       │   ├── 📄 EXO2.m
+    │       │   ├── 📄 EXO1.mdl
+    │       │   ├── 📄 EXO1.m
+    │       │   ├── 📄 EXO1.asv
+    │       │   ├── 📄 EXERCICE3.asv
+    │       │   └── 📄 EXERCICE3.m
+    │       ├── 📁 Solution td2 et 3/
+    │       │   ├── 📄 49625809_293223408058968_2747378553619218432_n.jpg
+    │       │   ├── 📄 49535981_376747772890636_6798782978727084032_n.jpg
+    │       │   ├── 📄 49452252_1468036373340953_1840623864086790144_n.jpg
+    │       │   ├── 📄 48932502_222421341978657_5753110024431861760_n.jpg
+    │       │   ├── 📄 48424958_1236132073206107_918659205005574144_n.jpg
+    │       │   ├── 📄 49776635_136874107226816_506045540874584064_n.jpg
+    │       │   └── 📄 48926269_292763154712420_1290582280254783488_n.jpg
+    │       └── 📁 Solution td/
+    │           ├── 📄 9.jpg
+    │           ├── 📄 8.jpg
+    │           ├── 📄 6.jpg
+    │           ├── 📄 3.jpg
+    │           ├── 📄 7.jpg
+    │           ├── 📄 4.jpg
+    │           ├── 📄 5.jpg
+    │           ├── 📄 2.jpg
+    │           ├── 📄 13.jpg
+    │           ├── 📄 1.jpg
+    │           ├── 📄 12.jpg
+    │           ├── 📄 11.jpg
+    │           └── 📄 10.jpg
+    ├── 📁 tp/
+    │   ├── 📁 tp3/
+    │   │   ├── 📄 Résumé tp3 diag.pdf
+    │   │   ├── 📄 NB.txt
+    │   │   └── 📄 EspaceDeParite.m
+    │   ├── 📁 tp2/
+    │   │   ├── 📄 Résumétp2.pdf
+    │   │   ├── 📄 DOSActionneurs.m
+    │   │   ├── 📄 CompteRenduTP2Diag.pdf
+    │   │   ├── 📄 Q4_StructureDOSactionneurs.slx
+    │   │   ├── 📄 Q3_StructureGOScapteurs.slx
+    │   │   ├── 📄 Q1_UIOcapteurs.slx
+    │   │   ├── 📄 Q2_StructureDOScapteurs.slx
+    │   │   ├── 📄 GOS.m
+    │   │   ├── 📄 DOScapteurs.m
+    │   │   └── 📁 préparation/
+    │   │       ├── 📄 untitled.slx
+    │   │       ├── 📄 prepa tp2 mechat.pdf
+    │   │       ├── 📄 preptp2dsi.slx
+    │   │       ├── 📄 tp2prepa.m
+    │   │       └── 📄 PartieA.m
+    │   └── 📁 tp1/
+    │       ├── 📄 TP N01ACS.pdf
+    │       ├── 📄 TP1_DIAG_MECHAT.m
+    │       ├── 📄 tp1.slx
+    │       └── 📄 Rappeltp1.pdf
+    ├── 📁 examens/
+    │   ├── 📄 examen 2019.pdf
+    │   └── 📄 examen 2014.pdf
+    └── 📁 résumé/
+        ├── 📄 49282239_335694007265886_2430305350361022464_n.jpg
+        ├── 📄 48415650_377096653063468_4190600050268700672_n.jpg
+        └── 📄 48404073_370860217079705_7347887585378697216_n.jpg
+
+═════════════════════════════════════
+  Fin du fichier · Diagnostic des systèmes
+═════════════════════════════════════

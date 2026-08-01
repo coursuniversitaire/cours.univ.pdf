@@ -1,0 +1,52 @@
+📚 MODULE : Distillation                              
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Distillation.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Distillation/
+├── 📄 distillation.pdf
+├── 📄 Distillation.docx
+├── 📄 DISTILATION.docx
+├── 📁 tp distillation/
+│   ├── 📄 taux de reflux.xlsx
+│   ├── 📄 position de l_alimentation.xlsx
+│   ├── 📄 tables distill.xlsx
+│   ├── 📄 colonne 2.dwxmz
+│   ├── 📄 distillation TP.docx
+│   ├── 📄 colonne 1 simulation.dwxmz
+│   └── 📄 TP Distillation Continue.docx
+├── 📁 exam/
+│   ├── 📄 WhatsApp Image 2021-11-26 at 9.04.06 PM(1).jpeg
+│   ├── 📄 WhatsApp Image 2021-11-26 at 9.04.06 PM.jpeg
+│   ├── 📄 WhatsApp Image 2021-01-12 at 22.45.39 (3).jpeg
+│   ├── 📄 WhatsApp Image 2021-01-12 at 22.45.39 (4).jpeg
+│   ├── 📄 23004849_359003801211317_2465557111489370109_o.jpg
+│   └── 📄 CamScanner 03-26-2021 21.17.pdf
+└── 📁 TD cours/
+    ├── 📄 serie1.pdf
+    ├── 📄 serie2.pdf
+    ├── 📄 serie3.pdf
+    ├── 📄 serie4.pdf
+    ├── 📄 Travaux dirigés de Distillation corrigés (2).pptx
+    ├── 📄 TD 1,2,3 jamal eddine el fenti.pdf
+    ├── 📄 ~$Travaux dirigés de Distillation corrigés (2).pptx
+    ├── 📄 Travaux dirigés de distillation-converti (1).pdf
+    ├── 📄 Travaux dirigés de distillation-converti.pdf
+    ├── 📄 DistillationExtraction-V2 zin.pdf
+    ├── 📄 travaux dirigés GOOGLE gp-distillation.pdf
+    ├── 📄 Section 2 Distillation.pdf
+    └── 📄 Section 1 Distillation.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Distillation
+═════════════════════════════════════

@@ -1,0 +1,56 @@
+📚 MODULE : Droit                                     
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Droit.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Droit/
+├── 🔗📁 DROIT/  (raccourci)
+│   ├── 📄 TD S6 textes.pptx
+│   ├── 📄 TD S6.pptx
+│   ├── 📄 Droit, civisme et citoyenneté  (1).pptx
+│   └── 📄 droit, civisme et citoyenneté .pdf
+├── 📄 Analyse de la première page d'un PDF - Droit
+├── 📄 enregistrement séance de révision examen droit (Mme Ines Bali).docx
+├── 📄 TD5 droit (KH) .pdf
+├── 📄 TD3 droit (KH) .pdf
+├── 📄 TD1 droit (KH) .pdf
+├── 📁 examens/
+│   ├── 📄 Examen Droit Semestre II Mai 2015 - Droit
+│   ├── 📄 Examen Droit Filiere CBA Juin 2020 - Droit
+│   └── 📁 examen mpi 2023/
+│       ├── 📄 Examen MPI 2023 - Droit
+│       └── 📄 Examen Droit Filiere MPI - Droit
+├── 📁 TDs/
+│   ├── 📁 TD3/
+│   │   ├── 📄 Cours Droit MPI et CBA Exercices Corriges - Droit
+│   │   └── 📄 cas corrigés2022
+│   ├── 📁 TD2/
+│   │   └── 📄 Corrige TD Organisation Juridictionnelle - Droit
+│   ├── 📁 TD1/
+│   │   └── 📄 Exercices TD Droit MPI INSAT 2024 - Droit
+│   └── 📁 TD4/
+│       ├── 📄 Exercices TD Fonds du Commerce - Droit
+│       └── 📄 Corrigé TD Fonds de Commerce - Droit
+└── 📁 Cours/
+    ├── 📄 Exercices TD Droit Civil - Droit
+    ├── 📄 Cours Organisation Juridictionnelle Tunisie - Droit
+    ├── 📄 chap 3 présentation_La preuve des droits subjectifs (2).pdf
+    ├── 📄 chap 4_cours fonds de commerce 2023.pdf
+    ├── 📄 chap 2 présentation_ organisation juridictionnelle 2023 (1).pdf
+    ├── 📄 chap 1_Introduction générale 2024.pdf
+    ├── 📄 chap 1 présentation _intro droit INSAT 2024.pdf.pdf
+    └── 📄 L_essentiel du cours relatif au fonds de commerce.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Droit
+═════════════════════════════════════

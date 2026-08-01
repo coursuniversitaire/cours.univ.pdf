@@ -1,0 +1,323 @@
+📚 MODULE : Cryptographie et sécurité                 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Cryptographie et sécurité.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Cryptographie et sécurité/
+├── 🔗📁 Sécurité  (raccourci)
+├── 🔗📁 SECURITY/  (raccourci)
+│   ├── 📁 EXAMS/
+│   │   ├── 📄 Corrigé type de l'Examen L3  SSI 2019_2020.doc
+│   │   ├── 📄 Corrige_Type_Examen_3ISIL_2024 (1).doc
+│   │   ├── 📄 2020-2021 (2).pdf
+│   │   └── 📄 Examen Securite 2022-2023 (1).pdf
+│   ├── 📁 SOLUTION TD/
+│   │   ├── 📄 Série3 Exo1,3.pdf
+│   │   ├── 📄 série2.pdf
+│   │   ├── 📄 série1 .pdf
+│   │   └── 📄 exo sur le chiffrement symétrique (1).pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 Serie_03_3L_ISIL_Crypto_1 (1).doc
+│   │   ├── 📄 Serie_02_3L_ISIL_Sec_2 (1).doc
+│   │   └── 📄 Serie_01_3L_ISIL_Sec.doc
+│   └── 📁 COURS/
+│       ├── 📄 Résumé Sécurité2 (1).pdf
+│       ├── 📄 Résumé Sécurité1 (1).pdf
+│       ├── 📄 Suite_Chap4_Crypto_Symetrique (2).ppt
+│       ├── 📄 Chapitre_4_Introduction_Crypto (2).ppt
+│       ├── 📄 Chapitre_3_Les_Menaces_Sec.pptx
+│       ├── 📄 ISO-17799-_avec_traduction (1).pdf
+│       ├── 📄 Chapitre_2_Suite_La_Norme_ISO_17799.ppt
+│       ├── 📄 Chapitre_2_la_gestion_des_risques (1).ppt
+│       ├── 📄 Chapitre_2_la_gestion_des_risques.ppt
+│       └── 📄 Chapitre_1_Introduction_Sec (1).pptx
+├── 🔗📁 SÉCURITÉ INFORMATIQUE/  (raccourci)
+│   ├── 📁 TP/
+│   │   └── 📄 Cryptographie-Abbas-New.pptx
+│   ├── 📁 EXERCICES/
+│   │   ├── 📄 exercices_supplimentaire.pdf
+│   │   ├── 📁 Exercices faites en cours avec Mr Rahmani/
+│   │   │   ├── 📄 5.jpg
+│   │   │   ├── 📄 6.jpg
+│   │   │   ├── 📄 7.jpg
+│   │   │   ├── 📄 4.jpg
+│   │   │   ├── 📄 3.jpg
+│   │   │   ├── 📄 2.jpg
+│   │   │   └── 📄 1.jpg
+│   │   └── 📁 Exercices sans corrigés (hors ALGER1)/
+│   │       ├── 📄 TD 2 SI.pdf
+│   │       ├── 📄 TD 1 securité.pdf
+│   │       ├── 📄 Suite TD 1.pdf
+│   │       └── 📁 CONTRÔLES/
+│   │           ├── 📄 Intero2_page2.jpg
+│   │           ├── 📄 Intero2_page1.jpg
+│   │           ├── 📄 Intero1_suj2_page2.jpg
+│   │           ├── 📄 Intero1_suj2_page1.jpg
+│   │           ├── 📄 Intero1_suj1_page2.jpg
+│   │           └── 📄 Intero1_suj1_page1.jpg
+│   └── 📁 COURS/
+│       ├── 📄 security_resume.pdf
+│       ├── 📄 cryptography_resume.pdf
+│       ├── 📁 Cours Abbas/
+│       │   ├── 📁 PPTX/
+│       │   │   ├── 📄 Crypto-Chapitre 2!- Chiffrement Symétrique.pptx
+│       │   │   ├── 📄 Crypto-Chapitre 1!- Introduction, Historique et définitions.pptx
+│       │   │   ├── 📄 Crypto-Chapitre 4!- Fonctions de Hachage et Signatures numériques.pptx
+│       │   │   └── 📄 Crypto-Chapitre 3!- Chiffrement Asymétrique.pptx
+│       │   └── 📁 PDF/
+│       │       ├── 📄 Crypto-Chapitre 4!- Fonctions de Hachage et Signatures numériques.pdf
+│       │       ├── 📄 Crypto-Chapitre 2!- Chiffrement Symétrique.pdf
+│       │       ├── 📄 Crypto-Chapitre 1!- Introduction, Historique et définitions.pdf
+│       │       └── 📄 Crypto-Chapitre 3!- Chiffrement Asymétrique.pdf
+│       ├── 📁 Autres/
+│       │   ├── 📄 Cours5_sécurité sans fils.pptx
+│       │   ├── 📄 Cours4_Analyse de risque.pptx
+│       │   ├── 📄 Cours3_Méthodes de protection.pdf
+│       │   └── 📄 Cours1_Introduction à la sécurité.pdf
+│       └── 📁 Cours Rahmani/
+│           ├── 📄 ICP-PKI - Infrastructures à Clés Publiques.pdf
+│           ├── 📄 01. intro_si_cours_01.pdf
+│           ├── 📄 04. Cryptographie_cle_publique_COURS_03.pdf
+│           ├── 📄 Introduction à la sécurité – Cours 8 Infrastructure de clés publiques.pdf
+│           ├── 📄 Les menaces Informatiques.pdf
+│           ├── 📄 Authentification.pptx
+│           ├── 📄 Disponibilite.pptx
+│           ├── 📄 03. crypto_symet__COURS_02.pdf
+│           ├── 📄 SÉCURITÉ_BDD.pdf
+│           ├── 📄 02. intro_cryptographie_cours_01.pdf
+│           ├── 📄 Attaques Informatiques.pptx
+│           └── 📁 Livres _ autres/
+│               ├── 📄 Tableaux-de-bord-de-la-s-curit-r-seau-2e-dition.pdf
+│               ├── 📄 Matt Bishop-Computer Security_ Art and Science-Addison-Wesley Professional (2002).pdf
+│               ├── 📄 Cryptography for Dummies.pdf
+│               ├── 📄 cryptographie.rar
+│               └── 📄 Crypto.rar
+├── 📄 Examen Cryptographie Fonctions Hachage Signature Numerique Cryptographie et sécurité
+├── 📄 Exercices TD Cryptographie Algorithme RC4 Clé 15 bits Cryptographie et sécurité
+├── 📄 Exercices TD Arithmetique modulaire et Bezout avec solutions Cryptographie et sécurité
+├── 📄 Chiffrement Par Permutation Soustraction Clé Blocs 8 Caractères Cryptographie et sécurité
+├── 📄 Examen SMI6 Securite et Cryptographie 2014 2015 Cryptographie et sécurité
+├── 📄 Exercices TD Securite et Cryptographie Cryptographie et sécurité
+├── 📄 Exercices TD Securite et Cryptographie Cryptographie et sécurité
+├── 📄 Exercices TD Cryptographie GenererDictionnaireCesarSubstitution Cryptographie et sécurité
+├── 📄 Examen cryptographie master 1 universite Batna decodage chiffrement RSA Vigenere Feistel Cryptographie et sécurité
+├── 📄 Examen Cryptographie Rattrapage SMI6 Tétouan 2016 2017 Cryptographie et sécurité
+├── 📄 Exercices TD securite cryptographie analyse frequentielle code substitution Cryptographie et sécurité
+├── 📄 Syllabus Securite Informatique et Cryptographie FST Tetouan Cryptographie et sécurité
+├── 📄 Examen cryptanalyse frequences caracteres francais Cryptographie et sécurité
+├── 📄 Cryptographie SMI S6 Introduction Chiffrement Symétrique Asymétrique Cryptographie et sécurité
+├── 📄 Machine Enigma son fonctionnement et son decryptage par Turing Cryptographie et sécurité
+├── 📄 Machine Enigma son fonctionnement et son decryptage par Turing Cryptographie et sécurité
+├── 📄 Cryptographie SMI S6 FST Tetouan Syllabus 2014 2015 Cryptographie et sécurité
+├── 📄 Cryptographie SMI S6 FST Tetouan Syllabus 2014 2015 Cryptographie et sécurité
+├── 📄 Cryptographie SMI S6 FST Tetouan Syllabus 2014 2015 Cryptographie et sécurité
+├── 📄 Exercices TD Cryptographie GenererDictionnaireCesarSubstitution Cryptographie et sécurité
+├── 📄 Examen Cryptographie M2 Protocoles Needham Schroeder et Exponentiation Modulo Cryptographie et sécurité
+├── 📄 Exercices TD Cryptographie GenererDictionnaireCesarSubstitution Cryptographie et sécurité
+├── 📄 Examen Cryptographie M2 Protocoles Needham Schroeder et Exponentiation Modulo Cryptographie et sécurité
+├── 📄 Exercices TD Arithmetique Modulaire et Exponentielle Rapide Cryptographie et sécurité
+├── 📄 Exercices TD Arithmetique Modulaire et Exponentielle Rapide Cryptographie et sécurité
+├── 📄 Exercices TD RSA Chiffrement Dchiffrement Cls Prives et Modules Cryptographie et sécurité
+├── 📄 Examen rattrapage Cryptographie et sécurité 2015_2016-1.pdf
+├── 📄 Examen cryptographie master 1 universite Batna decodage chiffrement RSA Vigenere Feistel Cryptographie et sécurité
+├── 📄 Exercices TD RSA Chiffrement Dchiffrement Cls Prives et Modules Cryptographie et sécurité
+├── 📄 Exercices TD Arithmetique Modulaire et Exponentielle Rapide Cryptographie et sécurité
+├── 📄 Exercices TD Arithmetique Congruences et Cryptologie Cryptographie et sécurité
+├── 📄 Examen Cryptographie M2 Protocoles Needham Schroeder et Exponentiation Modulo Cryptographie et sécurité
+├── 📄 Exercices TD Cryptographie GenererDictionnaireCesarSubstitution Cryptographie et sécurité
+├── 📄 Cryptographie SMI S6 FST Tetouan Syllabus 2014 2015 Cryptographie et sécurité
+├── 📄 Machine Enigma son fonctionnement et son decryptage par Turing Cryptographie et sécurité
+├── 📄 Cryptographie SMI S6 Introduction Chiffrement Symétrique Asymétrique Cryptographie et sécurité
+├── 📄 Examen cryptanalyse frequences caracteres francais Cryptographie et sécurité
+├── 📄 Exercices TD Securite et Cryptographie Cryptographie et sécurité
+├── 📄 Examen Comprendre les menaces et attaques en securite informatique Cryptographie et sécurité
+├── 📄 Syllabus Securite Informatique et Cryptographie FST Tetouan Cryptographie et sécurité
+├── 📄 Exercices TD securite cryptographie analyse frequentielle code substitution Cryptographie et sécurité
+├── 📄 Examen Cryptographie Rattrapage SMI6 Tétouan 2016 2017 Cryptographie et sécurité
+├── 📄 Examen SMI6 Securite et Cryptographie 2014 2015 Cryptographie et sécurité
+├── 📄 Examen Securité Cryptographie SMI S6 2018 2019 Analyse Fraudes Cryptographie et sécurité
+├── 📄 Examen Securite et Cryptographie Universite Tetouan 2016 2017 Cryptographie et sécurité
+├── 📄 Examen SMI S6 securite informatique menaces et attaques Cryptographie et sécurité
+├── 📄 Examen Cryptographie Machine Enigma Rotors Decalage Solution Cryptographie et sécurité
+├── 📄 Cryptographie SMI S6 Introduction Chiffrement Symétrique Asymétrique Cryptographie et sécurité
+├── 📄 Exercices TD Cryptographie Chiffrement Cesar Arithmetique Cryptographie et sécurité
+├── 📄 Exercices TD Cryptographie RSA avec p 7 et q 11 Cryptographie et sécurité
+├── 📄 Exercices TD Cryptologie Chiffrement Hill et Affaiblissement Mot de Passe Cryptographie et sécurité
+├── 📄 Exercices TD Cryptographie L3 AES et force brute Cryptographie et sécurité
+├── 📄 Chiffrement Par Permutation Soustraction Clé Blocs 8 Caractères Cryptographie et sécurité
+├── 📄 Exercices TD Sécurité Informatique Chiffrement Asymétrique RSA Signature Numérique Cryptographie et sécurité
+├── 📄 Examen Sécurité Informatique Cryptographie Symétrique et AES 2021 2022 Cryptographie et sécurité
+├── 📄 Examen TD Cryptographie Classique Master SII USTHB 2021 2022 Cryptographie et sécurité
+├── 📄 Exercices TD Sécurité Informatique Master SII USTHB 2022 Chiffrement Symétrique Asymétrique Cryptographie et sécurité
+├── 📄 Exercices TD Arithmetique modulaire et Bezout avec solutions Cryptographie et sécurité
+├── 📄 Exercices TD Cryptographie Modes CBC CFB OFB et Analyse Clés Symétriques Cryptographie et sécurité
+├── 📄 Exercices TD Cryptographie Classique Decalage Attaque Frequentielle Cryptographie et sécurité
+├── 📄 Exercices TD Sécurité Informatique Classer Actions et Attaques Ciaa Cryptographie et sécurité
+├── 📄 Exercices TD Cryptographie Elliptique sur Z11 Cryptographie et sécurité
+├── 📄 Exercices TD Cryptographie Algorithme RC4 Clé 15 bits Cryptographie et sécurité
+├── 📄 Examen Cryptographie Fonctions Hachage Signature Numerique Cryptographie et sécurité
+├── 📄 Cryptographie Symétrique Modes Chiffrement Bloc Flot Comparaison ECB CBC CFB Cryptographie et sécurité
+├── 📄 Chiffrement de Cesar k 3 comprendre et exemple pratique Cryptographie et sécurité
+├── 📄 Les 3 piliers de la cybersécurité confidentialité intégrité et disponibilité Cryptographie et sécurité
+├── 📄 Cours Securite Cryptographie Asymetrique Arithmetique Modulaire Fondamentaux Cryptographie et sécurité
+├── 📄 Exercices TD Chiffrement Asymétrique RSA Diffie Hellman ElGamal Cryptographie et sécurité
+├── 📄 Exercices TD Chiffrement Classique Analyse Frequences El Kindi Cryptographie et sécurité
+├── 📄 Exercices TD Arithmetique modulaire Master 1 RSD USTHB Cryptographie et sécurité
+├── 📄 Exercices TD Cryptographie Master 1 RSD USTHB nombre clés et chiffrement volumineux Cryptographie et sécurité
+├── 📄 Exercices TD Réseaux Sécurisés ACLs standards et étendues Cryptographie et sécurité
+├── 📄 Exercices TD Concepts generaux securite et controle dacces RSD Cryptographie et sécurité
+├── 📄 Examen Sécurité Informatique 2016 Master RSD Kerberos PKI Chiffrement et ACL Cryptographie et sécurité
+├── 📄 Examen Sécurité informatique 2019 2020 Master RSD Confidentialité Intégrité Chiffrement RSA Cryptographie et sécurité
+├── 📄 Examen Analyse Textuelle et Creation Contenu Blogger pour PDF Illisibles Cryptographie et sécurité
+├── 📄 Exercices TD Cybersécurité et Risques SI USTHB Cryptographie et sécurité
+├── 📄 Exercices TD ACLs etude cas segment interne et serveur Cryptographie et sécurité
+├── 📄 Exercices TD Systèmes Distribués et Sécurité Informatique Cryptographie et sécurité
+├── 📄 Exercices TD Cryptographie Chiffrement Affine et Cesar Cryptographie et sécurité
+├── 📄 Exercices TD Sécurité informatique Signature RSA El Gamal Master SII 2015 2016 Cryptographie et sécurité
+├── 📄 Examen Cryptographie Master1 CS S2 Batna 2012 Cryptographie et sécurité
+├── 📄 Examen cryptographie master1-cs-s2-batna-2013 Cryptographie et sécurité
+├── 📄 temp
+├── 📄 temp
+├── 📄 corrections_TD1.ppsx
+├── 📄 corrections_TD2-Ex1.ppsx
+├── 📄 Corrigé_TD_02.docx
+├── 🔗📁 FST TETOUAN securite et cryptographie 2019/  (raccourci)
+│   ├── 📄 Documents_relatifs_au_PFE_Lience_SMI.zip
+│   ├── 📁 securite/
+│   │   ├── 📄 corrections_TD2-Ex1.ppsx
+│   │   ├── 📄 corrections_TD1.ppsx
+│   │   ├── 📄 SMI_S6__Projet_Tutore_2020.xlsx
+│   │   ├── 📄 Corrigé_TD_02.docx
+│   │   ├── 📄 TD02.pdf
+│   │   ├── 📄 Security_Attacks.pdf
+│   │   └── 📄 cours_securite_01.pdf
+│   └── 📁 crypto/
+│       ├── 📄 Corrigé_Exercice_Substitution_mono-alphabétique.pdf
+│       ├── 📄 Dictionnaire.java
+│       ├── 📄 cours_cryptographie_partie2.pdf
+│       ├── 📄 Introduction_Crypthography.pdf
+│       ├── 📄 TD01.pdf
+│       └── 📄 cours_cryptographie_part1.pdf
+├── 🔗📁 FST TETOUAN securite et cryptographie 2021/  (raccourci)
+│   ├── 📁 td/
+│   │   ├── 📄 TD01 (5).pdf
+│   │   └── 📄 مقترح تصحيح تمرين RSA طلبة smi6-1.pdf
+│   ├── 📁 exams/
+│   │   ├── 📄 2019-2020-N-corr.pdf
+│   │   ├── 📄 2019-2020-R-corr.pdf
+│   │   ├── 📄 2018-2019-N-corrEX1.pdf
+│   │   ├── 📄 rattrapage_2016_2017-1.pdf
+│   │   ├── 📄 2019-2020-N.pdf
+│   │   ├── 📄 2019-2020-R.pdf
+│   │   ├── 📄 Rattrapage_2014_2015-1.pdf
+│   │   ├── 📄 controle_2015_2016-1.pdf
+│   │   ├── 📄 controle_2014_2015.pdf
+│   │   ├── 📄 controle_2018_2019-CORR.pdf
+│   │   ├── 📄 controle_2016_2017-1.pdf
+│   │   ├── 📄 rattrapage_2015_2016-1.pdf
+│   │   └── 📄 2020-2021-N-corr.pdf
+│   └── 📁 cour/
+│       ├── 📄 Intro_Computer_Security (2).pdf
+│       ├── 📄 cours_cryptographie_part1 (4).pdf
+│       ├── 📄 security_attacks (4).pdf
+│       ├── 📄 Résumé de sécurité et cryptographie smi6-2.pdf
+│       ├── 📄 ch_crypto (2)-1.pdf
+│       └── 📄 Résumé de cryptographie smi6 Aissam LM-1.pdf
+├── 📄 Quiz_Security.txt
+├── 📁 si/
+│   ├── 📁 cours/
+│   │   ├── 📄 QCM 4.docx
+│   │   ├── 📄 QCM 3.docx
+│   │   ├── 📄 QCM 2.docx
+│   │   ├── 📄 QCM 1.docx
+│   │   ├── 📄 Systeme_de_chiffrement_asymetrique.pdf
+│   │   ├── 📄 Chapitre_3-_Cryptographie_symetrique.pdf
+│   │   ├── 📄 Chapitre_2-_cryptographie_classique.pdf
+│   │   ├── 📄 Chapitre_1-_Introduction_cryptographie.pdf
+│   │   ├── 📄 securite_reseaux_L3_SIQ.pdf
+│   │   └── 📄 Securite_informatique_intro_L3_SIQ.pptx
+│   ├── 📁 td1/
+│   │   ├── 📄 Serie_2_L3_SIQ.docx
+│   │   ├── 📄 Serie_L3_SIQ.pdf
+│   │   ├── 📄 TD04.pdf
+│   │   ├── 📄 Séries_TD_Corrigées.pdf
+│   │   ├── 📄 TD03.pdf
+│   │   ├── 📄 TD02.pdf
+│   │   └── 📄 TD01.pdf
+│   ├── 📁 res2/
+│   │   ├── 📄 EMD_SI_2017.pdf
+│   │   ├── 📄 TD_3_Sol.pdf
+│   │   ├── 📄 TD_3.pdf
+│   │   ├── 📄 EMD_Crypto_2018-2019.docx.pdf
+│   │   ├── 📄 Corrige_de_lEMDCryptographie_-_S2_L3_SIQ_2018-2019.docx.pdf
+│   │   ├── 📄 TD_01_corrige.pdf
+│   │   ├── 📄 TD_02_avec_corrige.pdf
+│   │   └── 📄 TD3_corrige.pdf
+│   ├── 📁 Examen/
+│   │   ├── 📄 EMD Crypto 2018-2019.docx
+│   │   ├── 📄 Corrigé de lEMDCryptographie - S2 L3 SIQ 2018-2019.docx
+│   │   ├── 📄 EX-L3-SI20SEPTw.docx
+│   │   ├── 📄 Corrig EMD L3_SIQ_Crypto 2016-2017.pdf
+│   │   ├── 📄 S02.pdf
+│   │   ├── 📄 02.jpg
+│   │   ├── 📄 01.jpg
+│   │   ├── 📄 Interrogation-2021_22-Correction.pdf
+│   │   ├── 📄 Controle-3L-2021-22 - Correcction.pdf
+│   │   ├── 📄 Controle-3L-2020-21-Correction (1).pdf
+│   │   ├── 📄 examen_p2.jpeg
+│   │   ├── 📄 examen_p3.jpeg
+│   │   └── 📄 examen_p1.jpeg
+│   └── 📁 res/
+│       ├── 📄 photo_2024-01-31_16-05-36.jpg
+│       ├── 📄 photo_2024-01-31_16-05-35.jpg
+│       ├── 📄 photo_2024-01-31_16-05-38.jpg
+│       ├── 📄 resumé securité.pdf
+│       ├── 📄 TD3 corrige.pdf
+│       ├── 📄 TD 02 avec corrigé.pdf
+│       ├── 📄 TD 01 corrigé.pdf
+│       ├── 📄 1707150080-TD_sécurité .pdf
+│       ├── 📄 1707150072-TD Crypto.pdf
+│       ├── 📄 td sécurité.pdf
+│       ├── 📄 test sécurité mme Guanadiz.pdf
+│       ├── 📄 Sujet 1 2018-2017.pdf
+│       └── 📄 Sujet 2 2018-2017.pdf
+└── 📁 SECURITY/
+    ├── 📁 SOLUTION TD/
+    │   ├── 📄 Série3 Exo1,3.pdf
+    │   ├── 📄 série2.pdf
+    │   ├── 📄 série1 .pdf
+    │   └── 📄 exo sur le chiffrement symétrique (1).pdf
+    ├── 📁 EXAMS/
+    │   ├── 📄 Corrigé type de l_Examen L3  SSI 2019_2020.doc
+    │   ├── 📄 Corrige_Type_Examen_3ISIL_2024 (1).doc
+    │   ├── 📄 2020-2021 (2).pdf
+    │   └── 📄 Examen Securite 2022-2023 (1).pdf
+    ├── 📁 TD/
+    │   ├── 📄 Serie_03_3L_ISIL_Crypto_1 (1).doc
+    │   ├── 📄 Serie_02_3L_ISIL_Sec_2 (1).doc
+    │   └── 📄 Serie_01_3L_ISIL_Sec.doc
+    └── 📁 COURS/
+        ├── 📄 Résumé Sécurité2 (1).pdf
+        ├── 📄 Résumé Sécurité1 (1).pdf
+        ├── 📄 Suite_Chap4_Crypto_Symetrique (2).ppt
+        ├── 📄 Chapitre_4_Introduction_Crypto (2).ppt
+        ├── 📄 Chapitre_3_Les_Menaces_Sec.pptx
+        ├── 📄 ISO-17799-_avec_traduction (1).pdf
+        ├── 📄 Chapitre_2_Suite_La_Norme_ISO_17799.ppt
+        ├── 📄 Chapitre_2_la_gestion_des_risques (1).ppt
+        ├── 📄 Chapitre_2_la_gestion_des_risques.ppt
+        └── 📄 Chapitre_1_Introduction_Sec (1).pptx
+
+═════════════════════════════════════
+  Fin du fichier · Cryptographie et sécurité
+═════════════════════════════════════

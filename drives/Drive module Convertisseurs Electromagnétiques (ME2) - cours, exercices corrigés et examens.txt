@@ -1,0 +1,75 @@
+📚 MODULE : Convertisseurs Electromagnétiques (ME2)   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Convertisseurs Electromagnétiques (ME2).
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Convertisseurs Electromagnétiques (ME2)/
+└── 🔗📁 ME2/  (raccourci)
+    ├── 📄 1-Programme matière ME2.pdf
+    ├── 📁 TPs/
+    │   ├── 📁 3_MCC-MOTEUR/
+    │   │   ├── 📄 MCC TP (ME2) Part-2 Moteurs.pdf
+    │   │   ├── 📁 MCC-shunt /
+    │   │   │   ├── 📄 TP03ME2.pdf
+    │   │   │   └── 📄 TP3-MOTEUR-SHUNT.docx
+    │   │   └── 📁 MCC- série /
+    │   │       ├── 📄 TP4-MOTEUR-SERIE (1).docx
+    │   │       └── 📄  TP04ME2.pdf
+    │   ├── 📁 2_MCC-GENERATRICE/
+    │   │   ├── 📄 TP2-GENERATRICES A CC.docx.pdf
+    │   │   ├── 📄 GENERATRICE SEPAREE ET SHUNT.docx
+    │   │   └── 📄 TP_M2 Matière ME2.pdf
+    │   └── 📁 1_Transfo-3ph/
+    │       ├── 📄 TP-1-TRANSFO-TRIPHASE.docx.pdf
+    │       ├── 📄 CR_TP_ME2.docx.pdf
+    │       └── 📄 TP_M1 Matière ME2.pdf
+    ├── 📁 Exos sup/
+    │   ├── 📄 Td2me_avec Correction.pdf
+    │   └── 📄 Td1_me_avecCorrection.pdf
+    ├── 📁 Cours/
+    │   ├── 📁 MCC/
+    │   │   ├── 📄 Termes à comprendre.pdf
+    │   │   ├── 📁 Cours mr_ibtiouen/
+    │   │   │   ├── 📄 Notes de cours_ MCC_partie II-.pdf
+    │   │   │   └── 📄 Cours MCC part-I (Pr. R. Ibtiouen).pdf
+    │   │   ├── 📁 Résumés/
+    │   │   │   ├── 📄 Résumé-MCC.pdf
+    │   │   │   ├── 📄 3 les types d'excitation.pdf
+    │   │   │   ├── 📄 2 RMI.pdf
+    │   │   │   └── 📄 1 etude de stator et rator de MCC.pdf
+    │   │   └── 📁 Cours_Sup/
+    │   │       ├── 📄  Machines à courant continu.pdf
+    │   │       └── 📄 Cours_Machines à courant continu.pdf
+    │   └── 📁 Transformateurs Triphasés déséquilibres/
+    │       ├── 📁 Cours/
+    │       │   └── 📄 Notes de Cours sur les Transformateurs 3ph en régime sinusoidal déséquilibré--.pdf
+    │       └── 📁 TD/
+    │           ├── 📄 Exos+Sols.pdf
+    │           └── 📄 Desequilibre.pdf
+    ├── 📁 TDs/
+    │   ├── 📁 TD-sup/
+    │   │   └── 📄 TD_Machines à courant continu.pdf
+    │   ├── 📁 TD2/
+    │   │   ├── 📄 TD no.2_Matière_ ME2_MCC.pdf
+    │   │   └── 📄 Exercices_corrigés_SérieII_MCC.pdf
+    │   └── 📁 TD1/
+    │       ├── 📄 corrigé Série TD N°1.pdf
+    │       ├── 📄 Corrigés TD No.1 ME2 _.pdf
+    │       └── 📄 TD 1 ME2.pdf
+    └── 📁 Examens+ interro/
+        ├── 📄 interro ME2.pdf
+        └── 📄 examens avec qlq sol.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Convertisseurs Electromagnétiques (ME2)
+═════════════════════════════════════

@@ -1,0 +1,101 @@
+📚 MODULE : CODAGE & COMPRESSION                      
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module CODAGE & COMPRESSION.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 CODAGE & COMPRESSION/
+├── 🔗📁 codage/  (raccourci)
+│   ├── 📄 codage td 08-ماي-2018 13-24-08.pdf
+│   ├── 📄 حل كوداج اكزو 5 19-فيفري-2018 20-31-21.pdf
+│   ├── 📄 TD codage 19-فيفري-2018 21-25-08.pdf
+│   ├── 📄 Inf_theory_lect1.pdf
+│   ├── 📄 cours cordage 19-فيفري-2018 21-38-18.pdf
+│   ├── 📄 codage_et_th_orie_de_l_information.pdf
+│   ├── 📄 Inf_theory_lect4.pdf
+│   ├── 📄 Inf_theory_lect3.pdf
+│   ├── 📄 Inf_theory_lect2.pdf
+│   ├── 📄 codage_1_.pdf
+│   ├── 📄 ExercicesCodesCorrecteurs.doc
+│   ├── 📄 Corrig_ td.pdf
+│   ├── 📄 td_inf_theory.pdf
+│   └── 📄 codage td 08-ماي-2018 13-24-08.pdf
+├── 🔗📁 CC/  (raccourci)
+│   ├── 📁 TP/
+│   │   ├── 📄 TP03_CC_RT_M1-24.pdf
+│   │   ├── 📄 TP2_cc.pdf
+│   │   └── 📄 TP1.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 Serie_03_CC_23-24.pdf
+│   │   ├── 📄 Série TD2-2024-suite.pdf
+│   │   └── 📄 série01_CC-2024.pdf
+│   └── 📁 Cour/
+│       ├── 📄 codes convolutifs et turbo codes.pdf
+│       ├── 📄 Cours_5_Codes en blocs.pdf
+│       ├── 📄 codes convolutifs et turbo codes.pdf
+│       ├── 📄 codage LZW.pdf
+│       ├── 📄 cours_0.pdf
+│       ├── 📄 cours_1.pdf
+│       ├── 📄 cours_3.pdf
+│       └── 📄 cours_2.pdf
+├── 🔗📁 CODAGE & COMPRESSION-20260621T003650Z-3-001.zip/  (raccourci)
+├── 🔗📁 codage/  (raccourci)
+│   ├── 📁 cours/
+│   │   ├── 📄 Chapitres 4 et 5.pdf
+│   │   ├── 📄 Capitre 3-suite2.rar
+│   │   ├── 📄 Capitre 3-suite1.pdf
+│   │   ├── 📄 Capitre 3.pdf
+│   │   ├── 📄 Partie5-Chapitre 2.pdf
+│   │   ├── 📄 Partie4-Chapitre 2.pdf
+│   │   ├── 📄 Partie3-Chapitre 2.pdf
+│   │   ├── 📄 Partie2-Chapitre 2.pdf
+│   │   └── 📄 Partie1-Chapitre 2.pdf
+│   └── 📁 TDs/
+│       ├── 📄 SERIE5.pdf
+│       ├── 📄 SERIE4.pdf
+│       ├── 📄 SERIE3.pdf
+│       ├── 📄 SERIE2.pdf
+│       └── 📄 SERIE1.pdf
+└── 🔗📁 CODAGE & COMPRESSION/  (raccourci)
+    ├── 📄 TD2.pdf
+    ├── 📄 TD3.pdf
+    ├── 📄 ASCII-Table.png
+    ├── 📄 TD1.pdf
+    ├── 📁 EXAMEN/
+    │   ├── 📄 20111116_1.bmp
+    │   ├── 📄 20111116_2.bmp
+    │   ├── 📄 20111116_3.bmp
+    │   ├── 📄 20140514_082856.jpg
+    │   ├── 📁 exam 2017/
+    │   │   ├── 📄 IMG_20180225_211252.jpg
+    │   │   ├── 📄 IMG_20180225_211238.jpg
+    │   │   ├── 📄 4.jpg
+    │   │   ├── 📄 5.jpg
+    │   │   ├── 📄 2.jpg
+    │   │   └── 📄 1.jpg
+    │   └── 📁 rattrapage 2017/
+    │       ├── 📄 IMG_20180225_211326.jpg
+    │       └── 📄 IMG_20180225_211451.jpg
+    ├── 📁 TP/
+    │   ├── 📄 TP03 CODAGE.docx
+    │   └── 📄 TP02 CODAGE.docx
+    └── 📁 COUR/
+        ├── 📄 06.pdf
+        ├── 📄 04.pdf
+        ├── 📄 02.pdf
+        ├── 📄 03.pdf
+        ├── 📄 01.pdf
+        └── 📄 05.pdf
+
+═════════════════════════════════════
+  Fin du fichier · CODAGE & COMPRESSION
+═════════════════════════════════════

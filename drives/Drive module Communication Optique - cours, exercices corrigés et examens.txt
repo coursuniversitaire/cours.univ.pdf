@@ -1,0 +1,75 @@
+📚 MODULE : Communication Optique                     
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Communication Optique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Communication Optique/
+├── 🔗📁 Communcation Optique/  (raccourci)
+│   ├── 📄 2.jpg
+│   ├── 📄 3.jpg
+│   ├── 📄 4.jpg
+│   ├── 📄 desktop.ini
+│   ├── 📁 TP/
+│   │   ├── 📄 TP3.docx
+│   │   ├── 📄 compte rendu du TP3.pdf
+│   │   ├── 📄 Com Optique TP1.docx
+│   │   ├── 📄 TP1_optiques.pdf
+│   │   └── 📁 les comptes rendu/
+│   │       ├── 📄 Compte Rendu de TP1 Communication Optique.docx
+│   │       ├── 📄 ~WRL3813.tmp
+│   │       ├── 📄 ~$mpte Rendu de TP1 Communication Optique.docx
+│   │       ├── 📄 Compte Rendu de TP2 Communication Optique.docx
+│   │       ├── 📄 Compte Rendu de TP2 Communication Optique.pdf
+│   │       ├── 📄 TP1.pdf
+│   │       ├── 📄 kach.docx
+│   │       ├── 📄 Compte Rendu SoC TP1.docx
+│   │       └── 📁 les comptes rendu/
+│   │           ├── 📄 Compte Rendu de TP1 Communication Optique.docx
+│   │           ├── 📄 ~WRL3813.tmp
+│   │           ├── 📄 ~$mpte Rendu de TP1 Communication Optique.docx
+│   │           └── 📄 Compte Rendu de TP2 Communication Optique.docx
+│   ├── 📁 TD/
+│   │   ├── 📄 b.jpg
+│   │   ├── 📄 a.jpg
+│   │   └── 📄 1.jpg
+│   └── 📁 Cours/
+│       ├── 📄 cours-optique-1.pdf
+│       ├── 📄 SOURCES-OPTIQUES-A-SEMICONDUCTEURS.pdf
+│       └── 📄 274800269_280304934239946_4237162091470813947_n.jpg
+└── 🔗📁 COPT Miman/  (raccourci)
+    ├── 📁 COPT TP/
+    │   ├── 📄 20191024_125348.compressed.mp4
+    │   ├── 📄 20191024_125741.jpg
+    │   ├── 📄 20191221_214413.jpg
+    │   ├── 📄 COPT TP.pdf
+    │   ├── 📄 DSC_0137.JPG
+    │   ├── 📄 DSC_0133.JPG
+    │   ├── 📄 20191024_125620.jpg
+    │   ├── 📄 20191024_125539.jpg
+    │   ├── 📄 20191024_124950.jpg
+    │   ├── 📄 20191024_124934.jpg
+    │   ├── 📄 20191024_125616.jpg
+    │   ├── 📄 20191024_124637.jpg
+    │   └── 📄 20191024_124624.jpg
+    ├── 📁 COPT cours/
+    │   ├── 📄 COPT resume.pdf
+    │   └── 📄 COPT cours.pdf
+    └── 📁 COPT TD/
+        ├── 📄 Exo corrigés - la FO.pdf
+        ├── 📄 Exo d'optique.pdf
+        ├── 📄 DSC_0337.JPG
+        └── 📄 DSC_0336.JPG
+
+═════════════════════════════════════
+  Fin du fichier · Communication Optique
+═════════════════════════════════════

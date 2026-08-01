@@ -1,0 +1,320 @@
+📚 MODULE : Corrosion                                 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Corrosion.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Corrosion/
+├── 🔗📁 corrosion-20260606T200214Z-3-001.zip  (raccourci)
+├── 🔗📁 Electrochimie + Corrosion/  (raccourci)
+│   ├── 📁 3- Livres/
+│   │   ├── 📄 lectrochimie – Des concept (Z-Library).pdf
+│   │   ├── 📄 Traité des matériaux - Volume 12 - Chimie et corrosion de surfaces des métaux.pdf
+│   │   └── 📄 Electrochimie - Resumes de cours et exercices corrige.pdf
+│   ├── 📁 2- Sujets/
+│   │   ├── 📄 322467774_715414490190551_4009299782210082865_n.jpg
+│   │   ├── 📄 Tebessa - Controle 2018.jpg
+│   │   ├── 📄 Setif 2020 - Electrochimie.jpg
+│   │   ├── 📄 Laghouat - Electrochimie - Corrosion.jpg
+│   │   ├── 📄 Z - Electrochimie 2018 p2.jpg
+│   │   ├── 📄 Z - Electrochimie 2018 p1.jpg
+│   │   ├── 📄 Setif - Examen Corrosion 2019.jpg
+│   │   ├── 📄 87903422_2617474208506421_1723230137165545472_o.jpg
+│   │   ├── 📄 82070639_2837764826307106_6645732751142027264_n.jpg
+│   │   ├── 📄 83154076_2837764576307131_2564166828003688448_n.jpg
+│   │   ├── 📄 72390037_738934693199604_6062560047286714368_o.jpg
+│   │   ├── 📄 zzzzzzzzzzz.jpg
+│   │   ├── 📄 zzzzzzzzzz.jpg
+│   │   ├── 📄 zzzzzzzz.jpg
+│   │   ├── 📄 zzzzzzz.jpg
+│   │   ├── 📄 zzzzzz.jpg
+│   │   ├── 📄 zzzzz.jpg
+│   │   ├── 📄 zzzz.jpg
+│   │   ├── 📄 zzz.jpg
+│   │   ├── 📄 zz.jpg
+│   │   ├── 📄 z.jpg
+│   │   ├── 📄 EMD - p2 .jpg
+│   │   ├── 📄 EMD - p1 .jpg
+│   │   ├── 📄 Examen -Electrochimie - 2018.jpg
+│   │   ├── 📄 Controle -Electrochimie - 2018.jpg
+│   │   ├── 📄 sujet b.jpg
+│   │   ├── 📄 sujet a.jpg
+│   │   ├── 📄 Synthese.jpg
+│   │   ├── 📄 UKM -Synthese.jpg
+│   │   ├── 📄 UKM - Examen 2.jpg
+│   │   ├── 📄 UKM - Examen - Traveau Diriges.jpg
+│   │   └── 📄 UKM - Examen 1.jpg
+│   └── 📁 1- Cours + TD/
+│       ├── 📄 Biskta - corrosion.pdf
+│       ├── 📄 Electrolyse - Exo corrige.pdf
+│       ├── 📄 Ouargla - Corrosion.pdf
+│       ├── 📄 ENSSMAL - Cours-corrosion-2020-LABBACE_.pdf
+│       ├── 📄 Jijel - Corrosion.pdf
+│       ├── 📄 Cours d'Electrochimie L3.pdf
+│       ├── 📄 Resume,Electrochimie.pdf
+│       ├── 📄 SMPC - TD(Corrige) .pdf
+│       ├── 📄 Jijel - Cours Hakim Bensabra (CPM).pdf
+│       ├── 📄 79646502_117140136437608_5125386230405529600_n.jpg
+│       ├── 📄 TD (Corrige) - application de l équation de nernst 2018.pdf
+│       ├── 📄 El-Oued - Cours-delectrochimie-3-annee-GP.pdf
+│       ├── 📄 USTHB - TD - Corrosion.pdf
+│       ├── 📄 UMMTO - TD corrige_serie 3.pdf
+│       ├── 📄 USTHB - Cours d’électrochimie.pdf
+│       ├── 📄 Electrochimie - Berarma.pdf
+│       ├── 📄 Biskra - corrosion.docx
+│       ├── 📄 Classification des couples RÉDOX.pdf
+│       ├── 📄 Oxydo-reduction et Piles electrochimiques (Exo corrige).pdf
+│       ├── 📄 Z- Exo.JPG
+│       ├── 📄 Ouargla - Electrochimie_Corrosion.pdf
+│       ├── 📁 Medea/
+│       │   ├── 📄 les electrodes en electrochimie.pdf
+│       │   ├── 📄 NEDJHIOUI.pdf
+│       │   ├── 📄 solution serie 2.pdf
+│       │   ├── 📄 SERIES 1et 2 et EFS avec corriges.pdf
+│       │   ├── 📄 cours d_electrochimie L3_GP.pdf
+│       │   └── 📄 Medea - Electrochimie.pdf
+│       ├── 📁 Relizane  - Corrosion/
+│       │   ├── 📄 chapitreI généralité sur la corrosion.pdf
+│       │   ├── 📄 CHapitre II E-pH.pdf
+│       │   └── 📄 chapitre IVprévention de la corrosion.pdf
+│       ├── 📁 Relizane - Cours + TD/
+│       │   ├── 📄 Chapitre I  Rappels sur les solution éléctrolytiques-converti.pdf
+│       │   ├── 📄 Chapitre II propriétés et grandeurs physiques des électrolytes-converti.pdf
+│       │   ├── 📄 Chapitre III Thermodynamique des réactions électrochimiques-converti.pdf
+│       │   ├── 📄 Chapitre IV cinétique des réaction électrochimique-converti.pdf
+│       │   └── 📄 TD + Sols.pdf
+│       ├── 📁 Skikda - TD Électrochimie 2021/
+│       │   ├── 📄 Série N°1.pdf
+│       │   ├── 📄 Solution de la série d’exercices N° 1.pdf
+│       │   ├── 📄 Solution de la serie d_exercice N°3.pdf
+│       │   ├── 📄 Solution de la serie d_exercice N°2.pdf
+│       │   ├── 📄 serie N°3.pdf
+│       │   └── 📄 serie N°2.pdf
+│       ├── 📁 DBKM - Series/
+│       │   ├── 📄 Serie 2.jpg
+│       │   ├── 📄 Serie 1.jpg
+│       │   ├── 📄 Serie 7.jpg
+│       │   ├── 📄 Serie 6.jpg
+│       │   ├── 📄 Serie 3.jpg
+│       │   ├── 📄 Serie 4.jpg
+│       │   ├── 📄 Serie 5 - p2.jpg
+│       │   └── 📄 Serie 5 - p1.jpg
+│       ├── 📁 Z - TD/
+│       │   ├── 📄 41416251_678946852477978_6369623635988054016_n.jpg
+│       │   ├── 📄 41466046_678946775811319_4477432049493344256_n.jpg
+│       │   ├── 📄 41456127_678946639144666_2502103588503814144_n.jpg
+│       │   └── 📄 41581851_678946532478010_9054733229763854336_n.jpg
+│       └── 📁 USTHB - TD (Corrige)/
+│           ├── 📄 Serie01Ecc+Crg.pdf
+│           ├── 📄 serie04[1].pdf
+│           ├── 📄 Serie02Ecc+Crg.pdf
+│           └── 📄 serie03[1].pdf
+├── 🔗📁 CORROSION/  (raccourci)
+│   ├── 📄 26553301_326763587808090_2120779252_n.jpg
+│   ├── 📄 26553244_326763584474757_780675392_n.jpg
+│   ├── 📄 26551931_326763527808096_1768397180_n.jpg
+│   ├── 📄 26551633_326763604474755_311324380_n.jpg
+│   ├── 📄 26551578_326763571141425_1353694238_n.jpg
+│   ├── 📄 26235333_326763757808073_1646329076_n.jpg
+│   ├── 📄 26241950_326763671141415_773015756_n.jpg
+│   ├── 📄 26235249_326763621141420_1400555309_n.jpg
+│   ├── 📄 26235076_326763747808074_784861992_n.jpg
+│   ├── 📄 26234877_326763551141427_1514360902_n.jpg
+│   ├── 📄 26234443_326763524474763_1646536108_n.jpg
+│   ├── 📄 26234295_326763601141422_1924795069_n.jpg
+│   ├── 📄 26197492_326763644474751_1652336322_n.jpg
+│   ├── 📄 26234057_326763564474759_1113104662_n.jpg
+│   ├── 📄 26197436_326763544474761_2078784519_n.jpg
+│   ├── 📄 26197109_326763597808089_1278117516_n.jpg
+│   ├── 📄 26196881_326763617808087_1118384789_n.jpg
+│   ├── 📄 26233840_326763647808084_1548698933_n.jpg
+│   ├── 📄 26176133_326763624474753_1353621027_n.jpg
+│   ├── 📄 26197499_326763634474752_402131863_n.jpg
+│   ├── 📁 corrosion suite/
+│   │   ├── 📄 emdEMD CORROSION.pdf
+│   │   └── 📄 emd.pdf
+│   └── 📁 EMD CORROSION AVEC CORRIGE/
+│       ├── 📄 26113710_895654293928356_4053089426022401746_n.jpg
+│       ├── 📄 26167597_895654203928365_2208928937094433345_n.jpg
+│       └── 📄 26166615_895654250595027_6240642146627481739_n.jpg
+├── 🔗📁 Corrosion /  (raccourci)
+│   ├── 📄 rattra. coroo_1.pdf
+│   ├── 📁 exmn + crg/
+│   │   └── 📄 71113580_657195528135034_3178282104051990528_n.jpg
+│   └── 📁 Cours/
+│       └── 📄 Cour corrosion Section E (2018,2019).pdf
+├── 🔗📁 Corrosion/  (raccourci)
+│   ├── 📄 04 cours corrosion séche.pdf
+│   ├── 📄 03 cours partie thermodynamique.pdf
+│   ├── 📄 02 COUR Cinétique de corrosion.pdf
+│   ├── 📄 01 Corrosion CHAP1.pdf
+│   └── 📄 td corrosion.pdf
+└── 🔗📁 corrosion/  (raccourci)
+    ├── 📄 img004-1.jpg
+    ├── 📄 Cours Hakim Bensabra (CPM).pdf
+    ├── 📄 cours.pdf
+    ├── 📄 23722757_10212927299090263_3262062410301490753_n.jpg
+    ├── 📄 23754957_10212927299490273_1995358205993737709_n.jpg
+    ├── 📁 sujets/
+    │   ├── 📄 EMD corrosion Janvier 2011.pdf
+    │   ├── 📄 emd 2015.pdf
+    │   ├── 📄 8.jpg
+    │   ├── 📄 7.jpg
+    │   ├── 📄 6.jpg
+    │   ├── 📄 5.jpg
+    │   ├── 📄 3.jpg
+    │   ├── 📄 4.jpg
+    │   ├── 📄 2.jpg
+    │   ├── 📄 1.jpg
+    │   ├── 📁 question de cours/
+    │   │   ├── 📄 3.jpg
+    │   │   ├── 📄 2.jpg
+    │   │   └── 📄 1.jpg
+    │   ├── 📁 RP 2018/
+    │   │   ├── 📄 7.jpg
+    │   │   ├── 📄 9.jpg
+    │   │   ├── 📄 2.jpg
+    │   │   ├── 📄 5.jpg
+    │   │   ├── 📄 1.jpg
+    │   │   ├── 📄 4.jpg
+    │   │   ├── 📄 8.jpg
+    │   │   ├── 📄 3.jpg
+    │   │   └── 📄 6.jpg
+    │   └── 📁 GE 2017/
+    │       ├── 📄 1.jpg
+    │       ├── 📄 27067764_827105327492885_8362996156448668824_n.jpg
+    │       └── 📄 2.jpg
+    ├── 📁 TD/
+    │   ├── 📄 3.jpg
+    │   ├── 📄 2.jpg
+    │   ├── 📄 4.jpg
+    │   ├── 📄 1.jpg
+    │   ├── 📁 diagramme de pourbaix/
+    │   │   ├── 📄 6.jpg
+    │   │   ├── 📄 9.jpg
+    │   │   ├── 📄 8.jpg
+    │   │   ├── 📄 3.jpg
+    │   │   ├── 📄 4.jpg
+    │   │   ├── 📄 10.jpg
+    │   │   ├── 📄 7.jpg
+    │   │   ├── 📄 2.jpg
+    │   │   ├── 📄 5.jpg
+    │   │   ├── 📄 1.jpg
+    │   │   ├── 📄 12.jpg
+    │   │   └── 📄 11.jpg
+    │   ├── 📁 rappels/
+    │   │   ├── 📄 1.jpg
+    │   │   ├── 📄 23316336_10210766843234871_7770013907112890793_n.jpg
+    │   │   ├── 📄 2.jpg
+    │   │   ├── 📁 chwiya/
+    │   │   │   ├── 📄 3.jpg
+    │   │   │   ├── 📄 2.jpg
+    │   │   │   └── 📄 1.jpg
+    │   │   └── 📁 jouji/
+    │   │       ├── 📄 4.jpg
+    │   │       ├── 📄 2.jpg
+    │   │       ├── 📄 1.jpg
+    │   │       ├── 📄 6.jpg
+    │   │       ├── 📄 7.jpg
+    │   │       ├── 📄 5.jpg
+    │   │       └── 📄 3.jpg
+    │   ├── 📁 zina/
+    │   │   ├── 📄 9.jpg
+    │   │   ├── 📄 8.jpg
+    │   │   ├── 📄 7.jpg
+    │   │   ├── 📄 6.jpg
+    │   │   ├── 📄 5.jpg
+    │   │   ├── 📄 4.jpg
+    │   │   ├── 📄 3.jpg
+    │   │   ├── 📄 24.jpg
+    │   │   ├── 📄 23.jpg
+    │   │   ├── 📄 22.jpg
+    │   │   ├── 📄 21.jpg
+    │   │   ├── 📄 20.jpg
+    │   │   ├── 📄 2.jpg
+    │   │   ├── 📄 19.jpg
+    │   │   ├── 📄 18.jpg
+    │   │   ├── 📄 17.jpg
+    │   │   ├── 📄 16.jpg
+    │   │   ├── 📄 15.jpg
+    │   │   ├── 📄 14.jpg
+    │   │   ├── 📄 13.jpg
+    │   │   ├── 📄 12.jpg
+    │   │   ├── 📄 11.jpg
+    │   │   ├── 📄 10.jpg
+    │   │   ├── 📄 1.jpg
+    │   │   ├── 📄 26.jpg
+    │   │   └── 📄 25.jpg
+    │   ├── 📁 série 02 yasmine/
+    │   │   ├── 📄 9.jpg
+    │   │   ├── 📄 8.jpg
+    │   │   ├── 📄 7.jpg
+    │   │   ├── 📄 6.jpg
+    │   │   ├── 📄 5.jpg
+    │   │   ├── 📄 4.jpg
+    │   │   ├── 📄 3.jpg
+    │   │   ├── 📄 2.jpg
+    │   │   ├── 📄 16.jpg
+    │   │   ├── 📄 15.jpg
+    │   │   ├── 📄 14.jpg
+    │   │   ├── 📄 13.jpg
+    │   │   ├── 📄 12.jpg
+    │   │   ├── 📄 11.jpg
+    │   │   ├── 📄 10.jpg
+    │   │   └── 📄 1.jpg
+    │   ├── 📁 sabah/
+    │   │   ├── 📄 7.jpg
+    │   │   ├── 📄 5.jpg
+    │   │   ├── 📄 9.jpg
+    │   │   ├── 📄 8.jpg
+    │   │   ├── 📄 6.jpg
+    │   │   ├── 📄 2.jpg
+    │   │   ├── 📄 14.jpg
+    │   │   ├── 📄 3.jpg
+    │   │   ├── 📄 4.jpg
+    │   │   ├── 📄 15.jpg
+    │   │   ├── 📄 13.jpg
+    │   │   ├── 📄 10.jpg
+    │   │   ├── 📄 12.jpg
+    │   │   └── 📄 1.jpg
+    │   ├── 📁 série 03/
+    │   │   ├── 📄 1.jpg
+    │   │   ├── 📄 2.jpg
+    │   │   └── 📄 3.jpg
+    │   ├── 📁 exo 2 série 02/
+    │   │   ├── 📄 5.jpg
+    │   │   ├── 📄 1.jpg
+    │   │   ├── 📄 4.jpg
+    │   │   ├── 📄 2.jpg
+    │   │   └── 📄 3.jpg
+    │   └── 📁 série 01/
+    │       ├── 📄 2.jpg
+    │       ├── 📄 1.jpg
+    │       └── 📁 exo 3/
+    │           ├── 📄 7.jpg
+    │           ├── 📄 4.jpg
+    │           ├── 📄 6.jpg
+    │           ├── 📄 3.jpg
+    │           ├── 📄 5.jpg
+    │           ├── 📄 1.jpg
+    │           └── 📄 2.jpg
+    └── 📁 cours/
+        ├── 📄 Séance4corrosion.pptx
+        ├── 📄 cours1.pdf
+        ├── 📄 cours corrosion 222-rotated.pdf
+        ├── 📄 cour2.pdf
+        ├── 📄 exsm14_03.pdf
+        └── 📄 Exposécours3.pptx
+
+═════════════════════════════════════
+  Fin du fichier · Corrosion
+═════════════════════════════════════

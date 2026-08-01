@@ -1,0 +1,29 @@
+📚 MODULE : DSS2                                      
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module DSS2.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 DSS2/
+├── 📄 DDS 2 example.pdf
+├── 📄 DDStructures_1_Chapitre_3_2020-2021.pdf
+├── 📄 DDStructures_2_Chapitre_1_2020-2021.pdf
+├── 📄 examen dds 2 avec solutions.pdf
+├── 📄 exo 4 dds.pdf
+├── 📄 TD DDS 2.pdf
+├── 📄 td dds.pdf
+├── 📄 TDN°1_Chap1_DDStructures_2_2020-2021_imprimer.pdf
+└── 📄 TDN°3_Chapitre_3_DDS_1_2020-2021.pdf
+
+═════════════════════════════════════
+  Fin du fichier · DSS2
+═════════════════════════════════════

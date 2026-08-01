@@ -1,0 +1,359 @@
+📚 MODULE : Compilation                               
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Compilation.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Compilation/
+├── 🔗📁 compil/  (raccourci)
+│   ├── 📁 other/
+│   │   ├── 📄 InterroDeCompil 2023-24.pdf
+│   │   ├── 📄 RatDeCompil_2021-22.pdf
+│   │   ├── 📄 InterroDeCompil_2020-21_corrige.pdf
+│   │   ├── 📄 EmdDeCompil_2020-21_Corrige.pdf
+│   │   ├── 📄 RatDeCompil_2020-21_corrige.pdf
+│   │   ├── 📄 EMD-Compil-2021-2022_Corrige.pdf
+│   │   ├── 📄 InterroDeCompil_2022-23.pdf
+│   │   ├── 📄 RatDeCompil_2022-23_Corrige_1.pdf
+│   │   ├── 📄 InterroDeCompil_2021-22.pdf
+│   │   └── 📄 EmdDeCompil_2022-23_Corrige.pdf
+│   ├── 📁 td/
+│   │   ├── 📄 ED1-corrige_-2.pdf
+│   │   ├── 📄 TD3_Analyse_semantique_Corrige.pdf
+│   │   ├── 📄 TD2-2_Analyse_syntaxique_ascendante_Corrige_22-23.pdf
+│   │   ├── 📄 TD2-1_Analyse_syntaxique_descendante_Corrige.pdf
+│   │   ├── 📄 TD1_Analyse_lexicale_Corrige.pdf
+│   │   ├── 📄 TD3_Analyse_semantique.pdf
+│   │   ├── 📄 TD2-2 Analyse syntaxique ascendante 22-23_24 Corrigé de 5 et 7.pdf
+│   │   ├── 📄 TD2-2_Analyse_syntaxique_ascendante_22-23-24.pdf
+│   │   ├── 📄 TD2-1_Analyse_syntaxique_descendante_22_23_24.pdf
+│   │   └── 📄 TD1-Analyse-lexicale-22-23-24_904ebe79780e7956f3bba76a0330a874.pdf
+│   └── 📁 cour/
+│       ├── 📄 Analyse_semantique_et_generation_du_code_22-23.pdf
+│       ├── 📄 Analyse_Syntaxique_Ascendante.pdf
+│       ├── 📄 Chapitre_2_Partie_1_Analyse_Syntaxique_descendante.pdf
+│       ├── 📄 Analyse_Lexicale.pdf
+│       └── 📄 Compilation_Introduction.pdf
+├── 🔗📁 COMPIL/  (raccourci)
+│   ├── 📁 TP/
+│   │   ├── 📄 Présentation FlexBison.pdf
+│   │   ├── 📄 TP1 Analyse lexicale.pdf
+│   │   ├── 📄 Installation Cygwin.pdf
+│   │   ├── 📄 Fichier flex calc2.l.docx
+│   │   ├── 📄 Fichier Flex calc.l.docx
+│   │   ├── 📄 Fichier bison calc.y.docx
+│   │   └── 📄 Fichier bison calc2.y.docx
+│   ├── 📁 EXAMS/
+│   │   ├── 📄 InterroDeCompil 2022-23.pdf
+│   │   ├── 📄 InterroDeCompil 2022-23 TP.pdf
+│   │   ├── 📄 EmdDeCompil 2022-23 Corrigé.pdf
+│   │   ├── 📄 Test TP compil correction 2016 2017.docx.pdf
+│   │   ├── 📄 received_387564204999958.jpeg
+│   │   ├── 📄 Interro compilation 2016 2017 corrige.pdf
+│   │   ├── 📄 IMG_20180119_195129.jpg
+│   │   ├── 📄 IMG_20221221_074656.jpg
+│   │   ├── 📄 InteroCompile.pdf
+│   │   ├── 📄 Interogation 2 compilation 2017-2018.pdf
+│   │   ├── 📄 Interogation 3 compilation 2017-2018.pdf
+│   │   ├── 📄 IMG_20180119_195104.jpg
+│   │   ├── 📄 IMG_20180108_223707-1.jpg
+│   │   ├── 📄 FB_IMG_1516443279787.jpg
+│   │   ├── 📄 FB_IMG_1516443274360.jpg
+│   │   ├── 📄 FB_IMG_1516443271469.jpg
+│   │   ├── 📄 ExamenSemestriel_2015-2016_Corrig+®.pdf
+│   │   ├── 📄 ExamenSemestriel_2017-2018_Corrig+®.pdf
+│   │   ├── 📄 ExamenSemestriel_2014-2015.pdf
+│   │   ├── 📄 ExamenSemestriel_2014-2015_Corrig+®.pdf
+│   │   ├── 📄 ExamenSemestriel_2013-2014_Corrig+®.pdf
+│   │   ├── 📄 Examen Corriger Compil.pdf
+│   │   ├── 📄 EMD-Compil-2017-2018 - Corrigé.pdf
+│   │   ├── 📄 EMD-Compil-2016-2017 corrigé.pdf
+│   │   ├── 📄 EMD-Compil-2016-2017 corrigé .pdf
+│   │   ├── 📄 EMD Compil 2017-2018 Blida.pdf
+│   │   ├── 📄 corrigé.pdf
+│   │   ├── 📄 Contr+¦leInterm+®diaire_2017-2018_Corrig+®.pdf
+│   │   ├── 📄 Contr+¦leInterm+®diaire_2015-2016_Corrig+®.pdf
+│   │   ├── 📄 Contr+¦leInterm+®diaire_2014-2015_Corrig+®.pdf
+│   │   └── 📄 Contr+¦leInterm+®diaire_2013-2014.jpg
+│   ├── 📁 TD/
+│   │   ├── 📄 TD2-2 Analyse syntaxique ascendante 22-23.pdf
+│   │   ├── 📄 TD2-2 Analyse syntaxique ascendante Corrigé 22-23.pdf
+│   │   ├── 📄 TD3 Analyse sémantique Corrigé.pdf
+│   │   ├── 📄 TD2-1 Analyse syntaxique descendante.pdf
+│   │   ├── 📄 TD2-1 Analyse syntaxique descendante Corrigé.pdf
+│   │   ├── 📄 TD1 Analyse lexicale Corrigé.pdf
+│   │   ├── 📄 TD1 Analyse lexicale 22-23.pdf
+│   │   └── 📄 ED1-corrige_-2.pdf
+│   └── 📁 COURS/
+│       ├── 📄 Chapitre 2 Partie 1 Analyse Syntaxique descendante.pdf
+│       ├── 📄 Analyse Syntaxique Ascendante.pdf
+│       ├── 📄 Analyse sémantique et génération du code.pdf
+│       ├── 📄 CoursCompilation.pdf
+│       ├── 📄 Analyse sémantique et génération du code 22-23.pdf
+│       ├── 📄 Compilation Introduction.pdf
+│       └── 📄 Analyse Lexicale.pdf
+├── 🔗📁 COMPILATION/  (raccourci)
+│   ├── 📁 TP/
+│   │   ├── 📄 CompilTP_maj.pptx
+│   │   ├── 📄 CompilTP_maj.pdf
+│   │   ├── 📁 Programme1_MINI_PROJET/
+│   │   │   ├── 📄 y.tab.c
+│   │   │   ├── 📄 syntaxique.tab.h
+│   │   │   ├── 📄 test.txt
+│   │   │   ├── 📄 syntaxique.y
+│   │   │   ├── 📄 exp1.txt
+│   │   │   ├── 📄 programc.h
+│   │   │   ├── 📄 lexical.l
+│   │   │   ├── 📄 co
+│   │   │   ├── 📄 syntaxique.tab.c
+│   │   │   ├── 📄 lex.yy.c
+│   │   │   ├── 📄 input.txt
+│   │   │   └── 📄 exp.txt
+│   │   ├── 📁 sujet mini_projet/
+│   │   │   ├── 📄 page_2.JPG
+│   │   │   └── 📄 page_1.JPG
+│   │   └── 📁 Programme2_MINI_PROJET/
+│   │       ├── 📄 minialgo.tab.c
+│   │       ├── 📄 minialgo.tab.h
+│   │       ├── 📄 minialgo.y
+│   │       ├── 📄 tablesymboles.h
+│   │       ├── 📄 test
+│   │       ├── 📄 minialgo.l
+│   │       └── 📄 lex.yy.c
+│   ├── 📁 TD/
+│   │   ├── 📄 TD_Univ_BBA.pdf
+│   │   ├── 📄 TD_COMPIL_SOL_Khouloud.pdf
+│   │   ├── 📄 TD1_COMPILATION.pdf
+│   │   ├── 📄 TD2_COMPILATION.pdf
+│   │   ├── 📄 .DS_Store
+│   │   └── 📁 Exercices supplémentaires/
+│   │       ├── 📄 td9.pdf
+│   │       ├── 📄 exosAs.pdf
+│   │       ├── 📄 ED1-corrige_.pdf
+│   │       └── 📄 .DS_Store
+│   └── 📁 COURS/
+│       ├── 📄 Chap3_Analyse_Sémantique_Aiouaz .pdf
+│       ├── 📄 Syntaxique_HORS_FAC.pdf
+│       ├── 📄 Chap2_Analyse_syntaxique-ascendante Aiouaz.pdf
+│       ├── 📄 Analyse Lexicale.pdf
+│       ├── 📄 .DS_Store
+│       ├── 📄 Analyse Syntaxique.pdf
+│       └── 📁 AUTRES SUPPORTS/
+│           ├── 📄 Optimisation de code.pdf
+│           ├── 📄 Chap2_Analyse_syntaxique.pdf
+│           ├── 📄 td_compilation.pdf
+│           ├── 📄 Contrôle de type.pdf
+│           ├── 📄 Chap1_Analyse lexicale.pdf
+│           ├── 📄 Introduction.pdf
+│           ├── 📄 Génération de code.pdf
+│           └── 📄 Traduction dirigée par la syntaxe.pdf
+├── 🔗📁 ++ SMI5 COMPILATION SABORPCMATH.COM/  (raccourci)
+│   ├── 📄 °TD compilation SMI5 FST TETOUAN 2020.pdf
+│   ├── 📄 °TD compilation SMI5 FST TETOUAN 2017.pdf
+│   ├── 📄 °TD compilation SMI5 FSR RABAT 20 21.pdf
+│   ├── 📄 °TD compilation SMI5 FSR RABAT 08 09.pdf
+│   ├── 📄 °TD compilation SMI5 FSR RABAT 07 08 09.pdf
+│   ├── 📄 °TD compilation SMI5 FSBM CASABLANCA 20 21.pdf
+│   ├── 📄 °TD compilation SMI5 FSAC CASABLANCA.pdf
+│   ├── 📄 °TD compilation SMI5 FSA AGADIR 2020-2021.pdf
+│   ├── 📄 °TD compilation SMI5 FPO OUARZAZATE 2019-2020.pdf
+│   ├── 📄 °TD compilation SMI5 FPO OUARZAZATE 2018-2019.pdf
+│   ├── 📄 °TD compilation SMI5 FPO OUARZAZATE 2017-2018.pdf
+│   ├── 📄 °EXAMENS compilation SMI5 FSR RABAT.pdf
+│   ├── 📄 °EXAMENS compilation SMI5 FSAC CASABLANCA.pdf
+│   ├── 📄 °EXAMENS compilation SMI5 FSA AGADIR.pdf
+│   ├── 📄 °EXAMENS compilation SMI5 FPO OUARZAZATE.pdf
+│   ├── 📄 °Cours compilation SMI5 FST TETOUAN 2009.pdf
+│   ├── 📄 °COURS compilation SMI5 FSR RABAT 20 21.pdf
+│   ├── 📄 °Cours compilation SMI5 FSM MEKNES.pdf
+│   ├── 📄 °Cours compilation SMI5 FSBM CASABLANCA.pdf
+│   ├── 📄 °Cours compilation SMI5 FSA AGADIR.pdf
+│   ├── 📄 °Cours compilation SMI5 FPO OUARZAZATE 2021-2022.pdf
+│   ├── 📄 °Cours compilation SMI5 FPO OUARZAZATE 2020-2021.pdf
+│   └── 📄 °Cours compilation SMI5 FPO OUARZAZATE 2019-2020.pdf
+├── 🔗📁 ++ SMI5 COMPILATION SABORPCMATH.COM/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 📄 Examen Ensie Semestre 3 10 janvier 2011
+├── 📄 Examen Compilation Ensie 2011
+├── 📄 Cours Compilation Théorie des Langages
+├── 📄 Cours Compilation  Paulin Mohring Pouzet
+├── 📄 Cours Techniques de Compilation 2011 2012
+├── 📄 Exercices Compilation Master MI 2011 2012
+├── 📄 Exercices Compilation M1 2011 2012 Semaine 8
+├── 📄 Examen Master Informatique M1 Analyse Syntaxique
+├── 📄 Exercices Compilation Code Optimisation
+├── 📄 Exercices Compilation Analyse Syntaxique
+├── 📄 Exercices Compilation Master Informatique M1 2011 2012
+├── 📄 Examen Master Informatique M1 2011 2012
+├── 📄 Exercices Compilation Langages Objets
+├── 📄 TD Langage avec instructions break et continue
+├── 📄 Exercices Cours Compilation Informatique M1 2011 2012
+├── 📄 Exercices Compilation Code Optimisation
+├── 📄 Exercices Compilation Master Informatique M1 2011-2012
+├── 📄 Exercices Cours Compilation Analyse Semantique
+├── 📄 Exercices Cours Compilation Avancée 1 decembre 2010
+├── 📄 Exercices Compilation Cours Master Informatique M1 2011 2012
+├── 📄 TD Langages et Genie Logiciel  Ocaml
+├── 📄 Cours Introduction à la compilation 2011 2012
+├── 📄 TD Compilation Langages Objets Passage Parametres Java
+├── 📄 Exercices Theorie des Langages 2011 2012
+├── 📄 Cours Analyse lexicale en Caml
+├── 📄 Exercices Cours Compilation Avancée
+├── 📄 Cours Analyse Semantique Elementaire 2011
+├── 📄 Exercices Cours de Compilation Master Informatique M1 2011-2012
+├── 📄 Exercices Cours Compilation Analyse Semantique
+├── 📄 Cours Analyse Lexicale 10 Septembre 2010
+├── 📄 Cours Optimisation 1 23 novembre 2011
+├── 📄 Cours Compilation Donnees composees Appels de fonctions
+├── 📄 Cours Compilation Langages Fonctionnels 13 octobre 2011
+├── 📄 Cours Compilation Code I  Constructions Elementaires  2011
+├── 📄 Exercices Compilation Test Connaissances
+├── 📄 TD Langages Reguliers Correction
+├── 📄 TD Expressions régulières
+├── 📄 Exercices Compilation E. Ramat
+├── 📄 TP Compilation Jison analyse lexicale
+├── 📄 TP Compilation Analyse Lexicale JFlex
+├── 📄 TP Compilation Analyse lexicale et syntaxique avec Jison
+├── 📄 TP Compilation Analyse Syntaxique Descente Recursive
+├── 📄 TP Genie et Architecture Logicielle
+├── 📄 TP Genie et Architecture Logicielle Couverture des tests et qualite de code
+├── 📄 TP Apprentissage de JFlex et Cup
+├── 📄 TP Refactoring Java 21 octobre 2018
+├── 📄 TP Refactoring Java 27 aout 2019
+├── 📄 TP Compilation Interpretation
+├── 📄 TP Compilation langage RPN
+├── 📄 Exercices Expressions Regulieres Suite
+├── 📄 TP Théorie des langages et de la compilation Travaux pratiques
+├── 📄 TP Expressions régulières Travaux pratiques
+├── 📄 TP  Automate  implementation  structures  de  donnees
+├── 📄 TP  Automate  Operations Regulieres
+├── 📄 TD Théorème de Kleene
+├── 📄 TD Langages Grammaires
+├── 📄 TP  Automate  Détermination  Ensembles  Entiers  Listes
+├── 📄 TP Automate Minimisation
+├── 📄 Exercices Graphe Orientation Pondéré
+├── 📄 Examen Langages Automate Minimal
+├── 📄 Examen Expressions régulières et automates
+├── 📄 Examen Théorie des Langages Automate
+├── 📄 Examen L2 Informatique Theorie des Langages
+├── 📄 Exercices Automate L2 Informatique 12 Novembre 2012
+├── 📄 Examen Theorie des langages 8 janvier 2013
+├── 📄 TD Grammaires Hors Contexte
+├── 📄 TD Grammaires Attribuées
+├── 📄 TD Quadtrees Compilation
+├── 📄 TD  Code Trois Adresses
+├── 📄 TP  Analyse Lexicale et Syntaxique avec SableCC
+├── 📄 TP Construction d'arbre abstrait
+├── 📄 TP  Table des symboles et analyse sémantique
+├── 📄 TP Generation Code Trois Adresses
+├── 📄 Examen Grammmaire Attribuées 2018 2019
+├── 📄 Examen Controle continu Compilation L3 Info
+├── 📄 Examen Controle Continu Compilation L3 Info
+├── 📄 Exercices  Analyse Syntaxique 2017 2018
+├── 📄 Exercices Compilation L3 Info 19 02 2018
+├── 📄 Exercices  Contrôle  continu  Compilation  L3  Info  20 02 2018
+├── 📄 Exercices Grammaire Ambigue 2016 2017
+├── 📄 Exercices  Automatique  2016 2017
+├── 📄 Exercices Compilation L3 Info
+├── 📄 Exercices Compilation L3 Info 14 02 2017
+├── 📄 Exercices Compression Dictionnaires 2015 2016
+├── 📄 Exercices Compilation L3 Info 2016
+├── 📄 Examen Compilation L3 Info 19 05 2015
+├── 📄 Exercices Compilation L3 Info 16 17 fevrier 2015
+├── 📄 Examen  Grammaires Hors Contexte et Automates a Pile
+├── 📄 Examen Compilation L3 Informatique 17 fevrier 2014
+├── 📄 Examen Expressions Regulieres
+├── 📄 Examen Grammaires LL et tableaux en C
+├── 📄 Exercices Langage des Tableaux LaTeX
+├── 📄 Examen L3 Informatique 6 janvier 2010
+├── 📄 TP Réalisation d'un interprète Mini-Scheme m1 informatique
+├── 📄 TP Apprentissage de Cup
+├── 📄 Cours Les Grammaires Algébriques Hors Contexte
+├── 📄 TP Analyse Lexicale Java
+├── 📄 TP Apprentissage de JFLEX suite
+├── 📄 TD Analyse Lexicale Java Correction
+├── 📄 Cours Introduction a la compilation MASTER M1
+├── 📄 Exercices Langages et Compilation L3 Controlé Ecrit Corrigé
+├── 📄 Exercices Langages et Compilation L3 2010 2011
+├── 📄 Exercices CE L3 Langages Compilation
+├── 📄 TP Langages et Compilation TP N°2
+├── 📄 TD  Analyse  Syntaxique  Grammaires  Algebriques
+├── 📄 TD  Analyse Syntaxique Grammaires Algebriques
+├── 📄 Examen Automate  HTML
+├── 📄 Examen Automate Arithmetique
+├── 📄 TP Apprentissage de Cup
+├── 📄 TD  Analyse  syntaxique  descente  LL
+├── 📄 TP Informatique 3eme annee Compilation Translateurs
+├── 📄 TP Compilation  Methodes descendantes et LL(k)
+├── 📄 TD  Analyseurs Syntaxiques Ascendantes LR
+├── 📄 TD Compilation 3eme année licence informatique
+├── 📄 Examen  Informatique  3eme  Année  Licence  Tiarét  09 02 2020
+├── 📄 TD Automatique 2019 2020 Translateurs
+├── 📄 TD Langages et Automates 2006-07
+├── 📄 TD Langages et Automates 2006 07
+├── 📄 TD  Automate  Finis  Recherche  Motifs  Morris  Pratt
+├── 📄 TD Langages et Automates Reconnnaissance de motifs
+├── 📄 Cours Minimisation d'un AFD
+├── 📄 Cours Analyse Lexicale
+├── 📄 Cours Recherche de motifs dans un texte
+├── 📄 TD Langages et Automates
+├── 📄 Examen Automatique 20 octobre 2009.pdf
+├── 📄 Exercices Licence Informatique S5
+├── 📄 Cours Compilation M1 Informatique 2013 2014
+├── 📄 Examen ENSIIE Compilation Semestre 3
+├── 📄 Examen ENSIE Semestre 3 Compilation
+├── 📄 Examen ENSIIE Compilation Semestre 3 Janvier 2015
+├── 📄 Examen Compilation ENSIIE semestre 3  janvier 2013
+├── 📄 Examen Compilation ENSIIE 2014
+├── 📄 Examen Compilation  Ensie Semestre 3  Janvier 2011
+├── 📄 Cours Compilation Semestre 3 13 decembre 2015
+├── 📄 Examen ENSIIE Compilation 2015
+├── 📄 cours analyse syntaxique ENSAF.pptx
+├── 📄 _cours Compilation ENSAFF.pptx
+└── 📁 corr/
+    ├── 📄 EFREI L3 Langages et Compilation CorrigeControle Ecrit
+    ├── 📄 Exercices sur les expressions régulières
+    ├── 📄 correction énoncé et solutions exercices algo langages formels
+    ├── 📄 Controle L3 Langages et compilation
+    ├── 📄 Controle L3 Ecrit rattrapage.pdf
+    ├── 📄 Controle d'ecrit L3 Langages et compilation
+    ├── 📄 Analyse syntaxique des grammaires algébriques.pdf
+    ├── 📄 Chapitre 1 Expressions Regulieres et Automates
+    ├── 📄 AnalyseChapitre3AutomatesFinisNonDeterministes
+    ├── 📄 AnalyseChapitre2AutomateDeterministesFinis
+    ├── 📄 compilation examen informatique
+    ├── 📄 compilation examen qcm grammaire langages formels
+    ├── 📄 TD Analyse SLR L3 Informatique Aix Marseille
+    ├── 📄 TD2 info L3 informatique
+    ├── 📄 examen theorie des langages L2 informatique
+    ├── 📄 TD1 automates à piles
+    ├── 📄 TP3 Elimination des transitions vides
+    ├── 📄 TD1 automates non déterministes
+    ├── 📄 TD1 Theorie des langages TD1 Automates finis
+    ├── 📄 TD1 Expressions regulieres
+    ├── 📄 TP Compilation Construction de l'AST et contrôle de type
+    ├── 📄 TD1 Expressions régulières
+    ├── 📄 Langages et Automates TD1 2010 2011
+    ├── 📄 TD Theorie des langages et compilation
+    ├── 📄 Cours Compilation TD M1 2011 2012
+    ├── 📄 serie 1 compilation exercices info 2007 2008.pdf
+    ├── 📄 cours optimisation compilation
+    ├── 📄 Cours de Compilation TD M1 2011-2012
+    ├── 📄 Cours Compilation Test connaissances M1 2011-2012.pdf
+    ├── 📄 Cours Compilation Exercices M1 2011 2012.pdf
+    ├── 📄 Cours Theorie des langages et de la compilation
+    ├── 📄 examen final compilation ensiie semestre 3.pdf
+    └── 📄 Compilation Analyse lexicale TD L3
+
+═════════════════════════════════════
+  Fin du fichier · Compilation
+═════════════════════════════════════

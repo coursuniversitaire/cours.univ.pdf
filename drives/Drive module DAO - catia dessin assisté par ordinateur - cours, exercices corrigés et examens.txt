@@ -1,0 +1,314 @@
+📚 MODULE : DAO - catia dessin assisté par ordinateur 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module DAO - catia dessin assisté par ordinateur.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 DAO - catia dessin assisté par ordinateur/
+├── 🔗📁 Conception et Fabrication Assistées par Ordinateur /  (raccourci)
+│   ├── 📁 TPs/
+│   │   ├── 📄 PW 09 -MILLING.pdf
+│   │   ├── 📄 PW 08 -MILLING.pdf
+│   │   ├── 📄 PW 07 -MILLING.pdf
+│   │   ├── 📄 PW 06 -MILLING.pdf
+│   │   ├── 📄 PW 05 -MILLING.pdf
+│   │   ├── 📄 PW 04 -TURNING.pdf
+│   │   ├── 📄 PW 03 -TURNING.pdf
+│   │   ├── 📄 PW 02 -TURNING.pdf
+│   │   └── 📄 PW 01 -TURNING.pdf
+│   └── 📁 COURS /
+│       ├── 📄 CFAO - CH.4 G CODE MILLING PROGRAMMING 2.pdf
+│       ├── 📄 CFAO - CH.4 G CODE MILLING PROGRAMMING.pdf
+│       ├── 📄 CFAO - CH.3 CNC MACHINES.pdf
+│       ├── 📄 CFAO - CH.2 ISOSTATISME.pdf
+│       ├── 📄 CFAO - CH.1 TURNING TOOLS.pdf
+│       └── 📄 CFAO - CH.1 GENERAL INFORMATION ON CNC MACHINES.pdf
+├── 🔗📁 Conception Assistée par Ordinateur /  (raccourci)
+│   ├── 📁 TPs/
+│   │   ├── 📄 PW 07 - CAD 2023.pdf
+│   │   ├── 📄 PW 06 - CAD 2023.pdf
+│   │   ├── 📄 PW 05 - CAD 2023.pdf
+│   │   ├── 📄 PW 04 - CAD 2023.pdf
+│   │   ├── 📄 PW 03 - CAD 2023.pdf
+│   │   ├── 📄 PW 01 - CAD 2023.pdf
+│   │   └── 📄 PW 02 - CAD 2023.pdf
+│   └── 📁 Cours/
+│       ├── 📄 COURS-09-CAD 2023.pdf
+│       ├── 📄 COURS-08-CAD 2023.pdf
+│       ├── 📄 COURS-07-CAD 2023.pdf
+│       ├── 📄 COURS-06-CAD 2023.pdf
+│       ├── 📄 COURS-05-CAD 2023.pdf
+│       ├── 📄 COURS-04-CAD 2023.pdf
+│       ├── 📄 COURS-03-CAD 2023.pdf
+│       ├── 📄 COURS-02-CAD 2023.pdf
+│       └── 📄 COURS-01-CAD 2023.pdf
+├── 🔗📁 CAO/  (raccourci)
+│   ├── 📄 CAO-TD1
+│   ├── 📄 CAO1-Chapitre 3 (Partie 1).pptx
+│   ├── 📄 CAO-TD1.pptx
+│   ├── 📄 3. Chapitre 3 (Surfaces paramétriques).pdf
+│   ├── 📄 4. Chapitre 4 (transformations).pdf
+│   ├── 📄 1. Chapitre 1 (Modeleurs).pdf
+│   ├── 📄 2. Chapitre 2 (Courbes paramétriques).pdf
+│   ├── 📄 CAO1-Chapitre 3 (Partie 2).pptx
+│   ├── 📄 CAO-TD3.pptx
+│   ├── 📄 CAO1-Chapitre 3 TD 2   le 19-5-2020.pptx
+│   ├── 📄 TD CAO.pdf
+│   └── 📄 cour CAO .pdf
+├── 🔗📁 TP-FAO SolidWorks CAM/  (raccourci)
+│   ├── 📄 CAM-01.SLDPRT
+│   ├── 📄 TP-4 Préparation à la certification CAM (CSWP-CAM) .pdf
+│   ├── 📄 Mise en route de SolidWorks CAM.pdf
+│   ├── 📄 TP-3 Solidworks CAM  filetage.mp4
+│   ├── 📄 TP.1 Configuration de fraisage sur SolidWorks CAM.pdf
+│   ├── 📄 TP.2 Configuration de Tournage sur SolidWorks CAM.docx.pdf
+│   └── 📄 TP.3 Configuration de Filetage sur SolidWorks CAM.docx.pdf
+├── 🔗📁 Dessin Technique/  (raccourci)
+│   ├── 📁 Interrogation/
+│   │   ├── 📄 Dessin Technique Controle périodique Sans Solution 2017-2018.pdf
+│   │   ├── 📄 Dessin Technique Interrogation Avec Solution 2019-2020 (4).pdf
+│   │   ├── 📄 Dessin Technique Interrogation Avec Solution 2019-2020 (3).pdf
+│   │   ├── 📄 Dessin Technique Interrogation Avec Solution 2019-2020 (2).pdf
+│   │   ├── 📄 Dessin Technique Interrogation Avec Solution 2019-2020 (1).pdf
+│   │   ├── 📄 Dessin Technique Interrogation Avec Solution 2018-2019 (4).pdf
+│   │   ├── 📄 Dessin Technique Interrogation Avec Solution 2018-2019 (3).pdf
+│   │   ├── 📄 Dessin Technique Interrogation Avec Solution 2018-2019 (2).pdf
+│   │   └── 📄 Dessin Technique Interrogation Avec Solution 2018-2019 (1).pdf
+│   └── 📁 Examen/
+│       ├── 📄 Dessin Technique Examen Sans Solution 2020-2021.pdf
+│       └── 📄 Dessin Technique Examen Avec Solution 2017-2018.pdf
+├── 🔗📁 6# CAO (Solidworks)/  (raccourci)
+│   ├── 📄 3.jpg
+│   ├── 📄 2.jpg
+│   ├── 📄 1.jpg
+│   ├── 📁 tp5/
+│   │   ├── 📄 Pièce8.SLDPRT
+│   │   ├── 📄 Pièce6.SLDPRT
+│   │   ├── 📄 Pièce7.SLDPRT
+│   │   ├── 📄 Pièce9.SLDPRT
+│   │   ├── 📄 Pièce4.SLDPRT
+│   │   ├── 📄 Pièce5.SLDPRT
+│   │   ├── 📄 Pièce3.SLDPRT
+│   │   ├── 📄 Pièce13.SLDPRT
+│   │   ├── 📄 Pièce2.SLDPRT
+│   │   ├── 📄 Pièce10.SLDPRT
+│   │   ├── 📄 Pièce1.SLDPRT
+│   │   ├── 📄 Pièce11.SLDPRT
+│   │   ├── 📄 Pièce12.SLDPRT
+│   │   ├── 📄 OGLdpf.log
+│   │   ├── 📄 Assemblage1.SLDASM
+│   │   └── 📄 model.png
+│   ├── 📁 tp6/
+│   │   ├── 📁 tasse_2_mold/
+│   │   │   ├── 📄 Pièce2.sldprt
+│   │   │   ├── 📄 SymétriePièce2.sldprt
+│   │   │   ├── 📄 Pièce1.SLDPRT
+│   │   │   ├── 📄 Assemblage1.SLDASM
+│   │   │   ├── 📄 OGLdpf.log
+│   │   │   └── 📁 verin HK 100/
+│   │   │       ├── 📄 verin HK 100.JPG
+│   │   │       ├── 📄 corps verin HK 100.SLDPRT
+│   │   │       ├── 📄 verin HK 100.SLDASM
+│   │   │       └── 📄 axe verin HK 100.SLDPRT
+│   │   └── 📁 cup_mold/
+│   │       ├── 📄 Pièce1.SLDPRT
+│   │       ├── 📄 Pièce2.sldprt
+│   │       ├── 📄 SymétriePièce2.sldprt
+│   │       ├── 📄 Assemblage1.SLDASM
+│   │       └── 📄 OGLdpf.log
+│   ├── 📁 tp4/
+│   │   ├── 📄 Pièce1.SLDPRT
+│   │   ├── 📄 blocks.SLDPRT
+│   │   └── 📄 base_grue.SLDBLK
+│   ├── 📁 tp1/
+│   │   ├── 📄 Tutor2.SLDPRT
+│   │   ├── 📄 Tutor1.SLDPRT
+│   │   └── 📄 tuteur.SLDASM
+│   ├── 📁 tp2/
+│   │   ├── 📄 Plateau de pression.SLDPRT
+│   │   └── 📄 Plateau de pression.SLDDRW
+│   └── 📁 tp3/
+│       ├── 📄 Charnière.SLDPRT
+│       ├── 📄 Tourillon.sldprt
+│       ├── 📄 Charnière_1.SLDASM
+│       └── 📄 OGLdpf.log
+├── 🔗📁 CAODAO/  (raccourci)
+│   ├── 📄 cours initiation EHTP Autocad.doc
+│   ├── 📄 AutoCAD_poly.pdf
+│   ├── 📄 AutoCAD2000tutorial.pdf
+│   └── 📁 _1GC3/
+│       ├── 📄 ANIBASalah_3.dwg
+│       ├── 📄 ANIBASalah_3.bak
+│       ├── 📄 ANIBASalah_3 Model (echelle 0.9.pdf
+│       └── 📄 acadstk.dmp
+├── 🔗📁 Dessin/  (raccourci)
+│   └── 📄 cours autocad 2D v01.doc · version 1.docx
+├── 🔗📁 DESSIN+DAO/  (raccourci)
+│   ├── 📁 ex tp/
+│   │   └── 📁 ex tp01/
+│   │       ├── 📄 Doc1LUYG.docx
+│   │       └── 📄 Doc1LUYG(1).docx
+│   └── 📁 DAO/
+│       ├── 📁 TP_04/
+│       │   └── 📁 Supports/
+│       │       ├── 📄 MF 318 corrige.pdf
+│       │       └── 📁 save/
+│       │           └── 📄 MF 318 corrige.pdf
+│       ├── 📁 TP_05/
+│       │   ├── 📁 tournage/
+│       │   │   ├── 📄 tr9.jpg
+│       │   │   └── 📄 tr4.jpg
+│       │   └── 📁 fraisage/
+│       │       ├── 📄 fr4.jpg
+│       │       └── 📄 fr2 m.jpg
+│       └── 📁 TP_01/
+│           └── 📁 Supports/
+│               └── 📄 mf116.jpg
+├── 🔗📁 cao/  (raccourci)
+│   ├── 📄 Examen section C 2024-2025.jpg
+│   ├── 📄 Examen section A vague 2 2024-2025.jpg
+│   ├── 📄 Examen section B vague 1 2024-2025.jpg
+│   ├── 📄 Examen section A vague 1 2024-2025.JPG
+│   ├── 📄 Examen section H 2024-2025.JPG
+│   ├── 📄 Examen section E&F 2024-2025.JPG
+│   ├── 📄 Examen section D 2024-2025.JPG
+│   ├── 📄 Pièce 12.jpg
+│   ├── 📄 Pièce 11.jpg
+│   ├── 📄 Pièce 10.jpg
+│   ├── 📄 Pièce 9.jpg
+│   ├── 📄 Pièce 8.jpg
+│   ├── 📄 Pièce 7.jpg
+│   ├── 📄 Pièce 6.jpg
+│   ├── 📄 Pièce 5.jpg
+│   ├── 📄 CAO_Applications_Avancéees.pdf
+│   ├── 📄 Pièce 4.jpg
+│   ├── 📄 Pièce 3.jpg
+│   ├── 📄 Pièce 2.jpg
+│   ├── 📄 Pièce 1.jpg
+│   ├── 📄 SW TP 05_01.docx
+│   ├── 📄 CAO_Serie d'exercices d'application N.pdf
+│   ├── 📄 SW Donner les étapes de conception.pdf
+│   ├── 📄 Exam_CAO_Model.pdf
+│   ├── 📄 Serie d'exercices d'application n4.pdf
+│   ├── 📄 CAO_Exercices.pdf
+│   ├── 📄 solidworks-Premiere-Annee.pdf
+│   ├── 📄 etapes de conception-clé usb.jpg
+│   ├── 📄 Screenshot_20220422-161940_YouTube.jpg
+│   ├── 📄 CAO-support-SolidWorks Introduction (1).pdf
+│   ├── 📄 Serie d'exercices d'application n3.pdf
+│   ├── 📄 Fiche-Séance_04-Lissé(Loft).pdf
+│   ├── 📄 Outi lissage.pdf
+│   ├── 📄 00 CAO Quoi!! (1).pptx
+│   ├── 📄 CAO_Fiche-Séance_03-Balayage.pdf
+│   ├── 📄 Spring Conception.pdf
+│   ├── 📄 SW Etape de conception.pdf
+│   ├── 📄 Outil Balayage.pdf
+│   ├── 📄 SW TP 05_02.pdf
+│   ├── 📄 SW_Ressort Conception_Fct Balayage.pdf
+│   └── 📄 note.pdf
+├── 🔗📁 CAODAO/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 📄 cours_de_dessin_technique.pdf
+├── 📄 DAO ensembles des exercices dessin industriel corrigés.rar
+├── 📄 CHARGEUR.CATPart
+├── 📄 _cours DAO 3.pdf
+├── 📄 exm DAO E_DESSIN_TECH_10-11.PDF
+├── 📄 exm DAO 3016.pdf
+├── 📁 Catia/
+│   ├── 📄 cours CATIA V5.pdf
+│   ├── 📄 TP_catiaV5_3d.pdf
+│   ├── 📄 TP_catiaV5_as.pdf
+│   └── 📄 TP_mise_en_plan2D.pdf
+├── 📁 catia/
+│   ├── 📄 DRAFT Drawing2.CATDrawing
+│   ├── 📄 DRAFT Drawing1.pdf
+│   ├── 📄 DRAFT Drawing13.CATDrawing
+│   ├── 📄 DRAFT Drawing13.pdf
+│   ├── 📄 DRAFT Drawing14.CATDrawing
+│   ├── 📄 DRAFT Drawing14.pdf
+│   ├── 📄 DRAFT Drawing15.CATDrawing
+│   ├── 📄 DRAFT Drawing15.pdf
+│   ├── 📄 DRAFT Drawing16.CATDrawing
+│   ├── 📄 DRAFT Drawing16.pdf
+│   ├── 📄 DRAFT Drawing17.CATDrawing
+│   ├── 📄 DRAFT Drawing17.pdf
+│   ├── 📄 DRAFT Drawing1.CATDrawing
+│   └── 📄 assemblage.pdf
+└── 📁 DAO/
+    ├── 📄 TPCATIA1.pdf
+    ├── 📄 expl 12-2.CATPart
+    ├── 📄 TP-catia 31.pdf
+    ├── 📄 dessin technique1.docx
+    ├── 📄 introduction.pptx
+    ├── 📄 catia tp.pdf
+    ├── 📄 expl 10-1.CATPart
+    ├── 📄 dao 2.pdf
+    ├── 📄 expl 12.CATPart
+    ├── 📄 DAO Examen 2.pdf
+    ├── 📄 expl 10.CATPart
+    ├── 📄 expl 16.CATPart
+    ├── 📄 TP_catia_2.pdf
+    ├── 📄 TP-catia32.pdf
+    ├── 📄 dao.pdf
+    ├── 📄 projection orthogonale.docx
+    ├── 📄 Drawing1pdf.pdf
+    ├── 📄 résumé DAO.pdf
+    ├── 📄 cours dessin.pdf
+    ├── 📄 expl 7-2.CATPart
+    ├── 📄 TP_catia_1.pdf
+    ├── 📄 expl 12-1.CATPart
+    ├── 📄 expl 7.CATPart
+    ├── 📄 expl 7-1.CATPart
+    ├── 📄 Drawing1pdf-1.pdf
+    ├── 📄 expl 18.CATPart
+    ├── 📁 Exercices/
+    ├── 📁 TP DAO/
+    │   └── 📁 GMPcad/
+    ├── 📁 CATIA TP 2/
+    │   ├── 📄 TP ESSAIE WISS.CATPart
+    │   ├── 📄 QS 15.CATPart
+    │   ├── 📄 QS14.CATPart
+    │   ├── 📄 QS1,1.CATPart
+    │   ├── 📄 QS17.CATPart
+    │   ├── 📄 tp 1 QS 5.CATPart
+    │   ├── 📄 QS 18.CATPart
+    │   ├── 📄 QS 12.CATPart
+    │   ├── 📄 QS13.CATPart
+    │   ├── 📄 tp essaie.CATPart
+    │   ├── 📄 QS 20.CATPart
+    │   ├── 📄 QS19.CATPart
+    │   ├── 📄 QSS19.CATPart
+    │   ├── 📄 QS22.CATPart
+    │   ├── 📄 QS21.CATPart
+    │   ├── 📄 QS1,2.CATPart
+    │   ├── 📄 tp1 QS  4.CATPart
+    │   ├── 📄 TP-catia32.pdf
+    │   ├── 📄 ex 1.CATPart
+    │   ├── 📄 tp 1 QS 8.CATPart
+    │   ├── 📄 tp1qs 9.CATPart
+    │   ├── 📄 TP2 1.CATPart
+    │   ├── 📄 TP 1 QS7.CATPart
+    │   ├── 📄 QS 11.CATPart
+    │   ├── 📄 tp 32.CATPart
+    │   ├── 📄 tp1qs 10.CATPart
+    │   ├── 📄 Tp1 QS 6.CATPart
+    │   ├── 📄 QS 16.CATPart
+    │   ├── 📄 ESSAIE 2.CATPart
+    │   └── 📄 TP-catia 31.pdf
+    └── 📁 CATIA crack Win32 Bit/
+        ├── 📄 Instruction.txt
+        ├── 📄 JS0GROUP.dll
+        └── 📄 Part2.CATPart
+
+═════════════════════════════════════
+  Fin du fichier · DAO - catia dessin assisté par ordinateur
+═════════════════════════════════════

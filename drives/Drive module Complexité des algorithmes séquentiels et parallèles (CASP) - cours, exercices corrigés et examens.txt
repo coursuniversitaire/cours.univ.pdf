@@ -1,0 +1,94 @@
+📚 MODULE : Complexité des algorithmes séquentiels et parallèles (CASP)
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Complexité des algorithmes séquentiels et parallèles (CASP).
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Complexité des algorithmes séquentiels et parallèles (CASP)/
+├── 🔗📁 CASP/  (raccourci)
+│   ├── 📄 Corrigé Type Contrôle CASP M1RSD 2021 2022.pdf
+│   ├── 📄 Solution Exos Supplémentaires TD 1 CASP 2021 2022.pdf
+│   ├── 📄 Solution-TD-2-exo-4_3.pdf
+│   ├── 📄 Solution-TD-3-exo-4_5.pdf
+│   ├── 📄 TD N°3.pdf
+│   ├── 📄 CASP TD mdps = ( VIVE-PROF-DAMI).zip
+│   ├── 📄 TD N°4.pdf
+│   ├── 📄 Chapitre 1 CASP 2021 2022.pdf
+│   ├── 📄 Chapitre 2 CASP 2021 2022 (Partie 1).pdf
+│   ├── 📄 TD N°1 CASP 2021 2022.pdf
+│   ├── 📄 Chapitre 2 CASP 2021 2022 (Partie 2).pdf
+│   ├── 📄 TD N°2.pdf
+│   ├── 📄 Chapitre 4 CASP 2021 2022 M1RSD Partie 1.pdf
+│   ├── 📄 TD 2 Solution exo 5.pdf
+│   ├── 📄 Chapitre 4 CASP 2021 2022 Partie 2.pdf
+│   ├── 📄 TD 3 Solution exo 2.pdf
+│   ├── 📄 Chapitre 5 CASP 2021 2022 M1RSD.pdf
+│   ├── 📄 TD N°5.pdf
+│   ├── 📄 Chapitre 3 CASP 2019 2020 M1RSD partie 1.pdf
+│   ├── 📄 Chapitre 3 CASP 2019 2020 M1RSD partie 2.pdf
+│   ├── 📄 REVISION CASP.mp4
+│   ├── 📄 CASP TD.mp4
+│   ├── 📄 TD CASP.mp4
+│   └── 📁 New folder/
+│       ├── 📄 20220516_153207_015958.jpg
+│       ├── 📄 20220516_153202_015939.jpg
+│       ├── 📄 20220516_153158_015920.jpg
+│       ├── 📄 20220516_153153_015902.jpg
+│       ├── 📄 20220516_153149_015844.jpg
+│       ├── 📄 20220516_153043_015825.jpg
+│       ├── 📄 20220516_153035_015808.jpg
+│       ├── 📄 20220516_153027_015749.jpg
+│       ├── 📄 20220516_153020_015731.jpg
+│       ├── 📄 20220516_153010_015711.jpg
+│       ├── 📄 20220516_153003_015652.jpg
+│       ├── 📄 20220516_152949_015633.jpg
+│       ├── 📄 20220516_152954_015614.jpg
+│       ├── 📄 20220516_152940_015554.jpg
+│       ├── 📄 20220516_152934_015535.jpg
+│       ├── 📄 20220516_152926_015516.jpg
+│       ├── 📄 20220516_152920_015458.jpg
+│       ├── 📄 20220516_152910_015440.jpg
+│       ├── 📄 20220516_152904_015421.jpg
+│       └── 📄 20220516_152758_015359.jpg
+├── 📁 Enregistrements/
+│   ├── 🔗📁 CASP TD.mp4/  (raccourci)
+│   ├── 🔗📁 REVISION CASP.mp4/  (raccourci)
+│   └── 🔗📁 TD CASP.mp4/  (raccourci)
+├── 📁 Cours/
+│   ├── 📄 Chapitre 1 CASP 2021 2022.pdf
+│   ├── 📄 Chapitre 2 CASP 2021 2022 (Partie 1).pdf
+│   ├── 📄 Chapitre 2 CASP 2021 2022 (Partie 2).pdf
+│   ├── 📄 Chapitre 3 CASP 2019 2020 M1RSD partie 1.pdf
+│   ├── 📄 Chapitre 3 CASP 2019 2020 M1RSD partie 2.pdf
+│   ├── 📄 Chapitre 4 CASP 2021 2022 M1RSD Partie 1.pdf
+│   ├── 📄 Chapitre 4 CASP 2021 2022 Partie 2.pdf
+│   └── 📄 Chapitre 5 CASP 2021 2022 M1RSD.pdf
+├── 📁 Examens/
+│   └── 📄 Corrigé Type Contrôle CASP M1RSD 2021 2022.pdf
+└── 📁 Tds corrigés/
+    ├── 🔗📁 New folder/  (raccourci)
+    │   └── ⚠️  [Référence circulaire ignorée]
+    ├── 📄 Solution Exos Supplémentaires TD 1 CASP 2021 2022.pdf
+    ├── 📄 Solution-TD-2-exo-4_3.pdf
+    ├── 📄 Solution-TD-3-exo-4_5.pdf
+    ├── 📄 TD 2 Solution exo 5.pdf
+    ├── 📄 TD 3 Solution exo 2.pdf
+    ├── 📄 TD N°1 CASP 2021 2022.pdf
+    ├── 📄 TD N°2.pdf
+    ├── 📄 TD N°3.pdf
+    ├── 📄 TD N°4.pdf
+    ├── 📄 TD N°5.pdf
+    └── 📁 Correction/
+
+═════════════════════════════════════
+  Fin du fichier · Complexité des algorithmes séquentiels et parallèles (CASP)
+═════════════════════════════════════

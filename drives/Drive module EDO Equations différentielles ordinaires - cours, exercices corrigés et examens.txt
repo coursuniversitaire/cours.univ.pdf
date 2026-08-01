@@ -1,0 +1,61 @@
+📚 MODULE : EDO Equations différentielles ordinaires  
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module EDO Equations différentielles ordinaires.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 EDO Equations différentielles ordinaires/
+├── 🔗📁 MI-S6-EDO/  (raccourci)
+│   ├── 📄 equation differentielle TD3 + examens .pdf
+│   ├── 📄 EDO-chap3.pdf
+│   ├── 📄 chap2.pdf
+│   ├── 📄 ED0-TD2.pdf
+│   ├── 📄 EDO-chap2.pdf
+│   ├── 📄 EDO-TD1.pdf
+│   └── 📄 EDO-chapitre1.pdf
+├── 🔗📁 cours edo/  (raccourci)
+│   ├── 📄 rattrapageedo-2019.pdf
+│   ├── 📄 devoir-equations-diff-2.pdf
+│   ├── 📄 examenedo-2019.pdf
+│   ├── 📄 rattrapage-edo-2020-1.pdf
+│   ├── 📄 cours-edo1.pdf
+│   ├── 📄 cours-edo2-2020.pdf
+│   ├── 📄 Examen_EDO_2017-2018.pdf
+│   ├── 📄 Corrige_Examen_EDO_2016_2017.pdf
+│   ├── 📄 Examen_EDO_2016-2017.pdf
+│   ├── 📄 Correction_Feuille_Revision_2.pdf
+│   ├── 📄 Feuille_Exos_2.pdf
+│   ├── 📄 Correction_Feuille_1.pdf
+│   ├── 📄 Feuille_Exos_1.pdf
+│   ├── 📄 SDL.pdf
+│   ├── 📄 EDO_Ordre_2.pdf
+│   └── 📄 EDO_Ordre_1.pdf
+└── 🔗📁 edo/  (raccourci)
+    ├── 📄 sol_TD4.pdf
+    ├── 📄 coursEDO.pdf
+    ├── 📄 Equations differentielles, SMA5.pdf
+    ├── 📄 Devoir, Eqts diff SMA5.pdf
+    ├── 📄 edo.jpg
+    ├── 📄 Equations_et_Systèmes_Différentiels_PDF.pdf
+    ├── 📄 TD7.pdf
+    ├── 📄 TD5cor.pdf
+    ├── 📄 cours1+2.pdf
+    ├── 📄 Support de cours prb limites, green, sturm-Liouville.pdf
+    ├── 📄 support de cours, prb cauchy -1.pdf
+    ├── 📄 Chapitre-3-EDO-non-linéaire.pdf
+    ├── 📄 Djebali_Cours.pdf
+    └── 📁 cours edo/
+        └── ⚠️  [Référence circulaire ignorée]
+
+═════════════════════════════════════
+  Fin du fichier · EDO Equations différentielles ordinaires
+═════════════════════════════════════

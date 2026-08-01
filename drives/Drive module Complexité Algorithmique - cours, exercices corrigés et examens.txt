@@ -1,0 +1,279 @@
+📚 MODULE : Complexité Algorithmique                  
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Complexité Algorithmique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Complexité Algorithmique/
+├── 🔗📁 complexité-20260513T192059Z-3-001.zip/  (raccourci)
+├── 🔗📁 Algorithmique Avancée et Complexité/  (raccourci)
+│   ├── 📁 Séries du TP (2018-19)/
+│   │   ├── 📄 TP 05 - Algorithmes de Complexité temporelle exponentielle [Suite de Fibonacci] (+ Corr).pdf
+│   │   ├── 📄 TP 02 - Algorithmes de Complexités temporelles linéaire et racine carrée (+ Corr).pdf
+│   │   ├── 📄 TP 04 - Algorithmes de Complexité temporelle exponentielle [Tours de Hanoï] (+ Corr).pdf
+│   │   ├── 📄 TP 03 - Algorithmes de Complexité temporelle quadratique.pdf
+│   │   ├── 📄 TP 01 - Mesure du temps d'exécution d'un programme (+ Corr).pdf
+│   │   └── 📄 TP 06 - Le problème SAT, les classes des problèmes P, NP et NP-Complets.pdf
+│   ├── 📁 Séries du TD/
+│   │   ├── 📄 Série du TD 02 COMPLEX + Corr.pdf
+│   │   └── 📄 Série du TD 01 COMPLEX + Corr.pdf
+│   ├── 📁 Mini-Projets/
+│   │   ├── 📁 Mini-projets COMPLEX (2016-17)/
+│   │   │   ├── 📁 Mini-projet 03 - Tris de tableaux/
+│   │   │   │   ├── 📄 Rapport - Sorting Algorithms.pdf
+│   │   │   │   ├── 📄 Mini-projet 3 - Énoncé.pdf
+│   │   │   │   └── 📁 Code-Source/
+│   │   │   │       ├── 📄 Selection sort.c
+│   │   │   │       ├── 📄 Quick sort.c
+│   │   │   │       ├── 📄 Merge sort.c
+│   │   │   │       ├── 📄 Insertion sort.c
+│   │   │   │       ├── 📄 Heap sort.c
+│   │   │   │       └── 📄 Bubble sort.c
+│   │   │   ├── 📁 Mini-projet 02 - Tours de Hanoi/
+│   │   │   │   ├── 📄 Rapport 02 - Tours de Hanoï.pdf
+│   │   │   │   ├── 📄 Mini-Projet 2 - Énoncé.pdf
+│   │   │   │   └── 📄 Code-Source.txt
+│   │   │   └── 📁 Mini-projet 01 - Les nombres premiers/
+│   │   │       ├── 📄 Rapport 01 - Test de Primalité.pdf
+│   │   │       ├── 📄 Mini-Projet 1 - Énoncé.pdf
+│   │   │       └── 📄 Code-Source.txt
+│   │   └── 📁 Mini-projets COMPLEX (2014-15)/
+│   │       ├── 📄 Mini-projet 3 - Algorithme DPLL.pdf
+│   │       └── 📄 Mini-projet 2 - Les algorithmes de tri.pdf
+│   ├── 📁 Interrogations et examens/
+│   │   ├── 📄 Rattrapage COMPLEX + Corr (SII, Janvier 2013).pdf
+│   │   ├── 📄 Rattrapage COMPLEX (SII, Janvier 2016).pdf
+│   │   ├── 📄 Rattrapage COMPLEX (SII, Février 2015).pdf
+│   │   ├── 📄 Rattrapage COMPLEX (SII, Février 2009).pdf
+│   │   ├── 📄 Interrogation COMPLEX + Corr (SII, Novembre 2016).pdf
+│   │   ├── 📄 Interrogation COMPLEX + Corr (SII, Novembre 2013).pdf
+│   │   ├── 📄 Interrogation COMPLEX (SII, Novembre 2017).pdf
+│   │   ├── 📄 Interrogation COMPLEX (SII, Décembre 2010).pdf
+│   │   ├── 📄 Examen COMPLEX + Corr (SII, Janvier 2018).pdf
+│   │   ├── 📄 Examen COMPLEX + Corr (SII, Janvier 2017).pdf
+│   │   ├── 📄 Examen COMPLEX + Corr (SII, Janvier 2016).pdf
+│   │   ├── 📄 Examen COMPLEX + Corr (SII, Janvier 2015).pdf
+│   │   ├── 📄 Examen COMPLEX + Corr (SII, Janvier 2014).pdf
+│   │   ├── 📄 Examen COMPLEX + Corr (SII, Janvier 2009).pdf
+│   │   ├── 📄 Examen COMPLEX + Corr (Janvier 2009).pdf
+│   │   ├── 📄 Examen COMPLEX + Corr (Janvier 2009) [2].pdf
+│   │   ├── 📄 Examen COMPLEX (SII, Janvier 2011).pdf
+│   │   ├── 📄 Examen COMPLEX + Corr (SII, Janvier 2019).pdf
+│   │   ├── 📄 Interrogation COMPLEX (SII, Décembre 2018).pdf
+│   │   ├── 📁 Sujets SSI/
+│   │   │   ├── 📄 Rattrapage COMPLEX (SSI, Février 2014).pdf
+│   │   │   ├── 📄 Interrogation COMPLEX + Corr (SSI, Novembre 2013).pdf
+│   │   │   ├── 📄 Interrogation COMPLEX + Corr (SSI, Décembre 2014).pdf
+│   │   │   ├── 📄 Interrogation COMPLEX + Corr (SSI, Décembre 2013).pdf
+│   │   │   ├── 📄 Interrogation COMPLEX + Corr (SSI, Décembre 2012).pdf
+│   │   │   ├── 📄 Examen COMPLEX + Corr (SSI, Janvier 2012).pdf
+│   │   │   └── 📄 Examen COMPLEX (SSI, Janvier 2017).pdf
+│   │   ├── 📁 Sujets RSD/
+│   │   │   ├── 📄 Rattrapage COMPLEX + Corr (RSD, Février 2010).pdf
+│   │   │   ├── 📄 Rattrapage COMPLEX (RSD, Janvier 2012).pdf
+│   │   │   ├── 📄 Interrogation [2] COMPLEX + Corr (RSD, Janvier 2011).pdf
+│   │   │   ├── 📄 Interrogation [2] COMPLEX + Corr (RSD, Décembre 2011).pdf
+│   │   │   ├── 📄 Interrogation [1] COMPLEX + Corr (RSD, Janvier 2011).pdf
+│   │   │   ├── 📄 Interrogation [1] COMPLEX (RSD, Décembre 2011).pdf
+│   │   │   ├── 📄 Interrogation COMPLEX + Corr (RSD, 2009).pdf
+│   │   │   ├── 📄 Examen COMPLEX + Corr (RSD, Janvier 2010).pdf
+│   │   │   └── 📄 Examen COMPLEX + Corr (RSD, Février 2012).pdf
+│   │   ├── 📁 Sujets IL/
+│   │   │   ├── 📄 Rattrapage COMPLEX + Corr (IL, Janvier 2013).pdf
+│   │   │   ├── 📄 Rattrapage COMPLEX + Corr (IL, Janvier 2012).pdf
+│   │   │   ├── 📄 Interrogation COMPLEX + Corr (IL, Janvier 2013).pdf
+│   │   │   ├── 📄 Interrogation COMPLEX + Corr (IL, Janvier 2012).pdf
+│   │   │   ├── 📄 Interrogation COMPLEX + Corr (IL, Décembre 2013).pdf
+│   │   │   ├── 📄 Examen COMPLEX + Corr (IL, Janvier 2014).pdf
+│   │   │   ├── 📄 Examen COMPLEX + Corr (IL, Janvier 2013).pdf
+│   │   │   ├── 📄 Examen COMPLEX + Corr (IL, Janvier 2012).pdf
+│   │   │   └── 📄 Examen COMPLEX (IL, Janvier 2011).pdf
+│   │   └── 📁 Corrections sans sujet/
+│   │       └── 📄 Corr Examen COMPLEX (SII, Janvier 2012) [Sans sujet].pdf
+│   └── 📁 Cours/
+│       ├── 📄 Techniques d’écriture d’Algorithmes.pdf
+│       ├── 📄 Introduction to Algorithms (Livre).pdf
+│       ├── 📄 Cours de complexité (H. Mosteghanemi).pdf
+│       ├── 📄 Complexité (C. Ritzenthaler).pdf
+│       ├── 📄 Chap 1 - Les bases de l’analyse d’un algorithme.pdf
+│       ├── 📄 Algorithmique moderne - Analyse et complexité (H. Drias).pdf
+│       └── 📁 Chapitres [Sans Chap 3, 4 et 5]/
+│           ├── 📄 Chap 6 - Les problèmes NP-complets.pdf
+│           ├── 📄 Chap 2 - Structures de Données Élémentaires.pdf
+│           └── 📄 Chap 1 - Introduction à la Complexité de Calcul.pdf
+├── 🔗📁 Algorithmique Avancée et Complexité/  (raccourci)
+│   ├── 📁 Marks/
+│   │   ├── 📄 TP - Complexité - Evaluation SII-M1.pdf
+│   │   ├── 📄 Corrigé-Interro-A1.pdf
+│   │   ├── 📄 Corrigé-Interro-A2.pdf
+│   │   └── 📄 TD - Complexité - Evaluation SII-M1.pdf
+│   ├── 📁 Cours/
+│   │   ├── 📄 Chapitre 6 - Problèmes NP et NP-Complets.pdf
+│   │   ├── 📄 Chapitre 5 - Algorithmes de tri.pdf
+│   │   ├── 📄 Chapitre 4 - Conception des algorithmes.pdf
+│   │   ├── 📄 Chapitre 3 - Structures de données avancées.pdf
+│   │   ├── 📄 Chapitre 2 - Structures de données.pdf
+│   │   └── 📄 Chapitre 1 - Introduction à la Complexité de Calcul.pdf
+│   ├── 📁 TPs/
+│   │   ├── 📄 Prez-TP2.pdf
+│   │   ├── 📄 UsefulCode.pdf
+│   │   ├── 📄 Rappel-Complexité.pdf
+│   │   ├── 📁 Projet Part 2/
+│   │   │   ├── 📄 Partie 2 _ Projet Complexité 2021-2022.pdf
+│   │   │   ├── 📄 Affectation-Projet-Part2-A2.pdf
+│   │   │   └── 📄 Affectation-Projet-Part2-A1.pdf
+│   │   └── 📁 Projet Part 1/
+│   │       ├── 📄 NoteProjet-Complexité-SS1.pdf
+│   │       ├── 📄 Remarques-Rapports.pdf
+│   │       ├── 📄 Sous Section 2 - Quadrinôme - Projet.pdf
+│   │       ├── 📄 ListeQuadrinome-Projet sous-section1.pdf
+│   │       └── 📄 Projet-Compléxité-2021-2022.pdf
+│   └── 📁 TDs (Capsules + PDFs)/
+│       ├── 📄 Corrigé SérieTD-Complexité-5.pdf
+│       ├── 📄 ClassesDeProblèmes.pdf
+│       ├── 📄 Corrigé SérieTD-Complexité-4.pdf
+│       ├── 📄 Corrigé SérieTD-Complexité-3.pdf
+│       ├── 📄 Corrigé SérieTD-Complexité-3-Exo 1+2.pdf
+│       ├── 📄 SérieTD-Complexité-3.pdf
+│       ├── 📄 Corrigé SérieTD-Complexité-2.pdf
+│       ├── 📄 Corrigé SérieTD-Complexité-2 (Exo1+3).pdf
+│       ├── 📄 SérieTD-Complexité-2.pdf
+│       ├── 📄 Corrigé-TD-Complexité-1.pdf
+│       ├── 📄 Complexité - Corrigé TD1 + 2 ( 4 Novembre 2021).pdf
+│       └── 📄 EnoncéTD-Complexité-1.pdf
+├── 🔗📁 ETUC/  (raccourci)
+│   ├── 📁 Emd Romarin/
+│   │   └── 📄 Etuc_Romarin2022.pdf
+│   ├── 📁 ++/
+│   │   └── 📄 Fiche BigDataA.docx
+│   ├── 📁 TD/
+│   │   ├── 📄 Exos avec corriges Complexite.pdf
+│   │   ├── 📄 Devoir Complexite du au 09-04-2022.pdf
+│   │   └── 📄 Serie 1 Complexite.pdf
+│   └── 📁 Cours/
+│       ├── 📄 Partie 2 3 PTAS FPTAS.pdf
+│       ├── 📄 Partie 2 2 APX Log APX.pdf
+│       ├── 📄 Complexite 1-4.pdf
+│       ├── 📄 Complexite 1-3.pdf
+│       ├── 📄 Complexite 1-1.pdf
+│       └── 📄 Compelxite 1-2.pdf
+├── 📄 examen_2016.pdf
+├── 🔗📁 Complexité/  (raccourci)
+│   ├── 📄 Interro 2018 complexité.pdf
+│   ├── 📄 Examen corrigé 2018 complexité.pdf
+│   ├── 📁 Mini-projets + rapports/
+│   │   ├── 📁 Mini-projet2 Tour de Hanoi/
+│   │   │   ├── 📄 BENDJOUDI_ROUGAB_M1SII_G01_Rapport02_ToursHanoi.pdf
+│   │   │   └── 📄 BENDJOUDI_ROUGAB_M1SII_G01_CODE_SOURCE_HANOI.txt
+│   │   ├── 📁 Mini-projet3 Tris de tableaux/
+│   │   │   ├── 📄 BENDJOUDI_ROUGAB_M1SII_PROJECT_3_SORTING_ALGORITHMS.pdf
+│   │   │   └── 📁 Sorting algorithms code/
+│   │   │       ├── 📄 Selection sort.c
+│   │   │       ├── 📄 Quick sort.c
+│   │   │       ├── 📄 Merge sort.c
+│   │   │       ├── 📄 Insertion sort.c
+│   │   │       ├── 📄 Heap sort.c
+│   │   │       └── 📄 Bubble sort.c
+│   │   └── 📁 Mini-projet1 Les nombres premiers/
+│   │       ├── 📄 BENDJOUDI_ROUGAB_M1SII_G01_Rapport01_test_primalité.pdf
+│   │       ├── 📄 BENDJOUDI_ROUGAB_M1SII_G01_CODE_SOURCE_ALGOS_PRIMALITE.txt
+│   │       └── 📄 BENDJOUDI_ROUGAB_M1SII_G01_CODE_SOURCE_ALGOS_PRIMALITE.c
+│   ├── 📁 Examens + interrogations/
+│   │   ├── 📄 Interro complexité 2017.jpg
+│   │   ├── 📄 EMD CC Rattrapages.rar
+│   │   ├── 📄 compléxité 2017.jpg
+│   │   ├── 📄 corrige-test-complex-2016-11-15.pdf
+│   │   ├── 📄 Cours ComplexitÚ Mosteghanemi SSI- NP-ComplÚtude.pdf
+│   │   ├── 📄 Solution de l'exercice 12.pdf
+│   │   └── 📁 Sujets   CorrigÚs/
+│   │       ├── 📄 corrigé__complexité 2011-2012.pdf
+│   │       ├── 📄 Rattrapage Complexité 2012-2013.pdf
+│   │       ├── 📄 Solution_Interro_1 Complexité SSI_2013-2014.pdf
+│   │       ├── 📄 Examen Complexité 2013-2014.pdf
+│   │       ├── 📄 Rattrapage_Epreuve complexité 2014-2015.pdf
+│   │       ├── 📄 Examen Complexité 2012-2013.pdf
+│   │       ├── 📄 Rattrapage complexité 2015-2016.pdf
+│   │       ├── 📄 corrige_emd-complex-2017.pdf
+│   │       ├── 📄 Epreuve complexité 2013-2014.pdf
+│   │       ├── 📄 Rattrapage complexité 2013-2014.pdf
+│   │       ├── 📄 Corrigé_Epreuve complexité 2014-2015.pdf
+│   │       └── 📄 Corrigé complexité 2015-2016.pdf
+│   ├── 📁 cours/
+│   │   ├── 📁 résumés cours Drias/
+│   │   │   ├── 📄 support 1 complexite.pdf
+│   │   │   ├── 📄 support-np-complets-2.pdf
+│   │   │   └── 📄 Support 2 complexité.pdf
+│   │   └── 📁 cours mostghanemi/
+│   │       ├── 📄 Cours-Complexité-Mosteghanemi_SII-2015-2016-2.pdf
+│   │       └── 📄 Cours ComplexitÚ Mosteghanemi SSI- NP-ComplÚtude.pdf
+│   └── 📁 TD+solutions/
+│       ├── 📄 Corrige_du_TD1.pdf
+│       ├── 📄 TD1-2.pdf
+│       ├── 📄 TD2.pdf
+│       └── 📄 Corrigé+TD2.pdf
+└── 📁 Complexité/
+    ├── 📄 Interro 2018 complexité.pdf
+    ├── 📄 Examen corrigé 2018 complexité.pdf
+    ├── 📁 Examens + interrogations/
+    │   ├── 📄 Interro complexité 2017.jpg
+    │   ├── 📄 EMD CC Rattrapages.rar
+    │   ├── 📄 compléxité 2017.jpg
+    │   ├── 📄 corrige-test-complex-2016-11-15.pdf
+    │   ├── 📄 Cours ComplexitÚ Mosteghanemi SSI- NP-ComplÚtude.pdf
+    │   ├── 📄 Solution de l_exercice 12.pdf
+    │   └── 📁 Sujets   CorrigÚs/
+    │       ├── 📄 corrigé__complexité 2011-2012.pdf
+    │       ├── 📄 Rattrapage Complexité 2012-2013.pdf
+    │       ├── 📄 Solution_Interro_1 Complexité SSI_2013-2014.pdf
+    │       ├── 📄 Examen Complexité 2013-2014.pdf
+    │       ├── 📄 Rattrapage_Epreuve complexité 2014-2015.pdf
+    │       ├── 📄 Examen Complexité 2012-2013.pdf
+    │       ├── 📄 Rattrapage complexité 2015-2016.pdf
+    │       ├── 📄 corrige_emd-complex-2017.pdf
+    │       ├── 📄 Epreuve complexité 2013-2014.pdf
+    │       ├── 📄 Rattrapage complexité 2013-2014.pdf
+    │       ├── 📄 Corrigé_Epreuve complexité 2014-2015.pdf
+    │       └── 📄 Corrigé complexité 2015-2016.pdf
+    ├── 📁 Mini-projets + rapports/
+    │   ├── 📁 Mini-projet3 Tris de tableaux/
+    │   │   ├── 📄 BENDJOUDI_ROUGAB_M1SII_PROJECT_3_SORTING_ALGORITHMS.pdf
+    │   │   └── 📁 Sorting algorithms code/
+    │   │       ├── 📄 Selection sort.c
+    │   │       ├── 📄 Quick sort.c
+    │   │       ├── 📄 Merge sort.c
+    │   │       ├── 📄 Insertion sort.c
+    │   │       ├── 📄 Heap sort.c
+    │   │       └── 📄 Bubble sort.c
+    │   ├── 📁 Mini-projet1 Les nombres premiers/
+    │   │   ├── 📄 BENDJOUDI_ROUGAB_M1SII_G01_Rapport01_test_primalité.pdf
+    │   │   ├── 📄 BENDJOUDI_ROUGAB_M1SII_G01_CODE_SOURCE_ALGOS_PRIMALITE.txt
+    │   │   └── 📄 BENDJOUDI_ROUGAB_M1SII_G01_CODE_SOURCE_ALGOS_PRIMALITE.c
+    │   └── 📁 Mini-projet2 Tour de Hanoi/
+    │       ├── 📄 BENDJOUDI_ROUGAB_M1SII_G01_Rapport02_ToursHanoi.pdf
+    │       └── 📄 BENDJOUDI_ROUGAB_M1SII_G01_CODE_SOURCE_HANOI.txt
+    ├── 📁 cours/
+    │   ├── 📁 résumés cours Drias/
+    │   │   ├── 📄 support 1 complexite.pdf
+    │   │   ├── 📄 support-np-complets-2.pdf
+    │   │   └── 📄 Support 2 complexité.pdf
+    │   └── 📁 cours mostghanemi/
+    │       ├── 📄 Cours-Complexité-Mosteghanemi_SII-2015-2016-2.pdf
+    │       └── 📄 Cours ComplexitÚ Mosteghanemi SSI- NP-ComplÚtude.pdf
+    └── 📁 TD+solutions/
+        ├── 📄 Corrige_du_TD1.pdf
+        ├── 📄 TD1-2.pdf
+        ├── 📄 TD2.pdf
+        └── 📄 Corrigé+TD2.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Complexité Algorithmique
+═════════════════════════════════════

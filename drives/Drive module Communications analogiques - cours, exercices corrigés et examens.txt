@@ -1,0 +1,79 @@
+📚 MODULE : Communications analogiques                
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Communications analogiques.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Communications analogiques/
+├── 🔗📁 CA Gadmani/  (raccourci)
+│   ├── 📄 Modèle de l'amplificateur opérationnel pour les nu.pdf
+│   ├── 📄 Modulation d’amplitude.pdf
+│   ├── 📄 Modulation de fréquence.pdf
+│   ├── 📄 Les oscillateurs.pdf
+│   ├── 📄 Les oscillateurs sinusoïdaux 2008.pdf
+│   ├── 📄 La modulation d'amplitude.pdf
+│   ├── 📄 L'amplificateur opérationnel et ses apps 2013.pdf
+│   ├── 📄 Filtrage analogique2.pdf
+│   ├── 📄 Les oscillateurs sinusoïdaux 2014.pdf
+│   ├── 📄 Série des éxo d'amplificateur opérationnel en régi.PDF
+│   ├── 📄 TP2 CA.pdf
+│   ├── 📄 Modulations à porteuse sinusoïdale 2003.pdf
+│   ├── 📄 TP1 CA.pdf
+│   ├── 📄 Les amplificateurs opérationnels.pdf
+│   ├── 📄 Oscillateur à pont Wien.pdf
+│   ├── 📄 L'amplificateur opérationnel2.pdf
+│   ├── 📄 Filtres et analyse fréquentielle.pdf
+│   ├── 📄 Filtrage analogique1.pdf
+│   ├── 📄 L'amplificateur opérationnel1.pdf
+│   ├── 📄 Intro aux télécom analogiques.pdf
+│   ├── 📄 Exo sur les amplificateurs opérationnels+slt 2002.pdf
+│   ├── 📄 Filtrage analogique 2015.pdf
+│   ├── 📄 Intro aux ampli-opérationnels 2015.pdf
+│   ├── 📄 Filtrage et amplificateur opérationnel 2007.pdf
+│   ├── 📄 Filtres éxercices supplémentaires 2009.pdf
+│   ├── 📄 Cours modulation analogique.pdf
+│   ├── 📄 Exo corrigés sur les filtres passifs.pdf
+│   ├── 📄 Exo des filtres.pdf
+│   ├── 📄 Exo sur les montages à amplificateurs opérationnel.pdf
+│   ├── 📄 Exemples de filtres.pdf
+│   └── 📄 Amplificateur opérationnel.pdf
+├── 📄 tupes des oscillateuss.pdf
+├── 📄 cours et exo modulation de fréquence.pdf
+├── 📄 Support de cours et exercices corrigés Communication.pdf
+├── 📄 111686283-8-Oscillateurs.pdf
+├── 📄 210025867-m-oscillateur-pdf.pdf
+├── 📄 cours communication analogique 22-نوفمبر-2017 10-06-11.pdf
+├── 📄 ‫IMG_20180214_105018 - نسخة.jpg
+├── 📄 ‫IMG_20180214_105024 - نسخة.jpg
+├── 📄 ‫IMG_20180214_105032 - نسخة.jpg
+├── 📄 ‫IMG_20180214_105040 - نسخة.jpg
+├── 📄 ‫IMG_20180214_105046 - نسخة.jpg
+├── 📄 ‫IMG_20180214_131426 - نسخة.jpg
+├── 📄 ‫IMG_20180214_131435 - نسخة.jpg
+├── 📄 ‫IMG_20180214_131438 - نسخة.jpg
+├── 📄 n-am.pdf
+├── 📄 résumé ca.docx
+└── 📁 tds corrigés/
+    ├── 📄 td  08--2018 17-06-59.pdf
+    ├── 📄 td1 22-34-52.pdf
+    ├── 📄 corr td 02--2017 14-01-05.pdf
+    ├── 📄 49085380-TD-communication-analogique-3.pdf
+    ├── 📄 79228778-TD-Communication-Analogique-4.pdf
+    ├── 📄 79228784-TD-Communication-Analogique-5.pdf
+    ├── 📄 282830864-TD-Oscillateur-corrige-pdf.pdf
+    ├── 📄 mod_analog_TD2.doc
+    ├── 📄 td communication analogique 12-نوفمبر-2017 21-10-59.pdf
+    └── 📄 TD communication analogique 22-نوفمبر-2017 10-09-20.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Communications analogiques
+═════════════════════════════════════

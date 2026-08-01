@@ -1,0 +1,122 @@
+📚 MODULE : Electronique Electrotechnique Automatique 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Electronique Electrotechnique Automatique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Electronique Electrotechnique Automatique/
+└── 🔗📁 L2 EEA S4/  (raccourci)
+    ├── 📁 SED S4/
+    │   ├── 📄 L2-EEA-SED doc cours Registres.pdf
+    │   ├── 📄 L2-EEA-SED doc cours Logigrammes.pdf
+    │   ├── 📄 L2-EEA-SED doc cours FLS1-2  codage.pdf
+    │   ├── 📄 L2-EEA-SED doc cours Proprietes.pdf
+    │   ├── 📄 L2-EEA-SED-ecrit-210506.pdf
+    │   └── 📄 L2-EEA-SED-ecrit-210506 - qq-reponses.pdf
+    ├── 📁 Traitement ImageSignal/
+    │   ├── 📄 csm_20170815_tour-udem_40cbf42aa5.jpg
+    │   ├── 📄 Logo_UT3.jpg
+    │   ├── 📄 MLI temps et freq.pdf
+    │   ├── 📄 TableauSystemePropriete.pdf
+    │   ├── 📄 Exercices-corrigés.pdf
+    │   ├── 📄 questionnaire_turtlebot.pdf
+    │   ├── 📄 sujet_turtlebot.pdf
+    │   └── 📄 L2EEA-2021-2022 signal.pdf
+    ├── 📁 ISS S4/
+    │   ├── 📄 EEA ISS- Exam Session 2_juin 2021.pdf
+    │   ├── 📄 COURSL2ISS-POLYMERES-1-8-15-22-04-2022.pdf
+    │   ├── 📄 COURSL2ISS-POLYMERES-2021-12-04-2021.pdf
+    │   ├── 📄 COURSL2ISS-POLYMERES-01-04-2022.pdf
+    │   └── 📄 Les Métiers du Dispositif Médical-20220202.zip
+    ├── 📁 Correction TDs/
+    │   ├── 📄 td4 électronique.pdf
+    │   ├── 📄 Correction Elec TD2.pdf
+    │   └── 📄 Electromagnétisme.zip
+    ├── 📁 ANGLAIS S4/
+    │   ├── 📄 ANGQC.docx
+    │   ├── 📄 ANGLAIS 3.docx
+    │   ├── 📄 English 2.docx
+    │   └── 📄 English 1.docx
+    ├── 📁 Techniques scientifiques S4/
+    │   ├── 📄 exo2cdc.c
+    │   ├── 📄 exo2cdc.o
+    │   ├── 📄 exo1cdc.o
+    │   ├── 📄 exo1cdc.c
+    │   ├── 📄 Capture d’écran 2022-05-04 144456.png
+    │   ├── 📄 exo3cdc.c
+    │   ├── 📄 exo3cdc.o
+    │   ├── 📄 Documents divers-20220202.zip
+    │   ├── 📄 bdd 3.odb
+    │   ├── 📄 ex5cdf.c
+    │   ├── 📄 2022_CdF_TP_Datas.zip
+    │   ├── 📄 2022_CdF_TP.pdf
+    │   ├── 📄 2 CdCf_TD (1).pdf
+    │   ├── 📄 Cours_C_r1.3b.pdf
+    │   ├── 📄 LANGAGE C #1.docx
+    │   ├── 📄 cours_c_r13c.pdf
+    │   ├── 📄 TP6.pdf
+    │   ├── 📄 TP5.pdf
+    │   ├── 📄 TP4.pdf
+    │   ├── 📄 TP3.pdf
+    │   ├── 📄 TP2.pdf
+    │   ├── 📄 TP1.pdf
+    │   ├── 📄 Horner_IV.pdf
+    │   ├── 📄 Projet.pdf
+    │   ├── 📄 Complexes_Rappels.pdf
+    │   ├── 📄 Cahier_de_TD.pdf
+    │   └── 📄 Bairstow.pdf
+    ├── 📁 Maths S4/
+    │   ├── 📄 Sépration des variables pour les E.D.P. - cours.pdf
+    │   ├── 📄 CT_2019_cor.pdf
+    │   ├── 📄 CT_2021_corrige.pdf
+    │   ├── 📄 cours_laplace.pdf
+    │   ├── 📄 cours_ondes.pdf
+    │   ├── 📄 cours_edp_equation de la chaleur.pdf
+    │   ├── 📄 Corrigé Partiel 2020.pdf
+    │   ├── 📄 CP_mars_2021_corrige.pdf
+    │   ├── 📄 cours_fonctions2022.pdf
+    │   ├── 📄 feuille 2 corrigé.pdf
+    │   ├── 📄 feuille 1 corrigé.pdf
+    │   ├── 📄 feuilleTD1.pdf
+    │   └── 📄 cours séries numériques.pdf
+    ├── 📁 Electronique S4/
+    │   ├── 📄 Recueil_2020_S4_V2.pdf
+    │   ├── 📄 CS4#03-AOP-Saturation_210326.pdf
+    │   ├── 📄 CS4#02-Simulation impedance-source courant_210203.pdf
+    │   ├── 📄 CS4#01-Notion de filtrage - circuits du 2ème ordre.pdf
+    │   ├── 📄 Draft1.asc
+    │   ├── 📄 Draft1.log
+    │   ├── 📄 Draft1.raw
+    │   ├── 📄 Cahier TP 2020-2021.pdf
+    │   ├── 📄 English Note Book 20-21.pdf
+    │   └── 📄 LTspice XVII.lnk
+    ├── 📁 Electromag S4/
+    │   ├── 📄 Elements-réponse-TD.pdf
+    │   ├── 📄 Cours_2019-2020__Electromag_L2__slides1-127.pdf
+    │   └── 📄 Formulaire.pdf
+    └── 📁 Machines électriques/
+        ├── 📄 CORR_Exam_L2EEA_Machines_Sess1_Jeudi_24_Mai2018.pdf
+        ├── 📄 Exam_L2EEA_Machines_Sess1_Jeudi_24_Mai2018.pdf
+        ├── 📄 Exam_L2EEA_Machines_Sess1_Jeudi_9_Mai2019.pdf
+        ├── 📄 Exam_L2EEA_Machines_Sess1_mARDI_18_Mai2021.pdf
+        ├── 📄 Cours_ME_Chap3_Transfo_22_.pdf
+        ├── 📄 Corr_Partiel_Machines_Merc_17_Mars_2021.pdf
+        ├── 📄 Corr_Etud_Partiel_CMachines_Merc_11_Mars_2020.pdf
+        ├── 📄 Cours_22_MCC_Partie2.pdf
+        ├── 📄 Cours_22_MCC_Partie1.pdf
+        ├── 📄 Cahier_TP_Machines_Electriques_22.pdf
+        ├── 📄 Cahier_TD_Machines_22.pdf
+        └── 📄 Cours_21_MCC_Partie1.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Electronique Electrotechnique Automatique
+═════════════════════════════════════

@@ -1,0 +1,37 @@
+📚 MODULE : Deep learning                             
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Deep learning.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Deep learning/
+├── 📄 Note de cours Deep Learning book_Thavenard .pdf
+├── 📄 Course & exercices 
+├── 📄 Introduction to Deep Learning _ Sebastian Raschka, PhD.PDF
+├── 📄 ressources (cours, videos, exo, projets) - Deep Learning.PDF.pdf
+├── 📁 Examens/
+│   ├── 📄 cs230exam_spr21_soln.pdf
+│   ├── 📄 Controle1_Deep_Learning.pdf
+│   └── 📄 cs230exam_win21_soln.pdf
+├── 📁 TDs corrigés/
+│   ├── 📄 TD1 suite Deep_Learning_Lectures.pdf
+│   ├── 📄 TD1 suite suite Deep_Learning_Lectures.pdf
+│   ├── 📄 TD2 Deep_Learning_Lectures.pdf
+│   ├── 📄 TD3 Deep_Learning_Lectures v2.pdf
+│   ├── 📄 TD4 Deep_Learning_Lectures.pdf
+│   └── 📄 TD5 Deep_Learning_Lectures.pdf
+└── 📁 Tps/
+    └── 📄 Course & exercices .pdf
+
+═════════════════════════════════════
+  Fin du fichier · Deep learning
+═════════════════════════════════════

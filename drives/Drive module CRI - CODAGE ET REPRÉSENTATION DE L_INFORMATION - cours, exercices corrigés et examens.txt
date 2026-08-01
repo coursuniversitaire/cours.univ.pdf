@@ -1,0 +1,85 @@
+📚 MODULE : CRI - CODAGE ET REPRÉSENTATION DE L'INFORMATION
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module CRI - CODAGE ET REPRÉSENTATION DE L'INFORMATION.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 CRI - CODAGE ET REPRÉSENTATION DE L'INFORMATION/
+├── 🔗📁 CRI/  (raccourci)
+│   ├── 📄 Cri 8-1.m4v
+│   ├── 📄 CRI 7.m4v
+│   ├── 📄 Cours CRI 6.m4v
+│   ├── 📄 Desktop CRI 5.m4v
+│   ├── 📄 Cours CRI 4.m4v
+│   ├── 📁 Chapitre(3)_les circuits combinatoires/
+│   │   ├── 📁 TD/
+│   │   │   └── 📄 serie3-final CRI.pdf
+│   │   └── 📁 Cours/
+│   │       └── 📄 Chapitre III systèmes combinatoires.pdf
+│   ├── 📁 Chapitre (1)_systemes _de_numèration/
+│   │   ├── 📁 Td/
+│   │   │   ├── 📁 Corrigè/
+│   │   │   │   ├── 📄 corrigé p7.pdf
+│   │   │   │   ├── 📄 corrigé p2.pdf
+│   │   │   │   └── 📄 corrigé p1.pdf
+│   │   │   └── 📁 Sèrie/
+│   │   │       └── 📄 série 1.pdf
+│   │   └── 📁 Cours/
+│   │       ├── 📄 Systemes_de_numeration_Arithmetique_binaire_(2).pdf
+│   │       └── 📄 Systemes_de_numeration_Arithmetique_binaire (1).pdf
+│   └── 📁 Chapitre(2)_algèbre de Boole/
+│       ├── 📁 Td/
+│       │   ├── 📄 Corrigé Série N°2.pdf
+│       │   └── 📄 serie 2.pdf
+│       └── 📁 Cours/
+│           └── 📄 Chapitre II Algèbre de Boole.pdf
+├── 📄 CRI-20260508T203336Z-3-001.zip
+├── 🔗📁 CRI/  (raccourci)
+├── 🔗📁 CRI  (raccourci)
+└── 🔗📁 CRI/  (raccourci)
+    ├── 📁 tds/
+    │   ├── 📁 TD2/
+    │   │   ├── 📄 imagejpg092.jpg
+    │   │   ├── 📄 imagejpg093.jpg
+    │   │   ├── 📄 imagejpg094.jpg
+    │   │   └── 📄 imagejpg095.jpg
+    │   └── 📁 TD1/
+    │       ├── 📄 imagejpg090.jpg
+    │       ├── 📄 imagejpg091.jpg
+    │       ├── 📄 imagejpg018.jpg
+    │       ├── 📄 imagejpg017.jpg
+    │       ├── 📄 imagejpg016.jpg
+    │       ├── 📄 belkhirselma068.jpg
+    │       └── 📄 belkhirselma067.jpg
+    └── 📁 cours/
+        ├── 📁 cour 3/
+        │   ├── 📄 imagejpg085.jpg
+        │   ├── 📄 imagejpg086.jpg
+        │   ├── 📄 imagejpg087.jpg
+        │   ├── 📄 imagejpg088.jpg
+        │   └── 📄 imagejpg089.jpg
+        ├── 📁 cour 2/
+        │   ├── 📄 imagejpg085.jpg
+        │   └── 📄 imagejpg084.jpg
+        └── 📁 cour 1/
+            ├── 📄 imagejpg015.jpg
+            ├── 📄 imagejpg014.jpg
+            ├── 📄 belkhirselma069.jpg
+            ├── 📄 belkhirselma070.jpg
+            ├── 📄 72989435_2616312395129694_1477619348557266944_n.jpg
+            ├── 📄 72554131_2616312338463033_3594378273695465472_n.jpg
+            ├── 📄 72416858_2616312711796329_8664555555664166912_n.jpg
+            └── 📄 71761863_2616312455129688_7768114783416483840_n.jpg
+
+═════════════════════════════════════
+  Fin du fichier · CRI - CODAGE ET REPRÉSENTATION DE L'INFORMATION
+═════════════════════════════════════

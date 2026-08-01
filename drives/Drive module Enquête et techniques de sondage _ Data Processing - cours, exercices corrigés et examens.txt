@@ -1,0 +1,67 @@
+📚 MODULE : Enquête et techniques de sondage / Data Processing
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Enquête et techniques de sondage / Data Processing.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Enquête et techniques de sondage / Data Processing/
+├── 🔗📁 DATA PROCESSING Pr. EL AKRAOUI/  (raccourci)
+│   ├── 📁 TPS/
+│   ├── 📁 TDS/
+│   │   ├── 📄 flashcards.csv
+│   │   ├── 📄 MyCorrection_TD2_sondage_2025_2026_final.pdf
+│   │   ├── 📄 correction_TD1_Sondage.pdf
+│   │   ├── 📄 Résumé relationChapitre2-SAS.pdf
+│   │   ├── 📄 Résumé relation.Chapitre2-SAS.pdf
+│   │   ├── 📄 correction_EX2_TD1_Sondage_.pdf
+│   │   ├── 📄 TD1_sondage correction.pdf
+│   │   ├── 📄 td2.pdf
+│   │   ├── 📄 TD enquête.pdf
+│   │   └── 📄 td1+Rappel (enquête).pdf
+│   └── 📁 COURS/
+│       ├── 📄 mySlides-Chapitre2-SAS.pdf
+│       ├── 📄 mySlides-Chapitre1-Introduction aux méthodes de sondages.pdf
+│       ├── 📄 Déchiffrer_les_Données_avec_SPSS.mp4
+│       ├── 📄 mycours-Traitement_des_données_SPSS.pdf
+│       ├── 📄 Chapitre3-Sondage Stratifié_2025_2026.pdf
+│       ├── 📄 Chapitre 1-technique de sondage_2025_2026.pdf
+│       ├── 📄 support du Chapitre 1-technique de sondage_2025_2026.pdf
+│       ├── 📄 support du Chapitre 2-technique de sondage_2025_2026.pdf
+│       ├── 📄 Chapitre 2-technique de sondage_2025_2026.pdf
+│       ├── 📄 Support du chap3 questionnaire cours technique-enquete_2025_2026.pdf
+│       └── 📄 Cours_2021.pdf
+├── 📁 cours/
+│   ├── 📄 Chapitre 1-technique de sondage_2025_2026.pdf
+│   ├── 📄 Chapitre 2-technique de sondage_2025_2026.pdf
+│   ├── 📄 Chapitre3-Sondage Stratifié_2025_2026.pdf
+│   ├── 📄 Cours_2021.pdf
+│   ├── 📄 mycours-Traitement_des_données_SPSS.pdf
+│   ├── 📄 mySlides-Chapitre1-Introduction aux méthodes de sondages.pdf
+│   ├── 📄 mySlides-Chapitre2-SAS.pdf
+│   ├── 📄 Support du chap3 questionnaire cours technique-enquete_2025_2026.pdf
+│   ├── 📄 support du Chapitre 1-technique de sondage_2025_2026.pdf
+│   └── 📄 support du Chapitre 2-technique de sondage_2025_2026.pdf
+└── 📁 tds/
+    ├── 📄 correction_EX2_TD1_Sondage_.pdf
+    ├── 📄 correction_TD1_Sondage.pdf
+    ├── 📄 flashcards.csv
+    ├── 📄 MyCorrection_TD2_sondage_2025_2026_final.pdf
+    ├── 📄 Résumé relation.Chapitre2-SAS.pdf
+    ├── 📄 Résumé relationChapitre2-SAS.pdf
+    ├── 📄 TD enquête.pdf
+    ├── 📄 TD1_sondage correction.pdf
+    ├── 📄 td1+Rappel (enquête).pdf
+    └── 📄 td2.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Enquête et techniques de sondage / Data Processing
+═════════════════════════════════════
