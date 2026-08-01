@@ -1,0 +1,87 @@
+📚 MODULE : Atomistique                               
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Atomistique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Atomistique/
+├── 🔗📁 ++AUTOMATISMES Pneumatiques et Hydrauliques en PDF by bst4u.Com_ (1).pdf/  (raccourci)
+├── 🔗📁 Atomistique/  (raccourci)
+│   ├── 📁 Td/
+│   │   ├── 📄 TD Série 3 et 4 CORRRECTION SUITE.docx
+│   │   ├── 📄 TD Série 5.pdf
+│   │   ├── 📄 TD 1 ATOMISTIQUE CORRECTION.pdf
+│   │   ├── 📄 TD Série 3 et 4.docx
+│   │   ├── 📄 TD Serie 1 et  serie 2.pdf
+│   │   ├── 📄 CamScanner 04-22-2021 22.55.pdf
+│   │   ├── 📄 TD Série 3 et 4.pdf
+│   │   ├── 📄 TD 1 ATOMISTIQUE CORRECTION.pdf
+│   │   └── 📄 TD Serie 1 et  serie 2.pdf
+│   └── 📁 Cours/
+│       ├── 📄 Cours BCG 24
+│       └── 📄 Cours BCG 24.pdf
+├── 🔗📁 Atomistique - Chimie Organique/  (raccourci)
+│   ├── 📁 Anciennes Épreuves /
+│   │   ├── 📄 CC1 2013 2014.jpg
+│   │   ├── 📄 CC1 2011 2012.jpg
+│   │   ├── 📄 CC1 2010 2011.jpg
+│   │   ├── 📄 CC 1 2008 2009.pdf
+│   │   └── 📄 CC1 2015 2016.pdf
+│   ├── 📁 TDs/
+│   │   ├── 📁 Corrigés /
+│   │   │   ├── 📄 TD 2.pdf
+│   │   │   ├── 📄 TD 4.pdf
+│   │   │   ├── 📄 TD 3.pdf
+│   │   │   └── 📄 TD 1.pdf
+│   │   └── 📁 Énoncés /
+│   │       ├── 📄 TD 4.pdf
+│   │       ├── 📄 TD 2.pdf
+│   │       ├── 📄 TD 1.pdf
+│   │       └── 📄 TD 3.pdf
+│   └── 📁 Cours /
+│       └── 📄 Atomistique cours complet.ppt
+└── 🔗📁 Atomistique/  (raccourci)
+    ├── 📄 Cours d'atomistique S1 2012 2013
+    ├── 📄 Chapitre 4 Modele quantique de l'atome-Atomistique
+    ├── 📄 Chapitre 5 La classification périodique des éléments-Atomistique
+    ├── 📄 Correction examen thermochimie-Atomistique
+    ├── 📄 examen mecanique du point materiel-Atomistique
+    ├── 📄 Controle de session de rattrapage Atomistique
+    ├── 📄 examen chimie atomistique S1
+    ├── 📄 Controle Chimie Generale S1 Semestre 1 2012 2013-Atomistique
+    ├── 📄 Filiere SMPC Module de Chimie Generale Examen 2012 2013 Semestre 1.pdf-Atomistique
+    ├── 📄 Controle de rattrapage chimie generale S1 08 02 2013-Atomistique
+    ├── 📄 Filière SMPC Contrôle S1 2011 2012-Atomistique
+    ├── 📄 examen chimie semestriel S1 2012-Atomistique
+    ├── 📄 Controle de chimie generale S1 2011 2012-Atomistique
+    ├── 📄 Fichier S1 Exercices corrigés Atomistique 2012-2013.pdf
+    ├── 📄 Controle Chimie Generale S1 Feuille reponse-Atomistique
+    ├── 📄 Filiere SMPC Module de Chimie Generale S1 Corrige du 1er controle 2012 2013.pdf-Atomistique
+    ├── 📄 Controle de rattrapage chimie generale S1 Semlalia 2011-2012.pdf-Atomistique
+    ├── 📄 Controle de chimie generale S1 2012 2013-Atomistique
+    ├── 📄 Controle Chimie Generale S1 Semestre 1 2011 2012.pdf-Atomistique
+    ├── 📄 Controle de mecanique des fluides semestre 1-Atomistique
+    ├── 📄 Spectro氢原子模型玻尔.pdf-Atomistique
+    ├── 📄 TD Chimie Generale S1 2014-2015-Atomistique
+    ├── 📄 Exercices sur la structure de l'atome-Atomistique
+    ├── 📄 Exercices de TD de physique quantique sur l'atome d'hydrogène-Atomistique
+    ├── 📄 TD Atomes et molecules 08 09-Atomistique
+    ├── 📄 TD Atomes et Molecules n 1 Corrige-Atomistique
+    ├── 📄 TD Atomes et molecules 2 corrige-Atomistique
+    ├── 📄 SEANCE TD N3 Exercices sur la classification périodique-Atomistique
+    ├── 📄 TD Atomes et moleculesChapitre 1 Exercices corrigés-Atomistique
+    ├── 📄 Seance TD n5 Structures de Lewis-Atomistique
+    └── 📄 L1S1 CHIM 110 - Atomes et molecules - Seance de TD N 6 - Corrige-Atomistique
+
+═════════════════════════════════════
+  Fin du fichier · Atomistique
+═════════════════════════════════════

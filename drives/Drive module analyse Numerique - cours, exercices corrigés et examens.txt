@@ -1,0 +1,568 @@
+📚 MODULE : analyse Numerique                         
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module analyse Numerique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 analyse Numerique/
+├── 🔗📁 Analyse  numérique matricielle/  (raccourci)
+│   ├── 📄 WhatsApp Image 2022-02-02 at 10.24.10.jpeg
+│   ├── 📁 Autres/
+│   │   ├── 📄 L3ANM-TD3.pdf
+│   │   └── 📄 anal numérique.pdf
+│   ├── 📁 Tps/
+│   │   ├── 📄 drive-download-20231017T202459Z-001.zip
+│   │   └── 📄 exam TP.pdf
+│   ├── 📁 Tds/
+│   │   ├── 📄 LST-S5-corrigé-F02.pdf
+│   │   ├── 📄 LST-S5-corrigé-F02 (1).pdf
+│   │   ├── 📄 TD 3 analyse matrice.pdf
+│   │   ├── 📄 TD 2 matricielle.pdf
+│   │   └── 📄 analyse matricielle examens m514.pdf
+│   └── 📁 Cours/
+│       ├── 📄 Chap4 anal num matr.pdf
+│       ├── 📄 Chap3 anal num matr.pdf
+│       ├── 📄 Chap2 anal num matricielle.pdf
+│       └── 📄 Chap1 analyse matr M514.pdf
+├── 🔗📁 Analyse numérique des EDP/  (raccourci)
+│   ├── 📄 Examen libre analyse numérique des edp 23-24.pdf
+│   ├── 📄 EDP EDO YASSINE.pdf
+│   ├── 📁 Examens/
+│   │   ├── 📄 Exam-MACS1-0906.pdf
+│   │   ├── 📄 Exam-MACS1-0903.pdf
+│   │   ├── 📄 Exam-MACS1-1004.pdf
+│   │   ├── 📄 Exam-MACS1-1006.pdf
+│   │   ├── 📄 Exam-MACS1-1305.pdf
+│   │   ├── 📄 Exam-MACS1-1209.pdf
+│   │   ├── 📄 Exam-MACS1-1309.pdf
+│   │   └── 📄 exam_janv10.pdf
+│   ├── 📁 Livres/
+│   │   ├── 📄 Alfio Quarteroni, Paola Gervasio, Fausto Saleri (auth.) - Calcul Scientifique_ Cours, exercices corrigés et illustrations en MATLAB et Octave-Springer Milan (2010).pdf
+│   │   ├── 📄 Analyse_numérique_des_edps_Résumé.pdf
+│   │   ├── 📄 EDP 1.pdf
+│   │   ├── 📄 Harmo.pdf
+│   │   ├── 📄 ana num s6.pdf
+│   │   ├── 📄 mt71.pdf
+│   │   └── 📄 ANALYSE NUMERIQUE ET EQUATIONS DIFFERENTILLES.pdf
+│   └── 📁 Cours/
+│       ├── 📄 anal numérique.pdf
+│       ├── 📄 Travaux pratiques_M617 (1).pdf
+│       ├── 📄 Chap5beam.pdf
+│       ├── 📄 Chap1 edp.pdf
+│       ├── 📄 Chap6beam.pdf
+│       ├── 📄 0ana num.pdf
+│       ├── 📄 cours6_imprimable.pdf
+│       ├── 📄 Numi2.pdf
+│       └── 📄 equa-diff-x4.pdf
+├── 🔗📁 [M148] Analyse numérique/  (raccourci)
+│   ├── 📁 [M148] Bonus/
+│   │   ├── 📄 résumé maple
+│   │   ├── 📄 Dérivées 2.jpg
+│   │   ├── 📄 Dérivées 1.png
+│   │   ├── 📄 M148-cours-tanger.pdf
+│   │   ├── 📄 02_derivation.pdf
+│   │   ├── 📄 interpolation.pdf
+│   │   ├── 📄 eq-non-lineaire.pdf
+│   │   ├── 📄 integration-num1.pdf
+│   │   ├── 📄 Resume.pdf
+│   │   ├── 📄 Equations Non-Lineaires.pdf
+│   │   ├── 📄 Primitives.png
+│   │   ├── 📁 Examens/
+│   │   │   └── 📄 analyse_numerique.pdf
+│   │   ├── 📁 TD/
+│   │   │   ├── 📄 36.jpg
+│   │   │   ├── 📄 35.jpg
+│   │   │   ├── 📄 34.jpg
+│   │   │   ├── 📄 33.jpg
+│   │   │   ├── 📄 32.jpg
+│   │   │   ├── 📄 31.jpg
+│   │   │   ├── 📄 30.jpg
+│   │   │   ├── 📄 29.jpg
+│   │   │   ├── 📄 28.jpg
+│   │   │   ├── 📄 27.jpg
+│   │   │   ├── 📄 26.jpg
+│   │   │   ├── 📄 25.jpg
+│   │   │   ├── 📄 24.jpg
+│   │   │   ├── 📄 23.jpg
+│   │   │   ├── 📄 22.jpg
+│   │   │   ├── 📄 21.jpg
+│   │   │   ├── 📄 20.jpg
+│   │   │   ├── 📄 19.jpg
+│   │   │   ├── 📄 18.jpg
+│   │   │   ├── 📄 17.jpg
+│   │   │   ├── 📄 16.jpg
+│   │   │   ├── 📄 15.jpg
+│   │   │   ├── 📄 14.jpg
+│   │   │   ├── 📄 13.jpg
+│   │   │   ├── 📄 12.jpg
+│   │   │   ├── 📄 11.jpg
+│   │   │   ├── 📄 10.jpg
+│   │   │   ├── 📄 09.jpg
+│   │   │   ├── 📄 08.jpg
+│   │   │   ├── 📄 07.jpg
+│   │   │   ├── 📄 05.jpg
+│   │   │   ├── 📄 04.jpg
+│   │   │   ├── 📄 03.jpg
+│   │   │   ├── 📄 02.jpg
+│   │   │   ├── 📄 01.jpg
+│   │   │   ├── 📄 TD Analyse numérique ( MIP ).pdf
+│   │   │   └── 📁 Series/
+│   │   │       ├── 📄 02 - 02.jpeg
+│   │   │       ├── 📄 04 - 02.jpeg
+│   │   │       ├── 📄 04 - 01.jpeg
+│   │   │       ├── 📄 02 - 01.jpg
+│   │   │       ├── 📄 01 - 02.jpg
+│   │   │       ├── 📄 01 - 01.jpg
+│   │   │       ├── 📄 03 - 02.jpg
+│   │   │       ├── 📄 03 - 01.jpg
+│   │   │       ├── 📁 TD3+4/
+│   │   │       │   ├── 📄 09.jpeg
+│   │   │       │   ├── 📄 10.jpeg
+│   │   │       │   ├── 📄 Serie 04 - 02.jpeg
+│   │   │       │   ├── 📄 Serie 04 - 01.jpeg
+│   │   │       │   ├── 📄 08.jpg
+│   │   │       │   ├── 📄 07.jpg
+│   │   │       │   ├── 📄 06.jpg
+│   │   │       │   ├── 📄 05.jpg
+│   │   │       │   ├── 📄 04.jpg
+│   │   │       │   ├── 📄 03.jpg
+│   │   │       │   ├── 📄 02.jpg
+│   │   │       │   ├── 📄 01.jpg
+│   │   │       │   ├── 📄 Serie 03 - 02.jpg
+│   │   │       │   └── 📄 Serie 03 - 01.jpg
+│   │   │       ├── 📁 TD2/
+│   │   │       │   ├── 📄 Serie 02 - 02.jpeg
+│   │   │       │   ├── 📄 Serie 02 - 01.jpg
+│   │   │       │   ├── 📄 08.jpg
+│   │   │       │   ├── 📄 07.jpg
+│   │   │       │   ├── 📄 05.jpg
+│   │   │       │   ├── 📄 06.jpg
+│   │   │       │   ├── 📄 04.jpg
+│   │   │       │   ├── 📄 03.jpg
+│   │   │       │   ├── 📄 02.jpg
+│   │   │       │   └── 📄 01.jpg
+│   │   │       ├── 📁 TD1/
+│   │   │       │   ├── 📄 Serie 01 - 02.jpg
+│   │   │       │   ├── 📄 Serie 01 - 01.jpg
+│   │   │       │   ├── 📄 08.jpeg
+│   │   │       │   ├── 📄 07.jpeg
+│   │   │       │   ├── 📄 06.jpeg
+│   │   │       │   ├── 📄 05.jpeg
+│   │   │       │   ├── 📄 04.jpeg
+│   │   │       │   ├── 📄 03.jpeg
+│   │   │       │   ├── 📄 02.jpeg
+│   │   │       │   └── 📄 01.jpeg
+│   │   │       └── 📁 FS/
+│   │   │           ├── 📄 Ex5.1.jpeg
+│   │   │           ├── 📄 Ex3.3.jpeg
+│   │   │           ├── 📄 Ex2.2.jpeg
+│   │   │           ├── 📄 Ex2.1.jpeg
+│   │   │           ├── 📄 Ex3.2.jpeg
+│   │   │           ├── 📄 Ex3.1.jpeg
+│   │   │           ├── 📄 Ex1 + Ex4.jpeg
+│   │   │           ├── 📄 FS 01 - 02.jpeg
+│   │   │           ├── 📄 FS 01 - 01.jpeg
+│   │   │           └── 📄 Ex5.2.jpeg
+│   │   └── 📁 TP/
+│   │       ├── 📄 Photo de ضحى ♡
+│   │       ├── 📄 corr colle 
+│   │       ├── 📄 Photo de ضحى ♡
+│   │       ├── 📄 TP-test
+│   │       ├── 📄 La colle M148
+│   │       ├── 📄 M148 - TP (Test).pdf
+│   │       ├── 📄 TP 4 - Part 2.jpg
+│   │       ├── 📄 TP3_Interpolation2019.pdf
+│   │       ├── 📄 TP2_MAPLE_Printemps2019.pdf
+│   │       ├── 📄 TP1_MAPLE_Printemps2019.pdf
+│   │       ├── 📄 TPtest Session Automne 2021.pdf
+│   │       ├── 📄 TP - Part 2.jpg
+│   │       ├── 📄 TP - Part 4.jpg
+│   │       ├── 📄 TP - Part 7.jpg
+│   │       ├── 📄 TP - Part 5.jpg
+│   │       ├── 📄 TP - Part 6.jpg
+│   │       ├── 📄 TP - Part 3.jpg
+│   │       ├── 📄 TP - Part 1.jpg
+│   │       ├── 📄 TP 4 - Part 1.jpg
+│   │       ├── 📄 TP 3.jpg
+│   │       ├── 📄 TP 2 - Part 2.jpg
+│   │       ├── 📄 TP 2 - Part 1.jpg
+│   │       ├── 📄 TP 1 - Part 2.jpg
+│   │       ├── 📄 TP 1 - Part 1.jpg
+│   │       ├── 📄 compte rendu (2).mw
+│   │       ├── 📄 compte rendu (2).pdf
+│   │       ├── 📄 COLLE TP.mw
+│   │       ├── 📄 TP1.mw
+│   │       ├── 📄 TP1_AN_Automne2020.pdf
+│   │       ├── 📄 Initiation langage Maple Groupe 2A.mw
+│   │       └── 📄 Initiation Maple.pdf
+│   ├── 📁 [M148] TP/
+│   │   ├── 📄 série Mappel.pdf
+│   │   ├── 📄 Corr TP3
+│   │   ├── 📄 Corr tp2 
+│   │   ├── 📄 Corr tp 1
+│   │   └── 📄 Polycope-TP
+│   ├── 📁 [M148] TD/
+│   │   ├── 📄 td-2022
+│   │   ├── 📄 TD-2023
+│   │   └── 📄 corr td 2023
+│   ├── 📁 [M148] Archive/
+│   │   ├── 📄 M148 - Archive.pdf
+│   │   ├── 📄 M148-ratt-juin-2023.pdf
+│   │   ├── 📄 M148-exam-juin-2023.
+│   │   ├── 📄 Fiche révision Pr-abouir
+│   │   ├── 📄 partiel 2021 Pr-abouir
+│   │   ├── 📄 Partiel 2023 Pr-abouir
+│   │   ├── 📄 exercice revision M148 + correction.pdf
+│   │   ├── 📄 M148 jan_2022
+│   │   ├── 📄 ratt 2022 M148
+│   │   └── 📄 M148 - Archive.pdf
+│   └── 📁 [M148] Cours/
+│       ├── 📄 M148 - Cours (Chapitre 4) (Alternatif).pdf
+│       ├── 📄 M148 - Cours (Chapitre 3) (Alternatif).pdf
+│       ├── 📄 M148 - Cours (Chapitre 2) (Alternatif).pdf
+│       ├── 📄 M148 - Cours (Chapitre 1).pdf
+│       ├── 📄 M148 - Cours (Chapitre 4).pdf
+│       ├── 📄 M148 - Cours (Chapitre 6).pdf
+│       ├── 📄 M148 - Cours (Chapitre 5).pdf
+│       ├── 📄 M148 - Cours (Chapitre 2).pdf
+│       ├── 📄 M148 - Cours (Chapitre 3).pdf
+│       ├── 📄 [M148] Cours.pdf
+│       └── 📄 M148 - Cours (Chapitre 1) (Alternatif).pdf
+├── 🔗📁 Analyse numérique/  (raccourci)
+│   ├── 📄 1xC4k-uAw7K0qElIMgUIBm_k2SSaBwd9EGIzRgawqZg=_plaintext_638143366786531410.pdf
+│   ├── 📄 -_CrCKty8DLjA33MMXTGQtSa3WgoI2RhwhvKFLw4WAM=_plaintext_638143366804430534.pdf
+│   ├── 📄 DOC-20230321-WA0001.pdf
+│   ├── 📄 td2.pdf
+│   ├── 📄 🤳Corriger-TDs-Analyse_Numérique-(2022~2023).pdf
+│   ├── 📄 Exam-AN-juillet 16 corrigé (2).pdf
+│   ├── 📄 3)Correction des séries d'analyse numérique .pdf
+│   ├── 📄 Sol-TD2-Analyse_numerique_smp4.pdf
+│   ├── 📄 Examen  juin 2021.pdf
+│   ├── 📄 Corrigé Examen  juin 2021.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 Solution_1.pdf
+│   │   ├── 📄 Solution_2.pdf
+│   │   ├── 📄 Solution_3.pdf
+│   │   ├── 📄 Solution_4.pdf
+│   │   ├── 📄 Solution_5.pdf
+│   │   ├── 📄 TD1AN17.pdf
+│   │   ├── 📄 TD1AN17 corrigé.pdf
+│   │   ├── 📄 TD2AN17 .pdf
+│   │   ├── 📄 TD2AN17  coriigé.pdf
+│   │   ├── 📄 TD3AN17 .pdf
+│   │   ├── 📄 TD3AN17 corrigé.pdf
+│   │   ├── 📄 Correction serie TD2 2020.pdf
+│   │   ├── 📄 Correction serie TD2 2020 (Exercice 5 et 6).pdf
+│   │   └── 📄 TD3_correction-Analyse_numerique_smp4.pdf
+│   ├── 📁 EXAMEN/
+│   │   ├── 📄 Exam-AN-juillet 16 corrigé.pdf
+│   │   ├── 📄 Exam-AN-juin 18 SMP corrigé.pdf
+│   │   ├── 📄 Exam-AN-juin16 corrigé.pdf
+│   │   ├── 📄 Exam-AN juin 15 correction.pdf
+│   │   ├── 📄 Exam juin 17 SMP4.pdf
+│   │   ├── 📄 Examen  juin 2021.pdf
+│   │   ├── 📄 Examen d’Analyse SMA SN 2011.pdf
+│   │   ├── 📄 Examen d’Analyse  SMA SR 2016.pdf
+│   │   ├── 📄 Examen d’Analyse SMA SN 2012.pdf
+│   │   ├── 📄 Examen d’Analyse SMA SN 2013.pdf
+│   │   ├── 📄 Examen d’Analyse SMA  SR 2021.pdf
+│   │   ├── 📄 Examen d’Analyse SMA  SR 2015.pdf
+│   │   └── 📄 examen juillet 2015.pdf
+│   └── 📁 cours/
+│       ├── 📄 cours_4_SMP4_07_Avril.pdf
+│       ├── 📄 cours_3_SMP4_2022.pdf
+│       ├── 📄 Chapitre_1_Analyse numérique.pdf
+│       ├── 📄 chapitre2.pdf
+│       ├── 📄 chapitre3.pdf
+│       ├── 📄 chapitre4.pdf
+│       ├── 📄 chapitre5.pdf
+│       ├── 📄 -e89c3b393e.pdf
+│       ├── 📄 chapitre1.pdf
+│       ├── 📄 Résolution numérique des EDO-EDS-EDP.pdf
+│       ├── 📄 Poly AN Douzi 2017 part 1.pdf
+│       ├── 📄 Poly AN Douzi 2017 part 3.pdf
+│       ├── 📄 intro_matlab_fr.pdf
+│       ├── 📄 intromatlab.pdf
+│       ├── 📄 Python par Gloria FACCANONI.pdf
+│       ├── 📄 Poly AN Douzi 2017 part 2.pdf
+│       ├── 📄 polycopié systemes.pdf
+│       ├── 📄 PolyAnalyseNum.pdf
+│       ├── 📄 cours_Analyse_numerique_smp4-Chapter1.pdf
+│       └── 📄 cours_2_SMP4_2022_Mod_Archid.pdf
+├── 🔗📁 °Analyse Numérique I SMA SMI SABORPCMATH.COM/  (raccourci)
+│   ├── 📄 ° SMI-SMA TDS +EXAMENS ANALYSE NUMERIQUE.pdf
+│   ├── 📄 °examens Analyse Numérique FSAC CASABLANCA.pdf
+│   ├── 📄 °EXAMENS Analyse numérique FST TETOUAN.pdf
+│   ├── 📄 °EXAMENS Analyse Numérique I SMI 19 20 FSO OUAJDA.pdf
+│   ├── 📄 °EXAMENS Analyse Numérique SMI  FSDM FES SMI4.pdf
+│   ├── 📄 °SMAI4 FPT TDS +EXAMENS ANALYSE NUMERIQUE.pdf
+│   ├── 📄 °SMI FSAC TDS +TPS+DEVOIR ANALYSE NUMERIQUE 19 20.pdf
+│   ├── 📄 °SMIA FPN EXERCICES CORRIGES ANALYSE NUMERIQUE.pdf
+│   ├── 📄 °TD Analyse Numérique 09 10 SMI  FSDM FES SMI4.pdf
+│   ├── 📄 °TD Analyse Numérique 16 17 SMI  FSDM FES SMI4.pdf
+│   ├── 📄 °TD Analyse Numérique 19 20 SMI  FSBM CASABLANCA SMI4.pdf
+│   ├── 📄 °TD Analyse Numérique 19 20 SMI  FSDM FES SMI4.pdf
+│   ├── 📄 °TD Analyse Numérique 20 21 FSAC CASABLANCA.pdf
+│   ├── 📄 °TD Analyse Numérique 20 21 SMI  FSDM FES SMI4.pdf
+│   ├── 📄 °TD Analyse Numérique 21 22 SMI  FSDM FES SMI4.pdf
+│   ├── 📄 °TD Analyse numérique FST TETOUAN 2020 2021.pdf
+│   └── 📄 °TD Analyse Numérique I SMI 19 20 FSO OUAJDA.pdf
+├── 🔗📁 °Analyse Numérique I SMA SMI SABORPCMATH.COM/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 🔗📁 +SMP Analyse numérique & algorithme SABORPCMATH/  (raccourci)
+│   ├── 📄 +TDs COURS ANALYSE NUMERIQUE FST-TETOUAN SMP3.pdf
+│   ├── 📄 +TDs COURS ANALYSE NUMERIQUE FSM-MEKNES 21-22 SMP3.pdf
+│   ├── 📄 +TDs COURS ANALYSE NUMERIQUE FPN-NADOR SMP3.pdf
+│   ├── 📄 +TDs ANALYSE NUMERIQUE FST-TETOUAN 20-21 SMP3.pdf
+│   ├── 📄 +TDs ANALYSE NUMERIQUE FST-TETOUAN 16-17 SMP3.pdf
+│   ├── 📄 +TDs ANALYSE NUMERIQUE FST-TETOUAN 15-16 SMP3.pdf
+│   ├── 📄 +TDs ANALYSE NUMERIQUE FST-TETOUAN 14-15 SMP3.pdf
+│   ├── 📄 +TDs ANALYSE NUMERIQUE FST-TETOUAN 06-07 SMP3.pdf
+│   ├── 📄 +TDs ANALYSE NUMERIQUE FSSM-MARRAKECH 20-21 SMP3.pdf
+│   ├── 📄 +TDs ANALYSE NUMERIQUE FSM-MEKNES 20-21 SMP3.pdf
+│   ├── 📄 +TDs ANALYSE NUMERIQUE FSDM-FES 20-21 SMP3.pdf
+│   ├── 📄 +TDs ANALYSE NUMERIQUE FSAC-CASABLANCA 20-21 SMP3.pdf
+│   ├── 📄 +TDs ANALYSE NUMERIQUE FPS-SAFI SMP3.pdf
+│   ├── 📄 +TDs ANALYSE NUMERIQUE FPL-LARACH SMP3.pdf
+│   ├── 📄 +TDs ANALYSE NUMERIQUE FPK-KHOURIBGA SMP3.pdf
+│   ├── 📄 +TDs Analyse numérique & algorithme FSJ-ELJADIDA.pdf
+│   ├── 📄 +TDs ALGORITHME FSSM-MARRAKECH 20-21 SMP3.pdf
+│   ├── 📄 +TDs ALGORITHME FSDM-FES 20-21 SMP3.pdf
+│   ├── 📄 +TDs ALGORITHME FSAC-CASABLANCA 20-21 SMP3.pdf
+│   ├── 📄 +TDs ALGORITHME FSAC-CASABLANCA 14-15 SMP3.pdf
+│   ├── 📄 +TDs ALGORITHME FPL-LARACH SMP3.pdf
+│   ├── 📄 +COURS ANALYSE NUMERIQUE FST-TETOUAN 20-21 SMP3.pdf
+│   ├── 📄 +COURS ANALYSE NUMERIQUE FSM-MEKNES 20-21 SMP3.pdf
+│   ├── 📄 +COURS ANALYSE NUMERIQUE FSK-KENITRA 2015 SMP3.pdf
+│   ├── 📄 +COURS ANALYSE NUMERIQUE FSDM-FES 14-15 SMP3.pdf
+│   ├── 📄 +COURS ANALYSE NUMERIQUE FSAC-CASABLANCA 20-21 SMP3.pdf
+│   ├── 📄 +COURS ANALYSE NUMERIQUE FPN-NADOR SMP3.pdf
+│   ├── 📄 +COURS ANALYSE NUMERIQUE FPL-LARACH SMP3.pdf
+│   ├── 📄 +COURS ANALYSE NUMERIQUE FPK-KHOURIBGA SMP3.pdf
+│   ├── 📄 +COURS ANALYSE NUMERIQUE B FPS-SAFI SMP3.pdf
+│   ├── 📄 +COURS ANALYSE NUMERIQUE A FPS-SAFI SMP3.pdf
+│   ├── 📄 +Cours Analyse numérique & algorithme FSSM-MARRAKEHC 14-15.pdf
+│   ├── 📄 +COURS ALGORITHME FSDM-FES 20-21 SMP3.pdf
+│   ├── 📄 +COURS ALGORITHME FPS-SAFI SMP3.pdf
+│   ├── 📄 +COURS ALGORITHME FPL-LARACH SMP3.pdf
+│   ├── 📄 + EXAMENS ANALYSE NUMERIQUE FST-TETOUAN SMP3.pdf
+│   ├── 📄 + Examens Analyse numérique & algorithme FSSM-MARRAKEHC.pdf
+│   ├── 📄 + Examens Analyse numérique & algorithme FSDM-FES.pdf
+│   ├── 📄 + Examens Analyse numérique & algorithme FSAC-CASABLANCA.pdf
+│   ├── 📄 + Examens Analyse numérique & algorithme FPL-LARACH.pdf
+│   └── 📄 + Examens algorithme FSR-RABAT.pdf
+├── 📁 Ensa/
+│   ├── 📄 Analyse Numérique, Examen final.pdf
+│   ├── 📄 examen de rattrapage ENSAF.pdf
+│   ├── 📄 TD22.pdf
+│   ├── 📄 TD33.pdf
+│   ├── 📄 premier exam 2018 ENSAF.pdf
+│   ├── 📄 Exam 2017 AN ENSAF.pdf
+│   ├── 📄 examen de rattrapage ENSAF.pdf
+│   ├── 📄 COURS D’ANALYSE NUMÉRIQUE.pdf
+│   ├── 📄 ENSAF Cours ANumerique 2019.pdf
+│   ├── 📄 premier exam 2018 ENSAF.pdf
+│   ├── 📄 Introduction à la Simulation  Numérique.pdf
+│   ├── 📄 ___TD2-3: Analyse numérique Exercices corrigés.pdf
+│   ├── 📄 TD5.pdf
+│   ├── 📄 TD: Interpolation polynomiale Exercices corrigés.pdf
+│   ├── 📄 Exercices e corrigés- Interpolatin.pdf
+│   ├── 📄 TP initiation 2019ENSAF.pdf
+│   ├── 📄 Exam 2017 AN ENSAF.pdf
+│   └── 📁 Untitled folder/
+│       ├── 📄 corr ex 3 td2.pdf
+│       ├── 📄 corr ex5 td2 +++.pdf
+│       ├── 📄 corr ex5 td2 +++.pdf
+│       ├── 📄 TDDDDDDDDDDDD equaaaaSolution_7.pdf
+│       └── 📄 Corrigé de l'exercice td2.pdf
+├── 📁 dzuniv/
+│   ├── 📄 integration numerique.jpg
+│   ├── 📄 interpolation polynomiale.jpg
+│   ├── 📄 equat diffs.jpg
+│   ├── 📄 ANUM2.jpg
+│   ├── 📄 cc1 2014.jpg
+│   ├── 📄 cc2 2016.jpg
+│   ├── 📄 cc1 2016.jpg
+│   ├── 📄 ANUM2 TEST.jpg
+│   ├── 📄 FB_IMG_1475496123603.jpg
+│   ├── 📄 FB_IMG_1475496120335.jpg
+│   ├── 📄 TP01_2_Maths06_2013.pdf
+│   ├── 📄 Cours-Introduction aux vecteurs et matrices.pdf
+│   ├── 📄 Exercices corrigés Analyse numérique.pdf
+│   ├── 📄 exam math 6 (2).pdf
+│   ├── 📄 chapitre3-interpolation.pdf
+│   ├── 📄 TD_02 Equations non-lineaires.pdf
+│   ├── 📄 TD_04 Interpolation polynomiale.pdf
+│   ├── 📄 exam math 6 - .pdf
+│   ├── 📄 RÉSOLUTION NUMÉRIQUE DE L’ÉQUATION f (x) 0.pdf
+│   ├── 📄 Examen Final, Analyse NumÈrique .pdf
+│   ├── 📄 Examen Final, Analyse NumÈrique 02.pdf
+│   ├── 📄 Ch1-Resolution numerique des  equations non lineaire.pdf
+│   ├── 📄 TP-01-intro_matlab.pdf
+│   ├── 📄 Integration Numerique.pdf
+│   ├── 📄 TD1ESTI.pdf
+│   ├── 📄 Solution TD_01.pdf
+│   ├── 📄 FORMATION MATLAB 2.pdf
+│   ├── 📄 TD_01 Analyse d’erreurs et series de Taylor.pdf
+│   ├── 📄 exam-an-15-corinterpo intergra.pdf
+│   ├── 📄 MATLAB-TP4.pdf
+│   ├── 📄 TP_2 Résolution des systèmes d’équations linéaires .pdf
+│   ├── 📄 TP-07-integration_numerique.pdf
+│   ├── 📄 Exercices corrigés Analyse numériques 2.pdf
+│   ├── 📄 MATLAB-TP2.pdf
+│   ├── 📄 TD_03 Systeme d equations lineaires.pdf
+│   ├── 📄 CH2-Interpolation polynomiale.pdf
+│   ├── 📄 td1ordonancement.pdf
+│   ├── 📄 TP 1 Résolution des équations non linéaires .pdf
+│   ├── 📄 TP-03-Newton_secante.pdf
+│   ├── 📄 MATLAB-TP5.pdf
+│   ├── 📄 examen-final-mai2015-AN-epst-annaba.pdf
+│   ├── 📄 Examen Final, Analyse NumÈrique 01.pdf
+│   ├── 📄 Solution TD_02.pdf
+│   ├── 📄 Examen corrigé 2016.pdf
+│   ├── 📄 TP_0 crs basics EXemples.pdf
+│   ├── 📄 FORMATION MATLAB 1.pdf
+│   ├── 📄 Devoir SurveillÈ, Analyse NumÈrique 02.pdf
+│   ├── 📄 MATLAB-TP6.pdf
+│   ├── 📄 Introduction à Matlab.pdf
+│   ├── 📄 TP-Matlab123.pdf
+│   ├── 📄 TP-05-system_equation_Lu.pdf
+│   ├── 📄 TD_05 Equations Differentielles.pdf
+│   ├── 📄 MATLAB-TP3.pdf
+│   ├── 📄 Solution_TD_03.pdf
+│   ├── 📄 TP-06-interpolation_lagrange.pdf
+│   ├── 📄 TD2ESTI.pdf
+│   ├── 📄 TD3ESTI.pdf
+│   ├── 📄 Examen corrigé 2017.pdf
+│   ├── 📄 Examen corrigé-2017.pdf
+│   ├── 📄 Méthodes Numériques Appliquées.pdf
+│   ├── 📄 Devoir SurveillÈ, Analyse NumÈrique 01.pdf
+│   ├── 📄 TP-04-system_equations_gauss.pdf
+│   ├── 📄 Corrige-examen-ANALNUM-S1-2016.pdf
+│   ├── 📄 Examen corrigé-2016.pdf
+│   └── 📁 EXMs lmd/
+│       ├── 📄 Corrigé de l'examen _finnal d analyse numérique 2, 2016.pdf
+│       ├── 📄 exam-final-13janvier2018.pdf
+│       ├── 📄 exam_Analyse Numérique.pdf
+│       ├── 📄 Contrôle continu d_analyse numérique 1, 2017.pdf
+│       ├── 📄 Examen rattrapage  d'Analyse numérique 1, 2018.pdf
+│       ├── 📄 FB_IMG_1481888392314.jpg
+│       ├── 📄 Partiel d’Analyse Numérique avec correction.pdf
+│       ├── 📄 Cor-exam-final-13janvier2018.pdf
+│       ├── 📄 mi-2an44-ratr1-analyse_num15.pdf
+│       ├── 📄 Corrigé de _examen Continue d_analyse numérique 2.pdf
+│       ├── 📄 mi-2an44-exam1-analyse_num15.pdf
+│       ├── 📄 Contrôle continu d_analyse numérique 1, 2016.pdf
+│       ├── 📄 Sujet corrige Final  Analyse numerique1 2017.pdf
+│       ├── 📄 mi-2an44-exam2-analyse_num15.pdf
+│       ├── 📄 corr_Analyse numérique 2.pdf
+│       ├── 📄 Contrôle continu d_analyse numérique 1, 2018.pdf
+│       ├── 📄 Sujet corrige Rattrapage Analyse Numerique 2, 2016.pdf
+│       └── 📄 Sujet_corrige_EF_Analyse_numerique2_16-17.pdf
+├── 📁 GoodPrepa.    corr.détaillé.            _________exm td/
+│   ├── 📄 TD2 AN17 coriigé Numérique des systèmes linéaires .pdf
+│   ├── 📄 TD2 AN17 Numérique des systèmes linéaires  .pdf
+│   ├── 📄 examen juillet 2015.pdf
+│   ├── 📄 Exam-AN juin 15 correction.pdf
+│   ├── 📄 Cont-Final Jan-2016(1).pdf
+│   ├── 📄 Exam-AN-juin13.pdf
+│   ├── 📄 Exam juin 17 SMP4.pdf
+│   ├── 📄 TD n°1  corrigé (Introduction générale à l’AN) .pdf
+│   ├── 📄 Exa-AN-SM4-Juin11.pdf
+│   ├── 📄 Serie 3 integra FSO.pdf
+│   ├── 📄 TD n°1   Introduction générale à l’Analyse Numérique.pdf
+│   ├── 📄 TD3 AN17 corrigé Méthodes itératives.pdf
+│   ├── 📄 TD3 AN17 Méthodes itératives .pdf
+│   ├── 📄 Exam-AN-juin12.pdf
+│   ├── 📄 Cont-Ratt-Fev-2016(1).pdf
+│   └── 📄 Exam-AN-juillet 16 corrigé.pdf
+├── 📁 _td tp crs A.N EasyCours/
+│   ├── 📄 TP Analyse Numérique.pdf
+│   ├── 📄 Cours 3 Analyse Numérique.pdf
+│   ├── 📄 TP 2 Analyse Numérique.pdf
+│   ├── 📄 TP 3 Analyse Numérique.pdf
+│   ├── 📄 TP 4 Analyse Numérique.pdf
+│   └── 📄 Cours 2 Analyse Numérique.pdf
+├── 📁 _IMG EXOMAROC.                          _________crs td/
+│   └── 📁 Untitled folder/
+│       ├── 📄 __Serie 2 SysNonLin ITERPOLATION .pdf
+│       ├── 📄 __Serie 3 Integrale.pdf~RF167d9d3.pdf
+│       ├── 📄 __Serie 3 Integrale.pdf
+│       ├── 📄 __Serie 1 sys lin.pdf
+│       ├── 📄 Cont-Final Jan-2016.pdf
+│       └── 📄 Cont-Ratt-Fev-2016.pdf
+├── 📁 _crs td tp all chp/
+│   └── 📁 Analyse numérique/
+│       ├── 📄 tp02.pdf
+│       ├── 📄 serie06.pdf
+│       ├── 📄 exo03.pdf
+│       ├── 📄 serie05.pdf
+│       ├── 📄 tp01.pdf
+│       ├── 📄 cor05.pdf
+│       ├── 📄 chap05.pdf
+│       ├── 📄 cor02.pdf
+│       ├── 📄 serie03.pdf
+│       ├── 📄 serie02.pdf
+│       ├── 📄 chap01.pdf
+│       ├── 📄 exo02.pdf
+│       ├── 📄 projet01.pdf
+│       ├── 📄 chap02.pdf
+│       ├── 📄 cor01.pdf
+│       ├── 📄 serie01.pdf
+│       ├── 📄 cor03.pdf
+│       ├── 📄 tp03.pdf
+│       ├── 📄 exo05.pdf
+│       ├── 📄 serie04.pdf
+│       ├── 📄 exo01.pdf
+│       └── 📄 chap03.pdf
+├── 📁 _(_crs 4s.TD 13exm tp).corr KECK/
+│   └── 📁 analyse numérique/
+│       ├── 📁 controles/
+│       │   ├── 📁 correction/
+│       │   │   ├── 📄 S6-avril-12-sol.pdf
+│       │   │   ├── 📄 juin-2013-cor.pdf
+│       │   │   ├── 📄 S6avril09-sol.pdf
+│       │   │   ├── 📄 Avril-11_corr.pdf
+│       │   │   └── 📄 Corrige_S6Rattrapage10.pdf
+│       │   └── 📁 enoncé/
+│       │       ├── 📄 S6-juin-10-rat.pdf
+│       │       ├── 📄 S6-juin-09-rat.pdf
+│       │       ├── 📄 S6avril09 (1).pdf
+│       │       ├── 📄 S6avril-12.pdf
+│       │       ├── 📄 S6-juin-09 (1).pdf
+│       │       ├── 📄 Avril 2013.pdf
+│       │       ├── 📄 S6-juin-10.pdf
+│       │       ├── 📄 rattrapage juin 2013.pdf
+│       │       ├── 📄 juin 2013 (1).pdf
+│       │       ├── 📄 S6-juin-11.pdf
+│       │       ├── 📄 rattrapage juin 2010 (1).pdf
+│       │       ├── 📄 S6-juin-11-rat.pdf
+│       │       └── 📄 juin 2011.pdf
+│       ├── 📁 cours/
+│       │   ├── 📄 polyanamat.pdf
+│       │   └── 📄 fatorisationLU.pdf
+│       └── 📁 td/
+│           ├── 📄 serie4-13-corr.pdf
+│           ├── 📄 serie5-13-corr.pdf
+│           ├── 📄 serie3-13-corr.pdf
+│           ├── 📄 fic00028.pdf
+│           └── 📁 tp/
+│               ├── 📄 scilab.pdf
+│               └── 📄 Test TP.pdf
+└── 📁 New tp td corr prf/
+    ├── 📄 Feuille de travaux dirigés.pdf
+    ├── 📄 feuille de TP 1.pdf
+    └── 📄 td2 ex3 Méthode de la sécante ou regula falsi (facultatif).pdf
+
+═════════════════════════════════════
+  Fin du fichier · analyse Numerique
+═════════════════════════════════════

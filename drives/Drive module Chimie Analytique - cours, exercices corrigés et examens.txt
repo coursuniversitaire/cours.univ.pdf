@@ -1,0 +1,115 @@
+📚 MODULE : Chimie Analytique                         
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Chimie Analytique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Chimie Analytique/
+├── 🔗📁 Chimie Analytique + Solutions/  (raccourci)
+│   ├── 📁 2- Sujets/
+│   │   ├── 📄 421774466_263922106722626_1805812224518722966_n.jpg
+│   │   └── 📄 123234488_2825191171094875_3641389944204066526_o.jpg
+│   ├── 📁 1 - Cours + TD/
+│   │   ├── 📄 BBA - Cours de Chimie Analytique 2 année.pdf
+│   │   ├── 📄 Bejaia - exercices_supplementaires_en_chimie_analytique.pdf
+│   │   ├── 📄 UMBB - Exercices Chimie Analytique - Exercices corrige.pdf
+│   │   ├── 📄 Msila - Cours de Chimie Analytique.pdf
+│   │   ├── 📄 Bejaia - cours de chimie des solutions.pdf
+│   │   ├── 📄 Bejaia - Chimie Analytique.pdf
+│   │   ├── 📁 Relizane - Chimie des Solutions/
+│   │   │   ├── 📄 Chapitre IV La solubilité.rar
+│   │   │   ├── 📄 Chapitr I Les solution éléctrolytiques.pdf
+│   │   │   ├── 📄 IMG_20210430_0001.pdf
+│   │   │   ├── 📄 Chapitre 0 Notions fondamentales.pdf
+│   │   │   ├── 📄 Chapitre III Les réactions doxydo-réduction.pdf
+│   │   │   ├── 📄 IMG_20210430_0002.pdf
+│   │   │   └── 📄 chapitre II Les réactions acido-basiques.rar
+│   │   ├── 📁 Batna - Chimie Analytique/
+│   │   │   ├── 📄 cours-L2-CH-analytique-2eme-KHIOUANI.pdf
+│   │   │   ├── 📄 TD06-CH-analytique-2eme-KHIOUANI.pdf
+│   │   │   ├── 📄 TD05-CH-analytique-2eme-KHIOUANI.pdf
+│   │   │   └── 📄 TD04-CH-analytique-2eme-KHIOUANI.pdf
+│   │   └── 📁 Tissemsilt Cours + TD resolu/
+│   │       ├── 📄 TD 4.pdf
+│   │       ├── 📄 TD 3.pdf
+│   │       ├── 📄 TD 2.pdf
+│   │       ├── 📄 TD 1.pdf
+│   │       ├── 📄 Chap 0 - Rappel sur les solutions.pdf
+│   │       ├── 📄 Chap 5 - PRÉCIPITATIONS.pdf
+│   │       ├── 📄 Chap 4 - Oxydoreduction.pdf
+│   │       ├── 📄 Chap 3 - Acido-Basique.pdf
+│   │       └── 📄 Chap 1 - les équilibre en solution.pdf
+│   └── 📁 3- Livres/
+│       ├── 📄 Mémo visuel de chimie analy_ (Z-Library).pdf
+│       ├── 📄 Exercices de chimie analytique Avec rappels de cours .pdf
+│       ├── 📄 CHIMIE ANALYTIQUE. Tome 3, méthode spectrales et analyse organique, 2ème édition ( PDFDrive ).pdf
+│       ├── 📄 chimie des solutions.pdf
+│       ├── 📄 Chimie des solutions by Raymond Chang, Kenneth A. Goldsby (z-lib.org).pdf
+│       ├── 📄 HB Fr - Hand bookChimie analytique.pdf
+│       └── 📄 Chimie analytique.pdf
+└── 🔗📁 M1 chimie analytique/  (raccourci)
+    ├── 📁 S2/
+    │   ├── 📄 validation d'une methode analytique  s2.pdf
+    │   ├── 📄 tp excel .pdf
+    │   ├── 📄 td RMN RPE SM.pdf
+    │   ├── 📄 td methodes dde separation ouarezki.pdf
+    │   ├── 📄 sujets  s2.pdf
+    │   ├── 📄 spectro spectroscopie de masse  s2.pdf
+    │   ├── 📄 résumé thermoi s2.pdf
+    │   ├── 📄 résumé module guermouche s2.pdf
+    │   ├── 📄 résumé i s2.pdf
+    │   ├── 📄 qualité ben saadi s2.pdf
+    │   ├── 📄 MAC 202 Ammar khoudja qualification et validation.pdf
+    │   ├── 📄 FAC 203 dahmani  methode thermodynamique d'analyse.pdf
+    │   ├── 📄 FAC 202 taibi analyse physicochimiquedes materiaux.pdf
+    │   ├── 📄 FAC 202 bouchefa analyse physicochimiq des materiaux.pdf
+    │   ├── 📄 FAC 201 madame mechrara RMN RPE SM.pdf
+    │   ├── 📄 FAC 200 guermouche methodes separatives.pdf
+    │   └── 📁 sujets/
+    │       ├── 📄 sujet ac s2_0006.jpg
+    │       ├── 📄 sujet ac s2_0007.jpg
+    │       ├── 📄 sujet ac s2_0005.jpg
+    │       ├── 📄 sujet ac s2_0004.jpg
+    │       ├── 📄 sujet ac s2_0003.jpg
+    │       ├── 📄 sujet ac s2_0002.jpg
+    │       ├── 📄 sujet ac s2_0001.jpg
+    │       └── 📄 sujet ac s2.jpg
+    └── 📁 documents supplémentaires/
+        ├── 📁 cours CPG/
+        │   ├── 📄 DSC01985.JPG
+        │   ├── 📄 DSC01982.JPG
+        │   ├── 📄 DSC01984.JPG
+        │   ├── 📄 TP_CPG.pdf
+        │   ├── 📄 Cours 5_Détecteurs_CPG.ppt
+        │   ├── 📄 Conférence-Kerfah_Apport-CPG_Med.ppt
+        │   ├── 📄 cours 8_Trans Chimiques.ppt
+        │   ├── 📄 Cours 7_Anal Quanti.ppt
+        │   ├── 📄 Cours 6_Anal Quali.ppt
+        │   ├── 📄 Cours 3_Injecteurs _ CPG.ppt
+        │   ├── 📄 Cours 2_Grandeurs _Rétention.ppt
+        │   ├── 📄 CPG.pdf
+        │   ├── 📄 Cours 1_Généralités_CPG.ppt
+        │   ├── 📄 chromatographie CPG.docx
+        │   └── 📄 Cours 4_Colonnes_CPG.ppt
+        └── 📁 résumé/
+            ├── 📄 Résumé Validation.pdf
+            ├── 📄 Résumé Chimie de Surface.pdf
+            ├── 📄 Résumé - Ben Saâdi.pdf
+            ├── 📄 Spectroscopie Moléculaire.pdf
+            ├── 📄 résumé CPG.pdf
+            ├── 📄 Statistiques.pdf
+            ├── 📄 Spectroscopie Atom.(Amara).pdf
+            └── 📄 electrochimie.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Chimie Analytique
+═════════════════════════════════════

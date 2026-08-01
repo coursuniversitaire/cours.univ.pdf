@@ -1,0 +1,151 @@
+📚 MODULE : Analyse de données                        
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Analyse de données.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Analyse de données/
+├── 🔗📁 Analyse de données avec R/  (raccourci)
+│   ├── 📄 Drive module Analyse de données avec R - cours, exercices corrigés et examens.txt
+│   ├── 🔗📁 R/  (raccourci)
+│   │   ├── 📄 The guide to quickly learn Cloud Computing in R Programming.jpg
+│   │   ├── 📄 ggplot2.pdf
+│   │   ├── 📄 R_Advanced.pdf
+│   │   ├── 📄 Eurostat.pdf
+│   │   ├── 📄 R_Basics.pdf
+│   │   ├── 📄 Data-Wrangling.pdf
+│   │   ├── 📄 R Reference Card for Data Mining.pdf
+│   │   ├── 📄 RStudio-IDE.pdf
+│   │   ├── 📄 Package-Development.pdf
+│   │   ├── 📄 Cheatsheet – 11 Steps for Data Exploration in R (with codes).webp
+│   │   ├── 📄 caret.pdf
+│   │   ├── 📄 Leaflet.pdf
+│   │   ├── 📄 Data-Transformation.pdf
+│   │   ├── 📄 Data-import.pdf
+│   │   ├── 📄 R_Advanced_2.pdf
+│   │   ├── 📄 R_Markdown.pdf
+│   │   ├── 📄 sparklyr.pdf
+│   │   ├── 📄 Shiny.pdf
+│   │   ├── 📄 Road_to_ML.png
+│   │   ├── 📄 Data.table.pdf
+│   │   ├── 📄 xts.pdf
+│   │   ├── 📄 Data-visualisation.jpg
+│   │   ├── 📄 Tidyverse.pdf
+│   │   ├── 📄 R Reference Card.pdf
+│   │   └── 📄 Regular Expression.pdf
+│   ├── 📄 chap2_2AD-converted.pptx
+│   ├── 📄 chap2_3AD-converted.pptx
+│   ├── 📄 chap5AD-converted.pptx
+│   ├── 📄 chap3AD-converted.pptx
+│   ├── 📄 classification-SAS.doc
+│   ├── 📄 ACPsas.doc
+│   ├── 📄 cesar algo.png
+│   ├── 📄 _cours ensaf gryptographie.ppt
+│   ├── 📄 coursensagryptographie2.ppt
+│   ├── 📄 _coursensagryptographie2.ppt
+│   ├── 📄 projet d'examen corr.rar
+│   ├── 📄 ch1 ADD1-MAB.pdf
+│   ├── 📄 polyAD.pdf
+│   ├── 📄 ProjetRSA 2020.pdf
+│   ├── 📄 tp6.pdf
+│   ├── 📄 R.pdf
+│   ├── 📄 canonique.pptx.pdf
+│   ├── 📄 TP1_Intro_R.pdf
+│   ├── 📄 manuelR.pdf
+│   ├── 📄 ProjetRSA.pdf
+│   ├── 📄 tp7.pdf
+│   └── 📁 TPs/
+│       ├── 📄 Analyse des Donn ́ees  Travaux Pratiques 1.pdf
+│       ├── 📄 Analyse des Donn ́ees  Travaux Pratiques 2.pdf
+│       ├── 📄 TP 4 - IUP SID M1 2006-2007 - Comparaison de  l’AFD et de l’ACP.pdf
+│       └── 📄 Analyse des Donn ́ees  Travaux Pratiques 0.pdf
+├── 📁 ANAD/
+│   ├── 🔗📁 Anad/  (raccourci)
+│   │   ├── 📄 Corrig__ANAD.pdf; filename= UTF-8''CorrigéANAD.pdf
+│   │   └── 📄 ANAD-EXAM.pdf
+│   ├── 🔗📁 ANAD/  (raccourci)
+│   │   ├── 📁 DM/
+│   │   │   └── 📄 DM.pdf
+│   │   ├── 📁 Cours/
+│   │   │   ├── 📄 cours 11 analyse de documents(2).PDF
+│   │   │   ├── 📄 cours 11 analyse de documents(1).pdf
+│   │   │   ├── 📄 cours 10  Analyse de documents (2).pdf
+│   │   │   ├── 📄 cours 10 Analyse de documents (1).pdf
+│   │   │   ├── 📄 Cours 9 Chapitre 2.pdf
+│   │   │   ├── 📄 cours 8 Chapitre 2.pdf
+│   │   │   ├── 📄 Cours 7 8 Complément du chapitre 2.PDF
+│   │   │   ├── 📄 cours 5 Chapitre 2.pdf
+│   │   │   ├── 📄 Cours  4 CHAPITRE 2.pdf
+│   │   │   └── 📄 CHAPITRE 1.pdf
+│   │   └── 📁 TD/
+│   │       ├── 📄 FB_IMG_1654081677106.jpg
+│   │       ├── 📄 FB_IMG_1654081683445.jpg
+│   │       ├── 📄 FB_IMG_1654081681377.jpg
+│   │       ├── 📄 FB_IMG_1654081679285.jpg
+│   │       ├── 📄 FB_IMG_1654081674365.jpg
+│   │       ├── 📄 FB_IMG_1654081671727.jpg
+│   │       ├── 📄 TD ADD.PDF
+│   │       ├── 📄 Série 2.pdf
+│   │       ├── 📄 Série 2 Partie 1.pdf
+│   │       ├── 📄 EXO 3.pdf
+│   │       ├── 📄 EXO2.pdf
+│   │       ├── 📄 série 1.pdf
+│   │       └── 📄 EXO 1.pdf
+│   ├── 🔗📁 ANAD/  (raccourci)
+│   │   └── 📄 corrigé EF.PDF
+│   └── 🔗📁 AND | Analyse de données/  (raccourci)
+│       ├── 📁 Examen 2021 avec solution/
+│       │   ├── 📄 Examen.pdf
+│       │   └── 📄 Solution.pdf
+│       ├── 📁 Cours et résumé/
+│       │   ├── 📄 chapitre 4.pdf
+│       │   ├── 📄 chapitre 3.pdf
+│       │   ├── 📄 chapitre 2.pdf
+│       │   ├── 📄 chapitre 1.pdf
+│       │   ├── 📄 synthèse du chapitre 1.pdf
+│       │   └── 📄 Résumé d'ACP et AFC.pdf
+│       └── 📁 TDs avec Solutions/
+│           ├── 📁 TD3/
+│           │   ├── 📄 TD3 [Fiche].pdf
+│           │   ├── 📄 TD3 Exo3.pdf
+│           │   ├── 📄 TD3 Exo2.pdf
+│           │   └── 📄 TD3 Exo1.pdf
+│           ├── 📁 TD2/
+│           │   ├── 📄 TD2 [Fiche].pdf
+│           │   ├── 📄 TD2 Exo3.pdf
+│           │   ├── 📄 TD2 Exo2.pdf
+│           │   └── 📄 TD2 Exo1.pdf
+│           └── 📁 TD1/
+│               ├── 📄 TD1 [Fiche].pdf
+│               ├── 📄 TD1 Exo4.pdf
+│               ├── 📄 TD1 Exo3.pdf
+│               ├── 📄 TD1 Exo2.pdf
+│               └── 📄 TD1 Exo1.pdf
+├── 📁 Examen 2021 avec solution/
+│   ├── 📄 Examen.pdf
+│   └── 📄 Solution.pdf
+├── 📁 Cours et résumé/
+│   ├── 📄 chapitre 4.pdf
+│   ├── 📄 chapitre 3.pdf
+│   ├── 📄 chapitre 2.pdf
+│   ├── 📄 chapitre 1.pdf
+│   ├── 📄 synthèse du chapitre 1.pdf
+│   └── 📄 Résumé d_ACP et AFC.pdf
+└── 📁 TDs avec Solutions/
+    ├── 📁 TD3/
+    │   └── 📄 TD3 Exo1.pdf
+    ├── 📁 TD2/
+    └── 📁 TD1/
+
+═════════════════════════════════════
+  Fin du fichier · Analyse de données
+═════════════════════════════════════

@@ -1,0 +1,119 @@
+📚 MODULE : Barrage                                   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Barrage.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Barrage/
+├── 🔗📁 Barrage /  (raccourci)
+│   ├── 📁 Enregistrements /
+│   │   ├── 📄 Séance TD I - Cours barrages 2021-01-26-09-06-58.mp4
+│   │   ├── 📄 Séance TD V cours Barrages 2021-03-02-10-35-05.mp4
+│   │   ├── 📄 Séance TD IV - Barrages No VI 2021-02-23-10-36-32.mp4
+│   │   ├── 📄 Séance  TD III - Cours Barrages 2021-02-16-10-12-29.mp4
+│   │   └── 📄 Séance TD II- - Cours barrages 2021-02-02-10-44-01.mp4
+│   ├── 📁 TD SÉRIE/
+│   │   ├── 📄 TD-SEANCE V - Barrages voÃ»tes.pdf
+│   │   ├── 📄 TD-SEANCE IV - Barrages.pdf
+│   │   ├── 📄 QUESTIONS-REPONSES.pdf
+│   │   └── 📄 CorrigÃ© des exercices - BARRAGE POIDS.pdf
+│   └── 📁 Cours PDF/
+│       ├── 📄 RESUME BARRAGE POIDS +  TD-CorrigÃ© d'un exercice.pdf
+│       ├── 📄 CHAPITRES 3 et 4 - BARRAGES A CONTREFORTS ET VOUTES - 1A-MASTER-VOA.pdf
+│       ├── 📄 CHAPITRE 5 - COURS BARRAGES - 1A-MASTER-VOA - 2020-2021.pdf
+│       ├── 📄 CHAPITRE 4 - BARRAGES VOUTES - 1A-MASTER-VOA.pdf
+│       ├── 📄 CHAPITRE 2 - BARRAGES POIDS - COURS BARRAGES.pdf
+│       └── 📄 CHAPITRE 1 - GENERALITES - COURS BARRAGES.pdf
+├── 📁 Examens/
+│   ├── 📄 Examen Barrages 2eme GC1 et 2eme GC2 -Barrage
+│   ├── 📄 Examen Barrages 2 GC -Barrage
+│   └── 📄 Examen Barrages Hydraulique -Barrage
+├── 📁 Autres/
+│   ├── 🔗📁 Barrage /  (raccourci)
+│   │   └── ⚠️  [Référence circulaire ignorée]
+│   ├── 🔗📁 projet BARRAGE1/  (raccourci)
+│   │   ├── 📄 Thumbs.db
+│   │   ├── 📄 sites.jpg
+│   │   ├── 📄 6.jpg
+│   │   ├── 📄 5.jpg
+│   │   ├── 📄 4.jpg
+│   │   ├── 📄 3.jpg
+│   │   ├── 📄 2.jpg
+│   │   └── 📄 1.jpg
+│   ├── 🔗📁 barrage/  (raccourci)
+│   │   ├── 📁 projet BARRAGE1/
+│   │   │   └── ⚠️  [Référence circulaire ignorée]
+│   │   ├── 📁 partie ii/
+│   │   │   ├── 📄 projet-barrage-II.pdf
+│   │   │   ├── 📄 projet-barrage-II.docx
+│   │   │   ├── 📄 Calcul.xlsx
+│   │   │   ├── 📄 Calcul.xlsm
+│   │   │   └── 📁 énoncé/
+│   │   │       ├── 📄 IMG_0003.jpg
+│   │   │       ├── 📄 IMG_0002.jpg
+│   │   │       ├── 📄 IMG_0001.jpg
+│   │   │       └── 📄 IMG.jpg
+│   │   ├── 📁 partie i/
+│   │   │   ├── 📄 site n° 1.xlsx
+│   │   │   ├── 📄 site 3.xlsx
+│   │   │   ├── 📄 site 1.xlsx
+│   │   │   ├── 📄 Projet barrage.pdf
+│   │   │   ├── 📄 Projet barrage.docx
+│   │   │   ├── 📄 Projet barrage-choix du site.pdf
+│   │   │   ├── 📄 partie 1.xlsx
+│   │   │   ├── 📄 Page de garde.pdf
+│   │   │   ├── 📄 barrageserreponcon.jpg
+│   │   │   ├── 📁 partie 1/
+│   │   │   │   ├── 📄 site 3.xlsx
+│   │   │   │   ├── 📄 site 2.xlsx
+│   │   │   │   ├── 📄 site 1.xlsx
+│   │   │   │   └── 📄 Projet barrage.docx
+│   │   │   └── 📁 énoncé/
+│   │   │       ├── 📄 IMG.pdf
+│   │   │       ├── 📄 3.jpg
+│   │   │       ├── 📄 2.jpg
+│   │   │       └── 📄 1.jpg
+│   │   ├── 📁 Mini-Projet 1/
+│   │   │   ├── 📄 suite.pdf
+│   │   │   ├── 📄 rendement E.pdf
+│   │   │   ├── 📄 page de garde.pdf
+│   │   │   ├── 📄 Mini-Projet.pdf
+│   │   │   └── 📄 fin de page.pdf
+│   │   └── 📁 partie iii/
+│   │       ├── 📄 Projet3.xlsx
+│   │       ├── 📄 Projet3.xlsm
+│   │       ├── 📄 laminage.pdf
+│   │       └── 📄 laminage.docx
+│   └── 🔗📁 barrage/  (raccourci)
+│       ├── 📄 ~$EXAMEN.DOC
+│       ├── 📄 EXAMEN.DOC
+│       ├── 📄 CONTRÔLE.DOC
+│       ├── 📄 CONTR.DOC
+│       └── 📄 barrage.rar
+├── 📁 Cours PDF/
+│   ├── 📄 Cours de barrages UED 1.1 -Barrage
+│   ├── 📄 Cours Barrages Poids USTHB -Barrage
+│   ├── 📄 Cours Barrages UED 1.1 USTHB -Barrage
+│   ├── 📄 Cours de Barrages UED 1.1 -Barrage
+│   ├── 📄 Cours Barrages UED 1.1 -Barrage
+│   └── 📄 Cours Barrages UED 1.1 USTHB -Barrage
+└── 📁 TD SÉRIE/
+    ├── 📄 Cours Barrages UED 1.1 USTHB -Barrage
+    ├── 📄 Cours Barrages USTHB -Barrage
+    ├── 📄 QUESTIONS-REPONSES
+    ├── 📄 Cours de barrages UED 1.1 -Barrage
+    ├── 📄 Cours Barrages UED 1.1 -Barrage
+    └── 📄 TD-SEANCE V - Barrages voÃ»tes
+
+═════════════════════════════════════
+  Fin du fichier · Barrage
+═════════════════════════════════════

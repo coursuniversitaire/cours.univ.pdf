@@ -1,0 +1,63 @@
+📚 MODULE : Calcul différentiel                       
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Calcul différentiel.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Calcul différentiel/
+├── 🔗📁 Calcul différentiel A.Srhir/  (raccourci)
+│   ├── 📄 corrigé-examen-normal.pdf
+│   ├── 📄 Calcul diff TD1.pdf
+│   ├── 📄 Calcul diff chapitre1+2.pdf
+│   ├── 📄 Calcul diff chapitre3.pdf
+│   ├── 📄 Calcul diff TD2.pdf
+│   └── 📄 Calcul diff TD3.pdf
+├── 🔗📁 Ahmed Lesfari - Cours Calcul différentiel.pdf/  (raccourci)
+├── 🔗📁 calcul diff/  (raccourci)
+│   ├── 📄 Calcul diff et Eqts diff.pdf
+│   ├── 📄 N.El Jaouhari-Calcul differentiel et calcul integral-DUNOD (2017).pdf
+│   ├── 📄 Calcul différentiel et équations différentielles Cours et exercices corrigés (Sylvie Benzoni-Gavage) (z-lib.org).pdf
+│   ├── 📄 [Sylvie_Benzoni-Gavage]_Calcul_différentiel_et_é(BookZa.org).pdf
+│   ├── 📄 2012_2013_MP23_L1PC.pdf
+│   ├── 📄 Calcul intégral by Gilles Charron Pierre Parent.pdf
+│   ├── 📄 Calcul différentiel by Gilles Charron.pdf
+│   └── 📄 Calcul différentiel by Gilles Charron Pierre Parent.pdf
+└── 🔗📁 Calcul différentiel/  (raccourci)
+    ├── 📁 Autres /
+    │   └── 📄 diff.pdf
+    ├── 📁 Examens/
+    │   ├── 📄 Calcul Différentiel. Corrigé de l'examen.pdf
+    │   ├── 📄 Exames Calcul diff (ikaddi khadija).pdf
+    │   └── 📄 examens de calcule diff M512 ( 2014-2020).pdf
+    ├── 📁 TDs/
+    │   ├── 📄 serie3 calcul diff -corrections.pdf
+    │   ├── 📄 serie2 calcul diff -corrections.pdf
+    │   ├── 📄 serie2 calcul diff -corrections (samedi).pdf
+    │   ├── 📄 serie1 calcul diff.pdf
+    │   ├── 📄 serie1 calcul diff (1).pdf
+    │   ├── 📄 serie1 calcul diff -corrections.pdf
+    │   ├── 📄 série 3 calcul diff 2020-2021.pdf
+    │   ├── 📄 série 3 calcul diff 2020-2021.pdf
+    │   ├── 📄 exercice_1_2_la_série_3.pdf
+    │   ├── 📄 exercice 6.pdf
+    │   ├── 📄 correction serie 3 beamer.pdf
+    │   ├── 📄 correction série 1 calcul .pdf
+    │   └── 📄 correction serie 1 beamer.pdf
+    └── 📁 Cours/
+        ├── 📄 COURS M512.pdf
+        ├── 📄 chap 3 beamer.pdf
+        ├── 📄 chap 2 beamer.pdf
+        └── 📄 chap 0 beamer.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Calcul différentiel
+═════════════════════════════════════

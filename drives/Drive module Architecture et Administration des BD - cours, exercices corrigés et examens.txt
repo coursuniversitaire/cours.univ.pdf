@@ -1,0 +1,283 @@
+📚 MODULE : Architecture et Administration des BD     
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Architecture et Administration des BD.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Architecture et Administration des BD/
+├── 📄 ASGBD-20260608T191307Z-3-001.zip
+├── 🔗📁 Administration des SGBD/  (raccourci)
+│   ├── 📁 Séries du TP (2017-18)/
+│   │   ├── 📄 TP 5 - Triggers.pdf
+│   │   ├── 📄 TP 4 - PL SQL.pdf
+│   │   ├── 📄 TP 3 - Dictionnaire Oracle.pdf
+│   │   ├── 📄 TP 2 - Privilèges d'accès à la BD.pdf
+│   │   ├── 📄 TP 1 - Création et manipulation d'une BD.pdf
+│   │   └── 📁 Corrections des TPs/
+│   │       ├── 📁 Rapports [Attention Plagiat]/
+│   │       │   ├── 📁 Par Rougab Imene/
+│   │       │   │   ├── 📄 Rapport 05 (Triggers) [I. Rougab].pdf
+│   │       │   │   ├── 📄 Rapport 04 (PL SQL) [I. Rougab].pdf
+│   │       │   │   ├── 📄 Rapport 03 (Dictionnaire) [I. Rougab].pdf
+│   │       │   │   ├── 📄 Rapport 02 (Gestion des droits) [I. Rougab].pdf
+│   │       │   │   └── 📄 Rapport 01 (Rappel SQL) [I. Rougab].pdf
+│   │       │   ├── 📁 Par Boukerboub Abderrahim/
+│   │       │   │   ├── 📄 TP N°5 - Privilèges d'accès à la BD.pdf
+│   │       │   │   ├── 📄 TP N°4 - Triggers.pdf
+│   │       │   │   ├── 📄 TP N°3 - PLSQL.pdf
+│   │       │   │   ├── 📄 TP N°2  - Dictionnaire de Données (Méta-BaseCatalogues).pdf
+│   │       │   │   └── 📄 TP N°1 - Création et manipulation d'une BD.pdf
+│   │       │   └── 📁 Par Bezgali Meriem/
+│   │       │       ├── 📄 Rapport 05 (Triggers) [M. Bezgali].pdf
+│   │       │       ├── 📄 Rapport 04 (PL SQL) [M. Bezgali].pdf
+│   │       │       ├── 📄 Rapport 03 (Dictionnaire) [M. Bezgali].pdf
+│   │       │       ├── 📄 Rapport 02 (Gestion des droits) [M. Bezgali].pdf
+│   │       │       └── 📄 Rapport 01 (Rappel SQL) [M. Bezgali].pdf
+│   │       └── 📁 Autres (Commandes SQL)/
+│   │           ├── 📄 TP 1 + 2 + 3.sql
+│   │           ├── 📄 TP 05.sql
+│   │           ├── 📄 TP 04.sql
+│   │           ├── 📄 TP 01.sql
+│   │           ├── 📄 Questions 4.sql
+│   │           ├── 📄 Insertions.sql
+│   │           └── 📄 Curseurs.sql
+│   ├── 📁 Séries du TD/
+│   │   ├── 📄 TD ASGBD 02 - Mémoire Rationnelle.pdf
+│   │   ├── 📄 TD ASGBD 01 - Triggers et Privilèges [2018-19].pdf
+│   │   ├── 📄 TD ASGBD 01 - Triggers [2017-18].pdf
+│   │   ├── 📄 TD ASGBD 04 - Reprise Après Panne.pdf
+│   │   ├── 📄 TD ASGBD 03 - Accès Concurrents.pdf
+│   │   ├── 📄 TD ASGBD 05 - Optimisation.pdf
+│   │   └── 📁 Correction TD ASGBD/
+│   │       ├── 📄 Solution TD 04 - Reprise Après Panne (Version 2).pdf
+│   │       ├── 📄 Solution TD 05 - Optimisation.pdf
+│   │       ├── 📄 Solution TD 01 - Les Triggers.pdf
+│   │       ├── 📄 Solution TD 04 - Reprise Après Panne (Version 1).pdf
+│   │       └── 📄 Solution TD 03 - Les Transactions.pdf
+│   ├── 📁 Interrogations et examens/
+│   │   ├── 📄 Rattrapage ASGBD (SII, Février 2009).pdf
+│   │   ├── 📄 Rattrapage ASGBD (SII, 2011).pdf
+│   │   ├── 📄 Interrogation ASGBD.pdf
+│   │   ├── 📄 Interrogation ASGBD + Corr (SII, 2012).pdf
+│   │   ├── 📄 Interrogation ASGBD + Corr (SII, 2011).pdf
+│   │   ├── 📄 Interrogation ASGBD (SII, 2017).pdf
+│   │   ├── 📄 Interrogation ASGBD (IL, 2017).pdf
+│   │   ├── 📄 Examen ASGBD + Corr (SII, Janvier 2018).pdf
+│   │   ├── 📄 Examen ASGBD + Corr (SII, Janvier 2016).pdf
+│   │   ├── 📄 Examen ASGBD + Corr (SII, Janvier 2015).pdf
+│   │   ├── 📄 Examen ASGBD + Corr (SII, Janvier 2013).pdf
+│   │   ├── 📄 Examen ASGBD + Corr (SII, Janvier 2011).pdf
+│   │   ├── 📄 Examen ASGBD + Corr (SII, Janvier 2010).pdf
+│   │   ├── 📄 Examen ASGBD + Corr (SII, Janvier 2009).pdf
+│   │   ├── 📄 Examen ASGBD (SII, Janvier 2012).pdf
+│   │   ├── 📄 Examen ASGBD (SII, Janvier 2019).pdf
+│   │   ├── 📄 Examen ASGBD + Corr (SII, Janvier 2017).pdf
+│   │   └── 📁 Corrections sans sujet/
+│   │       └── 📄 Corr Examen ASGBD [Sans sujet, date].pdf
+│   └── 📁 Cours/
+│       ├── 📄 Chap 5 - Optimisation.pdf
+│       ├── 📄 Chap 4 - Sécurité des BD.pdf
+│       ├── 📄 Chap 3 - Reprise Après Panne.pdf
+│       ├── 📄 Chap 2 - Gestion des Accès Concurrents (Transactions).pdf
+│       ├── 📄 Chap 1 - Partie Architecture.pdf
+│       ├── 📄 Chap 1 - Partie Contraintes et Triggers.pdf
+│       ├── 📄 Chap 1 - Partie Méta-Base.pdf
+│       ├── 📄 Chap 0 - Présentation du Cours.pdf
+│       └── 📁 Révisions/
+│           ├── 📄 Révision ASGBD.pdf
+│           └── 📄 Q&A ASGBD (M. Boukhalfa).pdf
+├── 🔗📁 Architecture et administration des bases de données/  (raccourci)
+│   ├── 📄 LinksASGBD.docx
+│   ├── 📁 Cours/
+│   │   ├── 📄 OPTIMISATION DE REQUETES.pdf
+│   │   ├── 📄 6.sécurité de BD.pdf
+│   │   ├── 📄 5. Reprise.pdf
+│   │   ├── 📄 4. Transactions.pdf
+│   │   ├── 📄 3. Contraintes Triggers.pdf
+│   │   ├── 📄 2.Chapitre1-Méta-Base.pdf
+│   │   ├── 📄 1.Chapitre 1 - Architecture2.pdf
+│   │   └── 📄 1.Chapitre 1 - Architecture1.pdf
+│   ├── 📁 TDs/
+│   │   ├── 📄 Corrigé de la série optimisation.docx
+│   │   ├── 📄 exo3 transaction.pdf
+│   │   ├── 📄 exo2 transaction.jpg
+│   │   ├── 📄 TD Transaction.pdf
+│   │   ├── 📄 TD Optimisation.pdf
+│   │   └── 📄 TD1-b-arbre .pdf
+│   └── 📁 TPs (Capsules + PDFs)/
+│       ├── 📄 2. TP2_Gestion_Des_Droits 2021-2022.docx
+│       ├── 📄 1. TP1_Rappel SQL_2021-2022.docx
+│       ├── 📄 4. TP4_plsql 2021-2022.docx
+│       ├── 📄 5. TP5_Trrigers 2021_2022.docx
+│       ├── 📄 3. TP3 Dictionnaire 2021-2022.docx
+│       └── 📄 insert.sql
+└── 🔗📁 ASGBD/  (raccourci)
+    ├── 📁 TP 2017-2018/
+    │   ├── 📄 4. TP4_plsql 2017-2018.pdf
+    │   ├── 📄 3. TP3 Dictionnaire 2017-2018.pdf
+    │   ├── 📄 2. TP2_Gestion_Des_Droits 2017-2018.pdf
+    │   ├── 📄 tp5.sql
+    │   ├── 📄 tp4.sql
+    │   ├── 📄 tp1.sql
+    │   ├── 📄 inserts.sql
+    │   ├── 📄 5. TP5_Trrigers 2017-2018.pdf
+    │   └── 📄 1._TP1_Rappel_SQL_2017-2018.pdf
+    ├── 📁 td asgbd 2017-2018/
+    │   ├── 📄 séries TD ASGBD 2016-2017.pdf
+    │   ├── 📄 TD Optimiqation 2017-2018.pdf
+    │   ├── 📁 TD_ASGBD trasnaction/
+    │   │   ├── 📄 page6.jpg
+    │   │   ├── 📄 page5.jpg
+    │   │   ├── 📄 page3.jpg
+    │   │   ├── 📄 page2.jpg
+    │   │   ├── 📄 page1.jpg
+    │   │   ├── 📄 page8.jpg
+    │   │   ├── 📄 page7.jpg
+    │   │   ├── 📄 page9.jpg
+    │   │   ├── 📄 TD3 Transactions 2017-2018.pdf
+    │   │   └── 📄 page4.jpg
+    │   ├── 📁 TDASGBD/
+    │   │   ├── 📄 page6.jpg
+    │   │   ├── 📄 page5.jpg
+    │   │   ├── 📄 page3.jpg
+    │   │   ├── 📄 page8.jpg
+    │   │   ├── 📄 page9.jpg
+    │   │   ├── 📄 page7.jpg
+    │   │   ├── 📄 page4.jpg
+    │   │   ├── 📄 page2.jpg
+    │   │   ├── 📄 page1.jpg
+    │   │   ├── 📄 page13.jpg
+    │   │   ├── 📄 page12.jpg
+    │   │   ├── 📄 page11.jpg
+    │   │   ├── 📄 page10.jpg
+    │   │   └── 📄 25465642_1784741324889919_991298102_n.jpg
+    │   ├── 📁 td reprise aprés panne/
+    │   │   ├── 📄 26696782_1636271233130514_1193635332_n.jpg
+    │   │   ├── 📄 26694459_1636271223130515_469249549_n.jpg
+    │   │   └── 📄 26803316_1636271246463846_681776916_n.jpg
+    │   ├── 📁 optimisation/
+    │   │   ├── 📄 page5.jpg
+    │   │   ├── 📄 page4.jpg
+    │   │   ├── 📄 page3.jpg
+    │   │   ├── 📄 page2.jpg
+    │   │   └── 📄 page1.jpg
+    │   └── 📁 TD_ASGBD tree/
+    │       ├── 📄 page6.jpg
+    │       ├── 📄 page5.jpg
+    │       ├── 📄 page3.jpg
+    │       ├── 📄 page8.jpg
+    │       ├── 📄 TD3 Transactions 2017-2018.pdf
+    │       ├── 📄 page4.jpg
+    │       ├── 📄 TD1-b-arbre.pdf
+    │       ├── 📄 page7.jpg
+    │       ├── 📄 TD Optimiqation 2017-2018.pdf
+    │       ├── 📄 page2.jpg
+    │       ├── 📄 page9.jpg
+    │       ├── 📄 page1.jpg
+    │       ├── 📄 page13.jpg
+    │       ├── 📄 page12.jpg
+    │       ├── 📄 page11.jpg
+    │       └── 📄 page10.jpg
+    ├── 📁 Examens/
+    │   ├── 📄 Examen 2018 Asgbd.pdf
+    │   ├── 📄 Corrigé examen 2018 asgbd.pdf
+    │   ├── 📄 Sujet ASGBD 2017.pdf
+    │   ├── 📄 Sujet ASGBD 2017.pdf
+    │   └── 📁 exam BD/
+    │       ├── 📄 examen+corrigé+de+ASGBD.pdf
+    │       ├── 📄 exam BD 2015.rar
+    │       ├── 📄 asgb2012-2013 correction.rar
+    │       ├── 📄 ABDD.pdf
+    │       ├── 📄 ASGBD2016_Corrigé (1).pdf
+    │       ├── 📄 Eléments+de+réponse+Interrogation.pdf
+    │       ├── 📄 Corrigé - Examen.pdf
+    │       ├── 📄 Corrigu00E9_Exo1-ABD_Kam-2 (1).pdf
+    │       ├── 📄 TP ( Corrig+®) BDD.pdf
+    │       ├── 📄 révision_ABD.pdf
+    │       ├── 📄 Correction-Interrogation+SGBD2011.pdf
+    │       ├── 📄 Examen +CorrigÃ© 20092010.pdf.pdf
+    │       ├── 📄 rattrappage 20082009.pdf
+    │       ├── 📄 Examen +C...pdf
+    │       ├── 📄 QA ASGBD Boukhalfa.pdf
+    │       ├── 📄 Examen + ...pdf
+    │       ├── 📄 15824082_1839864036260246_1700856860_o.jpg
+    │       ├── 📄 15823636_1286965118028151_4593047132633176053_n.jpg
+    │       ├── 📄 15823636_1286965118028151_4593047132633176053_n (1).jpg
+    │       ├── 📄 ContrÃ´le...pdf
+    │       ├── 📁 exam BD 2015/
+    │       │   ├── 📄 sujet.pdf
+    │       │   ├── 📄 Corrigu00E9_Exo1-ABD_Kam-2 (1).pdf
+    │       │   ├── 📄 Correction_Exercice-transaction_2015 (2).pdf
+    │       │   ├── 📄 1.jpg
+    │       │   ├── 📄 3.jpg
+    │       │   └── 📄 2.jpg
+    │       ├── 📁 sgbd-exam/
+    │       │   ├── 📄 p039.jpg
+    │       │   ├── 📄 p036.jpg
+    │       │   ├── 📄 p038.jpg
+    │       │   └── 📄 p037.jpg
+    │       ├── 📁 examen/
+    │       │   ├── 📄 examen ABDD1.JPG
+    │       │   ├── 📄 examen ABDD.jpg
+    │       │   ├── 📄 examen ABDD suite.JPG
+    │       │   ├── 📄 examen ABDD suit2.JPG
+    │       │   ├── 📄 EMD_ASGBD_2.jpg
+    │       │   └── 📄 EMD_ASGBD_1.jpg
+    │       ├── 📁 sujetMIL2011-2012/
+    │       │   └── 📁 sujetMIL2011-2012/
+    │       │       ├── 📄 IMG_0005.pdf
+    │       │       └── 📄 IMG_0004.pdf
+    │       ├── 📁 sgbd-sol-exam/
+    │       │   └── 📁 sgbd-sol-exam/
+    │       │       ├── 📄 p028.jpg
+    │       │       ├── 📄 p029.jpg
+    │       │       ├── 📄 p031.jpg
+    │       │       ├── 📄 p026.jpg
+    │       │       ├── 📄 p027.jpg
+    │       │       └── 📄 p030.jpg
+    │       ├── 📁 2011/
+    │       │   └── 📁 2011/
+    │       │       ├── 📄 EMD2011Page2.JPG
+    │       │       ├── 📄 1Corrigé Exo1.jpg
+    │       │       ├── 📄 EMD2011Page1.JPG
+    │       │       ├── 📄 2CORRIGE EMD 2011.pdf
+    │       │       └── 📄 Thumbs.db
+    │       └── 📁 asgb2012-2013 correction/
+    │           └── 📄 correction examen 2013.pdf
+    ├── 📁 TD + solutions/
+    │   ├── 📄 séries TD ASGBD 2016-2017.pdf
+    │   └── 📄 Solution TD ASGBD 2016-2017.pdf
+    ├── 📁 cours/
+    │   ├── 📄 5. Reprise.pdf
+    │   ├── 📄 4. Transactions.pdf
+    │   ├── 📄 1.Chapitre 1 - Architecture.pdf
+    │   ├── 📄 3. Contraintes Triggers.pdf
+    │   ├── 📄 2.Chapitre1-Méta-Base.pdf
+    │   └── 📄 6.sécurité de BD.pdf
+    └── 📁 TPs/
+        ├── 📄 TP-ASGBD-2018.zip
+        ├── 📄 Rapport n°5(Triggers)_ROUGAB_IMENE_M1SII_G01.pdf
+        ├── 📄 Rapport n°3(Dictionnaire)_ROUGAB_IMENE_M1SII_G01.pdf
+        ├── 📄 Rapport n°2(Gestion des droits)_ROUGAB_IMENE_M1SII_G01.pdf
+        ├── 📄 Rapport n°1(RappelSQL)_ROUGAB_IMENE_M1SII_G01.pdf
+        ├── 📄 Rapport n°4(PL SQL)_ROUGAB_IMENE_M1SII_G01.pdf
+        ├── 📄 tp1-2-3.sql
+        ├── 📄 qst 4.sql
+        ├── 📄 cursors.sql
+        ├── 📄 4. TP4_plsql 2016-2017.docx
+        ├── 📄 3. TP3 Dictionnaire 2016-2017.docx
+        ├── 📄 2. TP2_Gestion_Des_Droits 2016-2017.docx
+        └── 📄 1.-TP1_Rappel-SQL_2016-2017.docx
+
+═════════════════════════════════════
+  Fin du fichier · Architecture et Administration des BD
+═════════════════════════════════════

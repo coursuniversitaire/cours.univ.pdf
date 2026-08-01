@@ -1,0 +1,51 @@
+📚 MODULE : Actionneurs (électriques-pneu-hydrau..)   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Actionneurs (électriques-pneu-hydrau..).
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Actionneurs (électriques-pneu-hydrau..)/
+├── 🔗📁 tp_act/  (raccourci)
+│   ├── 📄 Actionneurs_TP.pdf
+│   ├── 📄 tp3_act.pdf
+│   ├── 📁 tp1/
+│   │   ├── 📄 IMG_20180228_131959.jpg
+│   │   ├── 📄 IMG_20180228_124835.jpg
+│   │   ├── 📄 IMG_20180228_121557.jpg
+│   │   └── 📄 tp1_act.pdf
+│   └── 📁 tp2/
+│       ├── 📄 IMG_20180321_105128.jpg
+│       ├── 📄 IMG_20180321_105122.jpg
+│       ├── 📄 IMG_20180321_105108.jpg
+│       └── 📄 tp2_act.pdf
+├── 📄 Programme_Actionneurs.pdf
+├── 📁 cours/
+│   ├── 📄 2# Actionneurs Electriques.pdf
+│   ├── 📄 3# Actionneurs pneumatiques.pdf
+│   ├── 📄 RésuméMoteurAsynchrone.pdf
+│   └── 📄 1# Introduction.pdf
+├── 📁 td/
+│   ├── 📄 Série_1_corrigé_2.pdf
+│   ├── 📄 Série_3_corrigée.pdf
+│   ├── 📄 Série_1.pdf
+│   ├── 📄 Série_2_corrigée_exercices_5-8.pdf
+│   ├── 📄 10 exercices corrigés sur le moteur asynchrone.pdf
+│   ├── 📄 Série_2.pdf
+│   └── 📄 Série_1_corrigé_1.pdf
+└── 📁 EF/
+    ├── 📄 EF2018.pdf
+    ├── 📄 EF2017.pdf
+    └── 📄 EF2017_Corrigé.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Actionneurs (électriques-pneu-hydrau..)
+═════════════════════════════════════

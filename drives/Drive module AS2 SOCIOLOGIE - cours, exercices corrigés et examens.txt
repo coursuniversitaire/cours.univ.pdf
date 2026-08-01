@@ -1,0 +1,76 @@
+📚 MODULE : AS2 SOCIOLOGIE                            
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module AS2 SOCIOLOGIE.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 AS2 SOCIOLOGIE/
+└── 🔗📁 Las2 Sociologie (2022-2023)/  (raccourci)
+    ├── 📄 Méthode fiche de lecture.pdf
+    ├── 📄 Fiche aide CM.odt
+    ├── 📄 méthode bibliographie.pdf
+    ├── 📁 Exam socio 2023-2024/
+    │   ├── 📄 Épreuves anglais S2 lvl B1.pdf
+    │   ├── 📄 Sujet UE401.pdf
+    │   ├── 📄 Sujet UE405 TD.pdf
+    │   ├── 📄 Sujet UE404.pdf
+    │   ├── 📄 Sujet UE305 TD Rodriguez.pdf
+    │   ├── 📄 Sujet UE301.pdf
+    │   └── 📄 Sujet UE304 (1).pdf
+    ├── 📁 S2/
+    │   ├── 📄 Modèle de fiche de lecture.pdf
+    │   ├── 📄 EDT.odt
+    │   ├── 📁 Entretien/
+    │   │   ├── 📄 Dossier rendu.pdf
+    │   │   └── 📄 Hortense Ladousse Dossier final TD 402.pdf
+    │   ├── 📁 APE/
+    │   │   └── 📄 Dossier rendu.pdf
+    │   ├── 📁 Changement social et mobilités/
+    │   │   ├── 📄 Fiche.odt
+    │   │   ├── 📄 SED 2022-2023.pdf
+    │   │   └── 📄 Sujet partiel.pdf
+    │   └── 📁 Sociologie et questions contemporaines/
+    │       ├── 📄 Sujet exam.doc
+    │       ├── 📄 Fiche_Les banlieues.pdf
+    │       ├── 📄 Fiche_Le handicap.pdf
+    │       └── 📄 SED.pdf
+    └── 📁 S1/
+        ├── 📁 Observation/
+        │   ├── 📄 Consignes dossier final
+        │   ├── 📄 Dossier final observation_Flavia.pdf
+        │   ├── 📄 Dossier intermédiaire rendu.pdf
+        │   └── 📄 DM1 observation final .pdf
+        ├── 📁 Méthodes quanti/
+        │   ├── 📄 fiche_recap_r_pearson.pdf
+        │   ├── 📄 fiche_recap_dependance qualitative.pdf
+        │   ├── 📄 fiche_recap_khi2.pdf
+        │   └── 📄 fiche_1_presentation tableau.pdf
+        ├── 📁 Précurseurs et fondateurs/
+        │   ├── 📄 prise de note TD 301 Marcelle Duc.pdf
+        │   ├── 📄 SED 2022-2023.pdf
+        │   ├── 📄 Exam P&F 2022-2023.pdf
+        │   ├── 📄 SED 2021-2022.pdf
+        │   ├── 📄 TD_Récap des textes.odt
+        │   ├── 📄 Fiches auteurs, courants.odt
+        │   └── 📄 CM fiche.odt
+        └── 📁 Sociologie et questions contempo/
+            ├── 📄 Fiche de cours_Thématique 3.pdf
+            ├── 📄 Fiche résumée_Société et politique au prisme des mobilisations sociales.pdf
+            ├── 📄 Méthodologie de la dissertation.pdf
+            ├── 📄 SED 2021-2022.pdf
+            ├── 📄 Fiche cours_ Nouvelles formes de sociabilité.pdf
+            ├── 📄 SO00304V-IRIS-SI-22-23.pdf
+            └── 📄 Fiche de cours_ Stratification et classes sociales.pdf
+
+═════════════════════════════════════
+  Fin du fichier · AS2 SOCIOLOGIE
+═════════════════════════════════════

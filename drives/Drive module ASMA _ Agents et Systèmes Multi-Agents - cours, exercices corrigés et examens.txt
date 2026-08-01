@@ -1,0 +1,57 @@
+📚 MODULE : ASMA _ Agents et Systèmes Multi-Agents    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module ASMA _ Agents et Systèmes Multi-Agents.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 ASMA _ Agents et Systèmes Multi-Agents/
+├── 📄 Cour ASMA 2022.pdf
+├── 📄 Cours_ASMA.pdf
+├── 📁 TDs corrigés/
+│   ├── 📁 TD 4/
+│   │   └── 📄 1651874189385.jpeg
+│   ├── 📁 TD 2/
+│   │   ├── 📄 IMG_3624.jpg
+│   │   ├── 📄 IMG_3623.jpg
+│   │   └── 📄 Fiche de TD SMA N°2.pdf
+│   ├── 📁 TD 3/
+│   │   ├── 📄 IMG_3622.jpg
+│   │   ├── 📄 Compléments aide pour faire la fiche N°3.pdf
+│   │   └── 📄 Fiche de TD ASMA N°3.pdf
+│   └── 📁 TD 1/
+│       ├── 📄 Fiche TD.pdf
+│       ├── 📄 Exo 3 [ Corrigé ].pdf
+│       └── 📄 Exo 1 & 2 [ Corrigé ].pdf
+├── 📁 test/
+│   ├── 📄 Corrigé test ASMA 21_22.jpg
+│   └── 📄 Test ASMA 21_22.pdf
+├── 📁 Exams/
+│   ├── 📄 Examen.jpg
+│   ├── 📁 2017/
+│   │   ├── 📄 Examen_2017_1.pdf
+│   │   ├── 📄 2017.pdf
+│   │   └── 📄 Rattrapage_2017.jpg
+│   └── 📁 2018/
+│       ├── 📄 33709770_568524870197552_7850706652331245568_n.jpg
+│       ├── 📄 Examen 2018 c.pdf
+│       ├── 📄 33689260_568525010197538_31150147962404864_n.jpg
+│       ├── 📄 33676284_568525186864187_8764889221514133504_n.jpg
+│       └── 📄 33763568_568525316864174_8323637522907267072_n.jpg
+└── 📁 Cour/
+    ├── 📄 Les performatifs KQML.pdf
+    ├── 📄 Chapitre 3 Communications des agents.pdf
+    ├── 📄 Chapitre 1 ASMA 2021.pdf
+    └── 📄 Chapitre 2_SMA_M1.pdf
+
+═════════════════════════════════════
+  Fin du fichier · ASMA _ Agents et Systèmes Multi-Agents
+═════════════════════════════════════

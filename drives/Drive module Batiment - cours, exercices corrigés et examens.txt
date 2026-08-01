@@ -1,0 +1,70 @@
+📚 MODULE : Batiment                                  
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Batiment.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Batiment/
+├── 📄 Bâtiment_TD_6.pdf
+├── 📄 DEVOIR MAISON N°2.pdf
+├── 📄 DTR BC 2.2 Charges Permanantes Charges d'Exploitation.pdf
+├── 📄 Exercice N_1 de l'Examen Final 2019-2020.pdf
+├── 📄 EXERCICE N_1a.pdf
+├── 📄 EXERCICE N_1b.pdf
+├── 📄 Exercice N°2 de l'Examen Final 2019-2020.pdf
+├── 📄 EXERCICE N°6.pdf
+├── 📄 Exercice- Descente de charges.pdf
+├── 📄 Lexique du Management de Projet et R_glementation.pdf
+├── 📄 Lexique les escaliers.pdf
+├── 📄 Lexique Les planchers.pdf
+├── 📄 Solution Exo 4 Interro 2 (2020-2021).pdf
+├── 📄 TD_4_BATIMENT.pdf
+├── 📄 TD_7_BATIMENT.pdf
+└── 📁 Cours/
+    ├── 📄 CHAPITRE 1 - R_sum_ pour _tudiants.pdf
+    ├── 📄 CHAPITRE 2 - Annexe A.pdf
+    ├── 📄 CHAPITRE 2 - Annexe B.pdf
+    ├── 📄 CHAPITRE 2 - Annexe C.pdf
+    ├── 📄 CHAPITRE 2 - Annexe D.pdf
+    ├── 📄 CHAPITRE 2 - R_sum_ pour _tudiants.pdf
+    ├── 📄 CHAPITRE 3 - Annexe A.pdf
+    ├── 📄 CHAPITRE 3 - R_sum_ pour _tudiants.pdf
+    ├── 📄 CHAPITRE 4 - Annexe A.pdf
+    ├── 📄 CHAPITRE 4 - Annexe B.pdf
+    ├── 📄 CHAPITRE 4 - Annexe C.pdf
+    ├── 📄 CHAPITRE 4 - R_sum_ pour _tudiants.pdf
+    ├── 📄 CHAPITRE 5 - Annexe A.pdf
+    ├── 📄 CHAPITRE 5 - Annexe B.pdf
+    ├── 📄 CHAPITRE 5 - Annexe C.pdf
+    ├── 📄 CHAPITRE 5 - Annexe D.pdf
+    ├── 📄 CHAPITRE 5 - Annexe E.pdf
+    ├── 📄 CHAPITRE 5.1 - R_sum_ pour _tudiants.pdf
+    ├── 📄 CHAPITRE 5.2 - R_sum_ pour _tudiants.pdf
+    ├── 📄 CHAPITRE 6 - Annexe A.pdf
+    ├── 📄 CHAPITRE 6 - Annexe B.pdf
+    ├── 📄 CHAPITRE 6 - Annexe C.pdf
+    ├── 📄 CHAPITRE 6 - R_sum_ pour _tudiants.pdf
+    ├── 📄 CHAPITRE 7 - Annexe A.pdf
+    ├── 📄 CHAPITRE 7 - R_sum_ pour _tudiants.pdf
+    ├── 📄 CHAPITRE 8 - Annexe A.pdf
+    ├── 📄 CHAPITRE 8 - Annexe B.pdf
+    ├── 📄 CHAPITRE 8- R_sum_ pour _tudiants.pdf
+    ├── 📄 CHAPITRE 9 - Annexe A.pdf
+    ├── 📄 CHAPITRE 9 - Annexe B.pdf
+    ├── 📄 CHAPITRE 9 - Annexe C.pdf
+    ├── 📄 CHAPITRE 9 - Annexe D.pdf
+    ├── 📄 CHAPITRE 9 - Annexe E.pdf
+    └── 📄 CHAPITRE 9 - R_sum_ pour _tudiants.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Batiment
+═════════════════════════════════════

@@ -1,0 +1,92 @@
+📚 MODULE : Administration des SI                     
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Administration des SI.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Administration des SI/
+├── 🔗📁 ADM SI/  (raccourci)
+│   ├── 📁 SOLUTION TD/
+│   │   └── 📄 Corrigé_TD1 (1) (1).pdf
+│   ├── 📁 SUJETS/
+│   │   ├── 📄 SI.pdf
+│   │   ├── 📄 TOUT_CE_QUI_CONCERNE_LES_ERP.pdf
+│   │   ├── 📄 QST_D_COURS.pdf
+│   │   ├── 📄 qlq_qst_sur_erp.pdf
+│   │   ├── 📄 Examen_2022-2023.pdf
+│   │   ├── 📄 EXAMEN_2021_corrige_type_2.pdf
+│   │   ├── 📄 EXAMEN-ADMIN-SI-2022-corrige-type_1.pdf
+│   │   ├── 📄 ASI2023-2024ExamenMachiRattrapage.pdf
+│   │   ├── 📄 Intero ADM SI (1).pdf
+│   │   ├── 📄 Exo 2 intero 2022_23.jpeg
+│   │   ├── 📄 EXAMEN-ADMIN-SI-2022-corrige-type.pdf
+│   │   ├── 📄 CORRIGE_EXAMEN_ADMSI.pdf
+│   │   └── 📄 Intero ADM SI.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 série 2.pdf
+│   │   ├── 📄 Intero ADM SI.pdf
+│   │   ├── 📄 série 3 (1).pdf
+│   │   ├── 📄 série 4.pdf
+│   │   ├── 📄 TD-1-ADM-SI.pdf
+│   │   ├── 📄 TD4 (2).docx
+│   │   ├── 📄 TD2 (2).docx
+│   │   ├── 📄 TD3 (2).docx
+│   │   └── 📄 TD1 (2).docx
+│   └── 📁 COURS/
+│       ├── 📄 Chapitre 4 CMS.pdf
+│       ├── 📄 Chapitre-3-Les ERPs (1).pdf
+│       ├── 📄 Chapitre 2 (3).pdf
+│       ├── 📄 Chapitre-1-ADM-SI (1).pdf
+│       ├── 📄 II Modélisation dimensionnelle (2).pptx
+│       ├── 📄 cours_ERP_PGI_2010.pdf
+│       └── 📁 RESUME/
+│           └── 📄 RESUME ADM SI.pdf
+└── 📁 ADM SI/
+    ├── 📁 COURS/
+    │   ├── 📄 Chapitre 4 CMS.pdf
+    │   ├── 📄 Chapitre-3-Les ERPs (1).pdf
+    │   ├── 📄 Chapitre 2 (3).pdf
+    │   ├── 📄 Chapitre-1-ADM-SI (1).pdf
+    │   ├── 📄 II Modélisation dimensionnelle (2).pptx
+    │   ├── 📄 cours_ERP_PGI_2010.pdf
+    │   └── 📁 RESUME/
+    │       └── 📄 RESUME ADM SI.pdf
+    ├── 📁 SOLUTION TD/
+    │   └── 📄 Corrigé_TD1 (1) (1).pdf
+    ├── 📁 SUJETS/
+    │   ├── 📄 SI.pdf
+    │   ├── 📄 TOUT_CE_QUI_CONCERNE_LES_ERP.pdf
+    │   ├── 📄 QST_D_COURS.pdf
+    │   ├── 📄 qlq_qst_sur_erp.pdf
+    │   ├── 📄 Examen_2022-2023.pdf
+    │   ├── 📄 EXAMEN_2021_corrige_type_2.pdf
+    │   ├── 📄 EXAMEN-ADMIN-SI-2022-corrige-type_1.pdf
+    │   ├── 📄 ASI2023-2024ExamenMachiRattrapage.pdf
+    │   ├── 📄 Intero ADM SI (1).pdf
+    │   ├── 📄 Exo 2 intero 2022_23.jpeg
+    │   ├── 📄 EXAMEN-ADMIN-SI-2022-corrige-type.pdf
+    │   ├── 📄 CORRIGE_EXAMEN_ADMSI.pdf
+    │   └── 📄 Intero ADM SI.pdf
+    └── 📁 TD/
+        ├── 📄 série 2.pdf
+        ├── 📄 Intero ADM SI.pdf
+        ├── 📄 série 3 (1).pdf
+        ├── 📄 série 4.pdf
+        ├── 📄 TD-1-ADM-SI.pdf
+        ├── 📄 TD4 (2).docx
+        ├── 📄 TD2 (2).docx
+        ├── 📄 TD3 (2).docx
+        └── 📄 TD1 (2).docx
+
+═════════════════════════════════════
+  Fin du fichier · Administration des SI
+═════════════════════════════════════

@@ -1,0 +1,90 @@
+📚 MODULE : béton précontraint                        
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module béton précontraint.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 béton précontraint/
+├── 🔗📁 Béton précontraint /  (raccourci)
+│   ├── 📁 Pour l'examen/
+│   │   ├── 📄 application.pdf
+│   │   └── 📄 Pertes de charges.pdf
+│   ├── 📁 Documents supplémentaires/
+│   │   ├── 📄 béton précontraint_poste tension (3).docx
+│   │   ├── 📄 Mini projet.pdf
+│   │   ├── 📄 projet bp 1.pptx
+│   │   ├── 📄 béton précontraint_poste tension.pptx
+│   │   ├── 📄 HISTORIQUE BP.pdf
+│   │   ├── 📄 Béton Précontraint (4).pptx
+│   │   └── 📄 Théme-4-BP PPT.pdf
+│   ├── 📁 Enregistrements /
+│   │   └── 📄 Cours N°01 Généralités 2021-05-01.mkv
+│   ├── 📁 TD/
+│   │   ├── 📄 Formulaire BP.pdf
+│   │   ├── 📄 - TD N°4.pdf
+│   │   ├── 📄 - TD N°3 Vérification contraintes classe 3.pdf
+│   │   ├── 📄 - TD N°2 Les Pertes.pdf
+│   │   └── 📄 - TD N°1 Etude d'un tracé parabolique.pdf
+│   └── 📁 Cours /
+│       ├── 📄 Beton_precontraint cours selon euro code.pdf
+│       ├── 📄 Chapitre3 - Les pertes de tension de précontrainte (1).pdf
+│       ├── 📄 Chapitre 2 - Matériaux (5).pdf
+│       └── 📄 Chapitre 1 - Le Béton Précontraint (1).pdf
+├── 🔗📁 béton précontraint/  (raccourci)
+│   ├── 📁 TD/
+│   │   ├── 📄 TD beton precontrainte.pdf
+│   │   └── 📁 TD/
+│   │       ├── 📄 326292780_1674797552975257_7215851312423466838_n.jpg
+│   │       ├── 📄 324536063_1416408322230052_7855499561671985523_n.jpg
+│   │       ├── 📄 325373606_909813123539311_4157774045170718696_n.jpg
+│   │       ├── 📄 325185622_504333811812187_4432533054537345687_n.jpg
+│   │       ├── 📄 325029025_1316054159185729_6548285058913900846_n.jpg
+│   │       ├── 📄 324602702_516053243968989_7895030077880676410_n.jpg
+│   │       ├── 📄 325004414_510646391228782_243371093428842460_n.jpg
+│   │       ├── 📄 324937235_1421939201948940_7830443974460550180_n.jpg
+│   │       ├── 📄 325288089_1360751294686246_5008585688164552543_n.jpg
+│   │       ├── 📄 326231387_1226127687977680_5861419086466647656_n.jpg
+│   │       ├── 📄 324520165_743397370481053_6031763279015007740_n.jpg
+│   │       └── 📄 324659383_1444256839715051_6107964036666295907_n.jpg
+│   └── 📁 cours/
+│       ├── 📄 Chapitre 4 BP Structure.pdf
+│       ├── 📄 Chapitre 3 BP Structure.pdf
+│       ├── 📄 Chapitre 2 BP Structure.pdf
+│       └── 📄 Chapitre 1 BP Structure.pdf
+├── 🔗📁 Béton précontraint /  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+└── 📁 Béton précontraint /
+    ├── 📁 Cours /
+    │   ├── 📄 Beton_precontraint cours selon euro code.pdf
+    │   ├── 📄 Chapitre3 - Les pertes de tension de précontrainte (1).pdf
+    │   ├── 📄 Chapitre 2 - Matériaux (5).pdf
+    │   └── 📄 Chapitre 1 - Le Béton Précontraint (1).pdf
+    ├── 📁 Pour l_examen/
+    │   ├── 📄 application.pdf
+    │   └── 📄 Pertes de charges.pdf
+    ├── 📁 Documents supplémentaires/
+    │   ├── 📄 béton précontraint_poste tension (3).docx
+    │   ├── 📄 Mini projet.pdf
+    │   ├── 📄 projet bp 1.pptx
+    │   ├── 📄 HISTORIQUE BP.pdf
+    │   ├── 📄 Béton Précontraint (4).pptx
+    │   └── 📄 Théme-4-BP PPT.pdf
+    └── 📁 TD/
+        ├── 📄 Formulaire BP.pdf
+        ├── 📄 - TD N°4.pdf
+        ├── 📄 - TD N°3 Vérification contraintes classe 3.pdf
+        ├── 📄 - TD N°2 Les Pertes.pdf
+        └── 📄 - TD N°1 Etude d_un tracé parabolique.pdf
+
+═════════════════════════════════════
+  Fin du fichier · béton précontraint
+═════════════════════════════════════

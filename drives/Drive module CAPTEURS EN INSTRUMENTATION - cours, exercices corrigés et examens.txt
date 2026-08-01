@@ -1,0 +1,49 @@
+📚 MODULE : CAPTEURS EN INSTRUMENTATION               
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module CAPTEURS EN INSTRUMENTATION.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 CAPTEURS EN INSTRUMENTATION/
+└── 🔗📁 capteur/  (raccourci)
+    ├── 📄 IMG_20170516_090553.jpg
+    ├── 📄 IMG_20170516_090545.jpg
+    ├── 📄 td.s1.jpg
+    ├── 📄 td.jpg
+    ├── 📄 td..jpg
+    ├── 📄 td.....jpg
+    ├── 📄 IMG_20170602_004138(1).jpg
+    ├── 📄 IMG_20170602_004113(1).jpg
+    ├── 📄 IMG_20170525_104845.jpg
+    ├── 📄 IMG_20170525_104708.jpg
+    ├── 📄 IMG_20170525_104701.jpg
+    ├── 📄 FB_IMG_1493740091853.jpg
+    ├── 📄 FB_IMG_1493740079938.jpg
+    ├── 📁 تيدي كابتور/
+    │   ├── 📄 20180429_154050.jpg
+    │   ├── 📄 20180429_154044.jpg
+    │   ├── 📄 20180429_154022.jpg
+    │   ├── 📄 20180429_153932.jpg
+    │   ├── 📄 20180429_154017.jpg
+    │   ├── 📄 20180429_154008.jpg
+    │   ├── 📄 20180429_153942.jpg
+    │   ├── 📄 3.jpg
+    │   ├── 📄 2.jpg
+    │   └── 📄 1.jpg
+    └── 📁 Nouveau dossier/
+        ├── 📄 18424983_1847216158938191_1919382716285824638_n.jpg
+        ├── 📄 18402740_1847215288938278_2851427832747497314_n.jpg
+        └── 📄 18424077_1847215242271616_2531627138691204651_n.jpg
+
+═════════════════════════════════════
+  Fin du fichier · CAPTEURS EN INSTRUMENTATION
+═════════════════════════════════════

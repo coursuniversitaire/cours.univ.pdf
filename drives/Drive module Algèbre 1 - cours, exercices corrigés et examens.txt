@@ -1,0 +1,366 @@
+📚 MODULE : Algèbre 1                                 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Algèbre 1.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Algèbre 1/
+├── 🔗📁 [J.M.Monier]_algèbre_MP1(BookFi).pdf/  (raccourci)
+├── 🔗📁 Algèbre 1 FST/  (raccourci)
+│   ├── 📁 TD & Exercices/
+│   │   ├── 📄 Exercices Applications lineaires matrices determinants Laine-Algèbre 1
+│   │   ├── 📄 Exercices Applications lineaires matrices determinants Laine-Algèbre 1
+│   │   ├── 📄 Exercices Applications lineaires matrices determinants Laine-Algèbre 1
+│   │   ├── 📄 Exercices Applications lineaires matrices determinants Laine-Algèbre 1
+│   │   ├── 📄 Exercices sur les Espaces Vectoriels de Pascal Laine-Algèbre 1
+│   │   ├── 📄 Exercices Mathématiques Hassan II FST Applications linéaires-Algèbre 1
+│   │   ├── 📄 exercices correction polynomes division pgcd fst mohammedia-Algèbre 1
+│   │   ├── 📄 TD 3 Corrigé Polynômes et fractions rationnelles Maths S1-Algèbre 1
+│   │   ├── 📄 Feuille d exercices sur les espaces vectoriels Pascal Laine-Algèbre 1
+│   │   ├── 📄 Exercices Algebre 1 Serie 1 Methode de Gauss SMPC1 2015 2016-Algèbre 1
+│   │   ├── 📄 Exercices Algebre MIPC Serie 1 FST Beni Mellal 2016 2017-Algèbre 1
+│   │   ├── 📄 Exercices Polynômes et Fractions Rationnelles FST Mohammedia-Algèbre 1
+│   │   ├── 📄 Corrigé exercices fiche sur les espaces vectoriels page 1-Algèbre 1
+│   │   ├── 📄 Exercices TD Applications Linéaires Hassan II Mohammedia-Algèbre 1
+│   │   ├── 📄 Exercices Fractions rationnelles et racines de polynômes-Algèbre 1
+│   │   ├── 📄 Exercices Polynomes et Fractions rationnelles Module M123-Algèbre 1
+│   │   └── 📄 Exercices corrigés Algèbre MIP M123 FST Mohammedia Hanine-Algèbre 1
+│   ├── 📁 Examens Corrigées/
+│   │   ├── 📄 Examen Rattrapage Algèbre 1 Chouaïb Doukkali SMPC1 2014 2015
+│   │   ├── 📄 Examens corrigés d'Algebre pour les filières SMP1 et SMC1-Algèbre 1
+│   │   ├── 📄 Examen Algebre M123 FSTM Universite Hassan II Mohammedia 2018 2019-Algèbre 1
+│   │   ├── 📄 Examen Module M123 Algèbre 1 FST Mohammedia 2021 2022
+│   │   ├── 📄 TD Espaces vectoriels Exercices Pascal lainé Série 01-Algèbre 1
+│   │   ├── 📄 FSTM Mohammedia MIP S2 ALGEBRE 1 examen corrigé 2016 2017-Algèbre 1
+│   │   ├── 📄 Examen rattrapage Mathématiques MIP Module M Juin 2022-Algèbre 1
+│   │   ├── 📄 Examen corrigé Mécanique Thermodynamique Chimie S1 SMP SMC 2009/2010-Algèbre 1
+│   │   ├── 📄 Correction d'examens Algèbre Université Chouaib Doukkali 2015 2016-Algèbre 1
+│   │   ├── 📄 Examen d essaie Algèbre SM1 SMP1 SMC1 Faculté Sciences Agadir-Algèbre 1
+│   │   ├── 📄 Examen Algèbre II Rattrapage Session Printemps 2014 SMPC S2-Algèbre 1
+│   │   ├── 📄 Examen Corrigé Algèbre II S2 SMPC 2015 2016-Algèbre 1
+│   │   ├── 📄 Examen Algebre 1 SMPC S1 Automne Univ Rabat 2014 2015-Algèbre 1
+│   │   ├── 📄 examen Algèbre Janvier UCD SMPC1 2013 2014-Algèbre 1
+│   │   ├── 📄 Examen Algèbre Rattrapage Smpc1 FS El Jadida 2011 2012-Algèbre 1
+│   │   ├── 📄 Examen Rattrapage Algèbre 1 Chouaïb Doukkali SMPC1 2014 2015
+│   │   └── 📄 Examen Algebre 1 SMPC1 Universite Chouaib Doukkali 2014 2015-Algèbre 1
+│   └── 📁 Cours/
+│       ├── 📄 Cours Résumé 1 -Les polynômes.pdf
+│       ├── 📄 Cours POLYNOM.pdf
+│       ├── 📄 Cours logig.pdf
+│       ├── 📄 Cours fonction rationelle.pdf
+│       ├── 📄 Cours Algébre-ch2.pdf
+│       └── 📄 cours-algebre.pdf
+├── 🔗📁 LIVRES_info_et_Math/  (raccourci)
+│   ├── 📄 Exos_MATHS.pdf
+│   ├── 📄 mathématique de MIP.pdf
+│   ├── 📁 INFO/
+│   │   ├── 📁 3D/
+│   │   │   ├── 📄 debutez_dans_la_3d_avec_blender.pdf
+│   │   │   ├── 📄 3D_Math_Primer_for_Graphics_and_Game_Development.pdf
+│   │   │   └── 📄 Une-map-avec-hammer.pdf
+│   │   ├── 📁 C/
+│   │   │   └── 📄 Dellanoy-C.-Exercices-en-Langage-C-Eyrolles-2007.pdf
+│   │   ├── 📁 ALGORITHMES/
+│   │   │   ├── 📄 Le leader de l_algorithmique.pdf
+│   │   │   ├── 📄 Vincent-Granet-Algorithmique-et-programmation-en-Java-4e-éd.-Cours-et-exercices-corrigés-Dunod-2014.pdf
+│   │   │   ├── 📄 Divay-M.-Algorithmes-et-structures-de-donnees-generiques_-Cours-et-exercices-corriges-en-langage-C-Dunod-2004-2.pdf
+│   │   │   └── 📄 Franck Lepoivre, Helen Kassel, Nicolas Flasque, Boris Velikson-Exercices et problèmes d_algorithmique-Dunod (2010).pdf
+│   │   ├── 📁 CODAGE DE L_INFORMATION/
+│   │   │   └── 📄 Codage de l_information.pdf
+│   │   ├── 📁 52 Livres (Anglais)/
+│   │   │   ├── 📄 Android [@Chicco Oussama].pdf
+│   │   │   ├── 📄 iOS [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Python [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Java [@Chicco Oussama].pdf
+│   │   │   ├── 📄 MongoDB [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Linux [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Algorithms [@Chicco Oussama].pdf
+│   │   │   ├── 📄 C ++ [@Chicco Oussama].pdf
+│   │   │   ├── 📄 SpringFramework [@Chicco Oussama].pdf
+│   │   │   ├── 📄 jQuery [@Chicco Oussama].pdf
+│   │   │   ├── 📄 PostgreSQL [@Chicco Oussama].pdf
+│   │   │   ├── 📄 EntityFramework [@Chicco Oussama].pdf
+│   │   │   ├── 📄 CSharp [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Hibernate [@Chicco Oussama].pdf
+│   │   │   ├── 📄 JavaScript [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Bash [@Chicco Oussama].pdf
+│   │   │   ├── 📄 LaTeX [@Chicco Oussama].pdf
+│   │   │   ├── 📄 CSS [@Chicco Oussama].pdf
+│   │   │   ├── 📄 C [@Chicco Oussama].pdf
+│   │   │   ├── 📄 DotNETFramework [@Chicco Oussama].pdf
+│   │   │   ├── 📄 AngularJS [@Chicco Oussama].pdf
+│   │   │   ├── 📄 GitNotes [@Chicco Oussama].pdf
+│   │   │   ├── 📄 ExcelVBA [@Chicco Oussama].pdf
+│   │   │   ├── 📄 PHP [@Chicco Oussama].pdf
+│   │   │   ├── 📄 HTML5 [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Haskell [@Chicco Oussama].pdf
+│   │   │   ├── 📄 HTML5Canvas [@Chicco Oussama].pdf
+│   │   │   ├── 📄 ReactNative [@Chicco Oussama].pdf
+│   │   │   ├── 📄 MicrosoftSQLServer [@Chicco Oussama].pdf
+│   │   │   ├── 📄 MATLAB [@Chicco Oussama].pdf
+│   │   │   ├── 📄 R [@Chicco Oussama].pdf
+│   │   │   ├── 📄 NodeJS [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Swift [@Chicco Oussama].pdf
+│   │   │   ├── 📄 VisualBasic_NET [@Chicco Oussama].pdf
+│   │   │   ├── 📄 ObjectiveC [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Kotlin [@Chicco Oussama].pdf
+│   │   │   ├── 📄 OracleDatabase [@Chicco Oussama].pdf
+│   │   │   ├── 📄 PowerShell [@Chicco Oussama].pdf
+│   │   │   ├── 📄 ReactJS [@Chicco Oussama].pdf
+│   │   │   ├── 📄 MySQL [@Chicco Oussama].pdf
+│   │   │   ├── 📄 XamarinForms [@Chicco Oussama].pdf
+│   │   │   ├── 📄 SQL [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Ruby [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Perl [@Chicco Oussama].pdf
+│   │   │   └── 📄 VBA [@Chicco Oussama].pdf
+│   │   ├── 📁 C++/
+│   │   │   ├── 📄 Bjarne_Stroustrup_The_C++_Programming_Language_Special_3rd_Edition.pdf
+│   │   │   └── 📄 Andrew_Koenig,_Barbara_E._Moo_Accelerated_C++_Practical_Programming_by_Example.pdf
+│   │   ├── 📁 COLLECTION ZÉRO/
+│   │   │   ├── 📄 creez_des_applications_pour_iphone_ipad_et_ipod_touch.pdf
+│   │   │   ├── 📄 (Le livre du zéro) Hilaire, Nicolas-Apprenez à développer en C_ _ la programmation en C_.net expliquée aux débutants !-Simple IT (2012).pdf
+│   │   │   ├── 📄 programmez_avec_le_langage_cpp.pdf
+│   │   │   ├── 📄 apprenez_a_programmer_en_python.pdf
+│   │   │   └── 📄 Apprenez a programmer en C, 2ème Edition.pdf
+│   │   ├── 📁 ANDROID/
+│   │   │   ├── 📄 Jonathan_Simon_Head_First_Android_Development.pdf
+│   │   │   ├── 📄 creez-des-applications-pour-android.pdf
+│   │   │   ├── 📄 Zigurd_Mednieks,_Laird_Dornin,_G._Blake_Meike,_Masumi_Nakamu_Programming_Android_Java_Programming_for_the_New_Generation_of_Mobile_Devices.pdf
+│   │   │   └── 📄 Jeff_Friesen_Learn_Java_for_Android_Development.pdf
+│   │   ├── 📁 JAVA/
+│   │   │   ├── 📄 Kathy_Sierra,_Bert_Bates_Head_First_Java,_2nd_Edition.pdf
+│   │   │   ├── 📄 C._Thomas_Wu_An_Introduction_to_Object-Oriented_Programming_with_Java.pdf
+│   │   │   ├── 📄 Herbert Schildt-Java  The Complete Reference (Ninth Edition)-McGraw-Hill (2014).pdf
+│   │   │   ├── 📄 Claude Delannoy-Exercices en Java 2e édition-Eyrolles.pdf
+│   │   │   ├── 📄 Ken_Arnold,_James_Gosling,_David_Holmes_The_JavaTM_Programming_Language_4th_Edition.pdf
+│   │   │   └── 📄 apprenez_a_programmer_en_java.pdf
+│   │   ├── 📁 SÉCURITÉ/
+│   │   │   ├── 📄 Les_virus_informatiques_Theorie_pratique_et_applications.pdf
+│   │   │   ├── 📄 Claude Pinet 10 clés pour la sécurité de linformation  ISO-CEI 27001.pdf
+│   │   │   ├── 📄 metasploit2012.pdf
+│   │   │   ├── 📄 Hacking,-securite-et-tests-dintrusion-avec-Metasploit.pdf
+│   │   │   ├── 📄 EY-2015-Cyberattaques.pdf
+│   │   │   ├── 📄 ddos.pdf
+│   │   │   ├── 📄 SSTIC04-article-Brulez-Detection_virale_heuristique.pdf
+│   │   │   ├── 📄 enquete_fr.pdf
+│   │   │   ├── 📄 VirusInformatiques.pdf
+│   │   │   ├── 📄 Jon Erickson-Hacking, 2nd Edition_ The Art of Exploitation-No Starch Press (2008).pdf
+│   │   │   ├── 📄 Formation_1416910063562.pdf
+│   │   │   ├── 📄 Mesures_a_prendre_contre_les_attaques_DDoS.pdf
+│   │   │   └── 📄 NP_Guide_DDoS.pdf
+│   │   └── 📁 WEB/
+│   │       ├── 📄 309961-dynamisez-vos-sites-web-avec-javascript.pdf
+│   │       ├── 📄 147180-programmez-en-oriente-objet-en-php.pdf
+│   │       ├── 📄 285022-creez-votre-application-web-avec-java-ee.pdf
+│   │       ├── 📄 689034-simplifiez-vos-developpements-javascript-avec-jquery.pdf
+│   │       ├── 📄 realisez_votre_site_web_avec_html5_et_css3.pdf
+│   │       ├── 📄 683140-prenez-en-main-bootstrap.pdf
+│   │       ├── 📄 700664-developpez-votre-site-web-avec-le-framework-django.pdf
+│   │       ├── 📄 Bouillot, Thierry_ Nogier, Jean-François_ Leclerc, Jules Ergonomie des interfaces  Guide pratique pour la conception des applications web, logicielles, mobiles et tactiles.pdf
+│   │       ├── 📄 654205-le-javascript-moderne.pdf
+│   │       ├── 📄 36048-compteur-de-telechargements.pdf
+│   │       ├── 📄 25-conseils-pour-faire-connaitre-son-site-internet.pdf
+│   │       ├── 📄 Comment-39-blogueurs-ont-gagne-leurs-premiers-euros.pdf
+│   │       ├── 📄 html5.pdf
+│   │       ├── 📄 les-bases-du-html.pdf
+│   │       ├── 📄 88620-votre-site-php-presque-complet-architecture-mvc-et-bonnes-pratiques.pdf
+│   │       ├── 📄 370694-codeigniter-le-framework-au-service-des-zeros.pdf
+│   │       ├── 📄 69651-creer-un-espace-membre-pour-son-site.pdf
+│   │       ├── 📄 14547-un-livre-d-or.pdf
+│   │       ├── 📄 concevez_votre_site_web_avec_php_et_mysql.pdf
+│   │       ├── 📄 530449-les-applications-web-avec-javafx.pdf
+│   │       ├── 📄 675526-html5-web-workers-le-monde-parallele-du-javascript.pdf
+│   │       ├── 📄 viseo-responsive-design.pdf
+│   │       ├── 📄 761998-montez-votre-site-dans-le-cloud-avec-google-app-engine.pdf
+│   │       ├── 📄 102952-bonnes-pratiques-javascript.pdf
+│   │       ├── 📄 582312-developpez-vos-applications-web-avec-symfony2.pdf
+│   │       ├── 📄 762576-des-applications-ultra-rapides-avec-node-js.pdf
+│   │       └── 📄 704858-le-referencement-de-son-site-web.pdf
+│   ├── 📁 MATHS/
+│   │   ├── 📁 ANALYSE/
+│   │   │   ├── 📄 Exercices d_Analyse (Livre).pdf
+│   │   │   ├── 📄 Philippe-Malbos-Analyse-matricielle-et-algèbre-linéaire-appliquée-I-Lecture-notes-2013-1.pdf
+│   │   │   ├── 📄 Collectif Tous les exercices danalyse MP  2008 - El Haj Laamri_2C Philippe Chateaux_2C G_C3_A9rard Eguether_2C Marc Rezzouk_2C.pdf
+│   │   │   ├── 📄 Tauvel-P.-Analyse-complexe-pour-la-Licence-3_-Cours-et-exercices-corriges-Dunod-2006-1.pdf
+│   │   │   └── 📄 Jean_Genet__Georges_Pupion_Analyse_moderne.__Tome_1,_Espaces_métriques,_séries,_systèmes_différentiels_résumé_de_cours_et_exercices_corrigés.djvu
+│   │   └── 📁 ALGÈBRE/
+│   │       ├── 📄 Cours élémentaires mathématique supérieure.pdf
+│   │       ├── 📄 Exercices d_Algèbre 1ère année Dunod (1997).pdf
+│   │       └── 📄 Les-éditions-de-lÉcole-Polytechnique-Pierre-Colmez-Éléments-danalyse-et-dalgèbre-et-de-théorie-des-nombres-Les-éditions-de-lÉcole-Polytechnique-2009.pdf
+│   └── 📁 Des livre_cncr/
+│       ├── 📄 mathematiques-analyse-en-30-f-iches.pdf
+│       ├── 📄 jean-marie-monier-exercices-psci-ptsi.pdf
+│       └── 📄 ebook-math-fr-mathematiques-en-30-fiches-algebre-et-geometrie-l1.pdf
+├── 🔗📁 Algebre 1/  (raccourci)
+│   ├── 📁 Cours/
+│   │   ├── 📄 Chapitre 4 partie II.pdf
+│   │   ├── 📄 Chapitre 4 partie III.pdf
+│   │   ├── 📄 Chapitre 4 partie IV.pdf
+│   │   ├── 📄 Chapitre 4 partie I.pdf
+│   │   ├── 📄 Chapitre 3 partie II.pdf
+│   │   ├── 📄 Chapitre 3 partie I.pdf
+│   │   ├── 📄 Chapitre 2.pdf
+│   │   └── 📄 Chapitre 1.pdf
+│   ├── 📁 TD/
+│   │   ├── 📁 TD 14-15/
+│   │   │   ├── 📁 TD2/
+│   │   │   │   ├── 📄 Alg 1 - Correction TD 2.pdf
+│   │   │   │   └── 📄 Alg 1 - TD 2.pdf
+│   │   │   ├── 📁 TD1/
+│   │   │   │   ├── 📄 Alg 1 - TD 1.pdf
+│   │   │   │   └── 📄 Alg 1 - Correction TD 1.pdf
+│   │   │   └── 📁 TD3/
+│   │   │       └── 📄 Alg 1 - Correction TD 3.pdf
+│   │   ├── 📁 TD 12-13/
+│   │   │   ├── 📄 td4 alg1 2012 2013.pdf
+│   │   │   ├── 📄 td3 alg1 2012 2013.pdf
+│   │   │   ├── 📄 td2 alg1 2012 2013.pdf
+│   │   │   └── 📄 td1 alg1 2012 2013.pdf
+│   │   ├── 📁 TD 22-23/
+│   │   │   ├── 📁 TD2/
+│   │   │   │   └── 📄 TD 2.pdf
+│   │   │   ├── 📁 TD1/
+│   │   │   │   ├── 📄 Correction TD 1.pdf
+│   │   │   │   └── 📄 TD 1.pdf
+│   │   │   └── 📁 TD3/
+│   │   │       ├── 📄 Correction TD 3.pdf
+│   │   │       └── 📄 TD3.pdf
+│   │   ├── 📁 TD 15-16/
+│   │   │   ├── 📁 TD1/
+│   │   │   │   ├── 📄 TD 1 - Alg 1.pdf
+│   │   │   │   └── 📄 Correction TD 1 - Alg 1.pdf
+│   │   │   ├── 📁 TD3/
+│   │   │   │   ├── 📄 Correction TD 3 - Alg 1.pdf
+│   │   │   │   └── 📄 TD 3 - Alg 1.pdf
+│   │   │   └── 📁 TD2/
+│   │   │       ├── 📄 Correction TD 2 - Alg 1.pdf
+│   │   │       └── 📄 TD 2 - Alg 1.pdf
+│   │   └── 📁 TD 20-21/
+│   │       ├── 📁 TD3/
+│   │       │   ├── 📄 Correction TD 3.pdf
+│   │       │   └── 📄 TD3.pdf
+│   │       ├── 📁 TD1/
+│   │       │   ├── 📄 Correction TD 1.pdf
+│   │       │   └── 📄 TD 1.pdf
+│   │       └── 📁 TD2/
+│   │           ├── 📄 Correction TD 2.pdf
+│   │           └── 📄 TD 2.pdf
+│   └── 📁 Examen/
+│       ├── 📄 contrôle 2019-20.pdf
+│       ├── 📄 Rattrapage 2018-19.pdf
+│       ├── 📄 Correction CTRL 18 19.pdf
+│       ├── 📄 Controle 2018-19.pdf
+│       ├── 📄 CTRL 2 Alg 2011.pdf
+│       ├── 📄 CTRL 1 alg1.pdf
+│       ├── 📄 RAT alg1 2011 2012.pdf
+│       ├── 📄 CTRL 1 alg1 2012 2013.pdf
+│       ├── 📄 CTRL 1 alg1 2010.pdf
+│       ├── 📄 ctrl 1 alg 2010 2011.pdf
+│       ├── 📄 ctrl 1 alg  2011 2012.pdf
+│       ├── 📄 Corrige_du_controle_2009.pdf
+│       ├── 📄 Corrige_du_controle-rattrapage_2009.pdf
+│       ├── 📄 Corrige_du_controle_2010.pdf
+│       ├── 📄 Corrige_du_controle-rattrapage_2010.pdf
+│       ├── 📄 Alg 1 - Correction CTRL 2015.pdf
+│       ├── 📄 controle_automne_2010.pdf
+│       ├── 📄 controle_automne_2009.pdf
+│       ├── 📄 controle_rattrapage_2009.pdf
+│       ├── 📄 Alg 1 - CTRL 2015.pdf
+│       ├── 📄 controle_rattrapage_2010.pdf
+│       └── 📄 Rattrapage 2019-20.pdf
+├── 🔗📁 [M123] Algèbre 1/  (raccourci)
+│   ├── 📁 [M123] Bonus/
+│   │   └── 📄 01_Les_Matrices_cours.pdf
+│   ├── 📁 [M123] TD/
+│   │   ├── 📄 exercices_corriges_espaces_vectoriels pour les revisions dexamen.pdf
+│   │   ├── 📄 exercices_corriges_application_lineaire_et_determinants (1).pdf
+│   │   ├── 📄 FICHE 3 - APPLICAIONS LINEAIRES.pdf
+│   │   ├── 📄 Corrigé de la fiche 3 -  Applications linéaires - Ex.1 à Ex.6.pdf
+│   │   ├── 📄 Corrigé de la fiche 2 - Espace vectoriel ( Exrecices 1 à 10).pdf
+│   │   ├── 📄 Exercices -  Espaces vectoriels - Applications linéaires.pdf
+│   │   ├── 📄 Corrigé FICHE 1 FRACTIONS RATIONNELLES (la suite).pdf
+│   │   ├── 📄 Corrigé de la Fiche 1 polynome (full).pdf
+│   │   ├── 📄 Polynôme-Exercices et correction.pdf
+│   │   ├── 📄 TD_3_Polynomes 2021.pdf
+│   │   └── 📄 corriger fiche N°1 polynômes et fractions rationnelles.pdf
+│   ├── 📁 [M123] Archive/
+│   │   ├── 📄 ratt m123 2022.pdf
+│   │   ├── 📄 Examen-M123-2023.pdf
+│   │   ├── 📄 Examen juin 2018.pdf
+│   │   ├── 📄 exercices_corriges_espaces_vectoriels pour les revisions dexamen.pdf
+│   │   └── 📄 M123 - Archive.pdf
+│   └── 📁 [M123] Cours/
+│       ├── 📄 Algèbre-Polynôme-version 2.pdf
+│       └── 📄 Cours-alg-linéaire-HANINE-2021-2022.pdf
+├── 🔗📁 °SMAI ALGEBRE1/  (raccourci)
+│   ├── 📄 +COURS SMAI ALGEBRE1 FSAC-CASABLANCA.pdf
+│   ├── 📄 +COURS SMAI ALGEBRE1 FSA-AGADIR 21-22.pdf
+│   ├── 📄 +COURS SMAI ALGEBRE1 FSA-AGADIR 20-21.pdf
+│   ├── 📄 °TDs SMAI ALGEBRE1 2020–2021 FSSM-MARRAKECH.pdf
+│   ├── 📄 °TDs SMAI ALGEBRE1 2020–2021 FSM-MEKNES.pdf
+│   ├── 📄 °TDs SMAI ALGEBRE1 2018–2019 FSJ-ELJADIDA.pdf
+│   ├── 📄 °TDs SMAI ALGEBRE1 2017–2018 FSJ-ELJADIDA.pdf
+│   ├── 📄 °TDs SMAI ALGEBRE1 2010–2011 FSJ-ELJADIDA.pdf
+│   ├── 📄 °TDs SMAI ALGEBRE1 2009–2010 FSJ-ELJADIDA.pdf
+│   ├── 📄 °TDs SMAI ALGEBRE1 20–21 FSDM-FES.pdf
+│   ├── 📄 °TDs SMAI ALGEBRE1 20–21 FSBM-CASABLANCA.pdf
+│   ├── 📄 °TDs SMAI ALGEBRE1 20–21 FSAC-CASABLANCA.pdf
+│   ├── 📄 °TDs SMAI ALGEBRE1 20–21 FPL-LARACHE.pdf
+│   ├── 📄 °TDs EXAMENS SMAI ALGEBRE1 FSDM-FES.pdf
+│   ├── 📄 °TDs EXAMENS SMAI ALGEBRE1 FSA-AGADIR.pdf
+│   ├── 📄 °TDs EXAMENS SMAI ALGEBRE1 20–21 FSO-OUAJDA.pdf
+│   ├── 📄 °TDs EXAMENS SMAI ALGEBRE1 20–21 FPK-KHOURIBGHA.pdf
+│   ├── 📄 °TDs EXAMENS SMAI ALGEBRE S1  FST-TETOUAN.pdf
+│   └── 📄 2022 SABOR.PNG
+├── 📁 Algèbre By ExoSup.com/
+│   ├── 📄 polynomecrs By ExoSup.com.pdf
+│   ├── 📄 polyfrac By ExoSup.com.pdf
+│   ├── 📄 espvect By ExoSup.com.pdf
+│   ├── 📄 relationdequivalencerelationdordre By ExoSup.com.pdf
+│   ├── 📄 ensembles20structures20algebriques By ExoSup.com.pdf
+│   ├── 📄 MATRICES By ExoSup.com.PDF
+│   ├── 📁 Algèbre séries et controles By ExoSup.com/
+│   │   ├── 📄 Control 2 2011 By ExoSup.com.png
+│   │   ├── 📄 Controle 1 2006 By ExoSup.com.png
+│   │   ├── 📄 Série 5 2010 By ExoSup.com.png
+│   │   ├── 📄 Série 3 2010 By ExoSup.com.png
+│   │   ├── 📄 Série 2 2010 By ExoSup.com.png
+│   │   ├── 📄 Controle 1 2010 By ExoSup.com.png
+│   │   ├── 📄 Controle 1 2010 bis By ExoSup.com.png
+│   │   ├── 📄 Controle 1 2011 By ExoSup.com.png
+│   │   └── 📄 Rattrapage 2012 By ExoSup.com.png
+│   └── 📁 Coltroles By ExoSup.com/
+│       ├── 📄 Corrige_du_controle-rattrapage_2010 By ExoSup.com.pdf
+│       ├── 📄 controle_automne_2010 By ExoSup.com.pdf
+│       ├── 📄 Corrige_du_controle-rattrapage_2009 By ExoSup.com.pdf
+│       ├── 📄 Corrige_du_controle_2009 By ExoSup.com.pdf
+│       ├── 📄 controle_rattrapage_2010 By ExoSup.com.pdf
+│       ├── 📄 controle_automne_2009 By ExoSup.com.pdf
+│       ├── 📄 controle_rattrapage_2009 By ExoSup.com.pdf
+│       └── 📄 Corrige_du_controle_2010 By ExoSup.com.pdf
+├── 📁 cours/
+│   ├── 📄 cour algèbre S1 By ExoSup.com.pdf
+│   └── 📄 chap.I.pdf
+└── 📁 exercices/
+    ├── 📄 Espaces vectoriels.pdf
+    ├── 📄 Espaces vectoriels - Familles de vecteurs.pdf
+    ├── 📄 28-espaces-vectoriels-corrige.pdf
+    ├── 📄 Structures algébriques - Lois de composition interne.pdf
+    ├── 📄 Espaces vectoriels - Somme d_un nombre fini de sous-espaces.pdf
+    ├── 📄 Structures algébriques - Sous-groupes.pdf
+    ├── 📄 Structures algébriques - Groupes.pdf
+    ├── 📄 Espaces de dimension finie - Bases en dimension finie.pdf
+    └── 📄 Espaces vectoriels - Structure d_espace vectoriel.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Algèbre 1
+═════════════════════════════════════

@@ -1,0 +1,38 @@
+📚 MODULE : Big Data-Data warehouse                   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Big Data-Data warehouse.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Big Data-Data warehouse/
+├── 📄 syllabus DWH.pdf
+├── 📄 COUR1-DWH.pdf
+├── 📄 solution examenDWH22.pdf
+├── 📄 COUR-6_SID2021.pdf
+├── 📄 COUR-4_SID2021.pdf
+├── 📄 MicroInterro.pdf
+├── 📄 examenDWH22.pdf
+├── 📄 TD N°4 DWH  Solution glouton Algorithm.pdf
+├── 📄 SOLUTION TD N°3 DWH datalog.pdf
+├── 📄 enoncé TPN°1 DWH.pdf
+├── 📄 COUR-5_SID2021.pdf
+├── 📄 COURS-2_SID2021.pdf
+├── 📄 TD  N°3 DWH  datalog.pdf
+├── 📄 COURS-3_SID2021.pdf
+├── 📄 Solution TD N°2  DWH.pdf
+├── 📄 Serie de TD N1 DWH.pdf
+├── 📄 Serie de TD N2 DWH.pdf
+└── 📄 solution TD N°1 DW.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Big Data-Data warehouse
+═════════════════════════════════════

@@ -1,0 +1,39 @@
+📚 MODULE : Algorithmique Répartie                    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Algorithmique Répartie.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Algorithmique Répartie/
+└── 🔗📁 Algo Répartie/  (raccourci)
+    ├── 📁 Livres/
+    │   ├── 📄 Poly_C_Kaiser.pdf
+    │   └── 📄 poly_initar_etudiants.pdf
+    ├── 📁 Examens/
+    │   ├── 📄 a3.jpg
+    │   ├── 📄 a2.jpg
+    │   └── 📄 a1.jpg
+    ├── 📁 Cours/
+    │   ├── 📄 Algo répartie séance du 20 juin.pdf
+    │   └── 📄 Algo répartie.pdf
+    └── 📁 TD/
+        ├── 📄 TD3 exo4.pdf
+        ├── 📄 Exercice 4 série 3.pdf
+        ├── 📄 Série 3 exercice 5 corrigé.pdf
+        ├── 📄 Série 3.pdf
+        ├── 📄 série 2 avec corrigé horloges.pdf
+        ├── 📄 TD.pdf
+        └── 📄 Série 01.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Algorithmique Répartie
+═════════════════════════════════════

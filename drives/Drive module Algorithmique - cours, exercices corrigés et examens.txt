@@ -1,0 +1,223 @@
+📚 MODULE : Algorithmique                             
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Algorithmique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Algorithmique/
+├── 🔗📁 Algorithmique et progra 2/  (raccourci)
+│   ├── 📁 [I132] Bonus/
+│   │   └── 📁 TP/
+│   │       ├── 📄 redaction.colle4.pdf
+│   │       ├── 📄 colle6-i2.jpg
+│   │       ├── 📄 colle5-i2.jpg
+│   │       ├── 📄 colle4-i2_.pdf
+│   │       ├── 📄 Colle1-i2.pdf
+│   │       ├── 📄 Idee-de-corr-colle1-i2.pdf
+│   │       ├── 📄 idee-de-corr-colle3-i2.pdf
+│   │       └── 📄 colle3-i2.pdf
+│   ├── 📁 [I132] TP/
+│   │   ├── 📄 I132 - TP 4 (Solution).pdf
+│   │   ├── 📄 I132 - TP 3 (Solution).pdf
+│   │   ├── 📄 I132 - TP 2 (Solution).pdf
+│   │   ├── 📄 I132 - TP 1 (Solution).pdf
+│   │   ├── 📄 I132 - TP 4.pdf
+│   │   ├── 📄 I132 - TP 3.pdf
+│   │   ├── 📄 I132 - TP 2.pdf
+│   │   └── 📄 I132 - TP 1.pdf
+│   ├── 📁 [I132] TD/
+│   │   ├── 📄 I132 - TD 4 (Solution).pdf
+│   │   ├── 📄 I132 - TD 3 (Solution).pdf
+│   │   ├── 📄 I132 - TD 2 (Solution).pdf
+│   │   ├── 📄 I132 - TD 1 (Solution).pdf
+│   │   ├── 📄 I132 - TD 4.pdf
+│   │   ├── 📄 I132 - TD 3.pdf
+│   │   ├── 📄 I132 - TD 2.pdf
+│   │   └── 📄 I132 - TD 1.pdf
+│   ├── 📁 [I132] Cours/
+│   │   └── 📄 Cours-Pr.Oussous.pdf
+│   └── 📁 [I132] Archive/
+│       ├── 📄 Copy of exam-2023-i2.pdf
+│       ├── 📄 corr.2023
+│       ├── 📄 I132  I133 exam 2022.pdf
+│       ├── 📄 I132 - Archive.pdf
+│       ├── 📄 exam-2023-i2.pdf
+│       └── 📄 archives de l'Info2.pdf
+├── 🔗📁 °Algorithmique2/  (raccourci)
+│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSSM MARRAKECH SMI3.pdf
+│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSDM FES SMI3.pdf
+│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSBM CASABLANCA SMI3.pdf
+│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSAC CASABLANCA SMI3.pdf
+│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSA AGADIR SMI3.pdf
+│   ├── 📄 °COURS2 ALGORITHMIQUE II FSBM CASABLANCA SMI3.pdf
+│   ├── 📄 °COURS1 ALGORITHMIQUE II FSBM CASABLANCA SMI3.pdf
+│   ├── 📄 °COURS ALGORITHMIQUE II FSSM MARRAKECH SMI3.pdf
+│   ├── 📄 °COURS ALGORITHMIQUE II FSM MEKNES SMI3.pdf
+│   ├── 📄 °COURS ALGORITHMIQUE II FSDM FES SMI3.pdf
+│   ├── 📄 °COURS ALGORITHMIQUE II FPL LARACH SMI3.pdf
+│   ├── 📄 °COURS ALGORITHMIQUE II 20 21 FST TETOUAN SMI3.pdf
+│   ├── 📄 °COURS ALGORITHMIQUE II 20 21 FSAC CASABLANCA SMI3.pdf
+│   ├── 📄 °COURS ALGORITHMIQUE II 20 21 FPK KHOURIBGHA SMI3.pdf
+│   ├── 📄 °COURS ALGORITHMIQUE II 18 19 FSA AGADIR SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FSSM MARRAKECH SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FSR RABAT 16 17 SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FSR RABAT 14 15 SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FSM MEKNES SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FSK KENITRA SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FSJ ELJADIDA SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FSDM FES SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FSBM CASABLANCA SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FSAC CASABLANCA SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FPL LARACH SMI3.pdf
+│   └── 📄 °°TDs ALGORITHMIQUE II 18 19FSA AGADIR SMI3.pdf
+├── 🔗📁 ° SMAI ALGORITHME/  (raccourci)
+│   ├── 📄 °TD EXAMENS ALGORITHMIQUE SMAI2 FPM 19-20.pdf
+│   ├── 📄 °TD ALGORITHMIQUE SMAI2 FSSM 19-20.pdf
+│   ├── 📄 °TD ALGORITHMIQUE SMAI2 FSR 19-20.pdf
+│   ├── 📄 °TD ALGORITHMIQUE SMAI2 FSJ 19-20.pdf
+│   ├── 📄 °TD ALGORITHMIQUE SMAI2 FSDM 19-20.pdf
+│   ├── 📄 °TD ALGORITHMIQUE SMAI2 FSBM 19-20.pdf
+│   ├── 📄 °TD ALGORITHMIQUE SMAI2 FSA-AGADIR 19-20.pdf
+│   ├── 📄 °TD ALGORITHMIQUE SMAI2 FPT-TAZA 19-20.pdf
+│   ├── 📄 °TD ALGORITHMIQUE SMAI2 FPO 19-20.pdf
+│   ├── 📄 °TD ALGORITHMIQUE SMAI2 FPK 19-20.pdf
+│   ├── 📄 ++ EXAMENS ALGORITHMIQUE SMAI2 FPO 19-20.pdf
+│   ├── 📄 +COURS ALGORITHMIQUE SMAI2 FSA 19-20.pdf
+│   ├── 📄 +COURS ALGORITHMIQUE SMAI2 FSAC 19-20.pdf
+│   ├── 📄 +COURS ALGORITHMIQUE SMAI2 FSBM 19-20.pdf
+│   ├── 📄 +COURS ALGORITHMIQUE SMAI2 FSDM 19-20.pdf
+│   ├── 📄 +COURS ALGORITHMIQUE SMAI2 FSJ 19-20.pdf
+│   ├── 📄 +COURS ALGORITHMIQUE SMAI2 FSO 19-20.pdf
+│   ├── 📄 +COURS ALGORITHMIQUE SMAI2 FSR 19-20.pdf
+│   └── 📄 +COURS ALGORITHMIQUE SMAI2 FSSM 19-20.pdf
+├── 📁 Algorithmique I/
+│   ├── 📄 liens utiles info.txt
+│   ├── 📁 devoirs et examens/
+│   │   ├── 📄 Correction Examen ASD1 MPI Janvier 2016 Fonctions et Gestion Fichiers C Algorithmique
+│   │   ├── 📄 Devoir surveillé Algorithmique et structures de données
+│   │   ├── 📄 Examen Algorithmique et structures de données
+│   │   ├── 📄 Correction Examen ASD1 MPI Janvier 2016 Fonctions et Gestion Fichiers C Algorithmique
+│   │   ├── 📄 Examen Module I132 Parcours MIP S3 2021 2022 Structures Employes et Pointeurs C Algorithmique
+│   │   ├── 📄 Examen Module Informatique III I133 MIP S3 2021 2022 Traite Nombres Rationnels Algorithmique
+│   │   └── 📄 Examen Module I Structures Employes et Pointeurs en C Algorithmique
+│   ├── 📁 cours/
+│   │   ├── 📄 Cours Algorithmes Structures Iteratives et Traduction en C Algorithmique
+│   │   ├── 📄 Cours Informatique Concepts Algorithmes et Variables Fondamentales Algorithmique
+│   │   ├── 📄 Chapitre 8 gestion fichiers texte et binaires en langage C pour débutants Algorithmique
+│   │   ├── 📄 Chapitre 7 Tableaux et Enregistrements Algorithmique et structures de données
+│   │   ├── 📄 Chapitre 8 gestion fichiers texte et binaires en langage C pour débutants Algorithmique
+│   │   ├── 📄 Cours Informatique Concepts Algorithmes et Variables Fondamentales Algorithmique
+│   │   ├── 📄 Cours Algorithmes Structures Iteratives et Traduction en C Algorithmique
+│   │   ├── 📄 Cours Structures conditionnelles en Algorithmique et langage C
+│   │   ├── 📄 Cours Fonctions Procedures et Decomposition en Algorithmique et C
+│   │   ├── 📄 Cours Programmation Tableaux Monodimensionnels et Dichotomiques en C Algorithmique
+│   │   ├── 📄 Cours Chaines Caractères en C et Algorithme Comparaison ASCII Fonctions scanf Algorithmique
+│   │   └── 📄 Chapitre 4 Fonctions et procédures.pdf
+│   └── 📁 TD/
+│       ├── 📄 td 1 et 2 ( avec correction).pdf
+│       ├── 📄 td 3 et 4 (avec correction).pdf
+│       ├── 📄 Exercices corrigés TD5: Les chaines de caractères 
+│       ├── 📄 Exercices corrigés TD 3: Fonctions et procédures - Algorithmique et structures de données
+│       ├── 📄 Exercices corrigés TD 7: Les fichiers - Algorithmique et structures de données
+│       ├── 📄 Exercices corrigés TD2: Structures conditionnelles et itératives Algorithmique et structures de données
+│       ├── 📄 Exercices corrigés TD 4: Les tableaux Algorithmique et structures de données
+│       ├── 📄 Exercices corrigés TD1: Concepts de base des algorithmes
+│       ├── 📄 Exercices corrigés TD5: Les chaines de caractères 
+│       ├── 📄 Exercices corrigés TD 6: Les enregistrements Algorithmique et structures de données
+│       ├── 📄 Exercices TD Algorithmique Recherche et Traitement dans les Tableaux
+│       ├── 📄 Exercices TD Algorithmique et Programmation Basique Correction Exemples Fonctions et Procedures
+│       ├── 📁 TDs corrigés fst/
+│       │   ├── 📄 Exercices corrigés TD 2 Algorithmique et programmation 2 avec pointeurs et tableaux
+│       │   ├── 📄 Exercices corrigés TD1 Algorithmique et programmation 2 nombres parfaits puissance suite recursive Fibonacci pgcd
+│       │   ├── 📄 Exercices corrigés TD4 Algorithmique et Programmation 2 Gestion Tableau Etudiants avec Structures
+│       │   ├── 📄 Exercices corrigés TD3 Algorithmique et programmation 2 gestion des rationnels et fichiers texte
+│       │   └── 📄 Exercices corrigés TD 2 Algorithmique et programmation 2 avec pointeurs et tableaux
+│       └── 📁 Exercices /
+│           ├── 📄 CORRECTION EXERCICES ALGORITHME 1 pdf
+│           ├── 📄 Exercices corrigés TD Algorithme et Boucles
+│           └── 📄 Exercices TD Algorithmique Structures Controle Conditionnelles et Repetitives GIM
+├── 📁 1-algorithme/
+│   ├── 📁 les resumes/
+│   └── 📁 des exo d'algorithme/
+│       ├── 📄 4-correction td2 de tableau.pdf
+│       ├── 📄 Exercices (Partie 1).pdf
+│       └── 📄 Exercices corrigés (Partie 1).pdf
+└── 📁 Algorithmique/
+    ├── 📄 tp1  algo et C sol.pdf
+    ├── 📄 Cours Langage C - TD-TP.pdf
+    ├── 📄 cours-tp-c.pdf
+    ├── 📄 Cours d_Informatique 1 algo ENSAF et prog.pdf
+    ├── 📁 TDs et exercices corrigés /
+    │   ├── 📁 algo 2/
+    │   │   ├── 📄 I132 - TD 1.pdf
+    │   │   ├── 📄 I132 - TD 2.pdf
+    │   │   ├── 📄 I132 - TD 3.pdf
+    │   │   ├── 📄 I132 - TD 4.pdf
+    │   │   ├── 📄 I132 - TD 1 (Solution).pdf
+    │   │   ├── 📄 I132 - TD 2 (Solution).pdf
+    │   │   ├── 📄 I132 - TD 3 (Solution).pdf
+    │   │   └── 📄 I132 - TD 4 (Solution).pdf
+    │   ├── 📁 td d'algorithme/
+    │   │   ├── 📄 td2 exo2 ;Q2.pdf
+    │   │   ├── 📄 td2 exo2 ;Q1.pdf
+    │   │   ├── 📄 td2 exo2 ;Q3.pdf
+    │   │   ├── 📄 td2 exo2 ;Q4.pdf
+    │   │   ├── 📄 td2 exo3 ;Q1.pdf
+    │   │   ├── 📄 TD2-Exercice – 4 - question_1_ corrigé.pdf
+    │   │   ├── 📄 td2 exo3 ;Q2.pdf
+    │   │   ├── 📄 td 2 corrigé ex1.pdf
+    │   │   └── 📄  algo td2.pdf
+    │   ├── 📁 Exercices/
+    │   │   ├── 📄 Copie de Correction TD1 algorithme_expo.pdf
+    │   │   ├── 📄 Copie de exercices corrigés algorithme.pdf
+    │   │   ├── 📄 Copie de TD1 Algorithme.pdf
+    │   │   ├── 📄 Copie de travaux-diriges-en-algorithmique-exercices-corriges.pdf
+    │   │   ├── 📄 EXERCICE.doc
+    │   │   ├── 📄 Plus d'ex avec corigé.pdf
+    │   │   └── 📄 TD informatique.pdf
+    │   ├── 📁 des exo d'algorithme/
+    │   │   ├── 📄 algorithme des exercices 3.pdf
+    │   │   ├── 📄 algorithme des exercices 2.pdf
+    │   │   ├── 📄  algorithme des exercices 1.pdf
+    │   │   ├── 📄 1-td1.pdf
+    │   │   ├── 📄 2-correction de td1.pdf
+    │   │   ├── 📄 3-td2 des tableaux.pdf
+    │   │   ├── 📄 4-correction td2 de tableau.pdf
+    │   │   ├── 📄 Exercices (Partie 1).pdf
+    │   │   └── 📄 Exercices corrigés (Partie 1).pdf
+    │   └── 📁 TD/
+    │       └── 📄 travaux-diriges-en-algorithmique-exercices-corriges.pdf
+    ├── 📁 Cours/
+    │   ├── 📄 Cours-Pr.Oussous.pdf
+    │   ├── 📄 Cours 2.pdf
+    │   └── 📄 Cours 1.pdf
+    └── 📁 TPs/
+        ├── 📄 I132 - TP 1.pdf
+        ├── 📄 I132 - TP 2.pdf
+        ├── 📄 I132 - TP 3.pdf
+        ├── 📄 I132 - TP 4.pdf
+        ├── 📄 I132 - TP 1 (Solution).pdf
+        ├── 📄 I132 - TP 2 (Solution).pdf
+        ├── 📄 I132 - TP 3 (Solution).pdf
+        ├── 📄 I132 - TP 4 (Solution).pdf
+        └── 📁 Colle tp/
+            └── 📁 TP/
+                ├── 📄 colle3-i2.pdf
+                ├── 📄 idee-de-corr-colle3-i2.pdf
+                ├── 📄 Idee-de-corr-colle1-i2.pdf
+                ├── 📄 Colle1-i2.pdf
+                ├── 📄 colle4-i2_.pdf
+                └── 📄 redaction.colle4.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Algorithmique
+═════════════════════════════════════

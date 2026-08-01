@@ -1,0 +1,48 @@
+📚 MODULE : Chaînes de Markov                         
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Chaînes de Markov.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Chaînes de Markov/
+├── 📁 Annales/
+│   ├── 📁 2022-2023/
+│   │   └── 📄 2022-2023 - Sujet + Corrigé CC.pdf
+│   ├── 📁 2019-2020/
+│   │   └── 📄 2019-2020 - Sujet CC.pdf
+│   ├── 📁 2017-2018/
+│   │   ├── 📄 2017-2018 - Corrigé CC.pdf
+│   │   └── 📄 2017-2018 - Sujet CC.pdf
+│   ├── 📁 2021-2022/
+│   │   └── 📄 2021-2022 - Sujet CC.pdf
+│   ├── 📁 2020-2021/
+│   │   └── 📄 2020-2021 - Sujet CC.pdf
+│   └── 📁 2018-2019/
+│       ├── 📄 2018-2019 - Sujet CC.pdf
+│       └── 📄 2018-2019 - Corrigé CC.pdf
+├── 📁 TD/
+│   ├── 📁 TD 2/
+│   │   ├── 📄 TD 2 Sujet.pdf
+│   │   └── 📁 Correction/
+│   │       ├── 📄 TD2 - 2022-2023 - Correction étudiant.pdf
+│   │       ├── 📄 Correction Exo 7.pdf
+│   │       └── 📄 Correction Exos 1-2-3-4-5-8.pdf
+│   └── 📁 TD 1/
+│       ├── 📄 TD1 - Correction étudiant.pdf
+│       ├── 📄 TD 1 Sujet.pdf
+│       └── 📄 Correction Exo 8.pdf
+└── 📁 Fiches/
+    └── 📄 MindMap - CC Chaînes de Markov.png
+
+═════════════════════════════════════
+  Fin du fichier · Chaînes de Markov
+═════════════════════════════════════

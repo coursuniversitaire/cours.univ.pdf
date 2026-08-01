@@ -1,0 +1,507 @@
+📚 MODULE : Autocad                                   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Autocad.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Autocad/
+├── 🔗📁 DAO - catia dessin assisté par ordinateur/  (raccourci)
+│   ├── 🔗📁 CAO/  (raccourci)
+│   │   ├── 📁 COURS/
+│   │   │   └── 📄 2024-2025-Poly.pdf
+│   │   ├── 📁 FICHES/
+│   │   │   └── 📄 2024-2025-Formulaire.pdf
+│   │   ├── 📁 TD/
+│   │   │   ├── 📄 2024-2025-TD-Correction.pdf
+│   │   │   └── 📄 2024-2025-TD-Sujet.pdf
+│   │   ├── 📁 ANNALES/
+│   │   │   ├── 📁 2025-2026/
+│   │   │   ├── 📁 2024-2025/
+│   │   │   │   └── 📄 2024-2025-CC-Correction.pdf
+│   │   │   └── 📁 2023-2024/
+│   │   └── 📁 Calcul matriciel - Géométrie (ancienne)/
+│   │       ├── 📁 TD/
+│   │       │   ├── 📁 Géométrie/
+│   │       │   │   ├── 📄 correc_TD1.pdf
+│   │       │   │   ├── 📄 correc_TD3.pdf
+│   │       │   │   ├── 📄 correc_TD4.pdf
+│   │       │   │   ├── 📄 correc_TD5.pdf
+│   │       │   │   ├── 📄 correc_TD2.pdf
+│   │       │   │   ├── 📄 TD_geometrie_2020-2021_correction.pdf
+│   │       │   │   ├── 📄 poly_TD_geometrie_2020-2021.pdf
+│   │       │   │   └── 📁 TD (2022-2023)/
+│   │       │   │       ├── 📄 TD6 - Approximation d'un cercle avec B-splines.pdf
+│   │       │   │       ├── 📄 TD5 - Approximation B-splines (suite).pdf
+│   │       │   │       ├── 📄 TD4 - Approximation B-spline.pdf
+│   │       │   │       ├── 📄 TD3 - Interpolation et ajustement.pdf
+│   │       │   │       ├── 📄 TD2 - AjustementLissage de données.pdf
+│   │       │   │       └── 📄 TD1 - Interpolations de données.pdf
+│   │       │   └── 📁 Calcul Matriciel/
+│   │       │       ├── 📁 TD1/
+│   │       │       │   ├── 📄 TD1_calcul_matriciel_corr_2020-2021.pdf
+│   │       │       │   └── 📄 TD1_calcul_matriciel_sujet_2020-2021.pdf
+│   │       │       ├── 📁 TD3/
+│   │       │       │   ├── 📄 TD3_calcul_matriciel_corr_2020-2021.pdf
+│   │       │       │   └── 📄 TD3_calcul_matriciel_sujet_2020-2021.pdf
+│   │       │       └── 📁 TD2/
+│   │       │           ├── 📄 TD2_calcul_matriciel_corr_2020-2021.pdf
+│   │       │           └── 📄 TD2_calcul_matriciel_sujet_2020-2021.pdf
+│   │       ├── 📁 Fiches cours/
+│   │       │   └── 📄 fiches_calcul_mat.pdf
+│   │       ├── 📁 TP/
+│   │       │   ├── 📁 Géométrie (2022-2023)/
+│   │       │   │   ├── 📄 ajustementSpline_post2.py
+│   │       │   │   ├── 📄 courbes_B_spline2.py
+│   │       │   │   ├── 📄 ajustementSpline.py
+│   │       │   │   ├── 📄 spline_MC_corr.py
+│   │       │   │   ├── 📄 courbes_B_spline.py
+│   │       │   │   └── 📄 interpolationSpline.py
+│   │       │   ├── 📁 Calc Mat (2022-2023)/
+│   │       │   │   ├── 📄 TP3_Correction.ipynb
+│   │       │   │   ├── 📄 TP2_correction.ipynb
+│   │       │   │   └── 📄 TP1_Correction.ipynb
+│   │       │   ├── 📁 Géométrie (2021-2022)/
+│   │       │   │   ├── 📄 Sujet TP4.pdf
+│   │       │   │   ├── 📁 TP2/
+│   │       │   │   │   ├── 📄 Sujet TP2.pdf
+│   │       │   │   │   └── 📄 TP2.zip
+│   │       │   │   ├── 📁 TP3/
+│   │       │   │   │   ├── 📄 Sujet TP3.pdf
+│   │       │   │   │   └── 📄 TP3.zip
+│   │       │   │   └── 📁 TP1/
+│   │       │   │       ├── 📄 TP1.zip
+│   │       │   │       └── 📄 Sujet TP1.pdf
+│   │       │   └── 📁 2020-2021/
+│   │       │       ├── 📄 eval_tp_geo.py
+│   │       │       ├── 📄 Examen_Calcul_Matriciel.ipynb
+│   │       │       └── 📄 EVALTP_2020_2021_Geo.pdf
+│   │       └── 📁 Annales/
+│   │           ├── 📄 Formulaire Géo.pdf
+│   │           ├── 📁 2022-2023/
+│   │           │   ├── 📄 2022-2023-CC-Correction.pdf
+│   │           │   └── 📄 2022-2023-CC-Sujet.pdf
+│   │           ├── 📁 2021-2022/
+│   │           │   ├── 📄 2021-2022-CC-Correction.pdf
+│   │           │   └── 📄 2021-2022-CC-Sujet.pdf
+│   │           ├── 📁 2020-2021/
+│   │           │   ├── 📄 2020-2021 - Correction.pdf
+│   │           │   └── 📄 2020-2021 - Sujet.pdf
+│   │           └── 📁 2017-2018/
+│   │               ├── 📄 2017-2018 - Correction.pdf
+│   │               └── 📄 2017-2018 - Sujet.pdf
+│   ├── 📄 Drive module DAO - catia dessin assisté par ordinateur - cours, exercices corrigés et examens.txt
+│   ├── 🔗📁 Conception et Fabrication Assistées par Ordinateur /  (raccourci)
+│   │   ├── 📁 TPs/
+│   │   │   ├── 📄 PW 09 -MILLING.pdf
+│   │   │   ├── 📄 PW 08 -MILLING.pdf
+│   │   │   ├── 📄 PW 07 -MILLING.pdf
+│   │   │   ├── 📄 PW 06 -MILLING.pdf
+│   │   │   ├── 📄 PW 05 -MILLING.pdf
+│   │   │   ├── 📄 PW 04 -TURNING.pdf
+│   │   │   ├── 📄 PW 03 -TURNING.pdf
+│   │   │   ├── 📄 PW 02 -TURNING.pdf
+│   │   │   └── 📄 PW 01 -TURNING.pdf
+│   │   └── 📁 COURS /
+│   │       ├── 📄 CFAO - CH.4 G CODE MILLING PROGRAMMING 2.pdf
+│   │       ├── 📄 CFAO - CH.4 G CODE MILLING PROGRAMMING.pdf
+│   │       ├── 📄 CFAO - CH.3 CNC MACHINES.pdf
+│   │       ├── 📄 CFAO - CH.2 ISOSTATISME.pdf
+│   │       ├── 📄 CFAO - CH.1 TURNING TOOLS.pdf
+│   │       └── 📄 CFAO - CH.1 GENERAL INFORMATION ON CNC MACHINES.pdf
+│   ├── 🔗📁 Conception Assistée par Ordinateur /  (raccourci)
+│   │   ├── 📁 TPs/
+│   │   │   ├── 📄 PW 07 - CAD 2023.pdf
+│   │   │   ├── 📄 PW 06 - CAD 2023.pdf
+│   │   │   ├── 📄 PW 05 - CAD 2023.pdf
+│   │   │   ├── 📄 PW 04 - CAD 2023.pdf
+│   │   │   ├── 📄 PW 03 - CAD 2023.pdf
+│   │   │   ├── 📄 PW 01 - CAD 2023.pdf
+│   │   │   └── 📄 PW 02 - CAD 2023.pdf
+│   │   └── 📁 Cours/
+│   │       ├── 📄 COURS-09-CAD 2023.pdf
+│   │       ├── 📄 COURS-08-CAD 2023.pdf
+│   │       ├── 📄 COURS-07-CAD 2023.pdf
+│   │       ├── 📄 COURS-06-CAD 2023.pdf
+│   │       ├── 📄 COURS-05-CAD 2023.pdf
+│   │       ├── 📄 COURS-04-CAD 2023.pdf
+│   │       ├── 📄 COURS-03-CAD 2023.pdf
+│   │       ├── 📄 COURS-02-CAD 2023.pdf
+│   │       └── 📄 COURS-01-CAD 2023.pdf
+│   ├── 🔗📁 CAO/  (raccourci)
+│   │   ├── 📄 CAO-TD1
+│   │   ├── 📄 CAO1-Chapitre 3 (Partie 1).pptx
+│   │   ├── 📄 CAO-TD1.pptx
+│   │   ├── 📄 3. Chapitre 3 (Surfaces paramétriques).pdf
+│   │   ├── 📄 4. Chapitre 4 (transformations).pdf
+│   │   ├── 📄 1. Chapitre 1 (Modeleurs).pdf
+│   │   ├── 📄 2. Chapitre 2 (Courbes paramétriques).pdf
+│   │   ├── 📄 CAO1-Chapitre 3 (Partie 2).pptx
+│   │   ├── 📄 CAO-TD3.pptx
+│   │   ├── 📄 CAO1-Chapitre 3 TD 2   le 19-5-2020.pptx
+│   │   ├── 📄 TD CAO.pdf
+│   │   └── 📄 cour CAO .pdf
+│   ├── 🔗📁 TP-FAO SolidWorks CAM/  (raccourci)
+│   │   ├── 📄 CAM-01.SLDPRT
+│   │   ├── 📄 TP-4 Préparation à la certification CAM (CSWP-CAM) .pdf
+│   │   ├── 📄 Mise en route de SolidWorks CAM.pdf
+│   │   ├── 📄 TP-3 Solidworks CAM  filetage.mp4
+│   │   ├── 📄 TP.1 Configuration de fraisage sur SolidWorks CAM.pdf
+│   │   ├── 📄 TP.2 Configuration de Tournage sur SolidWorks CAM.docx.pdf
+│   │   └── 📄 TP.3 Configuration de Filetage sur SolidWorks CAM.docx.pdf
+│   ├── 🔗📁 Dessin Technique/  (raccourci)
+│   │   ├── 📁 Interrogation/
+│   │   │   ├── 📄 Dessin Technique Controle périodique Sans Solution 2017-2018.pdf
+│   │   │   ├── 📄 Dessin Technique Interrogation Avec Solution 2019-2020 (4).pdf
+│   │   │   ├── 📄 Dessin Technique Interrogation Avec Solution 2019-2020 (3).pdf
+│   │   │   ├── 📄 Dessin Technique Interrogation Avec Solution 2019-2020 (2).pdf
+│   │   │   ├── 📄 Dessin Technique Interrogation Avec Solution 2019-2020 (1).pdf
+│   │   │   ├── 📄 Dessin Technique Interrogation Avec Solution 2018-2019 (4).pdf
+│   │   │   ├── 📄 Dessin Technique Interrogation Avec Solution 2018-2019 (3).pdf
+│   │   │   ├── 📄 Dessin Technique Interrogation Avec Solution 2018-2019 (2).pdf
+│   │   │   └── 📄 Dessin Technique Interrogation Avec Solution 2018-2019 (1).pdf
+│   │   └── 📁 Examen/
+│   │       ├── 📄 Dessin Technique Examen Sans Solution 2020-2021.pdf
+│   │       └── 📄 Dessin Technique Examen Avec Solution 2017-2018.pdf
+│   ├── 🔗📁 6# CAO (Solidworks)/  (raccourci)
+│   │   ├── 📄 3.jpg
+│   │   ├── 📄 2.jpg
+│   │   ├── 📄 1.jpg
+│   │   ├── 📁 tp5/
+│   │   │   ├── 📄 Pièce8.SLDPRT
+│   │   │   ├── 📄 Pièce6.SLDPRT
+│   │   │   ├── 📄 Pièce7.SLDPRT
+│   │   │   ├── 📄 Pièce9.SLDPRT
+│   │   │   ├── 📄 Pièce4.SLDPRT
+│   │   │   ├── 📄 Pièce5.SLDPRT
+│   │   │   ├── 📄 Pièce3.SLDPRT
+│   │   │   ├── 📄 Pièce13.SLDPRT
+│   │   │   ├── 📄 Pièce2.SLDPRT
+│   │   │   ├── 📄 Pièce10.SLDPRT
+│   │   │   ├── 📄 Pièce1.SLDPRT
+│   │   │   ├── 📄 Pièce11.SLDPRT
+│   │   │   ├── 📄 Pièce12.SLDPRT
+│   │   │   ├── 📄 OGLdpf.log
+│   │   │   ├── 📄 Assemblage1.SLDASM
+│   │   │   └── 📄 model.png
+│   │   ├── 📁 tp6/
+│   │   │   ├── 📁 tasse_2_mold/
+│   │   │   │   ├── 📄 Pièce2.sldprt
+│   │   │   │   ├── 📄 SymétriePièce2.sldprt
+│   │   │   │   ├── 📄 Pièce1.SLDPRT
+│   │   │   │   ├── 📄 Assemblage1.SLDASM
+│   │   │   │   ├── 📄 OGLdpf.log
+│   │   │   │   └── 📁 verin HK 100/
+│   │   │   │       ├── 📄 verin HK 100.JPG
+│   │   │   │       ├── 📄 corps verin HK 100.SLDPRT
+│   │   │   │       ├── 📄 verin HK 100.SLDASM
+│   │   │   │       └── 📄 axe verin HK 100.SLDPRT
+│   │   │   └── 📁 cup_mold/
+│   │   │       ├── 📄 Pièce1.SLDPRT
+│   │   │       ├── 📄 Pièce2.sldprt
+│   │   │       ├── 📄 SymétriePièce2.sldprt
+│   │   │       ├── 📄 Assemblage1.SLDASM
+│   │   │       └── 📄 OGLdpf.log
+│   │   ├── 📁 tp4/
+│   │   │   ├── 📄 Pièce1.SLDPRT
+│   │   │   ├── 📄 blocks.SLDPRT
+│   │   │   └── 📄 base_grue.SLDBLK
+│   │   ├── 📁 tp1/
+│   │   │   ├── 📄 Tutor2.SLDPRT
+│   │   │   ├── 📄 Tutor1.SLDPRT
+│   │   │   └── 📄 tuteur.SLDASM
+│   │   ├── 📁 tp2/
+│   │   │   ├── 📄 Plateau de pression.SLDPRT
+│   │   │   └── 📄 Plateau de pression.SLDDRW
+│   │   └── 📁 tp3/
+│   │       ├── 📄 Charnière.SLDPRT
+│   │       ├── 📄 Tourillon.sldprt
+│   │       ├── 📄 Charnière_1.SLDASM
+│   │       └── 📄 OGLdpf.log
+│   ├── 🔗📁 CAODAO/  (raccourci)
+│   │   ├── 📄 cours initiation EHTP Autocad.doc
+│   │   ├── 📄 AutoCAD_poly.pdf
+│   │   ├── 📄 AutoCAD2000tutorial.pdf
+│   │   └── 📁 _1GC3/
+│   │       ├── 📄 ANIBASalah_3.dwg
+│   │       ├── 📄 ANIBASalah_3.bak
+│   │       ├── 📄 ANIBASalah_3 Model (echelle 0.9.pdf
+│   │       └── 📄 acadstk.dmp
+│   ├── 🔗📁 Dessin/  (raccourci)
+│   │   └── 📄 cours autocad 2D v01.doc · version 1.docx
+│   ├── 🔗📁 DESSIN+DAO/  (raccourci)
+│   │   ├── 📁 ex tp/
+│   │   │   └── 📁 ex tp01/
+│   │   │       ├── 📄 Doc1LUYG.docx
+│   │   │       └── 📄 Doc1LUYG(1).docx
+│   │   └── 📁 DAO/
+│   │       ├── 📁 TP_04/
+│   │       │   └── 📁 Supports/
+│   │       │       ├── 📄 MF 318 corrige.pdf
+│   │       │       └── 📁 save/
+│   │       │           └── 📄 MF 318 corrige.pdf
+│   │       ├── 📁 TP_05/
+│   │       │   ├── 📁 tournage/
+│   │       │   │   ├── 📄 tr9.jpg
+│   │       │   │   └── 📄 tr4.jpg
+│   │       │   └── 📁 fraisage/
+│   │       │       ├── 📄 fr4.jpg
+│   │       │       └── 📄 fr2 m.jpg
+│   │       └── 📁 TP_01/
+│   │           └── 📁 Supports/
+│   │               └── 📄 mf116.jpg
+│   ├── 🔗📁 cao/  (raccourci)
+│   │   ├── 📄 Examen section C 2024-2025.jpg
+│   │   ├── 📄 Examen section A vague 2 2024-2025.jpg
+│   │   ├── 📄 Examen section B vague 1 2024-2025.jpg
+│   │   ├── 📄 Examen section A vague 1 2024-2025.JPG
+│   │   ├── 📄 Examen section H 2024-2025.JPG
+│   │   ├── 📄 Examen section E&F 2024-2025.JPG
+│   │   ├── 📄 Examen section D 2024-2025.JPG
+│   │   ├── 📄 Pièce 12.jpg
+│   │   ├── 📄 Pièce 11.jpg
+│   │   ├── 📄 Pièce 10.jpg
+│   │   ├── 📄 Pièce 9.jpg
+│   │   ├── 📄 Pièce 8.jpg
+│   │   ├── 📄 Pièce 7.jpg
+│   │   ├── 📄 Pièce 6.jpg
+│   │   ├── 📄 Pièce 5.jpg
+│   │   ├── 📄 CAO_Applications_Avancéees.pdf
+│   │   ├── 📄 Pièce 4.jpg
+│   │   ├── 📄 Pièce 3.jpg
+│   │   ├── 📄 Pièce 2.jpg
+│   │   ├── 📄 Pièce 1.jpg
+│   │   ├── 📄 SW TP 05_01.docx
+│   │   ├── 📄 CAO_Serie d'exercices d'application N.pdf
+│   │   ├── 📄 SW Donner les étapes de conception.pdf
+│   │   ├── 📄 Exam_CAO_Model.pdf
+│   │   ├── 📄 Serie d'exercices d'application n4.pdf
+│   │   ├── 📄 CAO_Exercices.pdf
+│   │   ├── 📄 solidworks-Premiere-Annee.pdf
+│   │   ├── 📄 etapes de conception-clé usb.jpg
+│   │   ├── 📄 Screenshot_20220422-161940_YouTube.jpg
+│   │   ├── 📄 CAO-support-SolidWorks Introduction (1).pdf
+│   │   ├── 📄 Serie d'exercices d'application n3.pdf
+│   │   ├── 📄 Fiche-Séance_04-Lissé(Loft).pdf
+│   │   ├── 📄 Outi lissage.pdf
+│   │   ├── 📄 00 CAO Quoi!! (1).pptx
+│   │   ├── 📄 CAO_Fiche-Séance_03-Balayage.pdf
+│   │   ├── 📄 Spring Conception.pdf
+│   │   ├── 📄 SW Etape de conception.pdf
+│   │   ├── 📄 Outil Balayage.pdf
+│   │   ├── 📄 SW TP 05_02.pdf
+│   │   ├── 📄 SW_Ressort Conception_Fct Balayage.pdf
+│   │   └── 📄 note.pdf
+│   ├── 🔗📁 CAODAO/  (raccourci)
+│   │   └── ⚠️  [Référence circulaire ignorée]
+│   ├── 📄 cours_de_dessin_technique.pdf
+│   ├── 📄 DAO ensembles des exercices dessin industriel corrigés.rar
+│   ├── 📄 CHARGEUR.CATPart
+│   ├── 📄 _cours DAO 3.pdf
+│   ├── 📄 exm DAO E_DESSIN_TECH_10-11.PDF
+│   ├── 📄 exm DAO 3016.pdf
+│   ├── 📁 Catia/
+│   │   ├── 📄 cours CATIA V5.pdf
+│   │   ├── 📄 TP_catiaV5_3d.pdf
+│   │   ├── 📄 TP_catiaV5_as.pdf
+│   │   └── 📄 TP_mise_en_plan2D.pdf
+│   ├── 📁 catia/
+│   │   ├── 📄 DRAFT Drawing2.CATDrawing
+│   │   ├── 📄 DRAFT Drawing1.pdf
+│   │   ├── 📄 DRAFT Drawing13.CATDrawing
+│   │   ├── 📄 DRAFT Drawing13.pdf
+│   │   ├── 📄 DRAFT Drawing14.CATDrawing
+│   │   ├── 📄 DRAFT Drawing14.pdf
+│   │   ├── 📄 DRAFT Drawing15.CATDrawing
+│   │   ├── 📄 DRAFT Drawing15.pdf
+│   │   ├── 📄 DRAFT Drawing16.CATDrawing
+│   │   ├── 📄 DRAFT Drawing16.pdf
+│   │   ├── 📄 DRAFT Drawing17.CATDrawing
+│   │   ├── 📄 DRAFT Drawing17.pdf
+│   │   ├── 📄 DRAFT Drawing1.CATDrawing
+│   │   └── 📄 assemblage.pdf
+│   └── 📁 DAO/
+│       ├── 📄 TPCATIA1.pdf
+│       ├── 📄 expl 12-2.CATPart
+│       ├── 📄 TP-catia 31.pdf
+│       ├── 📄 dessin technique1.docx
+│       ├── 📄 introduction.pptx
+│       ├── 📄 catia tp.pdf
+│       ├── 📄 expl 10-1.CATPart
+│       ├── 📄 dao 2.pdf
+│       ├── 📄 expl 12.CATPart
+│       ├── 📄 DAO Examen 2.pdf
+│       ├── 📄 expl 10.CATPart
+│       ├── 📄 expl 16.CATPart
+│       ├── 📄 TP_catia_2.pdf
+│       ├── 📄 TP-catia32.pdf
+│       ├── 📄 dao.pdf
+│       ├── 📄 projection orthogonale.docx
+│       ├── 📄 Drawing1pdf.pdf
+│       ├── 📄 résumé DAO.pdf
+│       ├── 📄 cours dessin.pdf
+│       ├── 📄 expl 7-2.CATPart
+│       ├── 📄 TP_catia_1.pdf
+│       ├── 📄 expl 12-1.CATPart
+│       ├── 📄 expl 7.CATPart
+│       ├── 📄 expl 7-1.CATPart
+│       ├── 📄 Drawing1pdf-1.pdf
+│       ├── 📄 expl 18.CATPart
+│       ├── 📁 Exercices/
+│       ├── 📁 TP DAO/
+│       │   └── 📁 GMPcad/
+│       ├── 📁 CATIA TP 2/
+│       │   ├── 📄 TP ESSAIE WISS.CATPart
+│       │   ├── 📄 QS 15.CATPart
+│       │   ├── 📄 QS14.CATPart
+│       │   ├── 📄 QS1,1.CATPart
+│       │   ├── 📄 QS17.CATPart
+│       │   ├── 📄 tp 1 QS 5.CATPart
+│       │   ├── 📄 QS 18.CATPart
+│       │   ├── 📄 QS 12.CATPart
+│       │   ├── 📄 QS13.CATPart
+│       │   ├── 📄 tp essaie.CATPart
+│       │   ├── 📄 QS 20.CATPart
+│       │   ├── 📄 QS19.CATPart
+│       │   ├── 📄 QSS19.CATPart
+│       │   ├── 📄 QS22.CATPart
+│       │   ├── 📄 QS21.CATPart
+│       │   ├── 📄 QS1,2.CATPart
+│       │   ├── 📄 tp1 QS  4.CATPart
+│       │   ├── 📄 TP-catia32.pdf
+│       │   ├── 📄 ex 1.CATPart
+│       │   ├── 📄 tp 1 QS 8.CATPart
+│       │   ├── 📄 tp1qs 9.CATPart
+│       │   ├── 📄 TP2 1.CATPart
+│       │   ├── 📄 TP 1 QS7.CATPart
+│       │   ├── 📄 QS 11.CATPart
+│       │   ├── 📄 tp 32.CATPart
+│       │   ├── 📄 tp1qs 10.CATPart
+│       │   ├── 📄 Tp1 QS 6.CATPart
+│       │   ├── 📄 QS 16.CATPart
+│       │   ├── 📄 ESSAIE 2.CATPart
+│       │   └── 📄 TP-catia 31.pdf
+│       └── 📁 CATIA crack Win32 Bit/
+│           ├── 📄 Instruction.txt
+│           ├── 📄 JS0GROUP.dll
+│           └── 📄 Part2.CATPart
+├── 🔗📁 Formation AutoCad -20260628T204904Z-3-001.zip  (raccourci)
+├── 🔗📁 Formation AutoCad /  (raccourci)
+│   ├── 📄 Bienvenue dans « L_essentiel d_AutoCAD 2018 ».mp4
+│   ├── 📁 BONUS : Formation de A a Z  construction métallique/
+│   ├── 📁 Chapitre 13 Final/
+│   │   └── 📄 Conclure sur AutoCAD 2023.mp4
+│   ├── 📁 Chapitre 12/
+│   │   ├── 📄 3-Définir l_espace papier.mp4
+│   │   ├── 📄 2-Paramétrer l_impression.mp4
+│   │   ├── 📄 1-Dessiner une pièce.mp4
+│   │   └── 📄 4-Réaliser une cotation et imprimer son projet.mp4
+│   ├── 📁 Chapitre 11/
+│   │   ├── 📄 1-Utiliser l_outil Mesurer.mp4
+│   │   ├── 📄 2-Mesurer des surfaces et des volumes.mp4
+│   │   ├── 📄 3-Utiliser la commande DI.mp4
+│   │   ├── 📄 4-Prendre en main l_outil Contour.mp4
+│   │   └── 📄 5-Découvrir la palette des propriétés.mp4
+│   ├── 📁 Chapitre 10/
+│   │   ├── 📄 1-Enregistrer un fichier AutoCAD.mp4
+│   │   ├── 📄 3-Exporter des fichiers.mp4
+│   │   ├── 📄 2-Importer des fichiers.mp4
+│   │   ├── 📄 4-Attacher une référence externe.mp4
+│   │   └── 📄 5-Gérer les références externes.mp4
+│   ├── 📁 Chapitre 9/
+│   │   ├── 📄 1-Utiliser le groupe de fonctions Nettoyer.mp4
+│   │   ├── 📄 2-Épurer un dessin.mp4
+│   │   ├── 📄 3-Purger un dessin.mp4
+│   │   ├── 📄 4-Contrôler et corriger les erreurs d_écriture de fichier.mp4
+│   │   └── 📄 5-Récupérer un dessin.mp4
+│   ├── 📁 Chapitre 8/
+│   │   ├── 📄 2-Créer un bloc simple.mp4
+│   │   ├── 📄 1-Aborder le principe de fonctionnement.mp4
+│   │   ├── 📄 3-Insérer des blocs.mp4
+│   │   ├── 📄 4-Modifier des blocs.mp4
+│   │   ├── 📄 5-Réaliser une bibliothèque de blocs.mp4
+│   │   ├── 📄 6-Créer des palettes d_outils de bloc.mp4
+│   │   └── 📄 7-Compter des blocs.mp4
+│   ├── 📁 Chapitre 7/
+│   │   ├── 📄 1-Placer les annotations.mp4
+│   │   ├── 📄 2-Définir le texte et le style de texte.mp4
+│   │   ├── 📄 4-Prendre en main les outils de cotation.mp4
+│   │   ├── 📄 3-Utiliser le texte multiligne.mp4
+│   │   ├── 📄 5-Configurer un style de cote.mp4
+│   │   ├── 📄 6-Utiliser la ligne de repère multiple.mp4
+│   │   ├── 📄 7-Créer un style de ligne de repère multiple.mp4
+│   │   ├── 📄 8-Mettre en place un tableau.mp4
+│   │   └── 📄 10-Dessiner des hachures.mp4
+│   ├── 📁 Chapitre 6/
+│   │   ├── 📄 1-Gérer les onglets de présentation.mp4
+│   │   ├── 📄 4-Gérer les échelles.mp4
+│   │   └── 📄 5-Créer des vues.mp4
+│   ├── 📁 Chapitre 5/
+│   │   ├── 📄 1-Aborder les propriétés des objets.mp4
+│   │   ├── 📄 3-Définir l_épaisseur de ligne.mp4
+│   │   ├── 📄 6-Gérer les calques.mp4
+│   │   ├── 📄 4-Appliquer une couleur de ligne.mp4
+│   │   ├── 📄 5-Comprendre la palette de propriétés.mp4
+│   │   ├── 📄 2-Gérer les types de ligne.mp4
+│   │   ├── 📄 8-Découvrir les filtres de calque.mp4
+│   │   └── 📄 9-Exploiter les calques et leurs propriétés.mp4
+│   ├── 📁 Chapitre 4/
+│   │   ├── 📄 1. Effacer des objets - AutoCAD 2018.mp4
+│   │   ├── 📄 2. Déplacer des objets - AutoCAD 2018.mp4
+│   │   ├── 📄 3. Utiliser les fonctions Copier - AutoCAD 2018.mp4
+│   │   ├── 📄 4. Effectuer une rotation - AutoCAD 2018.mp4
+│   │   ├── 📄 5. Appliquer un effet miroir - AutoCAD 2018.mp4
+│   │   ├── 📄 6. Décaler des objets - AutoCAD 2018.mp4
+│   │   ├── 📄 7. Utiliser les outils de chanfrein et de raccord - AutoCAD 2018.mp4
+│   │   ├── 📄 8. Ajuster et prolonger - AutoCAD 2018.mp4
+│   │   ├── 📄 9. Joindre, transformer et décomposer - AutoCAD 2018.mp4
+│   │   ├── 📄 10. Découvrir les réseaux et le réseau polaire - AutoCAD 2018.mp4
+│   │   ├── 📄 11. Modifier des éléments d_un réseau - AutoCAD 2018.mp4
+│   │   ├── 📄 12. Gérer les réseaux rectangulaires et le long d_une trajectoire - AutoCAD 2018.mp4
+│   │   └── 📄 13. Tirer parti des poignées multifonctions - AutoCAD 2018.mp4
+│   ├── 📁 Chapitre 3/
+│   │   ├── 📄 1. Réaliser une sélection et une désélection simple - AutoCAD 2018.mp4
+│   │   ├── 📄 2. Utiliser les fenêtres de sélection - AutoCAD 2018.mp4
+│   │   ├── 📄 3. Découvrir la sélection similaire - AutoCAD 2018.mp4
+│   │   └── 📄 4. Définir le cycle de sélection - AutoCAD 2018.mp4
+│   ├── 📁 Chapitre 2/
+│   │   ├── 📄 1. Définir des lignes et saisir des coordonnées - AutoCAD 2018.mp4
+│   │   ├── 📄 2. Comprendre la saisie dynamique - AutoCAD 2018.mp4
+│   │   ├── 📄 3. Découvrir les modes Ortho et Repérage polaire - AutoCAD 2018.mp4
+│   │   ├── 📄 4. Définir un accrochage temporaire aux objets simples - AutoCAD 2018.mp4
+│   │   ├── 📄 5. Réaliser un accrochage temporaire aux objets circulaires - AutoCAD 2018.mp4
+│   │   ├── 📄 6. Effectuer des accrochages temporaires et permanents - AutoCAD 2018.mp4
+│   │   ├── 📄 7. S_aider du repérage d_accrochage aux objets - AutoCAD 2018.mp4
+│   │   ├── 📄 8. Dessiner des cercles et des arcs de cercle - AutoCAD 2018.mp4
+│   │   ├── 📄 9. Reproduire des ellipses et des arcs elliptiques - AutoCAD 2018.mp4
+│   │   ├── 📄 10. Créer un rectangle - AutoCAD 2018.mp4
+│   │   ├── 📄 11. Réaliser un polygone régulier - AutoCAD 2018.mp4
+│   │   ├── 📄 12. Utiliser l_outil Polyligne - AutoCAD 2018.mp4
+│   │   ├── 📄 13. Dessiner des droites - AutoCAD 2018.mp4
+│   │   └── 📄 13. Dessiner des droites - AutoCAD 2018 (1).mp4
+│   └── 📁 Chapitre 1/
+│       ├── 📄 1. Profiter des fichiers d_exercice - AutoCAD 2018.mp4
+│       ├── 📄 2. Découvrir AutoCAD - AutoCAD 2018.mp4
+│       ├── 📄 3. Comprendre le repère cartésien et les coordonnées - AutoCAD 2018.mp4
+│       ├── 📄 4. Explorer l_interface graphique - AutoCAD 2018.mp4
+│       ├── 📄 5. Découvrir la boîte de dialogue Options - AutoCAD 2018.mp4
+│       ├── 📄 6. Configurer la barre d_aides au dessin - AutoCAD 2018.mp4
+│       ├── 📄 7. Créer un nouveau dessin - AutoCAD 2018.mp4
+│       └── 📄 8. Utiliser efficacement la souris et le zoom - AutoCAD 2018.mp4
+├── 📄 AutoCAD_poly.pdf
+├── 📄 AutoCAD2000tutorial.pdf
+├── 📄 cours initiation EHTP Autocad.doc
+└── 🔗📁 CAODAO/  (raccourci)
+    └── ⚠️  [Référence circulaire ignorée]
+
+═════════════════════════════════════
+  Fin du fichier · Autocad
+═════════════════════════════════════

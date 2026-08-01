@@ -1,0 +1,119 @@
+📚 MODULE : C# - ASP .NET                             
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module C# - ASP .NET.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 C# - ASP .NET/
+├── 🔗📁 asp/  (raccourci)
+│   ├── 📄 ___cours premium.txt
+│   ├── 📄 cours1-asp- partie3.pdf
+│   ├── 📄 TP2 asp mvc.pdf.pdf
+│   ├── 📄 cours1-asp- partie2.pdf
+│   ├── 📄 TP2_asp.pdf
+│   ├── 📄 Projet- Examen en ASP.NET.pdf
+│   ├── 📄 cours1-asp- partie1.pdf
+│   ├── 📄 TP1_asp.pdf
+│   ├── 📄 TP3_ASP.pdf
+│   ├── 📄 Examen-projet aspnet.jpg
+│   ├── 📁 asp/
+│   │   ├── 📄 Examen-projet aspnet.jpg
+│   │   ├── 📄 TP3_ASP.pdf
+│   │   ├── 📄 TP1_asp.pdf
+│   │   ├── 📄 cours1-asp- partie1.pdf
+│   │   ├── 📄 Projet- Examen en ASP.NET.pdf
+│   │   ├── 📄 TP2_asp.pdf
+│   │   ├── 📄 cours1-asp- partie2.pdf
+│   │   ├── 📄 TP2 asp mvc.pdf.pdf
+│   │   ├── 📄 cours1-asp- partie3.pdf
+│   │   └── 📁 asp ista/
+│   │       ├── 📄 asp.net avec vb.net.rar
+│   │       ├── 📄 cour asp.net 2.rar
+│   │       ├── 📄 cour asp.net 1.rar
+│   │       ├── 📄 Asp.net V2 Atelier01.rar
+│   │       └── 📁 tp asp Guide/
+│   │           ├── 📄 asp_l1.pptx
+│   │           ├── 📄 introduction_asp_net.pptx
+│   │           ├── 📄 asp_l2.pptx
+│   │           ├── 📄 asp_l3.pptx
+│   │           ├── 📄 asp_l4.pptx
+│   │           ├── 📄 asp_l5.pptx
+│   │           ├── 📄 asp_l6.pptx
+│   │           ├── 📄 asp_l7.pptx
+│   │           ├── 📄 asp_l9.pptx
+│   │           ├── 📄 asp_l8.pptx
+│   │           ├── 📄 asp_l10.pptx
+│   │           ├── 📄 asp_l11.pptx
+│   │           ├── 📄 asp_l12.pptx
+│   │           ├── 📄 asp_l13.pptx
+│   │           ├── 📄 asp_l14.pptx
+│   │           ├── 📄 asp_l15.pptx
+│   │           ├── 📄 asp_l16.pptx
+│   │           ├── 📄 asp_l18.pptx
+│   │           └── 📄 asp_l17.pptx
+│   ├── 📁 TP/
+│   └── 📁 asp ista/
+│       ├── 📄 Asp.net V2 Atelier01.rar
+│       ├── 📄 cour asp.net 1.rar
+│       ├── 📄 cour asp.net 2.rar
+│       ├── 📄 asp.net avec vb.net.rar
+│       └── 📁 tp asp Guide/
+│           ├── 📄 asp_l17.pptx
+│           ├── 📄 asp_l18.pptx
+│           ├── 📄 asp_l16.pptx
+│           ├── 📄 asp_l15.pptx
+│           ├── 📄 asp_l14.pptx
+│           ├── 📄 asp_l13.pptx
+│           ├── 📄 asp_l12.pptx
+│           ├── 📄 asp_l11.pptx
+│           ├── 📄 asp_l10.pptx
+│           ├── 📄 asp_l8.pptx
+│           ├── 📄 asp_l9.pptx
+│           ├── 📄 asp_l7.pptx
+│           ├── 📄 asp_l6.pptx
+│           ├── 📄 asp_l5.pptx
+│           ├── 📄 asp_l4.pptx
+│           ├── 📄 asp_l3.pptx
+│           ├── 📄 asp_l2.pptx
+│           ├── 📄 introduction_asp_net.pptx
+│           └── 📄 asp_l1.pptx
+└── 📁 C#/
+    ├── 📄 partie1 ENSAF .pdf
+    ├── 📄 cours1-c#-partie4.pdf
+    ├── 📄 S4-cours1-c#-partie4+tp4.pdf
+    ├── 📄 Cours1-c#-partie2.pdf
+    ├── 📄 Projet C#.pdf
+    ├── 📄 cours1-c#-partie3.pdf
+    ├── 📄 partie2 ENSAF.pdf
+    ├── 📄 S1-cours1-c#-partie1.pdf
+    ├── 📄 S3-cours1-c#-partie3.pdf
+    ├── 📄 Exercices corrigés c#.pdf
+    ├── 📁 My TPs/
+    │   ├── 📄 TP3_c#.pdf
+    │   ├── 📄 BASES DE DONNEES – VISUAL C#  ADO.NET Utilisation d’un DataGrid.pdf
+    │   ├── 📄 Exploitation d’une base de données en mode connecté.pdf
+    │   ├── 📄 ADO.NET GESTION DES RELATIONS  D’une base de données SQL Server(JDNotation).pdf
+    │   ├── 📄 03-Exploitation d_une base en mode deconnecté.pdf
+    │   ├── 📄 TP2_c#.pdf
+    │   ├── 📄 TP1_c# ENSAF.pdf
+    │   └── 📄 Contrôle Mode Déconnecté Utilisation du contrôle DataGrid.pdf
+    ├── 📁 +c#/
+    │   ├── 📄 Examen c# corrigé 2010-11.pdf
+    │   ├── 📄 Examen c# corrigé 2007-08.pdf
+    │   └── 📄 Examen c# corrigé 2009-10.pdf
+    └── 📁 Exam/
+        ├── 📄 c# exam_2.jpg
+        └── 📄 c# exam_1.jpg
+
+═════════════════════════════════════
+  Fin du fichier · C# - ASP .NET
+═════════════════════════════════════

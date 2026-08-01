@@ -1,0 +1,164 @@
+📚 MODULE : Biostatistique                            
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Biostatistique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Biostatistique/
+├── 🔗📁 Biostatistique /  (raccourci)
+│   ├── 📁 Td/
+│   │   ├── 📄 Table de loi normale
+│   │   ├── 📄 Table Test de Chideux
+│   │   ├── 📄 Sans titre
+│   │   ├── 📄 Sans titre
+│   │   ├── 📄 Sans titre
+│   │   ├── 📄 Sans titre
+│   │   ├── 📄 Exercices Test de Chideux.docx
+│   │   ├── 📄 Exercices sur  Analyse de la Variance.docx
+│   │   ├── 📄 Exercices  sur les comparaisons de moyenne.docx
+│   │   └── 📄 Exercices corrigés  Comparaison de Fréquences.docx
+│   └── 📁 Cours /
+│       ├── 📁 EMD 2/
+│       │   ├── 📄 Comparaison de deux Variances.docx
+│       │   ├── 📄 ANALYSE DE LA VARIANCE.docx
+│       │   └── 📄 comparaison de moyenne.docx
+│       └── 📁 EMD 1/
+│           ├── 📄 CHAPI I GERE.docx
+│           ├── 📄 CHAPITRE IV CARAC DE SERIE.docx
+│           ├── 📄 CHAPITRE III REP TABLEAU.docx
+│           └── 📄 CHAPIT2.3.docx
+├── 🔗📁 Biostatistique/  (raccourci)
+│   ├── 📁 Les Tableaux /
+│   │   ├── 📄 Table de Gauss.pdf
+│   │   ├── 📄 Table_Khi_Deux.pdf
+│   │   ├── 📄 Table_Fisher_Snedecor.pdf
+│   │   ├── 📄 Table_Khi_Deux.pdf
+│   │   ├── 📄 Table_Fisher_Snedecor.pdf
+│   │   ├── 📄 Autres Tableaux 
+│   │   ├── 📄 Tableaux D'Analyse De Variance (1%)
+│   │   ├── 📄 Tableaux D'Analyse De Variance (5%)
+│   │   ├── 📄 Les Tableaux De Probabilités 
+│   │   ├── 📄 Tableau de Loi Normale centrée réduite
+│   │   └── 📄 Table de l'écart réduit (Loi normale centrée réduite)
+│   ├── 📁 TD/
+│   │   ├── 📄 TD5 Comparaison de moyenne.pdf
+│   │   ├── 📄 TD4-Exercices sur  Analyse de la Variance.docx
+│   │   ├── 📄 TD3-Exercices corrigés  Comparaison de Fréquences.docx
+│   │   ├── 📄 TD2-Exercices Loi de probabilités.docx
+│   │   ├── 📄 TD1- Lois Normale et Lois  de Probabilités mars 2021.docx
+│   │   └── 📁 Correction /
+│   │       ├── 📄 TD4.pdf
+│   │       └── 📄 TD2 Loi Normale.pdf
+│   └── 📁 Cours/
+│       ├── 📄 9-Comparaison de deux Variances.docx
+│       ├── 📄 8-ANALYSE DE LA VARIANCE.docx
+│       ├── 📄 7-COMPARAISON DE POURCENTAGE.pptx
+│       ├── 📄 6-Comparaison de moyenne.docx
+│       ├── 📄 5-Comparaison des distributions à caracteres qualitatiifs.pptx
+│       ├── 📄 4-Estimation.pptx
+│       ├── 📄 3-TESTS D’HYPOTHESES.pptx
+│       ├── 📄 2-LOIS DE PROBABILITES.pptx
+│       └── 📄 1-2Loi NORMALE cours.pptx
+├── 🔗📁 Bio stat/  (raccourci)
+│   ├── 📁 td/
+│   │   └── 📁 Solution enseignante/
+│   │       ├── 📄 intervalle de confiance moyennes.pdf
+│   │       ├── 📄 corrections.pdf
+│   │       ├── 📁 destribution de probabilités/
+│   │       │   ├── 📄 20210328_194441.jpg
+│   │       │   └── 📄 20210328_194430.jpg
+│   │       ├── 📁 icpm/
+│   │       │   ├── 📄 20210328_194358.jpg
+│   │       │   └── 📄 20210328_194330.jpg
+│   │       ├── 📁 khi2/
+│   │       │   ├── 📄 20210328_194627.jpg
+│   │       │   ├── 📄 20210328_194607.jpg
+│   │       │   ├── 📄 20210328_194558.jpg
+│   │       │   └── 📄 20210328_194251.jpg
+│   │       ├── 📁 destribution t de student/
+│   │       │   ├── 📄 20210328_194244.jpg
+│   │       │   ├── 📄 20210328_194235.jpg
+│   │       │   └── 📄 Distribution t de student.pdf
+│   │       ├── 📁 vérification d'hypothèse/
+│   │       │   ├── 📄 20210328_194227.jpg
+│   │       │   ├── 📄 20210328_194215.jpg
+│   │       │   └── 📄 VERIFICATION D'HYPOTHESE.pdf
+│   │       ├── 📁 corélation linéaire et regression/
+│   │       │   └── 📄 20210328_194201.jpg
+│   │       └── 📁 analyse de variance/
+│   │           ├── 📄 20210328_194152.jpg
+│   │           └── 📄 20210328_194137.jpg
+│   ├── 📁 projet/
+│   │   └── 📄 Projets M1 Fev2021.xlsx
+│   ├── 📁 tp/
+│   │   ├── 📄 2. Premiers pas.pdf
+│   │   ├── 📄 1. Presentation du logiciel R.pdf
+│   │   ├── 📄 6. Organiser ses fichiers.pdf
+│   │   ├── 📄 5. Listes et T ableaux de donnees.pdf
+│   │   ├── 📄 4. Vecteurs.pdf
+│   │   └── 📄 3. Premier travail avec des données.pdf
+│   └── 📁 Cours/
+│       ├── 📄 khi2.pdf
+│       ├── 📄 6. Organiser ses fichiers.pdf
+│       ├── 📄 8. Exporter des donnees.pdf
+│       ├── 📄 7. Importation de données.pdf
+│       ├── 📄 distribution de t student 2021-02-02 15.22.21.pdf
+│       ├── 📄 vérification d'hypothèses 2021-01-30 09.44.34.pdf
+│       ├── 📄 Analyse de Variance.pdf
+│       ├── 📄 Correlation Lineaire et Regression Cours Jan 2021.pdf
+│       ├── 📄 Biostatistique M1 Chap 4_Students.pdf
+│       ├── 📄 Biostatistique M1 Chap 3 Students.pdf
+│       ├── 📄 Biostatistique M1 Chap 2.pdf
+│       ├── 📄 expose_Loi_Normale.pdf
+│       └── 📄 Biostatistique M1 Chap 1.pdf
+├── 🔗📁 Biostat/  (raccourci)
+│   ├── 📁 TP/
+│   │   ├── 📄 TP 2021-02-16 08-02-41-001.mp4
+│   │   ├── 📄 tp 3 biostat.mp4
+│   │   ├── 📄 DENIER TP.mp4
+│   │   ├── 📄 tp1.mp4
+│   │   ├── 📄 tp2.mp4
+│   │   └── 📁 PDF TP/
+│   │       ├── 📄 TP-ANALYSE-EN-COMPOSANTES-PRINCIPALES.docx
+│   │       ├── 📄 BPM _ BI TP 2. Coefficient de Corrélation des Rangs de Spearman.docx
+│   │       ├── 📄 TP 1 comparaisons de plusieurs échantillons.docx
+│   │       ├── 📄 TP4.pdf
+│   │       ├── 📄 TP2 et TP3.pdf
+│   │       ├── 📄 TP1.pdf
+│   │       ├── 📄 TP REGRESSION ET CORRELATION  MULTIPLE 2020.2021.doc
+│   │       └── 📄 TP ANALYSE DE GROUPEMENTS.docx
+│   └── 📁 Cour/
+│       ├── 📄 7.DERNIER COUR WALAH .mp4
+│       ├── 📄 6. cr 04correlation multivariate.mp4
+│       ├── 📄 5. cours biostat ACP03.mp4
+│       ├── 📄 4. COUR3BIOSTAACP02mp4.mp4
+│       ├── 📄 3.cours biostat ACP01.mp4
+│       ├── 📄 2. cour 2.mp4
+│       └── 📄 1. 2021-01-09_Cours 1.mp4
+├── 📄 Sujets des examens.pdf
+├── 📄 TP4 Régression linéaire.pdf
+├── 📄 SolutionsSeriesTPMaster1.pdf
+├── 📄 TP1_2_3Master1(2021).pdf
+├── 📄 RésultatsSeries2et3M1.spv
+├── 📄 RésultatsSerie1M1.spv
+├── 📄 DonnéesSeriesM1.sav
+├── 📄 Controle2021L3.pdf
+├── 📄 TP1 et TP2 Solutions .pdf
+├── 📄 Généralités sur le logiciel SPSS.pdf
+├── 📄 PRÉSENTATION- Régression linéaire simple.pdf
+├── 📄 Serie_TP0_M1_2021.pdf
+├── 📄 Cour Biostat-Théorique.pdf
+└── 📄 CoursSPSS.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Biostatistique
+═════════════════════════════════════

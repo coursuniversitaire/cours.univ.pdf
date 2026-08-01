@@ -1,0 +1,37 @@
+📚 MODULE : analyse vectorielle                       
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module analyse vectorielle.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 analyse vectorielle/
+├── 🔗📁 Livre Formes différentielles et analyse vectorielle.pdf/  (raccourci)
+├── 📄 Examen corrigé 
+├── 📄 EM_MPA_L2-S4_TD0.pdf
+├── 📄 Analyse-Vectorielle-TD-corrigé ESSAT.pdf
+├── 📄 chapitre analyse vectorielle.pdf
+├── 📄 Chatterji S D- Cours d'analyse-01-Analyse vectorielle.pdf
+└── 📁 analyse vectorielle/
+    ├── 📄 ex16qst4.png
+    ├── 📄 ex16qt5.png
+    ├── 📄 ex16qstion5.png
+    ├── 📄 série 3 corrigé exo17 20.pdf
+    ├── 📄 série 3 corrigé Exo16.pdf
+    ├── 📄 série 3 corrigé exo 14 15.pdf
+    ├── 📄 série 3 corrigé exo 10 12 13.pdf
+    ├── 📄 série 3 corrigé exo 7 8 9.pdf
+    ├── 📄 série 3 corrigé exo 1 2 3 4.pdf
+    └── 📄 1) Série 3.pdf
+
+═════════════════════════════════════
+  Fin du fichier · analyse vectorielle
+═════════════════════════════════════

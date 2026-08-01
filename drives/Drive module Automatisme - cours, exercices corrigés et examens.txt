@@ -1,0 +1,473 @@
+📚 MODULE : Automatisme                               
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Automatisme.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Automatisme/
+├── 🔗📁 Automatisime/  (raccourci)
+│   ├── 📁 Current year/
+│   │   ├── 🔗📁 4.pdf/  (raccourci)
+│   │   ├── 📁 Book/
+│   │   │   ├── 🔗📁 Langages De Programmation Pour Api Norme Iec 1131-3.pdf/  (raccourci)
+│   │   │   └── 📄 Practical Industrial Programming using IEC 61131-3 for PLCs.pdf
+│   │   ├── 📁 Cours/
+│   │   │   ├── 📄 Chapitre 02 langages de programmations des APIs.pdf
+│   │   │   └── 📄 introduction à l'automatique.pdf
+│   │   ├── 📁 Tp/
+│   │   │   ├── 📄 Exercice1.pdf
+│   │   │   ├── 📄 TP3 _La fonction temporisation.pdf
+│   │   │   ├── 📄 TP2 _Initiation à la logique de base des automates (2).pdf
+│   │   │   └── 📄 IEC61131_LD.pdf
+│   │   └── 📁 Td/
+│   │       ├── 📄 td03 sol.pdf
+│   │       ├── 📄 Td02 solution AII.pdf
+│   │       ├── 📄 TD3 Fiche.pdf
+│   │       ├── 📄 TD2 Fiche.pdf
+│   │       ├── 📄 TD1 Fiche.pdf
+│   │       └── 📄 TD1 Solution.pdf
+│   └── 📁 Last year/
+│       ├── 📄 introduction à l'automatique.pdf
+│       ├── 📄 grafcet.pdf
+│       ├── 📄 Fiche TD 01.pdf
+│       ├── 📄 Fiche TD 02.pdf
+│       └── 📄 Fiche TD 03.pdf
+├── 🔗📁 Automatisme/  (raccourci)
+│   ├── 📄 remarque.txt
+│   ├── 📄 correction TD API Serie 2 -EX4.docx
+│   ├── 📁 cours/
+│   │   ├── 📄 GE-S3- API -TP-Manip2 EL Hammoumi.pdf
+│   │   ├── 📄 GE-S3- API  Fiche S7-300- EL Hammoumi.pdf
+│   │   ├── 📄 GE-S3- API Ch2-CRS- EL Hammoumi.pdf
+│   │   ├── 📄 GE-S3- API -TP-Manip1 EL Hammoumi.pdf
+│   │   ├── 📄 GE-S3- API  FicheTwido- EL Hammoumi.pdf
+│   │   └── 📄 GE-S3- API Ch1-CRS- EL Hammoumi.pdf
+│   ├── 📁 Rechercher _25/
+│   │   └── 📁 Recherche Réseaux locaux/
+│   │       ├── 📄 Mohammed_Habbi_RLI_BUS_CAN_VAN.pdf
+│   │       ├── 📄 recherche API.docx
+│   │       ├── 📄 modbus.docx
+│   │       ├── 📄 EIBUS.doc
+│   │       └── 📄 Les réseaux locaux industriels R.L.I.pdf
+│   ├── 📁 Exam _75/
+│   │   ├── 📄 2019_10_27_13_08_IMG_0847.JPG
+│   │   ├── 📄 2019_10_27_13_08_IMG_0848.JPG
+│   │   ├── 📄 2019_10_27_13_09_IMG_0849.JPG
+│   │   ├── 📄 Exm _ TD.pdf
+│   │   ├── 📄 2020_01_14_20_41_IMG_1341.JPG
+│   │   ├── 📄 2020_01_14_20_41_IMG_1340.JPG
+│   │   ├── 📄 2020_01_14_20_41_IMG_1339.JPG
+│   │   ├── 📄 2020_01_14_20_40_IMG_1338.JPG
+│   │   ├── 📄 2020_01_14_20_40_IMG_1337.JPG
+│   │   ├── 📄 10477346_302434149951021_2627473740729974729_n.jpg
+│   │   └── 📄 1455155_302434139951022_1022669801010622330_n.jpg
+│   └── 📁 TD/
+│       ├── 📄 TD API- series 3 -.pdf
+│       ├── 📄 TD API- series 2 -.pdf
+│       ├── 📄 TD API- series 1 -.pdf
+│       ├── 📄 2.jpg
+│       └── 📄 1.jpg
+├── 🔗📁 Automatisme/  (raccourci)
+│   ├── 📄 Presentations_cours1.pdf
+│   ├── 📄 Presentation Automatisme 2007-08.pdf
+│   ├── 📄 Partiel AUTO 2007-08.pdf
+│   ├── 📄 Grafcet_Rizki3.pptx
+│   ├── 📄 Démarrage classique des MAS 3_rizki.pdf
+│   ├── 📄 tp.zip
+│   ├── 📄 TD1.pdf
+│   ├── 📄 freinage_rizki2.pdf
+│   ├── 📄 Poly1.pdf
+│   ├── 📄 td2.pdf
+│   ├── 📄 ExerciceS MUX_Etudiants (1).docx
+│   ├── 📄 td2_correction.pdf
+│   ├── 📄 corrigeTD1.pdf
+│   ├── 📄 Correction EXO2et3 partiel AUTO 2007-08.pdf
+│   ├── 📄 exos_Grafcet.docx
+│   ├── 📄 isn-opearetueur-logique-3.jpg
+│   ├── 📁 exercices/
+│   │   ├── 📄 serie3.docx
+│   │   ├── 📄 Serie2_2011.docx
+│   │   ├── 📄 Systèmes de numération.pdf
+│   │   ├── 📄 exercice.docx
+│   │   └── 📄 Serie1_2011.docx
+│   ├── 📁 Guide des automatismes/
+│   │   ├── 📄 simulateur.chm
+│   │   ├── 📄 Uninstal.exe
+│   │   ├── 📄 ver_h.txt
+│   │   ├── 📄 Thumbs.db
+│   │   ├── 📄 ver.txt
+│   │   ├── 📄 simulateur.swf
+│   │   ├── 📄 GdA.exe
+│   │   ├── 📄 scenar.swf
+│   │   ├── 📄 intro-po.swf
+│   │   ├── 📄 listconf.ini
+│   │   ├── 📄 GdA-sim.exe
+│   │   ├── 📄 index.swf
+│   │   ├── 📄 index_h.swf
+│   │   ├── 📄 historique.swf
+│   │   ├── 📄 hydrau.txt
+│   │   ├── 📄 gda.ini
+│   │   ├── 📄 Cfg.exe
+│   │   ├── 📄 garde_bis.swf
+│   │   ├── 📄 gda-sim-file.ico
+│   │   ├── 📄 fond.swf
+│   │   ├── 📄 configurationH.gd4
+│   │   ├── 📄 configuration.gd4
+│   │   ├── 📄 confH.ini
+│   │   ├── 📄 conf.ini
+│   │   ├── 📄 aide.swf
+│   │   ├── 📁 acq/
+│   │   │   ├── 📄 inter.swf
+│   │   │   ├── 📄 magnetique.swf
+│   │   │   ├── 📄 photoelectrique.swf
+│   │   │   ├── 📄 numerique.swf
+│   │   │   ├── 📄 inductif.swf
+│   │   │   ├── 📄 incremental.swf
+│   │   │   ├── 📄 proximite.swf
+│   │   │   ├── 📄 galet_exemple.swf
+│   │   │   ├── 📄 detect-contact.swf
+│   │   │   ├── 📄 codeurs.swf
+│   │   │   ├── 📄 capteur_fuite.swf
+│   │   │   ├── 📄 capteurs.swf
+│   │   │   ├── 📄 capacitif.swf
+│   │   │   ├── 📄 butee_bille.swf
+│   │   │   ├── 📄 acquisition.swf
+│   │   │   └── 📄 aide.swf
+│   │   ├── 📁 act/
+│   │   │   ├── 📄 v_tige_creuse.swf
+│   │   │   ├── 📄 v_sans_tige.swf
+│   │   │   ├── 📄 v_plat.swf
+│   │   │   ├── 📄 v_bloqueur.swf
+│   │   │   ├── 📄 v_faible_course.swf
+│   │   │   ├── 📄 v_anti_rotation.swf
+│   │   │   ├── 📄 v_micro.swf
+│   │   │   ├── 📄 vse.swf
+│   │   │   ├── 📄 vitesse_m_a.swf
+│   │   │   ├── 📄 speciaux.swf
+│   │   │   ├── 📄 vireur.swf
+│   │   │   ├── 📄 vitesse.swf
+│   │   │   ├── 📄 verin_rotatif.swf
+│   │   │   ├── 📄 triphase.swf
+│   │   │   ├── 📄 var_meo.swf
+│   │   │   ├── 📄 verin.swf
+│   │   │   ├── 📄 sectionneur.swf
+│   │   │   ├── 📄 variateur.swf
+│   │   │   ├── 📄 vect_flux.swf
+│   │   │   ├── 📄 vde.swf
+│   │   │   ├── 📄 statorique.swf
+│   │   │   ├── 📄 var_vit.swf
+│   │   │   ├── 📄 schema2.swf
+│   │   │   ├── 📄 schema1.swf
+│   │   │   ├── 📄 rotorique.swf
+│   │   │   ├── 📄 schema.swf
+│   │   │   ├── 📄 relais-thermique7.swf
+│   │   │   ├── 📄 relais-thermique4.swf
+│   │   │   ├── 📄 relais.swf
+│   │   │   ├── 📄 rheostat_rot.swf
+│   │   │   ├── 📄 relais-thermique6.swf
+│   │   │   ├── 📄 relais-thermique3.swf
+│   │   │   ├── 📄 relais-thermique5.swf
+│   │   │   ├── 📄 plaque_signaletique.swf
+│   │   │   ├── 📄 relais-thermique1_5.swf
+│   │   │   ├── 📄 relais-thermique2.swf
+│   │   │   ├── 📄 progressif.swf
+│   │   │   ├── 📄 relais-thermique.swf
+│   │   │   ├── 📄 reducteur_uni.swf
+│   │   │   ├── 📄 relais-thermique1.swf
+│   │   │   ├── 📄 prepilotage.swf
+│   │   │   ├── 📄 puissances_m.swf
+│   │   │   ├── 📄 precoupure.swf
+│   │   │   ├── 📄 plaque_bornes.swf
+│   │   │   ├── 📄 paspas6.swf
+│   │   │   ├── 📄 paspas2.swf
+│   │   │   ├── 📄 paspas8.swf
+│   │   │   ├── 📄 moteur_b_c.swf
+│   │   │   ├── 📄 paspas4.swf
+│   │   │   ├── 📄 paspas7.swf
+│   │   │   ├── 📄 paspas5.swf
+│   │   │   ├── 📄 paspas3.swf
+│   │   │   ├── 📄 paspas1.swf
+│   │   │   ├── 📄 moteur-cc2.swf
+│   │   │   ├── 📄 moteur-ac.swf
+│   │   │   ├── 📄 moteur-cc213.swf
+│   │   │   ├── 📄 moteur.swf
+│   │   │   ├── 📄 moteur-cc21.swf
+│   │   │   ├── 📄 moteur-cc212.swf
+│   │   │   ├── 📄 moteur-cc3.swf
+│   │   │   ├── 📄 moteur-cc-2.swf
+│   │   │   ├── 📄 moteur-cc.swf
+│   │   │   ├── 📄 moteur-cc1.swf
+│   │   │   ├── 📄 magnetisme.swf
+│   │   │   ├── 📄 inversion_rotation.swf
+│   │   │   ├── 📄 limiteur.swf
+│   │   │   ├── 📄 inverseur.swf
+│   │   │   ├── 📄 mli.swf
+│   │   │   ├── 📄 inversion_cc.swf
+│   │   │   ├── 📄 integral.swf
+│   │   │   ├── 📄 frein_c_courant.swf
+│   │   │   ├── 📄 frein_meca.swf
+│   │   │   ├── 📄 frein_continu.swf
+│   │   │   ├── 📄 distributeur.swf
+│   │   │   ├── 📄 disjoncteur_magnetothermique.swf
+│   │   │   ├── 📄 distributeur-exemple.swf
+│   │   │   ├── 📄 disjoncteur.swf
+│   │   │   ├── 📄 exos.swf
+│   │   │   ├── 📄 freinage.swf
+│   │   │   ├── 📄 etoile_triangle.swf
+│   │   │   ├── 📄 enroul_sep.swf
+│   │   │   ├── 📄 faux.swf
+│   │   │   ├── 📄 electroaimant.swf
+│   │   │   ├── 📄 depart_moteur.swf
+│   │   │   ├── 📄 contact_aux_tempo.swf
+│   │   │   ├── 📄 contacts_auxiliaires.swf
+│   │   │   ├── 📄 coupe-circuit.swf
+│   │   │   ├── 📄 demarrage_async.swf
+│   │   │   ├── 📄 dimension.swf
+│   │   │   ├── 📄 contacteur.swf
+│   │   │   ├── 📄 coupl_enroul.swf
+│   │   │   ├── 📄 couplage.swf
+│   │   │   ├── 📄 cosphi.swf
+│   │   │   ├── 📄 code_distributeur.swf
+│   │   │   ├── 📄 circuit_rc.swf
+│   │   │   ├── 📄 contact-schem.swf
+│   │   │   ├── 📄 clapet.swf
+│   │   │   ├── 📄 amortissement.swf
+│   │   │   ├── 📄 action.swf
+│   │   │   ├── 📄 bonfaux.swf
+│   │   │   ├── 📄 bon.swf
+│   │   │   ├── 📄 action-pneu.swf
+│   │   │   ├── 📄 bloqueur.swf
+│   │   │   ├── 📄 5-3.swf
+│   │   │   ├── 📄 action-elec.swf
+│   │   │   └── 📄 accessoires.swf
+│   │   ├── 📁 aide/
+│   │   │   └── 📄 Configurateur.chm
+│   │   ├── 📁 air/
+│   │   │   ├── 📄 vanne.swf
+│   │   │   ├── 📄 centrale.swf
+│   │   │   ├── 📄 air_comprime.swf
+│   │   │   ├── 📄 compresseurs.swf
+│   │   │   ├── 📄 lubrificateur.swf
+│   │   │   ├── 📄 filtres.swf
+│   │   │   ├── 📄 groupe.swf
+│   │   │   ├── 📄 detendeur.swf
+│   │   │   ├── 📄 manometre.swf
+│   │   │   └── 📄 groupe2.swf
+│   │   ├── 📁 hydrau/
+│   │   │   ├── 📄 v_double_tige.swf
+│   │   │   ├── 📄 vse.swf
+│   │   │   ├── 📄 vitesse_debit.swf
+│   │   │   ├── 📄 valve_etranglement.swf
+│   │   │   ├── 📄 valve_etrangl_double.swf
+│   │   │   ├── 📄 verin.swf
+│   │   │   ├── 📄 rotatif.swf
+│   │   │   ├── 📄 vde.swf
+│   │   │   ├── 📄 reynolds.swf
+│   │   │   ├── 📄 reservoir.swf
+│   │   │   ├── 📄 telescopique.swf
+│   │   │   ├── 📄 valve_debit.swf
+│   │   │   ├── 📄 schema.swf
+│   │   │   ├── 📄 pompe_piston_axiaux.swf
+│   │   │   ├── 📄 pression_hydrostatique.swf
+│   │   │   ├── 📄 regul_debit.swf
+│   │   │   ├── 📄 pompe_pist_ax_var.swf
+│   │   │   ├── 📄 regimes_ecoul.swf
+│   │   │   ├── 📄 pression_hydrodyn.swf
+│   │   │   ├── 📄 pression.swf
+│   │   │   ├── 📄 pompe_vis.swf
+│   │   │   ├── 📄 pompe_pal_cyl_var.swf
+│   │   │   ├── 📄 pompe_pistons_radiaux.swf
+│   │   │   ├── 📄 pompe_cour_plan.swf
+│   │   │   ├── 📄 pompe_pal.swf
+│   │   │   ├── 📄 pompe_engrenage.swf
+│   │   │   ├── 📄 pompe_engr_int.swf
+│   │   │   ├── 📄 pascal.swf
+│   │   │   ├── 📄 pertes_charge.swf
+│   │   │   ├── 📄 limiteur_debit_uni.swf
+│   │   │   ├── 📄 moteur.swf
+│   │   │   ├── 📄 pneu_hydrau.swf
+│   │   │   ├── 📄 pompe_brise_fixe.swf
+│   │   │   ├── 📄 pompes_hydrau.swf
+│   │   │   ├── 📄 pompes_hydrau2.swf
+│   │   │   ├── 📄 mano.swf
+│   │   │   ├── 📄 limit_util.swf
+│   │   │   ├── 📄 limiteur_debit_bi.swf
+│   │   │   ├── 📄 groupe_hydrau1.swf
+│   │   │   ├── 📄 h_limit_pres_action_dir.swf
+│   │   │   ├── 📄 h_lim_pres_role.swf
+│   │   │   ├── 📄 h_limiteur_pression.swf
+│   │   │   ├── 📄 h_3_2.swf
+│   │   │   ├── 📄 h_4_2.swf
+│   │   │   ├── 📄 h_2_2.swf
+│   │   │   ├── 📄 hydrau_1.swf
+│   │   │   ├── 📄 h_4_3_cf.swf
+│   │   │   ├── 📄 groupe_hydrau.swf
+│   │   │   ├── 📄 fluide.swf
+│   │   │   ├── 📄 frottement.swf
+│   │   │   ├── 📄 fluide2.swf
+│   │   │   ├── 📄 filtre4.swf
+│   │   │   ├── 📄 filtre2.swf
+│   │   │   ├── 📄 filtre3.swf
+│   │   │   ├── 📄 etrangl_fin.swf
+│   │   │   ├── 📄 filtre1.swf
+│   │   │   ├── 📄 distributeurs_2.swf
+│   │   │   ├── 📄 filtre.swf
+│   │   │   ├── 📄 distri_calibre.swf
+│   │   │   ├── 📄 distri_embase.swf
+│   │   │   ├── 📄 distri_constitution.swf
+│   │   │   ├── 📄 clapet.swf
+│   │   │   ├── 📄 accu1.swf
+│   │   │   ├── 📄 distributeurs.swf
+│   │   │   ├── 📄 accu4.swf
+│   │   │   ├── 📄 accu3.swf
+│   │   │   ├── 📄 accu2.swf
+│   │   │   └── 📄 accu.swf
+│   │   ├── 📁 exemples/
+│   │   │   ├── 📄 étoile triangle complet-commande CC redressée.gds
+│   │   │   ├── 📄 étoile triangle complet-commande CC.gds
+│   │   │   ├── 📄 électro-pneumatique.gds
+│   │   │   ├── 📄 inversion AC - commande CC.gds
+│   │   │   ├── 📄 vérins.gds
+│   │   │   ├── 📄 étoile triangle complet-commande AC.gds
+│   │   │   ├── 📄 étoile triangle - 2 sens de rotation.gds
+│   │   │   ├── 📄 démo bloqueur.gds
+│   │   │   ├── 📄 deux vérins.gds
+│   │   │   ├── 📄 départ moteur AC - commande AC.gds
+│   │   │   ├── 📄 démo pupitre.gds
+│   │   │   ├── 📄 cycle en L.gds
+│   │   │   ├── 📄 démo 5-3.gds
+│   │   │   ├── 📄 Circuit 4 vérins.gds
+│   │   │   └── 📄 Circuit avec temporisation.gds
+│   │   ├── 📁 divers/
+│   │   │   └── 📄 ip.swf
+│   │   ├── 📁 vide/
+│   │   │   ├── 📄 venturi_effet.swf
+│   │   │   ├── 📄 venturi.swf
+│   │   │   ├── 📄 ventouse.swf
+│   │   │   ├── 📄 vacuostat.swf
+│   │   │   ├── 📄 prehension_vide.swf
+│   │   │   ├── 📄 filtre_vide.swf
+│   │   │   ├── 📄 silencieux.swf
+│   │   │   └── 📄 clapet_pilote.swf
+│   │   ├── 📁 fscommand/
+│   │   │   ├── 📄 simulateur.chm
+│   │   │   └── 📄 atv11_doc.pdf
+│   │   ├── 📁 systeme/
+│   │   │   ├── 📄 systeme.swf
+│   │   │   ├── 📄 structure_fonctionnelle.swf
+│   │   │   ├── 📄 structure.swf
+│   │   │   ├── 📄 non_muscle.swf
+│   │   │   ├── 📄 reponse_juste.swf
+│   │   │   ├── 📄 non_tartine.swf
+│   │   │   ├── 📄 sadt.swf
+│   │   │   ├── 📄 reponse_fausse.swf
+│   │   │   ├── 📄 non_moteur.swf
+│   │   │   ├── 📄 non_lame.swf
+│   │   │   ├── 📄 non.swf
+│   │   │   ├── 📄 non_jardin.swf
+│   │   │   ├── 📄 non_bac.swf
+│   │   │   ├── 📄 exercices.swf
+│   │   │   └── 📄 modele.swf
+│   │   ├── 📁 combinatoire/
+│   │   │   ├── 📄 reponse_vent_4.swf
+│   │   │   ├── 📄 reponse_vent_2.swf
+│   │   │   ├── 📄 reponse_vent_1.swf
+│   │   │   ├── 📄 reponse_soleil_5.swf
+│   │   │   ├── 📄 reponse_vent_3.swf
+│   │   │   ├── 📄 fonc_logiques.swf
+│   │   │   ├── 📄 reponse_soleil_4.swf
+│   │   │   ├── 📄 reponse_soleil_3.swf
+│   │   │   ├── 📄 reponse_soleil_2.swf
+│   │   │   ├── 📄 logigramme.swf
+│   │   │   ├── 📄 reponse_soleil_1.swf
+│   │   │   ├── 📄 equation_juste.swf
+│   │   │   ├── 📄 equation_fausse.swf
+│   │   │   ├── 📄 essayez.swf
+│   │   │   ├── 📄 emploi_combinatoire.swf
+│   │   │   ├── 📄 combinatoire.swf
+│   │   │   └── 📄 elec.swf
+│   │   ├── 📁 grafcet/
+│   │   │   ├── 📄 var_etape.swf
+│   │   │   ├── 📄 point_vue.swf
+│   │   │   ├── 📄 convergence.swf
+│   │   │   ├── 📄 hierarchie.swf
+│   │   │   ├── 📄 grafcet.swf
+│   │   │   ├── 📄 forcage.swf
+│   │   │   ├── 📄 marquage.swf
+│   │   │   └── 📄 analyse-sequentielle.swf
+│   │   ├── 📁 pupitre/
+│   │   │   ├── 📄 bouton_tournant.swf
+│   │   │   ├── 📄 voyant_pneu.swf
+│   │   │   ├── 📄 bouton_poussoir.swf
+│   │   │   ├── 📄 voyant.swf
+│   │   │   ├── 📄 pupitre.swf
+│   │   │   ├── 📄 couleurs.swf
+│   │   │   └── 📄 arret_urgence.swf
+│   │   └── 📁 pc/
+│   │       ├── 📄 liaison_popc.swf
+│   │       ├── 📄 structure_pc.swf
+│   │       └── 📄 intro_pc.swf
+│   ├── 📁 Cours_Rizki/
+│   │   ├── 📄 Séquentielle_Rizki_Lecture.pdf
+│   │   ├── 📄 Séquentielle_Rizki.pdf
+│   │   ├── 📄 QuinMCCluskey_Rizki.pdf
+│   │   ├── 📄 QuinMCCluskey_exercices_Rizki.pdf
+│   │   ├── 📄 Cours_Rizki_Partie2.pdf
+│   │   ├── 📄 5_Séquentielle_Rizki.pdf
+│   │   ├── 📄 2    QuinMCCluskey_Rizki.pdf
+│   │   ├── 📄 Cours_Rizki_Partie2_2011.pdf
+│   │   ├── 📄 Serie_td_automatisme_2016_S4.pdf
+│   │   ├── 📄 Cours_Rizki_Partie1_2011.pdf
+│   │   ├── 📄 Rappel_Appareillage_Rizki.pdf
+│   │   ├── 📄 Cours_Rizki_Partie1.pdf
+│   │   ├── 📄 moteur asynchrone_mode de demarrage_Rizki.pdf
+│   │   ├── 📄 chapitre_1_bn_et_br.pdf
+│   │   ├── 📄 Logique combinatoire.pdf
+│   │   ├── 📄 numeration.pdf
+│   │   ├── 📄 codeur_Rizkitest.pdf
+│   │   ├── 📄 3      codeur_rizki.pdf
+│   │   ├── 📁 power point/
+│   │   │   ├── 📄 Grafcet_Rizki3.pptx
+│   │   │   ├── 📄 codeur_Rizki.pptx
+│   │   │   └── 📄 freinage_rizki2.pptx
+│   │   └── 📁 grafcet/
+│   │       ├── 📄 Grafcet_Rizki3_part3.pdf
+│   │       ├── 📄 Grafcet_Rizki3_part2.pdf
+│   │       ├── 📄 Grafcet_Rizki3_part1.pdf
+│   │       └── 📄 Grafcet_Rizki3.pdf
+│   └── 📁 TP/
+│       ├── 📄 TP1.doc
+│       ├── 📄 TP3.doc
+│       └── 📄 TP2.doc
+├── 📄 Ch3 Cours Etude Aléas Automatisme Logique Combinatoire
+├── 📄 TP Additionneur soustracteur 4 bit VHDL détection débordement-Automatisme
+├── 📄 Cours sur les Systèmes Digitaux Séquence 4 d'apprentissage-Automatisme
+├── 📄 TD2 Automatisme Exercices Système Logique Combinatoire
+├── 📄 TD Automatisme N2 1ere CPI ENSAM 2018 2019
+├── 📄 Cours d Automatisme Adil BROURI ENSAM Meknès Prépas
+├── 📄 Exercice Logique Digitale Distributeur Boissons Kmap-Automatisme
+├── 📄 TD Automatisme N1 ENSAM Meknes 1ere Annee Preparatoire 2020 2021
+├── 📄 Controle Automatisme ENSAM Moulay Ismail 1ere Annee 2017 2018
+├── 📄 Automatisme Cours CPI Compteurs Synchrones Asynchrones
+├── 📄 Automatisme Cours 1CPI Logique Séquentielle Compteurs Syn Asyn S2
+├── 📄 cours Automatisme Intro Numération et Codage
+├── 📄 cours Circuits Logiques et Algèbre de Boole Chapitre 3-Automatisme
+├── 📄 Architecture des Ordinateurs TD 4 Corrigé Additionneurs Soustracteurs-Automatisme
+├── 📄 Architecture Ordinateurs TD 4 Corrigé Additionneur Soustracteur-Automatisme
+├── 📄 TD1 Automatisme Table Vérité Karnaugh Simplification Logique
+├── 📄 Correction TD1 Automatisme Circuits Logiques Combinatoires
+├── 📄 TD2 Automatisme Correction Bascules Compteurs
+└── 📄 Corrigé TD2 Automatisme Ex4 Chronogramme Compteur Modulo 11
+
+═════════════════════════════════════
+  Fin du fichier · Automatisme
+═════════════════════════════════════

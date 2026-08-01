@@ -1,0 +1,40 @@
+📚 MODULE : Audit & Gestion industrielle              
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Audit & Gestion industrielle.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Audit & Gestion industrielle/
+├── 📄 Audit & Gestion industrielle-20260621T132539Z-3-001.zip
+└── 🔗📁 Audit & Gestion industrielle/  (raccourci)
+    ├── 📁 Test / Exam/
+    │   └── 📄 Test SDF.pdf
+    ├── 📁 TD Sdf/
+    │   ├── 📄 TD 02.pdf
+    │   ├── 📄 TD 01.pdf
+    │   ├── 📄 TD 03 Arbre de Défaillances.pdf
+    │   ├── 📄 Solution TD04 Chaine de Markov
+    │   ├── 📄 TD 04 Chaine de Markov 
+    │   ├── 📄 Solution TD 05 Diagramme  
+    │   └── 📄 TD 05 Diagramme bloc fiabilité  
+    └── 📁 Cours Mdm Houari/
+        ├── 📄 CH03 Arbre de défaillances 
+        ├── 📄 CH04 Chaine de Markov
+        ├── 📄 CH05 Diagramme blocs de fiabilité 
+        ├── 📄 Exemple de Procédure de maintenance corrective 
+        ├── 📄 Belhadj-Djilali-Abdelkadir-polycopié.pdf
+        ├── 📄 polycopi FMD 2013.pdf
+        └── 📄 CourSDF2023
+
+═════════════════════════════════════
+  Fin du fichier · Audit & Gestion industrielle
+═════════════════════════════════════

@@ -1,0 +1,406 @@
+📚 MODULE : Bases de données avancées                 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Bases de données avancées.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Bases de données avancées/
+├── 🔗📁 Base de données avancé  (raccourci)
+├── 🔗📁 Base De Données Avancées/  (raccourci)
+│   ├── 📄 Mini-projetBDA.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 TD Série 2.pdf
+│   │   ├── 📄 TD Série 1.pdf
+│   │   └── 📁 Correction TD 1/
+│   │       ├── 📄 TD Correction 10.jpg
+│   │       ├── 📄 TD Correction 9.jpg
+│   │       ├── 📄 TD Correction 7.jpg
+│   │       ├── 📄 TD Correction 6.jpg
+│   │       ├── 📄 TD Correction 12.jpg
+│   │       ├── 📄 TD Correction 11.jpg
+│   │       ├── 📄 TD Correction 8.jpg
+│   │       ├── 📄 TD Correction 5.jpg
+│   │       ├── 📄 TD Correction 4.jpg
+│   │       ├── 📄 TD Correction 3.jpg
+│   │       ├── 📄 TD Correction 2.jpg
+│   │       └── 📄 TD Correction 1.jpg
+│   ├── 📁 Cours/
+│   │   ├── 📄 ChapII-partie02.pdf
+│   │   ├── 📄 Règles de passage (R-Robjet).pdf
+│   │   ├── 📄 Chapitre 1.odp
+│   │   └── 📁 Cours Tahakourt/
+│   │       ├── 📄 Chap2-Types utilisateurs.pdf
+│   │       ├── 📄 chap1-introduction au modèle Relationnel-Objet.pdf
+│   │       └── 📄 chap0-Rappels et compléments.pdf
+│   └── 📁 TP/
+│       └── 📄 TP Série 1.pdf
+├── 🔗📁 ADMINISTRATION BDD/  (raccourci)
+│   ├── 📁 TD/
+│   │   ├── 📄 td_aba_all.pdf
+│   │   └── 📁 TD4/
+│   │       ├── 📄 serie_page2.jpg
+│   │       ├── 📄 serie_page1.jpg
+│   │       ├── 📄 page2.jpg
+│   │       └── 📄 page1.jpg
+│   └── 📁 COURS/
+│       ├── 📄 ABA_CHAPITRE6_INTERROGATION_XQUERY_ET_XPATH.pdf
+│       ├── 📄 ABA_CHAPITRE4_EVALUATION_ET_OPTIMISATION_DE_REQUETES.pdf
+│       ├── 📄 ABA_CHAPITRE1_INTRODUCTION.pdf
+│       ├── 📄 ABA_CHAPITRE2_INTERROGATION_DUNE_BDD_RELATIONNELLE.pdf
+│       ├── 📄 ABA_CHAPITRE5_INFO_INCOMPLÈTE_DANS_UNE_BDD_SEMI-STRUCTURÉES_ET_XML.pdf
+│       ├── 📄 ABA_CHAPITRE3_LES_TRIGGERS.pdf
+│       ├── 📄 aba_all_merged_compressed.pdf
+│       └── 📄 xquery_notions_de_base.pdf
+├── 🔗📁 000 Base de données avancées/  (raccourci)
+│   ├── 📄 2022 SABOR.PNG
+│   ├── 📄 S6 SMI serie2_SMI20 FPN  19 20.pdf
+│   ├── 📄 S6 SMI BasesDonnéesAvancées FPN  19 20.pdf
+│   ├── 📁 BD2/
+│   │   ├── 📁 tp2,3/
+│   │   │   ├── 📄 TP3EX2Q8.sql
+│   │   │   ├── 📄 TP3EX2Q7.sql
+│   │   │   ├── 📄 TP3EX2Q6.sql
+│   │   │   ├── 📄 TP3EX2Q5.sql
+│   │   │   ├── 📄 TP3EX2Q4.sql
+│   │   │   ├── 📄 TP3EX2Q3.sql
+│   │   │   └── 📄 TP3EX1Q2.sql
+│   │   ├── 📁 Tp/
+│   │   │   └── 📁 TP_BD/
+│   │   │       └── 📁 Solutions_TP1_PLSQL/
+│   │   │           ├── 📄 Solution_Q1.sql
+│   │   │           ├── 📄 Solution_Q3.sql
+│   │   │           ├── 📄 Create_MOUJAHID_BUDGET.sql
+│   │   │           ├── 📄 Solution_Q2.sql
+│   │   │           ├── 📄 Solution_Q5.sql
+│   │   │           └── 📄 Solutions_TP1_PLSQL.txt
+│   │   ├── 📁 CollePLSQL_SMIS6_G1/
+│   │   │   ├── 📄 Tables.sql
+│   │   │   ├── 📄 colle1.pdf
+│   │   │   └── 📁 Mohammed_EL_KHOU/
+│   │   │       ├── 📄 sql.txt
+│   │   │       ├── 📄 Q9.sql
+│   │   │       ├── 📄 Q8.sql
+│   │   │       ├── 📄 Q7.sql
+│   │   │       ├── 📄 Q4.sql
+│   │   │       ├── 📄 Q3.sql
+│   │   │       └── 📄 Q2.sql
+│   │   └── 📁 BD-20180427T150551Z-001/
+│   │       └── 📁 TPsql/
+│   │           ├── 📄 TP_Trigger_Oracle.pdf
+│   │           ├── 📁 TP2/
+│   │           │   ├── 📁 Mai - Copy/
+│   │           │   │   ├── 📁 SQL_dossier/
+│   │           │   │   │   └── 📄 Creat_Table_BUDGET_ok.sql
+│   │           │   │   └── 📁 Mai/
+│   │           │   │       └── 📁 SQL_dossier/
+│   │           │   │           └── 📄 Creat_Table_BUDGET_ok.sql
+│   │           │   └── 📁 Mai/
+│   │           │       ├── 📄 Q3.sql
+│   │           │       └── 📁 Mai/
+│   │           │           ├── 📄 Q3.sql
+│   │           │           └── 📁 SQL_dossier/
+│   │           │               ├── 📄 test.sql
+│   │           │               └── 📄 Creat_Table_BUDGET_ok.sql
+│   │           ├── 📁 TP1/
+│   │           │   ├── 📄 TP_PLSQL_Oracle.pdf
+│   │           │   ├── 📄 exo1.sql
+│   │           │   ├── 📄 Creat_Table_BUDGET_ok.txt
+│   │           │   └── 📁 schemas/
+│   │           │       └── 📄 scott.sql
+│   │           └── 📁 Solutions_TP1_PLSQL/
+│   │               ├── 📄 Solution_Q4.sql
+│   │               ├── 📄 Solution_Q5.sql
+│   │               ├── 📄 Solution_Q2.sql
+│   │               └── 📄 Create_MOUJAHID_BUDGET.sql
+│   ├── 📁 FSDM BD/
+│   │   └── 📁 OneDrive_2020-03-26[1]/
+│   │       └── 📁 Documents BD/
+│   │           ├── 📄 ScriptCreationBase.sql
+│   │           └── 📄 PL_SQL_GLOBAL_2020.pptx
+│   ├── 📁 FSAC Administration BD/
+│   │   └── 📁 Administration BD/
+│   │       ├── 📁 TP/
+│   │       │   ├── 📄 TP1_DBA_FSAC_16_2.pdf
+│   │       │   ├── 📄 TP5-DBA-FSAC-2016.pdf
+│   │       │   ├── 📄 TP4-DBA-FSAC-2016.pdf
+│   │       │   ├── 📄 TP3-DBA-FSAC-2016.pdf
+│   │       │   ├── 📄 TP2-DBA-FSAC-2016_2.pdf
+│   │       │   ├── 📄 TP2-DBA-FSAC-2016.pdf
+│   │       │   └── 📄 Instructions_à_lire.txt
+│   │       └── 📁 COURS/
+│   │           ├── 📄 DBA1-Module1-SMI6.pdf
+│   │           ├── 📄 DBA1-Module2-SMI6.pdf
+│   │           ├── 📄 DBA1-Module0-SMI6.pdf
+│   │           ├── 📄 DBA1-Module-3-4-5-6-7-8-SMI6.pdf
+│   │           └── 📄 DBA1-SQL.pptx
+│   ├── 📁 SMI_S6_BD AV FS MEKNES  19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 BDavancees_CasEtude2Solution11.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution10.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution04.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution05.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution08.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution07.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution09.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution06.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution03.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution01.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution02.jpg
+│   │   └── 📄 Avis aux etudiants SMI_S6.docx
+│   ├── 📁 SMI6 FPN Bases de données Avancées 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 Bases de données Avancées BasesDonnéesAvancées.pdf
+│   │   └── 📄 Bases de données Avancées serie2_SMI20.pdf
+│   ├── 📁 S6 SMI FSJ Administration Oracle 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📁 S6 SSSS TECHNOLOGIE J2EE/
+│   │   │   ├── 📄 Servlet.pdf
+│   │   │   ├── 📄 JSP.pdf
+│   │   │   ├── 📄 atelier5.pdf
+│   │   │   ├── 📄 atelier4.pdf
+│   │   │   ├── 📄 atelier3.pdf
+│   │   │   ├── 📄 atelier2.pdf
+│   │   │   └── 📄 atelier1.pdf
+│   │   └── 📁 S6 SSSS DBA/
+│   │       ├── 📄 Atelier5.pdf
+│   │       ├── 📄 Atelier4.pdf
+│   │       ├── 📄 Atelier3_Correction.docx
+│   │       ├── 📄 Atelier3.pdf
+│   │       ├── 📄 Atelier2_Correction.docx
+│   │       ├── 📄 Atelier2.pdf
+│   │       ├── 📄 Atelier1.pdf
+│   │       ├── 📄 Atelier1_correction.docx
+│   │       ├── 📄 Administration4.pdf
+│   │       ├── 📄 Administration3.pdf
+│   │       ├── 📄 Administration2.pdf
+│   │       └── 📄 Administration1.pdf
+│   ├── 📁 S6 SMI FSDM BD2(PLSQL) 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 39057.pdf
+│   │   ├── 📄 6SMI_S6_Complement.pdf
+│   │   ├── 📄 2TP BD2  triggers plsql fct proc S6  V2.pdf
+│   │   ├── 📄 1SMI_S6_P10_P10 et P98_fin.pdf
+│   │   ├── 📄 3AAA_DBAI_DD_oracle.ppt
+│   │   ├── 📄 4AAA  MemoOracle_sql.pdf
+│   │   └── 📄 5Memo_PL_SQL.pdf
+│   ├── 📁 S6 SMI FPKHRIBGHA WEB DYNAMIQUE 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 HTML CHAKRAOUI  fpk.pdf
+│   │   ├── 📄 CSS3 CHAKRAOUI  fpk.pdf
+│   │   ├── 📄 PHP5 CHAKRAOUI  fpk.pdf
+│   │   └── 📄 PHP5 INTERCTIVITE CHAKRAOUI  UPM.pdf
+│   ├── 📁 S6 SMI FPKHRIBGHA BASE DE DONNEES AVANCEEA 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 cours SQL chakraoui.pdf
+│   │   ├── 📄 PLSQL  SMI S6.pdf
+│   │   ├── 📁 TP SQL-20200605/
+│   │   │   ├── 📄 TP 1.pdf
+│   │   │   ├── 📄 aeroport.txt
+│   │   │   └── 📄 TP 2.pdf
+│   │   └── 📁 TP PLSQL-20200605/
+│   │       ├── 📄 TP 4.pdf
+│   │       ├── 📄 TP 3.pdf
+│   │       ├── 📄 TP 2.pdf
+│   │       ├── 📄 TP 1.pdf
+│   │       └── 📄 aeroport.txt
+│   ├── 📁 S6 FSO SMI Bases de Données Avancées 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 Cours_BD_Avan_SMI-S6_Moussi.ppt
+│   │   └── 📄 TP_BD_Avanc_SMI-S6_Moussi.pdf
+│   ├── 📁 S6 FSO SMI  Bases de données avancées 19-20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 Bases de données avancées SFI36404_TD_5e71247edc5ae.pdf
+│   │   └── 📄 Bases de données avancées SFI36404_CR_5e7124525f76f.ppt
+│   ├── 📁 S6 FSDM SMI BD2(PLSQL) SMI 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 32921.zip
+│   │   ├── 📄 6SMI_S6_Complement.pdf
+│   │   ├── 📄 2TP BD2  triggers plsql fct proc S6  V2.pdf
+│   │   ├── 📄 1SMI_S6_P10_P10 et P98_fin.pdf
+│   │   ├── 📄 3AAA_DBAI_DD_oracle.ppt
+│   │   ├── 📄 4AAA  MemoOracle_sql.pdf
+│   │   └── 📄 5Memo_PL_SQL.pdf
+│   ├── 📁 S6 FSAC SMI6 Système d'information décisionnel 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 video.pdf
+│   │   ├── 📄 videoA.pdf
+│   │   ├── 📄 videoCV.pdf
+│   │   ├── 📄 videoC.pdf
+│   │   └── 📄 SQL-OLAP-TP.pdf
+│   ├── 📁 S6 FS SAFI Base de données avancées SMI6 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 TDTP1BDA.pdf
+│   │   ├── 📄 TDTP2BDA.pdf
+│   │   ├── 📄 cbd1.pdf
+│   │   ├── 📄 cbd2.pdf
+│   │   ├── 📄 cbd3.pdf
+│   │   ├── 📄 cbd4.pdf
+│   │   └── 📄 usercours.pdf
+│   └── 📁 FSTG BASE DE DONNEES REPARTIS 2020/
+│       ├── 📄 2022 SABOR.PNG
+│       ├── 📄 TP5.docx
+│       ├── 📄 Chapitre6_Mise en place de BD répartie.pptx
+│       ├── 📄 Chapitre5_transactions_Abdali.pptx
+│       ├── 📄 TP4.docx
+│       ├── 📄 Chapitre4_Replication_Abdali.pptx
+│       ├── 📄 TP3.docx
+│       ├── 📄 Chapitre3_Allocation_Abdali.pptx
+│       ├── 📄 TP_Fragmentation.docx
+│       ├── 📄 Chapitre2_fragmentation_Abdali.pptx
+│       ├── 📄 TD1.docx
+│       └── 📄 Chapitre1 IntroductionBDR_Abdali.ppt
+├── 📁 Examens/
+│   ├── 📄 Correction Exercices BD Objet Modélisation ODL OQL Requêtes-Bases de données avancées
+│   ├── 📄 Examen Masters Architecture Bases de Donnees USTHB 2012 2013-Bases de données avancées
+│   ├── 📄 Examen BD Avancées Jointure Stratégies Distribution-Bases de données avancées
+│   ├── 📄 Bases Données Avancées Contrôle Continu Jointures Distribuées-Bases de données avancées
+│   ├── 📄 Examen BDA Correction Fragmentation Distribuées 2016 2017-Bases de données avancées
+│   ├── 📄 Examen Bases de données avancées Master IL SII 2009 2010
+│   ├── 📄 Examen BDD Avancées Fragmentation Master IL 2010 2011-Bases de données avancées
+│   ├── 📄 Examen Masters Architecture Bases de Donnees USTHB 2012 2013-Bases de données avancées
+│   ├── 📄 Examen corrigé BDA Diagramme de classe ODL 2012 2013-Bases de données avancées
+│   ├── 📄 Examen Bases de données avancées Master 2011 2012
+│   ├── 📄 Examen Arch Bases Donnees Gestion Transactions 2012 2013-Bases de données avancées
+│   ├── 📄 Examen Admin Tuning BD Master SSI 2012 2013-Bases de données avancées
+│   ├── 📄 Correction Exercices BD Objet Modélisation ODL OQL Requêtes-Bases de données avancées
+│   ├── 📄 13344503_1724815391109489_1601071198760148007_n.jpg
+│   ├── 📄 13335972_1724816217776073_1134393205784221979_n.jpg
+│   ├── 📄 13332741_1724816077776087_3442764558081245055_n.jpg
+│   ├── 📄 13327624_1724815431109485_7167110664985874651_n.jpg
+│   ├── 📄 13407029_1724816264442735_4098098771736164439_n.jpg
+│   ├── 📄 13346535_1724816297776065_2827286021367469917_n.jpg
+│   ├── 📄 13407247_1724815344442827_1833497451664997907_n.jpg
+│   ├── 📄 13418989_1724815611109467_1492788061873961209_n.jpg
+│   ├── 📁 SUJETS_BD/
+│   │   ├── 📄 img013.jpg
+│   │   ├── 📄 img012.jpg
+│   │   └── 📄 img011.jpg
+│   ├── 📁 sujets/
+│   │   ├── 📄 20140519_111718.jpg
+│   │   ├── 📄 20140519_102841.jpg
+│   │   ├── 📄 20140519_111732.jpg
+│   │   ├── 📄 20140519_102806.jpg
+│   │   ├── 📄 20140519_112641.jpg
+│   │   ├── 📄 20140519_102814.jpg
+│   │   ├── 📄 20140519_102827.jpg
+│   │   ├── 📄 20140519_102847.jpg
+│   │   ├── 📄 20140519_102832.jpg
+│   │   ├── 📄 20140519_102742.jpg
+│   │   ├── 📄 20140519_102539.jpg
+│   │   ├── 📄 20140519_102731.jpg
+│   │   ├── 📄 20140519_102655.jpg
+│   │   ├── 📄 20140519_102219.jpg
+│   │   ├── 📄 20140519_102631.jpg
+│   │   ├── 📄 20140519_102714.jpg
+│   │   ├── 📄 20140519_102242.jpg
+│   │   ├── 📄 20140519_102644.jpg
+│   │   ├── 📄 20140519_102607.jpg
+│   │   ├── 📄 20140519_102255.jpg
+│   │   ├── 📄 20140519_102210.jpg
+│   │   ├── 📄 20140519_102551.jpg
+│   │   ├── 📄 20140519_102231.jpg
+│   │   ├── 📄 20140519_102156.jpg
+│   │   ├── 📄 20140518_093933.jpg
+│   │   ├── 📄 20140518_093902.jpg
+│   │   ├── 📄 20140518_093941.jpg
+│   │   ├── 📄 20140518_093948.jpg
+│   │   ├── 📄 20140518_093839.jpg
+│   │   ├── 📄 20140518_093737.jpg
+│   │   ├── 📄 20140518_093919.jpg
+│   │   ├── 📄 20140518_093910.jpg
+│   │   ├── 📄 20140518_093926.jpg
+│   │   ├── 📄 20140518_093721.jpg
+│   │   ├── 📄 20140518_093757.jpg
+│   │   ├── 📄 20140518_093617.jpg
+│   │   ├── 📄 20140518_093845.jpg
+│   │   ├── 📄 20140518_093712.jpg
+│   │   ├── 📄 20140518_093639.jpg
+│   │   ├── 📄 20140430_125722.jpg
+│   │   ├── 📄 20140518_093539.jpg
+│   │   ├── 📄 20140518_093548.jpg
+│   │   ├── 📄 20140430_125702.jpg
+│   │   ├── 📄 20140518_093529.jpg
+│   │   ├── 📄 20140518_093606.jpg
+│   │   ├── 📄 20140430_125712.jpg
+│   │   ├── 📄 20140430_125733.jpg
+│   │   ├── 📄 20140430_125652.jpg
+│   │   ├── 📄 20140430_125607.jpg
+│   │   ├── 📄 20140430_125641.jpg
+│   │   ├── 📄 20140430_125556.jpg
+│   │   ├── 📄 20140430_125622.jpg
+│   │   ├── 📄 20140430_125519.jpg
+│   │   ├── 📄 20140430_125316.jpg
+│   │   ├── 📄 20140430_125455.jpg
+│   │   ├── 📄 20140430_125542.jpg
+│   │   ├── 📄 20140430_125422.jpg
+│   │   └── 📄 20140430_125508.jpg
+│   ├── 📁 SUJETS_BD_2/
+│   │   ├── 📄 A lire.txt
+│   │   ├── 📁 test/
+│   │   │   ├── 📄 242857_207121039326122_100000846824935_568188_5015341_o.jpg
+│   │   │   ├── 📄 240589_207120819326144_100000846824935_568187_5487455_o.jpg
+│   │   │   └── 📄 248940_207120575992835_100000846824935_568186_5680537_n.jpg
+│   │   └── 📁 corigé examen/
+│   │       ├── 📄 250500_162508033815794_100001697954333_417462_6839363_n.jpg
+│   │       ├── 📄 248960_162508150482449_100001697954333_417463_7567599_n.jpg
+│   │       └── 📄 248328_162507850482479_100001697954333_417461_5203449_n.jpg
+│   └── 📁 2016/
+│       ├── 📄 13418989_1724815611109467_1492788061873961209_n.jpg
+│       ├── 📄 13407247_1724815344442827_1833497451664997907_n.jpg
+│       ├── 📄 13407029_1724816264442735_4098098771736164439_n.jpg
+│       ├── 📄 13346535_1724816297776065_2827286021367469917_n.jpg
+│       ├── 📄 13344503_1724815391109489_1601071198760148007_n.jpg
+│       ├── 📄 13332741_1724816077776087_3442764558081245055_n.jpg
+│       ├── 📄 13335972_1724816217776073_1134393205784221979_n.jpg
+│       └── 📄 13327624_1724815431109485_7167110664985874651_n.jpg
+├── 📁 TP/
+│   ├── 📁 Projet2/
+│   │   ├── 📄 Projet 02 BDA M1 SII NoSQL MongoDB 2021 2022-Bases de données avancées
+│   │   └── 📄 world-mongodb.json
+│   ├── 📁 TP2/
+│   │   └── 📄 TP 2 pratique MongoDB Bases de donnees NoSQL BDA 2021 2022-Bases de données avancées
+│   ├── 📁 TP1/
+│   │   ├── 📄 Corrigé Exercices SQL3 Modélisation Système Location Véhicules-Bases de données avancées
+│   │   ├── 📄 TP Bases de Données Avancées SQL3 USTHB M1 IL M AZZOUZ-Bases de données avancées
+│   │   ├── 📄 TP 1 SQL3 BDA M1 Objets Relations Personne 2021 2022-Bases de données avancées
+│   │   ├── 📄 Script SQL Ex03.sql
+│   │   ├── 📄 Script SQL Ex02.sql
+│   │   └── 📄 Script SQL Ex01.sql
+│   └── 📁 Projet1/
+│       ├── 📄 M1 SII BDA Projet 01 SQL3 Oracle Gestion Hôpital 2021 2022-Bases de données avancées
+│       └── 📄 Inserts.sql
+├── 📁 TD/
+│   ├── 📄 corrigé exercice 4.PDF
+│   ├── 📄 TD 4 : Fragmentation de donnée - Bases de données distribuées
+│   ├── 📄 TD N° 1 : Analyse Orientée Objet et diagramme de classes
+│   ├── 📄 TD N° 2 : Analyse Orientée Objet et diagramme d’états-transitions
+│   ├── 📄 TD3 NoSQL Modélisation Du Relationnel Au Documentaire-Bases de données avancées
+│   ├── 📄 TD N2 AOO Diagramme états Boîte vitesse automatique-Bases de données avancées
+│   ├── 📄 TD 1 AOO Diagrammes de Classes BDA M1 S2 2021 2022-Bases de données avancées
+│   ├── 📄 TD N1 Analyse Orientee Objet diagramme classes BDA M1-Bases de données avancées
+│   ├── 📄 Exercices Modélisation UML Série 1 Diagrammes de Classes-Bases de données avancées
+│   ├── 📄 Master IL SII Exercices UML Diagramme Classes Etats Transitions-Bases de données avancées
+│   ├── 📄 TD 04 Fragmentaion.pptx
+│   └── 📄 TD 03 NoSQL Modélisation.pdf
+└── 📁 Cours/
+    ├── 📄 Chapitre 6 BDA.pdf
+    ├── 📄 Chapitre 7 BDA.pdf
+    ├── 📄 Chapitre 5 BDA.pdf
+    ├── 📄 Chapitre 4 BDA.pdf
+    ├── 📄 Chapitre 3 BDA.pdf
+    ├── 📄 Chapitre 2 BDA.pdf
+    ├── 📄 Chapitre 1 BDA.pdf
+    └── 📄 Introduction.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Bases de données avancées
+═════════════════════════════════════

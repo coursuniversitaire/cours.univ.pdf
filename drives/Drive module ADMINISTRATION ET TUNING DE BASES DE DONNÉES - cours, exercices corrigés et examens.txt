@@ -1,0 +1,53 @@
+📚 MODULE : ADMINISTRATION ET TUNING DE BASES DE DONNÉES
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module ADMINISTRATION ET TUNING DE BASES DE DONNÉES.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 ADMINISTRATION ET TUNING DE BASES DE DONNÉES/
+└── 🔗📁 ADMIN TUN/  (raccourci)
+    ├── 🔗📁 Benchmark APB.rar/  (raccourci)
+    ├── 📄 Cours ATBD.rar
+    ├── 📁 ancien examen/
+    │   └── 📄 Examen Tuning et Administration des SGBD.pdf
+    ├── 📁 Videos/
+    │   ├── 🔗📁 TD TABD 2020-05-04-optimisation.mp4/  (raccourci)
+    │   ├── 🔗📁 TD TABD 2020-05-11-IJB.mp4/  (raccourci)
+    │   ├── 🔗📁 TABD 2020-05-11-FH ORacle.mp4/  (raccourci)
+    │   ├── 🔗📁 TD Triggers TABD 13 Avril.mp4/  (raccourci)
+    │   ├── 🔗📁 TABD 2020-05-04-fragmentation.mp4/  (raccourci)
+    │   ├── 🔗📁 Cours TABD 13 Avril.mp4/  (raccourci)
+    │   ├── 🔗📁 TABD 2020-04-27-Index-Bitmap.mp4/  (raccourci)
+    │   ├── 🔗📁 TD TABD 2020-04-27-B-arbre-Triggers.mp4/  (raccourci)
+    │   └── 🔗📁 Cours 20 Avril.mp4/  (raccourci)
+    ├── 📁 TP/
+    │   ├── 📄 TP_Optimisation-FH.docx
+    │   ├── 📄 TP_Optimisation-IJB-VM.docx
+    │   ├── 📄 TP_SQL_Loader.docx
+    │   ├── 📄 TD Optimisation_corrigé_webex.docx
+    │   ├── 📄 TD Optimisation_corrigé_webex.docx
+    │   ├── 📄 TD 3 Optimiqation 2019-2020 NEW.pdf
+    │   ├── 📄 Capture1.PNG
+    │   ├── 📄 Capture 2.png
+    │   ├── 📄 TD 2-B-arbre new.pdf
+    │   ├── 📄 3. TP3 Dictionnaire 2019-2020.pdf
+    │   └── 📄 1. TP1_Rappel SQL_2019-2020.pdf
+    └── 📁 cours/
+        ├── 📄 TD 1 Triggers 2019-2020 MAJ.docx
+        ├── 📄 Chapitre_2_-_Optimisation_(OK)2020.pdf
+        ├── 📄 Chapitre_1_-_1_Architecture_(OK).pdf
+        ├── 📄 Chapitre_1_-_2_Contraintes_Triggers_(OK).pdf
+        └── 📄 Chapitre_1_-_1_Méta-Base_(OK).pdf
+
+═════════════════════════════════════
+  Fin du fichier · ADMINISTRATION ET TUNING DE BASES DE DONNÉES
+═════════════════════════════════════

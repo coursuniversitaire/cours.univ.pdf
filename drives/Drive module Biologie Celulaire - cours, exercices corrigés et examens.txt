@@ -1,0 +1,108 @@
+📚 MODULE : Biologie Celulaire                        
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Biologie Celulaire.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Biologie Celulaire/
+├── 📄 °TD Biologie Cellulaire FSO OUAJDA 19 20.pdf
+├── 🔗📁 biologie cellulaire et histologie/  (raccourci)
+│   ├── 📁 cours/
+│   │   ├── 📄 biologie cellulaire (1).pdf
+│   │   ├── 📄 5-Biosynthese des proteines (1).ppsx
+│   │   ├── 📄 osmose et T.A ppt.ppsx
+│   │   ├── 📄 cours_sv1_biocell.pdf
+│   │   ├── 📄 Appareil de Golgi.ppsx
+│   │   └── 📄 physiologie de la MP(1).ppsx
+│   └── 📁 TD/
+│       ├── 📄 Solution TD_1 Perméabilité membranaire.pdf
+│       ├── 📄 TD N°1 PERMEABILITE MEMBRANAIRE.pdf
+│       ├── 📄 Corrigé TDn°2 Noyau.pdf
+│       └── 📄 TD partie Noyau et Acides nuclléiques.pdf
+├── 🔗📁 Biologie Cellulaire /  (raccourci)
+│   ├── 📁 Polycopié Travaux Pratiques/
+│   │   └── 📄 Polycope TP 2020-21.pdf
+│   ├── 📁 Polycopié COURS/
+│   │   └── 📄 Polycopié cours Biologie Cellulaire   2020-21.pdf
+│   ├── 📁 Résumé Lamyae/
+│   │   └── 📄 bio cell(lamya el).pdf
+│   ├── 📁 Td/
+│   │   ├── 📄 TD n°1 BCG Nov 2020-2021 Enoncé.pdf
+│   │   └── 📄 TD nÂ°1 BCG Nov 2020-2021 EnoncÃ©️.pdf
+│   └── 📁 Cours/
+│       ├── 📄 Chapitre 4  Le Cycle cellulaire, information génétique et synthèse des protéines.pdf
+│       ├── 📄 Chapite  3 Les organites et constituants cytoplasmique  V.pdf
+│       ├── 📄 Chapite  1 Organisation cellulaire 2.pdf
+│       └── 📄 Chapite  2 Les membranes cellulaires.pdf
+├── 🔗📁 Biologie Celulaire/  (raccourci)
+│   ├── 📁 Controles/
+│   │   └── 📄 Correction_Examen_Bio-Cell_S1_07-Janvier-2023.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 TD Mitose et Méiose 2021-22 .pdf
+│   │   ├── 📄 TD3 Ribosomes et synthèse protéique.pptx
+│   │   ├── 📄 TD2_Autoradiographie_2022-23_Présentation amphi.pdf
+│   │   ├── 📄 II-TD1_Méthodes dobservation de la cellule_PARTIE2_2022-23 ETUDIANTS.pdf
+│   │   ├── 📄 TD1-METHODES D’OBSERVATION DE LA CELLULE PARTIE I_2022-23.pdf
+│   │   ├── 📄 Lexique Français-Arabe Biologie .pdf
+│   │   └── 📄 Polycopié TD Biologie Cellulaire 2022--23_ecampus FSSM.pdf
+│   ├── 📁 Cours/
+│   │   ├── 📄 9_Choloroplastes.pdf
+│   │   ├── 📄 8_Mitochondries.pdf
+│   │   ├── 📄 7_Replication-et-Transcription.pdf
+│   │   ├── 📄 6_Noyau_Structure.pdf
+│   │   ├── 📄 5_PEROXYSOMES.pdf
+│   │   ├── 📄 4_LYSOSOMES.pdf
+│   │   ├── 📄 3_Partie2_AG.pdf
+│   │   ├── 📄 2_Partie2_RE.pdf
+│   │   ├── 📄 1_Partie2_Introduction_Organites_Cellulaires.pdf
+│   │   ├── 📄 3_Partie-1_Cours-S1_Membrane_plasmique-Suite.pdf
+│   │   ├── 📄 2_Partie-1_Cours-S1_Membrane_plasmique.pdf
+│   │   └── 📄 1_Partie-1_Cours-S1_Introduction_Const-chimiques.pdf
+│   └── 📁 TP/
+│       └── 📄 DESSINS TP1 2015-16.pdf
+├── 📁 Biologie Celulaire/
+│   ├── 📁 Controles/
+│   │   └── 📄 Correction_Examen_Bio-Cell_S1_07-Janvier-2023.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 TD Mitose et Méiose 2021-22 .pdf
+│   │   ├── 📄 TD2_Autoradiographie_2022-23_Présentation amphi.pdf
+│   │   ├── 📄 II-TD1_Méthodes dobservation de la cellule_PARTIE2_2022-23 ETUDIANTS.pdf
+│   │   ├── 📄 TD1-METHODES D’OBSERVATION DE LA CELLULE PARTIE I_2022-23.pdf
+│   │   ├── 📄 Lexique Français-Arabe Biologie .pdf
+│   │   └── 📄 Polycopié TD Biologie Cellulaire 2022--23_ecampus FSSM.pdf
+│   ├── 📁 Cours/
+│   │   ├── 📄 9_Choloroplastes.pdf
+│   │   ├── 📄 8_Mitochondries.pdf
+│   │   ├── 📄 7_Replication-et-Transcription.pdf
+│   │   ├── 📄 6_Noyau_Structure.pdf
+│   │   ├── 📄 5_PEROXYSOMES.pdf
+│   │   ├── 📄 4_LYSOSOMES.pdf
+│   │   ├── 📄 3_Partie2_AG.pdf
+│   │   ├── 📄 2_Partie2_RE.pdf
+│   │   ├── 📄 1_Partie2_Introduction_Organites_Cellulaires.pdf
+│   │   ├── 📄 3_Partie-1_Cours-S1_Membrane_plasmique-Suite.pdf
+│   │   ├── 📄 2_Partie-1_Cours-S1_Membrane_plasmique.pdf
+│   │   └── 📄 1_Partie-1_Cours-S1_Introduction_Const-chimiques.pdf
+│   └── 📁 TP/
+│       └── 📄 DESSINS TP1 2015-16.pdf
+└── 📁 Biologie Cellulaire /
+    ├── 📁 Polycopié Travaux Pratiques/
+    │   └── 📄 Polycope TP 2020-21.pdf
+    ├── 📁 Polycopié COURS/
+    │   └── 📄 Polycopié cours Biologie Cellulaire   2020-21.pdf
+    └── 📁 Td/
+        ├── 📄 TD n°1 BCG Nov 2020-2021 Enoncé.pdf
+        └── 📄 TD nÂ°1 BCG Nov 2020-2021 EnoncÃ©️.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Biologie Celulaire
+═════════════════════════════════════

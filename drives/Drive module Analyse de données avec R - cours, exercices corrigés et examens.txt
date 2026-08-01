@@ -1,0 +1,72 @@
+📚 MODULE : Analyse de données avec R                 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Analyse de données avec R.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Analyse de données avec R/
+├── 🔗📁 R/  (raccourci)
+│   ├── 📄 The guide to quickly learn Cloud Computing in R Programming.jpg
+│   ├── 📄 ggplot2.pdf
+│   ├── 📄 R_Advanced.pdf
+│   ├── 📄 Eurostat.pdf
+│   ├── 📄 R_Basics.pdf
+│   ├── 📄 Data-Wrangling.pdf
+│   ├── 📄 R Reference Card for Data Mining.pdf
+│   ├── 📄 RStudio-IDE.pdf
+│   ├── 📄 Package-Development.pdf
+│   ├── 📄 Cheatsheet – 11 Steps for Data Exploration in R (with codes).webp
+│   ├── 📄 caret.pdf
+│   ├── 📄 Leaflet.pdf
+│   ├── 📄 Data-Transformation.pdf
+│   ├── 📄 Data-import.pdf
+│   ├── 📄 R_Advanced_2.pdf
+│   ├── 📄 R_Markdown.pdf
+│   ├── 📄 sparklyr.pdf
+│   ├── 📄 Shiny.pdf
+│   ├── 📄 Road_to_ML.png
+│   ├── 📄 Data.table.pdf
+│   ├── 📄 xts.pdf
+│   ├── 📄 Data-visualisation.jpg
+│   ├── 📄 Tidyverse.pdf
+│   ├── 📄 R Reference Card.pdf
+│   └── 📄 Regular Expression.pdf
+├── 📄 chap2_2AD-converted.pptx
+├── 📄 chap2_3AD-converted.pptx
+├── 📄 chap5AD-converted.pptx
+├── 📄 chap3AD-converted.pptx
+├── 📄 classification-SAS.doc
+├── 📄 ACPsas.doc
+├── 📄 cesar algo.png
+├── 📄 _cours ensaf gryptographie.ppt
+├── 📄 coursensagryptographie2.ppt
+├── 📄 _coursensagryptographie2.ppt
+├── 📄 projet d'examen corr.rar
+├── 📄 ch1 ADD1-MAB.pdf
+├── 📄 polyAD.pdf
+├── 📄 ProjetRSA 2020.pdf
+├── 📄 tp6.pdf
+├── 📄 R.pdf
+├── 📄 canonique.pptx.pdf
+├── 📄 TP1_Intro_R.pdf
+├── 📄 manuelR.pdf
+├── 📄 ProjetRSA.pdf
+├── 📄 tp7.pdf
+└── 📁 TPs/
+    ├── 📄 Analyse des Donn ́ees  Travaux Pratiques 1.pdf
+    ├── 📄 Analyse des Donn ́ees  Travaux Pratiques 2.pdf
+    ├── 📄 TP 4 - IUP SID M1 2006-2007 - Comparaison de  l’AFD et de l’ACP.pdf
+    └── 📄 Analyse des Donn ́ees  Travaux Pratiques 0.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Analyse de données avec R
+═════════════════════════════════════

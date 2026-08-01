@@ -1,0 +1,22 @@
+📚 MODULE : _blog                                     
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module _blog.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 _blog/
+└── 📁 Systèmes embaqués/
+    └── 📄 Exercices corrigés Systèmes embaqués corrigés - TD 03 Les sorties analogiques – Utilisation de l’option PWM.pdf
+
+═════════════════════════════════════
+  Fin du fichier · _blog
+═════════════════════════════════════

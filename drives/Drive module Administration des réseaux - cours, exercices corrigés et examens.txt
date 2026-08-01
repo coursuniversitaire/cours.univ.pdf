@@ -1,0 +1,266 @@
+📚 MODULE : Administration des réseaux                
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Administration des réseaux.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Administration des réseaux/
+├── 🔗📁 ADMINISTRATION RESEAU/  (raccourci)
+│   ├── 📁 EXAM/
+│   │   ├── 📄 adminQCM_2.pdf
+│   │   ├── 📄 IMG_20160107_110753.jpg
+│   │   ├── 📄 IMG_20160107_111608.jpg
+│   │   ├── 📄 IMG_20160107_111624.jpg
+│   │   ├── 📄 IMG_20160107_111631.jpg
+│   │   ├── 📄 IMG_20160107_111617.jpg
+│   │   ├── 📄 IMG_20160107_110817.jpg
+│   │   ├── 📄 RDS-CSF-_COR.pdf
+│   │   ├── 📄 IMG_20160107_111657.jpg
+│   │   ├── 📄 IMG_20160107_110716.jpg
+│   │   ├── 📄 IMG_20160107_110723.jpg
+│   │   ├── 📄 IMG_20160107_111649.jpg
+│   │   ├── 📄 IMG_20160107_111703.jpg
+│   │   ├── 📄 IMG_20160107_111641.jpg
+│   │   ├── 📄 2013-09-01-0207.jpg
+│   │   ├── 📄 IMG_20160107_110829.jpg
+│   │   ├── 📄 2013-09-01-0208.jpg
+│   │   ├── 📄 33656924_1926891770655299_8093623719055851520_n (3).jpg
+│   │   ├── 📄 33774731_1926892610655215_3303148640276578304_n.jpg
+│   │   ├── 📄 33621341_1926892153988594_9138648442527023104_n.jpg
+│   │   ├── 📄 ETUDE-DE-CAS-QCM.pdf
+│   │   ├── 📄 résumé-corr-examen-Admin-S2-2013.docx
+│   │   ├── 📄 33614520_1926892547321888_3936075976160575488_n.jpg
+│   │   ├── 📄 33653595_1926892627321880_2081978202665779200_n.jpg
+│   │   ├── 📄 33656924_1926891770655299_8093623719055851520_n (2).jpg
+│   │   ├── 📄 AdminCS2014_EMD+Corr.pdf
+│   │   ├── 📄 AdminCS2014_EMDCorr-1.pdf
+│   │   ├── 📄 AdminCS2013_EMD+Corr.pdf
+│   │   ├── 📄 33892886_1926891540655322_770139330399174656_n.jpg
+│   │   ├── 📄 15978564_1518446848167261_776122439_n.jpg
+│   │   ├── 📄 33672235_1926891837321959_3673587782850183168_n.jpg
+│   │   ├── 📄 33615826_1926892630655213_7981355434306961408_n.jpg
+│   │   ├── 📄 33745581_1926892540655222_7856458648627707904_n.jpg
+│   │   ├── 📄 1624234_616460515093821_702951990_n.jpg
+│   │   ├── 📄 1558449_579840292097239_816160371_n.jpg
+│   │   ├── 📄 33509562_1926891850655291_7042858647239524352_n.jpg
+│   │   ├── 📄 33656924_1926891770655299_8093623719055851520_n.jpg
+│   │   ├── 📄 33624393_1926891553988654_3547893151161122816_n.jpg
+│   │   ├── 📄 33600803_1926892660655210_4695400162296594432_n.jpg
+│   │   ├── 📄 33649372_1926891777321965_4074552177119461376_n.jpg
+│   │   ├── 📄 33597976_1926891600655316_5859959258749075456_n.jpg
+│   │   ├── 📄 33412114_1926892690655207_455428973334102016_n.jpg
+│   │   ├── 📄 33775978_1926892183988591_7502067668535476224_n.jpg
+│   │   └── 📄 33656924_1926891770655299_8093623719055851520_n (1).jpg
+│   ├── 📁 ALL TP/
+│   │   ├── 📄 TP01 Installation de VMware, Windows server, contrôleur de domaine, DNS.pdf
+│   │   ├── 📄 TP07 messagerie Exchange.pdf
+│   │   ├── 📄 TP05 approbation bidirectionnelle.pdf
+│   │   ├── 📄 TP03 Accès Bureau à distance (Remote Desktop).pdf
+│   │   ├── 📄 TP06 Virtual Private Network (VPN) et Bureau à distance.pdf
+│   │   ├── 📄 TP04 Installation d’un domaine fils.pdf
+│   │   └── 📄 TP02 Création et gestion des stratégies de groupe (GPO).pdf
+│   ├── 📁 cours Zeraoulia/
+│   │   ├── 📄 protocles couches applications.pdf
+│   │   ├── 📄 xpose_ldap.pdf
+│   │   ├── 📄 essentiel 2003.pdf
+│   │   ├── 📄 Cours_DHCP.pdf
+│   │   ├── 📁 001 Introduction/
+│   │   │   └── 📁 Introduction/
+│   │   │       ├── 📄 2189_2278_1_A_MCSE.SWF
+│   │   │       ├── 📄 2189_2278_1_A_MCSE.XML
+│   │   │       └── 📄 2189_2278_1_A_MCSE.HTM
+│   │   ├── 📁 007 Gestion des Groupes/
+│   │   │   └── 📄 Gestion des groupes.pps
+│   │   ├── 📁 003 Active Directory 1/
+│   │   │   └── 📁 003 Active Directory 1/
+│   │   │       ├── 📄 Active Directory 1.rar
+│   │   │       ├── 📄 Active directory 1.pps
+│   │   │       ├── 📄 2194A_2279A_1_A_SSO.SWF
+│   │   │       ├── 📄 2194A_2279A_02_A_DNS.SWF
+│   │   │       ├── 📄 2194A_2279A_1_A_SSO.XML
+│   │   │       ├── 📄 2194A_2279A_02_A_DNS.XML
+│   │   │       ├── 📄 2194A_2279A_02_A_DNS.HTML
+│   │   │       └── 📄 2194A_2279A_1_A_SSO.HTML
+│   │   ├── 📁 006 Gestion des comptes d'utilisateurs et d'ordinateurs/
+│   │   │   └── 📄 Gestion des comptes d'utilisateurs et d'ordinateurs.pps
+│   │   ├── 📁 004 Conception d'une infrastructure de site/
+│   │   │   └── 📁 004 Conception d'une infrastructure de site/
+│   │   │       └── 📄 Conception d'une infrastructure de site.pps
+│   │   ├── 📁 002 Conception d'AD/
+│   │   │   └── 📁 002 Conception d'AD/
+│   │   │       ├── 📄 Introduction a une conception AD.pps
+│   │   │       ├── 📄 2194A_2279A_01_A_LOGICAL.SWF
+│   │   │       ├── 📄 2194A_2279A_01_A_PHYSICAL.SWF
+│   │   │       ├── 📄 2194A_2279A_01_A_PHYSICAL.HTML
+│   │   │       ├── 📄 2194A_2279A_01_A_LOGICAL.XML
+│   │   │       ├── 📄 2194A_2279A_01_A_LOGICAL.HTML
+│   │   │       └── 📄 2194A_2279A_01_A_PHYSICAL.XML
+│   │   ├── 📁 005 Conception de la structure administrative/
+│   │   │   └── 📁 005 Conception de la structure administrative/
+│   │   │       └── 📄 Conception de la structure administrative.pps
+│   │   ├── 📁 008 GPO/
+│   │   │   ├── 📄 Introduction aux stratègies de groupes.swf
+│   │   │   ├── 📄 gpo.pps
+│   │   │   ├── 📄 2144A_2274_6_I_GP.swf
+│   │   │   ├── 📄 2144A_2274_6_I_GP.HTML
+│   │   │   └── 📄 Introduction aux stratègies de groupes.xml
+│   │   └── 📁 009 Implémentation de modèles d'administration et d'une stratégie d'audit/
+│   │       └── 📄 Implémentation de modèles d'administration et d'une stratégie d'audit.pps
+│   ├── 📁 New folder (2)/
+│   │   ├── 📄 UNIX1.pdf
+│   │   ├── 📄 AD2.pdf
+│   │   ├── 📄 SNMP1.pdf
+│   │   ├── 📄 ADMIN1.pdf
+│   │   ├── 📄 ADMIN3.pdf
+│   │   ├── 📄 AD1.pdf
+│   │   ├── 📄 DNS.pdf
+│   │   ├── 📄 SNMP.pdf
+│   │   ├── 📄 DHCP.pdf
+│   │   ├── 📄 ADMIN2.pdf
+│   │   ├── 📄 ADMIN5.pdf
+│   │   ├── 📄 ADMIN4.pdf
+│   │   ├── 📄 UNIX2.pdf
+│   │   ├── 📄 NIS.pdf
+│   │   └── 📁 admin/
+│   │       └── 📁 cours-trm/
+│   │           └── 📁 cours csf/
+│   │               ├── 📄 wlan- wpan planif (2).pptx
+│   │               ├── 📄 cellulaire.pdf
+│   │               └── 📄 ~$wlan- wpan planif (2).pptx
+│   └── 📁 RESUME/
+│       ├── 📄 o10.jpg
+│       ├── 📄 o8.jpg
+│       ├── 📄 o11.jpg
+│       ├── 📄 o16.jpg
+│       ├── 📄 o6.jpg
+│       ├── 📄 o13.jpg
+│       ├── 📄 o9.jpg
+│       ├── 📄 o17.jpg
+│       ├── 📄 o15.jpg
+│       ├── 📄 o7.jpg
+│       ├── 📄 o2.jpg
+│       ├── 📄 o3.jpg
+│       ├── 📄 o4.jpg
+│       ├── 📄 o14.jpg
+│       ├── 📄 o1.jpg
+│       ├── 📄 o5.jpg
+│       └── 📄 o12.jpg
+├── 🔗📁 cour administration reseaux/  (raccourci)
+│   ├── 📄 TP 5 AR.pkt
+│   ├── 📄 TP 5 AR.pkt
+│   ├── 📄 TP 5 AR.pkt
+│   ├── 📄 TP 4.pkt
+│   ├── 📄 TP 4.pkt
+│   ├── 📄 TP 4.pkt
+│   ├── 📄 Exemple de Poster.ppt
+│   ├── 📄 TP 4 AR (1).pkt
+│   ├── 📄 TP 4 AR (1).pkt
+│   ├── 📄 TP 4 AR (1).pkt
+│   ├── 📄 Cours 4 CISCO - Protocoles CDP et TFTP.pdf
+│   ├── 📄 Cours 3 CISCO - Routage et Tests de Connectivité.pdf
+│   ├── 📄 Cours 2 CISCO - Configuration et Gestion des Routeurs.pdf
+│   ├── 📄 Cours 1 CISCO - Configuration et Gestion des Switch.pdf
+│   ├── 📄 Mini-Projets AR M2 ASR.pdf
+│   ├── 📄 Mini-Projets AR M2 ASR.pdf
+│   └── 📄 Cours et TPs - AR M2 ASR.pdf
+├── 🔗📁 Admin-Rx/  (raccourci)
+│   ├── 📁 EMDs/
+│   │   ├── 📄 Corrigé-Examen-AR_2020-2021.pdf
+│   │   ├── 📄 1636469235808_Corrigé-Examen-AR_2019-2020.pdf
+│   │   ├── 📄 1636469226962_Examen-AR_2019-2020.pdf
+│   │   ├── 📄 Examen-AR_2018-2019.pdf
+│   │   └── 📄 1645957425799_Examen-AR_2017-2018.pdf
+│   └── 📁 Cours/
+│       ├── 📄 Cour Yazid.pdf
+│       ├── 📄 P2 - Routage et Tests de Connectivité.pdf
+│       ├── 📄 T1 - Réseaux et Leurs Caractéristiques.pdf
+│       ├── 📄 P1 - Configuration de Base et Outils dAccès à Distance.pdf
+│       ├── 📄 T2 - Domaines Fonctionnels de lAdministration des Réseaux.pdf
+│       ├── 📄 T3 - Environnements dAdministration des Réseaux.pdf
+│       ├── 📄 P3- Protocoles CDP et TFTP.pdf
+│       └── 📄 T4 - Environnement dAdministration SNMP.pdf
+├── 🔗📁 Administration réseaux et Qualité de Service/  (raccourci)
+│   ├── 📄 Cours M2 AR et QoS 2020-2021.pdf
+│   ├── 📄 Chapitre 2 AR et QoS 2020-2021.pdf
+│   ├── 📄 Chapitre 3 AR et QoS 2020-2021.pdf
+│   ├── 📄 Chapitre 4 AR et QoS 2020-2021.pdf
+│   ├── 📄 Fiche TP 1 AD QOS 2020-2021.pdf
+│   ├── 📄 Fiche TP 2 AD QOS 2020-2021.pdf
+│   ├── 📄 Fiche TP 3 AD QOS 2020-2021.pdf
+│   └── 📄 Fiche TP 4 AD QOS 2020-2021.pdf
+├── 🔗📁 Administration Réseau/  (raccourci)
+│   └── 📁 Cours/
+│       ├── 📄 cm5_snmp_netconf.pdf
+│       ├── 📄 cm4_nis_nfs.pdf
+│       ├── 📄 cm3_dns (1).pdf
+│       ├── 📄 cm2_dhcp.pdf
+│       └── 📄 cm1_routage_ipv4.pdf
+├── 🔗📁 M35 Administration Des Réseaux Informatiques FSR RABAT/  (raccourci)
+│   ├── 📁 TD/
+│   │   ├── 📄 TD2-Admin-SMI6.pdf
+│   │   ├── 📄 TD1-Admin-SMI6.pdf
+│   │   ├── 📄 TD3-Admin-SMI6.pdf
+│   │   └── 📄 TD4-Admin-SMI6.pdf
+│   └── 📁 Cours/
+│       ├── 📄 Cours4-SNMP-AdminRéseaux.pdf
+│       ├── 📄 Cours1-Protocoles-AdminRéseaux.pdf
+│       ├── 📄 Cours3-VLAN-AdminRéseaux.pdf
+│       └── 📄 Cours2-STP-AdminRéseaux.pdf
+├── 📁 Administration des services réseaux/
+│   ├── 📁 prof Zerrouki Hadj/
+│   │   ├── 📁 TD/
+│   │   │   ├── 📄 TD5.pdf
+│   │   │   ├── 📄 TD4.pdf
+│   │   │   ├── 📄 TD3.pdf
+│   │   │   ├── 📄 TD2.pdf
+│   │   │   └── 📄 TD1.pdf
+│   │   └── 📁 Cours/
+│   │       ├── 📄 Chapitre 4 partie 2 Le service de transfert de fichiers (FTP).pdf
+│   │       ├── 📄 Chapitre 4 partie 1 Le service de messagerie (SMTP).pdf
+│   │       ├── 📄 Chapitre 3 partie 2  Les services annuaires (DHCP).pdf
+│   │       ├── 📄 Chapitre 3 partie 1  Les services annuaires (DNS).pdf
+│   │       ├── 📄 Chapitre 2 Le service SNMP.pdf
+│   │       └── 📄 Chapitre 1  Présentation de l’administration réseau.pdf
+│   └── 📁 prof Berkat abdellatif/
+│       └── 📁 cours/
+│           ├── 📄 Admin des services reseaux_ chapitre 5.pdf
+│           ├── 📄 Admin des services reseaux_ chapitre 4 .pdf
+│           ├── 📄 Admin des services reseaux_ Partie-2 de chap3 .pdf
+│           ├── 📄 Admin des services reseaux_ chapitre 6.pdf
+│           └── 📄 Admin des services reseaux_chap1-chap2 et Partie-1 de chap3 .pdf
+└── 📁 Administration des réseaux/
+    ├── 📁 TD/
+    │   ├── 📄 TD_ACL_VLANCorrection.pdf
+    │   ├── 📄 TD2 _ VLANs.pdf
+    │   ├── 📄 TD2 _ VLANs (corrigé).pdf
+    │   ├── 📄 TD3 _ SNMP (corrigé).pdf
+    │   └── 📄 TD1 _ DHCP et DNS (Corrigé).pdf
+    ├── 📁 TP/
+    │   ├── 📄 TP6 _ SNMP.pdf
+    │   ├── 📄 TP4 _ VLAN.pdf
+    │   ├── 📄 TP5 _ ACL.pdf
+    │   ├── 📄 TP1 (idem).pdf
+    │   ├── 📄 TP3 _ Routage dynamique.pdf
+    │   ├── 📄 TP2 _ Routage statique.pdf
+    │   └── 📄 TP1 _ DHCP et DNS (corrigé).pdf
+    └── 📁 Cours/
+        ├── 📄 Chapitre 4 _ VLAN.pdf
+        ├── 📄 Chapitre 4 _ ACL.pdf
+        ├── 📄 Chapitre 5 _ SNMP.pdf
+        ├── 📄 Chapitre 4 _ ACL et contrôle d’accès.pdf
+        ├── 📄 Chapitre 3 _ Routage.pdf
+        ├── 📄 Chapitre 2 _ DHCP et DNS.pdf
+        └── 📄 Chapitre 1 _ Introduction.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Administration des réseaux
+═════════════════════════════════════

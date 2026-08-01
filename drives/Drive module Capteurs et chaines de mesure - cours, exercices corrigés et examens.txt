@@ -1,0 +1,48 @@
+📚 MODULE : Capteurs et chaines de mesure             
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Capteurs et chaines de mesure.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Capteurs et chaines de mesure/
+└── 📁 3# Capteurs et chaines de mesure/
+    ├── 📄 programme Capteurs chaines de mesure.pdf
+    ├── 📁 cours/
+    │   ├── 📄 chap 7 mesure de vitesse et de position.pdf
+    │   ├── 📄 chap 1 _ 2 intro _ notions fondamentales de la mesure.pdf
+    │   ├── 📄 Binder - tt les chapitres.pdf
+    │   ├── 📄 table thermc K.pdf
+    │   ├── 📄 table thermc J.pdf
+    │   ├── 📄 chap 8 circuits de conditionnement.pdf
+    │   ├── 📄 chap 6 mesure de debit.pdf
+    │   ├── 📄 chap 5 mesure de niveau.pdf
+    │   ├── 📄 chap 3 mesure de température.pdf
+    │   └── 📄 chap 4 mesure de pression.pdf
+    ├── 📁 EF/
+    │   ├── 📄 EF2018.pdf
+    │   ├── 📄 Auto505-question-cours 3.pdf
+    │   ├── 📄 Auto505-question-cours 1.pdf
+    │   └── 📄 Auto505-question-cours 2.pdf
+    ├── 📁 séries d exercices de cours/
+    │   ├── 📄 série1.jpg
+    │   └── 📄 série2.jpg
+    └── 📁 TD/
+        ├── 📄 TD 3 corrigé.pdf
+        ├── 📄 TD 2.pdf
+        ├── 📄 TD 2 corrigé.pdf
+        ├── 📄 TD 1.pdf
+        ├── 📄 TD 1 corrigé.pdf
+        └── 📄 TD 3.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Capteurs et chaines de mesure
+═════════════════════════════════════

@@ -1,0 +1,127 @@
+📚 MODULE : Biochimie Structurale                     
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Biochimie Structurale.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Biochimie Structurale/
+├── 📁 TP/
+│   ├── 📄 rapport TP 2023.docx
+│   ├── 📄 lipides-acides aminés.pdf
+│   └── 📄 polycopié 2023.pdf
+├── 📁 Cours/
+│   ├── 📁 Cours-2022-2023/
+│   │   ├── 📁 Acides Aminés/
+│   │   │   └── 📄 Support du cours proteines 22-23.pdf
+│   │   ├── 📁 Acides Nucléiques/
+│   │   │   └── 📄 Cours AN Chapitre 1.pdf
+│   │   ├── 📁 Lipides/
+│   │   │   ├── 📄 Diaporama Lipides 22-23.pdf
+│   │   │   └── 📄 CoursLipides2223.pdf
+│   │   └── 📁 Glucides/
+│   │       ├── 📄 PARTIE OSIDES.pdf
+│   │       └── 📄 PARTIE OSES.pdf
+│   └── 📁 Cours-2023-2024/
+│       ├── 📁 ACIDES AMINES/
+│       │   └── 📄 Diaporame proteines 2324.pdf
+│       ├── 📁 LIPIDES/
+│       │   ├── 📄 2- CoursLipides 22-23.pdf
+│       │   └── 📄 1- Support cours 23-24.pdf
+│       ├── 📁 ACIDES NUCLEIQUES/
+│       │   └── 📁 COURS-20231223/
+│       │       ├── 📄 Présentation FINALE COURS AN 2022.pdf
+│       │       └── 📄 COURS FINAL AN 2022.pdf
+│       └── 📁 LES GLUCIDES/
+│           └── 📁 COURS/
+│               ├── 📄 COURS OSES 2023-2024 Ecampus.pdf
+│               ├── 📄 PARTIE OSIDES.pdf
+│               └── 📄 PLAN DU COURS.pdf
+├── 📁 TD/
+│   ├── 📁 TD-2023-2024/
+│   │   ├── 📁 TD-ACIDES AMINES/
+│   │   │   ├── 📄 2- Solution TD Protéines 23-24.pdf
+│   │   │   └── 📄 1- TD Protéines 23-24.pdf
+│   │   ├── 📁 TD-LES GLUCIDES/
+│   │   │   ├── 📁 2ème examen à faire en TD/
+│   │   │   │   ├── 📄 les structures de la question 4.jpg
+│   │   │   │   └── 📄 examen 08 mars 2021.doc
+│   │   │   └── 📁 1er examen à faire en TD/
+│   │   │       ├── 📄 EXAMEN RESOLU PAGE 1.jpg
+│   │   │       └── 📄 EXAMEN RESOLU PAGE 2.jpg
+│   │   ├── 📁 TD-ACIDES NUCLEIQUES/
+│   │   │   ├── 📄 1) AIDE AU TD ACIDES NUCLEIQUES.pdf
+│   │   │   ├── 📄 11) AIDE AU TD ACIDES NUCLEIQUES.pdf
+│   │   │   ├── 📄 10) AIDE AU TD ACIDES NUCLEIQUES.pdf
+│   │   │   ├── 📄 8) AIDE AU TD ACIDES NUCLEIQUES.pdf
+│   │   │   ├── 📄 7) AIDE AU TD ACIDES NUCLEIQUES.pdf
+│   │   │   ├── 📄 6) AIDE AU TD ACIDES NUCLEIQUES.pdf
+│   │   │   ├── 📄 5) AIDE AU TD ACIDES NUCLEIQUES.pdf
+│   │   │   ├── 📄 4) AIDE AU TD ACIDES NUCLEIQUES.pdf
+│   │   │   ├── 📄 3) AIDE AU TD ACIDES NUCLEIQUES.pdf
+│   │   │   ├── 📄 2) AIDE AU TD ACIDES NUCLEIQUES.pdf
+│   │   │   └── 📄 TD I et TD II de S3.pdf
+│   │   └── 📁 TD-Lipides/
+│   │       ├── 📄 2- Solutions TD Lipides 22-23.pdf
+│   │       └── 📄 1- TD Lipides 21-22.pdf
+│   └── 📁 TD-2022-2023/
+│       ├── 📄 Corrigé TD protéines.pdf
+│       ├── 📄 Corrigé TD lipides.pdf
+│       ├── 📄 TD protéines.pdf
+│       ├── 📄 TD lipides .pdf
+│       ├── 📄 TD Protéines (énoncés).pdf
+│       ├── 📄 Corrigés TD lipides.pdf
+│       ├── 📄 TD Protéines (énoncés)(1).pdf
+│       ├── 📄 solution TD lipides.pdf
+│       ├── 📄 15_TD.pdf
+│       ├── 📄 TD+solution  biochimie.pdf
+│       └── 📄 Solutions TD protéines.pdf
+├── 📁 Examen/
+│   ├── 📄 3 Exam janv 19 corrigé.pdf
+│   ├── 📄 5 Exam déc 2019 explication.pdf
+│   ├── 📄 4 Exam déc 19 corrigé.pdf
+│   ├── 📄 2 Exam janv 18 corrigé.pdf
+│   ├── 📄 3 Exam janv 19.pdf
+│   ├── 📄 1 Exam janv 17.pdf
+│   ├── 📄 5 Exam déc 19.pdf
+│   ├── 📄 4 Exam juin 19.pdf
+│   ├── 📄 2 Exam janv 18.pdf
+│   ├── 📄 1 Exam janv 17 corrigé.pdf
+│   ├── 📄 6 Exam janv 20 corrigé (1).pdf
+│   ├── 📄 7 Exam janv 2020 explication.pdf
+│   ├── 📄 6 Exam janv 20.pdf
+│   ├── 📄 6 Exam janv 20 corrigé.pdf
+│   ├── 📄 3 Exam juin 19 corrigé.pdf
+│   ├── 📄 EXAMEN RESOLU PAGE 1.jpg
+│   ├── 📄 EXAMEN RESOLU PAGE 2.jpg
+│   ├── 📄 examen2018-2019_S3-FSSM.docx
+│   ├── 📄 examenS3 RATT JANV  2020.doc
+│   ├── 📄 examenS3Recond juin 2019.doc
+│   ├── 📄 examen2014-2015_S3-FSSM.doc
+│   ├── 📄 examen2011-2012_S3-FSSM.doc
+│   ├── 📄 examen2010-2011_S3-FSSM.doc
+│   ├── 📄 examen2009-10_S3-FSSM.doc
+│   ├── 📄 examen2006 S3 POLYDISC SAFI.doc
+│   ├── 📄 examen_janv 2009_ratt S3-FSSM.doc
+│   ├── 📄 examen_FEV2010_ratt S3-FSSM.doc
+│   ├── 📄 examen S3 Recond Mai 2019.doc
+│   ├── 📄 examen JANV 2020.doc
+│   ├── 📄 biochimie-techniques-S3-2015-controle.pdf
+│   ├── 📄 BIOCHIMIE 6 Exam janv 20 corrigé.pdf
+│   └── 📁 Question Important/
+│       └── 📄 que retenir de ces 3 diapos.pdf
+└── 📁 Quiz/
+    ├── 📄 SOLUTIONS QUIZZ.ppt
+    └── 📄 QUIZZ.ppt
+
+═════════════════════════════════════
+  Fin du fichier · Biochimie Structurale
+═════════════════════════════════════

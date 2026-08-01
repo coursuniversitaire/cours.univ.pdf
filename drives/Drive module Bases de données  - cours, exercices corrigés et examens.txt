@@ -1,0 +1,614 @@
+📚 MODULE : Bases de données                          
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Bases de données .
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Bases de données /
+├── 🔗📁 [I144] Bases de données/  (raccourci)
+│   ├── 📁 [I144] TP/
+│   │   ├── 📄 Colle2-bdd
+│   │   ├── 📄 Colle1-bdd
+│   │   ├── 📄 devoir tp bdd
+│   │   ├── 📄 Polyc- TP I144
+│   │   └── 📄 Corr tp i144
+│   ├── 📁 [I144] TD/
+│   │   ├── 📄 I144 - TD 6.pdf
+│   │   └── 📄 I144 - TD 5.pdf
+│   ├── 📁 [I144] Cours/
+│   │   ├── 📄 I144 - Chap2.pdf
+│   │   ├── 📄 I144 -Chap4.pdf
+│   │   ├── 📄 I144 -Chap 3.pdf
+│   │   ├── 📄 I144 -Chap1.pdf
+│   │   └── 📄 I144 - Cours (Alternatif).pdf
+│   ├── 📁 [I144] Bonus/
+│   │   ├── 📄 Résumé SQL
+│   │   ├── 📄 Resume
+│   │   ├── 📁 Examens/
+│   │   │   └── 📄 archive DB.pdf
+│   │   ├── 📁 TD/
+│   │   │   ├── 📄 correction td bdd.pdf
+│   │   │   └── 📄 Corrigé TD BDD.pdf
+│   │   ├── 📁 TP/
+│   │   │   ├── 📄 Colle_TP_20212
+│   │   │   └── 📄 tout les tps BDD.pdf
+│   │   └── 📁 Résumé /
+│   │       ├── 📄 IMG-20230104-WA0060.jpg
+│   │       ├── 📄 IMG-20230104-WA0056.jpg
+│   │       ├── 📄 IMG-20230104-WA0057.jpg
+│   │       └── 📄 IMG-20230104-WA0058.jpg
+│   └── 📁 [I144] Archive/
+│       ├── 📄 exam3 i144.pdf
+│       ├── 📄 exam 2 I144-1.pdf
+│       ├── 📄 R1_22-23.pdf
+│       ├── 📄 I144-archive (1).pdf
+│       ├── 📄 archives base de donnée.pdf
+│       ├── 📄 exam4.pdf
+│       ├── 📄 Examen base de données 2022.pdf
+│       ├── 📄 Exam_BD_2021.pdf
+│       ├── 📄 I144-exam-2023.pdf
+│       ├── 📄 corr partie sql 2023
+│       └── 📄 I144-archive.pdf
+├── 🔗📁 M33  BASES DES DONNEES ET PROGRAMMATION WEB FSR RABAT/  (raccourci)
+│   ├── 📁 TP/
+│   │   ├── 📄 Travaux Pratiques TP 5.pdf
+│   │   ├── 📄 Travaux Pratiques TP 2.pdf
+│   │   ├── 📄 Travaux Pratiques TP 4.pdf
+│   │   ├── 📄 Travaux Pratiques TP 7.pdf
+│   │   ├── 📄 Travaux Pratiques TP 1.pdf
+│   │   ├── 📄 Travaux Pratiques TP 3.pdf
+│   │   ├── 📄 Travaux Pratiques TP 6.pdf
+│   │   ├── 📁 TP3/
+│   │   │   ├── 📁 __MACOSX/
+│   │   │   │   └── 📁 TP3/
+│   │   │   └── 📁 TP3/
+│   │   │       ├── 📄 EX5bTP3.php
+│   │   │       ├── 📄 Ex1TP3.php
+│   │   │       ├── 📄 ex4b.php
+│   │   │       ├── 📄 EX2TP3.php
+│   │   │       ├── 📄 EX3TP3.php
+│   │   │       ├── 📄 EX5aTP3.php
+│   │   │       └── 📄 ex4a.php
+│   │   ├── 📁 TP2/
+│   │   │   ├── 📁 __MACOSX/
+│   │   │   │   └── 📁 TP2/
+│   │   │   └── 📁 TP2/
+│   │   │       ├── 📄 TP2-q1.php
+│   │   │       ├── 📄 TP2-q3.php
+│   │   │       ├── 📄 TP2q4.php
+│   │   │       └── 📄 TP2-q2.php
+│   │   └── 📁 TP1/
+│   │       ├── 📁 __MACOSX/
+│   │       │   └── 📁 TP1/
+│   │       └── 📁 TP1/
+│   │           ├── 📄 TP1q3.php
+│   │           ├── 📄 TP1q6.php
+│   │           ├── 📄 TP1q5.php
+│   │           ├── 📄 TP1q7.php
+│   │           └── 📄 TP1q8.php
+│   ├── 📁 TD/
+│   │   ├── 📄 Examen Type.pdf
+│   │   ├── 📁 TD_Corrigés_PDF/
+│   │   │   ├── 📄 Série_TD_BDW-2_Corrigé.pdf
+│   │   │   ├── 📄 Série_TD_BDW_4_Corrigée.pdf
+│   │   │   ├── 📄 Série_TD_BDW-3_Corrigé.pdf
+│   │   │   ├── 📄 Série_TD_BDW-1_Corrigée.pdf
+│   │   │   └── 📄 Série_TD_BDW_5_Corrigé.pdf
+│   │   └── 📁 TD-VersionPDF/
+│   │       ├── 📄 Série_TD_BDW_4.pdf
+│   │       ├── 📄 Série_TD_BDW_5.pdf
+│   │       ├── 📄 Série_TD_BDW-2.pdf
+│   │       ├── 📄 Série_TD_BDW-3.pdf
+│   │       └── 📄 Série_TD_BDW-1.pdf
+│   └── 📁 Cours/
+│       ├── 📄 Avis-SMI6-BDPW-2.pdf
+│       ├── 📄 Recommandations.pdf
+│       ├── 📁 PartieII-BasesDesDonnéesAvancées-VersionPDF/
+│       │   ├── 📄 Chapitre-VII-Gestion des verrous(Locks).pdf
+│       │   ├── 📄 Chapitre-I-Procedures-et-Fonctions.pdf
+│       │   ├── 📄 Chapitre-III-GestionDesTransactions.pdf
+│       │   ├── 📄 Chapitre-IV-GestionDesExceptions.pdf
+│       │   ├── 📄 Chapitre-II-ExtensionProceduraleDeSQL.pdf
+│       │   ├── 📄 Chapitre-V-GestionDesCursseurs(Curssors).pdf
+│       │   └── 📄 Chapitre-VI-Les Declencheur(Triggers).pdf
+│       └── 📁 PartieI-ProgrammationWebEnPHP-VersionPDF/
+│           ├── 📄 1.14-Le patern MVC en PHP.pdf
+│           ├── 📄 1.9-Gestion des Fichiers en PHP.pdf
+│           ├── 📄 1.2-HTML.pdf
+│           ├── 📄 1..8-Programmation structurée en PHP.pdf
+│           ├── 📄 1.12-Les cookies et sessions.pdf
+│           ├── 📄 1.13-Accès aux bases des données via PHP.pdf
+│           ├── 📄 1.11-Transmission des données via des formulaires.pdf
+│           ├── 📄 1.1-Introduction.pdf
+│           └── 📄 1.10-Programmation orientée objets en PHP.pdf
+├── 🔗📁 000 Base de données avancées/  (raccourci)
+│   ├── 📄 2022 SABOR.PNG
+│   ├── 📄 S6 SMI serie2_SMI20 FPN  19 20.pdf
+│   ├── 📄 S6 SMI BasesDonnéesAvancées FPN  19 20.pdf
+│   ├── 📁 BD2/
+│   │   ├── 📁 tp2,3/
+│   │   │   ├── 📄 TP3EX2Q8.sql
+│   │   │   ├── 📄 TP3EX2Q7.sql
+│   │   │   ├── 📄 TP3EX2Q6.sql
+│   │   │   ├── 📄 TP3EX2Q5.sql
+│   │   │   ├── 📄 TP3EX2Q4.sql
+│   │   │   ├── 📄 TP3EX2Q3.sql
+│   │   │   └── 📄 TP3EX1Q2.sql
+│   │   ├── 📁 Tp/
+│   │   │   └── 📁 TP_BD/
+│   │   │       └── 📁 Solutions_TP1_PLSQL/
+│   │   │           ├── 📄 Solution_Q1.sql
+│   │   │           ├── 📄 Solution_Q3.sql
+│   │   │           ├── 📄 Create_MOUJAHID_BUDGET.sql
+│   │   │           ├── 📄 Solution_Q2.sql
+│   │   │           ├── 📄 Solution_Q5.sql
+│   │   │           └── 📄 Solutions_TP1_PLSQL.txt
+│   │   ├── 📁 CollePLSQL_SMIS6_G1/
+│   │   │   ├── 📄 Tables.sql
+│   │   │   ├── 📄 colle1.pdf
+│   │   │   └── 📁 Mohammed_EL_KHOU/
+│   │   │       ├── 📄 sql.txt
+│   │   │       ├── 📄 Q9.sql
+│   │   │       ├── 📄 Q8.sql
+│   │   │       ├── 📄 Q7.sql
+│   │   │       ├── 📄 Q4.sql
+│   │   │       ├── 📄 Q3.sql
+│   │   │       └── 📄 Q2.sql
+│   │   └── 📁 BD-20180427T150551Z-001/
+│   │       └── 📁 TPsql/
+│   │           ├── 📄 TP_Trigger_Oracle.pdf
+│   │           ├── 📁 TP2/
+│   │           │   ├── 📁 Mai - Copy/
+│   │           │   │   ├── 📁 SQL_dossier/
+│   │           │   │   │   └── 📄 Creat_Table_BUDGET_ok.sql
+│   │           │   │   └── 📁 Mai/
+│   │           │   │       └── 📁 SQL_dossier/
+│   │           │   │           └── 📄 Creat_Table_BUDGET_ok.sql
+│   │           │   └── 📁 Mai/
+│   │           │       ├── 📄 Q3.sql
+│   │           │       └── 📁 Mai/
+│   │           │           ├── 📄 Q3.sql
+│   │           │           └── 📁 SQL_dossier/
+│   │           │               ├── 📄 test.sql
+│   │           │               └── 📄 Creat_Table_BUDGET_ok.sql
+│   │           ├── 📁 TP1/
+│   │           │   ├── 📄 TP_PLSQL_Oracle.pdf
+│   │           │   ├── 📄 exo1.sql
+│   │           │   ├── 📄 Creat_Table_BUDGET_ok.txt
+│   │           │   └── 📁 schemas/
+│   │           │       └── 📄 scott.sql
+│   │           └── 📁 Solutions_TP1_PLSQL/
+│   │               ├── 📄 Solution_Q4.sql
+│   │               ├── 📄 Solution_Q5.sql
+│   │               ├── 📄 Solution_Q2.sql
+│   │               └── 📄 Create_MOUJAHID_BUDGET.sql
+│   ├── 📁 FSDM BD/
+│   │   └── 📁 OneDrive_2020-03-26[1]/
+│   │       └── 📁 Documents BD/
+│   │           ├── 📄 ScriptCreationBase.sql
+│   │           └── 📄 PL_SQL_GLOBAL_2020.pptx
+│   ├── 📁 FSAC Administration BD/
+│   │   └── 📁 Administration BD/
+│   │       ├── 📁 TP/
+│   │       │   ├── 📄 TP1_DBA_FSAC_16_2.pdf
+│   │       │   ├── 📄 TP5-DBA-FSAC-2016.pdf
+│   │       │   ├── 📄 TP4-DBA-FSAC-2016.pdf
+│   │       │   ├── 📄 TP3-DBA-FSAC-2016.pdf
+│   │       │   ├── 📄 TP2-DBA-FSAC-2016_2.pdf
+│   │       │   ├── 📄 TP2-DBA-FSAC-2016.pdf
+│   │       │   └── 📄 Instructions_à_lire.txt
+│   │       └── 📁 COURS/
+│   │           ├── 📄 DBA1-Module1-SMI6.pdf
+│   │           ├── 📄 DBA1-Module2-SMI6.pdf
+│   │           ├── 📄 DBA1-Module0-SMI6.pdf
+│   │           ├── 📄 DBA1-Module-3-4-5-6-7-8-SMI6.pdf
+│   │           └── 📄 DBA1-SQL.pptx
+│   ├── 📁 SMI_S6_BD AV FS MEKNES  19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 BDavancees_CasEtude2Solution11.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution10.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution04.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution05.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution08.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution07.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution09.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution06.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution03.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution01.jpg
+│   │   ├── 📄 BDavancees_CasEtude2Solution02.jpg
+│   │   └── 📄 Avis aux etudiants SMI_S6.docx
+│   ├── 📁 SMI6 FPN Bases de données Avancées 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 Bases de données Avancées BasesDonnéesAvancées.pdf
+│   │   └── 📄 Bases de données Avancées serie2_SMI20.pdf
+│   ├── 📁 S6 SMI FSJ Administration Oracle 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📁 S6 SSSS TECHNOLOGIE J2EE/
+│   │   │   ├── 📄 Servlet.pdf
+│   │   │   ├── 📄 JSP.pdf
+│   │   │   ├── 📄 atelier5.pdf
+│   │   │   ├── 📄 atelier4.pdf
+│   │   │   ├── 📄 atelier3.pdf
+│   │   │   ├── 📄 atelier2.pdf
+│   │   │   └── 📄 atelier1.pdf
+│   │   └── 📁 S6 SSSS DBA/
+│   │       ├── 📄 Atelier5.pdf
+│   │       ├── 📄 Atelier4.pdf
+│   │       ├── 📄 Atelier3_Correction.docx
+│   │       ├── 📄 Atelier3.pdf
+│   │       ├── 📄 Atelier2_Correction.docx
+│   │       ├── 📄 Atelier2.pdf
+│   │       ├── 📄 Atelier1.pdf
+│   │       ├── 📄 Atelier1_correction.docx
+│   │       ├── 📄 Administration4.pdf
+│   │       ├── 📄 Administration3.pdf
+│   │       ├── 📄 Administration2.pdf
+│   │       └── 📄 Administration1.pdf
+│   ├── 📁 S6 SMI FSDM BD2(PLSQL) 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 39057.pdf
+│   │   ├── 📄 6SMI_S6_Complement.pdf
+│   │   ├── 📄 2TP BD2  triggers plsql fct proc S6  V2.pdf
+│   │   ├── 📄 1SMI_S6_P10_P10 et P98_fin.pdf
+│   │   ├── 📄 3AAA_DBAI_DD_oracle.ppt
+│   │   ├── 📄 4AAA  MemoOracle_sql.pdf
+│   │   └── 📄 5Memo_PL_SQL.pdf
+│   ├── 📁 S6 SMI FPKHRIBGHA WEB DYNAMIQUE 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 HTML CHAKRAOUI  fpk.pdf
+│   │   ├── 📄 CSS3 CHAKRAOUI  fpk.pdf
+│   │   ├── 📄 PHP5 CHAKRAOUI  fpk.pdf
+│   │   └── 📄 PHP5 INTERCTIVITE CHAKRAOUI  UPM.pdf
+│   ├── 📁 S6 SMI FPKHRIBGHA BASE DE DONNEES AVANCEEA 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 cours SQL chakraoui.pdf
+│   │   ├── 📄 PLSQL  SMI S6.pdf
+│   │   ├── 📁 TP SQL-20200605/
+│   │   │   ├── 📄 TP 1.pdf
+│   │   │   ├── 📄 aeroport.txt
+│   │   │   └── 📄 TP 2.pdf
+│   │   └── 📁 TP PLSQL-20200605/
+│   │       ├── 📄 TP 4.pdf
+│   │       ├── 📄 TP 3.pdf
+│   │       ├── 📄 TP 2.pdf
+│   │       ├── 📄 TP 1.pdf
+│   │       └── 📄 aeroport.txt
+│   ├── 📁 S6 FSO SMI Bases de Données Avancées 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 Cours_BD_Avan_SMI-S6_Moussi.ppt
+│   │   └── 📄 TP_BD_Avanc_SMI-S6_Moussi.pdf
+│   ├── 📁 S6 FSO SMI  Bases de données avancées 19-20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 Bases de données avancées SFI36404_TD_5e71247edc5ae.pdf
+│   │   └── 📄 Bases de données avancées SFI36404_CR_5e7124525f76f.ppt
+│   ├── 📁 S6 FSDM SMI BD2(PLSQL) SMI 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 32921.zip
+│   │   ├── 📄 6SMI_S6_Complement.pdf
+│   │   ├── 📄 2TP BD2  triggers plsql fct proc S6  V2.pdf
+│   │   ├── 📄 1SMI_S6_P10_P10 et P98_fin.pdf
+│   │   ├── 📄 3AAA_DBAI_DD_oracle.ppt
+│   │   ├── 📄 4AAA  MemoOracle_sql.pdf
+│   │   └── 📄 5Memo_PL_SQL.pdf
+│   ├── 📁 S6 FSAC SMI6 Système d'information décisionnel 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 video.pdf
+│   │   ├── 📄 videoA.pdf
+│   │   ├── 📄 videoCV.pdf
+│   │   ├── 📄 videoC.pdf
+│   │   └── 📄 SQL-OLAP-TP.pdf
+│   ├── 📁 S6 FS SAFI Base de données avancées SMI6 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 TDTP1BDA.pdf
+│   │   ├── 📄 TDTP2BDA.pdf
+│   │   ├── 📄 cbd1.pdf
+│   │   ├── 📄 cbd2.pdf
+│   │   ├── 📄 cbd3.pdf
+│   │   ├── 📄 cbd4.pdf
+│   │   └── 📄 usercours.pdf
+│   └── 📁 FSTG BASE DE DONNEES REPARTIS 2020/
+│       ├── 📄 2022 SABOR.PNG
+│       ├── 📄 TP5.docx
+│       ├── 📄 Chapitre6_Mise en place de BD répartie.pptx
+│       ├── 📄 Chapitre5_transactions_Abdali.pptx
+│       ├── 📄 TP4.docx
+│       ├── 📄 Chapitre4_Replication_Abdali.pptx
+│       ├── 📄 TP3.docx
+│       ├── 📄 Chapitre3_Allocation_Abdali.pptx
+│       ├── 📄 TP_Fragmentation.docx
+│       ├── 📄 Chapitre2_fragmentation_Abdali.pptx
+│       ├── 📄 TD1.docx
+│       └── 📄 Chapitre1 IntroductionBDR_Abdali.ppt
+├── 🔗📁 ++ SMI5 Base de Donnee II SABORPCMATH.COM/  (raccourci)
+│   ├── 📄 °TP SMI5 Base de Donnee II FSR RABAT 20 21.pdf
+│   ├── 📄 °TP SMI5 Base de Donnee II FSR RABAT 19 20.pdf
+│   ├── 📄 °TP SMI5 Base de Donnee II FSR RABAT 15 16.pdf
+│   ├── 📄 °TD SMI5 Base de Donnee II FST TETOUAN 2020.pdf
+│   ├── 📄 °TD SMI5 Base de Donnee II FST TETOUAN 2016.pdf
+│   ├── 📄 °TD SMI5 Base de Donnee II FST TETOUAN 2015.pdf
+│   ├── 📄 °TD SMI5 Base de Donnee II FST TETOUAN 2014.pdf
+│   ├── 📄 °TD SMI5 Base de Donnee II FSR RABAT 20 21.pdf
+│   ├── 📄 °TD SMI5 Base de Donnee II FSR RABAT 19 20.pdf
+│   ├── 📄 °TD SMI5 Base de Donnee II FSR RABAT 16 17.pdf
+│   ├── 📄 °TD SMI5 Base de Donnee II FSR RABAT 15 16.pdf
+│   ├── 📄 °TD SMI5 Base de Donnee II FSDM FES 20 21.pdf
+│   ├── 📄 °TD SMI5 Base de Donnee II FSBM CASABLANCA.pdf
+│   ├── 📄 °EXAMENS TP SMI5 Base de Donnee II FSR RABAT.pdf
+│   ├── 📄 °EXAMENS SMI5 Base de Donnee II FSR RABAT.pdf
+│   ├── 📄 °COURS SMI5 Base de Donnee II FST TETOUAN 2020.pdf
+│   ├── 📄 °COURS SMI5 Base de Donnee II FSR RABAT 16 17.pdf
+│   ├── 📄 °COURS SMI5 Base de Donnee II FSR RABAT 15 16.pdf
+│   └── 📄 °COURS SMI5 Base de Donnee II FSBM CASABLANCA 2020.pdf
+└── 📁 Base de données/
+    ├── 📁 Examens/
+    │   ├── 📄 Examen Bases de données avancées 09 Septembre 2020
+    │   ├── 📄 Examen BD 2020-03-16 22.05.02.pdf
+    │   ├── 📄 IMG-20210620-WA0008.jpg
+    │   ├── 📄 IMG-20210620-WA0009.jpg
+    │   ├── 📄 IMG-20210620-WA0011.jpg
+    │   ├── 📄 IMG-20210620-WA0012.jpg
+    │   ├── 📄 IMG-20210620-WA0013.jpg
+    │   ├── 📄 IMG-20210620-WA0014.jpg
+    │   ├── 📄 IMG-20210620-WA0015.jpg
+    │   └── 📁 Examen/
+    │       ├── 📄 Examen initiation aux bases de donnees
+    │       ├── 📄 Examen Bases de données 2019-2020
+    │       ├── 📄 Exercices TD Base des Données
+    │       ├── 📄 Examen initiation aux bases de donnees
+    │       ├── 📄 Examen initiation aux bases de données
+    │       ├── 📄 examen base de données 2024_ait_omar
+    │       ├── 📄 Examen initiation aux bases de données
+    │       ├── 📄 Examen Système d'Information et Bases de Données
+    │       ├── 🔗📁 Mi - Semester 2/  (raccourci)
+    │       │   ├── 📄 Expose.ppt
+    │       │   ├── 📁 Matlab/
+    │       │   │   ├── 📄 Chapitre 04 -Programmation avec Matlab.pdf
+    │       │   │   ├── 📄 Chapitre 02 -Calculs Matriciels.pdf
+    │       │   │   ├── 📄 Chapitre 03 -Résolution de systèmes d-équations linéaires.pdf
+    │       │   │   ├── 📄 Chapitre 03 -Résolution de systèmes d-équations linéaires.pptx
+    │       │   │   ├── 📄 Chapitre 04 -Programmation avec Matlab.pptx
+    │       │   │   ├── 📄 Chapitre 02 -Calculs Matriciels.pptx
+    │       │   │   └── 📄 Chapitre 1.pdf
+    │       │   ├── 📁 ANA2/
+    │       │   │   ├── 📄 dev limités usual.pdf
+    │       │   │   ├── 📁 Wiz/
+    │       │   │   │   ├── 📄 sujets d'examens corrigés d'analyse MI.pdf
+    │       │   │   │   ├── 📄 SERIE N3  (CORRIGE) Analyse2 (kasmi).pdf
+    │       │   │   │   ├── 📄 SERIE N3  ( 19-20 ) Analyse2 (kasmi).pdf
+    │       │   │   │   └── 📄 Chapitre III+Chapitre IV  ( équations différentielles ) Analyse2 (kasmi).pdf
+    │       │   │   ├── 📁 TD/
+    │       │   │   │   ├── 📄 RIEMANN.PDF
+    │       │   │   │   ├── 📄 DL.PDF
+    │       │   │   │   ├── 📄 TD1_DéveloppementLimité.rar
+    │       │   │   │   ├── 📄 TD4_EquationsDifférentielles.pdf
+    │       │   │   │   ├── 📄 TD3_IntégralesGénéralisées.pdf
+    │       │   │   │   ├── 📄 TD2_IntégralesDeRiemann.pdf
+    │       │   │   │   ├── 📄 TD1_DLs.pdf
+    │       │   │   │   └── 📁 TD4_EquationsDifferentielles/
+    │       │   │   │       ├── 📄 img003.jpg
+    │       │   │   │       ├── 📄 img002.jpg
+    │       │   │   │       └── 📄 img001.jpg
+    │       │   │   ├── 📁 INTERROGATIONS/
+    │       │   │   │   ├── 📄 Interro2-2014-2015.pdf
+    │       │   │   │   └── 📄 Interro1-2014-2015.pdf
+    │       │   │   ├── 📁 EMD/
+    │       │   │   │   ├── 📄 Examen-Final-2014-2015.pdf
+    │       │   │   │   ├── 📄 ANA_EMD_1314.PDF
+    │       │   │   │   ├── 📄 emd_13_14.PDF
+    │       │   │   │   ├── 📄 Interro2_ANA2_2012-2013.pdf
+    │       │   │   │   ├── 📄 Interro2_ANA2_2010-2011.pdf
+    │       │   │   │   ├── 📄 Interro1_ANA2_2010-2011.pdf
+    │       │   │   │   ├── 📄 EMD_ANA2_2011-2012.pdf
+    │       │   │   │   ├── 📄 EMD_ANA2_2012-2013.pdf
+    │       │   │   │   └── 📄 EMD_ANA2_2009-2010.pdf
+    │       │   │   └── 📁 COURS/
+    │       │   │       ├── 📄 Chap3_IntégralesGénéralisées.pdf
+    │       │   │       ├── 📄 Chap3_IntégralesGénéralisées(2).pdf
+    │       │   │       ├── 📄 Chap4_EquationsDifferentielles_02.pdf
+    │       │   │       ├── 📄 Chap4_EquationsDifferencielles_01.pdf
+    │       │   │       ├── 📄 Chap2_IntegraleDeRiemann.pdf
+    │       │   │       └── 📄 Chap1_DéveloppementsLimités.pdf
+    │       │   ├── 📁 Electricité/
+    │       │   │   ├── 📄 TD_1_Physique 2_L1MI.pdf.pdf
+    │       │   │   ├── 📄 TD_2_Physique 2_L1MI.pdf.pdf
+    │       │   │   └── 📄 cours_1_Physique 2_L1MI.pdf.pdf
+    │       │   ├── 📁 ALG2/
+    │       │   │   ├── 📄 2.pdf
+    │       │   │   ├── 📄 espace vectoriel.pdf
+    │       │   │   ├── 📁 TD/
+    │       │   │   │   ├── 📄 TD-2014-2015-Application-Lineaires.pdf
+    │       │   │   │   ├── 📄 TD-2014-2015-Matrice.pdf
+    │       │   │   │   ├── 📄 TD-2014-2015-Espaces-Vectoriels.pdf
+    │       │   │   │   ├── 📄 TD-2014-2015-Complement-Fractions-Rationelles.pdf
+    │       │   │   │   ├── 📄 ESPACEVECT.PDF
+    │       │   │   │   ├── 📄 TD2_ApplicationsLinéaires.rar
+    │       │   │   │   ├── 📄 TD3_Matrices.rar
+    │       │   │   │   ├── 📄 TD2_ApplicationsLinéaires.pdf
+    │       │   │   │   ├── 📄 TD1_EspacesVectoriels_2013-2014.pdf
+    │       │   │   │   └── 📄 TD1_EspacesVectoriels_2012-2013.pdf
+    │       │   │   ├── 📁 COURS/
+    │       │   │   │   ├── 📄 Chapitre1.Espaces vectoriels (cours et exercices corrigés ).pdf
+    │       │   │   │   ├── 📄 Matrices.pdf
+    │       │   │   │   ├── 📄 Chap2_ApplicationsLinéaires.pdf
+    │       │   │   │   └── 📄 Chap1_EspacesVectoriels.pdf
+    │       │   │   ├── 📁 EMD/
+    │       │   │   │   ├── 📄 2014-2015-examen-final.pdf
+    │       │   │   │   ├── 📄 EMD2_ALG2_Corrigé_2013-2014.pdf
+    │       │   │   │   ├── 📄 EMD1_ALG2_Corrigé_2010-2011.pdf
+    │       │   │   │   ├── 📄 EMD1_ALG2_Partie2+CORR_2012-2013.pdf
+    │       │   │   │   ├── 📄 EMD1_ALG2_2012-2013.PDF
+    │       │   │   │   ├── 📄 EMD1_ALG2_2011-2012.pdf
+    │       │   │   │   ├── 📄 EMD1_ALG2_2010-2011.pdf
+    │       │   │   │   ├── 📄 EMD1_ALG2_2009-2010.pdf
+    │       │   │   │   ├── 📄 CI_ALG2_Corrigé_2010-2011.pdf
+    │       │   │   │   ├── 📄 CI_ALG2_Corrigé_2009-2010.pdf
+    │       │   │   │   ├── 📄 CI_ALG2_2010-2011.pdf
+    │       │   │   │   └── 📄 CI_ALG2_2009-2010.pdf
+    │       │   │   └── 📁 Autre/
+    │       │   │       ├── 📄 fic00017.pdf
+    │       │   │       ├── 📄 fic00008.pdf
+    │       │   │       ├── 📄 EnsemblesEtApplications_Exercices+CORR.pdf
+    │       │   │       ├── 📄 ApplicationsLinéaires+CORR.pdf
+    │       │   │       ├── 📄 SériesDeMatrices.pdf
+    │       │   │       ├── 📄 SériesDeMatrices_Corrigé.pdf
+    │       │   │       ├── 📄 EspacesVectoriels_Corrigé.PDF
+    │       │   │       ├── 📄 EspacesVectoriels.PDF
+    │       │   │       ├── 📄 AlgebreLinéaireI.pdf
+    │       │   │       └── 📄 AlgebreLinéaireI_Corrigé.pdf
+    │       │   ├── 📁 TIC/
+    │       │   │   ├── 📄 ExosCorrigés.pdf
+    │       │   │   ├── 📄 Cours 7.pdf
+    │       │   │   ├── 📄 Cours 6.pdf
+    │       │   │   ├── 📄 Cours 4.pdf
+    │       │   │   ├── 📄 Cours 5.pdf
+    │       │   │   ├── 📄 Cours 3.pdf
+    │       │   │   ├── 📄 Cours 2.pdf
+    │       │   │   └── 📄 Cours 1.pdf
+    │       │   ├── 📁 ALSDD/
+    │       │   │   ├── 📄 Livre_ApprenezAProgrammerEnC_SiteDeZéro_.pdf
+    │       │   │   ├── 📁 EMD/
+    │       │   │   │   ├── 📄 intero.PDF
+    │       │   │   │   ├── 📄 EMD2_ALSDD_Corrigé_2013-2014.pdf
+    │       │   │   │   ├── 📄 EMD1_ALSDD_Corrigé_2011-2012.doc
+    │       │   │   │   ├── 📄 EMD1_ALSDD_Corrigé_2010-2011.doc
+    │       │   │   │   ├── 📄 EMD1_ALSDD_Corrigé_2009-2010.doc
+    │       │   │   │   ├── 📄 Interro1_ALSDD_2009-2010.pdf
+    │       │   │   │   ├── 📄 EMD1_ALSDD_2010-2011.doc
+    │       │   │   │   ├── 📄 EMD1_ALSDD_2009-2010.doc
+    │       │   │   │   ├── 📄 EMD1_ALSDD_2011-2012.doc
+    │       │   │   │   ├── 📄 EMD1+CORR_ALSDD_2012-2013.pdf
+    │       │   │   │   ├── 📄 EMD2_ALSDD_2011-2012.pdf
+    │       │   │   │   └── 📄 EMD2+CORR_ALSDD_2012-2013.pdf
+    │       │   │   ├── 📁 Cours/
+    │       │   │   │   ├── 📄 Recursion.pdf
+    │       │   │   │   ├── 📄 Chap07_Recursivité.pdf
+    │       │   │   │   ├── 📄 Chapitre 5 - LLC - 4pages_2.pdf
+    │       │   │   │   ├── 📄 Chapitre 5-Structure_hierarchique_Arbre.pdf
+    │       │   │   │   ├── 📄 Chapitre 5-Structure_hierarchique_Tas.pdf
+    │       │   │   │   ├── 📄 Chapitre 5-Structure_hierarchique_AVL.pdf
+    │       │   │   │   ├── 📄 Chapitre 3-Structure_Séq_File.pdf
+    │       │   │   │   ├── 📄 Chapitre 2-Complexité_itératif.pdf
+    │       │   │   │   ├── 📄 Chapitre 3-Structure_Séq_Pile.pdf
+    │       │   │   │   ├── 📄 Chapitre 1 - Rappel_S1_S2_2.pdf
+    │       │   │   │   ├── 📄 Chapitre 4-Récurcivité.pdf
+    │       │   │   │   ├── 📄 Chapitre 1 - LangageC.pdf
+    │       │   │   │   ├── 📄 Chapitre 3-Structure_Séq_LLC.pdf
+    │       │   │   │   ├── 📄 Chap02_Tableaux_Présentation.pdf
+    │       │   │   │   └── 📄 Chap02_Tableaux.pdf
+    │       │   │   └── 📁 TD/
+    │       │   │       ├── 📄 TD_ 02.0_AlgorithmqueSD2_L1MI.pdf
+    │       │   │       ├── 📄 TD_ 03.1_AlgorithmqueSD2_L1MI.pdf
+    │       │   │       ├── 📄 TD_ 01.1_AlgorithmqueSD2_L1MI.pdf
+    │       │   │       ├── 📄 TD_ 01.2_AlgorithmqueSD2_L1MI.pdf
+    │       │   │       ├── 📄 TD_ 03.2_AlgorithmqueSD2_L1MI.pdf
+    │       │   │       ├── 📄 Série2 - Chapitre 5 - LLC.pdf
+    │       │   │       └── 📄 Série1 - Chapitre2 - Les tableaux.pdf
+    │       │   └── 📁 Structure machine/
+    │       │       ├── 📄 Chapitre 01.pdf
+    │       │       ├── 📄 Chapitre 02.pdf
+    │       │       ├── 📄 Chapite02.pdf
+    │       │       ├── 📄 Chapite03.pdf
+    │       │       ├── 📄 Chapite04.pdf
+    │       │       └── 📄 Chapite01.pdf
+    │       └── 📄 examen base de données 2024_ait_omar.pdf
+    ├── 📁 TP/
+    │   ├── 📄 Exercices TP Système d'information & Base de données
+    │   ├── 📄 Exercices TP SI BDD
+    │   ├── 📄 Exercices TP SI & BDD
+    │   ├── 📄 Exercices TP SI & BDD
+    │   ├── 📄 Exercices TP SI & BDD
+    │   ├── 📄 Exercices TP Base de Donnée
+    │   ├── 📄 Exercices TP Bases de données Licence d’Informatique
+    │   ├── 📄 TP6 PLSQL – Curseurs - Trigger
+    │   ├── 📄 Exercices TP Bases de donnees Licence Informatique
+    │   ├── 📄 Exercices TP Bases de données Licence d’Informatique
+    │   ├── 📄 Projet Gestion Paiements Pharmacie
+    │   ├── 📄 Exercices TP Bases de données Licence d’Informatique
+    │   ├── 📄 Exercices TP Bases de données Licence d’Informatique
+    │   ├── 📄 Exercices TP Bases de données Licence d’Informatique
+    │   ├── 📄 Exercices TP Bases de données Licence d’Informatique
+    │   ├── 📄 Exercices TP Bases de données SQL_PLUS d'Oracle
+    │   ├── 📄 Exercices TP Bases de données Licence d’Informatique
+    │   ├── 📁 Tps/
+    │   │   ├── 📄 Exercices TP Base de données BdAchat
+    │   │   ├── 📄 Exercices TD Création de tables
+    │   │   ├── 📄 correction.txt
+    │   │   ├── 📄 creatBdBibli.sql
+    │   │   ├── 📄 insertBdbibli.sql
+    │   │   └── 📄 requetes BD Td2 amina asklou.sql
+    │   └── 📁 Doc_excel_des_cod__de_tp/
+    │       ├── 📄 Exercices TD Gestion de Base de Données
+    │       ├── 📄 Exercices TD SQL
+    │       ├── 📄 emp_EMP_moi.sql
+    │       ├── 📄 dept.sql
+    │       ├── 📄 Classeur_table_exCel.xlsx
+    │       ├── 📄 Travaux Pratiques de Bases de Données_TP1.pdf
+    │       └── 📄 infoOrsay(1).xlsx
+    ├── 📁 TD/
+    │   ├── 📄 Correction TD No 4  Contraintes d’Intégrité.pdf
+    │   ├── 📄 Correction TD No 6 Couvertures Minimales – Décompositions.pdf
+    │   ├── 📄 TD No 1 Modèle Conceptuel – Schéma Relationnel.pdf
+    │   ├── 📄 TD No 3 SQL d’ORACLE.pdf
+    │   ├── 📄 TD No 6 Couvertures Minimales – Décompositions.pdf
+    │   ├── 📄 Corrigé_Exercices_Révision Base de Données .pdf
+    │   ├── 📄 TD No 1 corrigé Modèle Conceptuel – Schéma Relationnel.pdf
+    │   ├── 📄 Exercices de révision.pdf
+    │   ├── 📄 TD No 5 Dépendances Fonctionnelles.pdf
+    │   ├── 📄 Série2.pdf
+    │   ├── 📄 Série1.pdf
+    │   ├── 📄 Correction TD No 2 Algèbre et Calcul Relationnel.pdf
+    │   ├── 📄 Correction TD No 3 SQL d’ORACLE.pdf
+    │   ├── 📄 TD No 4  Contraintes d’Intégrité.pdf
+    │   ├── 📄 TD No 2  Algèbre et Calcul Relationnel.pdf
+    │   ├── 📄 Correction TD No 5 Dépendances Fonctionnelles.pdf
+    │   ├── 📄 TD base de données .pdf
+    │   ├── 📄 td4.jpg
+    │   ├── 📄 TD n ⁰4 base de données .pdf
+    │   └── 📁 Tds/
+    │       ├── 📄 base donnee td1.2.pdf
+    │       ├── 📄 BD.TD4.pdf
+    │       ├── 📄 CORR-TD-BD-2A.pdf
+    │       ├── 📄 CORR-TD-BD-3A.pdf
+    │       ├── 📄 CORR-TD-BD-4A.pdf
+    │       ├── 📄 correction td1 base de donnee.pdf
+    │       ├── 📄 correction td2 base de donnee.pdf
+    │       ├── 📄 correction_TD_3.pdf
+    │       ├── 📄 l2-bdd-exercices-corriges-dependances-fonctionnelles.pdf
+    │       ├── 📄 Serie_TD_4_Corriger.pdf
+    │       ├── 📄 TD 2.pdf
+    │       ├── 📄 TD_Algèbre_Relationnelle_Corriger.pdf
+    │       ├── 📄 TD_Algèbre_Relationnelle.pdf
+    │       ├── 📄 TD_Langage_SQL.pdf
+    │       ├── 📄 td3.pdf
+    │       └── 📄 tdNormalisation-Corrige.pdf
+    └── 📁 Cours/
+        ├── 📄 Cours Base de données MIP Chap0 + MCD.pdf
+        ├── 📄 Chapitre 4 BDD 23-24.pdf
+        ├── 📄 listcommande.pdf
+        ├── 📄 Chapitre 2 BDD 23-24.pdf
+        ├── 📄 Chapitre 3 BDD 23-24.pdf
+        ├── 📄 Chapitre 1 BDD 23-24.pdf
+        └── 📁 Cours/
+            ├── 📄 Chapitre 6 Calcul relationnel.pdf
+            ├── 📄 Chapitre 4 Modèle Relationnel.pdf
+            ├── 📄 INTRODUCTION A SQLPLUS.pdf
+            ├── 📄 Chapitre 5 Algèbre relationnel.pdf
+            ├── 📄 Chapitre 7 Langage SQL.pdf
+            ├── 📄 Chapitre 2 Modèle Conceptuel de données.pdf
+            ├── 📄 Chapitre 8 Comparaison des requêtes algébriques, en calcul relationnel et requêtes SQL.pdf
+            ├── 📄 Chapitre 1 Généralités sur les bases de données.pdf
+            ├── 📄 Chapitre 3 Construction d’un schéma EA.pdf
+            └── 📄 cours Bases de Données.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Bases de données 
+═════════════════════════════════════

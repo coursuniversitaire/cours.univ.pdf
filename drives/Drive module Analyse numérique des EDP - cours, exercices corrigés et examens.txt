@@ -1,0 +1,78 @@
+📚 MODULE : Analyse numérique des EDP                 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Analyse numérique des EDP.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Analyse numérique des EDP/
+├── 🔗📁 Ahmed Lesfari - Cours Introduction aux EDP.pdf/  (raccourci)
+├── 🔗📁 Analyse numérique des EDP/  (raccourci)
+│   ├── 📄 Examen libre analyse numérique des edp 23-24.pdf
+│   ├── 📄 EDP EDO YASSINE.pdf
+│   ├── 📁 Examens/
+│   │   ├── 📄 Exam-MACS1-0906.pdf
+│   │   ├── 📄 Exam-MACS1-0903.pdf
+│   │   ├── 📄 Exam-MACS1-1004.pdf
+│   │   ├── 📄 Exam-MACS1-1006.pdf
+│   │   ├── 📄 Exam-MACS1-1305.pdf
+│   │   ├── 📄 Exam-MACS1-1209.pdf
+│   │   ├── 📄 Exam-MACS1-1309.pdf
+│   │   └── 📄 exam_janv10.pdf
+│   ├── 📁 Livres/
+│   │   ├── 📄 Alfio Quarteroni, Paola Gervasio, Fausto Saleri (auth.) - Calcul Scientifique_ Cours, exercices corrigés et illustrations en MATLAB et Octave-Springer Milan (2010).pdf
+│   │   ├── 📄 Analyse_numérique_des_edps_Résumé.pdf
+│   │   ├── 📄 EDP 1.pdf
+│   │   ├── 📄 Harmo.pdf
+│   │   ├── 📄 ana num s6.pdf
+│   │   ├── 📄 mt71.pdf
+│   │   └── 📄 ANALYSE NUMERIQUE ET EQUATIONS DIFFERENTILLES.pdf
+│   └── 📁 Cours/
+│       ├── 📄 anal numérique.pdf
+│       ├── 📄 Travaux pratiques_M617 (1).pdf
+│       ├── 📄 Chap5beam.pdf
+│       ├── 📄 Chap1 edp.pdf
+│       ├── 📄 Chap6beam.pdf
+│       ├── 📄 0ana num.pdf
+│       ├── 📄 cours6_imprimable.pdf
+│       ├── 📄 Numi2.pdf
+│       └── 📄 equa-diff-x4.pdf
+├── 📄 Examen libre analyse numérique des edp 23-24.pdf
+├── 📄 EDP EDO YASSINE.pdf
+├── 📁 Cours/
+│   ├── 📄 Travaux pratiques_M617 (1).pdf
+│   ├── 📄 Chap5beam.pdf
+│   ├── 📄 Chap6beam.pdf
+│   ├── 📄 Chap1 edp.pdf
+│   ├── 📄 0ana num.pdf
+│   ├── 📄 cours6_imprimable.pdf
+│   ├── 📄 Numi2.pdf
+│   └── 📄 equa-diff-x4.pdf
+├── 📁 Livres/
+│   ├── 📄 Alfio Quarteroni, Paola Gervasio, Fausto Saleri (auth.) - Calcul Scientifique_ Cours, exercices corrigés et illustrations en MATLAB et Octave-Springer Milan (2010).pdf
+│   ├── 📄 Analyse_numérique_des_edps_Résumé.pdf
+│   ├── 📄 Harmo.pdf
+│   ├── 📄 ana num s6.pdf
+│   ├── 📄 mt71.pdf
+│   └── 📄 ANALYSE NUMERIQUE ET EQUATIONS DIFFERENTILLES.pdf
+└── 📁 Examens/
+    ├── 📄 Exam-MACS1-0906.pdf
+    ├── 📄 Exam-MACS1-0903.pdf
+    ├── 📄 Exam-MACS1-1004.pdf
+    ├── 📄 Exam-MACS1-1006.pdf
+    ├── 📄 Exam-MACS1-1305.pdf
+    ├── 📄 Exam-MACS1-1209.pdf
+    ├── 📄 Exam-MACS1-1309.pdf
+    └── 📄 exam_janv10.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Analyse numérique des EDP
+═════════════════════════════════════

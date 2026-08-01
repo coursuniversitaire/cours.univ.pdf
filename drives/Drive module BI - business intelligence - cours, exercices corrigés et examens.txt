@@ -1,0 +1,387 @@
+📚 MODULE : BI - business intelligence                
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module BI - business intelligence.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 BI - business intelligence/
+├── 🔗📁 BI/  (raccourci)
+│   ├── 📁 interro/
+│   │   ├── 📄 Corrige_TD2-bis.pdf
+│   │   ├── 📄 Examen_BI_2022-2023.pdf
+│   │   ├── 📄 EMD_SID_2022_2023.pdf
+│   │   ├── 📄 CORRIGE-EXAMEN-SID-2022-2023 (1).pdf
+│   │   ├── 📄 NOM_PRENOM_GROUPE_DEVOIR_TD2_TD3.docx
+│   │   └── 📄 Copie de nom_prenom_G1_DEVOIR_TD2_TD3 – 19 avril à 18_19.docx
+│   ├── 📁 TD/
+│   │   ├── 📄 TD1 (2).docx
+│   │   ├── 📄 Corrige_TD2-bis (1).pdf
+│   │   ├── 📄 TD4 (2).docx
+│   │   ├── 📄 TD3_1 (3).docx
+│   │   ├── 📄 TD2_1 (2).docx
+│   │   └── 📄 Corrige_TD1 (1).pdf
+│   └── 📁 COURS/
+│       ├── 📄 IV_OLAP.pptx
+│       ├── 📄 II_Modelisation_dimensionnelle_1.pptx
+│       └── 📄 I_-La_Business_Intelligence.pptx
+├── 🔗📁 BDMED |  Base de Données Multidimensionnelles et Entrepôts de Données/  (raccourci)
+│   ├── 📄 SQL Etendu pour de l’OLAP.pdf
+│   ├── 📄 Cours_BDMED.pdf
+│   ├── 📁 Examens / Tests /
+│   │   ├── 📄 BDMED examen 2021-2022
+│   │   ├── 📄 BDMED Test  2021-2022
+│   │   ├── 📄 BDMED 18-19 avec solution.pdf
+│   │   ├── 📄 BDMED 18-19
+│   │   └── 📄 Test 2017-2018.pdf
+│   ├── 📁 Fiches TP/
+│   │   ├── 📄 TP4_Historisation.pdf
+│   │   ├── 📄 TP5_IntegrationED.pdf
+│   │   ├── 📄 TP3_BonnesPratiques.pdf
+│   │   ├── 📄 TP2_JointureSelection.pdf
+│   │   └── 📄 TP1_Initiation.pdf
+│   └── 📁 Fiche TD/
+│       ├── 📁 TD 1/
+│       │   └── 📄 TD1_Analyse_des_besoins.pdf
+│       ├── 📁 TD 3/
+│       │   ├── 📄 TD3_CORRIGE.pdf
+│       │   └── 📄 TD3_interrogation.pdf
+│       └── 📁 TD 2/
+│           ├── 📄 TD 2 avec corréction.pdf
+│           └── 📄 TD2 Conception ED.pdf
+├── 🔗📁 ENDO/  (raccourci)
+│   ├── 📁 examens/
+│   │   ├── 📄 EDMIND2016.pdf
+│   │   ├── 📄 EDMIND2019.pdf
+│   │   ├── 📄 EDMIND2020.pdf
+│   │   ├── 📄 EDMIND2017.pdf
+│   │   └── 📄 EDMIND2015.pdf
+│   ├── 📁 TPS/
+│   │   ├── 📄 corrigé.pdf
+│   │   ├── 📄 TP6.pdf
+│   │   ├── 🔗📁 TP5.pdf/  (raccourci)
+│   │   ├── 🔗📁 TD Conception Multidimensionnelle  (raccourci)
+│   │   ├── 📄 TD Conception Multidimensionnelle(1).pdf
+│   │   ├── 📄 TP4.pdf
+│   │   ├── 📄 TP3.pdf
+│   │   ├── 📄 TP2.pdf
+│   │   ├── 📄 TPED1Suite.pdf
+│   │   ├── 📄 TPED1.pdf
+│   │   └── 📁 VIDEOS/
+│   │       ├── 🔗📁 TD-TP-10/06/2021/  (raccourci)
+│   │       ├── 🔗📁 TD_ED_03/06/2021/  (raccourci)
+│   │       ├── 🔗📁 TD-ED-27/05/2021/  (raccourci)
+│   │       ├── 🔗📁 TP-ED-20/02/2021/  (raccourci)
+│   │       ├── 🔗📁 TP-3-06/05/2021/  (raccourci)
+│   │       └── 🔗📁 TP_2_29/04/2021/  (raccourci)
+│   └── 📁 COURS/
+│       └── 📁 PDFS/
+│           ├── 📄 EDChap5.pdf
+│           ├── 📄 EDChap4.pdf
+│           ├── 📄 EDChap3.pdf
+│           ├── 📄 EDChap2.pdf
+│           ├── 📄 EDChap1.pdf
+│           └── 📄 Syllabus.pdf
+├── 🔗📁 BI/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 🔗📁 Entrepôts de données (ENDO)/  (raccourci)
+│   ├── 📁 RAPPORTS TP 2019/
+│   │   ├── 📁 TP8/
+│   │   │   ├── 📄 TP8_ENDO_ALL.sql
+│   │   │   └── 📄 TP8.pdf
+│   │   ├── 📁 TP7/
+│   │   │   ├── 📄 rapport7_endo_MATA_ELKEFIF.pdf
+│   │   │   ├── 📄 TP7_ENDO.sql
+│   │   │   └── 📄 TP7.jpg
+│   │   ├── 📁 TP6/
+│   │   │   ├── 📄 TP6_ENDO.sql
+│   │   │   ├── 📄 rapport6_endo_MATA_ELKEFIF.pdf
+│   │   │   └── 📄 TP6.jpg
+│   │   ├── 📁 TP5/
+│   │   │   ├── 📄 rapport5_endo_MATA_ELKEFIF.pdf
+│   │   │   ├── 📄 TP5_ENDO_MATA_ELK.sql
+│   │   │   └── 📄 TP5.jpg
+│   │   ├── 📁 TP4/
+│   │   │   ├── 📄 rapport4_endo_MATA_ELKEFIF.pdf
+│   │   │   ├── 📄 TP4_ENDO.sql
+│   │   │   └── 📄 TP4.jpg
+│   │   ├── 📁 TP3/
+│   │   │   ├── 📄 rapport3_endo_MATA_ELKEFIF.pdf
+│   │   │   └── 📄 TP3.jpg
+│   │   └── 📁 TP1-2/
+│   │       ├── 📄 TP1-2_ENDO_MATA_NASSIM.sql
+│   │       ├── 📄 rapport1-2_endo_MATA_ELKEFIF.pdf
+│   │       ├── 📄 TP1.jpg
+│   │       └── 📄 TP2.jpg
+│   ├── 📁 TD/
+│   │   ├── 📄 TD2-ENDO.jpg
+│   │   ├── 📄 TD_ENDO.txt
+│   │   └── 📄 TD-ENDO.pdf
+│   ├── 📁 TP-19/
+│   │   └── 📄 TP8-ENDO - Page 1.pdf
+│   ├── 📁 TP/
+│   │   ├── 📄 tp2edd.sql
+│   │   ├── 📄 tp3_e_dd.sql
+│   │   ├── 📄 tp1edd.sql
+│   │   ├── 📄 tp4_edd.sql
+│   │   ├── 📄 tp5_edd.sql
+│   │   ├── 📄 tp6_edd.sql
+│   │   ├── 📄 tp7.sql
+│   │   ├── 📄 tp8.sql
+│   │   ├── 📄 TP_09.txt
+│   │   └── 📄 tp9_edd.sql
+│   ├── 📁 COURS_SELMOUNE/
+│   │   ├── 📄 COURS_ENDO_ALL.pdf
+│   │   ├── 📄 EDChap1.pdf
+│   │   ├── 📄 EDChap5.pdf
+│   │   ├── 📄 EDChap2.pdf
+│   │   ├── 📄 EDChap3.pdf
+│   │   └── 📄 EDChap4.pdf
+│   ├── 📁 EXAMENS_CORRIGÉS/
+│   │   ├── 📄 EDMIND2015.pdf
+│   │   ├── 📄 EDMIND-2016.pdf
+│   │   └── 📄 EDMIND2017.pdf
+│   ├── 📁 SUJETS/
+│   │   ├── 📄 exam SDED 2010-2011.pdf
+│   │   ├── 📄 examSDED2012cor (4).docx
+│   │   ├── 📄 examSDED2014-3.docx
+│   │   ├── 📄 examSDED2013cor-5.docx
+│   │   ├── 📄 Rattrapage SDED 2011.doc
+│   │   ├── 📄 Rattrapage-SDED-2011.doc
+│   │   ├── 📄 sded-td2.docx
+│   │   ├── 📄 EDMIND2015(1).pdf
+│   │   ├── 📄 Examen 2012-2013.pdf
+│   │   ├── 📄 Serie TD enterpot de donnée.pdf
+│   │   ├── 📄 Examen 2011-2012.pdf
+│   │   ├── 📄 Examen enterpot 2009.pdf
+│   │   ├── 📁 tests enterpot de donnée/
+│   │   │   ├── 📄 img042.jpg
+│   │   │   ├── 📄 img039.jpg
+│   │   │   ├── 📄 img038.jpg
+│   │   │   ├── 📄 img043.jpg
+│   │   │   ├── 📄 Thumbs.db
+│   │   │   ├── 📄 img040.jpg
+│   │   │   └── 📄 img041.jpg
+│   │   └── 📁 correction entrepot examen 2009/
+│   │       ├── 📄 A lire.txt
+│   │       ├── 📄 Correction entrepot examen 2009 (p1).jpg
+│   │       └── 📄 Correction entrepot examen 2009 (p2).jpg
+│   └── 📁 RAPPORTS TP/
+│       ├── 📁 rapport_4edd/
+│       │   ├── 📄 10.png
+│       │   ├── 📄 1.png
+│       │   ├── 📄 12.png
+│       │   ├── 📄 11.png
+│       │   ├── 📄 15.png
+│       │   ├── 📄 14.png
+│       │   ├── 📄 16.png
+│       │   ├── 📄 13.png
+│       │   ├── 📄 17.png
+│       │   ├── 📄 2.png
+│       │   ├── 📄 6.png
+│       │   ├── 📄 5.png
+│       │   ├── 📄 4.png
+│       │   ├── 📄 3.png
+│       │   ├── 📄 7.png
+│       │   ├── 📄 8.png
+│       │   ├── 📄 9.png
+│       │   ├── 📄 rapport_tp4.docx
+│       │   ├── 📄 rapport_tp4.pdf
+│       │   └── 📄 tp4_edd.sql
+│       ├── 📁 rapport_3_e_dd/
+│       │   ├── 📄 1.png
+│       │   ├── 📄 10.png
+│       │   ├── 📄 11.png
+│       │   ├── 📄 12.png
+│       │   ├── 📄 13.png
+│       │   ├── 📄 14.png
+│       │   ├── 📄 16.png
+│       │   ├── 📄 15.png
+│       │   ├── 📄 17.png
+│       │   ├── 📄 18.png
+│       │   ├── 📄 2.png
+│       │   ├── 📄 4_1.png
+│       │   ├── 📄 3.png
+│       │   ├── 📄 glt.png
+│       │   ├── 📄 9.png
+│       │   ├── 📄 rapport_tp3.docx
+│       │   ├── 📄 tp3_e_dd.sql
+│       │   ├── 📄 tp3_edd.txt
+│       │   └── 📄 rapport_tp3.output.pdf
+│       ├── 📁 rapport8_edd/
+│       │   ├── 📄 1.png
+│       │   ├── 📄 10.png
+│       │   ├── 📄 11.png
+│       │   ├── 📄 12.png
+│       │   ├── 📄 13.png
+│       │   ├── 📄 14.png
+│       │   ├── 📄 15.png
+│       │   ├── 📄 8.png
+│       │   ├── 📄 7.png
+│       │   ├── 📄 3.png
+│       │   ├── 📄 16.png
+│       │   ├── 📄 17.png
+│       │   ├── 📄 2.png
+│       │   ├── 📄 4.png
+│       │   ├── 📄 6.png
+│       │   ├── 📄 5.png
+│       │   ├── 📄 9.png
+│       │   ├── 📄 rapport_tp8.docx
+│       │   ├── 📄 tp8.sql
+│       │   └── 📄 rapport_tp8.output.pdf
+│       ├── 📁 rapport_1e_et 2_dd/
+│       │   ├── 📄 passageMCDMR.pdf
+│       │   ├── 📄 rapport_1.docx
+│       │   ├── 📄 rapport_1.pdf
+│       │   └── 📄 tp1_tp2.txt
+│       ├── 📁 rapport6_edd/
+│       │   ├── 📄 1.png
+│       │   ├── 📄 10.png
+│       │   ├── 📄 12.png
+│       │   ├── 📄 11.png
+│       │   ├── 📄 2.png
+│       │   ├── 📄 5.png
+│       │   ├── 📄 4.png
+│       │   ├── 📄 3.png
+│       │   ├── 📄 8.png
+│       │   ├── 📄 6.png
+│       │   ├── 📄 7.png
+│       │   ├── 📄 9.png
+│       │   ├── 📄 rapport_tp6.docx
+│       │   ├── 📄 rapport_tp6.output.pdf
+│       │   └── 📄 tp6_edd.sql
+│       ├── 📁 rapport7_edd/
+│       │   ├── 📄 1.png
+│       │   ├── 📄 12.png
+│       │   ├── 📄 11.png
+│       │   ├── 📄 10.png
+│       │   ├── 📄 13.png
+│       │   ├── 📄 14.png
+│       │   ├── 📄 17.png
+│       │   ├── 📄 15.png
+│       │   ├── 📄 19.png
+│       │   ├── 📄 16.png
+│       │   ├── 📄 4.png
+│       │   ├── 📄 18.png
+│       │   ├── 📄 2.png
+│       │   ├── 📄 3.png
+│       │   ├── 📄 5.png
+│       │   ├── 📄 6.png
+│       │   ├── 📄 7.png
+│       │   ├── 📄 8.png
+│       │   ├── 📄 9.png
+│       │   ├── 📄 rapport_tp7.docx
+│       │   ├── 📄 tp7.sql
+│       │   └── 📄 rapport_tp7edd.pdf
+│       └── 📁 rapport5_edd/
+│           ├── 📄 5.png
+│           ├── 📄 1.png
+│           ├── 📄 2.png
+│           ├── 📄 4.png
+│           ├── 📄 6.png
+│           ├── 📄 a.png
+│           ├── 📄 7.png
+│           ├── 📄 b.png
+│           ├── 📄 c.png
+│           ├── 📄 d.7.png
+│           ├── 📄 e.png
+│           ├── 📄 g.png
+│           ├── 📄 f.png
+│           ├── 📄 h.png
+│           ├── 📄 i.png
+│           ├── 📄 j.png
+│           ├── 📄 k.png
+│           ├── 📄 m.png
+│           ├── 📄 l.png
+│           ├── 📄 rapport_tp5_edd.docx
+│           ├── 📄 tp5_edd.sql
+│           └── 📄 rapport_tp5_edd.pdf
+├── 🔗📁 Outils BI (OBI)/  (raccourci)
+│   ├── 📁 TP/
+│   │   └── 📄 sql-server-integration-services-ssis-step-by-step-sample-chapters.pdf
+│   ├── 📁 EXAMENS_CORRIGÉS/
+│   │   ├── 📄 31967890_10212892242845719_1406019585148190720_n (1).jpg
+│   │   ├── 📄 31956226_10212892247925846_3027099203693182976_n.jpg
+│   │   ├── 📄 32104967_1381501441995100_5467268174082736128_n.jpg
+│   │   ├── 📄 31967890_10212892242845719_1406019585148190720_n.jpg
+│   │   ├── 📄 32084536_10212892255006023_3812418417395236864_n.jpg
+│   │   ├── 📄 32085091_10212892248245854_1141008424968912896_n.jpg
+│   │   ├── 📄 32089893_10212892244325756_1393636919555915776_n.jpg
+│   │   ├── 📄 32105014_10212892243965747_136926207391301632_n.jpg
+│   │   ├── 📄 32151062_10212892256126051_7227683854629208064_n.jpg
+│   │   ├── 📄 32160849_10212892244645764_3719646410837065728_n.jpg
+│   │   ├── 📄 32089794_10212892255486035_47409120323567616_n.jpg
+│   │   ├── 📄 32186948_10212892245125776_8939082963212042240_n.jpg
+│   │   ├── 📄 32116986_10212892243165727_7412143530237231104_n.jpg
+│   │   ├── 📄 32104682_10212892254246004_8382455734226386944_n.jpg
+│   │   └── 📄 32104682_10212892254246004_8382455734226386944_n (1).jpg
+│   └── 📁 COURS/
+│       ├── 📄 OBI_ALL_compressed.pdf
+│       ├── 📄 Outils BI (Chapitre 3).pdf
+│       ├── 📄 Outils BI (Chapitre 1).pdf
+│       ├── 📄 Outils BI (Chapitre 2).pdf
+│       └── 📄 révision.output.pdf
+├── 📁 Examens corrigés/
+│   ├── 📄 Examen SID Université Blida 1 2022 2023 -BI - business intelligence
+│   ├── 📄 Examen SID Université Blida 1 2022 2023 -BI - business intelligence
+│   ├── 📄 Exercices TD Modélisation Flocons de Neige -BI - business intelligence
+│   ├── 📄 Examen BI Université Blida 1 -BI - business intelligence
+│   ├── 📄 Examen Entrepots de Donnes -BI - business intelligence
+│   ├── 📄 Examen Entrepots de Donnes -BI - business intelligence
+│   ├── 📄 Examen Entrepots de Donnes -BI - business intelligence
+│   ├── 📄 Examen Systèmes décisionnels et entrepôts de données
+│   ├── 📄 Examen SDED M2 IL USTHB 2012 2013 -BI - business intelligence
+│   ├── 📄 Examen Module SDED M2 IL -BI - business intelligence
+│   ├── 📄 Examen SDED M2 IL -BI - business intelligence
+│   ├── 📄 Examen Module SDED M2 IL -BI - business intelligence
+│   ├── 📄 Examen SDED M2 IL -BI - business intelligence
+│   └── 🔗📁 SUJETS/  (raccourci)
+│       └── ⚠️  [Référence circulaire ignorée]
+├── 📁 TDs et TPs/
+│   ├── 📄 Corrige_TD2-bis.pdf
+│   ├── 📄 CORRIGE-EXAMEN-SID-2022-2023 (1).pdf
+│   ├── 📄 EMD_SID_2022_2023.pdf
+│   ├── 📄 Examen_BI_2022-2023.pdf
+│   ├── 📄 Corrige_TD1 (1).pdf
+│   ├── 📄 Corrige_TD2-bis (1).pdf
+│   ├── 📄 TD1 (2).docx
+│   ├── 📄 TD2_1 (2).docx
+│   ├── 📄 TD3_1 (3).docx
+│   ├── 📄 TD4 (2).docx
+│   ├── 📄 Exercices TD Entrepots de Donnees -BI - business intelligence
+│   ├── 📄 Exercices TP Entrepots de Donnees -BI - business intelligence
+│   ├── 📄 Exercices TD Bases de données -BI - business intelligence
+│   ├── 📄 Exercices TP Optimisation des requêtes Oracle -BI - business intelligence
+│   ├── 📄 Exercices TP Travaux Pratiques SQL -BI - business intelligence
+│   ├── 📄 Cours PL SQL Exemple de Code -BI - business intelligence
+│   ├── 📄 TP2.PDF
+│   ├── 📄 Exercices TD Bases de Données -BI - business intelligence
+│   ├── 📄 Exercices TD Bases de Données -BI - business intelligence
+│   ├── 📄 Exercices TD Systèmes décisionnels et Entrepôts de données
+│   ├── 📄 Exercices TD Conception Multidimensionnelle -BI - business intelligence
+│   ├── 🔗📁 RAPPORTS TP 2019/  (raccourci)
+│   │   └── ⚠️  [Référence circulaire ignorée]
+│   ├── 📄 TD_ENDO.txt
+│   ├── 📄 TD2-ENDO.jpg
+│   └── 📁 TD/
+│       ├── 📄 Exercices TD Base de Données -BI - business intelligence
+│       ├── 📄 Exercices TD BI -BI - business intelligence
+│       ├── 📄 Exercices TD BI L3 ISIL 2023 2024 -BI - business intelligence
+│       └── 📄 Exercices TD Base de Données -BI - business intelligence
+└── 📁 COURS/
+    ├── 📄 Exercices TD ERP vs BI -BI - business intelligence
+    ├── 📄 Modélisation dimensionnelle Faits et table de faits
+    ├── 📄 Cours OLAP Analyse des données en ligne -BI - business intelligence
+    └── 📄 Introduction aux Systemes d'Aide a la Decision -BI - business intelligence
+
+═════════════════════════════════════
+  Fin du fichier · BI - business intelligence
+═════════════════════════════════════

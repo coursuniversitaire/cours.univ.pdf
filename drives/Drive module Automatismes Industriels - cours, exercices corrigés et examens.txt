@@ -1,0 +1,58 @@
+📚 MODULE : Automatismes Industriels                  
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Automatismes Industriels.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Automatismes Industriels/
+├── 📄 capteurs.pdf
+├── 📄 la solution d'Exercice sur Grafcet à séquences simultanées _ aiguillage en ET.pdf
+├── 📄 solution variante 02 finale.docx
+├── 📄 solution variante 03 finale.docx
+├── 📄 support_de_cours_API.pdf
+├── 📄 Td01.pdf
+├── 📄 Td02.pdf
+├── 📄 variante 01 finale.docx
+├── 📄 variante 02 finale.docx
+├── 📄 variante 03 finale.docx
+├── 📄 A Identifier symbole et composants (1)(1).docx
+├── 📄 A Identifier symbole et composants (1).docx
+├── 📄 Etudi Automate 2 Cours Automate 1 Etudiants (1).docx
+├── 📄 etudiant Serie Exo (1).doc
+├── 📄 etudiants Serie Exo N°2 L3 (1).doc
+├── 📄 Etudiants Cours composants Electriques Etudiants (1).docx
+├── 📄 Le_contr_le_moteurs.pdf
+├── 📄 A_Lire_et_faire_les_exos_GRAFCET_-_2_me_partie.ppt
+├── 📄 etudiants TD Grafcet 2021.docx
+├── 📄 NF_C15-100_2002-12-maj2005-06.pdf
+├── 📁 TP/
+│   ├── 📄 ~$tomatismes_TP2_2021.docx
+│   ├── 📄 Automatismes_TP2_2021.docx
+│   ├── 📄 Automatismes_TP2_2020.pdf
+│   ├── 📄 Automatismes_TP3_2018.pdf
+│   └── 📄 Automatismes_TP1.docx
+├── 📁 Travail Bali/
+│   ├── 📄 Mini projet Bali.pptx
+│   ├── 📄 Exo Auto1.pptx
+│   ├── 📄 Exo Auto 2.docx
+│   └── 📄 Mini projet Imagination.pptx
+└── 📁 TD/
+    ├── 📄 S_rie_2_3.pdf
+    ├── 📄 Série 11.pdf
+    ├── 📄 LE GRAFCET Cours _ Exercices Corrigés (21 avril 2017).pdf
+    ├── 📄 Le GRAFCET - outil de description des automatismes séquentie (12 mars 2017).PDF
+    ├── 📄 Cours grafcet _ les notions de base.pdf
+    └── 📄 20grafcet linéaire ( correction ).pdf
+
+═════════════════════════════════════
+  Fin du fichier · Automatismes Industriels
+═════════════════════════════════════

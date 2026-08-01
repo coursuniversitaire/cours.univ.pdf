@@ -1,0 +1,55 @@
+📚 MODULE : Biophysique                               
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Biophysique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Biophysique/
+├── 📁 Examen/
+│   ├── 📄 Biophysique-Examen-02.pdf
+│   ├── 📄 Biophysique-Examen-01.pdf
+│   ├── 📄 Biophysique-Corrigé-02.pdf
+│   ├── 📄 Biophysique-Corrigé-01.pdf
+│   └── 📄 C1+biophysique.pdf
+├── 📁 QCM/
+│   ├── 📄 Biophysique-QCM-06.pdf
+│   ├── 📄 Biophysique-QCM-05.pdf
+│   ├── 📄 Biophysique-QCM-04.pdf
+│   ├── 📄 Biophysique-QCM-03.pdf
+│   ├── 📄 Biophysique-QCM-02.pdf
+│   └── 📄 Biophysique-QCM-01.pdf
+├── 📁 Execices/
+│   ├── 📄 Exercice-Corrigé-04.pdf
+│   ├── 📄 Exercice-Corrigé-03.pdf
+│   ├── 📄 Exercice-Corrigé-02.pdf
+│   └── 📄 Exercice-Corrigé-01.pdf
+├── 📁 Résumé/
+│   ├── 📄 résume de biophysique s3.pdf
+│   ├── 📄 Biophysique-Résumé-04.pdf
+│   ├── 📄 Biophysique-Résumé-03.pdf
+│   ├── 📄 Biophysique-Résumé-02.pdf
+│   └── 📄 Biophysique-Résumé-01.pdf
+├── 📁 Cours/
+│   └── 📁 Cours Pr BOUKHZAR/
+│       └── 📄 Cours-Biophysique Loubna BOUKHZAR UCA VF 23-24.pdf
+├── 📁 TD/
+│   ├── 📄 TD Biophysique.pdf
+│   ├── 📄 TD de Fluorescence.pdf
+│   ├── 📄 TD1.pdf
+│   └── 📄 TD2.pdf
+└── 📁 TP/
+    ├── 📄 Poly Muscle.pdf
+    └── 📄 Poly TP Cryoscopie Urée.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Biophysique
+═════════════════════════════════════

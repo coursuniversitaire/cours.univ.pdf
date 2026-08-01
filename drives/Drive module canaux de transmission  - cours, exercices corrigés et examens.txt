@@ -1,0 +1,67 @@
+📚 MODULE : canaux de transmission                    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module canaux de transmission .
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 canaux de transmission /
+├── 📄 résumé td canaux 04-سبتمبر-2019 10-46-53.pdf
+├── 📄 td canaux 04-سبتمبر-2019 10-36-09.pdf
+├── 📄 CANAUX DE TRANSMISSION Bazi-20260630T212712Z-3-001.zip
+├── 🔗📁 CANAUX DE TRANSMISSION Bazi/  (raccourci)
+│   ├── 📁 COURS PROF/
+│   │   ├── 📄 chapitre3-Les fibres optiques.pdf
+│   │   ├── 📄 Chapitre2-guide d'onde.pdf
+│   │   └── 📄 Chapitre1-lignes de transmission.pdf
+│   ├── 📁 EXAMS/
+│   │   └── 📁 1/
+│   │       ├── 📄 180640023_4003498709716122_5079493269965331398_n.jpg
+│   │       ├── 📄 180854815_366808254711692_5414162214044977354_n.jpg
+│   │       ├── 📄 180313221_783000259020292_7060908256643892838_n.jpg
+│   │       ├── 📄 181106455_460630895208400_2645162411643417567_n.jpg
+│   │       ├── 📄 180313221_300329778116261_7474262131784428273_n.jpg
+│   │       ├── 📄 180446490_290634579206126_640756427264755098_n.jpg
+│   │       └── 📄 180446378_478970083439151_8389358606143433437_n.jpg
+│   └── 📁 TD/
+│       ├── 📁 3/
+│       │   ├── 📄 Scanexo1_merged.pdf
+│       │   ├── 📄 Exo 8.docx
+│       │   ├── 📄 Scanexo7.pdf
+│       │   ├── 📄 Scanexo5.pdf
+│       │   ├── 📄 Scanexo4.pdf
+│       │   ├── 📄 Scanexo1.pdf
+│       │   ├── 📄 Scanexo3-1.pdf
+│       │   ├── 📄 Scanexo2.pdf
+│       │   ├── 📄 Scanexo3-2.pdf
+│       │   ├── 📄 Scanexo3-4.pdf
+│       │   ├── 📄 Scanexo5-2.pdf
+│       │   └── 📄 serie3-FO-2022.pdf
+│       ├── 📁 1/
+│       │   ├── 📄 TD1_Cannaux_Correction2.pdf
+│       │   ├── 📄 TD1_Cannaux_Correction.pdf
+│       │   ├── 📄 Enoncé Serie 1.pdf
+│       │   └── 📄 abaque-smith.pdf
+│       └── 📁 2/
+│           ├── 📄 Scan_merged.pdf
+│           └── 📄 serien2-GOR.pdf
+├── 🔗📁 LES CANAUX/  (raccourci)
+│   ├── 📄 Chapitre1.pdf
+│   ├── 📄 Chapitre2.pdf
+│   ├── 📄 Chapitre3.pdf
+│   └── 📄 Chapitre4.pdf
+└── 🔗📁 canaux de transmission/  (raccourci)
+    ├── 📄 td canaux 04-سبتمبر-2019 10-36-09.pdf
+    └── 📄 résumé td canaux 04-سبتمبر-2019 10-46-53.pdf
+
+═════════════════════════════════════
+  Fin du fichier · canaux de transmission 
+═════════════════════════════════════

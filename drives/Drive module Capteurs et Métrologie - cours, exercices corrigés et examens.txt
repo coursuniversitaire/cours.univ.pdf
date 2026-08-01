@@ -1,0 +1,45 @@
+📚 MODULE : Capteurs et Métrologie                    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Capteurs et Métrologie.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Capteurs et Métrologie/
+├── 🔗📁 Capteurs et Métrologie.rar/  (raccourci)
+├── 📄 chapitre 2 Capteur.pptx
+├── 📄 chapitre 1 Capteur.pptx
+├── 📄 doc réponse TP 3.pdf
+├── 📄 doc réponse TP 1.pdf
+├── 📄 TP 3.pdf
+├── 📄 doc réponse TP 2.pdf
+├── 📄 TP 2.pdf
+├── 📄 TP 1.pdf
+├── 📁 Cours/
+│   ├── 📄 L3-ELN-capteurs.pdf
+│   ├── 📄 Chap4 la vitesse.pdf
+│   ├── 📄 Chap3 le débit.pdf
+│   ├── 📄 Chap2 la pression.pdf
+│   ├── 📄 Chap1 la température.pdf
+│   ├── 📄 I Métrologie.pdf
+│   ├── 📄 capteurs.pdf
+│   └── 📄 Cours Capteurs et Métrologie_Dr_BENYETTOU_ Loutfi.pdf
+├── 📁 Examen/
+│   └── 📄 solution capteurs 20.pdf
+└── 📁 TD/
+    ├── 📄 Solution Série N 2  capteurs et métrologie.pdf
+    ├── 📄 Serie TD 2  capteurs et métrologie.pdf
+    ├── 📄 Solution SeriesTD 1 capteurs et métrologie.pdf
+    └── 📄 series_TD 1 capteurs et métrologie.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Capteurs et Métrologie
+═════════════════════════════════════

@@ -1,0 +1,159 @@
+📚 MODULE : Algorithmes Distribués (ALDI)             
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Algorithmes Distribués (ALDI).
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Algorithmes Distribués (ALDI)/
+├── 📁 TDs corrigés/
+│   ├── 📄 284197908_359494922948858_2586788682704705561_n.jpg
+│   ├── 📄 285441913_1021054058536923_3977018210992475581_n.jpg
+│   ├── 📄 ExercicesALDI.pdf
+│   └── 📄 ExercicesEM.pdf
+├── 📁 Examens et contrôles/
+│   ├── 📄 18221887_1895245044047115_1877031152633459386_n.jpg
+│   ├── 📄 18740391_210877599421756_5974876607042646927_n.jpg
+│   ├── 📄 18740496_210876742755175_9197495175689501246_n.jpg
+│   ├── 📄 122254714_3683470328383593_3313915672288321117_n.jpg
+│   ├── 📄 122528697_3683470135050279_6942820557265966012_n.jpg
+│   └── 📄 Devoir_02_ALDI_M1RSD_2021_2022.pdf
+├── 📁 Tps/
+│   ├── 📄 Correction TP ALDI 05 2021 2022 .pdf
+│   ├── 📄 Correction_TP05_ALDI_M1RSD_2021_2022_Variante 1.pdf
+│   ├── 📄 Correction_TP05_ALDI_M1RSD_2021_2022_Variante 2.pdf
+│   ├── 📄 Correction_TP05_ALDI_M1RSD_2021_2022_Variante 3.pdf
+│   ├── 📄 Présentation TP ALDI 2021 2022.pdf
+│   ├── 📄 TP ALDI 01 2021 2022 Diaporama.pdf
+│   ├── 📄 TP ALDI 01 2021 2022 Word.pdf
+│   ├── 📄 TP ALDI 02 2021 2022 Diaporama.pdf
+│   ├── 📄 TP ALDI 03 2021 2022 for student.pdf
+│   ├── 📄 TP ALDI 04 2021 2022 - Copie.pdf
+│   ├── 📄 TP ALDI 06 2021 2022 Partie 1.pdf
+│   ├── 📄 TP ALDI 06 2021 2022 Partie 2.pdf
+│   ├── 📄 TP ALDI 06 2021 2022.pdf
+│   ├── 📄 TP05_ALDI_M1RSD_2021_2022.pdf
+│   ├── 📄 TP06_ALDI_M1RSD_2021_2022_Code Commenté.pdf
+│   └── 📄 TP07_ALDI_M1RSD_2021_2022.pdf
+├── 📁 Enregistrement /
+│   └── 🔗📁 ALDI/  (raccourci)
+│       ├── 📄 TP ALDI 03 2021 2022 for student.pdf
+│       ├── 📄 TP05_ALDI_M1RSD_2021_2022.pdf
+│       ├── 📄 TP ALDI 02 2021 2022 Diaporama.pdf
+│       ├── 📄 TP07_ALDI_M1RSD_2021_2022.pdf
+│       ├── 📄 Correction TP ALDI N°5 Partie 1.mp4
+│       ├── 📄 TP ALDI N°5 Partie 2.mp4
+│       ├── 📄 TP ALDI 06 2021 2022 Partie 1.pdf
+│       ├── 📄 TP ALDI 06 2021 2022 Partie 2.pdf
+│       ├── 📄 TP06_ALDI_M1RSD_2021_2022_Code Commenté.pdf
+│       ├── 📄 Correction TP ALDI 05 2021 2022 .pdf
+│       ├── 📄 Correction_TP05_ALDI_M1RSD_2021_2022_Variante 1.pdf
+│       ├── 📄 Correction_TP05_ALDI_M1RSD_2021_2022_Variante 2.pdf
+│       ├── 📄 Correction_TP05_ALDI_M1RSD_2021_2022_Variante 3.pdf
+│       ├── 📄 TP ALDI 06 2021 2022.pdf
+│       ├── 📄 TP ALDI 04 2021 2022 - Copie.pdf
+│       ├── 📄 Devoir_02_ALDI_M1RSD_2021_2022.pdf
+│       ├── 📄 Ch0.Introduction.pdf
+│       ├── 📄 TP ALDI 01 2021 2022 Word.pdf
+│       ├── 📄 TP ALDI 01 2021 2022 Diaporama.pdf
+│       ├── 📄 Présentation TP ALDI 2021 2022.pdf
+│       ├── 📄 Ch1.1.EM-Permissions.pdf
+│       └── 📁 COUR/
+│           ├── 📄 285441913_1021054058536923_3977018210992475581_n.jpg
+│           ├── 📄 284197908_359494922948858_2586788682704705561_n.jpg
+│           ├── 📄 Systèmes Répartis - 20 - Parcours _ Election dans un Graphe Quelconque.mp4
+│           ├── 📄 Systèmes Répartis - 13 - Algorithme de Ricart _ Agrawala [RA 81].mp4
+│           ├── 📄 Systèmes Répartis - 16 - Algorithme de Misra.mp4
+│           ├── 📄 Systèmes Répartis - 17 - Principes des Algorithmes d'Election.mp4
+│           ├── 📄 Systèmes Répartis - 18 - Algorithme de Chang - Roberts (v1).mp4
+│           ├── 📄 Systèmes Répartis - 07 - L'Asynchronisme _ La Diffusion.mp4
+│           ├── 📄 Systèmes Répartis - 11 - Classes de Pannes + Exclusion Mutuelle.mp4
+│           ├── 📄 Systèmes Répartis - 15 - Algorithme de Ricart _ Agrawala [RA 83 - Suzuki-Kasami].mp4
+│           ├── 📄 Systèmes Répartis - 14 - Algorithme de Le Lann [LL77].mp4
+│           ├── 📄 Systèmes Répartis - 19 - Algorithme de Chang - Roberts (v2).mp4
+│           ├── 📄 Systèmes Répartis - 01 - Introduction aux SR [1-2].mp4
+│           ├── 📄 Systèmes Répartis - 02 - Introduction aux SR [2-2].mp4
+│           ├── 📄 Systèmes Répartis - 09 - Etat Global d'un SR.mp4
+│           ├── 📄 Systèmes Répartis - 03 - Introduction à l'Algorithmique Répartie.mp4
+│           ├── 📄 Systèmes Répartis - 10 - Types de Messages + Superposition.mp4
+│           ├── 📄 Systèmes Répartis - 08 - Les Coupures (Cuts).mp4
+│           ├── 📄 Systèmes Répartis - 04 - Les Horloges Logiques de Lamport.mp4
+│           ├── 📄 ExercicesEM.pdf
+│           ├── 📄 ExercicesALDI.pdf
+│           ├── 📄 Ch3.Etat Global et Propriétés Stables.pdf
+│           ├── 📄 Ch2.RdVsdistribués.pdf
+│           ├── 📄 Ch1.6.EM-PbLecteursRédacteurs.pdf
+│           ├── 📄 Ch1.5.EM-PermissionsArbitres.pdf
+│           ├── 📄 Ch1.4.EM-ChandyMisra.pdf
+│           ├── 📄 Ch1.3.EM-CarvalhoRoucairol.pdf
+│           ├── 📄 Ch1.2.EM-RicartAgrawala.pdf
+│           ├── 📄 Ch0.Introduction.pdf
+│           └── 📄 Ch1.1.EM-Permissions.pdf
+├── 📁 Cours/
+│   ├── 📄 Ch0.Introduction.pdf
+│   ├── 📄 Ch1.1.EM-Permissions.pdf
+│   ├── 📄 Ch1.2.EM-RicartAgrawala.pdf
+│   ├── 📄 Ch1.3.EM-CarvalhoRoucairol.pdf
+│   ├── 📄 Ch1.4.EM-ChandyMisra.pdf
+│   ├── 📄 Ch1.5.EM-PermissionsArbitres.pdf
+│   ├── 📄 Ch1.6.EM-PbLecteursRédacteurs.pdf
+│   ├── 📄 Ch2.RdVsdistribués.pdf
+│   ├── 📄 Ch3.Etat Global et Propriétés Stables.pdf
+│   ├── 📄 Ch0.Introduction.pdf
+│   └── 📄 Ch1.1.EM-Permissions.pdf
+├── 📁 Algorithmes Distribués/
+│   ├── 📁 Examens précédents et TDs/
+│   │   ├── 📄 td_5.pdf
+│   │   ├── 📄 td_.pdf
+│   │   ├── 📄 serie_02_reseaux.pdf
+│   │   ├── 📄 td_ad_2.pdf
+│   │   ├── 📄 td_sd.pdf
+│   │   ├── 📄 td_irco.pdf
+│   │   ├── 📄 1.pdf
+│   │   ├── 📄 td_ad_1.pdf
+│   │   ├── 📄 examen_ir.pdf
+│   │   ├── 📄 exo.pdf
+│   │   └── 📄 examen_ad_2.pdf
+│   ├── 📁 Cours/
+│   │   ├── 📄 Chapitre 3.pdf
+│   │   ├── 📄 Chapitre 4.pdf
+│   │   ├── 📄 Chapitre 2.pdf
+│   │   └── 📄 Chapitre 1.pdf
+│   └── 📁 TD/
+│       ├── 📁 TD1/
+│       │   ├── 📄 131935109_3754334717962624_2519293856043241853_n.jpg
+│       │   └── 📄 131892886_3754334804629282_6626367482487074858_n.jpg
+│       └── 📁 TD2/
+│           ├── 📄 136658947_3560228980726458_146912130294205150_n.jpg
+│           └── 📄 136407862_3560228727393150_737157094682606896_n.jpg
+└── 📁 ALDI/
+    ├── 📄 Ch3.Etat Global et Propriétés Stables.pdf
+    ├── 📄 Ch2.RdVsdistribués.pdf
+    ├── 📄 Ch1.3.EM-CarvalhoRoucairol.pdf
+    ├── 📄 Ch1.5.EM-PermissionsArbitres.pdf
+    ├── 📄 Ch1.6.EM-PbLecteursRédacteurs.pdf
+    ├── 📄 Ch1.4.EM-ChandyMisra.pdf
+    ├── 📄 ExercicesALDI.pdf
+    ├── 📄 Ch5.ConstructionTVG.pdf
+    ├── 📄 Ch1.1.EM-Permissions.pdf
+    ├── 📄 Ch1.2.EM-RicartAgrawala.pdf
+    ├── 📁 Exercice aldi + corrgée/
+    │   └── 📄 ExercicesALDI (1).pdf
+    └── 📁 TP/
+        ├── 📄 TP ALDI 04 2018 2019 2eme partie.pdf
+        ├── 📄 TP ALDI 04 2018 2019 1ere partie.pdf
+        ├── 📄 TP ALDI 03 2018 2019.pdf
+        ├── 📄 TP ALDI 02 2018 2019.pdf
+        └── 📄 TP ALDI 01 PPT2018 2019.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Algorithmes Distribués (ALDI)
+═════════════════════════════════════

@@ -1,0 +1,89 @@
+📚 MODULE : Algorithmique avancé et complexité        
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Algorithmique avancé et complexité.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Algorithmique avancé et complexité/
+└── 🔗📁 complexité/  (raccourci)
+    ├── 📁 EMD/
+    │   ├── 📄 Corrigé EXAMEN DE RATTRAPAGE BIOINFO-IL-RSD 2019-2020.pdf
+    │   ├── 📄 EXAMEN DE RATTRAPAGE BIOINFO-IL-RSD 2019-2020.pdf
+    │   ├── 📄 Corrigé EXAMEN FINAL BIOINFO-IL-RSD 2019-2020.pdf
+    │   ├── 📄 EXAMEN FINAL BIOINFO-IL-RSD 2019-2020.pdf
+    │   ├── 📄 Corrigé Examen de Rattrapage IL-RSD 2018-2019.pdf
+    │   ├── 📄 Examen de Rattrapage IL-RSD 2018-2019.pdf
+    │   ├── 📄 Corrigé EXAMEN FINAL BIOINFO-IL-RSD 2018-2019.pdf
+    │   ├── 📄 EXAMEN FINAL BIOINFO-IL-RSD 2018-2019.pdf
+    │   ├── 📄 Corrigé Examen Rattrapage cmplx M1-IL&RSD 2017-2018.pdf
+    │   ├── 📄 Examen Rattrapage cmplx M1-IL&RSD 2017-2018.pdf
+    │   ├── 📄 Corrigé Examen VF cmplx M1-IL & RSD 2017-2018.pdf
+    │   ├── 📄 Examen VF cmplx M1-IL & RSD 2017-2018.pdf
+    │   └── 📄 Corrigé Sujets-3- IA-MFA-SIGL.docx
+    ├── 📁 interrogations/
+    │   ├── 📄 Corrigé CC-RSD-2 Cplx 2019-2020.pdf
+    │   ├── 📄 Corrigé CC-RSD-1 Cplx 2019-2020.pdf
+    │   ├── 📄 Corrigé CC-IL-2 Cplx 2019-2020.pdf
+    │   ├── 📄 Corrigé CC-IL-1 Cplx 2019-2020.pdf
+    │   ├── 📄 Corrigé CC-BIOINFO Cplx 2019-2020.pdf
+    │   ├── 📄 NOTATION O-OMEGA-THETA.pdf
+    │   ├── 📄 CC-ALGO ITER.pdf
+    │   ├── 📄 Corrigé CC-RSD-2 Cplx 2019-2020.pdf
+    │   ├── 📄 Corrigé CC-RSD-1 Cplx 2019-2020.pdf
+    │   ├── 📄 Corrigé CC-IL-2 Cplx 2019-2020.pdf
+    │   └── 📁 corrigé/
+    │       └── 📄 Corrigé CC-BioInfo Cplx 2020-2021.pdf
+    ├── 📁 TD/
+    │   ├── 📄 TD 1 à 6.rar
+    │   ├── 📁 TD5/
+    │   │   └── 📄 TD5 Complx 2020-2021.pdf
+    │   ├── 📁 TD4/
+    │   │   ├── 📄 Corrigé TD4 Complx 2020-2021.pdf
+    │   │   └── 📄 TD4 Complx 2020-2021.pdf
+    │   ├── 📁 TD3/
+    │   │   ├── 📄 Corrigé TD3 Complx 2020-2021.pdf
+    │   │   ├── 📄 TD3-Exo4-b1.jpg
+    │   │   └── 📄 TD3 Complx 2020-2021.pdf
+    │   ├── 📁 TD2/
+    │   │   ├── 📄 Corrigé TD2 Complx 2020-2021.pdf
+    │   │   ├── 📄 TD2 complexité11.pdf
+    │   │   └── 📄 TD2 Complx 2020-2021.pdf
+    │   └── 📁 TD1/
+    │       ├── 📄 Corrigé TD1 Complx 2020-2021.pdf
+    │       └── 📄 TD1 Complx 2020-2021.pdf
+    ├── 📁 Cours/
+    │   ├── 📄 7. Les classes de problèmes.pdf
+    │   ├── 📄 5. Les SDD.pdf
+    │   ├── 📄 4. Les tris.pdf
+    │   ├── 📄 IMG_20210223_150926.jpg
+    │   ├── 📄 4. Les tris (2).pdf
+    │   ├── 📄 3. Résolution des équations de recurrence.pdf
+    │   ├── 📄 3. Résolution des équations de recurrence.pdf
+    │   ├── 📄 3. Résolution des équations de recurrence.pdf
+    │   ├── 📄 1.1 Les bases de l'analyse d'un algorithme.pdf
+    │   ├── 📄 3. Résolution des équations de recurrence.pdf
+    │   ├── 📄 1.3  Exercices - Calcul de la complexité d'un algorithme.pdf
+    │   ├── 📄 3.1 Calcul de la complexité d'algorithmes récursifs .pdf
+    │   ├── 📄 2. Validation d'un algorithme.pdf
+    │   ├── 📄 Cours complexité 1, 2 et 3.rar
+    │   ├── 📄 1.2 Calcul de la complexité d'un algorithme.pdf
+    │   ├── 📄 1.2 Les bases de l'analyse d'un algorithme C3.pdf
+    │   ├── 📄 1.2 Les bases de l'analyse d'un algorithme 27-12-2020.pdf
+    │   └── 📄 1.1 Les bases de l'analyse d'un algorithme 22-12-2020.pdf
+    └── 📁 Documentation/
+        ├── 📄 Livre-Algorithmique avancée et complexité .pdf
+        ├── 📄 Cormen, Leiserson, Rivest Introduction à lalgorithmique  Cours et exercices corrigés, 2e édition  2002.pdf
+        └── 📄 Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein Introduction to Algorithms   2009.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Algorithmique avancé et complexité
+═════════════════════════════════════

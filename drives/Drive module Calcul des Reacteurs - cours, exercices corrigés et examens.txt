@@ -1,0 +1,128 @@
+📚 MODULE : Calcul des Reacteurs                      
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Calcul des Reacteurs.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Calcul des Reacteurs/
+└── 🔗📁 Calcul des Reacteurs/  (raccourci)
+    ├── 📁 1- Cours + TD/
+    │   ├── 📄 (Etudiant) - Reacteurs Heterogene.pdf
+    │   ├── 📄 Guelma -Polycopie Calculs des Réacteurs Chimiques.pdf
+    │   ├── 📄 Bejaia - CHERCOUR Nabila_Réacteurs homogènes Cours et exercices.pdf
+    │   ├── 📄 Chlef - Genie-de-la-réaction-II-Téacteur-poly-phasique.pdf
+    │   ├── 📄 Guelma -Polycopie Calculs des Réacteurs Chimiques.docx
+    │   ├── 📄 UMMTO - TD (+Sol).pdf
+    │   ├── 📄 Serie 1 .jpg
+    │   ├── 📄 Bejaia - TD.jpg
+    │   ├── 📄 79966079_176368810105764_8993670764888588288_n.jpg
+    │   ├── 📄 Z - Exo.jpg
+    │   ├── 📄 Mostaganem - Chap.2.pdf
+    │   ├── 📄 Skikda - TD (+Sol).pdf
+    │   ├── 📄 USTHB - TD (+Sol).pdf
+    │   ├── 📄 El-Oued - Réacteurs Poly-phasiques.pdf
+    │   ├── 📄 Z - Cours (Reacteurs Homogene) - Part 2.pdf
+    │   ├── 📄 Z - Cours (Reacteurs Homogene) - Part 1.pdf
+    │   ├── 📄 USTHB - CHABANI (version 2).pdf
+    │   ├── 📄 USTHB - CALCUL DE REACTEURS HOMOGENES.pdf
+    │   ├── 📁 Relizane - Reacteur Homogene + Ideaux + non-ideaux/
+    │   │   ├── 📄 TD Génie de la Réaction Chimique I.pdf
+    │   │   ├── 📄 Cours de Génie de la Réaction Chimique II final.pdf
+    │   │   ├── 📄 Chap_I_GRC.pdf
+    │   │   ├── 📄 Chap.2_GRC.pdf
+    │   │   ├── 📄 Introduction Générale.pdf
+    │   │   ├── 📄 Chap.I.pdf
+    │   │   └── 📄 Chap.II.pdf
+    │   ├── 📁 USTO - TD + Sol/
+    │   │   ├── 📄 Série 1. Réacteurs Homogènes.docx
+    │   │   ├── 📄 Série 1. Réacteurs Homogènes.pdf
+    │   │   ├── 📄 Fiche_N2_TD@Solution.pdf
+    │   │   ├── 📄 Fiche_N1_TD@Solution.pdf
+    │   │   ├── 📄 Solution EX03_fiche _1.pdf
+    │   │   ├── 📄 solution EX01 et EX02_fiche_1.pdf
+    │   │   └── 📄 Cours Réacteurs Homogènes.pdf
+    │   ├── 📁 M. Haddou/
+    │   │   ├── 📄 Reacteur-Catalytique-M1GC-M1GPE-M1Gph-chapitre1.pdf
+    │   │   ├── 📄 Diffusionexternes-M1GC-M1GPE-M1Gph-chapitre3.pdf
+    │   │   ├── 📄 Desactivationdecatalyseur-M1GC-M1GPE-M1Gph-Chapitre2.pdf
+    │   │   └── 📄 Serie2+solution-M1GC-GPE-GPh-converti (1).pdf
+    │   ├── 📁 USTHB (v2) - TD + sols/
+    │   │   ├── 📄 GR.S2.pdf
+    │   │   └── 📄 GR.S1.pdf
+    │   ├── 📁 USTHB (v1) - TD + sols/
+    │   │   ├── 📄 Série2.pdf
+    │   │   ├── 📄 Série4.pdf
+    │   │   ├── 📄 Série3.pdf
+    │   │   └── 📄 Serie1.pdf
+    │   ├── 📁 USTHB - Reacteurs Cours +TD (Chabani)/
+    │   │   ├── 📄 TD RH.CRg.pdf
+    │   │   ├── 📄 TD+CR1.pdf
+    │   │   ├── 📄 Chapitre 3 Les Reacteurs Ideaux TD supplémentaire.pdf
+    │   │   ├── 📄 Chapitre 3 Les Reacteurs Ideaux TD.pdf
+    │   │   ├── 📄 Chapitre 4 Les Reactions a Stoechiometrie Unique TD.pdf
+    │   │   ├── 📄 Chapitre 6 Les Reacteurs Reels TD.pdf
+    │   │   ├── 📄 Chapitre 0 Rappel Cinetique TD.pdf
+    │   │   ├── 📄 Résume CR.pdf
+    │   │   ├── 📄 Résume Lois CR.pdf
+    │   │   ├── 📄 Chapitre 3 Les Reacteurs Ideaux Cours.pdf
+    │   │   ├── 📄 Chapitre 1 Introduction.pdf
+    │   │   ├── 📄 Chapitre 2 Classification des Reactions Chimiques Cours.pdf
+    │   │   ├── 📄 Chapitre 4 Les Reactions a Stoechiometrie Unique Cours.pdf
+    │   │   ├── 📄 Chapitre 6 Les Reacteurs Reels Cours.pdf
+    │   │   ├── 📄 Chapitre 5  Cascade de Reacteurs Ouverts Cours.pdf
+    │   │   └── 📄 Chapitre 0 Rappel Cinetique Cours.pdf
+    │   └── 📁 Jijel - Cours + TD/
+    │       ├── 📄 Cours- GP-GP-L3- Réacteurs Homogènes.pdf
+    │       ├── 📄 TD-GP-GP-L3 Réacteurs homogènes.pdf
+    │       └── 📄 TD solution-GP-GP-L3 Réacteurs homogènes.pdf
+    ├── 📁 3- Livres/
+    │   ├── 📄 reactions et réacteurs chimiques.pdf
+    │   └── 📄 Les reacteurs chimiques.pdf
+    └── 📁 2- Sujets/
+        ├── 📄 278223564_1355542978268289_232999850383643090_n.jpg
+        ├── 📄 Examen 2010 (M1) - p2 (Sol).jpg
+        ├── 📄 Examen 2010 (M1) - p3 (Sol).jpg
+        ├── 📄 Examen 2010 (M1) - p4 (Sol).jpg
+        ├── 📄 Examen 2010 (M1) - p1 (Sujet).jpg
+        ├── 📄 Examen.jpg
+        ├── 📄 Adrar - Genie de la reaction Chimiques.jpg
+        ├── 📄 Setif - Reacteurs Hetetogenes.jpg
+        ├── 📄 Setif - Rattrapage 2015.jpg
+        ├── 📄 El-Oued - Controle 2018.jpg
+        ├── 📄 El-Oued - Controle 2017.jpg
+        ├── 📄 El-Oued - Rattrapage 2017.jpg
+        ├── 📄 El-Oued -Genie de la Reaction.jpg
+        ├── 📄 121027523_183021393395352_5110954093668501142_n.jpg
+        ├── 📄 USTHB 2019 p1.jpg
+        ├── 📄 USTHB 2019 p2.jpg
+        ├── 📄 Ouargla 2020.jpg
+        ├── 📄 79746872_176368820105763_5794348251708653568_n.jpg
+        ├── 📄 73399865_1439499896206384_873143018503274496_n.jpg
+        ├── 📄 Setif 2018.jpg
+        ├── 📄 Photo1532.jpg
+        ├── 📄 img167.jpg
+        ├── 📄 img172.jpg
+        ├── 📄 img173.jpg
+        └── 📁 Examen (sol) - 2017/
+            ├── 📄 sol (Probleme) p3.jpg
+            ├── 📄 sol (Probleme) p5.jpg
+            ├── 📄 sol (Probleme) p1.jpg
+            ├── 📄 sol (Probleme) p2.jpg
+            ├── 📄 sol (Probleme) p6.jpg
+            ├── 📄 Sujet p1.jpg
+            ├── 📄 sol (Probleme) p4.jpg
+            ├── 📄 sol (Exo).jpg
+            └── 📄 Sujet p2.jpg
+
+═════════════════════════════════════
+  Fin du fichier · Calcul des Reacteurs
+═════════════════════════════════════

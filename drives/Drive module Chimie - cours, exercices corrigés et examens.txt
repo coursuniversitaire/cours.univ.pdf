@@ -1,0 +1,225 @@
+📚 MODULE : Chimie                                    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Chimie.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Chimie/
+├── 🔗📁 Atomistique/  (raccourci)
+│   ├── 📁 TD & Exercices/
+│   │   ├── 📄 cor_seance_6.pdf
+│   │   ├── 📄 cor_seance_5.pdf
+│   │   ├── 📄 cor_seance_4.pdf
+│   │   ├── 📄 cor_seance_3.pdf
+│   │   ├── 📄 cor_seance_2.pdf
+│   │   ├── 📄 cor_seance_1.pdf
+│   │   ├── 📄 TD08_09.pdf
+│   │   ├── 📄 Atomistique TD 2.pdf
+│   │   ├── 📄 Atomistique.pdf
+│   │   ├── 📄 atomistique smpc1TD.pdf
+│   │   └── 📄 EXERCICES-atomistique -®RHIOUI.pdf
+│   ├── 📁 Examens Corrigées/
+│   │   ├── 📄 corrigé contrôle1 11-12.pdf
+│   │   ├── 📄 corrigé contrôle2 12-13.pdf
+│   │   ├── 📄 corrigé ratt 11-12.pdf
+│   │   ├── 📄 corrigé ratt 12-13.pdf
+│   │   ├── 📄 corrigé contrôle2 11-12.pdf
+│   │   ├── 📄 corrigé contrôle1 12-13.pdf
+│   │   ├── 📄 controle_de_rattapage_11-12.pdf
+│   │   ├── 📄 controle_2_11-12.pdf
+│   │   ├── 📄 Controle_1_11-12.pdf
+│   │   ├── 📄 contrôle de rattrapage 12-13.pdf
+│   │   ├── 📄 contrôle 1 12-13.pdf
+│   │   ├── 📄 controle 2 12-13.pdf
+│   │   ├── 📄 Exam atomistique jdida.pdf
+│   │   └── 📄 EXAMENS corriges de Atomistique.pdf
+│   └── 📁 Cours/
+│       ├── 📄 atomistique partie3.pdf
+│       ├── 📄 atomistique partie 2.pdf
+│       └── 📄 atomistique partie1.pdf
+├── 🔗📁 Chimie/  (raccourci)
+│   ├── 📁 COURS/
+│   │   ├── 📄 InkedINDICE DE LIAISON_LI.jpg
+│   │   ├── 📄 DIAGRAMME ENER. avec interaction sp.PNG
+│   │   ├── 📄 T.P  HALOGENES.jpg
+│   │   ├── 📄 TABL PERI familles.PNG
+│   │   ├── 📄 TABLEAU PERIODIQUE.PNG
+│   │   ├── 📄 classification- electronegativité-pauling 2.PNG
+│   │   ├── 📄 classification- electronegativite-pauling.PNG
+│   │   ├── 📄 classification- electronegativité-mulliken.PNG
+│   │   ├── 📄 SLATER remarque.PNG
+│   │   ├── 📄 SLATER App.PNG
+│   │   ├── 📄 séries d emission lyman balmer oaschen brackett.PNG
+│   │   ├── 📄 CHIMIE S2 2020.pdf
+│   │   └── 📄 cours complet.pdf
+│   ├── 📁 TDs/
+│   │   ├── 📁 Td Organique/
+│   │   │   └── 📄 imgtopdf_generated_0607201347051.pdf
+│   │   ├── 📁 atomistique/
+│   │   │   ├── 📁 Série 2/
+│   │   │   │   ├── 📄 Correction série atomistique Ex17-18.pdf
+│   │   │   │   ├── 📄 Correction Serie Atomistique Ex 13 - 16.pdf
+│   │   │   │   ├── 📄 Correction série atomistique Ex11-12.pdf
+│   │   │   │   └── 📄 Série - chimie atomistique ENONCE.pdf
+│   │   │   └── 📁 Série 1/
+│   │   │       ├── 📄 99.jpg
+│   │   │       ├── 📄 88.jpg
+│   │   │       ├── 📄 77.jpg
+│   │   │       ├── 📄 crrct 10.pdf
+│   │   │       ├── 📄 CRRCT 8+9.pdf
+│   │   │       ├── 📄 555.jpg
+│   │   │       ├── 📄 66.jpg
+│   │   │       ├── 📄 44.jpg
+│   │   │       ├── 📄 33.jpg
+│   │   │       ├── 📄 22.jpg
+│   │   │       ├── 📄 11.jpg
+│   │   │       └── 📄 chimie atomistique 6 +7.pdf
+│   │   └── 📁 TD Mineral/
+│   │       ├── 📄 4 structure hexagonale ZNs Wurtzite.jpg
+│   │       ├── 📄 3 antifluorine+ NiAs.jpg
+│   │       ├── 📄 2 fluorine.jpg
+│   │       ├── 📄 ionique 1.jpg
+│   │       ├── 📄 2.jpeg
+│   │       ├── 📄 2.jpeg
+│   │       ├── 📄 1.jpeg
+│   │       ├── 📄 1.jpeg
+│   │       └── 📄 WhatsApp Image 2020-08-17 at 19.36.28.jpeg
+│   └── 📁 EXAMENS/
+│       ├── 📄 Examen de Chimie 14 sept 2020 -  ENSAF.pdf
+│       ├── 📄 Correction exercices de renforcement - 2.pdf
+│       ├── 📄 Exercice de renforçement - 2.pdf
+│       ├── 📄 Correction- Exercice de Renforcement - 1.pdf
+│       ├── 📄 Exercice de renforçement - 1.pdf
+│       └── 📄 WhatsApp Image 2020-08-15 at 18.37.55.jpeg
+├── 🔗📁 Atomistique/  (raccourci)
+│   ├── 📄 Cours d'atomistique S1 2012 2013
+│   ├── 📄 Chapitre 4 Modele quantique de l'atome-Atomistique
+│   ├── 📄 Chapitre 5 La classification périodique des éléments-Atomistique
+│   ├── 📄 Correction examen thermochimie-Atomistique
+│   ├── 📄 examen mecanique du point materiel-Atomistique
+│   ├── 📄 Controle de session de rattrapage Atomistique
+│   ├── 📄 examen chimie atomistique S1
+│   ├── 📄 Controle Chimie Generale S1 Semestre 1 2012 2013-Atomistique
+│   ├── 📄 Filiere SMPC Module de Chimie Generale Examen 2012 2013 Semestre 1.pdf-Atomistique
+│   ├── 📄 Controle de rattrapage chimie generale S1 08 02 2013-Atomistique
+│   ├── 📄 Filière SMPC Contrôle S1 2011 2012-Atomistique
+│   ├── 📄 examen chimie semestriel S1 2012-Atomistique
+│   ├── 📄 Controle de chimie generale S1 2011 2012-Atomistique
+│   ├── 📄 Fichier S1 Exercices corrigés Atomistique 2012-2013.pdf
+│   ├── 📄 Controle Chimie Generale S1 Feuille reponse-Atomistique
+│   ├── 📄 Filiere SMPC Module de Chimie Generale S1 Corrige du 1er controle 2012 2013.pdf-Atomistique
+│   ├── 📄 Controle de rattrapage chimie generale S1 Semlalia 2011-2012.pdf-Atomistique
+│   ├── 📄 Controle de chimie generale S1 2012 2013-Atomistique
+│   ├── 📄 Controle Chimie Generale S1 Semestre 1 2011 2012.pdf-Atomistique
+│   ├── 📄 Controle de mecanique des fluides semestre 1-Atomistique
+│   ├── 📄 Spectro氢原子模型玻尔.pdf-Atomistique
+│   ├── 📄 TD Chimie Generale S1 2014-2015-Atomistique
+│   ├── 📄 Exercices sur la structure de l'atome-Atomistique
+│   ├── 📄 Exercices de TD de physique quantique sur l'atome d'hydrogène-Atomistique
+│   ├── 📄 TD Atomes et molecules 08 09-Atomistique
+│   ├── 📄 TD Atomes et Molecules n 1 Corrige-Atomistique
+│   ├── 📄 TD Atomes et molecules 2 corrige-Atomistique
+│   ├── 📄 SEANCE TD N3 Exercices sur la classification périodique-Atomistique
+│   ├── 📄 TD Atomes et moleculesChapitre 1 Exercices corrigés-Atomistique
+│   ├── 📄 Seance TD n5 Structures de Lewis-Atomistique
+│   └── 📄 L1S1 CHIM 110 - Atomes et molecules - Seance de TD N 6 - Corrige-Atomistique
+├── 📄 CHAPITRE II  LA RADIOACTIVITE.pdf
+├── 📄 Exercices corrigés chimie.pdf
+├── 📄 EXERCICES sur STRUCTURE de la MATIERE.pdf
+├── 📄 30 exercices corrigés atomistique.pdf
+├── 📄 polycop TDs Liaison chimique.pdf
+├── 📄 plus de 60 exercices solutions. tableau periodique.pdf
+├── 📄 exercices chimie S1.PDF
+├── 📄 Travaux dirigés Les réactions acido-basiques avec solution.pdf
+├── 📄 TD2 structure de la matiere.pdf
+├── 📄 QCM1 Structure électronique de l’atome.pdf
+├── 📄 CHAPITRE IV  LES LIAISONS CHIMIQUES.pdf
+├── 📄 exercices corrigés CHIMIE ORGANIQUE.pdf
+├── 📄 Exercices – Structure de la matière.pdf
+├── 📄 CHAPITRE I  STRUCTURE DE L’ATOME ET SES CONSTITUANTS.pdf
+├── 📄 TRAVAUX PRATIQUES  CHIMIE 2 NOTIONS FONDAMENTALES.pdf
+├── 📄 Les liaisons chimiques Corrigé des exercices.pdf
+├── 📄 CHAPITRE IV  CLASSIFICATION PERIODIQUE ET PROPRIETES DES ELEMENTS.pdf
+├── 📄 Epreuve de Chimie organique.pdf
+├── 📄 CHAPITRE VI  HYBRIDATION – GEOMETRIE DES MOLECULES.pdf
+├── 📄 Exercices atome de Bohr.pdf
+├── 📄 série 1 d'exercices corrigés chimie.pdf
+├── 📄 Examen de chimie minérale S3 n°1.pdf
+├── 📄 CHAPITRE III  L’ELECTRON EN MECANIQUE ONDULATOIRE.pdf
+├── 📄 COURS ET EXERCICES DE CRISTALLOGRAPHIE.pdf
+├── 📄 Exercices – Structure de la mati`ere.pdf
+├── 📄 EXAMEN LIAISON CHIMIQUE.pdf
+├── 📄 TD4 structure de matiere.pdf
+├── 📄 TRAVAUX DIRIGES Chimie 1 LICENCE.pdf
+├── 📄 EXERCICES CORRIGES DE STRUCTURE DE LA MATIERE ET DE LIAISONS CHIMIQUES.PDF
+├── 📄 examens corrigés chimie générale.pdf
+├── 📄 TD N° 4 STRUCTURE DE LA MATIERE Les modèles classiques de l’atome .pdf
+├── 📄 examens Chimie Minérale (cristal).pdf
+├── 📄 exercices corrigés structure de l'atome solutions.PDF
+├── 📄 Cours complet Chimie Minérale 1.pdf
+├── 📄 TD 4 structure de matiere.pdf
+├── 📄 série 2 d'exercices corrigés chimie.pdf.pdf
+├── 📄 TD 3 structure de la matiere.pdf
+├── 📄 NOMENCLATURE EN CHIMIE ORGANIQUE.pdf
+├── 📄 série 3 d'exercices corrigés chimie.pdf.pdf
+├── 📄 TD1 structure de la matiere.pdf
+├── 📄 TD 2 structure de la matiere.pdf
+├── 📄 EXAMEN DE CHIMIE 1 avec solution.pdf
+└── 📁 Chimie ensaf/
+    ├── 📁 TDs/
+    │   ├── 📁 TD Mineral/
+    │   │   ├── 📄 4 structure hexagonale ZNs Wurtzite.jpg
+    │   │   ├── 📄 2 fluorine.jpg
+    │   │   ├── 📄 1.jpeg
+    │   │   ├── 📄 1(1).jpeg
+    │   │   ├── 📄 2(1).jpeg
+    │   │   ├── 📄 WhatsApp Image 2020-08-17 at 19.36.28.jpeg
+    │   │   ├── 📄 3 antifluorine+ NiAs.jpg
+    │   │   ├── 📄 2.jpeg
+    │   │   └── 📄 ionique 1.jpg
+    │   ├── 📁 atomistique/
+    │   │   ├── 📁 Série 1/
+    │   │   │   ├── 📄 crrct 10.pdf
+    │   │   │   ├── 📄 99.jpg
+    │   │   │   ├── 📄 88.jpg
+    │   │   │   ├── 📄 CRRCT 8+9.pdf
+    │   │   │   └── 📄 chimie atomistique 6 +7.pdf
+    │   │   └── 📁 Série 2/
+    │   │       ├── 📄 Correction série atomistique Ex17-18.pdf
+    │   │       ├── 📄 Série - chimie atomistique ENONCE.pdf
+    │   │       ├── 📄 Correction Serie Atomistique Ex 13 - 16.pdf
+    │   │       └── 📄 Correction série atomistique Ex11-12.pdf
+    │   └── 📁 Td Organique/
+    │       └── 📄 imgtopdf_generated_0607201347051.pdf
+    ├── 📁 COURS/
+    │   ├── 📄 classification- electronegativité-mulliken.PNG
+    │   ├── 📄 classification- electronegativite-pauling.PNG
+    │   ├── 📄 classification- electronegativité-pauling 2.PNG
+    │   ├── 📄 T.P  HALOGENES.jpg
+    │   ├── 📄 TABLEAU PERIODIQUE.PNG
+    │   ├── 📄 SLATER remarque.PNG
+    │   ├── 📄 InkedINDICE DE LIAISON_LI.jpg
+    │   ├── 📄 SLATER App.PNG
+    │   ├── 📄 séries d emission lyman balmer oaschen brackett.PNG
+    │   ├── 📄 DIAGRAMME ENER. avec interaction sp.PNG
+    │   └── 📄 TABL PERI familles.PNG
+    └── 📁 EXAMENS/
+        ├── 📄 Correction- Exercice de Renforcement - 1.pdf
+        ├── 📄 Correction exercices de renforcement - 2.pdf
+        ├── 📄 WhatsApp Image 2020-08-15 at 18.37.55.jpeg
+        ├── 📄 Exercice de renforçement - 2.pdf
+        ├── 📄 Exercice de renforçement - 1.pdf
+        └── 📄 Examen de Chimie 14 sept 2020 -  ENSAF.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Chimie
+═════════════════════════════════════

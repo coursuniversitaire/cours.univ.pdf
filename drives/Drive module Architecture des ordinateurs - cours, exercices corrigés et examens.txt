@@ -1,0 +1,128 @@
+📚 MODULE : Architecture des ordinateurs              
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Architecture des ordinateurs.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Architecture des ordinateurs/
+├── 🔗📁 ARCHI/  (raccourci)
+│   ├── 📁 SUJETS/
+│   │   ├── 📁 Examens/
+│   │   │   ├── 📁 Examens Sans Corrigés/
+│   │   │   │   ├── 📄 Examen 2008-2009.doc
+│   │   │   │   ├── 📄 Examen 2010-2011.doc
+│   │   │   │   ├── 📄 Examen Page (2).jpg
+│   │   │   │   ├── 📄 Examen Page (1).jpg
+│   │   │   │   └── 📄 12012012058.JPG
+│   │   │   └── 📁 Examens + Corrigés/
+│   │   │       └── 📄 Examen 2012-2013 + Corrigé.docx
+│   │   └── 📁 Devoirs/
+│   │       ├── 📄 Controle n°1 2012-2013.docx
+│   │       ├── 📄 controle n°1 2011-2012.docx
+│   │       ├── 📄 Controle n°1 2012-2013(1).docx
+│   │       └── 📄 controle n°1 2011-2012(1).docx
+│   ├── 📁 EXERCICES/
+│   │   ├── 📄 EXO MIPS.pdf
+│   │   └── 📄 Exercices ARCHI.pdf
+│   ├── 📁 SÉRIES/
+│   │   └── 📁 2011-2012/
+│   │       ├── 📄 TD n°4.docx
+│   │       ├── 📄 TD n°1.doc
+│   │       └── 📄 TD n°3.doc
+│   ├── 📁 COURS/
+│   │   ├── 📄 Cours Architecture des Ordinateurs.pdf
+│   │   ├── 📁 USTHB/
+│   │   │   ├── 📄 Architecture des ordinateurs - Emmanuel Viennet.PDF
+│   │   │   ├── 📄 Le processeur 8086 .docx
+│   │   │   ├── 📄 architecture des ordinateurs.pdf
+│   │   │   ├── 📄 Chapitre 3 - Système d'interruption.pdf
+│   │   │   ├── 📄 Generalite Sur Les Microprocesseurs.pdf
+│   │   │   ├── 📄 Chap2-Microprocesseur.pdf
+│   │   │   ├── 📄 Chapitre I - Définitions Et Generalités.docx
+│   │   │   ├── 📄 chap6-archiii-pic.pdf
+│   │   │   ├── 📄 cours 6 - GIF1001.pdf
+│   │   │   ├── 📄 Suppot n°1 Architecture des ordinateurs.pdf
+│   │   │   ├── 📄 Support n°2 Architecture des ordinateurs - T.Dumartin.pdf
+│   │   │   ├── 📄 CHAPITRE III - LE PIC 8259.pdf
+│   │   │   ├── 📄 Chapitre 4 - Gestion de Processus.pdf
+│   │   │   ├── 📄 chap 4.pdf
+│   │   │   ├── 📄 Assembleur_INTEL.pdf
+│   │   │   └── 📁 Chapitre 2 - Microprocesseurs/
+│   │   │       ├── 📄 Page 9.jpg
+│   │   │       ├── 📄 Page 14.jpg
+│   │   │       ├── 📄 Page 13.jpg
+│   │   │       ├── 📄 Page 12.jpg
+│   │   │       ├── 📄 Page 10.jpg
+│   │   │       └── 📄 Page 11.jpg
+│   │   └── 📁 UNIVERSITÉ DE TLEMCEN/
+│   │       ├── 📄 mi-2an13-exfin-archi13.pdf
+│   │       ├── 📄 mi-2an13-ctrl_con1-archi16.pdf
+│   │       ├── 📄 mi-2an13-exfin-archi12.pdf
+│   │       ├── 📄 mi-2an13-exfin-archi15.pdf
+│   │       └── 📄 mi-2an13-exfin-archi14.pdf
+│   └── 📁 EXAMENS/
+│       ├── 📄 mi-2an-ratr-arch_ord1.jpg
+│       ├── 📄 mi-2an-exam-arch_ord2.jpg
+│       ├── 📄 mi-2an-exam-arch_ord1.jpg
+│       └── 📄 Sujet+corrigé Archi (Alger1 - 2017).pdf
+├── 🔗📁 °Architecture des Ordinateurs SMA SMI SABORPCMATH.COM/  (raccourci)
+│   ├── 📄 °EXAMENS Architecture des ordinateurs FPO OUARZAZATE.pdf
+│   ├── 📄 °EXAMENS Architecture des ordinateurs FSAC.pdf
+│   ├── 📄 °EXAMENS Architecture des ordinateurs FSO OUAJDA.pdf
+│   ├── 📄 °EXAMENS Architecture des ordinateurs FST TETOUAN.pdf
+│   ├── 📄 °TD Architecture des ordinateurs FPS SAFI.pdf
+│   ├── 📄 +TD & TP Architecture des ordinateurs FSO OUAJDA.pdf
+│   ├── 📄 +TD & TP Architecture des ordinateurs FSR RABAT.pdf
+│   ├── 📄 +TD Architecture des ordinateurs FSAC.pdf
+│   ├── 📄 +TD Architecture des ordinateurs FSBM CASABLANCA.pdf
+│   ├── 📄 +TD Architecture des ordinateurs FST TETOUAN 12 13.pdf
+│   ├── 📄 +TD Architecture des ordinateurs FST TETOUAN 19 20.pdf
+│   ├── 📄 +TD TP ARCHITECTURE DES ORDINATEURS FPO OUARZAZATE.pdf
+│   ├── 📄 +TD & TP+COURS Architecture des ordinateurs FSR RABAT.pdf
+│   ├── 📄 +TD + COURS Architecture des ordinateurs FST FES.pdf
+│   ├── 📄 ° COURS  Architecture des ordinateurs FPK KHOURIBGA.pdf
+│   ├── 📄 °Polycopie Circuits logique et microprocesseur2 EST MEKNES.pdf
+│   ├── 📄 +TD COURS Architecture des ordinateurs FSM MEKNES.pdf
+│   ├── 📄 °Cours 1 Architecture Des Ordinateurs SMI4 FSO OUAJDA.pdf
+│   ├── 📄 °Cours Architecture des ordinateurs Assembleur FSAC.pdf
+│   ├── 📄 °Cours Architecture des ordinateurs FPT TAZA.pdf
+│   └── 📄 °Cours_architecture_ordinateurs elargi FPN NADOR.pdf
+├── 🔗📁 Architecture des ordinateurs/  (raccourci)
+│   ├── 📄 Boole.pdf
+│   ├── 📄 TD02.pdf
+│   ├── 📄 ch4_circuitscombinatoires.pdf
+│   ├── 📄 travaux-diriges-1-2.pdf
+│   └── 📁 Info/
+│       ├── 📄 codage de l'info sur ordi By ExoSup.com.ppt
+│       └── 📄 8_prog_impérative By ExoSup.com.pdf
+├── 📄 +TD COURS Architecture des ordinateurs FSM MEKNES.pdf
+├── 📄 +TD + COURS Architecture des ordinateurs FST FES.pdf
+├── 📄 +TD & TP+COURS Architecture des ordinateurs FSR RABAT.pdf
+├── 📄 °Polycopie Circuits logique et microprocesseur2 EST MEKNES.pdf
+├── 📄 °Cours 1 Architecture Des Ordinateurs SMI4 FSO OUAJDA.pdf
+├── 📄 driveClone.json
+├── 🔗📁 TDs et examens corrigés /  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 🔗📁 Tds corrigés  (raccourci)
+├── 📄 +TD + COURS Architecture des ordinateurs FST FES.pdf
+├── 📄 +TD COURS Architecture des ordinateurs FSM MEKNES.pdf
+├── 📄 +TD & TP+COURS Architecture des ordinateurs FSR RABAT.pdf
+├── 📄 °Polycopie Circuits logique et microprocesseur2 EST MEKNES.pdf
+├── 📄 Boole.pdf
+├── 📄 TP Architecture des ordinateurs.docx
+├── 📄 TD02.pdf
+├── 📄 travaux-diriges-1-2.pdf
+└── 📄 ch4_circuitscombinatoires.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Architecture des ordinateurs
+═════════════════════════════════════

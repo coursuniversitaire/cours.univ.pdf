@@ -1,0 +1,301 @@
+📚 MODULE : Apprentissage Automatique et Réseaux de Neurones
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Apprentissage Automatique et Réseaux de Neurones.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Apprentissage Automatique et Réseaux de Neurones/
+├── 📄 Apprentissage automatique et réseaux de neurones-20260608T190357Z-3-001.zip
+├── 🔗📁 Réseaux de neurones et apprentissage automatique/  (raccourci)
+│   ├── 🔗📁 Cours Apprentissage Automatique et Réseaux de Neurones/  (raccourci)
+│   │   ├── 📁 Notes/
+│   │   │   ├── 📄 M1 SII 2021_2022-notesEMD.pdf
+│   │   │   ├── 📄 suj1V4Corr.pdf
+│   │   │   ├── 📄 M1 IV 2021_2022-NotesEMD.pdf
+│   │   │   └── 📄 Barème EMD.pdf
+│   │   ├── 📁 revision/
+│   │   │   ├── 📄 formules.docx
+│   │   │   ├── 📄 exemple ExoEx.xlsx
+│   │   │   └── 📄 Revision.ipynb
+│   │   ├── 📁 TP4/
+│   │   │   ├── 📄 TP 4 regularisation.ipynb
+│   │   │   └── 📄 data.csv
+│   │   ├── 📁 Projets/
+│   │   │   └── 📄 Projet-finSemestre-SII.docx
+│   │   ├── 📁 TP9/
+│   │   │   ├── 📄 TP9-Kmoy-ACP.ipynb
+│   │   │   ├── 📄 X.csv
+│   │   │   └── 📄 bird_small.png
+│   │   ├── 📁 TP8/
+│   │   │   ├── 📄 TP8-Gaussienne.ipynb
+│   │   │   ├── 📄 yval.csv
+│   │   │   ├── 📄 Xval.csv
+│   │   │   └── 📄 X.csv
+│   │   ├── 📁 TP1/
+│   │   │   ├── 📄 TP 1 Mesures de performance.ipynb
+│   │   │   ├── 📄 Mesures de performance.ipynb
+│   │   │   └── 📄 labels.csv
+│   │   ├── 📁 TP7/
+│   │   │   ├── 📄 TP VMS-V2.ipynb
+│   │   │   ├── 📄 goodBoundary.PNG
+│   │   │   └── 📄 data.csv
+│   │   ├── 📁 TP6/
+│   │   │   ├── 📄 TP 6 RN2.ipynb
+│   │   │   ├── 📄 W1.csv
+│   │   │   ├── 📄 W2.csv
+│   │   │   └── 📄 data.csv
+│   │   ├── 📁 TP5/
+│   │   │   ├── 📄 TP 5 RN1.ipynb
+│   │   │   ├── 📄 W2.csv
+│   │   │   ├── 📄 W1.csv
+│   │   │   └── 📄 data.csv
+│   │   ├── 📁 TP3/
+│   │   │   ├── 📄 TP 3 regression.ipynb
+│   │   │   └── 📄 data.csv
+│   │   ├── 📁 TP2/
+│   │   │   ├── 📄 TP 2 Descente du gradient.ipynb
+│   │   │   ├── 📄 dataMulti.csv
+│   │   │   └── 📄 data.csv
+│   │   └── 📁 powerpoints/
+│   │       ├── 📄 Cours4-regression-logistique.pptx
+│   │       ├── 📄 Cours3-Gradient-Descent-Multiple.pptx
+│   │       ├── 📄 Cours2-Gradient-Descent.pptx
+│   │       ├── 📄 Cours1-Introduction.pptx
+│   │       ├── 📄 Cours8-Guassienne.pptx
+│   │       ├── 📄 Cours6-RéseauxNeuronal.pptx
+│   │       ├── 📄 Cours7-SVM.pptx
+│   │       └── 📄 Cours5-Surapprentissage-Regularisation.pptx
+│   ├── 📁 Cours/
+│   ├── 📁 TP2/
+│   │   ├── 📄 TP 2 Descente du gradient.ipynb
+│   │   ├── 📄 dataMulti.csv
+│   │   └── 📄 data.csv
+│   ├── 📁 revision/
+│   │   ├── 📄 formules.docx
+│   │   ├── 📄 formules.docx
+│   │   ├── 📄 exemple ExoEx.xlsx
+│   │   ├── 📄 exemple ExoEx.xlsx
+│   │   ├── 📄 Revision.ipynb
+│   │   └── 📄 Revision.ipynb
+│   ├── 📁 TP4/
+│   │   ├── 📄 TP 4 regularisation.ipynb
+│   │   ├── 📄 TP 4 regularisation.ipynb
+│   │   ├── 📄 data.csv
+│   │   └── 📄 data.csv
+│   ├── 📁 TP3/
+│   │   ├── 📄 TP 3 regression.ipynb
+│   │   ├── 📄 TP 3 regression.ipynb
+│   │   ├── 📄 data.csv
+│   │   └── 📄 data.csv
+│   ├── 📁 Projets/
+│   │   └── 📄 Projet-finSemestre-SII.docx
+│   ├── 📁 TP7/
+│   │   ├── 📄 TP VMS-V2.ipynb
+│   │   ├── 📄 TP VMS-V2.ipynb
+│   │   ├── 📄 goodBoundary.PNG
+│   │   ├── 📄 goodBoundary.PNG
+│   │   └── 📄 data.csv
+│   ├── 📁 TP1/
+│   │   ├── 📄 TP 1 Mesures de performance.ipynb
+│   │   ├── 📄 Mesures de performance.ipynb
+│   │   ├── 📄 data.csv
+│   │   ├── 📄 labels.csv
+│   │   └── 📄 labels.csv
+│   ├── 📁 TP5/
+│   │   ├── 📄 TP 5 RN1.ipynb
+│   │   ├── 📄 TP 5 RN1.ipynb
+│   │   ├── 📄 W2.csv
+│   │   ├── 📄 W2.csv
+│   │   ├── 📄 W1.csv
+│   │   ├── 📄 W1.csv
+│   │   └── 📄 data.csv
+│   ├── 📁 TP9/
+│   │   ├── 📄 TP9-Kmoy-ACP.ipynb
+│   │   ├── 📄 TP9-Kmoy-ACP.ipynb
+│   │   ├── 📄 X.csv
+│   │   ├── 📄 X.csv
+│   │   ├── 📄 bird_small.png
+│   │   └── 📄 bird_small.png
+│   ├── 📁 TP8/
+│   │   ├── 📄 TP8-Gaussienne.ipynb
+│   │   ├── 📄 TP8-Gaussienne.ipynb
+│   │   ├── 📄 yval.csv
+│   │   ├── 📄 yval.csv
+│   │   ├── 📄 Xval.csv
+│   │   ├── 📄 Xval.csv
+│   │   ├── 📄 X.csv
+│   │   └── 📄 X.csv
+│   └── 📁 TP6/
+│       ├── 📄 TP 6 RN2.ipynb
+│       ├── 📄 TP 6 RN2.ipynb
+│       ├── 📄 W2.csv
+│       ├── 📄 W1.csv
+│       ├── 📄 W1.csv
+│       ├── 📄 W2.csv
+│       └── 📄 data.csv
+└── 🔗📁 Apprentissage automatique et réseaux de neurones/  (raccourci)
+    ├── 📄 solutions du controle continu 26 Avril 2016-Modèle A.pdf
+    ├── 📄 Divers Exercices.pdf
+    ├── 📄 solution -controle continu 18 Mai 2013.pdf
+    ├── 📁 Projet/
+    │   ├── 📄 Script partie B.m
+    │   ├── 📄 Patie A.py
+    │   ├── 📄 Projet_AARN_MIAL_LAHEG 2015-2016.rar
+    │   ├── 📄 Script partie B.rar
+    │   ├── 📄 Script partie A.rar
+    │   ├── 📄 BENDJOUDI_ROUGAB PARTIE A.pdf
+    │   ├── 📄 BENDJOUDI_ROUGAB_PARTIE B.pdf
+    │   ├── 📄 AARN-Description du Mini-Projet-Partie B - 21 Avril 2017.pdf
+    │   └── 📄 AARN - Description du Mini-Projet - Partie A - 22 Mars 2017.pdf
+    ├── 📁 examens corrigés 2010-2017/
+    │   ├── 📄 Sujet AARN 2017.jpg
+    │   ├── 📄 solution EMD AARN - Mai 2017.pdf
+    │   ├── 📄 2010-apprentissage Rattrapage 2009-2010.pdf
+    │   ├── 📄 2010-apprentissage EMD 2009-2010.pdf
+    │   ├── 📄 2016-Solution EMD apprentissage  -  29 Mai  2016.pdf
+    │   ├── 📄 2014-Solution EMD.pdf
+    │   ├── 📄 2013-solution EMD apprentissage -  30 Mai  2013.pdf
+    │   ├── 📄 2015-Solution EMD apprentissage  -  1 Juin  2015.pdf
+    │   ├── 📄 2014-apprentissage EMD -  3 Juin  2014.pdf
+    │   ├── 📄 2012-solutions EMD apprentissage - 2 juin  2012.pdf
+    │   ├── 📄 2012-solution du Rattrapage du 14  juin  2012.pdf
+    │   ├── 📄 2012-apprentissage -Rattrapage 14  juin  2012.pdf
+    │   ├── 📄 2011-solution - apprentissage -EMD  5 juin  2011.pdf
+    │   ├── 📄 2012-apprentissage -EMD  2 juin  2012.pdf
+    │   ├── 📄 2010-solution- EMD 2010.pdf
+    │   └── 📄 2011-apprentissage -EMD  5 juin  2011.pdf
+    ├── 📁 TPS/
+    │   ├── 📄 lab 3 - ann-intro.ppt
+    │   ├── 📄 Lab 2 - Intro a Matlab - AARN.docx
+    │   ├── 📄 Lab 1 - Intro a Matlab - AARN.docx
+    │   ├── 📄 Lab 4 - s 2015.docx
+    │   ├── 📄 Lab 10 - Application de résolution avec script- Nursery problem.docx
+    │   ├── 📁 Lab 9 - Nursery avec Script/
+    │   │   ├── 📄 target.txt
+    │   │   ├── 📄 input.txt
+    │   │   ├── 📄 ntrain.m
+    │   │   ├── 📄 mainROUGAB.m
+    │   │   └── 📁 Lab 9 - Nursery avec Script/
+    │   │       ├── 📄 nursery_data.txt
+    │   │       ├── 📄 Lab 9 - résolution avec script (1).pdf
+    │   │       ├── 📄 énoncé Lab 9 - Nursery.docx
+    │   │       └── 📄 nursery_data_description.txt
+    │   ├── 📁 Lab 5 - Alphapet+tests/
+    │   │   ├── 📄 1of26.txt
+    │   │   ├── 📄 binaire.txt
+    │   │   ├── 📄 lettres data - Copie.txt
+    │   │   ├── 📄 codage simple .txt
+    │   │   ├── 📄 letter-recognition_names.mht
+    │   │   ├── 📄 Lab 5 - énoncé - Lettres.pdf
+    │   │   ├── 📄 Lab 5 - énoncé - Lettres.docx
+    │   │   └── 📁 LAB 5 tests/
+    │   │       ├── 📄 1.JPG
+    │   │       ├── 📄 results.xlsx
+    │   │       ├── 📄 LM2.JPG
+    │   │       ├── 📄 LM.JPG
+    │   │       ├── 📄 3.JPG
+    │   │       ├── 📄 2.JPG
+    │   │       ├── 📁 testes par couches et neurones méthode binaire 1 of 26/
+    │   │       │   ├── 📁 4 layers 90 70 50 30/
+    │   │       │   │   ├── 📄 RP reg.JPG
+    │   │       │   │   ├── 📄 SCG perform.JPG
+    │   │       │   │   ├── 📄 SCG reg.JPG
+    │   │       │   │   ├── 📄 RP train.JPG
+    │   │       │   │   ├── 📄 SCG train.JPG
+    │   │       │   │   └── 📄 RP perform.JPG
+    │   │       │   ├── 📁 3 layers 80 50 30/
+    │   │       │   │   ├── 📄 RP reg.JPG
+    │   │       │   │   ├── 📄 SCG reg.JPG
+    │   │       │   │   ├── 📄 RP train.JPG
+    │   │       │   │   ├── 📄 SCG train.JPG
+    │   │       │   │   ├── 📄 SCF perform.JPG
+    │   │       │   │   ├── 📄 RP perform.JPG
+    │   │       │   │   └── 📁 2 layers 80 50/
+    │   │       │   │       ├── 📄 SCG reg.JPG
+    │   │       │   │       ├── 📄 SCG train.JPG
+    │   │       │   │       ├── 📄 SCG perform.JPG
+    │   │       │   │       ├── 📄 RP train.JPG
+    │   │       │   │       ├── 📄 RP perform.JPG
+    │   │       │   │       └── 📄 RP reg.JPG
+    │   │       │   └── 📁 1 layer 50/
+    │   │       │       ├── 📄 RP reg.JPG
+    │   │       │       ├── 📄 RP train.JPG
+    │   │       │       ├── 📄 SCG train.JPG
+    │   │       │       ├── 📄 SCG reg.JPG
+    │   │       │       ├── 📄 RP perform.JPG
+    │   │       │       └── 📄 SCG perform.JPG
+    │   │       ├── 📁 binaire/
+    │   │       │   └── 📁 train rp/
+    │   │       │       ├── 📁 test 2/
+    │   │       │       │   ├── 📄 3.JPG
+    │   │       │       │   ├── 📄 2.JPG
+    │   │       │       │   └── 📄 1.JPG
+    │   │       │       └── 📁 test 1/
+    │   │       │           ├── 📄 2.JPG
+    │   │       │           ├── 📄 1.JPG
+    │   │       │           └── 📄 3.JPG
+    │   │       ├── 📁 best results/
+    │   │       │   ├── 📁 RP/
+    │   │       │   │   ├── 📄 6.JPG
+    │   │       │   │   ├── 📄 5.JPG
+    │   │       │   │   └── 📄 4.JPG
+    │   │       │   └── 📁 SCG/
+    │   │       │       ├── 📄 2.JPG
+    │   │       │       ├── 📄 3.JPG
+    │   │       │       └── 📄 1.JPG
+    │   │       └── 📁 1 26/
+    │   │           ├── 📁 best Lm/
+    │   │           │   ├── 📄 regress.JPG
+    │   │           │   ├── 📄 train.JPG
+    │   │           │   ├── 📄 stat.JPG
+    │   │           │   └── 📄 perform.JPG
+    │   │           ├── 📁 70 80/
+    │   │           │   ├── 📄 3.JPG
+    │   │           │   ├── 📄 2.JPG
+    │   │           │   └── 📄 1.JPG
+    │   │           ├── 📁 150 100 50/
+    │   │           │   ├── 📁 trainSCG/
+    │   │           │   │   ├── 📄 reg.JPG
+    │   │           │   │   ├── 📄 train.JPG
+    │   │           │   │   └── 📄 perf.JPG
+    │   │           │   └── 📁 trainRP/
+    │   │           │       ├── 📄 reg.JPG
+    │   │           │       ├── 📄 train.JPG
+    │   │           │       └── 📄 perf.JPG
+    │   │           └── 📁 80 50/
+    │   │               ├── 📄 Lm.JPG
+    │   │               ├── 📁 RP/
+    │   │               │   ├── 📄 reg.JPG
+    │   │               │   ├── 📄 train.JPG
+    │   │               │   └── 📄 perf.JPG
+    │   │               └── 📁 SCG/
+    │   │                   ├── 📄 perf.JPG
+    │   │                   ├── 📄 reg.JPG
+    │   │                   └── 📄 train.JPG
+    │   └── 📁 Lab 7- car/
+    │       ├── 📄 oneofm.txt
+    │       ├── 📄 inp+trg.py
+    │       ├── 📄 car_data_description.txt
+    │       ├── 📄 car_data simple.txt
+    │       ├── 📄 car_data one of m.txt
+    │       ├── 📄 car_data - Copie.txt
+    │       └── 📄 car statement.docx
+    └── 📁 cours/
+        ├── 📄 chapitre 4 -decision trees _fr.pptx
+        ├── 📄 chapitre 1  introduction fr.pptx
+        ├── 📄 chapitre 5_Classifieurs KNN et Bayesiens fr - Copie.pptx
+        ├── 📄 chapitre 3 -ANNs_fr.pptx
+        └── 📄 chapitre 2  -concept learning fr.pptx
+
+═════════════════════════════════════
+  Fin du fichier · Apprentissage Automatique et Réseaux de Neurones
+═════════════════════════════════════

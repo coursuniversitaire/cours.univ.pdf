@@ -1,0 +1,355 @@
+📚 MODULE : Analyse 4                                 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Analyse 4.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Analyse 4/
+├── 🔗📁 Analyse 4 FST/  (raccourci)
+│   ├── 🔗📁 Analyse 4/  (raccourci)
+│   │   ├── 📄 exercices sur les séries entières ( PDFDrive ) (1).pdf
+│   │   ├── 📄 TD10_equivalents.pdf
+│   │   ├── 📄 TD1_Series Num.pdf
+│   │   ├── 📄 site.pdf
+│   │   ├── 📄 06-sigma-binome-1.pdf
+│   │   ├── 📁 de td teg/
+│   │   │   ├── 📄 Questions ....pdf
+│   │   │   ├── 📄 exercice 5 td.pdf
+│   │   │   ├── 📄 corr exerc2.pdf
+│   │   │   ├── 📄 serie num 3pages .pdf
+│   │   │   ├── 📄 suite numirique.pdf
+│   │   │   └── 📄 Exaercices analyse 4.pdf
+│   │   ├── 📁 Cour+Td tegmoti /
+│   │   │   ├── 📄 Résumé d'analyse 4.pdf
+│   │   │   ├── 📄 s3 td serie nume-1.pdf
+│   │   │   ├── 📄 préparer les séries de fourier.pdf
+│   │   │   ├── 📄 solution td 
+│   │   │   ├── 📄 td
+│   │   │   └── 📄 Cour analyse 4.pdf
+│   │   ├── 📁 Td 22-23/
+│   │   │   ├── 📄 cnc revision ana 4.pdf
+│   │   │   ├── 📁 Corr series 23/
+│   │   │   │   ├── 📄 corr serie 3 ana4  23.pdf
+│   │   │   │   ├── 📄 serie 3' +corr e.appl analy4.pdf
+│   │   │   │   ├── 📄 corr serie 2 ana4 23 .
+│   │   │   │   ├── 📄 corr serie 1 ana4 23.
+│   │   │   │   └── 📄 corr serie 4 fourier 22-23.pdf
+│   │   │   └── 📁 Series/
+│   │   │       ├── 📄 series 1 2 3 4 analyse 4 22-23(1).pdf
+│   │   │       ├── 📄 serie 3 analy4.pdf
+│   │   │       ├── 📄 serie 3' analy4
+│   │   │       ├── 📄 serie 4 analy4 22-23.pdf
+│   │   │       ├── 📄 serie 1 analys4.pdf
+│   │   │       └── 📄 serie 2 analy4 22-23.pdf
+│   │   ├── 📁 Exercices/
+│   │   │   ├── 📄 3dddc4f7a.pdf
+│   │   │   ├── 📄 suites-et-séries-de-fonctions.pdf
+│   │   │   ├── 📄 Rappels sur les series numi.pdf
+│   │   │   ├── 📄 06-exos_suites_series_fonctions_Eleve.pdf
+│   │   │   ├── 📄 TD-suites_et_series_de_fonctions.pdf
+│   │   │   ├── 📄 Suites  numériques.pdf
+│   │   │   ├── 📄 sn.pdf
+│   │   │   ├── 📄 séries-numériques.pdf
+│   │   │   ├── 📄 TD-S%C3%A9ries-Fourier.pdf
+│   │   │   ├── 📄 TD-Séries numériques.pdf
+│   │   │   ├── 📄 TD-Séries-Fonctions.pdf
+│   │   │   ├── 📄 TD-suites de fonctions.pdf
+│   │   │   ├── 📄 TD-Suites-Fonctions imp.pdf
+│   │   │   ├── 📄 TD_Séries_Entières 1.pdf
+│   │   │   ├── 📄 Exercices_Corriges_Séries_Entières_Pascal_Lainé.pdf
+│   │   │   ├── 📄 sigma.pdf
+│   │   │   ├── 📄 tdMAT232_1314.pdf
+│   │   │   ├── 📄 TD-Suites-1.pdf
+│   │   │   ├── 📄 td-series-num.pdf
+│   │   │   ├── 📄 TD-Séries-2.pdf
+│   │   │   ├── 📄 suites-numeriques-cours-1-3.pdf
+│   │   │   ├── 📄 Ana2 TD 4 2019.pdf
+│   │   │   ├── 📄 suites-numeriques-serie-d-exercices-1.pdf
+│   │   │   ├── 📄 TDOM3.pdf
+│   │   │   ├── 📄 suites-numeriques-exercices-non-corriges-1-4.pdf
+│   │   │   ├── 📄 exercices_corriges_series_de_fonctions.pdf
+│   │   │   ├── 📄 exercices_corriges_series_numeriques.pdf
+│   │   │   ├── 📄 suites-numeriques-serie-d-exercices-3.pdf
+│   │   │   ├── 📄 suites-numeriques-corrige-serie-d-exercices-2.pdf
+│   │   │   ├── 📄 suites-numeriques-exercices-non-corriges-4-1.pdf
+│   │   │   ├── 📄 exercices corrige serie numerique 
+│   │   │   ├── 📄 fiche_revision_examen_correction_complete.pdf
+│   │   │   ├── 📄 series-corrige- analyse 4.pdf
+│   │   │   ├── 📄 °TDS ANALYSE4 SMA3 FSSM-MARRAKECH 20-21.pdf
+│   │   │   └── 📁 ../
+│   │   │       └── 📄 calcul-asymptotique.pdf
+│   │   └── 📁 Exams/
+│   │       ├── 📄 Exam ana4 2023-2024.pdf
+│   │       ├── 📄 Normal Analyse 4 2024.pdf
+│   │       ├── 📄 Normal+corr Q2 ex2   20/21.pdf
+│   │       ├── 📄 nornal17/18 Analyse 4.pdf
+│   │       ├── 📄 normal+corr ex3 analyse4 23
+│   │       ├── 📄 Ratt Analyse 4 17/18 .pdf
+│   │       ├── 📄 normal 16/17 Analyse 4.pdf
+│   │       ├── 📄 Normal analyse 4 (20/21).pdf
+│   │       ├── 📄 normal analyse4 23.pdf
+│   │       ├── 📄 normal+corr analyse4 2022.pdf
+│   │       ├── 📄 normal+corr analyse4  18/19.pdf
+│   │       ├── 📄 Ratt analyse4 22-23.pdf
+│   │       ├── 📄 Ratt analy4 2(19/20)■(17/18).pdf
+│   │       ├── 📄 Controles d'analyse4 SMA 3 (sans corrigés).pdf
+│   │       ├── 📄 ratt analyse 4 2022.pdf
+│   │       ├── 📄 Exam analyse (4+5) 20!21.pdf
+│   │       ├── 📄 Ratt analyse 4 (2020 !2021).pdf
+│   │       ├── 📄 Ratt analyse 4 (17!18).pdf
+│   │       └── 📁 Autre ville/
+│   │           ├── 📄 Examen sans corrigé N°2 DE ANALYSE 4 (Séries Numériques, Suites et Séries de Fonctions).pdf
+│   │           ├── 📄 Examen sans corrigé N°6 DE ANALYSE 4 (Séries Numériques, Suites et Séries de Fonctions).pdf
+│   │           ├── 📄 Examen sans corrigé N°4 DE ANALYSE 4 (Séries Numériques, Suites et Séries de Fonctions).pdf
+│   │           ├── 📄 Examen Corrigé N°1 DE ANALYSE 4 (Séries Numériques, Suites et Séries de Fonctions).pdf
+│   │           ├── 📄 Examen sans corrigé N°3 DE ANALYSE 4 (Séries Numériques, Suites et Séries de Fonctions).pdf
+│   │           ├── 📄 CTRL 2015 2016 - Analyse 4 (1).pdf
+│   │           ├── 📄 RAT 2014 2015 - Analyse 4.pdf
+│   │           ├── 📄 CTRL 2014 2015 - Analyse 4.pdf
+│   │           └── 📄 Corrigé du contrôle final dAnalyse IV-SMA3-Décembre 2019.pdf
+│   ├── 📁 Examens/
+│   │   ├── 📄 Analyse 4 01.jpeg
+│   │   ├── 📄 Analyse 4 02.jpeg
+│   │   ├── 📄 Analyse 4 03.jpeg
+│   │   ├── 📄 Analyse 4 04.jpeg
+│   │   ├── 📄 corrigé 2 partiel M136.(15-16) (1).pdf
+│   │   ├── 📄 exam 2022 M136.pdf
+│   │   ├── 📄 Exam M136 2023.pdf
+│   │   ├── 📄 exam-2023-M136.pdf
+│   │   ├── 📄 Examen M136 mai 18 (V2).pdf
+│   │   ├── 📄 examen2016-M136.pdf
+│   │   ├── 📄 M136 - Archive.pdf
+│   │   ├── 📄 M136 - Examen Printemps 2019.pdf
+│   │   ├── 📄 M136 - Partiel Juin 2016.pdf
+│   │   ├── 📄 M136 - Partiel Mai 2017.pdf
+│   │   ├── 📄 M136 exam 2022.pdf
+│   │   ├── 📄 M136_dec_2023.pdf
+│   │   ├── 📄 Partiel   M136  (12.pdf
+│   │   ├── 📄 Partiel 2 (printemps 2016) corrigé.pdf
+│   │   └── 📄 Partiel M136  (mai .2017) 2.pdf
+│   ├── 📁 Cours/
+│   │   └── 📄 Cours M136 - Pr.harfaoui.pdf
+│   └── 📁 TDs et exo/
+│       ├── 📄 exercices-M136.pdf
+│       ├── 📄 M136 - TD 1 (Solution).pdf
+│       ├── 📄 M136 - TD 1.pdf
+│       ├── 📄 M136 - TD 2 (Solution).pdf
+│       ├── 📄 M136 - TD 2.pdf
+│       ├── 📄 M136 - TD 3 (Solution).pdf
+│       ├── 📄 M136 - TD 3.pdf
+│       ├── 📄 M136 - TD 4.pdf
+│       ├── 📄 M136 - TD.pdf
+│       └── 📄 TD serie de Fourier correction.pdf
+├── 🔗📁 [M136] Analyse 4 FST/  (raccourci)
+│   ├── 📁 [M136] Bonus/
+│   │   ├── 📄 resum analyse 4.pdf
+│   │   ├── 📄 CamScanner 02-19-2021 00.23.pdf
+│   │   ├── 📁 Résumé/
+│   │   │   ├── 📄 08.jpeg
+│   │   │   ├── 📄 16.jpeg
+│   │   │   ├── 📄 15.jpeg
+│   │   │   ├── 📄 14.jpeg
+│   │   │   ├── 📄 13.jpeg
+│   │   │   ├── 📄 12.jpeg
+│   │   │   ├── 📄 11.jpeg
+│   │   │   ├── 📄 10.jpeg
+│   │   │   ├── 📄 06.jpeg
+│   │   │   ├── 📄 04.jpeg
+│   │   │   ├── 📄 03.jpeg
+│   │   │   ├── 📄 02.jpeg
+│   │   │   ├── 📄 01.jpeg
+│   │   │   ├── 📄 09.jpeg
+│   │   │   ├── 📄 07.jpeg
+│   │   │   └── 📄 05.jpeg
+│   │   └── 📁 Examens/
+│   │       ├── 📄 Analyse 4 04.jpeg
+│   │       ├── 📄 Analyse 4 01.jpeg
+│   │       ├── 📄 Analyse 4 03.jpeg
+│   │       └── 📄 Analyse 4 02.jpeg
+│   ├── 📁 [M136] TD/
+│   │   ├── 📄 exercices-M136.pdf
+│   │   ├── 📄 TD serie de Fourier correction.pdf
+│   │   ├── 📄 M136 - TD.pdf
+│   │   ├── 📄 M136 - TD 4.pdf
+│   │   ├── 📄 M136 - TD 3.pdf
+│   │   ├── 📄 M136 - TD 2.pdf
+│   │   ├── 📄 M136 - TD 1.pdf
+│   │   ├── 📄 M136 - TD 3 (Solution).pdf
+│   │   ├── 📄 M136 - TD 2 (Solution).pdf
+│   │   └── 📄 M136 - TD 1 (Solution).pdf
+│   ├── 📁 [M136] Cours/
+│   │   ├── 📄 M136 - Pr.harfaoui.pdf
+│   │   └── 📄 cours analyse 4.pdf
+│   └── 📁 [M136] Archive/
+│       ├── 📄 M136_dec_2023.pdf
+│       ├── 📄 exam-2023-M136.pdf
+│       ├── 📄 examen2016-M136.pdf
+│       ├── 📄 exam 2022 M136.pdf
+│       ├── 📄 Exam M136 2023.pdf
+│       ├── 📄 M136 exam 2022.pdf
+│       ├── 📄 corrigé 2 partiel M136.(15-16) (1).pdf
+│       ├── 📄 Partiel M136  (mai .2017) 2.pdf
+│       ├── 📄 Partiel 2 (printemps 2016) corrigé.pdf
+│       ├── 📄 Partiel   M136  (12.pdf
+│       ├── 📄 Examen M136 mai 18 (V2).pdf
+│       ├── 📄 M136 - Partiel Juin 2016.pdf
+│       ├── 📄 M136 - Partiel Mai 2017.pdf
+│       ├── 📄 M136 - Examen Printemps 2019.pdf
+│       └── 📄 M136 - Archive.pdf
+├── 🔗📁 Analyse 4/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 🔗📁 +MATH4 SABORPCMATH.COM/  (raccourci)
+│   ├── 📄 +S4 COURS MATH ENSA AGADIR 19 20.pdf
+│   ├── 📄 +S4 COURS Analyse4_cours_MIP_MIPC FST TANGER.pdf
+│   ├── 📄 +S4 COURS ANALYSE4 FST MOHAMEDIA.pdf
+│   ├── 📄 +S4 COURS ANALYSE4 FST ERRACHIDIA 19 20.pdf
+│   ├── 📄 +S4 COURS ANALYSE4 ENSAJ ELJADIDA.pdf
+│   ├── 📄 +S4 COURS ANALYSE4 ENSA KENITRA.pdf
+│   ├── 📄 +S4 COURS ANALYSE4 ENSA FES.pdf
+│   ├── 📄 +S4 Cours Analyse 4 MIP S4-Section B 19 20 FST FES.pdf
+│   ├── 📄 +S4 Cours Analyse 4 MIP S4-Section A 19 20 FST FES.pdf
+│   ├── 📄 +S4 COURS MATH ENSA OUAJDA 19 20.pdf
+│   ├── 📄 +S4 EXAMENS ANALYSE4 FST MOHAMEDIA.pdf
+│   ├── 📄 +S4 EXAMENS MATH ENSA KHOURIBGA.pdf
+│   ├── 📄 +S4 TD ANALYSE4 ENSA TETOUAN 18 19.pdf
+│   ├── 📄 +S4 TD ANALYSE4 ENSA TETOUAN 19 20.pdf
+│   ├── 📄 +S4 TD ANALYSE4 FST ERRACHIDIA 19 20.pdf
+│   ├── 📄 +S4 TD ANALYSE4 FST FES 19 20.pdf
+│   ├── 📄 +S4 TD ANALYSE4 FST MARRAKECH 19 20.pdf
+│   ├── 📄 +S4 TD ANALYSE4 FST MOHAMEDIA.pdf
+│   ├── 📄 +S4 TD ANALYSE4 FST TANGER 17 18.pdf
+│   ├── 📄 +S4 TD Analyse4 manuel-exercices_MIP_MIPC FST TANGER.pdf
+│   ├── 📄 +S4 TD EXAMENS ANALYSE4 ENSA KENITRA.pdf
+│   ├── 📄 +S4 TD MATH ENSA AGADIR 19 20.pdf
+│   ├── 📄 +S4 TD MATH ENSA KHOURIBGA.pdf
+│   ├── 📄 +S4 TD MATH ENSA OUAJDA 19 20.pdf
+│   ├── 📄 +S4 TD MATH FST BM 2020.pdf
+│   ├── 📄 +S4 TD MATH FST ERRACHIDIA 2020.pdf
+│   ├── 📄 +S4 TD MATH FST FES 2020.pdf
+│   ├── 📄 + S4 TD Analyse III FST MOHAMEDIA.pdf
+│   ├── 📄 + S4 COURS Analyse III FST MOHAMEDIA.pdf
+│   ├── 📄 + S4 Analyse III-EXAMENS FST BM.pdf
+│   ├── 📄 + S4 Analyse III- Suites et series de fonction FST BM.pdf
+│   ├── 📄 + S4 Analyse III- Analyse complexe FST BM.pdf
+│   └── 📄 °MATH4.pdf
+├── 📄 Corrigé TD-M135 Suites et séries de fonctions Séries enti`eres et de Fourier.pdf
+├── 📄 TD5 Calcul différentiel et fonctions holomorphes.pdf
+├── 📄 Cours Suites et séries de fonctions Séries entières et de Fourier Analyse complexe.pdf
+├── 📄 TD corrigé  Fonctions complexes laurent.pdf
+├── 📄 Série de TD n°03 Suites et Séries de fonctions.pdf
+├── 📄 td s4 series entieres analyse.pdf
+├── 📄 Chapitre 02 Transformation de Laplace Transformation de Fourier.pdf
+├── 📄 exercices SERIES DE FOURIER.pdf
+├── 📄 Exercices corrigés sur les séries entières Ensaf.pdf
+├── 📄 Exercices corrigés Séries entières.pdf
+├── 📄 Corrigé de la série 4 les integrales.pdf
+├── 📄 Exercices corrigés Suites de fonctions convergence.pdf
+├── 📄 Nombres complexes Exercices corrigés .pdf
+├── 📄 NOMBRES COMPLEXES - EXERCICES CORRIGES.pdf
+├── 📄 TD séries entières 15 16.pdf
+├── 📄 Série d'exercices pour se préparer examen.pdf
+├── 📄 Partiel-2-2013-2014 automne.pdf
+├── 📄 Exercices Suites et Series de Fonctions.pdf
+├── 📄 Exercices Séries entières.pdf
+├── 📄 exercices_corriges_fonctions_elementaires.pdf
+├── 📄 Série de TD n°02 Suites et Séries de fonctions.pdf
+├── 📄 Transformée de Laplace Exercices Simples 6.pdf
+├── 📄 exercices corrigés Séries Numériques.pdf
+├── 📄 Développements limités usuels en 0.pdf
+├── 📄 analyse s4 Suites et séries de fonctions.pdf
+├── 📄 Partiel-final-janvier-2008-1.pdf
+├── 📄 Cours Series_Fourier module  Séries & Analyse Complexe.pdf
+├── 📄 exercices_corriges_series_numeriques.pdf
+├── 📄 Fiche résumée du cours d'analyse complexe et harmonique.pdf
+├── 📄 Exercices corrigés - Transformation de Fourier Fonctions intégrables.pdf
+├── 📄 Série de TD N7 Séries entières et séries de Fourier.pdf
+├── 📄 TD FICHE N°5 SERIES DE FOURIER.pdf
+├── 📄 Controle-1-M311-2008-2009.pdf
+├── 📄 Partiel-M136-8.12015.-corrigé.pdf
+├── 📄 Exercices sur Analyse complexe By ExoSup.pdf
+├── 📄 Corrrigé_Controle-1-M311-2008-2009.pdf
+├── 📄 Controle continu n o2 Corrigé Calcul différentiel et fonctions holomorphes.pdf
+├── 📄 Devoir surveille no 01 integrales.pdf
+├── 📄 Exercices corrigés Suites et séries de fonctions.pdf
+├── 📄 Feuille d’exercices Series Entières .pdf
+├── 📄 Corrigé du devoir surveillé d’analyse intgrales.pdf
+├── 📄 Exercices corrigés les suites d’analyse 4.pdf
+├── 📄 Liste des exercices corrigés - Algèbre - Nombres complexes
+├── 📄 Exercices corrigés Séries de fonctions.pdf
+├── 📄 serie de fourier epsta.pdf
+├── 📄 Exercices corrigés Intégrales généralisées. Suites et séries numériques. Suites et séries de fonctions. Séries entières.pdf
+├── 📄 exo suite et serie de fonction corrigé.pdf
+├── 📄 TD s4 serie Fournier.pdf
+├── 📄 Cours Series_Numeriques.pdf
+├── 📄 TD n°2  Fonctions Holomorphes CORRECTION.pdf
+├── 📄 Partiel_Correction_L3_Analyse_Complexe_2006.pdf
+├── 📄 CHAPITRE 3 SERIES DE FOURIER.pdf
+├── 📄 exercices_corriges_nombres_complexes.pdf
+├── 📄 Cours Suites_Series_Fonctions.pdf
+├── 📄 Travaux dirigés Module Séries et fonctions holomorphes.pdf
+├── 📄 Cours et exercices corrigés Transformée de Laplace.pdf
+├── 📄 TD6 Fonctions holomorphes Théorème des résidus.pdf
+├── 📄 TD Fonctions complexes et applications des résidu.pdf
+├── 📄 Cours Séries entières Ensaf.pdf
+├── 📄 Partiel-1-2013-2014-corrigé.pdf
+├── 📄 Cours Transformee de Laplace  Transformee de Fourier.pdf
+├── 📄 Exercices Transformées de Fourier et Laplace.pdf
+├── 📄 Exercices corrigés Dérivation complexe et fonctions holomorphes.pdf
+├── 📄 Série de TD n°04- Séries entières.pdf
+├── 📄 Examen_Correction_L3_Analyse_Complexe_2005_1.pdf
+├── 📄 Série de TD n°01 Séries numériques.pdf
+├── 📄 TD3 SERIES DE FONCTIONS Séries et analyse complexe.pdf
+├── 📄 Analyse complexe Cours et exercices corrigés.pdf
+├── 📄 td fourier Seance9-10-solution.pdf
+├── 📄 Cours Series_Entieres module Séries & Analyse Complexe.pdf
+├── 📄 Cours Suites et séries de fonctions.pdf
+├── 📄 exercices_series.pdf
+├── 📄 Cours Séries de Fourier - Calculs fondamentaux.pdf
+├── 📄 Exercices corrigés Dérivabilité au sens complexe, fonctions analytiques.pdf
+├── 📄 Cours et exercices Transformation de Fourier.pdf
+├── 📄 Cours Fonctions Holomorphes.pdf
+├── 📄 Examen_Correction_L3_Analyse_Complexe_2007.pdf
+├── 📄 TD s4 séries entières corrigé.pdf
+├── 📄 exercices corriges Séries numériques.pdf
+├── 📄 Résumé du cours sur les séries de Fourier.pdf
+├── 📄 Cours Module Séries et fonctions holomorphes.pdf
+├── 📄 TD2  SUITES DE FONCTIONS Séries et analyse complexe.pdf
+├── 📄 Corrigé-du-partiel-M135-3.pdf
+├── 📄 Cours Analyse_Complexe.pdf
+├── 📄 Partiel-M1366.1.2015 corrigé.pdf
+├── 📄 TD6 Calcul Différentiel et Fonctions Holomorphes.pdf
+├── 📄 devoir Corrigé n◦5 trans FOURIER.pdf
+├── 📄 TD7 Calcul différentiel et fonctions holomorphes.pdf
+├── 📄 Résumé-de-cours-sur-les-suites-et-séries-de-fonctions.pdf
+├── 📄 corrigée de devoir des suites (avec quelques rappels de cours) .pdf
+└── 📁 Analyse 4/
+    ├── 📄 La transformée de Fourier.pdf
+    ├── 📄 Série 1 2021.pdf
+    ├── 📄 T Fourier Série 3.pdf
+    ├── 📄 correction exam analyse2022.pdf
+    ├── 📄 Résumé les séries (analyse).pdf
+    ├── 📄 Ex 7-14.pdf
+    ├── 📄 Serie 2.pdf
+    ├── 📄 Les transformations de Laplace.pdf
+    ├── 📄 Série 4 (2).pdf
+    ├── 📄 exam  analyse.pdf
+    ├── 📄 td analyse.pdf
+    ├── 📄 Série 4 correction 4.5.6..pdf
+    ├── 📄 Exam analyse 2019.pdf
+    ├── 📄 ExamNormal_Analyse4_2020_2021.pdf
+    └── 📁 Exams/
+        ├── 📄 2016-2017(1).jpeg
+        └── 📄 2016-2017(2).jpeg
+
+═════════════════════════════════════
+  Fin du fichier · Analyse 4
+═════════════════════════════════════

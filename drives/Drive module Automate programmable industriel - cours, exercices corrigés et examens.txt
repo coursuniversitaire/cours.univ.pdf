@@ -1,0 +1,383 @@
+📚 MODULE : Automate programmable industriel          
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Automate programmable industriel.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Automate programmable industriel/
+├── 🔗📁 API-20260529T202314Z-3-001.zip  (raccourci)
+├── 📄 4# API-20260529T202918Z-3-001.zip
+├── 🔗📁 api/  (raccourci)
+│   ├── 📄 Api cours 2023
+│   ├── 📄 API TD.pdf
+│   ├── 📄 Test examen.pdf
+│   ├── 📁 tp/
+│   ├── 📁 cours/
+│   │   └── 📄 Cours-API-NAFA-Rev-1.pdf
+│   └── 📁 td/
+│       ├── 📄 TD6_Application des API.pdf
+│       ├── 📄 TD5_Ladder_et_grafcet.pdf
+│       ├── 📄 TD_API_Applications.pdf
+│       ├── 📄 TD_4_Grafcet - Solution.pdf
+│       ├── 📄 API_TD_Euler-Lagrange.pdf
+│       ├── 📄 API_TD_3_Enoncé.pdf
+│       ├── 📄 API_TD_2_Enoncé.pdf
+│       └── 📄 API_TD_1_Enonce.pdf
+├── 🔗📁 automate programable industriele/  (raccourci)
+│   ├── 📄 TD-3-Solution.doc
+│   ├── 📄 TD_2_Solution.docx
+│   ├── 📄 TD_0_Solution.doc
+│   ├── 📄 TD_3_Enoncé.pdf
+│   ├── 📄 TD_2_Enoncé.pdf
+│   ├── 📄 TD_1_Enoncé.pdf
+│   ├── 📄 TD_0_Enoncé.pdf
+│   ├── 📄 TD_1_Solution.doc
+│   └── 📄 Cours-API-NAFA-Rev-1.pdf
+├── 🔗📁 4# API et supervision coef 2/  (raccourci)
+│   ├── 📄 TD_API.pdf
+│   ├── 📄 td2.pdf
+│   ├── 📄 LangageLIST.pdf
+│   ├── 📄 serie td api.pdf
+│   ├── 📄 06 GRAFCET.pdf
+│   ├── 📄 annexe_c_AS.pdf
+│   ├── 📄 td1.pdf
+│   ├── 📄 05 Ladder.pdf
+│   ├── 📄 examen AIP 2019.pdf
+│   ├── 📄 67237021_2264757393589830_4045550912964395008_n.jpg
+│   ├── 📁 TP API et supervision/
+│   │   └── 📄 TP API et supervision.rar
+│   ├── 📁 GRAFCET en LIST/
+│   │   ├── 📄 AIF24.2013.2014(bien expliqué).pptx
+│   │   └── 📄 1827889.ppt
+│   ├── 📁 emd/
+│   │   ├── 📄 AIF24.pptx
+│   │   ├── 📄 EMD1 04-05.doc
+│   │   ├── 📄 EMD MA1-S2-AIF24 0809.doc
+│   │   ├── 📄 EMD- 0607.doc
+│   │   ├── 📄 EMD MA1-S2-AIF24 0809.pdf
+│   │   ├── 📄 EMD MA1 0809.doc
+│   │   ├── 📄 EMD S2 AIF 24 MA1 0910.doc
+│   │   ├── 📄 1795486_1257767267573655_5777113491365712885_n.jpg
+│   │   ├── 📄 12795339_1257767474240301_8001181692039730400_n.jpg
+│   │   ├── 📄 12799460_1257767500906965_7113108997703060331_n.jpg
+│   │   ├── 📄 12805651_1257767624240286_2623968445067652401_n.jpg
+│   │   ├── 📄 12814694_1257767170906998_216971569197059650_n.jpg
+│   │   ├── 📄 12802951_1257766947573687_906529392218023298_n.jpg
+│   │   ├── 📁 Mans/
+│   │   │   ├── 📄 Photo-0081.jpg
+│   │   │   ├── 📄 Photo-0083.jpg
+│   │   │   ├── 📄 Photo-0082.jpg
+│   │   │   ├── 📄 Photo-0084.jpg
+│   │   │   ├── 📄 Photo-0325.jpg
+│   │   │   └── 📄 Photo-0326.jpg
+│   │   ├── 📁 interro/
+│   │   │   ├── 📄 2014-05-13 10.57.36.jpg
+│   │   │   ├── 📄 2014-05-13 10.57.26.jpg
+│   │   │   ├── 📄 2014-05-13 10.57.18.jpg
+│   │   │   ├── 📄 2014-05-13 10.57.07.jpg
+│   │   │   └── 📁 Interro/
+│   │   │       ├── 📄 Photo1592.jpg
+│   │   │       ├── 📄 Photo1591.jpg
+│   │   │       └── 📄 Photo1590.jpg
+│   │   ├── 📁 exam auto S2 2013-2014/
+│   │   │   ├── 📄 IMG_390006626520.jpeg
+│   │   │   ├── 📄 IMG_384156333189.jpeg
+│   │   │   ├── 📄 IMG_376779808191.jpeg
+│   │   │   ├── 📄 IMG_363248793197.jpeg
+│   │   │   └── 📄 IMG_353355319867.jpeg
+│   │   ├── 📁 2016/
+│   │   │   ├── 📄 04.jpg
+│   │   │   ├── 📄 03.jpg
+│   │   │   ├── 📄 02.jpg
+│   │   │   └── 📄 01.jpg
+│   │   ├── 📁 2013-2014/
+│   │   │   ├── 📄 5.jpg
+│   │   │   ├── 📄 4.jpg
+│   │   │   ├── 📄 3.jpg
+│   │   │   ├── 📄 2.jpg
+│   │   │   └── 📄 1.jpg
+│   │   └── 📁 2017/
+│   │       ├── 📄 02.jpg
+│   │       ├── 📄 04.jpg
+│   │       ├── 📄 03.jpg
+│   │       └── 📄 01.jpg
+│   └── 📁 cours/
+│       └── 📄 cours_API.pdf
+├── 🔗📁 4# API/  (raccourci)
+│   ├── 📄 Programme_API.pdf
+│   ├── 📁 cours/
+│   │   ├── 📄 Chapitre-III-Les réseaux de Pétri.pdf
+│   │   ├── 📄 Chapitre-II-GRAFCET.pdf
+│   │   ├── 📄 Chapitre-I-Généralites.pdf
+│   │   └── 📁 autres/
+│   │       ├── 📄 verin-distrib-reims.ppt
+│   │       ├── 📄 Le_GRAFCET.ppt
+│   │       ├── 📄 Les Réseaux de Petri cours LARIBI.pdf
+│   │       ├── 📄 GRAFCET cours bien détaillé.mp4
+│   │       ├── 📄 Application.pdf
+│   │       └── 📄 Temporisateurs et compteurs.pdf
+│   ├── 📁 Travail de synthèse/
+│   │   ├── 📄 WinCC.pdf
+│   │   ├── 📄 Travail de synthèse.rar
+│   │   ├── 📄 Vue racine.pdf
+│   │   ├── 📄 Travail de synthèse compte rendu.pdf
+│   │   ├── 📄 Travail de synthèse.pdf
+│   │   ├── 📄 remarque.txt
+│   │   ├── 📄 double-clic.JPG
+│   │   └── 📄 Animation.swf
+│   ├── 📁 interro/
+│   │   ├── 📄 contrôle_api_2018.pdf
+│   │   ├── 📄 contrôle_api_2017.pdf
+│   │   └── 📁 autres/
+│   │       └── 📄 Chariot automatisé avec gestion d obstacles.pdf
+│   ├── 📁 EF/
+│   │   ├── 📄 EF2018_corrigé.pdf
+│   │   ├── 📄 EF2018.pdf
+│   │   ├── 📄 EF2017_corrigé.pdf
+│   │   └── 📄 EF2017.pdf
+│   ├── 📁 td/
+│   │   ├── 📄 Série_1_GRAFCET_Corrigé.pdf
+│   │   ├── 📄 Série_3_Structuration_de_Grafcet_en_Macro-étapes.pdf
+│   │   ├── 📄 Série_4_Les_réseaux_de_Pétri.pdf
+│   │   ├── 📄 Série_2_Programmation_en_Ladder_Corrigé.pdf
+│   │   ├── 📄 Série_2_Programmation_en_Ladder.pdf
+│   │   └── 📄 Série_1_GRAFCET.pdf
+│   └── 📁 TP/
+│       ├── 📄 TP1_Configuration_Automate_TIA.pdf
+│       ├── 📄 Distributeur 5-2 monostable.mp4
+│       ├── 📄 TP4_Commande des vérins doubles effet par un distributeur 5_2 monostable et bistable via un automate programmable S7 300.pdf
+│       ├── 📄 TP3_Commande d’un vérin double effet par un distributeur 5_2 monostable via un automate programmable S7 300.pdf
+│       ├── 📄 TP3Compte Rendu.pdf
+│       ├── 📄 TP2Compte Rendu.pdf
+│       ├── 📄 TP2 _Simulation de systèmes automatisés.pdf
+│       └── 📄 Programme_TP_API.pdf
+├── 🔗📁 API/  (raccourci)
+│   ├── 📁 examen/
+│   │   ├── 📄 81242808_775743436236320_4545123066245545984_n.jpg
+│   │   ├── 📄 correction-emd-API1-1.pdf
+│   │   └── 📄 80092316_994233354276839_9037851362590720000_n.jpg
+│   ├── 📁 cours-api/
+│   │   ├── 📄 Cous_4_API_Grafcet.ppt
+│   │   ├── 📄 Cours_3_API_ladder.pptx
+│   │   ├── 📄 Cours_2_API_Hard.pptx
+│   │   ├── 📄 Bolton, William Charles_ Soulard, Hervé - Automates programmables industriels-Dunod, L’Usine nouvelle (2015).pdf
+│   │   ├── 📄 Chapitre 1_V_Profisseur.docx
+│   │   └── 📄 Chapitre 1_V_Profisseur.pdf
+│   ├── 📁 series/
+│   │   ├── 📄 TD_2_Suite.pdf
+│   │   ├── 📄 TD3_API_ESE(1).pdf
+│   │   ├── 📄 Série N 1_2020.pdf
+│   │   ├── 📄 TD2  API1_LADDER 2020.pdf
+│   │   └── 📄 79545903_1242165099301232_3398054957818052608_n.jpg
+│   ├── 📁 2019/
+│   │   ├── 📁 exo/
+│   │   │   ├── 📄 Exercice corrigé du Grafcet linéaire - Google Chrome 21-Jan-19 21_43_31.png
+│   │   │   ├── 📄 Exercice corrigé du Grafcet linéaire - Google Chrome 21-Jan-19 21_36_26.png
+│   │   │   ├── 📄 Exercice corrigé du Grafcet linéaire - Google Chrome 21-Jan-19 21_39_53.png
+│   │   │   ├── 📄 Exercice corrigé du Grafcet linéaire - Google Chrome 21-Jan-19 21_40_27.png
+│   │   │   ├── 📄 Exercice corrigé du Grafcet linéaire - Google Chrome 21-Jan-19 21_40_50.png
+│   │   │   ├── 📄 Exercice corrigé du Grafcet linéaire - Google Chrome 21-Jan-19 21_35_41.png
+│   │   │   ├── 📄 Exercice corrigé du Grafcet linéaire - Google Chrome 21-Jan-19 21_31_44.png
+│   │   │   ├── 📄 Exercice corrigé du Grafcet linéaire - Google Chrome 21-Jan-19 21_31_09.png
+│   │   │   ├── 📄 Exercice corrigé du Grafcet linéaire - Google Chrome 21-Jan-19 21_40_00.png
+│   │   │   ├── 📄 Exercice corrigé du Grafcet linéaire - Google Chrome 21-Jan-19 21_36_02.png
+│   │   │   ├── 📄 Exercice corrigé du Grafcet linéaire - Google Chrome 21-Jan-19 21_32_02.png
+│   │   │   └── 📄 Exercice corrigé du Grafcet linéaire - Google Chrome 21-Jan-19 21_31_19.png
+│   │   ├── 📁 API_AUTO/
+│   │   │   ├── 📄 WinCC.pdf
+│   │   │   ├── 📄 TIA Portal.pdf
+│   │   │   ├── 📄 TD_Grafcet.pdf
+│   │   │   ├── 📄 poly3enligne.pdf
+│   │   │   ├── 📄 CTIA01 - Programmation des automates S7-300 - Introduction au logiciel TIA Portal.pdf
+│   │   │   ├── 📄 cours_version_revue_pour_le_site.pdf
+│   │   │   ├── 📄 cours_petri2.pdf
+│   │   │   ├── 📄 34_api-chap2.pdf
+│   │   │   ├── 📄 TP1-TIA.pdf
+│   │   │   ├── 📄 UP2-2-RdP-slides.pdf
+│   │   │   ├── 📄 TP 2 Commande d_un vérin monostable.pdf
+│   │   │   ├── 📄 GRAFCET.pdf
+│   │   │   ├── 📄 TP-Commande de verin bistable.pdf
+│   │   │   ├── 📄 Généralites.pdf
+│   │   │   ├── 📄 td_grafcet_yaourt_taches.pdf
+│   │   │   ├── 📄 received_120332000980187449.jpeg
+│   │   │   ├── 📄 TD_g7.pdf
+│   │   │   ├── 📄 Chapitre-V-Les réseaux de Pétri.pdf
+│   │   │   ├── 📄 PTSI-Grafcet.pdf
+│   │   │   ├── 📄 TD_grafcet_monte_charge.pdf
+│   │   │   ├── 📄 EMD-MA1-0809.doc
+│   │   │   ├── 📄 Série-3.docx
+│   │   │   ├── 📄 Automates Programmables Industriels.pdf
+│   │   │   ├── 📄 EMD1-04-05.doc
+│   │   │   ├── 📄 programmation des API cours.pdf
+│   │   │   ├── 📄 Ladder.pdf
+│   │   │   ├── 📄 Introduction-RdP.pdf
+│   │   │   ├── 📄 EMD-0607.doc
+│   │   │   ├── 📄 GROUPE-2-1.docx
+│   │   │   ├── 📄 Applications-TP1.pdf
+│   │   │   ├── 📄 17.png
+│   │   │   ├── 📄 16.png
+│   │   │   ├── 📄 17 (3).png
+│   │   │   ├── 📄 17 (2).png
+│   │   │   ├── 📁 saadia/
+│   │   │   │   ├── 📄 Les reseaux de petri - un outil de modelisation.pdf
+│   │   │   │   ├── 📄 cours RDP version revue pour le site.pdf
+│   │   │   │   ├── 📄 AIF24.2013.2014.pptx
+│   │   │   │   ├── 📄 examens rdp.rar
+│   │   │   │   ├── 📄 06 GRAFCET.pdf
+│   │   │   │   ├── 📄 EMD BLANC_2 AR  20013-2014 11.pdf
+│   │   │   │   ├── 📄 EMD- 0607 -.pdf
+│   │   │   │   ├── 📄 Exercices.pdf
+│   │   │   │   ├── 📄 EMD- 09_10.pdf
+│   │   │   │   ├── 📄 Introduction-RdP.pdf
+│   │   │   │   ├── 📄 exo chariot.pdf
+│   │   │   │   ├── 📄 EXERCICE-pizza.pdf
+│   │   │   │   ├── 📄 EMD blanc 1 AR 2013-2014 11.pdf
+│   │   │   │   ├── 📁 examens rdp/
+│   │   │   │   │   ├── 📄 EXERCICE-pizza.pdf
+│   │   │   │   │   ├── 📄 3917_738082589658921_4776550794785508506_n.jpg
+│   │   │   │   │   ├── 📄 RDP.pdf
+│   │   │   │   │   ├── 📄 1931295_738082532992260_1980718535443975990_n.jpg
+│   │   │   │   │   ├── 📄 12247160_906426366116862_9140768726587348200_n.jpg
+│   │   │   │   │   ├── 📄 12508833_736562806477566_3024724257915420061_n.jpg
+│   │   │   │   │   ├── 📄 12278738_906426319450200_7716785091377374053_n.jpg
+│   │   │   │   │   ├── 📄 12246643_906426359450196_461201345247748268_n.jpg
+│   │   │   │   │   ├── 📄 11036753_906426309450201_3913650993317786540_n.jpg
+│   │   │   │   │   └── 📄 12241256_906426312783534_8280842034706010391_n.jpg
+│   │   │   │   └── 📁 cour mme saadia/
+│   │   │   │       ├── 📁 examen/
+│   │   │   │       │   ├── 📄 EMD1 04-05.doc
+│   │   │   │       │   ├── 📄 exos-g7.pdf
+│   │   │   │       │   ├── 📄 Photo 027.jpg
+│   │   │   │       │   ├── 📄 Photo 028.jpg
+│   │   │   │       │   ├── 📄 G7-ex6 Machine-rainur.pdf
+│   │   │   │       │   ├── 📄 EMD blanc 1 AR 2013-2014.pdf
+│   │   │   │       │   ├── 📄 4.jpg
+│   │   │   │       │   ├── 📄 12511994_10207238499019296_1350227691_n.jpg
+│   │   │   │       │   ├── 📄 12321121_10203953472557580_3699300959355373634_n.jpg
+│   │   │   │       │   ├── 📄 12511698_10207383954309222_1613749803_n.jpg
+│   │   │   │       │   ├── 📄 12313647_10203953471917564_6008164333859953171_n.jpg
+│   │   │   │       │   ├── 📄 12506849_10207238497179250_765463943_n.jpg
+│   │   │   │       │   ├── 📄 12506630_10207383948909087_520831817_n.jpg
+│   │   │   │       │   ├── 📁 2009-2010/
+│   │   │   │       │   │   ├── 📄 20151112_080814.jpg
+│   │   │   │       │   │   ├── 📄 20151112_080808.jpg
+│   │   │   │       │   │   ├── 📄 EMD-09_10.pdf
+│   │   │   │       │   │   └── 📁 taiky/
+│   │   │   │       │   │       ├── 📄 03.jpg
+│   │   │   │       │   │       ├── 📄 02.jpg
+│   │   │   │       │   │       └── 📄 01.jpg
+│   │   │   │       │   ├── 📁 2013-2014/
+│   │   │   │       │   │   ├── 📄 EMD BLANC_2 AR  20013-2014.pdf
+│   │   │   │       │   │   ├── 📄 12369252_10203953471757560_5669553954501213244_n.jpg
+│   │   │   │       │   │   ├── 📄 12341591_10203953472117569_8959088903785719572_n.jpg
+│   │   │   │       │   │   └── 📁 2013-2014/
+│   │   │   │       │   │       ├── 📄 4.jpg
+│   │   │   │       │   │       ├── 📄 3.jpg
+│   │   │   │       │   │       ├── 📄 2.jpg
+│   │   │   │       │   │       ├── 📄 1.jpg
+│   │   │   │       │   │       └── 📄 EMD-BLANC-1-AIP-20013-2014.pdf
+│   │   │   │       │   ├── 📁 2006-2007/
+│   │   │   │       │   │   ├── 📄 2.jpg
+│   │   │   │       │   │   ├── 📄 1.jpg
+│   │   │   │       │   │   └── 📄 EMD-0607-.pdf
+│   │   │   │       │   ├── 📁 2008-2009/
+│   │   │   │       │   │   └── 📄 EMD MA1 0809.doc
+│   │   │   │       │   ├── 📁 exam s1 2012-2013/
+│   │   │   │       │   │   ├── 📄 IMG20130121_003.jpg
+│   │   │   │       │   │   ├── 📄 IMG20130121_005.jpg
+│   │   │   │       │   │   ├── 📄 IMG20130121_004.jpg
+│   │   │   │       │   │   ├── 📄 IMG20130121_002.jpg
+│   │   │   │       │   │   └── 📄 IMG20130121_001.jpg
+│   │   │   │       │   └── 📁 Nouveau dossier/
+│   │   │   │       │       ├── 📄 exo3.pdf
+│   │   │   │       │       ├── 📄 exo4.pdf
+│   │   │   │       │       ├── 📄 exo5.pdf
+│   │   │   │       │       ├── 📄 exo2.pdf
+│   │   │   │       │       └── 📄 exo1.pdf
+│   │   │   │       └── 📁 exo RDP/
+│   │   │   │           └── 📁 exo/
+│   │   │   │               ├── 📄 c1_enligne Petri.pdf
+│   │   │   │               ├── 📄 chapitre4_rdp.pdf
+│   │   │   │               ├── 📄 TD_RDP_2007.pdf
+│   │   │   │               ├── 📄 Petri.pdf
+│   │   │   │               ├── 📄 RDP.pdf
+│   │   │   │               ├── 📄 Exercices.pdf
+│   │   │   │               ├── 📄 EXERCICE-pizza.pdf
+│   │   │   │               ├── 📄 ex3 Petri.pdf
+│   │   │   │               └── 📄 ASP_TD1_sujet.pdf
+│   │   │   ├── 📁 td2/
+│   │   │   │   ├── 📄 18787929_1883069151934811_1099253332_n.jpg
+│   │   │   │   ├── 📄 18741683_985749348265190_1531246119_n.jpg
+│   │   │   │   ├── 📄 18741383_985748788265246_249371526_n.jpg
+│   │   │   │   ├── 📄 18718412_985747938265331_1141696232_n.jpg
+│   │   │   │   ├── 📄 18762714_1883069181934808_1645791841_n.jpg
+│   │   │   │   ├── 📄 18718602_1883069171934809_839260108_n.jpg
+│   │   │   │   └── 📄 18741181_985746651598793_350223030_n.jpg
+│   │   │   └── 📁 cour/
+│   │   │       ├── 📄 7.jpg
+│   │   │       ├── 📄 9.jpg
+│   │   │       ├── 📄 6.jpg
+│   │   │       ├── 📄 systeme-automatises-de-production-45-638.jpg
+│   │   │       ├── 📄 8.jpg
+│   │   │       ├── 📄 14.jpg
+│   │   │       ├── 📄 4.jpg
+│   │   │       ├── 📄 5.jpg
+│   │   │       ├── 📄 3.jpg
+│   │   │       ├── 📄 13.jpg
+│   │   │       ├── 📄 2.jpg
+│   │   │       ├── 📄 15.jpg
+│   │   │       ├── 📄 12.jpg
+│   │   │       ├── 📄 11.jpg
+│   │   │       ├── 📄 10.jpg
+│   │   │       └── 📄 1.jpg
+│   │   ├── 📁 td api/
+│   │   │   ├── 📄 TD_2_LE_GRAFCET.docx
+│   │   │   ├── 📄 TD1 API1.docx
+│   │   │   ├── 📄 TD1 API1 (1).docx
+│   │   │   ├── 📄 Annotation 2019-01-03 130200.jpg
+│   │   │   ├── 📄 Annotation 2019-01-02 151404.jpg
+│   │   │   ├── 📄 Exo 5_TD2.docx
+│   │   │   ├── 📄 49461846_294214787965782_6232339331403481088_n.jpg
+│   │   │   ├── 📄 48411683_516018068911435_450002926400700416_n.jpg
+│   │   │   └── 📄 49022245_586342171818438_4248295990928343040_n.jpg
+│   │   └── 📁 2/
+│   │       ├── 📄 Cous_4_API_Grafcet.ppt
+│   │       ├── 📄 Cous_4_API_Grafcet.pdf
+│   │       ├── 📄 Cours_3_API.pdf
+│   │       ├── 📄 TD_2_LE_GRAFCET.pdf
+│   │       ├── 📄 Cours_3_API.html
+│   │       ├── 📄 Cours_2_API.pdf
+│   │       ├── 📄 TD_2_LE_GRAFCET.docx
+│   │       ├── 📄 Cours_1_API.pdf
+│   │       ├── 📄 TD1 API1.pdf
+│   │       ├── 📄 api-presentation.docx
+│   │       ├── 📄 TD1 API1.docx
+│   │       └── 📄 api-presentation-1.docx
+│   └── 📁 td salima/
+│       ├── 📄 80515493_820993388345531_4987926566601228288_n.jpg
+│       ├── 📄 79993680_2636214333135079_1796910945373519872_n.jpg
+│       ├── 📄 79326622_440436216635725_8290145763070050304_n.jpg
+│       ├── 📄 80083800_558962308290994_8817973449629630464_n.jpg
+│       ├── 📄 79975131_489768004985374_2314426187822137344_n.jpg
+│       ├── 📄 78056235_494955884475287_7751763795675971584_n.jpg
+│       ├── 📄 74236009_444500936240371_7617923071315279872_n.jpg
+│       ├── 📄 76918408_2484173571871821_6444025736708751360_n.jpg
+│       └── 📄 79027178_454489471879990_933619413616164864_n.jpg
+└── 📁 tds/
+    ├── 📄 EF2017_corrigé.pdf
+    ├── 📄 EF2017.pdf
+    ├── 📄 EF2018_corrigé.pdf
+    └── 📄 EF2018.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Automate programmable industriel
+═════════════════════════════════════

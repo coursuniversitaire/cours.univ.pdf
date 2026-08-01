@@ -1,0 +1,94 @@
+📚 MODULE : Bus de communications et réseaux industriels
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Bus de communications et réseaux industriels.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Bus de communications et réseaux industriels/
+├── 📄 Programme_Bus de communications et réseaux industriels.pdf
+├── 📁 exercices corrigés/
+│   ├── 📄 Série_1_corrigé_1.pdf
+│   ├── 📄 Série_1_corrigé_2.pdf
+│   ├── 📄 Série_1_Bus_de_terrain_AS-i.pdf
+│   ├── 📄 Série_2_corrigé.pdf
+│   └── 📄 Série_2_Bus_CAN.pdf
+├── 📁 examens/
+│   ├── 📄 EF2018.pdf
+│   ├── 📄 EF2017 corrigé.pdf
+│   ├── 📄 EF2017Rat.pdf
+│   └── 📄 EF2017.pdf
+├── 📁 TP/
+│   ├── 📄 Programme_TP Bus de communications et réseaux industriels.pdf
+│   ├── 📁 TP2/
+│   │   ├── 📄 Compte rendu.pdf
+│   │   ├── 📄 Auto TP2 ASI 2018.pdf
+│   │   ├── 📄 Ampli op.pdf
+│   │   ├── 📁 Partie 1/
+│   │   │   ├── 📄 q4.JPG
+│   │   │   ├── 📄 q4 ANALOGUE ANALYSIS.jpg
+│   │   │   ├── 📄 q3 ANALOGUE ANALYSIS.jpg
+│   │   │   ├── 📄 q1 DIGITAL ANALYSIS.JPG
+│   │   │   ├── 📄 q3.JPG
+│   │   │   ├── 📄 Partie 1 Question 3.pdsprj
+│   │   │   ├── 📄 Partie 1 Question 4.pdsprj
+│   │   │   └── 📄 Partie 1.pdsprj
+│   │   └── 📁 Partie 2/
+│   │       ├── 📄 integ.JPG
+│   │       ├── 📄 s2 ou tx.JPG
+│   │       ├── 📄 filt.JPG
+│   │       └── 📄 1.JPG
+│   └── 📁 TP1/
+│       ├── 📄 Chrono_RS232.zip
+│       ├── 📄 auto TP1 2017.pdf
+│       ├── 📁 Application 1/
+│       │   └── 📄 app1.pdsprj
+│       └── 📁 Application 2/
+│           └── 📄 app2.pdsprj
+└── 📁 cours/
+    ├── 📁 Cours3_Bus_de_terrain_AS-i/
+    │   ├── 📄 Bus_de_terrain.pdf
+    │   ├── 📄 AS-i_esclave.ppt
+    │   ├── 📄 5# AS-i_esclave.ppt
+    │   ├── 📄 4# Bus_de_terrain.pdf
+    │   ├── 📄 cours_RES_4_ASI.pdf
+    │   └── 📄 asi.pdf
+    ├── 📁 Cours1_Transmission_serie_parallele/
+    │   ├── 📄 Liaison_serie_RS232.pptx
+    │   ├── 📄 cours_transmission_de_linformation.pdf
+    │   ├── 📄 cours-transmission-serie.pdf
+    │   ├── 📄 Transmission_serie_parallele.pdf
+    │   ├── 📄 Liaisons.pdf
+    │   ├── 📄 3# LES_CODAGES_de_TRANSMISSIONS.pdf
+    │   ├── 📄 Codages NRZ NRZI Manchester.pdf
+    │   ├── 📄 2# Liaisons_serie_et_parallele.pdf
+    │   └── 📄 1# Transmissions_serie_et_parallele.pdf
+    ├── 📁 Cours4_Bus_CAN/
+    │   ├── 📄 Cours_Bus_CAN.pdf
+    │   ├── 📄 Cours-Bus-CAN.pdf
+    │   ├── 📄 1-BusCAN-Trame.ppt
+    │   ├── 📄 bus-can.doc
+    │   ├── 📄 controle-crc.pdf
+    │   ├── 📄 canbus_enseirb.pdf
+    │   └── 📁 CRC/
+    │       ├── 📄 tx5x-rosener-controle-crc (1).pdf
+    │       └── 📄 digcomm05f.pdf
+    └── 📁 Cours2_Codage_des_transmissions_numériques_en_bande_de_base/
+        ├── 📄 Codages NRZ NRZI Manchester.pdf
+        ├── 📄 cours-transmission-serie.pdf
+        ├── 📄 LiaisonsSP.pdf
+        ├── 📄 Codage_num.pdf
+        ├── 📄 asynch_serial.pdf
+        └── 📄 Codages_transmissions.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Bus de communications et réseaux industriels
+═════════════════════════════════════

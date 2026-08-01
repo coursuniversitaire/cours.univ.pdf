@@ -1,0 +1,42 @@
+📚 MODULE : CEM Compatibilité Electromagnétique       
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module CEM Compatibilité Electromagnétique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 CEM Compatibilité Electromagnétique/
+├── 📁 Cours CEM/
+│   ├── 📄 CoursCEM1.pdf
+│   ├── 📄 CoursCEM6.pdf
+│   ├── 📄 CoursCEM5.pdf
+│   ├── 📄 CoursCEM4.pdf
+│   ├── 📄 CoursCEM3.pdf
+│   └── 📄 CoursCEM2.pdf
+└── 📁 TD CEM/
+    ├── 📄 Série3.pdf
+    ├── 📄 Série2.pdf
+    ├── 📄 Série2_SOLUTION.pdf
+    ├── 📄 Série3_SOLUTION.pdf
+    ├── 📄 Série1_SOLUTION.pdf
+    ├── 📄 Série1.pdf
+    └── 📁 TD CEM-20210603T163004Z-001/
+        └── 📁 TD CEM/
+            ├── 📄 Série3.pdf
+            ├── 📄 Série2.pdf
+            ├── 📄 Série2_SOLUTION.pdf
+            ├── 📄 Série3_SOLUTION.pdf
+            ├── 📄 Série1_SOLUTION.pdf
+            └── 📄 Série1.pdf
+
+═════════════════════════════════════
+  Fin du fichier · CEM Compatibilité Electromagnétique
+═════════════════════════════════════

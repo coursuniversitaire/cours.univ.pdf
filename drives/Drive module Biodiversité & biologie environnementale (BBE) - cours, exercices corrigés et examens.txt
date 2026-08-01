@@ -1,0 +1,579 @@
+📚 MODULE : Biodiversité & biologie environnementale (BBE)
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Biodiversité & biologie environnementale (BBE).
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Biodiversité & biologie environnementale (BBE)/
+└── 🔗📁 L2 BBE/  (raccourci)
+    ├── 📁 S4/
+    │   ├── 📁 démarche scientifique en eco evo/
+    │   │   ├── 📄 M3C.pdf
+    │   │   ├── 📄 TD1.pages
+    │   │   ├── 📄 L3BBE_DemSciEcoEvo_document_TDs.pdf
+    │   │   ├── 📁 cm/
+    │   │   │   ├── 📄 L2BBE_DemSciEcoEvo_CM_Diversification.pdf
+    │   │   │   ├── 📄 CM L2 BIOEVO.pdf
+    │   │   │   ├── 📄 CM  Intro structure genet  HW 2023.pdf
+    │   │   │   ├── 📄 CM3 Eco evo.pages
+    │   │   │   ├── 📄 methode-scientifique-L2-2022-2023_Pocheville.pdf
+    │   │   │   └── 📄 L2BBE_EcoEvo2023.pdf
+    │   │   └── 📁 2023-Documents-TPbiostats/
+    │   │       ├── 📄 L2DemSciEcoEvo-Protocole-Terrain-P.pdf
+    │   │       ├── 📄 L2BBE_KSVC4AG1_2022-23_poly_biostats_TP1-2_repro.pdf
+    │   │       ├── 📄 L2BBE_KSVC4AG1_2022-23_poly_biostats_TP1-2_repro copie.pdf
+    │   │       └── 📁 TP info/
+    │   │           ├── 📄 enntre.R
+    │   │           ├── 📄 cours1.R
+    │   │           ├── 📄 Graphique corrélation nb fleurs ligulées et tubulées.png
+    │   │           ├── 📄 cours1.knit.md
+    │   │           ├── 📄 donnees_paquerettes_2021.ods
+    │   │           ├── 📄 data.csv
+    │   │           └── 📁 2023_poly#2_paquerettes/
+    │   │               ├── 📄 script r.pages
+    │   │               ├── 📄 L2BBE_KSVC4AG1_2022-23_poly_biostats_TP3-4-5_repro_V2.pdf
+    │   │               └── 📄 paquerettes_2023.csv
+    │   ├── 📁 ecologie chimique/
+    │   │   ├── 📄 Exemple de questions QCM.pages
+    │   │   ├── 📄 Molécules à connaître.pages
+    │   │   ├── 📄 CM6.pdf
+    │   │   ├── 📄 2. Intéractions chimiques en milieu aquatique _ défenses.pages
+    │   │   ├── 📄 1. Définitions, principes et exemples.pages
+    │   │   ├── 📄 CM1.pdf
+    │   │   ├── 📄 CM3.pdf
+    │   │   ├── 📄 1. INTRODUCTION ECO CHIMI.pdf
+    │   │   ├── 📄 EcoChimi-dates CM-TD-TP-22-23.pages
+    │   │   ├── 📄 CM5.pdf
+    │   │   ├── 📄 CM4.pdf
+    │   │   ├── 📄 CM2.pdf
+    │   │   ├── 📁 td/
+    │   │   │   ├── 📄 CCM-HPLC.pdf
+    │   │   │   ├── 📄 TD cours.pages
+    │   │   │   ├── 📄 exo_poissons.pdf
+    │   │   │   └── 📄 exo synergie.pdf
+    │   │   └── 📁 TP/
+    │   │       ├── 📄 oraux TP .pages
+    │   │       ├── 📄 IMG_3717.PNG
+    │   │       ├── 📄 poly de TP HPLC + sujets oral-2023.pdf
+    │   │       ├── 📄 poly de TP extraction antibio-couplÃ© microbio.pdf
+    │   │       ├── 📄 topo TP antibio 2023.pdf
+    │   │       ├── 📄 TP oraux.pages
+    │   │       └── 📄 topo scene-Ã©tudiants.pdf
+    │   ├── 📁 écologie générale/
+    │   │   ├── 📄 PiegesArthropodesL2.pdf
+    │   │   ├── 📄 TP L2BOPE - Atelier aquatique 2022.pdf
+    │   │   ├── 📄 DOC-SORTIE ECOLOGIE-L2BOPE-moodle.pdf
+    │   │   ├── 📁 td/
+    │   │   │   ├── 📄 CorrigeÌ TD 1 Ecologie L2 BOPE .pdf
+    │   │   │   ├── 📄 TD N°1 Populations-communautés.pages
+    │   │   │   └── 📄 TD Fonct trophique 2023.pdf
+    │   │   ├── 📁 annales/
+    │   │   │   ├── 📄 erreurs annales.pages
+    │   │   │   ├── 📄 CorrectionCT12021EcolGenL2.pdf
+    │   │   │   ├── 📄 CT 2015 SS1 .pdf
+    │   │   │   ├── 📄 CT 2017 Sujet 2 SS1 .pdf
+    │   │   │   ├── 📄 CT 2017 Sujet 1 SS1 .pdf
+    │   │   │   ├── 📄 CT 2014 - Session 1 .pdf
+    │   │   │   ├── 📄 CT 2013 session 1 .pdf
+    │   │   │   ├── 📄 CT 2012 Session 2 .pdf
+    │   │   │   ├── 📄 CT 2012 session 1.pdf
+    │   │   │   ├── 📄 CT_Dynamique_des_pop.-_session_1.pages
+    │   │   │   ├── 📄 CT_2_mai_2010_Partie_L.pdf
+    │   │   │   ├── 📄 QCMAvril2009CORRIGE.pdf
+    │   │   │   ├── 📄 QCMAvril2009.pdf
+    │   │   │   ├── 📄 QCML2Ecol2011-CORRIG.pdf
+    │   │   │   ├── 📄 QCM_Ecol_L2_BOPE2013Corrige_.pdf
+    │   │   │   ├── 📄 examJuin2008bope.pdf
+    │   │   │   ├── 📄 examMAi2008bope.pdf
+    │   │   │   ├── 📄 examJuin2007bope.pdf
+    │   │   │   ├── 📄 Septembre_2006.pdf
+    │   │   │   ├── 📄 Juin_2005.pdf
+    │   │   │   └── 📄 CT session 1- corrigÃ© TP- QCM.pdf
+    │   │   └── 📁 CM/
+    │   │       ├── 📄 3. Dynamique des populations.pdf
+    │   │       ├── 📄 9. Pollution.pages
+    │   │       ├── 📄 8. Le changement climatique.pages
+    │   │       ├── 📄 7. Les énergies.pages
+    │   │       ├── 📄 CM11 CM Pollution 2023 M. Gerino .pdf
+    │   │       ├── 📄 CM 10 Changement climatique  2023 M. Gerino .pdf
+    │   │       ├── 📄 CM 9 Energie 2023 M. Gerino .pdf
+    │   │       ├── 📄 6. Les ressources.pages
+    │   │       ├── 📄 CM9 CM Ressources 2023 M. Gerino .pdf
+    │   │       ├── 📄 CM2 2023 Autoecologie .pdf
+    │   │       ├── 📄 5. Biomes et climatologie-2.pdf
+    │   │       ├── 📄 4. Communautés, biocénoses et cyles.pdf
+    │   │       ├── 📄 1. Introduction à l’écologie générale.pdf
+    │   │       ├── 📄 tableau intéractions .pages
+    │   │       ├── 📄 CM4.pdf
+    │   │       ├── 📄 CM3-Pop-dynamique des pop-2023-L2-1.pdf
+    │   │       ├── 📄 2.Autoécologie.pdf
+    │   │       ├── 📄 cours 1 Intro L2BOPE 2022-23.pdf
+    │   │       ├── 📄 Cours 7 Biome et Climat D. Kanievski.pdf
+    │   │       ├── 📄 Cours 1 et 2 L2Ecol2021LucLegal.pdf
+    │   │       └── 📄 Pop-dynamique des pop 2-2022-L2.pdf
+    │   ├── 📁 histoire de la vie et de la terre/
+    │   │   ├── 📄 Dates.pages
+    │   │   ├── 📄 CM-PRECAMB23.pdf
+    │   │   ├── 📄 4. Paléozoïque.pages
+    │   │   ├── 📄 3. Pré cambrien.pages
+    │   │   ├── 📄 2. CONCEPT DE LA BIODIVERSITÉ.pages
+    │   │   ├── 📄 1. Histoire de la vie et de la Terre.pages
+    │   │   ├── 📄 5. Mésozoique.pages
+    │   │   ├── 📄 6. Le cénozoïque.pages
+    │   │   ├── 📄 CM_PALEOZOIC copie.pdf
+    │   │   ├── 📄 CM Evolution PaleÌobiodiversiteÌ.pdf
+    │   │   ├── 📄 CM - MacroeÌvolution.pdf
+    │   │   ├── 📄 CM_CENOZOIQUE.pdf
+    │   │   ├── 📄 Mesozoique.pdf
+    │   │   └── 📁 td/
+    │   │       ├── 📄 TD PaleÌo-2017.pdf
+    │   │       ├── 📄 TD3.pages
+    │   │       ├── 📄 TD an dernier (2017).pages
+    │   │       ├── 📄 TD5.pages
+    │   │       ├── 📄 Td 4.pages
+    │   │       ├── 📄 TD N°2 de l’histoire de la vie et de la terre.pages
+    │   │       ├── 📄 TD N°1 Histoire de la vie de la Terre.pages
+    │   │       └── 📄 TD PaleÌo 2022.pdf
+    │   ├── 📁 Intro au comportement/
+    │   │   ├── 📄 CM7 Comportement social 2023.pdf
+    │   │   ├── 📄 CM4 OntogeneÌse introduction biologie du comportement 2022.pdf
+    │   │   ├── 📄 CM6.pages
+    │   │   ├── 📄 CM5-Infuence d'un stress précoce chez l'homme.pdf
+    │   │   ├── 📄 CM4 - Ontogenèse.pages
+    │   │   ├── 📄 CM7 intro comportement.pages
+    │   │   ├── 📄 CM8.pages
+    │   │   ├── 📄 CM1 Intro.pages
+    │   │   ├── 📄 CM8 PlasticitÃ© du Comportement - Martin Giurfa.pdf
+    │   │   ├── 📄 Introduction au comportement animal.pages
+    │   │   ├── 📄 CM2 SystÃ¨mes sensoriels, cerveau et comportement.pdf
+    │   │   ├── 📄 CM1-Intro biol comport animal L2 2023.pdf
+    │   │   ├── 📄 CP_2023_corrigÃ©.pdf
+    │   │   ├── 📄 CM 6 Causes ultimes du comportement.pdf
+    │   │   ├── 📄 CM brouillon.pages
+    │   │   ├── 📄 CM1-Introduction générale.pages
+    │   │   ├── 📄 CM3 Hormones et Comportement.pdf
+    │   │   ├── 📄 CM2-Systèmes sensoriels, cerveau et comportement.pages
+    │   │   ├── 📁 td/
+    │   │   │   ├── 📄 TD.pages
+    │   │   │   ├── 📄 TD - GÃ©nÃ©tique du Comportement --2023.pdf
+    │   │   │   ├── 📄 TD2.pdf
+    │   │   │   ├── 📄 Questions sur texte Holekamp.pdf
+    │   │   │   └── 📄 Holekamp  Sherman dispersal male squirrels Sci Am 1989.pdf
+    │   │   └── 📁 TP/
+    │   │       ├── 📄 TP1 diapo.pdf
+    │   │       └── 📄 TP Phototaxie.pdf
+    │   ├── 📁 microbiologie générale/
+    │   │   ├── 📄 A savoir.pages
+    │   │   ├── 📁 annale/
+    │   │   │   ├── 📄 CC1.HEIC
+    │   │   │   ├── 📄 CC3.HEIC
+    │   │   │   ├── 📄 CC2.HEIC
+    │   │   │   ├── 📄 Microbio CT 2017.pdf BCP.pdf
+    │   │   │   ├── 📄 Microbio CC 2017.pdf
+    │   │   │   ├── 📄 Microbio CC 2018 (2).jpg
+    │   │   │   ├── 📄 Correction CT 2022.pdf
+    │   │   │   ├── 📄 CT 2022.pdf
+    │   │   │   └── 📁 ANNALES BCP/
+    │   │   │       ├── 📄 CP 2020.pdf
+    │   │   │       ├── 📄 CP 2019.pdf
+    │   │   │       ├── 📄 CP 2021.pdf
+    │   │   │       ├── 📄 CP 2022.pdf
+    │   │   │       ├── 📄 CT 2017.pdf
+    │   │   │       ├── 📄 CP 2017 page 3.jpg
+    │   │   │       ├── 📄 CP 2017 page 2.jpg
+    │   │   │       └── 📄 CP 2017 page 1.jpg
+    │   │   ├── 📁 CM/
+    │   │   │   ├── 📄 5. Metabolisme énergétique des MO.pages
+    │   │   │   ├── 📄 4.Les autres microorganismes.pages
+    │   │   │   ├── 📄 4'. Les autres micro-organismes EUCARYOTES.pages
+    │   │   │   ├── 📄 Agro nutrition.pages
+    │   │   │   ├── 📄 3. La cellule bactérienne.pages
+    │   │   │   ├── 📄 2. Croissance et contrôle des microorganismes.pages
+    │   │   │   ├── 📄 Cours 2 2023.pdf
+    │   │   │   ├── 📄 Cours 1 2023.pdf
+    │   │   │   ├── 📄 1. Microbiologie générale.pages
+    │   │   │   ├── 📄 Le mÃ©tabolisme Ã©nergÃ©tique 2022.pdf
+    │   │   │   ├── 📄 cours L2  les eucaryotes 2022.pdf
+    │   │   │   ├── 📄 cours L2 archÃ©es 2022.pdf
+    │   │   │   ├── 📄 Cours 4 2022 Moodle.pdf
+    │   │   │   └── 📄 Cours 3 2022 Moodle.pdf
+    │   │   └── 📁 TD/
+    │   │       ├── 📄 Exercice 12.pdf
+    │   │       ├── 📄 CorrEx11-2023.pdf
+    │   │       ├── 📄 0. TDs.pages
+    │   │       ├── 📄 Poly 2022.pdf
+    │   │       └── 📄 Corrections ex nÂ° 6, 8, 10, 11 et 12.pdf
+    │   └── 📁 Phy V/
+    │       ├── 📄 cycle de calvin.HEIC
+    │       ├── 📄 schémas a connaitre.pages
+    │       ├── 📄 9e59752a-1ddf-4ad3-b8ab-a752505509a9.JPG
+    │       ├── 📄 ffdf41df-205b-4f8d-b309-e23b06943742.JPG
+    │       ├── 📁 Annale/
+    │       │   ├── 📄 CT 2022.PNG
+    │       │   ├── 📄 Annale CT phyV.pdf
+    │       │   └── 📁 Annales /
+    │       │       ├── 📄 29BBC8DC-5AB1-401E-B9C4-98BC3B477037.jpg
+    │       │       ├── 📄 IMG_0198.HEIC
+    │       │       ├── 📄 IMG_0195.HEIC
+    │       │       ├── 📄 IMG_0202.HEIC
+    │       │       ├── 📄 IMG_0194.JPG
+    │       │       └── 📄 IMG_0193.JPG
+    │       ├── 📁 Td/
+    │       │   ├── 📄 TD 8.pages
+    │       │   ├── 📄 TD N°5 Ecophy v.pages
+    │       │   ├── 📄 TD N°4 Ecophy v.pages
+    │       │   ├── 📄 TD N°3 d'écophysiologie végétale.pages
+    │       │   ├── 📁 TD6/
+    │       │   │   ├── 📄 TD6.pages
+    │       │   │   ├── 📄 Walker et al 2006 PNAS Plant community responses to experimental warming.pdf
+    │       │   │   ├── 📄 Document à compléter.pptx
+    │       │   │   └── 📄 Gottfried et al. 2012 Nature Climate Change .pdf
+    │       │   ├── 📁 TD7/
+    │       │   │   ├── 📄 TD 7 _ The worldwide leaf economics spectrum.pages
+    │       │   │   ├── 📄 Document Ã  complÃ©ter-4.key
+    │       │   │   └── 📄 Wright et al (2004) Nature.pdf
+    │       │   ├── 📁 TD1/
+    │       │   │   ├── 📄 2. CONCEPT DE LA BIODIVERSITÉ.pdf
+    │       │   │   ├── 📄 TD N°1 Ecophysiologie végétale.pages
+    │       │   │   ├── 📄 Document PWP Ã  complÃ©ter.key
+    │       │   │   └── 📄 Document Ã  analyser .pdf
+    │       │   └── 📁 TD2/
+    │       │       ├── 📄 TD2_ Impacts des dépôts atmosphériques azotés sur la biodiversité la structure et le fonctionnement des écosystèmes.pages
+    │       │       ├── 📄 td2.key
+    │       │       └── 📄 Document Ã  Ã©tudier .pdf
+    │       └── 📁 CM/
+    │           ├── 📄 2. Nutrition minérale _ fonction de la racine.pages
+    │           ├── 📄 Nutrition minérale diapo.pdf
+    │           ├── 📄 Les différents cycles et modes d'assimilation.pages
+    │           ├── 📄 1. Nutrition et photosynthèse.pages
+    │           └── 📄 photosynthèse L2 BOPEdiapo.pdf
+    └── 📁 S3/
+        ├── 📁 génétique moléculaire/
+        │   ├── 📄 CM L2BBE Ã  savoir.pages
+        │   ├── 📄 Document sans titre-7.pages
+        │   ├── 📁 td/
+        │   │   ├── 📄 correction des exercices de reÌvision.pdf
+        │   │   ├── 📄 exercices de reÌvision.pdf
+        │   │   ├── 📄 L2BBE-GM2-TD4-COMPLET CORRECTION.pdf
+        │   │   ├── 📄 L2BBE-GM2-TD4-partie genet corrigeÌ.pdf
+        │   │   ├── 📄 L2-BBE-GM2-TD3_corrige.pdf
+        │   │   ├── 📄 L2BBE-GM2-TD4-doc.pdf
+        │   │   ├── 📄 L2-BBE-GM2-TD3_corrigÃ© PARTIES I II.pages
+        │   │   ├── 📄 L2-BBE-GM2-TD2 CORRIGE.pages
+        │   │   ├── 📄 L2-BBE-GM2-TD1-CorrigeÌ.pdf
+        │   │   ├── 📄 QCM 1 MOODLE.pages
+        │   │   ├── 📄 QCM CP corrigé 2021.pages
+        │   │   ├── 📄 EXAMEN CC L2BOPE2021.pages
+        │   │   ├── 📄 QCM TD semaine 45 version Moodle.pages
+        │   │   ├── 📄 ANTI THROMB 2021 CORRECTION 2021.pdf
+        │   │   ├── 📄 CORRECTION CT JANVIER 2022.pdf
+        │   │   └── 📁 S1/
+        │   │       ├── 📄 TD5-L2BBE-GM1-corrigeÌ.pdf
+        │   │       ├── 📄 TD8-L2BBE-GM1-CorrigeÌ.pdf
+        │   │       ├── 📄 TD7-L2BBE-corrigeÌ.pdf
+        │   │       ├── 📄 TD6-L2BBE-GM1-BM2-CORRECTION.pdf
+        │   │       ├── 📄 TD1b_PCR CLONAGE CORRECTION.pages
+        │   │       ├── 📄 TD-L2BOPE-SVTE-2021.pdf
+        │   │       ├── 📄 TD3-L2BBE-GM1-corrigeÌ.pdf
+        │   │       ├── 📄 TD2-L2BBE-GM1-CorrigeÌ.pdf
+        │   │       └── 📄 TD1-L2BBE-GM1-CorrigeÌ.pdf
+        │   ├── 📁 tp/
+        │   │   ├── 📄 L2-BBE-GM2-TP-PROTOC-ETUDIANT.pages
+        │   │   └── 📄 ANALYSE  TP GM2 2023.pages
+        │   └── 📁 cours/
+        │       ├── 📄 L2BB2-CM BM-OGM.pdf
+        │       ├── 📄 3. NOTION D'INDÉPENDANCE ET DE LIAISON GÉNÉTIQUE, DE DISTANCE GÉNÉTIQUE.pdf
+        │       ├── 📄 CM L2BBE STRUCTURE GENOME FINAL.pdf
+        │       ├── 📄 L2BBE-CM NGS 2023 final.pdf
+        │       ├── 📄 L2BBE-GM2-CM_GeÌneÌtique.pdf
+        │       └── 📁 S1/
+        │           ├── 📄 CM_MOOC BM _ 2L2BBE 2022 FINAL.key
+        │           ├── 📁 génétique/
+        │           │   ├── 📄 Fiche génétique.pages
+        │           │   ├── 📄 L2BBE-GM1-CM_GeÌneÌtique.pdf
+        │           │   └── 📄 1GENET- COURS N°1 - Rappel_mutations.pdf
+        │           └── 📁 biomol/
+        │               ├── 📄 TRADUCTION.pages
+        │               ├── 📄 BML2BOPE CM2+SON CLONAGE.key
+        │               ├── 📄 BML2BOPE CM2 CLONAGE DOCs.key
+        │               ├── 📄 L1S2-CM3 CLONAGE_PRINCIPE.pdf
+        │               ├── 📄 L1S2-CM3 CLONAGE_OUTILS.pdf
+        │               ├── 📄 BML2BOPE CM2+SON BLOTS.key
+        │               ├── 📄 3. La transcription_ acteurs et regulation.pdf
+        │               ├── 📄 CM GM1 TRADUCTION.pdf
+        │               ├── 📄 CM1b GM1 MODIF POST TRANS 2022 16_9.pdf
+        │               ├── 📄 Suite transcription eucaryotes.pages
+        │               ├── 📄 3. LA TRANSCRIPTION_ acteurs et régulation.pages
+        │               ├── 📄 CM1a GENET MOLEC TRANSCRIP EUC 2022.pdf
+        │               └── 📄 CM1b GENET MOLEC MODIF POST TRANS 2022.pdf
+        ├── 📁 biologie animale/
+        │   ├── 📄 Manuel utilisation applications RA.pdf
+        │   ├── 📄 Tuto places MusÃ©um.pdf
+        │   ├── 📁 tp/
+        │   │   ├── 📄 crânes - copie.JPG
+        │   │   ├── 📄 crânes.JPG
+        │   │   ├── 📄 09a70c2f-d782-4017-9f90-dab93fe3c850 - copie.jpg
+        │   │   ├── 📄 IMG_2872.HEIC
+        │   │   ├── 📄 IMG_2871.HEIC
+        │   │   ├── 📄 IMG_2870.HEIC
+        │   │   ├── 📄 IMG_2869.HEIC
+        │   │   ├── 📄 b92c8838-7370-4e09-a11a-ec37b573aad5.jpg
+        │   │   ├── 📄 09a70c2f-d782-4017-9f90-dab93fe3c850.jpg
+        │   │   └── 📄 TP coeur BOPE complet[Compatibility Mode].pdf
+        │   ├── 📁 td/
+        │   │   ├── 📄 TD2 Encephales_2021_etudiant.pdf
+        │   │   ├── 📄 Exercice supplÃ©mentaire TD1 Anatomie comparÃ©e sujet. docx.pages
+        │   │   ├── 📄 Exercice supplÃ©mentaire TD1 Anatomie comparÃ©e corrigÃ©.pages
+        │   │   └── 📄 ppt TD1 20201-version Ã©tudiants.pdf
+        │   ├── 📁 cours/
+        │   │   ├── 📄 Cours_BA_L2_2022_Alexandre RIBERON.pdf
+        │   │   ├── 📄 2. schéma crane vue latérale.PNG
+        │   │   ├── 📄 1. APPAREIL URO-GÉNITAL.pdf
+        │   │   ├── 📄 2. schéma crane vue palatine.PNG
+        │   │   ├── 📄 APPAREIL CIRCULATOIRE.pdf
+        │   │   ├── 📄 2. Système nerveux(1).pdf
+        │   │   ├── 📄 5BA - COURS N°5 - Squelette appendiculaire .pdf
+        │   │   ├── 📄 cours4-membres 2014-15_2.pdf
+        │   │   ├── 📄 4BA - COURS N°4 - Squelette axial.pdf
+        │   │   ├── 📄 cours3-s axial+ceintures_moodle.pdf
+        │   │   ├── 📄 2 TABLEAU CRANE-2.pages
+        │   │   ├── 📄 1 frise anat.pdf
+        │   │   ├── 📄 1BA - COURS N°1 et 2 - Le squelette.pdf
+        │   │   ├── 📄 cours2-crane_partII_2022.pdf
+        │   │   ├── 📄 cours2-crane_partI-2022.pdf
+        │   │   └── 📄 cours1-intro-2022-23.pdf
+        │   └── 📁 annales/
+        │       ├── 📄 1.jpg
+        │       ├── 📄 5.jpg
+        │       ├── 📄 4.jpg
+        │       ├── 📄 3.jpg
+        │       └── 📄 2.jpg
+        ├── 📁 dev végétal/
+        │   ├── 📁 Annales /
+        │   │   ├── 📄 qccm.PNG
+        │   │   ├── 📄 CT Mai 2018.pdf
+        │   │   ├── 📄 qcm.PNG
+        │   │   ├── 📄 IMG_0908.PNG
+        │   │   ├── 📄 QCM bdv (fait par moi).pages
+        │   │   ├── 📄 IMG_0909.PNG
+        │   │   └── 📄 IMG_0910.PNG
+        │   ├── 📁 cours/
+        │   │   ├── 📄 Fruits 1.pages
+        │   │   ├── 📄 L2_Fruit + Seeds_Hua_.pdf
+        │   │   ├── 📄 7BDV - COURS N°7 - Fruits 2.pdf
+        │   │   ├── 📄 3. La fécondation.pdf
+        │   │   ├── 📄 Fascicule BEE-2022_maj.pdf
+        │   │   ├── 📄 2. La floraison.pdf
+        │   │   ├── 📄 HORMONES ET GENES.pages
+        │   │   ├── 📄 1. Développement végétatif.pdf
+        │   │   └── 📄 @bee_Cours NÂ°1_gÃ©nÃ©ralitÃ©s_2022b.pdf
+        │   ├── 📁 tp/
+        │   │   └── 📄 TPL2 BEE_S3.pdf
+        │   └── 📁 td/
+        │       └── 📄 Fascicule TD+TP L2 _Aldon.pdf
+        ├── 📁 diversité microbienne/
+        │   ├── 📁 annales/
+        │   │   ├── 📄 Diversité Microbienne (2013_2014).pages
+        │   │   ├── 📄 2018.pages
+        │   │   ├── 📄 2013.pages
+        │   │   ├── 📄 annale suite.JPG
+        │   │   ├── 📄 annale 3.JPG
+        │   │   └── 📄 annale.JPG
+        │   ├── 📁 td/
+        │   │   ├── 📄 Diversité Microbienne (2013_2014)-2.pages
+        │   │   ├── 📄 Fiche TD.pages
+        │   │   ├── 📄 TD L2 BioDiv_corrigÃ©.pdf
+        │   │   ├── 📄 TD L2 BioDiv_2021.pdf
+        │   │   └── 📄 L2DivMic-2122-TD-Mycorh-Enonce.pdf
+        │   └── 📁 cours/
+        │       ├── 📄 L2-DivMicrob-Procaryotes-2223.pdf
+        │       ├── 📄 4. Approche moléculaire.pages
+        │       ├── 📄 L2-DivMicrob-Procaryotes-Poly.pdf
+        │       ├── 📄 CM 3 MO semblables champis.pdf
+        │       ├── 📄 L2-DivMicrob-Champi-2223-C.pdf
+        │       ├── 📄 Document sans titre-5.pages
+        │       ├── 📄 CM2 DIV M_ LES CHAMPIGNONS.pdf
+        │       ├── 📄 L2-DivMicrob-Champi-2223-A.pdf
+        │       ├── 📄 L2-DivMicrob-Champi-2223-B.pdf
+        │       ├── 📄 CM-HG-DivMicrob-2223-Poly.pdf
+        │       ├── 📄 CM1 Diversité microbienne.pdf
+        │       ├── 📄 1. Unicellulaire hétérotrophe.pages
+        │       ├── 📄 L2-DivMicrob-MyxoPlasmoLabOo-2122-B.pdf
+        │       ├── 📄 L2-DivMicrob-MyxoPlasmoLabOo-2122-A.pdf
+        │       └── 📄 DivMicLTH.pdf
+        ├── 📁 diversité végétale/
+        │   ├── 📁 cours/
+        │   │   ├── 📄 cycles poly.pdf
+        │   │   ├── 📄 3. Anatomie végétale.pdf
+        │   │   ├── 📄 2. Les embryophytes.pdf
+        │   │   ├── 📄 fruits poly2.pdf
+        │   │   ├── 📄 Les Algues - part 3.pdf
+        │   │   ├── 📄 caractÃ¨res non-angios poly.pdf
+        │   │   ├── 📄 CLADO-PLANTES.pdf
+        │   │   ├── 📄 2BV -COURS N° 2 - Les cycles chez les algues.pdf
+        │   │   └── 📄 1BV - COURS N°1 - Algues 1-converti.docx.pdf
+        │   ├── 📁 qcm/
+        │   │   ├── 📄 annale 2021.JPG
+        │   │   ├── 📄 préparation bv.pdf
+        │   │   ├── 📄 QCMS diversité végatale.pages
+        │   │   ├── 📄 QUESTIONS DE BV.pdf
+        │   │   ├── 📄 biodiversitéS2.pdf
+        │   │   ├── 📄 Annales Bota.pages
+        │   │   ├── 📄 242873781_1024497471659261_5023111542252192639_n.jpg
+        │   │   ├── 📄 242872109_651203112516244_5730234039848785648_n.jpg
+        │   │   ├── 📄 sujet-correction_ct_2021_reponses_a_verifier_.pdf
+        │   │   ├── 📄 CORRIGE exam biodiv1 2020.pdf
+        │   │   └── 📄 Copie de Sujet CT Biodiversité Végétale 2021 SANS REPONSE .pdf
+        │   └── 📁 tp/
+        │       ├── 📄 TPS DIV VEG-2.pages
+        │       ├── 📄 corbeille à anthéridies.HEIC
+        │       ├── 📄 gamétophyte monylophyte.HEIC
+        │       ├── 📁 TP Plantes Ã  spores-20221007/
+        │       │   ├── 📄 spores Equisetum 2017_02.jpg
+        │       │   ├── 📄 spores Equisetum 2017_01.jpg
+        │       │   ├── 📄 sporange Equisetum 2017_01.jpg
+        │       │   ├── 📄 Monilophyte prothalle archegone 01.jpg
+        │       │   ├── 📄 Marchantiophyte_coupe thalle 2017_03.jpg
+        │       │   ├── 📄 Marchantiophyte_coupe thalle 2017_02.jpg
+        │       │   ├── 📄 Marchantiophyte_coupe corbeille 2017_01.jpg
+        │       │   ├── 📄 Marchantiophyte_coupe thalle 2017_01.jpg
+        │       │   ├── 📄 Marchantiophyte_archegoniophore_2017_02.jpg
+        │       │   ├── 📄 Marchantiophyte_archegoniophore_2017_03.jpg
+        │       │   ├── 📄 Marchantiophyte_2017_02.jpg
+        │       │   ├── 📄 Marchantiophyte_2017_01.jpg
+        │       │   ├── 📄 Marchantiophyte_archegoniophore_2017_01.jpg
+        │       │   ├── 📄 Leptosporange monilophytes_01.jpg
+        │       │   ├── 📄 Leptosporange monilophytes_03.jpg
+        │       │   ├── 📄 Leptosporange monilophytes_02.jpg
+        │       │   ├── 📄 Croissance sporophyte sur gametophyte Bryo_02.jpg
+        │       │   ├── 📄 Croissance sporophyte sur gametophyte Bryo_01.jpg
+        │       │   ├── 📄 Gametophyte bryophyte.jpg
+        │       │   ├── 📄 corbeille_archegone_2017_01.jpg
+        │       │   ├── 📄 corbeille propagule_2017-02.jpg
+        │       │   ├── 📄 corbeille_archegone_2017_02.jpg
+        │       │   ├── 📄 corbeille propagule_2017-01.jpg
+        │       │   ├── 📄 corbeille antheridie_2017-02.jpg
+        │       │   ├── 📄 corbeille antheridie_2017-01.jpg
+        │       │   ├── 📄 capsule bryophyte 04.jpg
+        │       │   ├── 📄 capsule bryophyte 03.jpg
+        │       │   ├── 📄 Bryo FEUILLE 02.jpg
+        │       │   ├── 📄 capsule bryophyte 02.jpg
+        │       │   ├── 📄 capsule bryophyte 01.jpg
+        │       │   └── 📄 Bryo FEUILLE 01.jpg
+        │       └── 📁 anat/
+        │           ├── 📄 coupe feuille monocot.HEIC
+        │           ├── 📄 coupe racine dycot.HEIC
+        │           ├── 📄 coupe racine monocot.HEIC
+        │           ├── 📄 coupe transversale tige monocot 3.HEIC
+        │           ├── 📄 coupe transversale feuille dycot.PNG
+        │           ├── 📄 coupe transversale tige de monocot.HEIC
+        │           ├── 📄 coupe transversale tige dycot 4.PNG
+        │           ├── 📄 coupes feuilles .HEIC
+        │           ├── 📄 coupe transversale tige dycot 3.HEIC
+        │           ├── 📄 coupe transversale tige dycot 2.HEIC
+        │           ├── 📄 coupe transversale tige dycot.HEIC
+        │           ├── 📄 coupe feuille dycot .heic
+        │           └── 📄 coupe transversale tige monocot 2.HEIC
+        ├── 📁 écophysio animale/
+        │   ├── 📄 METHODO analyse document Doc final 2016-1 corr VB+LC+ALC.pdf
+        │   ├── 📁 cours/
+        │   │   ├── 📄 Texte thermo 2020.pdf
+        │   │   ├── 📄 CM respi L2 BBE EcoPhyA 2022.pdf
+        │   │   ├── 📄 4.Thermophyisiologie.pages
+        │   │   ├── 📄 5.LOCOMOTION-2.pages
+        │   │   ├── 📄 Locomotion des vertÃ©brÃ©s L2 BOPE 2020.pdf
+        │   │   ├── 📄 Images thermo 2020.pdf
+        │   │   ├── 📄 Locomotion L2 BOPE 2020.pdf
+        │   │   ├── 📄 3.RESPIRATION-2.pages
+        │   │   ├── 📄 1.GESTION D'ÉNERGIE-2.pages
+        │   │   ├── 📄 2. La respiration.pdf
+        │   │   ├── 📄 1. OSMORÉGULATION CHEZ LES VERTÉBRES.pdf
+        │   │   ├── 📄 2 essentiel.pages
+        │   │   ├── 📄 Osmoregulation 2022-2023_partie 2.pdf
+        │   │   ├── 📄 Osmoregulation 2022-2023_Cours 1.pdf
+        │   │   └── 📄 CM Gestion energie-2022 moodle.pdf
+        │   ├── 📁 annale/
+        │   │   ├── 📄 2eme session juin 2019.pdf
+        │   │   ├── 📄 CT 2021 L2 BOPE.pdf
+        │   │   ├── 📄 CT 2019 L2 BOPE 1.pdf
+        │   │   ├── 📄 2eme session 2022.pdf
+        │   │   ├── 📄 656d8fc5-9873-4702-bf46-190e82249b58.JPG
+        │   │   ├── 📄 correction exo truite.JPG
+        │   │   ├── 📄 Respi  CT !!.png
+        │   │   ├── 📄 864753d5-a9bb-4808-8ddc-33f6204f7043.JPG
+        │   │   ├── 📄 IMG_3104.PNG
+        │   │   ├── 📄 IMG_3103.PNG
+        │   │   ├── 📄 IMG_3102.PNG
+        │   │   ├── 📄 IMG_3101.PNG
+        │   │   ├── 📄 IMG_3100.PNG
+        │   │   └── 📄 IMG_3099.PNG
+        │   └── 📁 td/
+        │       ├── 📄 TD 2 - Correction.pdf
+        │       ├── 📄 TD 1 - Correction.pdf
+        │       ├── 📄 TD EcoPhy-Respi 2022.pdf
+        │       ├── 📄 EcoPhyA osmo simplifiÃ© TD 2021-2022 bis.pdf
+        │       ├── 📄 EcoPhyA osmo simplifié TD 2021-2022 bis.pdf
+        │       ├── 📄 TD ecophy modif 2021.pdf
+        │       ├── 📄 TD ecophy modif 2020.pdf
+        │       └── 📄 TD EcoPhy-Respi 2021 - RÃ©ponses.pdf
+        ├── 📁 paléontologie/
+        │   ├── 📁 tp/
+        │   │   ├── 📄 Tableau de Paléo .pages
+        │   │   ├── 📄 TP 2 Organismes à deux valves.pdf
+        │   │   ├── 📄 Tableau dates .pages
+        │   │   ├── 📄 Cha TP 1 Paleontologie organismes bioconstructeurs.pages
+        │   │   ├── 📄 TP 5 Paleobotanique.pdf
+        │   │   ├── 📄 TP 4 Trilobites echinodermes graptolites.pdf
+        │   │   ├── 📄 TP 3 Les coquilles enroulées.pdf
+        │   │   └── 📄 Poly TP PaleÌo 2022-BBE.pdf
+        │   └── 📁 cours/
+        │       ├── 📄 CM5 - Arthro-Oursins-grapto 2022.pdf
+        │       ├── 📄 7. Paléobotanique.pdf
+        │       ├── 📄 CM4 - Mollusques.pdf
+        │       ├── 📄 2. CLASSIFICATION VIVANT ET MORT.pages
+        │       ├── 📄 cours palbot fossiles.pdf
+        │       ├── 📄 CM6. ORIGINE ET ÉVLOUTION DES CHORDÉS (1).pdf
+        │       ├── 📄 CM6 - VerteÌbreÌs.pdf
+        │       ├── 📄 5. Paléontologie des invertébrés.pdf
+        │       ├── 📄 CM4_ Les mollusques.pdf
+        │       ├── 📄 CM3. BIOCONSTRUCTEURS.pdf
+        │       ├── 📄 CM3 - Bioconstructeurs Brachio 2022.pdf
+        │       ├── 📄 2. La classification du vivant et du mort.pdf
+        │       ├── 📄 CM2 - Classification du vivant (AL Colombani).pdf
+        │       ├── 📄 1. Introduction et fossilisation .pdf
+        │       └── 📄 CM 1 - intro paleÌontologie.pdf
+        └── 📁 Traitement donné/
+            ├── 📁 cours/
+            │   └── 📄 formulaire_tdb.pdf
+            ├── 📁 annales/
+            │   ├── 📄 CT 2020 Part 3.png
+            │   ├── 📄 CT 2020 PART 2.png
+            │   ├── 📄 Sujet CT 2018_19 Session 1 - avec corrige.pdf
+            │   ├── 📄 CT 2020 part 1.png
+            │   ├── 📄 CC 2017 B.pages
+            │   ├── 📄 CC2017 A .pages
+            │   ├── 📄 TDB_CC_2019_sujetC.pdf
+            │   ├── 📄 TDB_CC_2019_sujetA.pdf
+            │   ├── 📄 L2 TDB CC 2016_17.pdf
+            │   ├── 📄 Correction du CC 2019_20 (sujets A et C).numbers
+            │   ├── 📄 CC_corrige_sujet B.pdf
+            │   ├── 📄 CC_corrige_sujet A.pdf
+            │   ├── 📄 CC 2014.pages
+            │   └── 📄 CC corrections 2014.pdf
+            └── 📁 td/
+                ├── 📄 TDB_CM_revision_CC.pdf
+                ├── 📄 reponses (1).ods
+                └── 📄 TD_tdb.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Biodiversité & biologie environnementale (BBE)
+═════════════════════════════════════

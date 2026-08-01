@@ -1,0 +1,589 @@
+📚 MODULE : Algèbre 2                                 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Algèbre 2.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Algèbre 2/
+├── 🔗📁 Algèbre 2 FST/  (raccourci)
+│   ├── 📁 Examens Corrigées/
+│   │   ├── 📄 Examen corrigé Algèbre SMPC2 Rattrapage 2013 2014-Algèbre 2
+│   │   ├── 📄 Examen Rattrapage MIP 124 FST Mohammedia 2014 2015-Algèbre 2
+│   │   ├── 📄 Examen Algèbre M124 MIP Janvier 2018-Algèbre 2
+│   │   ├── 📄 M124 Algèbre 2 Corrigé Examen Partiel 15 mars 2021
+│   │   ├── 📄 Examen Algèbre 2 DEUST MIP Module 124 Session Juin 2022
+│   │   ├── 📄 Examen Algèbre II FST Mohammedia 18 Janvier 2022-Algèbre 2
+│   │   ├── 📄 Examen Algèbre 2 DEUST MIP 2021 2022 (Module 124)
+│   │   ├── 📄 Examen Algèbre II FST Mohammedia Mai 2023-Algèbre 2
+│   │   ├── 📄 Examen Rattrapage MIP 124 FST Mohammedia 2014 2015-Algèbre 2
+│   │   ├── 📄 Exercices Algèbre Linéaire Suites Recurrentes Diagonalisation-Algèbre 2
+│   │   ├── 📄 Examen partiel corrigé Algèbre 2 Module M124 Problèmes
+│   │   ├── 📄 Partiel Corrigé Algèbre Linéaire Matrices Diagonalisation-Algèbre 2
+│   │   ├── 📄 Examen Algèbre 2 Université Mohammed V Maths 2014 2015
+│   │   ├── 📄 Corrigé Examen Rattrapage Algèbre 2012 2013 SMPC2
+│   │   ├── 📄 Examen corrigé Algèbre SMPC2 Rattrapage 2013 2014-Algèbre 2
+│   │   ├── 📄 Examen de rattrapage en algèbre linéaire 2012 2013-Algèbre 2
+│   │   ├── 📄 Examen Corrigé d'Algèbre Smpc S2 - Solutions Détaillées-Algèbre 2
+│   │   ├── 📄 Contrôles corrigés SMP SMC S2 Sciences Tome 2 2011 2012-Algèbre 2
+│   │   ├── 📄 Exercices Physique Maths Chimie 1er Cycle Universitaire-Algèbre 2
+│   │   ├── 📄 Algèbre II Examen Contrôle 1 Abdelmalek Essaâdi SMPC 2010 2011-Algèbre 2
+│   │   └── 📄 exam mai 2024
+│   ├── 📁 TD & Exercices/
+│   │   ├── 📄 Exercices corrigés Matrices et applications linéaires.pdf
+│   │   ├── 📄 Exercices corrigés - Diagonalisatio
+│   │   ├── 📄 TD 0: Exercices corrigés CALCUL MATRICIEL
+│   │   ├── 📄 TD 3 - Exercices corrigés Diagonalisation/ Trigonalisation
+│   │   ├── 📄 Fiche TD 3 : Exercices Diagonalisation.pdf
+│   │   ├── 📄 TD Espaces Vectoriels Familles Libres Sous Espaces-Algèbre 2
+│   │   ├── 📄 TD Applications linéaires matrices déterminants Pascal Lainé-Algèbre 2
+│   │   ├── 📄 exercices Algèbre 2 SMPC2 Série 1 Univ Chouaïb Doukkali 2013 2014
+│   │   ├── 📄 Matrices TD Exercices Corrigés sur le Calcul Matriciel-Algèbre 2
+│   │   └── 📄 Corrige de la fiche 2 - Déterminant (1).pdf
+│   └── 📁 Cours/
+│       ├── 📄 Cours algebre 2 by  goodprepa.pdf
+│       ├── 📄 Cours polyalgebre.pdf
+│       ├── 📄 Cours espacesys.pdf
+│       ├── 📄 Cours poly.pdf
+│       └── 📄 Cours Algebre 2 smpc s2 faculte des science .pdf
+├── 🔗📁 LIVRES_info_et_Math/  (raccourci)
+│   ├── 📄 Exos_MATHS.pdf
+│   ├── 📄 mathématique de MIP.pdf
+│   ├── 📁 INFO/
+│   │   ├── 📁 3D/
+│   │   │   ├── 📄 debutez_dans_la_3d_avec_blender.pdf
+│   │   │   ├── 📄 3D_Math_Primer_for_Graphics_and_Game_Development.pdf
+│   │   │   └── 📄 Une-map-avec-hammer.pdf
+│   │   ├── 📁 C/
+│   │   │   └── 📄 Dellanoy-C.-Exercices-en-Langage-C-Eyrolles-2007.pdf
+│   │   ├── 📁 ALGORITHMES/
+│   │   │   ├── 📄 Le leader de l_algorithmique.pdf
+│   │   │   ├── 📄 Vincent-Granet-Algorithmique-et-programmation-en-Java-4e-éd.-Cours-et-exercices-corrigés-Dunod-2014.pdf
+│   │   │   ├── 📄 Divay-M.-Algorithmes-et-structures-de-donnees-generiques_-Cours-et-exercices-corriges-en-langage-C-Dunod-2004-2.pdf
+│   │   │   └── 📄 Franck Lepoivre, Helen Kassel, Nicolas Flasque, Boris Velikson-Exercices et problèmes d_algorithmique-Dunod (2010).pdf
+│   │   ├── 📁 CODAGE DE L_INFORMATION/
+│   │   │   └── 📄 Codage de l_information.pdf
+│   │   ├── 📁 52 Livres (Anglais)/
+│   │   │   ├── 📄 Android [@Chicco Oussama].pdf
+│   │   │   ├── 📄 iOS [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Python [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Java [@Chicco Oussama].pdf
+│   │   │   ├── 📄 MongoDB [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Linux [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Algorithms [@Chicco Oussama].pdf
+│   │   │   ├── 📄 C ++ [@Chicco Oussama].pdf
+│   │   │   ├── 📄 SpringFramework [@Chicco Oussama].pdf
+│   │   │   ├── 📄 jQuery [@Chicco Oussama].pdf
+│   │   │   ├── 📄 PostgreSQL [@Chicco Oussama].pdf
+│   │   │   ├── 📄 EntityFramework [@Chicco Oussama].pdf
+│   │   │   ├── 📄 CSharp [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Hibernate [@Chicco Oussama].pdf
+│   │   │   ├── 📄 JavaScript [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Bash [@Chicco Oussama].pdf
+│   │   │   ├── 📄 LaTeX [@Chicco Oussama].pdf
+│   │   │   ├── 📄 CSS [@Chicco Oussama].pdf
+│   │   │   ├── 📄 C [@Chicco Oussama].pdf
+│   │   │   ├── 📄 DotNETFramework [@Chicco Oussama].pdf
+│   │   │   ├── 📄 AngularJS [@Chicco Oussama].pdf
+│   │   │   ├── 📄 GitNotes [@Chicco Oussama].pdf
+│   │   │   ├── 📄 ExcelVBA [@Chicco Oussama].pdf
+│   │   │   ├── 📄 PHP [@Chicco Oussama].pdf
+│   │   │   ├── 📄 HTML5 [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Haskell [@Chicco Oussama].pdf
+│   │   │   ├── 📄 HTML5Canvas [@Chicco Oussama].pdf
+│   │   │   ├── 📄 ReactNative [@Chicco Oussama].pdf
+│   │   │   ├── 📄 MicrosoftSQLServer [@Chicco Oussama].pdf
+│   │   │   ├── 📄 MATLAB [@Chicco Oussama].pdf
+│   │   │   ├── 📄 R [@Chicco Oussama].pdf
+│   │   │   ├── 📄 NodeJS [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Swift [@Chicco Oussama].pdf
+│   │   │   ├── 📄 VisualBasic_NET [@Chicco Oussama].pdf
+│   │   │   ├── 📄 ObjectiveC [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Kotlin [@Chicco Oussama].pdf
+│   │   │   ├── 📄 OracleDatabase [@Chicco Oussama].pdf
+│   │   │   ├── 📄 PowerShell [@Chicco Oussama].pdf
+│   │   │   ├── 📄 ReactJS [@Chicco Oussama].pdf
+│   │   │   ├── 📄 MySQL [@Chicco Oussama].pdf
+│   │   │   ├── 📄 XamarinForms [@Chicco Oussama].pdf
+│   │   │   ├── 📄 SQL [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Ruby [@Chicco Oussama].pdf
+│   │   │   ├── 📄 Perl [@Chicco Oussama].pdf
+│   │   │   └── 📄 VBA [@Chicco Oussama].pdf
+│   │   ├── 📁 C++/
+│   │   │   ├── 📄 Bjarne_Stroustrup_The_C++_Programming_Language_Special_3rd_Edition.pdf
+│   │   │   └── 📄 Andrew_Koenig,_Barbara_E._Moo_Accelerated_C++_Practical_Programming_by_Example.pdf
+│   │   ├── 📁 COLLECTION ZÉRO/
+│   │   │   ├── 📄 creez_des_applications_pour_iphone_ipad_et_ipod_touch.pdf
+│   │   │   ├── 📄 (Le livre du zéro) Hilaire, Nicolas-Apprenez à développer en C_ _ la programmation en C_.net expliquée aux débutants !-Simple IT (2012).pdf
+│   │   │   ├── 📄 programmez_avec_le_langage_cpp.pdf
+│   │   │   ├── 📄 apprenez_a_programmer_en_python.pdf
+│   │   │   └── 📄 Apprenez a programmer en C, 2ème Edition.pdf
+│   │   ├── 📁 ANDROID/
+│   │   │   ├── 📄 Jonathan_Simon_Head_First_Android_Development.pdf
+│   │   │   ├── 📄 creez-des-applications-pour-android.pdf
+│   │   │   ├── 📄 Zigurd_Mednieks,_Laird_Dornin,_G._Blake_Meike,_Masumi_Nakamu_Programming_Android_Java_Programming_for_the_New_Generation_of_Mobile_Devices.pdf
+│   │   │   └── 📄 Jeff_Friesen_Learn_Java_for_Android_Development.pdf
+│   │   ├── 📁 JAVA/
+│   │   │   ├── 📄 Kathy_Sierra,_Bert_Bates_Head_First_Java,_2nd_Edition.pdf
+│   │   │   ├── 📄 C._Thomas_Wu_An_Introduction_to_Object-Oriented_Programming_with_Java.pdf
+│   │   │   ├── 📄 Herbert Schildt-Java  The Complete Reference (Ninth Edition)-McGraw-Hill (2014).pdf
+│   │   │   ├── 📄 Claude Delannoy-Exercices en Java 2e édition-Eyrolles.pdf
+│   │   │   ├── 📄 Ken_Arnold,_James_Gosling,_David_Holmes_The_JavaTM_Programming_Language_4th_Edition.pdf
+│   │   │   └── 📄 apprenez_a_programmer_en_java.pdf
+│   │   ├── 📁 SÉCURITÉ/
+│   │   │   ├── 📄 Les_virus_informatiques_Theorie_pratique_et_applications.pdf
+│   │   │   ├── 📄 Claude Pinet 10 clés pour la sécurité de linformation  ISO-CEI 27001.pdf
+│   │   │   ├── 📄 metasploit2012.pdf
+│   │   │   ├── 📄 Hacking,-securite-et-tests-dintrusion-avec-Metasploit.pdf
+│   │   │   ├── 📄 EY-2015-Cyberattaques.pdf
+│   │   │   ├── 📄 ddos.pdf
+│   │   │   ├── 📄 SSTIC04-article-Brulez-Detection_virale_heuristique.pdf
+│   │   │   ├── 📄 enquete_fr.pdf
+│   │   │   ├── 📄 VirusInformatiques.pdf
+│   │   │   ├── 📄 Jon Erickson-Hacking, 2nd Edition_ The Art of Exploitation-No Starch Press (2008).pdf
+│   │   │   ├── 📄 Formation_1416910063562.pdf
+│   │   │   ├── 📄 Mesures_a_prendre_contre_les_attaques_DDoS.pdf
+│   │   │   └── 📄 NP_Guide_DDoS.pdf
+│   │   └── 📁 WEB/
+│   │       ├── 📄 309961-dynamisez-vos-sites-web-avec-javascript.pdf
+│   │       ├── 📄 147180-programmez-en-oriente-objet-en-php.pdf
+│   │       ├── 📄 285022-creez-votre-application-web-avec-java-ee.pdf
+│   │       ├── 📄 689034-simplifiez-vos-developpements-javascript-avec-jquery.pdf
+│   │       ├── 📄 realisez_votre_site_web_avec_html5_et_css3.pdf
+│   │       ├── 📄 683140-prenez-en-main-bootstrap.pdf
+│   │       ├── 📄 700664-developpez-votre-site-web-avec-le-framework-django.pdf
+│   │       ├── 📄 Bouillot, Thierry_ Nogier, Jean-François_ Leclerc, Jules Ergonomie des interfaces  Guide pratique pour la conception des applications web, logicielles, mobiles et tactiles.pdf
+│   │       ├── 📄 654205-le-javascript-moderne.pdf
+│   │       ├── 📄 36048-compteur-de-telechargements.pdf
+│   │       ├── 📄 25-conseils-pour-faire-connaitre-son-site-internet.pdf
+│   │       ├── 📄 Comment-39-blogueurs-ont-gagne-leurs-premiers-euros.pdf
+│   │       ├── 📄 html5.pdf
+│   │       ├── 📄 les-bases-du-html.pdf
+│   │       ├── 📄 88620-votre-site-php-presque-complet-architecture-mvc-et-bonnes-pratiques.pdf
+│   │       ├── 📄 370694-codeigniter-le-framework-au-service-des-zeros.pdf
+│   │       ├── 📄 69651-creer-un-espace-membre-pour-son-site.pdf
+│   │       ├── 📄 14547-un-livre-d-or.pdf
+│   │       ├── 📄 concevez_votre_site_web_avec_php_et_mysql.pdf
+│   │       ├── 📄 530449-les-applications-web-avec-javafx.pdf
+│   │       ├── 📄 675526-html5-web-workers-le-monde-parallele-du-javascript.pdf
+│   │       ├── 📄 viseo-responsive-design.pdf
+│   │       ├── 📄 761998-montez-votre-site-dans-le-cloud-avec-google-app-engine.pdf
+│   │       ├── 📄 102952-bonnes-pratiques-javascript.pdf
+│   │       ├── 📄 582312-developpez-vos-applications-web-avec-symfony2.pdf
+│   │       ├── 📄 762576-des-applications-ultra-rapides-avec-node-js.pdf
+│   │       └── 📄 704858-le-referencement-de-son-site-web.pdf
+│   ├── 📁 MATHS/
+│   │   ├── 📁 ANALYSE/
+│   │   │   ├── 📄 Exercices d_Analyse (Livre).pdf
+│   │   │   ├── 📄 Philippe-Malbos-Analyse-matricielle-et-algèbre-linéaire-appliquée-I-Lecture-notes-2013-1.pdf
+│   │   │   ├── 📄 Collectif Tous les exercices danalyse MP  2008 - El Haj Laamri_2C Philippe Chateaux_2C G_C3_A9rard Eguether_2C Marc Rezzouk_2C.pdf
+│   │   │   ├── 📄 Tauvel-P.-Analyse-complexe-pour-la-Licence-3_-Cours-et-exercices-corriges-Dunod-2006-1.pdf
+│   │   │   └── 📄 Jean_Genet__Georges_Pupion_Analyse_moderne.__Tome_1,_Espaces_métriques,_séries,_systèmes_différentiels_résumé_de_cours_et_exercices_corrigés.djvu
+│   │   └── 📁 ALGÈBRE/
+│   │       ├── 📄 Cours élémentaires mathématique supérieure.pdf
+│   │       ├── 📄 Exercices d_Algèbre 1ère année Dunod (1997).pdf
+│   │       └── 📄 Les-éditions-de-lÉcole-Polytechnique-Pierre-Colmez-Éléments-danalyse-et-dalgèbre-et-de-théorie-des-nombres-Les-éditions-de-lÉcole-Polytechnique-2009.pdf
+│   └── 📁 Des livre_cncr/
+│       ├── 📄 mathematiques-analyse-en-30-f-iches.pdf
+│       ├── 📄 jean-marie-monier-exercices-psci-ptsi.pdf
+│       └── 📄 ebook-math-fr-mathematiques-en-30-fiches-algebre-et-geometrie-l1.pdf
+├── 🔗📁 Algebre 2/  (raccourci)
+│   ├── 📁 Cours/
+│   │   ├── 📄 Alg2_Polynômes2.pdf
+│   │   ├── 📄 Alg2_Anneaux 4.pdf
+│   │   ├── 📄 Alg2_Polynômes 1.pdf
+│   │   ├── 📄 Alg2_Anneaux2 .pdf
+│   │   ├── 📄 Alg2_K(X).pdf
+│   │   ├── 📄 K(X)_Exemples.pdf
+│   │   ├── 📄 Alg2_K(X)(suite).pdf
+│   │   ├── 📄 Alg2_Polynômes3.pdf
+│   │   ├── 📄 Alg2_Grpes1.pdf
+│   │   ├── 📄 AaLG2-Grpes 5-S_n .pdf
+│   │   ├── 📄 Alg2_Grpes3.pdf
+│   │   ├── 📄 Alg2_Anneaux1.pdf
+│   │   ├── 📄 Alg2_Grpes2.pdf
+│   │   └── 📄 Alg2_Grpes4.pdf
+│   ├── 📁 Examen/
+│   │   ├── 📄 Alg2_Rattrapage (Mars2021).pdf
+│   │   └── 📄 Algèbre2- Corrigé Ctr (1321).pdf
+│   └── 📁 TD/
+│       ├── 📁 TD2/
+│       │   ├── 📄 TD_Alg2-Serie2,(2122).pdf
+│       │   └── 📄 TD_Alg2-Série2_Corigé(3).pdf
+│       ├── 📁 TD3/
+│       │   ├── 📄 TD_Alg2_Série3-Corrigé(3).pdf
+│       │   ├── 📄 TD_Alg2_Série3-Corrigé(1).pdf
+│       │   └── 📄 TD_Alg2_Série3_Corrigé(2).pdf
+│       └── 📁 TD1/
+│           ├── 📄 TD-ALg2_Corigé1.pdf
+│           ├── 📄 TD-Alg2_Serie1.pdf
+│           ├── 📄 TD_Alg2_Corrigé 3 (2122).pdf
+│           └── 📄 TD_Alg2_Corrigé 2 - (2122).pdf
+├── 🔗📁 Algèbre 2/  (raccourci)
+│   ├── 📁 TD & Exercices/
+│   │   ├── 📄 exercices_corriges_espaces_vectoriels (1).pdf
+│   │   ├── 📄 Exercice algeber SSSFFRR (1).pdf
+│   │   ├── 📄 algebre(1)_goodprepa.pdf
+│   │   └── 📄 EX matrice + corrige (1).pdf
+│   ├── 📁 Examens Corrigées/
+│   │   ├── 📄 ALGEBRE_goodprepa.pdf
+│   │   ├── 📄 Corrigé rattrapage d_algèbre 2013 smpc S2 .pdf
+│   │   ├── 📄 corrigé rattrapage algèbre smpc S2(2014) goodprepa (1).pdf
+│   │   ├── 📄 Corrigé rattrapage algèbre (2013) goodprepa (1).pdf
+│   │   ├── 📄 corrigé Examen algèbre smpc S2 goodprepa (1).pdf
+│   │   ├── 📄 Contrôles corrigés SMPC  S2.pdf
+│   │   ├── 📄 Contrôles 1 Corrigés SMPC S2 (1).pdf
+│   │   └── 📄 Contrôles corrigés Algébre TETOUAN  .pdf
+│   └── 📁 Cours/
+│       ├── 📄 polyalgebre.pdf
+│       ├── 📄 espacesys.pdf
+│       ├── 📄 poly.pdf
+│       ├── 📄 Cours Algebre 2 smpc s2 faculte des science .pdf
+│       └── 📄 algebre 2 by  goodprepa.pdf
+├── 🔗📁 [M124] Algèbre 2/  (raccourci)
+│   ├── 📁 [M124] Bonus/
+│   │   ├── 📄 Vrai-Faux 2.pdf
+│   │   ├── 📄 Vrai-Faux 1.pdf
+│   │   ├── 📄 QCM 2.pdf
+│   │   ├── 📄 QCM 1.pdf
+│   │   ├── 📄 TD Diagonalisation et Tri.pdf
+│   │   ├── 📄 Diagonalisation 1 (exs corrigé).pdf
+│   │   ├── 📄 fiche 1 supp.pdf
+│   │   ├── 📄 Algèbre_Test.pdf
+│   │   ├── 📄 Révision chap 0  2.pdf
+│   │   └── 📄 Reduction.pdf
+│   ├── 📁 [M124] TD/
+│   │   ├── 📄 Fiche 0
+│   │   ├── 📄 Diagonalisation 1.pdf
+│   │   ├── 📄 Corrigé da la fiche 1 - M124 (1).pdf
+│   │   ├── 📄 Corrige de la fiche 2 - Déterminant (1).pdf
+│   │   ├── 📄 Fiche 3 _Corrigé Nour.pdf
+│   │   ├── 📄 Fiche 3_Diagonalisation.pdf
+│   │   └── 📄 Fiche 3.pdf
+│   ├── 📁 [M124] Cours/
+│   │   ├── 📄 chap. 3_affich M124.pdf
+│   │   ├── 📄 Diap_Chap_2_Déterminant m124.pdf
+│   │   ├── 📄 chap. 1_affich M124.pdf
+│   │   └── 📄 chap. 0_affich M124.pdf
+│   └── 📁 [M124] Archive/
+│       ├── 📄 exam mai 2024
+│       ├── 📄 exam-M124-2023.pdf
+│       ├── 📄 Archive algèbre 2 MIP S2 Fstm.pdf
+│       ├── 📄 examen-M124-2023.pdf
+│       ├── 📄 Examen-corrigé-2014.pdf
+│       ├── 📄 exam-M124-2022.pdf
+│       ├── 📄 Exam janvier 2022.pdf
+│       ├── 📄 exam 2022 m124.pdf
+│       ├── 📄 Corrigé mars 2021.pdf
+│       ├── 📄 partiel_corrige.pdf
+│       └── 📄 Partiel et corrigé.pdf
+├── 🔗📁 °SMAI ALGEBRE2/  (raccourci)
+│   ├── 📄 +COURS TDS SMAI ALGERBRE 2 FPK-KHOURIBGHA 20-21.pdf
+│   ├── 📄 +COURS SMAI ALGEBRE2 FSA-AGADIR 20-21 B.pdf
+│   ├── 📄 +COURS SMAI ALGEBRE2 FSA-AGADIR 20-21 A.pdf
+│   ├── 📄 +COURS ALGEBRE2 FSAC-CASABLANCA.pdf
+│   ├── 📄 ++SMAI1 COURS ALGERBRE 2 FPL-LARACHE.pdf
+│   ├── 📄 °TDs SMAI ALGEBRE2 2020–2021 FSSM-MARRAKECH.pdf
+│   ├── 📄 °TDs SMAI ALGEBRE2 20–21 FSDM-FES.pdf
+│   ├── 📄 °TDs SMAI ALGEBRE2 20–21 FPL-LARACHE.pdf
+│   ├── 📄 °TDs SMAI ALGEBRE2 19–20 FSBM-CASABLANCA.pdf
+│   ├── 📄 °TDs SMAI ALGEBRE2 19–20 FSAC-CASABLANCA.pdf
+│   ├── 📄 °TDs EXAMENS SMAI ALGEBRE2 FSDM-FES.pdf
+│   ├── 📄 °TDs EXAMENS SMAI ALGEBRE2 FSAC-CASABLANCA.pdf
+│   ├── 📄 °TDs EXAMENS SMAI ALGEBRE2 FSA-AGADIR.pdf
+│   ├── 📄 °TDs EXAMENS SMAI ALGEBRE2 2020–2021 FSO-OUADA.pdf
+│   ├── 📄 °TDs EXAMENS SMAI ALGEBRE S1  FST-TETOUAN.pdf
+│   ├── 📄 °SMA1 COURS-TDS ALGERBRE 2 FPK-KHOURIBGHA 20-21.pdf
+│   └── 📄 °°SMAI1 COURS ALGERBRE 2 FPL-LARACHE.pdf
+├── 🔗📁 0000 S2 ALGEBRE 19 20  PDF BY SABOR/  (raccourci)
+│   ├── 📄 S2 FSAC TDS+CORR ALGEBRE2 SMAI2 19 20 F.pdf
+│   ├── 📄 S2 EXAMENS ALGEBRE FSAC.pdf
+│   ├── 📄 S2 ENSA-BM TDS ALGEBRE.pdf
+│   ├── 📄 S2 ENSA-SAFI TDS ALGEBRE.pdf
+│   ├── 📄 S2 EXAMENS ALGEBRE ENSA-SAFI.pdf
+│   ├── 📄 S2 FPO-OUARZAZATE TDS+CORR ALGEBRE SMAI2 19 20.pdf
+│   ├── 📄 S2 FPT-TAZA TDS+CORR ALGEBRE SMAI2 19 20.pdf
+│   ├── 📄 S2 FP-SAFI TDS+CORR ALGEBRE SMAI2 19 20.pdf
+│   ├── 📄 S2 FP-SAFI TDS+CORR ALGEBRE SMPC2 19 20.pdf
+│   ├── 📄 S2 EXAMENS ALGEBRE-2 SMPC FP-SAFI.pdf
+│   ├── 📄 S2 FSA TDS+CORR ALGEBRE SMPC2 19 20.pdf
+│   ├── 📄 S2 FSA TDS+EXAMENS  ALGEBRE3 SMAI2 19 20.pdf
+│   ├── 📄 S2 FSAC TDS+CORR ALGEBRE2 SMPC2 19 20.pdf
+│   ├── 📄 S2 FSBM TDS+CORR ALGEBRE3 SMAI2 19 20.pdf
+│   ├── 📄 S2 FSDM TDS+CORR ALGEBRE SMPC2 19 20.pdf
+│   ├── 📄 S2 EXAMENS ALGEBRE-2 SMPC FSSM 05 19.pdf
+│   ├── 📄 S2 EXAMENS ALGEBRE-3 SMAI FSSM 09 13.pdf
+│   ├── 📄 S2 TDs ALGEBRE MIP FST TANGER 2010-2011.pdf
+│   ├── 📄 S2 TDs ALGEBRE MIP FST TANGER 2007-2008.pdf
+│   ├── 📄 S2 TDs ALGEBRE MIP FST TANGER 19-20.pdf
+│   ├── 📄 S2 EXAMENS ALGEBRE MIP FST TANGER.pdf
+│   ├── 📄 S2 EXAMENS ALGEBRE-2 SMPC FSDM-FES.pdf
+│   ├── 📄 S2 TDs ALGEBRE-2 SMPC FSJ-ELJADIDA 18 19.pdf
+│   ├── 📄 S2 TDs ALGEBRE-2 SMPC FSJ-ELJADIDA 19 20.pdf
+│   ├── 📄 S2 TDs ALGEBRE-2 SMPC FSO-OUAJDA 19 20.pdf
+│   ├── 📄 S2 TDs ALGEBRE-3 SMAI FSO-OUAJDA 19 20.pdf
+│   ├── 📄 S2 EXAMENS ALGEBRE-2 SMPC FSO-OUAJDA.pdf
+│   ├── 📄 S2 EXAMENS ALGEBRE-3 SMAI FSO.pdf
+│   ├── 📄 S2 TDS ALGEBRE-2 SMPC FSM-MEKNES 19 20.pdf
+│   ├── 📄 S2 TDs ALGEBRE-2 SMPC FPN-NADOR 19 20.pdf
+│   ├── 📄 S2 TDs ALGEBRE-3 SMAI FPN-NADOR.pdf
+│   ├── 📄 S2 ALGEBRE EXERCICES CORRIGÉS.pdf
+│   ├── 📄 S2 FST-FES EXAMENS ALGEBRE MIP + Correction.pdf
+│   ├── 📄 S2 Algebre II Devoir-1 2 3 -MIPC 19 20 FST-G.pdf
+│   ├── 📄 S2 Algebre II TD-MIPC 19 20 FST-G.pdf
+│   ├── 📄 S2 FSSM TDS+CORR ALGEBRE3 SMAI2 14 15.pdf
+│   ├── 📄 S2 FSSM TDS+CORR ALGEBRE2 SMPC2 18 19.pdf
+│   ├── 📄 S2 FSSM TDS+CORR ALGEBRE SMPC2 19 20.pdf
+│   ├── 📄 S2 COURS+TDS+CORR ALGEBRE MIP FST-ERRACHIDIA.pdf
+│   ├── 📄 S2 TDS+CORR ALGEBRE MIP FST-ERRACHIDIA.pdf
+│   └── 📄 S2 ALGEBRE 3 FSJ SMAI TDS & EXAMENS.pdf
+├── 📁 Algèbre 2/
+│   ├── 📄 examens de Math  2012-2013.pdf
+│   ├── 📄 Le binôme.Les symboles∑et produits exer.pdf
+│   ├── 📄 Examen Math1 algebre      SMP   SMC  S1    Session de Rattrapage  2005   2006.pdf
+│   ├── 📄 Examen  Math1    algebre     SMP   SMC  S1    Session de Janvier  2006   2007 .pdf
+│   ├── 📄 Examen algebre  Math1    SMP   SMC  S1    Session de Janvier  2007   2008.pdf
+│   ├── 📄 Examen algebre  Math1    SMP   SMC  S1    Session de Janvier  2005   2006.pdf
+│   ├── 📄 Examen algebre  Math1    SMP   SMC  S1    Session de Janvier  2006   2007.pdf
+│   ├── 📄 ♡problemesdanalyse1.pdf
+│   ├── 📄 ☆amazing crs¹¹¹Algebre I (Polycopie du cours).pdf
+│   ├── 📄 _~TDs corr algebre clbnjh.pdf
+│   ├── 📄 _☆ amzn exmns algebre.pdf
+│   ├── 📄 _~exms corr algebre(2)clubnajah.pdf .pdf
+│   ├── 📄 ¹arithmetique_z.pdf
+│   ├── 📄 ```diago Pascal lainé.pdf
+│   ├── 📄 Équations différentielles linéaires.pdf
+│   ├── 📄 _~exms corr algebre.pdf
+│   ├── 📄 ```````Réduction exo Trigonalisation d'une%20matrice.pdf
+│   ├── 📄 _~exms corr algebre clubnajah.pdf (1).pdf
+│   ├── 📄 _exercices_algebre_lineaire.pdf
+│   ├── 📄 _~exms corr ALGEBRE clbnjh.pdf
+│   ├── 📄 TD 13-14 algebre2 s2 By ExoSup.com_2.pdf
+│   ├── 📄 td_equa_diff.pdf
+│   ├── 📄 td_syst_diff.pdf
+│   ├── 📄 TD3 polynome cb5e03_3a6878c667984fecad1d6454a54324c9.pdf
+│   ├── 📄 TD5-applications.pdf
+│   ├── 📄 Les n complexes exer.pdf
+│   ├── 📄 nombres complexes exer.pdf
+│   ├── 📄 Nombres réels et complexes.pdf
+│   ├── 📄 Polynômes.pdf
+│   ├── 📄 livre-algebre-1exo .pdf
+│   ├── 📄 Les fractions rationnelles.pdf
+│   ├── 📄 TD 13-14 algebre2 s2 By ExoSup.com.pdf
+│   ├── 📄 Polynômes exo.pdf
+│   ├── 📄 exmn corr Algebre2.zip
+│   ├── 📄 exercices_corriges_application_lineaire_et_determinants.pdf
+│   ├── 📄 exercices_corriges_arithmetique.pdf
+│   ├── 📄 exmn Algebre1.zip
+│   ├── 📄 Feuille 1 exercices  algebre Polynomes et fractions rationnelles Math1 S1 Algebre SMP SMC  200 3    2004.pdf
+│   ├── 📄 Examen de Theorie des Nombres MASTER S1 Session ordinaire 2006    2007.pdf
+│   ├── 📄 Feuille 1 exercices algebre Nombres complexes et structures algebriques     SMP   SMC  S1   2008     2009.pdf
+│   ├── 📄 exercices_corriges_polynomes_fractions_rationnelles.pdf
+│   ├── 📄 examen_alg_bre2rat1415.pdf
+│   ├── 📄 Feuille 2  exercices algebre Polynomes Fractions rationnelles et espaces vectoriels  S1  SMP   SMC   2007    2008.pdf
+│   ├── 📄 Feuille 2  exercices algebre Polynomes Fractions rationnelles et espaces vectoriels  S1  SMP   SMC   2008    2009.pdf
+│   ├── 📄 ExamenL1_Mai2012.pdf
+│   ├── 📄 Feuille 1 exercices  algebre Polynomes et fractions rationnelles Math1 S1 Algebre  SMP   SMC  2006     2007.pdf
+│   ├── 📄 crs☆polynomes☆Chapitre4_AlgebreS1.pdf
+│   ├── 📄 Applications linéaires.pdf
+│   ├── 📄 cc2 b5e03_56eccec2512848f387caf0348b65b1a1.pdf
+│   ├── 📄 crs☆complex☆Chapitre3_Algebre_S1.pdf
+│   ├── 📄 Arithmétique dans Z exo.pdf
+│   ├── 📄 Applications linéaires exo.pdf
+│   ├── 📄 cc1 cb5e03_bd053835eb2a47ad9270a9ef7fd74521.pdf
+│   ├── 📄 exam.pdf
+│   ├── 📄 cc2 cb5e03_aceb7faf0de040c8905f3a04dcf6e9a4.pdf
+│   ├── 📄 bفرض منزلي1.pdf
+│   ├── 📄 Arithmétique exo.pdf
+│   ├── 📄 cc1 b5e03_78d411d679d1467097ae9de18c461161.pdf
+│   ├── 📄 algbr Calcul-matriciel-Inversion-de-matrice.pdf
+│   ├── 📄 8.Diagonalisation.Corrigés.pdf
+│   ├── 📁 _Algèbre S1 ENSAF ☆/
+│   │   ├── 📁 TD et Exemens/
+│   │   │   └── 📁 exercises Exmns/
+│   │   │       ├── 📄 20160927_134210.jpg
+│   │   │       ├── 📄 20160927_134052.jpg
+│   │   │       ├── 📄 20160927_134201.jpg
+│   │   │       ├── 📄 20160927_134242.jpg
+│   │   │       └── 📄 20160927_134026.jpg
+│   │   └── 📁 TD/
+│   │       ├── 📁 Séries/
+│   │       │   ├── 📄 Série 3  Esp Vect   2014-2015.pdf
+│   │       │   ├── 📄 Série 1.jpg
+│   │       │   ├── 📄 Série 5 Révision  S1.pdf
+│   │       │   └── 📄 Série 5 Révision S1 ( Exam 2014 ) 2014.jpg
+│   │       └── 📁 Correction/
+│   │           ├── 📁 Série 4/
+│   │           │   ├── 📄 12.jpg
+│   │           │   ├── 📄 3.jpg
+│   │           │   ├── 📄 11.jpg
+│   │           │   ├── 📄 9.jpg
+│   │           │   ├── 📄 2.jpg
+│   │           │   ├── 📄 8.jpg
+│   │           │   ├── 📄 5.jpg
+│   │           │   ├── 📄 7.jpg
+│   │           │   ├── 📄 10.jpg
+│   │           │   ├── 📄 4.jpg
+│   │           │   ├── 📄 6.jpg
+│   │           │   └── 📄 1.jpg
+│   │           ├── 📁 Série 3/
+│   │           │   ├── 📄 13.jpg
+│   │           │   ├── 📄 11.jpg
+│   │           │   ├── 📄 4.jpg
+│   │           │   ├── 📄 18.jpg
+│   │           │   ├── 📄 15.jpg
+│   │           │   ├── 📄 2.jpg
+│   │           │   ├── 📄 1.jpg
+│   │           │   ├── 📄 10.jpg
+│   │           │   ├── 📄 3.jpg
+│   │           │   ├── 📄 20.jpg
+│   │           │   ├── 📄 12.jpg
+│   │           │   ├── 📄 21.jpg
+│   │           │   ├── 📄 9.jpg
+│   │           │   ├── 📄 17.jpg
+│   │           │   ├── 📄 16.jpg
+│   │           │   ├── 📄 5.jpg
+│   │           │   ├── 📄 8.jpg
+│   │           │   ├── 📄 14.jpg
+│   │           │   ├── 📄 7.jpg
+│   │           │   ├── 📄 6.jpg
+│   │           │   └── 📄 19.jpg
+│   │           ├── 📁 Série 2/
+│   │           │   ├── 📄 9.jpg
+│   │           │   ├── 📄 13.jpg
+│   │           │   ├── 📄 22.jpg
+│   │           │   ├── 📄 6.jpg
+│   │           │   ├── 📄 8.jpg
+│   │           │   ├── 📄 20.jpg
+│   │           │   ├── 📄 1.jpg
+│   │           │   ├── 📄 7.jpg
+│   │           │   ├── 📄 14.jpg
+│   │           │   ├── 📄 17.jpg
+│   │           │   ├── 📄 11.jpg
+│   │           │   ├── 📄 16.jpg
+│   │           │   ├── 📄 15.jpg
+│   │           │   ├── 📄 21.jpg
+│   │           │   ├── 📄 2.jpg
+│   │           │   ├── 📄 5.jpg
+│   │           │   ├── 📄 3.jpg
+│   │           │   ├── 📄 18.jpg
+│   │           │   ├── 📄 10.jpg
+│   │           │   ├── 📄 12.jpg
+│   │           │   ├── 📄 19.jpg
+│   │           │   └── 📄 4.jpg
+│   │           └── 📁 Série 1/
+│   │               ├── 📄 7.jpg
+│   │               ├── 📄 6.jpg
+│   │               ├── 📄 1.jpg
+│   │               ├── 📄 5.jpg
+│   │               ├── 📄 4.jpg
+│   │               ├── 📄 2.jpg
+│   │               └── 📄 3.jpg
+│   ├── 📁 série corrigé algèbre/
+│   │   ├── 📄 Théo ensemble et des applications.pdf
+│   │   ├── 📄 Polynômes.pdf
+│   │   ├── 📄 Arithmétique.pdf
+│   │   ├── 📄 Les fractions rationnelles.pdf
+│   │   └── 📄 Applications linéaires.pdf
+│   ├── 📁 algbre/
+│   │   ├── 📄 exer corr DIAGONALISATION.pdf
+│   │   ├── 📄 TD bcp _equa_diff_corr.pdf
+│   │   ├── 📄 diagonalisation1516.pdf
+│   │   ├── 📄 exo diago serie10_sol.pdf
+│   │   ├── 📄 exo diago math_IPAG_11_2009.pdf
+│   │   ├── 📄 TD corr equa differ et primitiv.pdf
+│   │   ├── 📄 examen-algebre juin09-corrige.pdf
+│   │   ├── 📄 ```diago Pascal lainé.pdf
+│   │   ├── 📄 ```````Réduction exo Trigonalisation d'une%20matrice.pdf
+│   │   ├── 📄 control equaaa differrrrr EDO-CP-2013.pdf
+│   │   ├── 📄 8.Diagonalisation.Corrigés.pdf
+│   │   ├── 📄 diagonalisation-chapitre3a.pdf
+│   │   └── 📄 bcp 📝📌d’exooo Diagonalisation
+│   └── 📁 algbre/
+│       └── 📄 8.Diagonalisation.Corrigés.pdf
+├── 📁 VANDERMONDE/
+│   ├── 📄 11.PNG
+│   ├── 📄 VANDERMONDE 1.PNG
+│   ├── 📄 55(1).PNG
+│   ├── 📄 44.PNG
+│   ├── 📄 44(1).PNG
+│   ├── 📄 2.PNG
+│   ├── 📄 33.PNG
+│   ├── 📄 3(1).PNG
+│   ├── 📄 33(1).PNG
+│   ├── 📄 22.PNG
+│   └── 📄 55.PNG
+├── 📁 Les TDs/
+│   ├── 📁 TD2/
+│   │   ├── 📄 Corr Td2 alg II(2).pdf
+│   │   ├── 📄 Td2 alg II1 ENONCE.pdf
+│   │   ├── 📄 TD2 enoce.jpeg
+│   │   ├── 📄 Corr Td2 alg II(4).pdf
+│   │   ├── 📄 Corr Td2 alg II(3_).pdf
+│   │   ├── 📄 TD2 enonce 2.jpeg
+│   │   ├── 📄 Td2 alg II2 ENONCE.pdf
+│   │   ├── 📄 Corr Td2 alg II(3).pdf
+│   │   ├── 📄 Corr Td2 alg II(5_).pdf
+│   │   ├── 📄 Corr Td2 alg II(2_).pdf
+│   │   ├── 📄 Corr Td2 alg II(1_).pdf
+│   │   ├── 📄 Corr Td2 alg II(4_).pdf
+│   │   └── 📄 Corr Td2 alg II(1).pdf
+│   ├── 📁 TD 5 + crrc/
+│   │   ├── 📄 corr TD5(2_).pdf
+│   │   ├── 📄 corr TD5(1).pdf
+│   │   ├── 📄 corr TD5(6_).pdf
+│   │   ├── 📄 corr TD5(4_).pdf
+│   │   ├── 📄 corr TD5(7).pdf
+│   │   ├── 📄 corr TD5(4).pdf
+│   │   ├── 📄 corr TD5(2).pdf
+│   │   ├── 📄 corr TD5(5).pdf
+│   │   ├── 📄 TD5.pdf
+│   │   ├── 📄 corr TD5(7_).pdf
+│   │   ├── 📄 corr TD5(5_).pdf
+│   │   ├── 📄 corr TD5(1_).pdf
+│   │   ├── 📄 corr TD5(3_).pdf
+│   │   ├── 📄 corr TD5(6).pdf
+│   │   └── 📄 corr TD5(3).pdf
+│   ├── 📁 TD 3/
+│   │   ├── 📄 Corr TD3(p4_).pdf
+│   │   ├── 📄 (p1_)EX 1 SUITE.pdf
+│   │   ├── 📄 (p2)EX 2-3-4.pdf
+│   │   ├── 📄 (p3_)EX7+8.pdf
+│   │   ├── 📄 (p2_)EX5.pdf
+│   │   ├── 📄 Corr TD3(p4).pdf
+│   │   ├── 📄 Correction TD3.zip
+│   │   ├── 📄 Aalgèbre TD 3.pdf
+│   │   ├── 📄 (p1_)EX 1 SUITE(1).pdf
+│   │   ├── 📄 (p3)EX5(suite)+6+7.pdf
+│   │   └── 📄 (p1)EX 1(1).pdf
+│   ├── 📁 TD1/
+│   │   ├── 📄 TD1 ENONCE 2.jpeg
+│   │   └── 📄 TD 1 ENONCE.jpeg
+│   └── 📁 TD4/
+│       ├── 📄 correc td4 frac rat(1_).pdf
+│       ├── 📄 td 4 algebre.pdf
+│       ├── 📄 correc td4 frac rat(2_).pdf
+│       ├── 📄 correc td4 frac rat(3_).pdf
+│       ├── 📄 correc td4 frac rat(4_).pdf
+│       ├── 📄 correc td4 frac rat(2).pdf
+│       ├── 📄 correc td4 frac rat(4).pdf
+│       ├── 📄 correc td4 frac rat(3).pdf
+│       └── 📄 correc td4 frac rat(1).pdf
+├── 📁 COURS/
+│   ├── 📄 réduction des endomorphismes.pdf
+│   └── 📄 FRACTIONS RATIONNELS.zip
+└── 📁 EXAMS/
+    ├── 📄 WhatsApp Image 2020-07-10 at 18.54.08.jpeg
+    └── 📄 WhatsApp Image 2020-07-10 at 18.54.24.jpeg
+
+═════════════════════════════════════
+  Fin du fichier · Algèbre 2
+═════════════════════════════════════

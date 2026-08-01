@@ -1,0 +1,75 @@
+📚 MODULE : Administration des Systèmes et Réseaux    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Administration des Systèmes et Réseaux.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Administration des Systèmes et Réseaux/
+├── 📄 ASR-20260621T005338Z-3-001.zip
+└── 🔗📁 ASR/  (raccourci)
+    ├── 📁 Examen /
+    │   ├── 📄 2021
+    │   ├── 📄 2019
+    │   ├── 📄 2020
+    │   ├── 📄 2017
+    │   └── 📄 2018
+    ├── 📁 TP/
+    │   ├── 📄 Lab4.pkt
+    │   ├── 📄 Sans titre.png
+    │   ├── 📄 hml code .txt
+    │   ├── 📄 Lab2.pkt
+    │   ├── 📄 image longue 25-02-2024 23.42.jpg
+    │   ├── 📄 Travaux pratiques 2.pdf
+    │   ├── 📄 Configuration NAT Solution.docx
+    │   ├── 📄 Travaux pratiques 1.pdf
+    │   └── 📁 Référence /
+    │       ├── 📄 424583451_416754900851451_2675237573530611563_n.jpg
+    │       ├── 📄 422093495_416755004184774_1839860109280857401_n.jpg
+    │       ├── 📄 421958105_416755047518103_5001860999465912114_n.jpg
+    │       ├── 📄 421962400_416755400851401_4763489246588991933_n.jpg
+    │       ├── 📄 421931132_416754974184777_8315773641684430767_n.jpg
+    │       ├── 📄 422062508_416755310851410_8210396584982309290_n.jpg
+    │       ├── 📄 421931081_416755354184739_6862266686086706727_n.jpg
+    │       ├── 📄 421915366_416755224184752_5238093664341262492_n.jpg
+    │       ├── 📄 421888765_416754940851447_2341636280374674979_n.jpg
+    │       ├── 📄 421865275_416755090851432_1262131689696650532_n.jpg
+    │       ├── 📄 421883208_416754867518121_8358683303145792329_n.jpg
+    │       ├── 📄 421883207_416755154184759_1588167388761692_n.jpg
+    │       ├── 📄 421842056_416754794184795_2244198279044176526_n.jpg
+    │       ├── 📄 421861395_416755120851429_1037776716794307464_n.jpg
+    │       ├── 📄 421855249_416755267518081_9217587706232000356_n.jpg
+    │       ├── 📄 421830554_416754840851457_3966388113790762217_n.jpg
+    │       ├── 📄 421855596_416755187518089_5923942384470254327_n.jpg
+    │       ├── 📄 421855596_416755187518089_5923942384470254327_n.jpg
+    │       ├── 📄 SRWE_Module_7.pptx
+    │       ├── 📄 routage-intervlan.pdf
+    │       └── 📄 CCNA_RSE_Chp9.pptx
+    ├── 📁 TD/
+    │   ├── 📄 Solution TD1
+    │   ├── 📄 Solution TD3
+    │   ├── 📄 Solution TD2
+    │   ├── 📄 TD2
+    │   ├── 📄 TD3
+    │   └── 📄 TD1
+    └── 📁 Cour/
+        ├── 📄 exemple_nat
+        ├── 📄 SERVEURAD
+        ├── 📄 Serveur_Web_FTP
+        ├── 📄 SERVEUR DE MESSAGERIE
+        ├── 📄 Proxy
+        ├── 📄 NAT_PAT
+        ├── 📄 DND
+        └── 📄 DHCP
+
+═════════════════════════════════════
+  Fin du fichier · Administration des Systèmes et Réseaux
+═════════════════════════════════════
