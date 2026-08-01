@@ -1,0 +1,58 @@
+📚 MODULE : Microéconomie                             
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Microéconomie.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Microéconomie/
+├── 📄 Livres-Gratuit-Exercices-corrigees (1)(1).PDF.pdf
+├── 📄 1504206_685312021520317_1840756320_o.jpg
+├── 📄 1524238_607706039265126_1006894771_o.jpg
+├── 📄 Cours complet de Macro-économie.pdf
+├── 📄 Cours Macro 2013.docx
+├── 📄 Demande Globale (1).doc
+├── 📄 Equilibre Global (1).doc
+├── 📄 Exercice 1 - ISLM - Corrige.pdf
+├── 📄 Exercices d application IS-LM L2 AES.pdf
+├── 📄 introduction-a-la-macroeconomie.pdf
+├── 📄 L_investissement (1).docx
+├── 📄 macro_exercices_2.pdf
+├── 📄 modele_IS-LM (1).pdf
+├── 📄 multiplicateur  et accélérateur (1).docx
+├── 📄 résumé macro chap.docx
+├── 📄 TD 1.docx
+├── 📄 TD 2.doc
+├── 📄 TD 3.doc
+├── 📄 cours_microÃ©conomie_S1_bensalk.pdf
+├── 📄 Démonstration en microéconomie.pdf
+├── 📄 Deux_20premiers_20chapitres_cours_microÃ©conomie_S1_bensalk.pptx
+├── 📄 micro_corr_interro1_gr1.PDF
+├── 📄 micro_corr_interro1_gr10.PDF
+├── 📄 New Doc 2019-11-07 17.49.20.pdf
+├── 📄 recueil-dexercices-corriges-de-microeconomie.pdf
+├── 📄 tdencg.pdf
+├── 📄 tds de micro-ENCG-converti (2).PDF
+├── 📄 tds de micro-ENCG-converti.PDF
+├── 📄 Devoir à rendre  3 microéconomie.docx
+├── 📄 Devoir à rendre 2 et Corrigé (2).pdf
+├── 📄 Travail à rendre 1.pdf
+├── 📄 Introduction à la science économique.pdf
+├── 📄 La théorie de la demande.pdf
+├── 📄 La théorie de la production.pdf
+├── 📄 La théorie des coûts.pdf
+├── 📄 Les grands courants de l’analyse économique 1.pdf
+├── 📄 théorie de la consommation (analyse cardinale).pdf
+└── 📄 théorie de la consommation (analyse ordinale).pdf
+
+═════════════════════════════════════
+  Fin du fichier · Microéconomie
+═════════════════════════════════════

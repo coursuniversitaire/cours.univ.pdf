@@ -1,0 +1,195 @@
+📚 MODULE : Mécanique des Fluides                     
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Mécanique des Fluides.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Mécanique des Fluides/
+├── 📁 Statique des fluides/
+│   ├── 📄 tp2 statique de fluide.xlsx
+│   ├── 📄 Tp 2 statique.xlsx
+│   ├── 📄 Résumé statique ️️️️🪄.pdf
+│   ├── 📄 tp2.docx
+│   ├── 📄 Meca.Fluide -CRS-Senhaji(IMPORTANT).pdf
+│   ├── 📄 TP2 EXCEL.pdf
+│   ├── 📄 tp2 f.pdf
+│   ├── 📄 tp3-Lina Lyoussi-Kaoutar Meftahi-SB3.pdf
+│   ├── 📄 TP 3.DOC
+│   ├── 📄 TP2.pdf
+│   ├── 📄 TP1 statique des fluides .pdf
+│   ├── 📄 tp finale fluide finalepdf.pdf
+│   ├── 📄 tp statique de fluide.pdf
+│   ├── 📄 TP 3.pdf
+│   ├── 📄 tp statique de fluide (1).pdf
+│   ├── 📄 tp 2 statique des fluides.pdf
+│   ├── 📄 CamScanner 02-24-2021 19.45-1.pdf
+│   ├── 📄 Tp 3 fluide.pdf
+│   ├── 📄 tp 2 statique-1.xlsx
+│   ├── 📄 tp 3 statique des fluides.pdf
+│   ├── 📄 TP3.pdf
+│   ├── 📄 tp1 fluide (1).pdf
+│   ├── 📄 tp1.pdf
+│   ├── 📄 tp1 fluide.docx
+│   ├── 📄 TP1FLUIDE.pdf
+│   ├── 📁 cours/
+│   │   ├── 📄 CHAP0.pdf
+│   │   ├── 📄 CHAP3.pdf
+│   │   ├── 📄 CHAP01_1.pdf
+│   │   ├── 📄 CHAP01_2.pdf
+│   │   └── 📄 CHAP02.pdf
+│   ├── 📁 exams/
+│   │   └── 📄 MFluides_Cor.pdf
+│   ├── 📁 Fluide/
+│   │   ├── 📄 Meca Fluides Cours et Ex(1).pdf
+│   │   ├── 📄 237429421-Travaux-Diriges-Mecanique-Des-Fluides-2013-2014.pdf
+│   │   ├── 📄 chapitre-2-statique-des-fluides.pdf
+│   │   ├── 📄 mdf-td1(1).pdf
+│   │   ├── 📄 ex-mdf1.pdf
+│   │   ├── 📄 0-travaux-diriges-mecanique-des-fluides-statique-des-fluides(1).pdf
+│   │   ├── 📄 exo + corrigé mdf.rar
+│   │   ├── 📄 7-travaux-diriges-corriges-mecanique-des-fluides-ecoulement-des-fluides-visqueux.pdf
+│   │   ├── 📄 3-examen-de-mecanique-des-fluides.pdf
+│   │   ├── 📄 2-travaux-diriges-mecanique-des-fluides.pdf
+│   │   ├── 📄 2-examen-de-mecanique-des-fluides.pdf
+│   │   ├── 📄 3-travaux-diriges-corriges-mecanique-des-fluides-couche-limite-laminaire.pdf
+│   │   ├── 📄 mdf-solution-td2-3.pdf
+│   │   ├── 📄 6-travaux-diriges-corriges-mecanique-des-fluides-couche-limite.pdf
+│   │   ├── 📄 4-examen-de-mecanique-des-fluides.pdf
+│   │   ├── 📄 4-travaux-diriges-corriges-mecanique-des-fluides-ecoulement-des-fluides-compressibles.pdf
+│   │   ├── 📄 mdf-td1.pdf
+│   │   ├── 📄 nanopdf.com_exercice-n4.pdf
+│   │   ├── 📄 MDF_2BTD.zip
+│   │   ├── 📄 ex-mdf2.pdf
+│   │   ├── 📄 1-travaux-diriges-corriges-mecanique-des-fluides.pdf
+│   │   ├── 📄 8-travaux-diriges-corriges-mecanique-des-fluides-couche-limite.pdf
+│   │   ├── 📄 nanopdf.com_mecanique-des-fluides-approfondie(2).pdf
+│   │   ├── 📄 0-travaux-diriges-mecanique-des-fluides-statique-des-fluides.pdf
+│   │   └── 📁 Exercices de statique des fluides_files/
+│   ├── 📁 TP fluide/
+│   │   ├── 📄 1.png
+│   │   ├── 📄 4(1).png
+│   │   ├── 📄 6(1).png
+│   │   ├── 📄 3(1).png
+│   │   ├── 📄 10.png
+│   │   ├── 📄 pertes de charge(1).doc
+│   │   ├── 📄 3.png
+│   │   ├── 📄 8(1).png
+│   │   ├── 📄 pertes de charge.doc
+│   │   ├── 📄 6.png
+│   │   ├── 📄 9(1).png
+│   │   ├── 📄 2(1).png
+│   │   ├── 📄 8.png
+│   │   ├── 📄 7.png
+│   │   ├── 📄 9.png
+│   │   ├── 📄 10(1).png
+│   │   ├── 📄 5.png
+│   │   └── 📄 Sans titre.png
+│   ├── 📁 TD Fluide/
+│   │   ├── 📄 ex7.png
+│   │   ├── 📄 ex7(1).png
+│   │   ├── 📄 ex1.png
+│   │   ├── 📄 ex6.png
+│   │   ├── 📄 ex10(1).png
+│   │   ├── 📄 ex8.png
+│   │   ├── 📄 ex3.png
+│   │   ├── 📄 ex2(2).png
+│   │   ├── 📄 ex9(2).png
+│   │   ├── 📄 ex10(2).png
+│   │   ├── 📄 ex9(1).png
+│   │   ├── 📄 ex6(1).png
+│   │   ├── 📄 ex11(2).png
+│   │   ├── 📄 ex9(1)(1).png
+│   │   ├── 📄 ex9(2)(1).png
+│   │   ├── 📄 ex4.png
+│   │   ├── 📄 ex11(1).png
+│   │   ├── 📄 ex8(1).png
+│   │   ├── 📄 ex5.png
+│   │   └── 📄 ex2(1).png
+│   └── 📁 td+corre/
+│       ├── 📄 SERIE01.pdf
+│       ├── 📄 CORREC_SERIE01_1.pdf
+│       ├── 📄 CORREC_SERIE02.pdf
+│       ├── 📄 SERIE03.pdf
+│       ├── 📄 CORREC_SERIE03.pdf
+│       ├── 📄 SERIE02.pdf
+│       └── 📄 CORREC_SERIE01_2.pdf
+├── 📁 Examens/
+│   ├── 📄 Examen Final Mécanique des Fluides.pdf
+│   ├── 📄 Correction EXAMEN QCM MÉCANIQUE DES FLUIDES.pdf
+│   ├── 📄 ÉPREUVE DE MÉCANIQUE avec 7 exercices.PDF
+│   ├── 📄 Examen partiel Dynamique des Fluides Réels.PDF
+│   ├── 📄 ÉCOULEMENT DES FLUIDES PARFAITS exercice mécanique des fluides .pdf
+│   ├── 📄 Examen de Mecanique des fluides.pdf
+│   ├── 📄 devoir mécanique des fluides corrigé .pdf
+│   ├── 📄 EXAMEN QCM MÉCANIQUE DES FLUIDES.pdf
+│   ├── 📄 Devoir Surveillé Mécanique des Fluides.pdf
+│   ├── 📄 DEVOIR SURVEILLE DE PHYSIQUE N°4.pdf
+│   ├── 📄 Examen final (S2) Mécanirue des Fluides.pdf
+│   └── 📄 examen mécanique des fluides.pdf
+├── 📁 Tds et exo/
+│   ├── 📄 TRAVAUX DIRIGES DE MECANIQUE DES FLUIDES.pdf
+│   ├── 📄 T.D. N°2 Phénomènes de Surface.pdf
+│   ├── 📄 travaux dirigés de mécanique des fluides cinématique des fluides dynamique des fluides parfaits.pdf
+│   ├── 📄 td 12 mécanique des fluides pdf.pdf
+│   ├── 📄 Exercice de Mécanique Des Fluides hydro.pdf
+│   ├── 📄 exercice mécanique des fluides pdf.pdf
+│   ├── 📄 Exercices de mécanique des fluides avec solutions pdf.pdf
+│   ├── 📄 Exercices Introduction à l’hydraulique pour les ingénieurs civils et environmentalistes Mécanique des fluides.PDF
+│   ├── 📄 Exercices corrigés Mécanique des fluides et systèmes ouverts.pdf
+│   ├── 📄 problème b  ecoulement d’eau dans un canal rectiligne.pdf
+│   ├── 📄 Mécanique des fluides. Chapitre 2. .pdf
+│   ├── 📄 TD N° 5  Dynamique des Fluides Réels.pdf
+│   ├── 📄 exercices tension superficielle.pdf
+│   ├── 📄 Exercices de Mécanique des Fluides Terminale STL PLPI.pdf
+│   ├── 📄 TD - Hydrostatique (avec solution).pdf
+│   ├── 📄 TRAVAUX DIRIGES N°1 Statique des fluides.pdf
+│   ├── 📄 Série n°4  TRAVAUX DIRIGES DE MECANIQUE DES FLUIDES.pdf
+│   ├── 📄 Exercices-de-mcanique-du-solide.pdf
+│   ├── 📄 Travaux dirigés Mécanique, Mécanique des fluides.pdf
+│   ├── 📄 TDs de mécanique des fluides parfaits.pdf
+│   ├── 📄 exercices DYNAMIQUE DES FLUIDES PARFAITS.pdf
+│   ├── 📄 TD comportement d’un fluide.pdf
+│   ├── 📄 Fiche de TD n°1 Statique des Fluides.pdf
+│   ├── 📄 Exercices Statique des fluides.pdf
+│   ├── 📄 Séries d’exercices avec corrigés Mécanique des Fluides .pdf
+│   ├── 📄 Travaux dirigés de Mécanique des Fluides.pdf
+│   ├── 📄 T.D. N°4  Dynamique des Fluides Parfaits.pdf
+│   ├── 📄 Suite Série n°5  TRAVAUX DIRIGES DE MECANIQUE DES FLUIDES.pdf
+│   ├── 📄 TD - Hydrostatique avec corrigé.pdf
+│   ├── 📄 TD Thermodynamique n o 3 Statique des fluides.PDF
+│   ├── 📄 TD Mecanique des fluides.pdf
+│   ├── 📄 Exercices – Ecoulement parfait  Bernoulli.pdf
+│   ├── 📄 Exercices de Mécanique des Fluides Relation de Bernoull.pdf
+│   ├── 📄 TD N° 8  Ecoulements fluides Parfaits.pdf
+│   ├── 📄 Travaux dirigés de l’UV P8 Initiation à la mécanique des fluides.pdf
+│   ├── 📄 CINEMATIQUE DES FLUIDES - EXERCICES.pdf
+│   ├── 📄 exercice√s-de-mecanique-des-fluides.pdf
+│   ├── 📄 td MDFsanscorretion-barragesolpressionmoment.PDF
+│   ├── 📄 exercices de mécanique des fluides avec solutions détallées.pdf
+│   ├── 📄 td mécanique des fluides corrigé pdf.PDF
+│   ├── 📄 T.D. N°3 Cinématique des Fluides. Champ de vitesse.pdf
+│   ├── 📄 Série de TD 5  Hydrodynamique.pdf
+│   └── 📄 Exercices sur le chap. 7 dynamique des fluides réels.pdf
+└── 📁 Cours/
+    ├── 📄 Rappels Mathématiques -  Rappel sur le calcul vectoriel.pdf
+    ├── 📄 chapitre ii  statique des fluides (hydrostatique).pdf
+    ├── 📄 Cours Mécanique des Fluides illustré avec des exemples.pdf
+    ├── 📄 cours complet mecanique-des-fluides.pdf
+    ├── 📄 Chapitre 10  Mécanique des fluides.PDF
+    ├── 📄 Polycopie-mecanique des fluides.PDF
+    ├── 📄 chapitre 5 cours mecanique des fluides.pdf
+    ├── 📄 cours mécanique des fluides.PDF
+    └── 📄 cours mécanique des fluides et exerices de chaque chapitre.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Mécanique des Fluides
+═════════════════════════════════════

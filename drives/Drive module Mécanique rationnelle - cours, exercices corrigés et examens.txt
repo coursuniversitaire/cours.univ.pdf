@@ -1,0 +1,93 @@
+📚 MODULE : Mécanique rationnelle                     
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Mécanique rationnelle.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Mécanique rationnelle/
+├── 🔗📁 Mecanique Rationnelle/  (raccourci)
+│   ├── 📁 Exo Mecanique Ratt avec Sol /
+│   │   ├── 📄 EMD1-MR1-Exercice 02-Statique 3D.pdf
+│   │   ├── 📄 EMD1-MR1-Exercice 05-Statique 3D.pdf
+│   │   ├── 📄 EMD1-MR1-Exercice 04-Statique 3D.pdf
+│   │   ├── 📄 EMD1-MR1-Exercice 03-Statique 3D.pdf
+│   │   └── 📄 Exercice d'examen MR1- 2Année-CPST.pdf
+│   ├── 📁 Examen Mécanique rationnelle/
+│   │   ├── 📄 Examen Mecanique Ratt avec Sol.pdf
+│   │   ├── 📄 es2_mr.pdf
+│   │   ├── 📄 corrige_es2_mr.pdf
+│   │   ├── 📄 corrige_es2_mr_2013.pdf
+│   │   └── 📄 es2_mr_2013.pdf
+│   ├── 📁 TD Mécanique rationnelle_/
+│   │   ├── 📄 IMG_20210121_144439.jpg
+│   │   ├── 📄 IMG_20210121_144456.jpg
+│   │   ├── 📄 IMG_20210121_144504.jpg
+│   │   ├── 📄 IMG_20210121_144410.jpg
+│   │   ├── 📄 IMG_20210121_144450.jpg
+│   │   ├── 📄 IMG_20210121_144419.jpg
+│   │   ├── 📄 IMG_20210209_193103.jpg
+│   │   ├── 📄 IMG_20210209_193230.jpg
+│   │   ├── 📄 IMG_20210209_193051.jpg
+│   │   ├── 📄 IMG_20210209_193242.jpg
+│   │   ├── 📄 IMG_20210209_193300.jpg
+│   │   └── 📄 IMG_20210209_193252.jpg
+│   └── 📁 Cours Mécanique rationnelle/
+│       ├── 📄 Copie de mecanique_rationnelle_book.pdf
+│       ├── 📁 Cours Mecanique Ratt 2022-2023/
+│       │   └── 📄 Chapitre 1_Eléments de Calcul Vectoriel.pdf
+│       └── 📁 Cours Mecanique Ratt 2021-2022/
+│           ├── 📄 Chapitre 3 Mécanique rationnelle_La Statique.pdf
+│           ├── 📄 Chapitre 2 Mécanique rationnelle_Généralités et Définitions de base.pdf
+│           └── 📄 Chapitre 1 Mécanique rationnelle_Eléments de Calcul Vectoriel.pdf
+├── 📄 Mécanique rasienal -20260508T204028Z-3-001.zip
+├── 🔗📁 EMD Mécanique Rationnelle/  (raccourci)
+│   ├── 📄 EMD GC L2-24.jpg
+│   ├── 📄 EMD GC L2-26.jpg
+│   └── 📄 EMD GC L2-25.jpg
+├── 🔗📁 Mécanique rasienal /  (raccourci)
+│   ├── 📁 Les examens corrigé MR/
+│   │   ├── 📄 MR_merged.pdf
+│   │   └── 📄 mr2_merged.pdf
+│   ├── 📁 Les séries /
+│   │   ├── 📄 Série-N3-MR_2021-2022.pdf
+│   │   ├── 📄 Série-2_MR_2022-2023_Sans-Corrigé.pdf
+│   │   └── 📄 Série 1_MR_2022-2023_Sans Corrigé.pdf
+│   └── 📁 Cour/
+│       ├── 📄 Copie de COURS_BOUZIDI Mohamed Amin_MÉCANIQUE RATIONNELLE.pdf
+│       ├── 📄 Copie de cours MECANIQUE RATIONNELLE L2.pdf
+│       ├── 📄 Copie de 1mecanique_rationnelle_book.pdf
+│       ├── 📄 Differents types de Contacts_system  3D.pdf
+│       └── 📄 Differents types de Contacts_system  2D.pdf
+├── 🔗📁 Mécanique rationnelle/  (raccourci)
+│   ├── 📁 2015-2016/
+│   │   ├── 📄 EMD GC L2-15.jpg
+│   │   ├── 📄 EMD GC L2-15.jpg
+│   │   ├── 📄 EMD GC L2-13.jpg
+│   │   ├── 📄 EMD GC L2-13.jpg
+│   │   ├── 📄 EMD GC L2-17.jpg
+│   │   ├── 📄 EMD GC L2-14.jpg
+│   │   ├── 📄 EMD GC L2-18.jpg
+│   │   └── 📄 EMD GC L2-16.jpg
+│   ├── 📁 2016-2017/
+│   │   ├── 📄 EMD GC L2-22.jpg
+│   │   ├── 📄 EMD GC L2-23.jpg
+│   │   ├── 📄 EMD GC L2-21.jpg
+│   │   ├── 📄 EMD GC L2-19.jpg
+│   │   └── 📄 EMD GC L2-20.jpg
+│   └── 📁 EMD Mécanique Rationnelle/
+│       └── ⚠️  [Référence circulaire ignorée]
+└── 🔗📁 mécanique rationnelle /  (raccourci)
+    └── 📄 LIVRE MECANIQUE RATIONNELLE 2017.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Mécanique rationnelle
+═════════════════════════════════════

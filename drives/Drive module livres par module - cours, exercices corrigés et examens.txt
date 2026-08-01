@@ -1,0 +1,326 @@
+📚 MODULE : livres par module                         
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module livres par module.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 livres par module/
+└── 🔗📁 Livres/  (raccourci)
+    ├── 📁 Thermique/
+    │   └── 📄 La préparation des moteurs.pdf
+    ├── 📁 Énergétique/
+    │   ├── 📄 81196342-ANAP-Performance-Energetique-BAT.pdf
+    │   ├── 📄 memotech genie energetique.pdf
+    │   └── 📄 ENERGIE ET DEVELOPPEMENT DURABLE.pdf
+    ├── 📁 Production/
+    │   ├── 📄 Gestion-de-production 5éme Edition (1).pdf
+    │   ├── 📄 Le-Guide-qualite-de-la-gestion-de-production.pdf
+    │   ├── 📄 Guide_pratique_des_5S_et_du_management_visuel_ed2_v1.pdf
+    │   ├── 📄 Pratique-de-la-Gestion-des-Stocks.pdf
+    │   ├── 📄 L_usine s_affiche.pdf
+    │   ├── 📄 Techniques de productivité.pdf
+    │   ├── 📄 Les basiques du lean manufacturing.pdf
+    │   ├── 📄 Management de la production.pdf
+    │   ├── 📄 Aide-mémoire gestion industrielle.pdf
+    │   ├── 📄 Gestion de la production.pdf
+    │   ├── 📄 Les outils de la performance industrielle.pdf
+    │   └── 📄 Processus les outils d_optimisation de la performance.pdf
+    ├── 📁 Qualité/
+    │   ├── 📄 lean-six-sigma.pdf
+    │   ├── 📄 453688545-Lean-FR-pdf.pdf
+    │   ├── 📄 53772128-6-Sigma.pdf
+    │   ├── 📄 39271167-Mettre-en-Oeuvre-Le-Six-Sigma.pdf
+    │   ├── 📄 Tableaux_de_bord_outils_de_performance.pdf
+    │   ├── 📄 Construisez votre qualité.pdf
+    │   ├── 📄 analyse des donnés SPSS.pdf
+    │   ├── 📄 Lapproche_qualité_perçue.pdf
+    │   ├── 📄 Théorie et Pratique de l_Audit Interne.pdf
+    │   ├── 📄 Déployer et exploiter lean six sigma.pdf
+    │   ├── 📄 Réussir la démarche qualité.pdf
+    │   ├── 📄 Guide des processus.pdf
+    │   ├── 📄 L_approche Processus.pdf
+    │   ├── 📄 MANAGEMENT DE LA QUALITE.pdf
+    │   └── 📄 Qualité en production.pdf
+    ├── 📁 Logistique/
+    │   ├── 📄 127746005-Cahier-Fiches-Logistique.pdf
+    │   ├── 📄 135253045-Logistique-Transport.pdf
+    │   ├── 📄 484260575-La-logistique-pdf.pdf
+    │   ├── 📄 374756599-DUNOD-Logistique.pdf
+    │   ├── 📄 291261212-Management-de-La-Distribution.pdf
+    │   ├── 📄 Gestion des approvisionnements et des stocks dans la chaine logistique.pdf
+    │   └── 📄 Les basiques de la gestion industrielle et logistique.pdf
+    ├── 📁 Management/
+    │   ├── 📄 me.pdf
+    │   ├── 📄 Comités éxecutifs.pdf
+    │   ├── 📄 Toute la fonction management.pdf
+    │   ├── 📄 Le_reengineering.pdf
+    │   ├── 📄 Les nouveaux tableaux de bord des managers.pdf
+    │   ├── 📄 Technique du succès.pdf
+    │   ├── 📄 Guide pratique des 5S pour les managers et les encadrants.pdf
+    │   ├── 📄 Gestion du temps.pdf
+    │   ├── 📄 Guide des relations sociales dans l_entreprise.pdf
+    │   ├── 📄 Réussir ses comptes rendus.pdf
+    │   ├── 📄 Théorie de la décision.pdf
+    │   └── 📄 Contrôle_de_Gestion_et_Pilotage_de_la_Performanc.pdf
+    ├── 📁 Sécurité/
+    │   ├── 📄 Guide-REX.pdf
+    │   ├── 📄 ed832.pdf
+    │   ├── 📄 Réussir une enquete A.T.pdf
+    │   ├── 📄 Risques professionnels.pdf
+    │   └── 📄 475354454-management-SST-1599612009.pdf
+    ├── 📁 Physique/
+    │   ├── 📄 Optique_geometrique.pdf
+    │   ├── 📄 ondes-et-electromagnetis.pdf
+    │   ├── 📄 LA THERMODYNAMIQUE.pdf
+    │   └── 📄 PRINCIPES D_ELECTROTECHNIQUE.pdf
+    ├── 📁 Maintenance/
+    │   ├── 📄 Management de la maintenance.pdf
+    │   ├── 📄 PRATIQUE DE LA MAINTENACE PREVENTIVE.pdf
+    │   └── 📄 Memotech Maintenance industrielle.pdf
+    ├── 📁 Mathématique/
+    │   ├── 📄 182Maths appliquee a la gestion.pdf
+    │   ├── 📄 Ma_triser_l_al_atoire.pdf
+    │   ├── 📄 Ma_triser_l_al_atoire(1).pdf
+    │   ├── 📄 Qcm Mathemathique Algebre Probabilites Statistiques.pdf
+    │   ├── 📄 Qcm Mathemathique Analyse Algorithmes.pdf
+    │   ├── 📄 Dict-Proba-Stats.pdf
+    │   ├── 📄 Aide mémoire Statistique et probabilités.pdf
+    │   ├── 📄 MATHEMATIQUES ANALYSE EN 30 FICHIES.pdf
+    │   ├── 📄 METHODES ET EXERCICES DE MATHEMATIQUES.pdf
+    │   └── 📄 Probabilite.pdf
+    ├── 📁 Projet/
+    │   ├── 📄 405920176-Management-de-projet-pdf.pdf
+    │   ├── 📄 Gestion de projet Vers les méthodes agiles - 2éme Edition.pdf
+    │   ├── 📄 Concevoir et lancer un projet.pdf
+    │   ├── 📄 Piloter un projet d_organisation.pdf
+    │   └── 📄 Management de la continuité.pdf
+    ├── 📁 Mecanique/
+    │   ├── 📄 Injection plastique.pdf
+    │   ├── 📄 usinage--par-enlevement-de-matiere.pdf
+    │   ├── 📄 Manuel+de+technologie+m_C3_A9canique.pdf
+    │   ├── 📄 cours CATIA V5.pdf
+    │   ├── 📄 TP_catiaV5_as.pdf
+    │   ├── 📄 TP_mise_en_plan2D.pdf
+    │   ├── 📄 TP_catiaV5_3d.pdf
+    │   ├── 📄 Construction_Industrielle.pdf
+    │   ├── 📄 CNC Programation.pdf
+    │   ├── 📄 Aide Mémoire Transformation Des Matières Plastiques.pdf
+    │   ├── 📄 GlossaireMateriauxComposites_CARMA.pdf
+    │   ├── 📄 Aide Mémoire Science Des Materiaux.pdf
+    │   ├── 📄 Aide Mémoire Technique.pdf
+    │   ├── 📄 Mecanique_Appliquee_-_Resistance_des_Materiaux__Mecanique_des_Fluides__Thermodynamique_2.pdf
+    │   ├── 📄 Guide de Mécanique.pdf
+    │   ├── 📄 Mécanique_solide.pdf
+    │   ├── 📄 Aide-mémoire du chaudronnier et du soudeur.pdf
+    │   ├── 📄 formulairedemecaniquepiecesdeconstruction.pdf
+    │   ├── 📄 Guide du dessinateur industriel.pdf
+    │   ├── 📄 3034800118GeometrieFr.pdf
+    │   ├── 📄 Mecanique generale.pdf
+    │   ├── 📄 Mini_manuel_de_Mécanique_du_point_L1_L2.pdf
+    │   ├── 📄 Comprendre la Mécanique Quantique (Roland Omnès) 2868834701.pdf
+    │   └── 📄 Essentials_Parts_Assemblies_DRAFT.pdf
+    ├── 📁 Chimie/
+    │   ├── 📄 Aide-memoire-Matieres-plastiques.pdf
+    │   ├── 📄 ANALYSE CHIMIQUE.pdf
+    │   └── 📄 Chimie organique.pdf
+    ├── 📁 Hydraulique/
+    │   ├── 📄 15_Maintenance.docx
+    │   ├── 📄 16_Soupape_Equilibrage.docx
+    │   ├── 📄 14_Hydraulique_proportionnelle.docx
+    │   ├── 📄 13_La_schematisation.docx
+    │   ├── 📄 11_Verins_et_moteurs.docx
+    │   ├── 📄 12_Les_accumulateurs.docx
+    │   ├── 📄 10_La_regulation_de_pression.docx
+    │   ├── 📄 09_La_regulation_de_debit.docx
+    │   ├── 📄 07_Limiteur_de_pression.docx
+    │   ├── 📄 06_Les_pompes.docx
+    │   ├── 📄 08_Les_distributeurs_TOR.docx
+    │   ├── 📄 04_La_Centrale_Hydraulique.docx
+    │   ├── 📄 05_La_Filtration.docx
+    │   ├── 📄 03_Constitutuion_generale_des_circuits.docx
+    │   ├── 📄 01_Introduction.docx
+    │   ├── 📄 02_Prinicipes_Generaux.docx
+    │   ├── 📄 13 - La Soupape de Séquence.pdf
+    │   ├── 📄 10 - Le Réducteur de débit.pdf
+    │   ├── 📄 09 - Le Réducteur de Pression.pdf
+    │   ├── 📄 08 - Le Limiteur de Pression.pdf
+    │   ├── 📄 05_Les Pompes hydrauliques.pdf
+    │   ├── 📄 04_Le Réservoir, les Canalisations.pdf
+    │   ├── 📄 Pollution des fluides hydrauliques.pdf
+    │   ├── 📄 01 - Dossier_symboles_hydrauliques_.pdf
+    │   ├── 📄 02b - Les fluides hydraulique.pdf
+    │   ├── 📄 Aides TP1 Hydraulique.pdf
+    │   ├── 📄 BM-3-HYDRAULIQUE-WEB.pdf
+    │   └── 📄 537dbc54703e8.pdf
+    ├── 📁 Electrique/
+    │   ├── 📄 Instrumentation et régulation en 30 fiches.pdf
+    │   ├── 📄 manuel de genie electrique.pdf
+    │   ├── 📄 Sur la route de l_electricite t1.pdf
+    │   ├── 📄 Automatique - Systèmes linéaires, non linéaires-2E.pdf
+    │   ├── 📄 Livre Exercices et problemes d_electrotechnique.pdf
+    │   ├── 📄 ELECTRICITE EN 19 FICHIERS.pdf
+    │   ├── 📄 L_ELECTRONIQUE DE A à Z.pdf
+    │   └── 📄 Electricité générale.pdf
+    ├── 📁 Electronique/
+    │   ├── 📄 Electronique Pratique.pdf
+    │   ├── 📄 L_électronique par l_éxperience - DUNOD - Pierre Mayé - Edt Mars 2004.pdf
+    │   ├── 📄 Electronique de A à Z.pdf
+    │   ├── 📄 Systèmes temps réel de contrôle-commande - Conception et implémentation.pdf
+    │   ├── 📄 Convertisseurs et électronique de puissance - Commande, description, mise en oeuvre.pdf
+    │   ├── 📄 Conception des circuits VLSI - Du composant au système.pdf
+    │   ├── 📄 Micro et nano-électronique - Bases, composants, circuits.pdf
+    │   └── 📄 Traitement numérique du signal.pdf
+    ├── 📁 Finance/
+    │   ├── 📄 explication_des_comptes.pdf
+    │   ├── 📄 Fechtali_Comptabilit_G_n_rale_des_Entreprises_Marocaines_Tome_1_et_2_.pdf
+    │   ├── 📄 Finance d_entreprise 02.pdf
+    │   ├── 📄 IGOC 2019.pdf
+    │   ├── 📄 PRINCIPALES MESURES FISCALES INTRODUITES PAR LA LOI DE FINANCES RECTIFICATIVE 2020.pdf
+    │   ├── 📄 Comprendre les états comptables et financiers des émetteurs.pdf
+    │   ├── 📄 Fiscalité-de-l’entreprise-cours-complet-s5.pdf
+    │   ├── 📄 ARRETE DES COMPTES.pdf
+    │   ├── 📄 Guide pratique pour l_analyse des comptes annuels.pdf
+    │   ├── 📄 FINANCE D_ENTREPRISE.pdf
+    │   ├── 📄 comptabilite approfondie.pdf
+    │   ├── 📄 DSCG 1-Gestion Juridique-Sociale et Fiscale-Manuel et Exos.pdf
+    │   ├── 📄 DSCG 2-Finance-Manuel et applications.pdf
+    │   ├── 📄 DSCG 2-Finance-Corrigés du manuel.pdf
+    │   ├── 📄 DSCG 4-Comptabilité et Audit-Manuel et Applications.pdf
+    │   ├── 📄 DSCG 6 epreuve orale d_économie.pdf
+    │   ├── 📄 DCG 9-Introduction à la Comptabilité-Cas Pratiques.pdf
+    │   ├── 📄 DCG 6- Finance d_entreprise.pdf
+    │   ├── 📄 DCG 5-Economie en 36 Fiches.pdf
+    │   ├── 📄 Comprendre-les-crises-financieres.pdf
+    │   ├── 📄 Le contrôle de Gestion.pdf
+    │   ├── 📄 comptabilite de gestion.pdf
+    │   ├── 📄 Management des risques.pdf
+    │   └── 📄 Les ratios qui comptent.pdf
+    ├── 📁 Commerce/
+    │   ├── 📄 marketing-gagnant-aujourdhui-grandes-theories-032.pdf
+    │   ├── 📄 Marketing_-_6supe_sup_édition.pdf
+    │   └── 📄 Marketing en environnement islamique.pdf
+    ├── 📁 Agroalimentaire/
+    │   └── 📄 Maîtriser ensemble l_emballage alimentaire.pdf
+    ├── 📁 Communication/
+    │   ├── 📁 Francais/
+    │   │   ├── 📄 outils de communication.pdf
+    │   │   ├── 📄 Culture générale.pdf.pdf
+    │   │   ├── 📄 30 fiches pour réussir les épreuves de français.pdf
+    │   │   ├── 📄 Exercices de Vocabulaire en Contexte - Niveau debutant.pdf
+    │   │   ├── 📄 La-technique-vocale.pdf
+    │   │   ├── 📄 9awa3ed-iste3mel-francais.pdf
+    │   │   ├── 📄 Ecrire un Discours.pdf
+    │   │   └── 📄 Le cv La lettre et l_entretien.pdf
+    │   └── 📁 Anglais/
+    │       ├── 📄 english-for-emails-1.pdf
+    │       ├── 📄 Comment enseigner anglais du ce1 au cm2.pdf
+    │       ├── 📄 Oxford_preparation_course_for_the_TOEIC__test__New_Edition.pdf
+    │       ├── 📄 400-Must-Have-Words-for-the-TOEFL-2005.pdf
+    │       ├── 📄 Reussir-le-nouveau-TOEFL.pdf
+    │       ├── 📄 Je Me Débruille en Anglais.pdf
+    │       ├── 📄 BLED Vocabulaire Anglais.pdf
+    │       ├── 📄 Etre PRO en Anglais.pdf
+    │       ├── 📄 Découvrez le Globish.pdf
+    │       ├── 📄 Your cv in english.pdf
+    │       ├── 📄 Dictionnaire Scientifique Anglais-Francais 3e Ed.pdf
+    │       ├── 📄 Epreuve de Thème Anglais.pdf
+    │       └── 📁 Very Easy TOEIC Audio/
+    │           ├── 📁 Disk 2/
+    │           │   ├── 📄 21 Track 21.mp3
+    │           │   ├── 📄 24 Track 24.mp3
+    │           │   ├── 📄 06 Track 06.mp3
+    │           │   ├── 📄 05 Track 05.mp3
+    │           │   ├── 📄 23 Track 23.mp3
+    │           │   ├── 📄 04 Track 04.mp3
+    │           │   ├── 📄 22 Track 22.mp3
+    │           │   ├── 📄 16 Track 16.mp3
+    │           │   ├── 📄 08 Track 08.mp3
+    │           │   ├── 📄 02 Track 02.mp3
+    │           │   ├── 📄 10 Track 10.mp3
+    │           │   ├── 📄 14 Track 14.mp3
+    │           │   ├── 📄 19 Track 19.mp3
+    │           │   ├── 📄 07 Track 07.mp3
+    │           │   ├── 📄 20 Track 20.mp3
+    │           │   ├── 📄 17 Track 17.mp3
+    │           │   ├── 📄 18 Track 18.mp3
+    │           │   ├── 📄 11 Track 11.mp3
+    │           │   ├── 📄 13 Track 13.mp3
+    │           │   ├── 📄 09 Track 09.mp3
+    │           │   ├── 📄 15 Track 15.mp3
+    │           │   ├── 📄 03 Track 03.mp3
+    │           │   ├── 📄 01 Track 01.mp3
+    │           │   └── 📄 12 Track 12.mp3
+    │           └── 📁 Disk 1/
+    │               ├── 📄 40 Track 40.mp3
+    │               ├── 📄 07 Track 07.mp3
+    │               ├── 📄 17 Track 17.mp3
+    │               ├── 📄 18 Track 18.mp3
+    │               ├── 📄 03 Track 03.mp3
+    │               ├── 📄 29 Track 29.mp3
+    │               ├── 📄 28 Track 28.mp3
+    │               ├── 📄 37 Track 37.mp3
+    │               ├── 📄 08 Track 08.mp3
+    │               ├── 📄 34 Track 34.mp3
+    │               ├── 📄 33 Track 33.mp3
+    │               ├── 📄 15 Track 15.mp3
+    │               ├── 📄 02 Track 02.mp3
+    │               ├── 📄 25 Track 25.mp3
+    │               ├── 📄 26 Track 26.mp3
+    │               ├── 📄 04 Track 04.mp3
+    │               ├── 📄 05 Track 05.mp3
+    │               ├── 📄 20 Track 20.mp3
+    │               ├── 📄 31 Track 31.mp3
+    │               ├── 📄 32 Track 32.mp3
+    │               ├── 📄 27 Track 27.mp3
+    │               ├── 📄 35 Track 35.mp3
+    │               ├── 📄 36 Track 36.mp3
+    │               ├── 📄 09 Track 09.mp3
+    │               ├── 📄 14 Track 14.mp3
+    │               ├── 📄 22 Track 22.mp3
+    │               ├── 📄 16 Track 16.mp3
+    │               ├── 📄 10 Track 10.mp3
+    │               ├── 📄 19 Track 19.mp3
+    │               ├── 📄 11 Track 11.mp3
+    │               ├── 📄 38 Track 38.mp3
+    │               ├── 📄 23 Track 23.mp3
+    │               ├── 📄 12 Track 12.mp3
+    │               ├── 📄 13 Track 13.mp3
+    │               ├── 📄 39 Track 39.mp3
+    │               ├── 📄 24 Track 24.mp3
+    │               ├── 📄 21 Track 21.mp3
+    │               ├── 📄 06 Track 06.mp3
+    │               ├── 📄 01 Track 01.mp3
+    │               └── 📄 30 Track 30.mp3
+    ├── 📁 Environnement/
+    │   ├── 📄 81196342-ANAP-Performance-Energetique-BAT.pdf
+    │   ├── 📄 382161142-EDF-Centrales-Nucleaires-Et-Environnement.pdf
+    │   ├── 📄 82059800-Aqua1-Interactions-Environnement-Fra.pdf
+    │   ├── 📄 405198336-Guide-environnement-2014-pdf.pdf
+    │   ├── 📄 160982582-integrale-environnement.pdf
+    │   ├── 📄 Industriels en démarche ISO 14001.pdf
+    │   └── 📄 Aide-mémoire gestion des déchets.pdf
+    └── 📁 Dév personnel/
+        ├── 📄 Pierre Morin, Eric Delavallée-Le manager à l_écoute du sociologue (2000).pdf
+        ├── 📄 Le temps de l_incertitude.pdf
+        ├── 📄 Manager son équipe au quotidien (1).pdf
+        ├── 📄 Manager En Toutes Lettres.pdf
+        ├── 📄 Leadership.pdf
+        ├── 📄 questions_Entretien By Mr-AmS.pdf
+        ├── 📄 Le grand livre du coaching.pdf
+        ├── 📄 L_intelligence de situation.pdf
+        ├── 📄 Manuel de coaching.pdf
+        ├── 📄 Coaching d_équipe.pdf
+        └── 📄 Tests d_intelligence.pdf
+
+═════════════════════════════════════
+  Fin du fichier · livres par module
+═════════════════════════════════════

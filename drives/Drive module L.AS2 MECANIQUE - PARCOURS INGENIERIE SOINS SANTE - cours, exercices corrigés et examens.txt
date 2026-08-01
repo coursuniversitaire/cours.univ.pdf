@@ -1,0 +1,466 @@
+📚 MODULE : L.AS2 MECANIQUE - PARCOURS INGENIERIE SOINS SANTE
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module L.AS2 MECANIQUE - PARCOURS INGENIERIE SOINS SANTE.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 L.AS2 MECANIQUE - PARCOURS INGENIERIE SOINS SANTE/
+├── 🔗📁 drive las2 méca /  (raccourci)
+│   ├── 📁 matériaux/
+│   │   ├── 📄 CM composite.pdf
+│   │   ├── 📄 CM métaux .pdf
+│   │   ├── 📄 CM4 matériaux .pdf
+│   │   ├── 📄 CM5 matériaux  (1).pdf
+│   │   ├── 📄 CM céramique .pdf
+│   │   ├── 📄 CM2 mat_ propriétés physique  (1).pdf
+│   │   ├── 📄 CM1 mat_ liaison atmomique  (1).pdf
+│   │   └── 📄 CM1 mat_intro  (1).pdf
+│   └── 📁 Connaissance de l'entreprise ( CE) /
+│       ├── 📄 QCM CC1 CE.pdf
+│       ├── 📄 question CC3 _ Back Market .pdf
+│       ├── 📄 Theme 4 CE.pdf
+│       ├── 📄 Thème 3 CE (1).pdf
+│       ├── 📄 Theme 2 CE (1).pdf
+│       └── 📄 thème1 entreprise v2 (1).pdf
+└── 🔗📁 Licence 2 mécanique parcours ISS/  (raccourci)
+    ├── 📁 Semestre 4/
+    │   ├── 📁 Gestion de projet/
+    │   │   ├── 📄 02-Projet PERT L2spi.pdf
+    │   │   └── 📄 01-Intro GP L2 SPI.pdf
+    │   ├── 📁 DM et imagerie/
+    │   │   ├── 📄 imageries_L2ISS_2023.pdf
+    │   │   ├── 📄 Carte_mentale.pdf
+    │   │   ├── 📄 BiomatÃ©riaux- 04-04-2023.pdf
+    │   │   ├── 📄 Cours 3.pdf
+    │   │   ├── 📄 COURS LISS2-POLYMERES-21-03-2023.pdf
+    │   │   ├── 📄 COURS LISS2-POLYMERES-28-03-2023.pdf
+    │   │   ├── 📄 Diapos manquantes-EEA ISS-2022-2023.pdf
+    │   │   ├── 📄 Capture d’écran 2023-04-08 à 15.48.28.png
+    │   │   ├── 📄 results.pdf
+    │   │   ├── 📄 Cours 2.pdf
+    │   │   ├── 📄 Cours Intro.pdf
+    │   │   ├── 📄 Dispositifs mÃ©dicaux - cours 3 du 09-02-2023.pdf
+    │   │   ├── 📄 COURS L2ISS-DM-2022-2023-cours1-2.pdf
+    │   │   ├── 📄 cours_L_ISS_2022.pdf
+    │   │   ├── 📄 22 RÃ©gles de classification.pdf
+    │   │   ├── 📄  .pdf
+    │   │   ├── 📄 MDR-2017-745.PDF
+    │   │   ├── 📄 rÃ©ponse quiz1.pdf
+    │   │   ├── 📄 quiz1.pdf
+    │   │   └── 📁 Archives/
+    │   │       ├── 📄 correction-examen-session2-L2ISS-2019.pdf
+    │   │       ├── 📄 Examen-session2-L2ISS-2019.pdf
+    │   │       ├── 📄 CORRECTION-Examen-CT-L2ISS-2021.pdf
+    │   │       ├── 📄 EXAMEN DM POLYMERES BIOMATERIAUX.pdf
+    │   │       ├── 📄 Examen L2 ISS 2019 - session 2.pdf
+    │   │       ├── 📄 EXAMEN L2-ISS-2019.pdf
+    │   │       ├── 📄 Correction Examen 2017.pdf
+    │   │       ├── 📄 Examen 2018 -session 2.pdf
+    │   │       ├── 📄 Exercice de Calcul de masses molaires.jpg
+    │   │       ├── 📄 PRISMES.webarchive
+    │   │       ├── 📄 Quiz pour sentrainer.pdf
+    │   │       ├── 📄 QUIZ sur les POLYMERES.pdf
+    │   │       └── 📁 Les MÃ©tiers du Dispositif MÃ©dical-20230102/
+    │   │           └── 📄 FICHES METIERS du GBM.pdf
+    │   ├── 📁 Anglais going abroad/
+    │   │   ├── 📄 Argumentative essay.pages
+    │   │   ├── 📄 Pre arrival guide.pdf
+    │   │   ├── 📄 Final test anglais.pages
+    │   │   ├── 📄 Prep class 5.pages
+    │   │   ├── 📄 Prep class 5.pdf
+    │   │   ├── 📄 Prep class 4.pdf
+    │   │   └── 📄 Prep class 4.pages
+    │   ├── 📁 Resistance des materiaux 1/
+    │   │   ├── 📄 DM_ALITOUCHE_CARILLO_DUMAS.pdf
+    │   │   ├── 📄 représentation exo 1 partie 2 dm rdm.png
+    │   │   ├── 📄 représentation exo 1 partie 1 dm rdm.png
+    │   │   ├── 📄 L2_mai22.pdf
+    │   │   ├── 📄 ThÃ¨me 7_DeformeesFlexion_Correction.pdf
+    │   │   ├── 📄 IMG_9923.JPG
+    │   │   ├── 📄 IMG_9922.JPG
+    │   │   ├── 📄 LaTeX - Etudiant.zip
+    │   │   ├── 📄 Capture d’écran 2023-02-25 à 15.18.38.png
+    │   │   ├── 📄 SYNTHESE-MOMENTS2D-2.pdf
+    │   │   ├── 📄 SYNTHESE-CHARGES REPARTIES-2.pdf
+    │   │   ├── 📄 IMG_9666.HEIC
+    │   │   ├── 📄 Cours_2021-2.pdf
+    │   │   ├── 📄 IMG_9590.HEIC
+    │   │   ├── 📄 Theme2_action_meca.pdf
+    │   │   ├── 📄 Amphi 1-ActionsMecaniques_PFS.pdf
+    │   │   ├── 📄 Amphi 1-Introduction_Hypothese_RdM.pdf
+    │   │   ├── 📄 theme1_Modelisation.pdf
+    │   │   ├── 📄 PARTIEL_mars21.pdf
+    │   │   ├── 📄 L2_mai21.pdf
+    │   │   └── 📁 LaTeX - Etudiant/
+    │   │       ├── 📄 DM_1_RDM - V2.tex
+    │   │       ├── 📄 DM_1_RDM - V2.pdf
+    │   │       ├── 📄 Exo3_1.png
+    │   │       ├── 📄 Exo3_2.png
+    │   │       ├── 📄 Exo2_1.png
+    │   │       ├── 📄 elingue.jpeg
+    │   │       ├── 📄 exo1_1.png
+    │   │       └── 📄 stockage_poutre_beton.jpg
+    │   ├── 📁 Thermodynamique 1/
+    │   │   ├── 📄 Trace_TP2.py
+    │   │   └── 📄 elements_correction_Exo_serieS_1_2_3.pdf
+    │   ├── 📁 Mecanique des fluides dynamiques/
+    │   │   ├── 📄 cours 08 - dynamique visqueux.pdf
+    │   │   ├── 📄 cours 10 - ecoulements conduites.pdf
+    │   │   ├── 📄 cours 09 - ecoulements plans.pdf
+    │   │   ├── 📄 IMG_0313.JPG
+    │   │   ├── 📄 IMG_0310.JPG
+    │   │   ├── 📄 IMG_0312.JPG
+    │   │   ├── 📄 IMG_0311.JPG
+    │   │   ├── 📄 cours 07 - dynamique ouvert.pdf
+    │   │   ├── 📄 cours 06 - dynamique parfait.pdf
+    │   │   └── 📁 Annales/
+    │   │       ├── 📄 CT 17:5:22.pdf
+    │   │       ├── 📄 CT - correction 11:5:21.pdf
+    │   │       ├── 📄 CP corrigÃ© - V2.pdf
+    │   │       ├── 📄 correction CT annulé.pdf
+    │   │       ├── 📄 CP correction 2:3:21 détaillée.pdf
+    │   │       ├── 📄 CT1 - correction.pdf
+    │   │       ├── 📄 CP - correctionC.pdf
+    │   │       ├── 📄 CP v2.pdf
+    │   │       ├── 📄 CP correction 2:3:21.pdf
+    │   │       ├── 📄 CT1.pdf
+    │   │       ├── 📄 CT corrigé 14:1:22.pdf
+    │   │       ├── 📄 CT - annulé.pdf
+    │   │       ├── 📄 CT Correction 17:5:22.pdf
+    │   │       ├── 📄 CP 8:12.pdf
+    │   │       ├── 📄 CP correction 7:3:22.pdf
+    │   │       ├── 📄 CT 14:1:22.pdf
+    │   │       ├── 📄 CT - correction 11:01:21.pdf
+    │   │       ├── 📄 Cp-corrigé 10:11:21.pdf
+    │   │       ├── 📄 CP 7:3:22.pdf
+    │   │       ├── 📄 CP 10:11:21.pdf
+    │   │       ├── 📄 CP 2:3:21.pdf
+    │   │       ├── 📄 CP Correction 8:12.pdf
+    │   │       ├── 📄 CT 11:01:21.pdf
+    │   │       └── 📄 CT 11:05:21.pdf
+    │   ├── 📁 Informatique scientifique/
+    │   │   ├── 📄 revision.py
+    │   │   ├── 📄 insurance_data.csv
+    │   │   ├── 📄 temp.py
+    │   │   ├── 📄 Projet_3.py
+    │   │   ├── 📄 projet.py
+    │   │   ├── 📄 untitled7.py
+    │   │   ├── 📄 untitled8.py
+    │   │   ├── 📄 CO2_Emissions_Voiture.csv
+    │   │   ├── 📄 Donnees_TractionAcier.csv
+    │   │   ├── 📄 liste_note_aleatoire.csv
+    │   │   ├── 📄 bodyPerformance.csv
+    │   │   ├── 📄 untitled1.py
+    │   │   ├── 📄 Capture d’écran 2023-02-08 à 10.05.53.png
+    │   │   ├── 📄 Capture d’écran 2023-02-08 à 10.05.41.png
+    │   │   ├── 📁 Cours 1 screen/
+    │   │   │   ├── 📄 Capture d’écran 2023-02-07 à 14.48.12.png
+    │   │   │   ├── 📄 Capture d’écran 2023-02-07 à 14.48.01.png
+    │   │   │   ├── 📄 Capture d’écran 2023-02-07 à 14.47.51.png
+    │   │   │   ├── 📄 Capture d’écran 2023-02-07 à 14.47.37.png
+    │   │   │   ├── 📄 Capture d’écran 2023-02-07 à 14.47.27.png
+    │   │   │   ├── 📄 Capture d’écran 2023-02-07 à 14.47.12.png
+    │   │   │   ├── 📄 Capture d’écran 2023-02-07 à 14.47.01.png
+    │   │   │   └── 📄 Capture d’écran 2023-02-07 à 14.46.46.png
+    │   │   └── 📁 info3/
+    │   │       ├── 📄 untitled4.py
+    │   │       ├── 📄 CO2_Emissions_Voiture.csv
+    │   │       ├── 📄 untitled5.py
+    │   │       ├── 📄 liste_note_aleatoire_2.xlsx
+    │   │       └── 📄 liste_note_aleatoire.csv
+    │   ├── 📁 Maths approfondis/
+    │   └── 📁 Fonctions et calcul 4/
+    │       ├── 📄 IMG_9977.JPG
+    │       ├── 📄 IMG_9978.JPG
+    │       ├── 📄 feuille4corrigee.pdf
+    │       ├── 📄 IMG_9958.JPG
+    │       ├── 📄 IMG_9957.JPG
+    │       ├── 📄 IMG_9959.JPG
+    │       ├── 📄 IMG_9956.JPG
+    │       ├── 📄 feuille3corrigee.pdf
+    │       ├── 📄 feuille2corrigee.pdf
+    │       ├── 📄 feuille1corrigee.pdf
+    │       ├── 📄 SuitesSeriesFonctions.pdf
+    │       └── 📁 Archives Examens-20230211/
+    │           ├── 📄 CT_mai_2022_V2.pdf
+    │           ├── 📄 CT_mai_2022_cor.pdf
+    │           ├── 📄 CT_mai_2022_cor.tex
+    │           ├── 📄 CT_mai_2022.tex
+    │           ├── 📄 CT_juin_2021 session 2.pdf.pdf
+    │           ├── 📄 CT_mai_2022_V2.tex
+    │           ├── 📄 CP_mars_2022.tex
+    │           ├── 📄 CT_2019_cor.tex
+    │           ├── 📄 CT_2019_cor.pdf
+    │           └── 📄 CP_mars_2022.pdf
+    └── 📁 Semestre 3/
+        ├── 📁 Informatique scientifique/
+        │   ├── 📄 Anaconda-Navigator.zip
+        │   ├── 📄 saison4.pdf
+        │   ├── 📄 CTD3_L2GMEC.pdf
+        │   ├── 📄 infos.pages
+        │   ├── 📄 IMG_9074.heic
+        │   ├── 📄 CTD3_Exercices.pdf
+        │   ├── 📄 CTD2_Exercices.pdf
+        │   ├── 📄 CTD2_L2GMEC.pdf
+        │   ├── 📄 IMG_8982.HEIC
+        │   ├── 📄 Capture d’écran 2022-09-28 à 11.07.32.png
+        │   ├── 📄 Capture d’écran 2022-09-28 à 10.42.39.png
+        │   ├── 📄 IMG_8960.PNG
+        │   ├── 📄 IMG_8961.PNG
+        │   ├── 📄 IMG_8962.PNG
+        │   └── 📄 CTD1_L2GMEC.pdf
+        ├── 📁 Dynamique du solide 1/
+        │   ├── 📄 Correction exo 2 TD5.pdf
+        │   ├── 📄 CT 2019-2020.pdf
+        │   ├── 📄 Support de cours du chapitre 4 du 19 octobre.pdf
+        │   ├── 📄 Correction du TD 2.pdf
+        │   ├── 📄 chapitre3.pdf
+        │   ├── 📄 Poly TD Meca L2 2019.pdf
+        │   ├── 📄 chapitre2.pdf
+        │   ├── 📄 Poly cours Meca L2 2019.pdf
+        │   ├── 📄 Chapitre1dynamique.pdf
+        │   ├── 📁 Correction ex 2 du td3/
+        │   │   ├── 📄 IMG_9065.JPG
+        │   │   ├── 📄 IMG_9064.JPG
+        │   │   ├── 📄 IMG_9063.JPG
+        │   │   └── 📄 IMG_9062.JPG
+        │   ├── 📁 Correction vibreur portable/
+        │   │   ├── 📄 IMG_9101.HEIC
+        │   │   ├── 📄 IMG_9100.HEIC
+        │   │   ├── 📄 IMG_9099.HEIC
+        │   │   └── 📄 IMG_9098.HEIC
+        │   └── 📁 CC1/
+        │       ├── 📄 Exercice 2 sujet.heic
+        │       ├── 📄 Exercice 1(3).heic
+        │       ├── 📄 Exercice 1(2).heic
+        │       ├── 📄 Exercice 1(1).heic
+        │       ├── 📄 Exercice 2(2).heic
+        │       └── 📄 Exercice 2(1).heic
+        ├── 📁 Anglais SIF/
+        │   ├── 📄 final task anglais.pages
+        │   ├── 📄 Sans titre.pages
+        │   ├── 📄 Interstellar - with stress pattern.pdf
+        │   ├── 📄 The Martian script.pdf
+        │   └── 📄 Vocabulary list for essays, presentations, interactions.pdf
+        ├── 📁 Matériaux/
+        │   ├── 📄 Materiaux GE 2.pages
+        │   ├── 📄 Materiaux dans le genie electrique.pages
+        │   ├── 📄 ceramique.pages
+        │   ├── 📄 Polymeres.pages
+        │   ├── 📄 Propriété mécanique des matériaux .pages
+        │   ├── 📄 Propriété chimique des matériaux .pages
+        │   ├── 📄 Cours 2 materiaux.pages
+        │   ├── 📄 Cours 1 materiaux.pages
+        │   ├── 📄 Introduction materiaux.pages
+        │   └── 📁 Diapo/
+        │       ├── 📄 4.2- MateÌriaux GE.pdf
+        │       ├── 📄 4.1- MateÌriaux GE.pdf
+        │       ├── 📄 3.2- CÃ©ramiques - Cyr 2021.pdf
+        │       ├── 📄 2.1- PropriÃ©tÃ©s physiques - Cyr 2016.pdf
+        │       ├── 📄 2.2- PropriÃ©tÃ©s chimiques (Diagrammes de phases) - Cyr 2021.pdf
+        │       ├── 📄 0- Introduction - Cyr 2021.pdf
+        │       ├── 📄 MateriauxMagnetiques 2020.pdf
+        │       ├── 📄 3.4- Composites - Marguet.pdf
+        │       ├── 📄 3.3- MÃ©taux - Marguet.pdf
+        │       ├── 📄 3.1- PolymÃ¨res - Cyr 2021.pdf
+        │       ├── 📄 2.3- PropriÃ©tÃ©s mÃ©caniques - Cyr 2021.pdf
+        │       └── 📄 1- Architecture atomique - Cyr 2021.pdf
+        ├── 📁 Biophysique Soins santé/
+        │   ├── 📄 Cours8.pdf
+        │   ├── 📄 Cours5_orgaPath.pdf
+        │   ├── 📄 Cours 7.pdf
+        │   ├── 📄 Cours6.pdf
+        │   ├── 📄 CM_TD_ADN_2.pdf
+        │   ├── 📄 Cours3_TransportActif.pdf
+        │   ├── 📄 Cours2TransportsPassifs.pdf
+        │   ├── 📄 Cours1BiophysiqueISS.pdf
+        │   ├── 📁 CC1/
+        │   │   ├── 📄 IMG_9266.heic
+        │   │   ├── 📄 IMG_9265.heic
+        │   │   ├── 📄 IMG_9263.heic
+        │   │   └── 📄 IMG_9264.HEIC
+        │   ├── 📁 TD+ correction/
+        │   │   ├── 📄 TD8.pdf
+        │   │   ├── 📄 TD8_cor.pdf
+        │   │   ├── 📄 TD7_cor.pdf
+        │   │   ├── 📄 EnonceTD7.pdf
+        │   │   ├── 📄 PublicationAquaporine.pdf
+        │   │   ├── 📄 TD3_Cor.pdf
+        │   │   ├── 📄 TD3.pdf
+        │   │   ├── 📄 TD6_cor.pdf
+        │   │   ├── 📄 TD6.pdf
+        │   │   ├── 📄 TD5_Cor.pdf
+        │   │   ├── 📄 TD5.pdf
+        │   │   ├── 📄 TD1_corr.pdf
+        │   │   ├── 📄 TD2_cor-2.pdf
+        │   │   ├── 📄 EnonceTD2.pdf
+        │   │   └── 📄 TD1.pdf
+        │   ├── 📁 genome pass/
+        │   │   ├── 📄 fiche_genome_6-2.pdf
+        │   │   ├── 📄 fiche_genome_5.pdf
+        │   │   ├── 📄 fiche_genome_4.pdf
+        │   │   ├── 📄 fiche_genome_3.pdf
+        │   │   ├── 📄 fiche_genome_2.pdf
+        │   │   ├── 📄 fiche_7.pdf
+        │   │   ├── 📄 fiche_8.pdf
+        │   │   ├── 📄 fiche_7-2.pdf
+        │   │   └── 📄 fiche_genome_1.pdf
+        │   └── 📁 Biochimie pass/
+        │       ├── 📄 cours_resume_seance_metabolisme_pass_21-22.pdf
+        │       ├── 📄 resume_biomolecules_seance_3_oses_et_derive_d_oses_pass_21-22.pdf
+        │       ├── 📄 cours_seance_2_enzymes_pass_21-22.pdf
+        │       ├── 📄 resume_proteines_pass_21-22.pdf
+        │       ├── 📄 resume_aa_pass_21-22-2.pdf
+        │       ├── 📄 cours_biomolecules_seance_3_glucides_pass_21-22.pdf
+        │       ├── 📄 resume_biomolecules_seance_3_osides_pass_21-22.pdf
+        │       ├── 📄 cours_biomolecules_resume_metabolisme_ag.pdf
+        │       ├── 📄 cours_seance_5_lipides_pass_21-22.pdf
+        │       ├── 📄 cours_biomolecules_seance_metabolisme_pass_21-22-2.pdf
+        │       └── 📄 resume_exemples_de_proteines_pass_21-22.pdf
+        ├── 📁 Maths-calc3/
+        │   ├── 📄 Notes_formes diff_correction.pdf
+        │   ├── 📄 21915DB5-03B0-4A6B-8A9C-6A1A865A397F.JPG
+        │   ├── 📄 A029552E-9D9E-4975-ADBB-90CED57673BA.JPG
+        │   ├── 📄 Corrige_CC_8Decembre2022.pdf
+        │   ├── 📄 CD4D3EF8-46AC-4A1B-B44F-8A5F3D3A57E1.jpg
+        │   ├── 📄 807E7138-461B-455B-918D-2A2A9368985F.JPG
+        │   ├── 📄 IMG_9348.PNG
+        │   ├── 📄 IMG_9347.JPG
+        │   ├── 📄 668A44BC-87FC-4C6D-A5B5-CF1E44D7DD77.JPG
+        │   ├── 📄 TransformeeLaplace.pdf
+        │   ├── 📄 Cours SPI, Chap3.pdf
+        │   ├── 📄 dérivée
+        │   ├── 📄 Notesdecours-Rebelo.pdf
+        │   ├── 📄 FormulesDerivees.pdf
+        │   ├── 📄 Capture d’écran 2022-01-24 à 10.47.21.png
+        │   ├── 📁 Outils mathematiques/
+        │   │   ├── 📄 session 1 maths 2021.pdf
+        │   │   ├── 📄 session 1 maths 2021 corrigé.pdf
+        │   │   ├── 📄 session_2_correction_maths.pdf
+        │   │   ├── 📄 qcms_revision_theme_3-4_et_5_et_correction.pdf
+        │   │   ├── 📄 qcms_revision_theme_3-4_et_5_et_correction copie.pdf
+        │   │   ├── 📄 fiches_cours_theme_3-4_et_5.pdf
+        │   │   ├── 📄 resume_cours_theme_1_et_2.pdf
+        │   │   ├── 📄 qcms_revision_theme_1_et_2_et_correction copie.pdf
+        │   │   ├── 📄 qcms_revision_theme_1_et_2_et_correction.pdf
+        │   │   ├── 📄 FormulesDerivees.pdf
+        │   │   ├── 📄 Capture d’écran 2022-01-24 à 10.47.21.png
+        │   │   ├── 📄 Capture d’écran 2022-01-14 à 21.11.41.png
+        │   │   ├── 📄 fascicule_outils_maths_PASS2022-2.pdf
+        │   │   └── 📁 Correction exercices/
+        │   │       ├── 📁 Theme 1/
+        │   │       ├── 📁 Theme 2/
+        │   │       ├── 📁 Thème 5/
+        │   │       ├── 📁 Theme 4/
+        │   │       └── 📁 Theme 3/
+        │   └── 📁 Correction td5 /
+        │       ├── 📄 IMG_9327.PNG
+        │       ├── 📄 IMG_9326.PNG
+        │       ├── 📄 IMG_9325.PNG
+        │       ├── 📄 IMG_9324.PNG
+        │       ├── 📄 IMG_9323.PNG
+        │       ├── 📄 IMG_9322.PNG
+        │       ├── 📄 IMG_9321.PNG
+        │       ├── 📄 IMG_9320.PNG
+        │       ├── 📄 IMG_9319.PNG
+        │       ├── 📄 IMG_9318.PNG
+        │       ├── 📄 IMG_9317.PNG
+        │       ├── 📄 IMG_9316.PNG
+        │       ├── 📄 IMG_9315 2.PNG
+        │       └── 📄 IMG_9315.PNG
+        ├── 📁 Meca fluides Statique/
+        │   ├── 📄 cours 05 - cinematiqueB.pdf
+        │   ├── 📄 cours 03 - statique des fluides.pdf
+        │   ├── 📄 cours 04 - capillariteB.pdf
+        │   ├── 📄 cours 02 - statique des fluides.pdf
+        │   ├── 📄 cours 01 - les fluides.pdf
+        │   ├── 📄 Cours 03 - complÃ©ments.pdf
+        │   ├── 📄 Mécanique des fluides 1 .pages
+        │   ├── 📄 cours 1 -complement.pdf
+        │   ├── 📁 Annales copie/
+        │   │   ├── 📄 CT 17:5:22.pdf
+        │   │   ├── 📄 CT1 - correction.pdf
+        │   │   ├── 📄 CP correction 2:3:21.pdf
+        │   │   ├── 📄 CP 2:3:21.pdf
+        │   │   ├── 📄 CT1.pdf
+        │   │   ├── 📄 CT 11:05:21.pdf
+        │   │   ├── 📄 CT - annulé.pdf
+        │   │   ├── 📄 CP 8:12.pdf
+        │   │   ├── 📄 CP v2.pdf
+        │   │   ├── 📄 CP 10:11:21.pdf
+        │   │   ├── 📄 CP correction 7:3:22.pdf
+        │   │   ├── 📄 CT - correction 11:5:21.pdf
+        │   │   ├── 📄 CP correction 2:3:21 détaillée.pdf
+        │   │   ├── 📄 CT 14:1:22.pdf
+        │   │   ├── 📄 CT Correction 17:5:22.pdf
+        │   │   ├── 📄 CP - correctionC.pdf
+        │   │   ├── 📄 CP 7:3:22.pdf
+        │   │   ├── 📄 correction CT annulé.pdf
+        │   │   ├── 📄 CT corrigé 14:1:22.pdf
+        │   │   ├── 📄 Cp-corrigé 10:11:21.pdf
+        │   │   ├── 📄 CT 11:01:21.pdf
+        │   │   ├── 📄 CP corrigÃ© - V2.pdf
+        │   │   ├── 📄 CT - correction 11:01:21.pdf
+        │   │   └── 📄 CP Correction 8:12.pdf
+        │   ├── 📁 TP3/
+        │   │   ├── 📄 F2975B17-00CA-4A7C-8852-C5CF935CB32F.JPG
+        │   │   ├── 📄 F8DCA524-685D-4595-8151-A3ABCDD33EE5.JPG
+        │   │   ├── 📄 4D3338C6-B15F-451C-BD1A-3022EFF0635A.JPG
+        │   │   ├── 📄 A2EA220A-A74B-4742-A1ED-21427F86CF15.JPG
+        │   │   ├── 📄 D399B9A7-1AF6-4464-AA4A-D2C22EA638A0.JPG
+        │   │   ├── 📄 D1E1DFB7-BA5B-4B2D-9A50-B20CC2074E25.JPG
+        │   │   ├── 📄 4EE53947-5799-4E0D-8007-88A14A5A3C93.JPG
+        │   │   ├── 📄 BA0E05E3-973F-4E3B-A348-FF5F6240E82B.JPG
+        │   │   ├── 📄 D1C0998F-E057-493B-B1C7-0562633557C8.JPG
+        │   │   ├── 📄 8C8B33A8-D3DE-4F37-8EF3-3F0CEE525A41.JPG
+        │   │   ├── 📄 F92DB1F0-4B19-4176-81EB-75523238AE74.JPG
+        │   │   ├── 📄 05165F77-5643-4087-805F-24672E0D546D.JPG
+        │   │   ├── 📄 B763FD5C-875A-4F4D-8E9D-EDDCF529B5F0.JPG
+        │   │   ├── 📄 90C99108-41F9-4589-8BA3-6282832ABE2C.JPG
+        │   │   └── 📄 AC2903F5-D116-497C-A6F2-2991313CCED3.JPG
+        │   └── 📁 TD + correction/
+        │       ├── 📄 correction TD3.pdf
+        │       ├── 📄 IMG_111962061702-1.jpeg
+        │       ├── 📄 TD4_correction_exos_1_2_4_5_7_9_10.pdf
+        │       ├── 📄 partiel_2020_correction.pdf
+        │       ├── 📄 TD3_correction_exo_4.pdf
+        │       ├── 📄 Fluides correction TD1.pdf
+        │       ├── 📄 TD2_correction_exo_8.pdf
+        │       ├── 📄 TD3_correction_exos_6_7.pdf
+        │       ├── 📄 td 02 - statique des fluides.pdf
+        │       ├── 📄 td 03 - forces de pression.pdf
+        │       ├── 📄 TD2_correction_exos_2_4_10.pdf
+        │       ├── 📄 TD1_correction_exos_5_7_8_10.pdf
+        │       └── 📄 td 01 - les fluides.pdf
+        ├── 📁 Connaissance de l'entreprise/
+        │   ├── 📄 Theme 1 la logique entrepreneuriale et l’innovation.pages
+        │   ├── 📄 Theme IV.pages
+        │   ├── 📄 ThÃ¨me III CorrigÃ© Nespresso.pdf
+        │   ├── 📄 Thème III connaitre son marché : marketing mix et segmentation .pages
+        │   ├── 📄 THEME II l’organisation et ses parties-prenantes : interdépendantes et écosystèmes d’affaires.pages
+        │   ├── 📄 Plaquette de TD 20222023 EEA.pages
+        │   ├── 📄 CM Connaissance Ent L2SA S1.pdf
+        │   ├── 📄 Plaquette de TD 20222023 EEA.docx
+        │   └── 📁 CC1/
+        │       ├── 📄 IMG_9387.jpg
+        │       ├── 📄 C53CE1CB-3914-4DC8-8DDA-EC2EC3D365D3.JPG
+        │       ├── 📄 0C703745-AA95-4E37-81B5-733CEE64F9F8.JPG
+        │       └── 📄 7B6786E9-DBAF-4937-8805-1305AE751B03.JPG
+        └── 📁 Conception Mécanique CAO1/
+            ├── 📄 Sujet e-Solex.pdf
+            ├── 📄 CoursCAO.pdf
+            ├── 📄 Sujet TD 1 e-solex CAO L2.pdf
+            └── 📄 presentation Seance1_CAO L2.pdf
+
+═════════════════════════════════════
+  Fin du fichier · L.AS2 MECANIQUE - PARCOURS INGENIERIE SOINS SANTE
+═════════════════════════════════════

@@ -1,0 +1,182 @@
+📚 MODULE : Logique mathématique                      
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Logique mathématique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Logique mathématique/
+├── 🔗📁 Logique Mathématique/  (raccourci)
+│   ├── 📁 Examens/
+│   │   ├── 📄 Examen2015-2016.pdf
+│   │   ├── 📄 ExamenLogique2013-2014.pdf
+│   │   ├── 📄 ExamenLogique2012-2013.pdf
+│   │   ├── 📄 Rattrapage2012-2013.pdf
+│   │   ├── 📄 Rattrapage 2015
+│   │   ├── 📄 EMD 2017
+│   │   ├── 📄 EMD 2016
+│   │   ├── 📁 EMD 2018/
+│   │   │   ├── 📄 examen logique 2018 2019.pdf
+│   │   │   └── 📄 Correction EMD 2018
+│   │   └── 📁 EMD 2019/
+│   │       ├── 📄 EXAMEN-LOGIQUE.pdf
+│   │       └── 📄 CORRIGE-EXAMEN-LOGIQUE.pdf
+│   ├── 📁 Supplémentaires/
+│   │   ├── 📄 LogCH1.pdf
+│   │   └── 📄 LogCH2.pdf
+│   ├── 📁 Travaux Dirigés (TD)/
+│   │   ├── 📄 LogTD3.pdf
+│   │   ├── 📄 Solution série 1
+│   │   ├── 📄 LogTD5.pdf
+│   │   ├── 📄 LogTD6.pdf
+│   │   ├── 📄 LogTD2.pdf
+│   │   ├── 📄 LogTD4.pdf
+│   │   ├── 📄 LogTD7.pdf
+│   │   ├── 📄 Serie N° 07
+│   │   ├── 📄 Serie N° 06
+│   │   ├── 📄 Série N° 04
+│   │   ├── 📄 Série N° 03
+│   │   ├── 📄 Série N° 02
+│   │   └── 📄 Série N° 01
+│   └── 📁 Cours/
+│       ├── 📄 4.2- Logique des Prédicats (Déduction)
+│       ├── 📄 4.1- Logique des Prédicats (Langage)
+│       ├── 📄 3.3- Logique des Propositions (Consistance) et Complétude 
+│       ├── 📄 3.2- Logique des Propositions (Sémantique)
+│       ├── 📄 3.1- Logique des Propositions (Deduction)
+│       ├── 📄 2- Logique des Propositions
+│       └── 📄 1- Introduction Logique
+├── 🔗📁 LM/  (raccourci)
+│   ├── 📁 Cours/
+│   │   ├── 📄 Propositional Logic (P2) .pdf
+│   │   ├── 📄 Predicate Logic .pdf
+│   │   └── 📄 Propositional Logic (P1) .pdf
+│   ├── 📁 TD/
+│   │   ├── 📁 TD 3/
+│   │   │   ├── 📄 IMG_5639.JPG
+│   │   │   ├── 📄 Exo 6+9 TD3.pdf
+│   │   │   └── 📄 TD3 .pdf
+│   │   ├── 📁 TD 2/
+│   │   │   ├── 📄 IMG_6895.JPG
+│   │   │   ├── 📄 IMG_6892.JPG
+│   │   │   ├── 📄 IMG_6891.JPG
+│   │   │   ├── 📄 IMG_6894.JPG
+│   │   │   ├── 📄 IMG_6893.JPG
+│   │   │   └── 📄 TD2 .pdf
+│   │   └── 📁 TD 1/
+│   │       ├── 📄 IMG_6889.JPG
+│   │       ├── 📄 IMG_6888.JPG
+│   │       ├── 📄 IMG_6887.JPG
+│   │       ├── 📄 IMG_6890.JPG
+│   │       └── 📄 TD1 .pdf
+│   └── 📁 Exams /
+│       ├── 📄 Examen 2025 + Solution .pdf
+│       ├── 📄 Examen 2023 + Solution .pdf
+│       ├── 📄 Examen 2024 + Solution .pdf
+│       └── 📄 Examen 2022 + Solution .pdf
+├── 🔗📁 Chapitre 1 - Notions de logique Mathématiques/  (raccourci)
+│   ├── 📄 Cour.pdf
+│   ├── 📄 TD1.pdf
+│   └── 📁 correction/
+│       ├── 📄 exo11.wmv
+│       ├── 📄 exo9(suite).wmv
+│       ├── 📄 exo9.wmv
+│       ├── 📄 exo7.wmv
+│       ├── 📄 exo6.wmv
+│       ├── 📄 exo5.wmv
+│       ├── 📄 exo4.wmv
+│       ├── 📄 exo3.wmv
+│       ├── 📄 exo2.wmv
+│       └── 📄 exo1.wmv
+├── 🔗📁 Logique Mathématique/  (raccourci)
+│   ├── 📁 TD _ EXAMENS/
+│   │   ├── 📄 Sol_serie_TD_1+Tizi-Ouzou.pdf
+│   │   ├── 📄 Sol-S1_LogMat_2016.pdf
+│   │   ├── 📄 TD logique.pdf
+│   │   ├── 📄 serie_TD_1+Tizi-Ouzou.pdf
+│   │   ├── 📄 serie_2_2014.pdf
+│   │   ├── 📄 serie_1_2014.pdf
+│   │   ├── 📄 Sol_serie_TD_2+Tizi-Ouzou.pdf
+│   │   ├── 📄 serie-2_LogMat_2016.pdf
+│   │   ├── 📄 serie-1_LogMat_2016.pdf
+│   │   ├── 📄 serie_TD_2+Tizi-Ouzou.pdf
+│   │   ├── 📄 mi05-2an-exfin-logique12.pdf
+│   │   ├── 📄 mi-2an15-emd-logique_math16.pdf
+│   │   ├── 📄 mi-2an15-ratr-logique_math15.pdf
+│   │   ├── 📄 mi-2an44-exam1-logique15.pdf
+│   │   ├── 📄 mi-2an44-ratr1-logique15.pdf
+│   │   ├── 📄 exercices_corriges_logique.pdf
+│   │   ├── 📄 mi-2an15-emd-logique_math15.pdf
+│   │   └── 📄 Log-Mat_EMD-et-corrige_2014-15.pdf
+│   └── 📁 COURS/
+│       ├── 📄 mi2an-cours_logique-mathematique.pdf
+│       ├── 📄 chapitre+2+Log+Math+2016+(univ+jijel).pdf
+│       ├── 📄 Chapitre1.pdf
+│       ├── 📄 mi06_l2lessons-logique.pdf
+│       ├── 📄 www.espace-etudiant.net - cours logique.pdf
+│       ├── 📄 chapitre+1+Log+Math+2016+(univ+jijel).pdf
+│       ├── 📄 Logique_Mathematique.pdf
+│       ├── 📄 Cours-LM.pdf
+│       └── 📁 Logique alg1/
+│           ├── 📄 20170116_111602.jpg
+│           ├── 📄 20170116_111554.jpg
+│           ├── 📄 20170116_111548.jpg
+│           ├── 📄 20170116_111530.jpg
+│           ├── 📄 20170107_101401.jpg
+│           ├── 📄 20170107_101345.jpg
+│           ├── 📄 20170107_101335.jpg
+│           ├── 📄 20170107_101253.jpg
+│           ├── 📄 20170107_101246.jpg
+│           ├── 📄 20170107_101237.jpg
+│           ├── 📄 20161203_095133.jpg
+│           ├── 📄 20161203_095125.jpg
+│           ├── 📄 20161203_095119.jpg
+│           ├── 📄 20161203_095110.jpg
+│           ├── 📄 20161203_095105.jpg
+│           ├── 📄 20161203_095055.jpg
+│           ├── 📄 20161203_095048.jpg
+│           ├── 📄 20161203_095030.jpg
+│           ├── 📄 20161203_095024.jpg
+│           ├── 📄 20161203_095012.jpg
+│           ├── 📄 20161203_095007.jpg
+│           ├── 📄 20161203_094950.jpg
+│           └── 📄 20161203_094943.jpg
+├── 📁 TDs et exo/
+│   ├── 📄 exercices_corriges_logique.pdf
+│   ├── 📄 Log-Mat_EMD-et-corrige_2014-15.pdf
+│   ├── 📄 mi-2an15-emd-logique_math15.pdf
+│   ├── 📄 mi-2an15-emd-logique_math16.pdf
+│   ├── 📄 mi-2an15-ratr-logique_math15.pdf
+│   ├── 📄 mi-2an44-exam1-logique15.pdf
+│   ├── 📄 mi-2an44-ratr1-logique15.pdf
+│   ├── 📄 mi05-2an-exfin-logique12.pdf
+│   ├── 📄 serie_1_2014.pdf
+│   ├── 📄 serie_2_2014.pdf
+│   ├── 📄 serie_TD_1+Tizi-Ouzou.pdf
+│   ├── 📄 serie_TD_2+Tizi-Ouzou.pdf
+│   ├── 📄 serie-1_LogMat_2016.pdf
+│   ├── 📄 serie-2_LogMat_2016.pdf
+│   ├── 📄 Sol_serie_TD_1+Tizi-Ouzou.pdf
+│   ├── 📄 Sol_serie_TD_2+Tizi-Ouzou.pdf
+│   ├── 📄 Sol-S1_LogMat_2016.pdf
+│   └── 📄 TD logique.pdf
+└── 📁 Cours/
+    ├── 📄 chapitre+1+Log+Math+2016+(univ+jijel).pdf
+    ├── 📄 chapitre+2+Log+Math+2016+(univ+jijel).pdf
+    ├── 📄 Chapitre1.pdf
+    ├── 📄 Cours-LM.pdf
+    ├── 📄 Logique_Mathematique.pdf
+    ├── 📄 mi2an-cours_logique-mathematique.pdf
+    └── 📄 mi06_l2lessons-logique.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Logique mathématique
+═════════════════════════════════════

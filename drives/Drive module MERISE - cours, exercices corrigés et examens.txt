@@ -1,0 +1,82 @@
+📚 MODULE : MERISE                                    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module MERISE.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 MERISE/
+├── 📁 TDs/
+│   ├── 📄 TD N°8 -  modélisation d’un logiciel de saisie comptable- corrigé.pdf
+│   ├── 📄 TD 1 Modèle entité-association et modèle relationnel Correction.pdf
+│   ├── 📄 Application - OPLAST - sujet.pdf
+│   ├── 📄 Application - cas 201 et 202 - corrige.pdf
+│   ├── 📄 TD N°7  modélisation d’un logiciel de saisie comptable corrigé.pdf
+│   ├── 📄 Série avec Corrigé n o 1 Modèle Conceptuel de données (MCD).pdf
+│   ├── 📄 Série de TD N°1  Modèle Entité Association MCD.pdf
+│   ├── 📄 Application - cas MAXI BUREAU - sujet et corrige.pdf
+│   ├── 📄 TD N°1  -les principales extensions de Merise 2 corrigé.pdf
+│   ├── 📄 Série avec Corrigé  n o 1 Modèle Conceptuel de données (MCD).pdf
+│   ├── 📄 TD avec solution Manipulation de données  Le langage SQL.pdf
+│   ├── 📄 Entraînement Algorithmique et SQL.pdf
+│   ├── 📄 Application - cas 108 a 110 - corrige.pdf
+│   ├── 📄 Application - cas 201 et 202 - sujet.pdf
+│   ├── 📄 Application - OPLAST - corrige.pdf
+│   ├── 📄 TD No 1 corrigé Modèle Conceptuel – Schéma Relationnel.pdf
+│   ├── 📄 TD 1  MODELE ENTITES-ASSOCIATIONS.pdf
+│   ├── 📄 TD N°4 - modéliser, requêter, modéliser, requêter - corrigé.pdf
+│   ├── 📄 Application - revisions SQL - sujet.pdf
+│   ├── 📄 Application - cas 108 a 110 - sujet.pdf
+│   ├── 📄 TD N°2 - les extensions Merise 2 - corrigé.pdf
+│   ├── 📄 Application - cas Harrys Melra - sujet.pdf
+│   ├── 📄 TD N°6 - modélisation d’un logiciel de modélisation de MCD.pdf
+│   └── 📄 Application - cas Harrys Melra - corrige.pdf
+├── 📁 TP/
+│   ├── 📄 TP N°3 - SQL - corrigé.zip
+│   ├── 📄 Correction Atelier4  SQL.pdf
+│   ├── 📄 TP N°3 -  le fonctionnement des clauses SQL.pdf
+│   ├── 📄 TP2_N°2 Interrogation d’une base de données en mode QBE et SQL.pdf
+│   └── 📄 TP N°5 -  à la découverte des triggers.pdf
+├── 📁 Examens/
+│   ├── 📄 correction examen conception.pdf
+│   ├── 📄 Sujet 1 mcd Gestion d'un pressing.pdf
+│   ├── 📄 Solution de l’examen 1 en informatique de gestion.pdf
+│   ├── 📄 Examen en Informatique de gestion.pdf
+│   ├── 📄 Rattrapage-Avril2018-Solution.pdf
+│   └── 📄 Solution Examen 2 en informatique de gestion .pdf
+├── 📁 devoirs/
+│   ├── 📄 MCD - articles et commentaires.jpg
+│   ├── 📄 MCD - articles et reseaux sociaux.jpg
+│   ├── 📄 Fiche de révisions - MCD et schéma relationnel.pdf
+│   ├── 📄 Épreuve E5 merise  Analyses de gestion et organisation du système d’information.pdf
+│   ├── 📄 MCD - Sujet Gestion d’un site de location de vacances- corrige.pdf
+│   ├── 📄 Fiche de révisions - MOD et autorisations.pdf
+│   ├── 📄 Devoir 2 - sujet et corrige.pdf
+│   ├── 📄 MCD - Sujet Gestion d’un site de location de vacances.pdf
+│   ├── 📄 Devoir n°1 - Merise 2 et SQL - corrigé.pdf
+│   ├── 📄 Devoir n°1 - Merise 2 et SQL - sujet.pdf
+│   ├── 📄 Sujet - Entrainement SQL.pdf
+│   ├── 📄 Devoir 1 - corrige.pdf
+│   ├── 📄 Devoir 1 - sujet.pdf
+│   └── 📄 Devoir 2 - sujet.pdf
+└── 📁 cours/
+    ├── 📄 _Cours Merise ENSAAAAAF.ppt
+    ├── 📄 Cours Système d’information et Bases de données.pdf
+    ├── 📄 Cours_Merise.pdf
+    ├── 📄 Cours Modèle Conceptuel de Données MCD.pdf
+    ├── 📄 Cours Modèle Logique de Données MLD.pdf
+    ├── 📄 Cours La Méthode Merise.pdf
+    ├── 📄 Cours Modèle Organisationnel des Traitements MOT.pdf
+    └── 📄 Cours Modèle Conceptuel de Traitements MCT.pdf
+
+═════════════════════════════════════
+  Fin du fichier · MERISE
+═════════════════════════════════════

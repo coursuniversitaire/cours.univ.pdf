@@ -1,0 +1,51 @@
+📚 MODULE : Gestion d entreprise                      
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Gestion d entreprise.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Gestion d entreprise/
+└── 🔗📁 Gestion d_entreprise/  (raccourci)
+    ├── 📄 Chapitre4_Le manager.docx
+    ├── 📄 chapitre 3_Le management de l_entreprise.docx
+    ├── 📄 Chapitre5_culture organisationnelle.docx
+    ├── 📄 Chap1-L_Entreprise.docx
+    ├── 📄 TD1-Correction.docx
+    ├── 📄 Chap1-L_Entreprise(1).docx
+    ├── 📄 TD1-Entreprise-Environnement.docx
+    ├── 📄 TD-3 Culture organisationnelle-correction.pdf
+    ├── 📄 Chapitre5_culture organisationnelle.pdf
+    ├── 📄 chapitre 2_Environnement.docx
+    ├── 📄 chapitre 2_Environnement(1).docx
+    ├── 📄 Chapitre4_Le manager.pdf
+    ├── 📄 TD1-Correction.pdf
+    ├── 📄 chapitre 3_Le management de l_entreprise.pdf
+    ├── 📄 chapitre 2_Environnement.pdf
+    ├── 📄 TD1-Entreprise-Environnement.pdf
+    ├── 📄 Chap1-L_Entreprise.pdf
+    ├── 📁 TD 2/
+    │   ├── 📄 TD-2 Gestion d_Entreprise-correction.docx
+    │   ├── 📄 TD-2 Gestion d_Entreprise-correction.pdf
+    │   └── 📄 TD-2 Gestion d_Entreprise.pdf
+    ├── 📁 TD Culture organisationnelle/
+    │   ├── 📄 TD-3 Culture organisationnelle-correction (1).docx
+    │   ├── 📄 TD Culture Organisationnelle.docx
+    │   ├── 📄 TD-3 Culture organisationnelle-correction (1).pdf
+    │   └── 📄 TD Culture Organisationnelle.pdf
+    ├── 📁 Examen 2022/
+    ├── 📁 DS Corrigé/
+    │   └── 📄 DS-GE- Eléments de correction.pdf
+    └── 📁 Ds 2022/
+
+═════════════════════════════════════
+  Fin du fichier · Gestion d entreprise
+═════════════════════════════════════

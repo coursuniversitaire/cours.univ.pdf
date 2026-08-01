@@ -1,0 +1,213 @@
+📚 MODULE : Mécanique quantique                       
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Mécanique quantique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Mécanique quantique/
+├── 🔗📁 [P146] Mécanique quantique et relativité/  (raccourci)
+│   ├── 📁 [P146] TP/
+│   ├── 📁 [P146] TD/
+│   │   ├── 📄 P146 - TD7 (Updated).pdf
+│   │   ├── 📄 P146-TD8-1.pdf
+│   │   ├── 📄 serie 6 quantique-1.pdf
+│   │   ├── 📄 serie 5 quantique-1.pdf
+│   │   ├── 📄 serie 4 quantique-1.pdf
+│   │   ├── 📄 serie 3 quantique-1.pdf
+│   │   ├── 📄 serie 2 quantique-1.pdf
+│   │   ├── 📄 serie 1 quantique-1.pdf
+│   │   ├── 📄 P146-TD8.pdf
+│   │   ├── 📄 P146-TD6.pdf
+│   │   ├── 📄 P146-TD3.pdf
+│   │   ├── 📄 P146-TD4.pdf
+│   │   ├── 📄 P146-TD1.pdf
+│   │   ├── 📄 P146-TD2.pdf
+│   │   ├── 📄 P146-TD7.pdf
+│   │   ├── 📄 P146-TD5.pdf
+│   │   ├── 📄 P146-td2022-pr.Moujib
+│   │   ├── 📄 P146 - TD 7 (Solution).pdf
+│   │   ├── 📄 P146 - TD 6 (Solution).pdf
+│   │   ├── 📄 P146 - TD 5 (Solution).pdf
+│   │   ├── 📄 P146 - TD 4 (Solution).pdf
+│   │   ├── 📄 P146 - TD 3 (Solution).pdf
+│   │   ├── 📄 P146 - TD 2 (Solution).pdf
+│   │   ├── 📄 P146 - TD 1 (Solution).pdf
+│   │   ├── 📄 P146 - TD 7.pdf
+│   │   ├── 📄 P146 - TD 6.pdf
+│   │   ├── 📄 P146 - TD 5.pdf
+│   │   ├── 📄 P146 - TD 4.pdf
+│   │   ├── 📄 P146 - TD 3.pdf
+│   │   ├── 📄 P146 - TD 2.pdf
+│   │   └── 📄 P146 - TD 1.pdf
+│   ├── 📁 [P146] Bonus/
+│   │   ├── 📄 résumee QT.pdf
+│   │   ├── 📄 P146-Mécanique quantique _ Relativité-tanger.pdf
+│   │   ├── 📄 Cours Mecanique quantique.pdf
+│   │   ├── 📄 Résumé Quantique.pdf
+│   │   └── 📁 Examens/
+│   │       ├── 📄 IMG-20230406-WA0006.jpg
+│   │       ├── 📄 IMG-20230406-WA0005.jpg
+│   │       └── 📄 Mécanique quantique, sujets d'examen & corrigés - R. Mezhoud.pdf
+│   ├── 📁 [P146] Cours/
+│   │   ├── 📄 cours.p146.pdf
+│   │   ├── 📄 Chp5
+│   │   ├── 📄 Chp2
+│   │   ├── 📄 Chp1
+│   │   ├── 📄 Chp3
+│   │   ├── 📄 Chp6
+│   │   ├── 📄 P146 - Cours (Chapitre 7).pdf
+│   │   ├── 📄 P146 - Cours (Chapitre 6).pdf
+│   │   ├── 📄 P146 - Cours (Chapitre 5).pdf
+│   │   ├── 📄 P146 - Cours (Chapitre 4).pdf
+│   │   ├── 📄 P146 - Cours (Chapitre 3).pdf
+│   │   ├── 📄 P146 - Cours (Chapitre 2).pdf
+│   │   └── 📄 P146 - Cours (Chapitre 1).pdf
+│   └── 📁 [P146] Archive/
+│       ├── 📄 archive P146.pdf
+│       ├── 📄 P146-exam-2023.pdf
+│       ├── 📄 P146-exam-2023.pdf
+│       ├── 📄 ratt 2023 P146
+│       └── 📄 P146 - Archive.pdf
+├── 🔗📁 [P146] Mécanique quantique et relativité/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 📄 TD Mecanique Quantique SMP4 Serie 3 Ibn Zohr 2021 2022-Mécanique quantique
+├── 📄 TD Mecanique Quantique SMP4 Serie 3 Ibn Zohr 2021 2022-Mécanique quantique
+├── 📄 TD 1 Mecanique Quantique SMP4 Ibn Zohr Agadir 2021 2022-Mécanique quantique
+├── 📄 TD Mecanique Quantique SMP4 Serie 3 FS Agadir 2022 2023-Mécanique quantique
+├── 📄 TD Physique Quantique Particule Puits Potentiel Delta-Mécanique quantique
+├── 📄 Série n°3 : Evolution d’une particule quantique dans un potentiel
+├── 📄 Série TD 8 corrigés Mécanique quantique
+├── 📄 Série nº4: Evolution d'une particule quantique dans un potentiel
+├── 📄 Série n°3: Les paquets d'ondes
+├── 📄 T.D. de Mécanique Quantique - SMP4 Correction Série N°4
+├── 📄 Série nº4: Evolution d'une particule quantique dans un potentiel
+├── 📄 td mecanique quantique smp4 serie 3 ibn zohr 2019 2020-Mécanique quantique
+├── 📄 Correction série n°4 Opérateurs, valeurs propres et vecteurs propres
+├── 📄 Correction serie 2-Mécanique quantique
+├── 📄 T.D. de Mécanique Quantique - SMP4 Correction Série N°2
+├── 📄 Correction TD 7 -Mécanique quantique
+├── 📄 T.D. de Mécanique Quantique - SMP4 Correction Série N°4
+├── 📄 P146 - examen mécanique quantique.pdf
+├── 📄 Examen du module P146 Mécanique quantique 
+├── 📄 S4, P146: Mécanique quantique Travaux dirigés Séric n°7
+├── 📄 Mécanique quantique Travaux dirigés Séric n°8
+├── 📄 Examen de Rattrapage Module P146
+├── 📄 Travaux dirigés de Mécanique Quantique Série n°2
+├── 📄 Série n°3: Les paquets d'ondes.pdf
+├── 📄 Série nº4: Evolution d'une particule quantique dans un potentiel
+├── 📄 Travaux dirigés de Mécanique Quantique Série N°
+├── 📄 Série nº6 : Postulats de Mécanique Quantique
+├── 📄 Travaux dirigés de Mécanique Quantique Série n°1
+├── 📄 Travaux dirigés Série n°6 corrigés 
+├── 📄 Travaux dirigés Série n°7 - Mécanique quantique
+├── 📄 Série N°6 : Postulats de la mécanique quantique
+├── 📄 Série n°4 : Opérateurs, valeurs propres et vecteurs propres
+├── 📄 Série exercices corrigés N°7 : Postulats de la mécanique quantique
+├── 📄 TD 4 corrigés Mécanique quantique
+├── 📄 Série TD 8 corrigés Mécanique quantique
+├── 📄 TD corrigés Mécanique quantique
+├── 📄 TD 1 Mécanique quantique
+├── 📄 Travaux dirigés de Mécanique Quantique
+Série n°1
+├── 📄 Série n°2 : Les paquets d’onde
+├── 📄 TD 5 Physique-Mécanique quantique
+├── 📄 Série TD 2 Physique-Mécanique quantique
+├── 📄 TD 1 Physique-Mécanique quantique
+├── 📄 Série n°3 : Evolution d’une particule quantique dans un potentiel
+├── 📄 Série N°5 : Algèbre des commutateurs - Observables X, Px et H
+├── 📄 Correction-Mécanique quantique
+├── 📄 Correction-Mécanique quantique
+├── 📄 Correction Serie-Mécanique quantique
+├── 📄 Examens corrigés Mécanique Quantique 1 SMP4 2019 2020-Mécanique quantique
+├── 📄 Cours Mécanique Quantique 1 SMP4 2019 2020 Pr M Nassik-Mécanique quantique
+├── 📄 TD Correction Mécanique Quantique SMP4 Opérateurs Linéaires S3-Mécanique quantique
+├── 📄 TD Mécanique Quantique SMP4 Série 4 IBN ZOHR 2021 2022-Mécanique quantique
+├── 📄 TD Mécanique Quantique SMP4 Série 1-Mécanique quantique
+├── 📄 TD Mécanique Quantique Effet Tunnel Serie 2 Pb 2-Mécanique quantique
+├── 📄 TD Physique Quantique Particule Puits Potentiel Delta-Mécanique quantique
+├── 📄 TD Mécanique Quantique SMP4 Série 3 Exercices 2019 2020-Mécanique quantique
+├── 📄 TD Mécanique Quantique SMP4 Série 4 Application Postulats-Mécanique quantique
+├── 📄 TD Correction de Mécanique Quantique SMP4 Série 3-Mécanique quantique
+├── 📄 TD Mécanique Quantique SMP4 2017 2018 EL MOUMNI RAHILI-Mécanique quantique
+├── 📄 TD Mécanique Quantique SMP4 S1 Rayonnement Corps Noir-Mécanique quantique
+├── 📄 TD Mécanique Quantique SMP4 Série 2 Puits Carré 2019 2020-Mécanique quantique
+├── 📄 TD Mécanique Quantique SMP4 Série 2 Puits Barrière Potentiel-Mécanique quantique
+├── 📄 td mecanique quantique smp4 serie 3 ibn zohr 2019 2020-Mécanique quantique
+├── 📄 TD Mecanique Quantique SMP4 Serie 3 FS Agadir 2022 2023-Mécanique quantique
+├── 📄 TD Mécanique Quantique SMP4 Série 4 Postulats de la mesure-Mécanique quantique
+├── 📄 TD Mecanique Quantique SMP4 Serie 4 Ibn Zohr Agadir 2022 23-Mécanique quantique
+├── 📄 TD Serie 1 Mecanique Quantique SMP4 Universite Ibn Zohr 2022-Mécanique quantique
+├── 📄 Examen Mecanique Quantique I SMP4 Ibn Zohr Agadir Mai 2022-Mécanique quantique
+├── 📄 Examen Corrige Mecanique Quantique I SMP4 Normale 2022-Mécanique quantique
+├── 📄 Mécanique quantique, sujets d'examen & corrigés - R. Mezhoud.pdf
+├── 📄 P146-exam-2023.pdf
+├── 📄 P146-exam-2023.pdf
+├── 📄 Examen Mécanique Quantique I Rattrapage Corrigé 20 Juin 2022-Mécanique quantique
+├── 📄 Examen Mécanique Quantique I SMP4 Rattrapage Agadir 2022-Mécanique quantique
+├── 📄 Examen Corrigé Mécanique Quantique 1 SMP4 Rattrapage 2019 20-Mécanique quantique
+├── 📄 Examen Mecanique Quantique 1 SMP4 Ibn Zohr Agadir 2019 2020-Mécanique quantique
+├── 📄 TD Correction Serie 1 Mecanique Quantique SMP4 Corps Noir-Mécanique quantique
+├── 📄 TD 1 Mecanique Quantique SMP4 Ibn Zohr Agadir 2021 2022-Mécanique quantique
+├── 📄 TD Correction Serie 2 Mecanique Quantique SMP4 Ibn Zohr-Mécanique quantique
+├── 📄 TD Mecanique Quantique SMP4 Serie 3 Ibn Zohr 2021 2022-Mécanique quantique
+├── 📄 TD Mecanique Quantique SMP4 Serie 2 Faculte Sciences Agadir-Mécanique quantique
+├── 📄 exercices corriges mecanique quantique operateurs et ecoc-Mécanique quantique
+├── 📄 TD Corrigé Mécanique Quantique SMP4 Série 1 Corps Noir-Mécanique quantique
+├── 📄 TD Mecanique Quantique SMP4 Serie 1 Ibn Zohr 2022 2023-Mécanique quantique
+├── 🔗📁 Mécanique quantique/  (raccourci)
+│   ├── 📄 Recueil_Exam_MQ1D.pdf
+│   ├── 📄 7)Correction des séries mécanique quantique .pdf
+│   ├── 📁 cours/
+│   │   ├── 📄 cours_MQ1_Ch4.pdf
+│   │   ├── 📄 quantique.pdf
+│   │   └── 📄 Cours_MQ1_Ch3.pdf
+│   ├── 📁 EXAMEN/
+│   │   ├── 📄 Recueil_Exam_MQ1.pdf
+│   │   ├── 📄 62bf8245d9723.pdf
+│   │   ├── 📄 62bf8245d9a57.pdf
+│   │   ├── 📄 Corrigé Exam MQ1_SR_2019-20.pdf
+│   │   ├── 📄 Exam_MQ1_SN_2019-20.pdf
+│   │   ├── 📄 62bf820b7ac72.pdf
+│   │   └── 📄 62bf820b7b0a0.pdf
+│   └── 📁 TD/
+│       ├── 📄 Série1.pdf
+│       ├── 📄 Série 2.pdf
+│       ├── 📄 62bf7f354d501.pdf
+│       ├── 📄 62bf7f354d86a.pdf
+│       ├── 📄 62bf7f354def0.pdf
+│       ├── 📄 62bf7f354ea40.pdf
+│       ├── 📄 62bf7f354ec63.pdf
+│       ├── 📄 62bf7f354eee9.pdf
+│       ├── 📄 62bf7f354f0f3.pdf
+│       ├── 📄 TD1_MQ1.pdf
+│       ├── 📄 TD2_MQ1.pdf
+│       ├── 📄 TD3_MQ1.pdf
+│       ├── 📄 TD4_MQ1.pdf
+│       ├── 📄 serie2ex2.pdf
+│       ├── 📄 serie2ex3.pdf
+│       ├── 📄 serie3ex1.pdf
+│       ├── 📄 serie3ex2.pdf
+│       ├── 📄 serie4ex1.pdf
+│       ├── 📄 suppeda.pdf
+│       ├── 📄 td4-2022-2023.pdf
+│       ├── 📄 sol3-2022-2023.pdf
+│       ├── 📄 td3-2022-2023.pdf
+│       ├── 📄 sol2-2022-2023.pdf
+│       ├── 📄 td2-2022-2023.pdf
+│       ├── 📄 sol1-2022-2023.pdf
+│       ├── 📄 td1-2022-2023.pdf
+│       └── 📄 TDs_Mécanique-Quantique1-(2022~2023).pdf
+└── 📁 Temp/
+
+═════════════════════════════════════
+  Fin du fichier · Mécanique quantique
+═════════════════════════════════════

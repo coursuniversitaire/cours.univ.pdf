@@ -1,0 +1,403 @@
+📚 MODULE : Géotechnique+mécanique des sols           
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Géotechnique+mécanique des sols.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Géotechnique+mécanique des sols/
+├── 🔗📁 mécanique des sols et géotechnique /  (raccourci)
+│   ├── 📄 rapporrt tp mds2.doc
+│   ├── 📄 rapporrt tp mds.doc
+│   ├── 📄 MDS2.xlsx
+│   ├── 📄 MDS_Atterberg.doc
+│   ├── 📄 mds 3.xlsx
+│   ├── 📄 éssais géotechniques.pptx
+│   ├── 📄 Eco project.docx
+│   ├── 📄 Dans cet essai.docx
+│   ├── 📄 6-Lois de comportement des sols.pdf
+│   ├── 📄 Tamissage.wmv
+│   ├── 📄 Stabilité d'un pylone.docx
+│   ├── 📄 rapporrt tp mds2.pdf
+│   ├── 📁 FondationCOURS/
+│   │   ├── 📄 SEMELLE D'UNE PILE DE PONT.zip
+│   │   ├── 📄 Interaction Sols Gonflants Structure.pptx
+│   │   ├── 📄 Méthode C-Fi.pptx
+│   │   ├── 📄 App V Pieu.zip
+│   │   ├── 📄 App V cor.doc
+│   │   └── 📄 1-FondationsPrésentation.ppt
+│   ├── 📁 stabilite/
+│   │   ├── 📄 s'ab.xlsx
+│   │   ├── 📄 MINIPROJ.dwg
+│   │   ├── 📄 MINIPROJ.bak
+│   │   ├── 📄 gabion.dwg
+│   │   ├── 📄 gabion.bak
+│   │   └── 📄 acadstk.dmp
+│   ├── 📁 projet/
+│   │   ├── 📁 autocad stabilité pentes/
+│   │   │   ├── 📁 Nouveau dossier/
+│   │   │   │   └── 📄 MINIPROJ.dwg
+│   │   │   └── 📁 FICHIER AUTOCAD/
+│   │   │       ├── 📄 Thumbs.db
+│   │   │       ├── 📄 MINIPROJ.dwg
+│   │   │       └── 📄 MINIPROJ.bak
+│   │   └── 📁 Projet stabilité pentes/
+│   │       ├── 📄 JBB.xls
+│   │       ├── 📄 Dessin1.dwg
+│   │       └── 📄 Dessin1.bak
+│   ├── 📁 recherche/
+│   │   ├── 📄 Travertin.docx
+│   │   ├── 📄 roches2.jpg
+│   │   ├── 📄 OneGeologyWP3-D3_1_DataSpec.pdf
+│   │   ├── 📄 marne_03.jpg
+│   │   ├── 📄 marne.docx
+│   │   ├── 📄 flysches.docx
+│   │   └── 📄 Atelier roches_2.pdf
+│   ├── 📁 document/
+│   │   ├── 📄 STABILITE_DES_PENTES.pptx
+│   │   ├── 📄 Pratique_de_leurocode_2_0002.pdf
+│   │   ├── 📁 EuroCode7/
+│   │   │   ├── 📄 prEN1997_2_st49_301105.pdf
+│   │   │   ├── 📄 prEN1997_1_finaldraft_fev03.pdf
+│   │   │   └── 📄 Eurocode7_1997-1.pdf
+│   │   └── 📁 mini Projet/
+│   │       ├── 📄 S6300589.JPG
+│   │       ├── 📄 MINIPROJ.dwg
+│   │       ├── 📄 MINICONF-Model.pdf
+│   │       └── 📄 Enoncé.doc
+│   ├── 📁 controles MDS/
+│   │   ├── 📄 controle tassement.bmp
+│   │   ├── 📄 controle tassement 2.bmp
+│   │   ├── 📄 mds 4-4.JPG
+│   │   ├── 📄 mds 3-4.JPG
+│   │   ├── 📄 mds 2-4.JPG
+│   │   └── 📄 mds 1-4.JPG
+│   ├── 📁 cours de géotechnique/
+│   ├── 📁 autres cours/
+│   │   ├── 📁 CNAM PARIS/
+│   │   │   ├── 📄 Gأ©ot_chapitre15.pdf
+│   │   │   ├── 📄 Gأ©ot_chapitre14.pdf
+│   │   │   ├── 📄 Gأ©ot_chapitre13.pdf
+│   │   │   ├── 📄 Gأ©ot_chapitre11.pdf
+│   │   │   ├── 📄 Gأ©ot_chapitre9.pdf
+│   │   │   ├── 📄 Gأ©ot_chapitre8.pdf
+│   │   │   ├── 📄 Géotechnique.pdf
+│   │   │   ├── 📄 Géot_chapitre18.pdf
+│   │   │   ├── 📄 Géot_chapitre12.pdf
+│   │   │   ├── 📄 Géot_chapitre10.pdf
+│   │   │   ├── 📄 Géot_chapitre7.pdf
+│   │   │   ├── 📄 Géot_chapitre6.pdf
+│   │   │   ├── 📄 Géot_chapitre5.pdf
+│   │   │   ├── 📄 Géot_chapitre4.pdf
+│   │   │   ├── 📄 Géot_chapitre3.pdf
+│   │   │   ├── 📄 Géot_chapitre2.pdf
+│   │   │   ├── 📄 Géot_chapitre1.pdf
+│   │   │   ├── 📄 classification des sols.pdf
+│   │   │   └── 📄 Gأ©ot_chapitre16.pdf
+│   │   ├── 📁 Ecole polytechnique de lausanne/
+│   │   │   ├── 📄 reconaissance du  sol.ppt
+│   │   │   ├── 📄 Cours_mecanique_sols_1.pdf
+│   │   │   ├── 📄 chapitre_4-resistance_au_cisaillement_des_sols.pdf
+│   │   │   ├── 📁 fondation sur pieux/
+│   │   │   │   ├── 📄 tassement des pieux.pps
+│   │   │   │   ├── 📄 formules de battage.pps
+│   │   │   │   ├── 📄 essai chargement statique pieux.pps
+│   │   │   │   ├── 📄 description pieux forés.pps
+│   │   │   │   ├── 📄 description pieux battus.pps
+│   │   │   │   └── 📄 classification des pieux.pps
+│   │   │   ├── 📁 generalité/
+│   │   │   │   ├── 📄 Etats limites SIA 267.pps
+│   │   │   │   └── 📄 essais géotechniques in situ.pps
+│   │   │   ├── 📁 fondations superficielles/
+│   │   │   │   └── 📄 fondations superficielles.pps
+│   │   │   ├── 📁 mur de soutenement/
+│   │   │   │   └── 📄 Exemple mur de soutènement SIA 267.pps
+│   │   │   └── 📁 réalisation de fouille/
+│   │   │       ├── 📁 stabilité/
+│   │   │       │   ├── 📄 rupture de parois de soutènement.pps
+│   │   │       │   ├── 📄 Exemple paroi SIA 267.pps
+│   │   │       │   └── 📄 Actions sur parois de soutènement.pps
+│   │   │       ├── 📁 etayage et exécution/
+│   │   │       │   ├── 📄 tunnel en taupe.pps
+│   │   │       │   ├── 📄 tunnel cut and cover.pps
+│   │   │       │   ├── 📄 Techniques d'étayage.pps
+│   │   │       │   ├── 📄 fondation d'immeuble en taupe.pps
+│   │   │       │   └── 📄 fondation d'immeuble classique.pps
+│   │   │       └── 📁 types d'ecran/
+│   │   │           ├── 📄 Parois clouées.pps
+│   │   │           ├── 📄 Paroi moulée.pps
+│   │   │           ├── 📄 Paroi de pieux hotel alpha.pps
+│   │   │           ├── 📄 Paroi berlinoise.pps
+│   │   │           ├── 📄 Palplanches.pps
+│   │   │           └── 📄 Illustrations parois moulées.pps
+│   │   └── 📁 MDS/
+│   │       ├── 📄 SOILPARen.exe
+│   │       ├── 📄 Notions-gologie.pdf
+│   │       ├── 📄 MS7_AMo.pdf
+│   │       ├── 📄 MecaSol.pdf
+│   │       ├── 📄 mds.txt
+│   │       ├── 📄 GEN_29_SOLS_ESSAIS_DE_LABO_01.pdf
+│   │       ├── 📄 Essai D’équivalent De Sable.pptx
+│   │       ├── 📄 document_service_15_99.pdf
+│   │       ├── 📄 cours de mecanique des sols.pdf
+│   │       ├── 📄 annexe2.pdf
+│   │       └── 📄 1laboTP3.pdf
+│   └── 📁 cours MDS/
+│       ├── 📄 mds.zip
+│       ├── 📄 flysches.docx
+│       ├── 📄 Essai pressiométrique.pdf
+│       ├── 📄 Déformation des sols_Rap.pdf
+│       ├── 📄 5-Résistance au cisaillement.pdf
+│       ├── 📄 4-Déformation des sols.pdf
+│       ├── 📄 3-Eau dans le sol.pdf
+│       └── 📄 chapite 1 et 2.pdf
+├── 🔗📁 Mds -20260702T201337Z-3-001.zip/  (raccourci)
+├── 📄 Essai oedomètrique.pdf
+├── 📄 ESSAI SEDIMENTOMETRIQUE.pptx
+├── 📄 Essais géotechniques en génie civil.pdf
+├── 📄 Essais géotechniques-1.pdf
+├── 📄 ESSAIS GÉOTECHNIQUES.pdf
+├── 📄 etude de stabilite ADM.docx
+├── 📄 GEOLOGIE GEOTECHNIQUE Mur de soutènement.pdf
+├── 📄 Géotechnique 2024 2025_250428_214628.pdf
+├── 📄 géotechnique routière .pdf
+├── 📄 GEOTECHNIQUE- CHAPITRE 5.pdf
+├── 📄 granulo-vierge.pdf
+├── 📄 les essais géotechniques dans le génie civil.pdf
+├── 📄 les essais relatifs aux chaussees.pdf
+├── 📄 LES ESSAIS SUR LES MATERIAUX DE CONSTRUCTIO.pdf
+├── 📄 limites datterberg.pdf
+├── 📄 M13 Géologie et géotechnique TSGC.pdf
+├── 📄 M109 GEOLOGIE GEOTECHNIQUE MANUEL DE COURS.pdf
+├── 📄 M207 COMPLET.pdf
+├── 📄 Drive module mécanique des sols - cours, exercices corrigés et examens.txt
+├── 📁 drives/
+│   ├── 🔗📁 Mds /  (raccourci)
+│   │   ├── 📁 Les séries /
+│   │   │   ├── 📁 Chapitre 4 /
+│   │   │   │   ├── 📄 Série sur le compactage des sols.pdf
+│   │   │   │   ├── 📄 COMPACTAGE DES SOLS.pdf
+│   │   │   │   └── 📄 Série supplémentaire sur tout le programme.pdf
+│   │   │   ├── 📁 Chapitre 3 /
+│   │   │   │   ├── 📄 IDENTIFICATION ET CLASSIFICATION DES SOLS.pdf
+│   │   │   │   ├── 📄 solution de lexercice 2 de la série 1 identification et classification des sols.pdf
+│   │   │   │   ├── 📄 solution de lexercice 1 de la série 1 identification et classification des sols.pdf
+│   │   │   │   ├── 📄 Solution de lexercice 3 de la série 1 Identification et classification des sols.pdf
+│   │   │   │   ├── 📄 serie 2 chapitre 3.pdf
+│   │   │   │   ├── 📄 RÉSUMÉ, IDENTIFICATION ET CLASSIFICATION DES SOLS.docx
+│   │   │   │   ├── 📄 série 1 du chap 3  identification et classification des sols.pdf
+│   │   │   │   └── 📄 solution de la série 2 identification et classification des sols.pdf
+│   │   │   └── 📁 Chapitre 1 /
+│   │   │       ├── 📄 Série 2 MDS1 .pdf
+│   │   │       ├── 📄 Série 2- solution.pdf
+│   │   │       ├── 📄 Série 1 MDS1 solution.pdf
+│   │   │       └── 📄 Série 1 MDS1.pdf
+│   │   ├── 📁 Série 1 et 2 /
+│   │   │   ├── 📄 serie 1 MDS1.pdf
+│   │   │   ├── 📄 serie 2 MDS1 (5).pdf
+│   │   │   └── 📄 solution série 1 et  2 car phy.pdf
+│   │   ├── 📁 Série 3 /
+│   │   │   ├── 📄 corrigé serie 3.pdf
+│   │   │   ├── 📄 série 03.pdf
+│   │   │   ├── 📄 série chapitre 03 .pdf
+│   │   │   └── 📄 solution série classification.pdf
+│   │   └── 📁 Cours PDF/
+│   │       ├── 📄 Identification et classification partie A.pdf
+│   │       ├── 📄 COURS 2 L2 ZH.pdf
+│   │       ├── 📄 Chapitre 1 L2 ZH.pdf
+│   │       ├── 📁 Chapitre 4/
+│   │       │   └── 📄 COMPACTAGE DES SOLS (1).pdf
+│   │       ├── 📁 Chapitre 2/
+│   │       │   └── 📄 Chapitre2 final.pdf
+│   │       ├── 📁 Chapitre 1/
+│   │       │   ├── 📄 CHAPITRE 1 MDS1 HAZOUT.pdf
+│   │       │   └── 📄 CHAPITRE 1 MDS1 HAZOUT.ppt
+│   │       └── 📁 Chapitre 3/
+│   │           ├── 📄 chapitre 3 IDENTIFICATION ET CLASSIFICATION DES SOLS.pdf
+│   │           └── 📄 CLASSIFICATION DES SOLS RESUME.pdf
+│   └── 🔗📁 mécanique des sols/  (raccourci)
+│       ├── 📄 Polycope Géologie et géotechnique TSGC pdf.pdf
+│       ├── 📄 Série2_Exercices Mécanique des sols.pdf
+│       ├── 📄 Efm mécanique des sol .pdf
+│       ├── 📄 Classification des sols .pdf
+│       ├── 📄 exercices serie1 - geotechnique.pdf
+│       ├── 📄 Série 3.pdf
+│       ├── 📄 M13 Géologie et géotechnique TSGC.pdf
+│       ├── 📄 Géotechnique.pdf
+│       ├── 📄 Cours Géotechnique_Murs de soutènement.pdf
+│       ├── 📄 Polycope Géologie et géotechnique TSGC pdf.pdf
+│       ├── 📄 ESSAIS GÉOTECHNIQUES.pdf
+│       ├── 📄 Les_essais_in_situ_en_mécanique_des_sols_Volume_1_Réalisation_et.pdf
+│       ├── 📄 etude de stabilite ADM.docx
+│       ├── 📄 Pages à partir de 'ETUDE GEOTECHNIQUE_002'.pdf
+│       ├── 📄 cours_complet_geotechnique_1.pdf
+│       ├── 📄 WhatsApp Image 2025-06-30 at 15.26.46.jpeg
+│       ├── 📄 EFM Géotechnique .pdf
+│       ├── 📄 Resumé 2023 2024.pdf
+│       ├── 📄 granulo-vierge.pdf
+│       ├── 📄 Essai Micro Deval (4).pptx
+│       ├── 📄 Resumé de la stabilité totale des murs 2024.pdf
+│       ├── 📄 M207 PARTIE 1.pdf
+│       ├── 📄 Serie mur de soutenement-1.pdf
+│       ├── 📄 Essais géotechniques en génie civil.pdf
+│       ├── 📄 correction 2020.pdf
+│       ├── 📄 mécanique de sol analyse partie2.pdf
+│       ├── 📄 5.Murs de soutènement.pdf
+│       ├── 📄 2.Déf de la géotechnique.pdf
+│       ├── 📄 OUVRAGE M-canique des sols - Stabilit- - partager.pdf
+│       ├── 📄 M207 COMPLET.pdf
+│       ├── 📄 Mécanique des Sols TSGC 2022 2023-45-52.pdf
+│       ├── 📄 WhatsApp Image 2025-06-01 à 12.13.10_644f5d18.jpg
+│       ├── 📄 WhatsApp Image 2025-06-01 à 12.12.13_432e4a01.jpg
+│       ├── 📄 WhatsApp Image 2025-06-01 à 12.12.12_5c4e2f9d.jpg
+│       ├── 📄 صورة واتساب بتاريخ 1446-11-18 في 18.14.23_50d9414f.jpg
+│       ├── 📄 Chapitre N°1-M107-Géologie et Géotechnique---LES TYPES DES SOLS-1.pdf
+│       ├── 📄 les essais relatifs aux chaussees.pdf
+│       ├── 📄 mur_de_sout_nement.pdf
+│       ├── 📄 les essais géotechniques dans le génie civil.pdf
+│       ├── 📄 Géotechnique 2024 2025_250428_214628.pdf
+│       ├── 📄 Exercice Géotechnique 2022-2023 mod_250426_150821.pdf
+│       ├── 📄 صورة واتساب بتاريخ 1446-11-18 في 18.02.20_9dd7c9d4.jpg
+│       ├── 📄 Cours Etude de la stabilité des murs.pdf
+│       ├── 📄 Essai oedomètrique.pdf
+│       ├── 📄 Tous les essais en génie civil doc.pdf
+│       ├── 📄 géotechnique routière .pdf
+│       ├── 📄 essai à la plaque doc 1.pdf
+│       ├── 📄 cours geotechnique.pdf
+│       ├── 📄 Ex GEOTECHNIQUE.pdf
+│       ├── 📄 LES ESSAIS SUR LES MATERIAUX DE CONSTRUCTIO.pdf
+│       ├── 📄 Chapitre 1 et 2 - GEOLOGIE ET GEOTECHNIQUE.pdf
+│       ├── 📄 CHAPITRE 4 - GEOTECHNIQUE.pdf
+│       ├── 📄 Chapitre 3 - GEOLOGIE ET GEOTECHNIQUE.pdf
+│       ├── 📄 GEOTECHNIQUE- CHAPITRE 5.pdf
+│       ├── 📄 Note de Calcul Mur de soutènement.pdf
+│       ├── 📄 GEOLOGIE GEOTECHNIQUE Mur de soutènement.pdf
+│       ├── 📄 Partie 6.pdf
+│       ├── 📄 série des exercices MUR DE SOUTÈNEMENT.pdf
+│       ├── 📄 chapitre_1-proprietes_physiques_des_sols-1.pdf
+│       ├── 📄 mécanique des fluides.pdf
+│       ├── 📄 mur de soutènement 23-10-2024.pdf
+│       ├── 📄 toute_la_geotechnique.pdf
+│       ├── 📄 Resumé Géo.pdf
+│       ├── 📄 chapitre_3-tassements.pdf
+│       ├── 📄 limites datterberg.pdf
+│       ├── 📄 Cours géotechnique routière TAMIM - EHTP.pdf
+│       ├── 📄 element géotechnique.pdf
+│       ├── 📄 M109 GEOLOGIE GEOTECHNIQUE MANUEL DE COURS.pdf
+│       ├── 📄 Partie 1 et 2 - GEOLOGIE ET GEOTECHNIQUE.pdf
+│       ├── 📄 Essais géotechniques-1.pdf
+│       ├── 📄 ESSAI SEDIMENTOMETRIQUE.pptx
+│       ├── 📄 les essais de la geotechnique routiere.pdf
+│       ├── 📄 Module 12. Etude génie civil – Mécanique des sols -TSGO.doc
+│       ├── 📄 EXERCICE 1 FC.pdf
+│       ├── 📄 LES ESSAIS DANS LE GENIE CIVIL .doc
+│       ├── 📄 Catalogue des matériels des essais.pdf
+│       ├── 📄 TO US LE S ESS AIS DA NS LE GE NIE CIV IL 1 (1).doc
+│       ├── 📄 Exercice Géotechnique 2022-2023 mod.pdf
+│       ├── 📄 WhatsApp Image 2023-06-26 at 12.41.47.jpeg
+│       ├── 📄 WhatsApp Image 2023-06-26 at 12.41.56 (2).jpeg
+│       ├── 📄 WhatsApp Image 2023-05-29 at 10.51.31 (1).jpeg
+│       └── 📄 EXO STABILITE 2022 Maj.pdf
+├── 📁 cours/
+│   ├── 📄 cours Partie 1 et 2 - GEOLOGIE ET GEOTECHNIQUE.pdf
+│   ├── 📄 ESSAIS GEOTECHNIQUES - ETUDE GEOTECHNIQUE_002'.pdf
+│   ├── 📄 resume Module 12. Etude génie civil – Mécanique des sols -TSGO.doc
+│   ├── 📄 résumé .jpg
+│   ├── 📄 Note de Calcul Mur de soutènement.pdf
+│   ├── 📄 Partie 6.pdf
+│   ├── 📄 Resumé 2023 2024.pdf
+│   ├── 📄 Resumé de la stabilité totale des murs 2024.pdf
+│   ├── 📄 Resumé Géo.pdf
+│   ├── 📄 TO US LE S ESS AIS DA NS LE GE NIE CIV IL 1 (1).doc
+│   ├── 📄 Tous les essais en génie civil doc.pdf
+│   ├── 📄 2.Déf de la géotechnique.pdf
+│   ├── 📄 5.Murs de soutènement.pdf
+│   ├── 📄 Catalogue des matériels des essais.pdf
+│   ├── 📄 Chapitre 1 et 2 - GEOLOGIE ET GEOTECHNIQUE.pdf
+│   ├── 📄 Chapitre 3 - GEOLOGIE ET GEOTECHNIQUE.pdf
+│   ├── 📄 CHAPITRE 4 - GEOTECHNIQUE.pdf
+│   ├── 📄 Chapitre N°1-M107-Géologie et Géotechnique---LES TYPES DES SOLS-1.pdf
+│   ├── 📄 chapitre_1-proprietes_physiques_des_sols-1.pdf
+│   ├── 📄 chapitre_3-tassements.pdf
+│   ├── 📄 Cours Etude de la stabilité des murs.pdf
+│   ├── 📄 Cours géotechnique routière TAMIM - EHTP.pdf
+│   ├── 📄 Cours Géotechnique_Murs de soutènement.pdf
+│   ├── 📄 cours geotechnique.pdf
+│   ├── 📄 cours_complet_geotechnique_1.pdf
+│   ├── 📄 element géotechnique.pdf
+│   ├── 📄 essai à la plaque doc 1.pdf
+│   └── 📄 Essai Micro Deval (4).pptx
+├── 📁 TDs et exos/
+│   ├── 📄 Polycope cours et exo Géologie et géotechnique TSGC pdf.pdf
+│   ├── 📄 COURS & EXERCICES CORRIGES.pdf
+│   ├── 📄 exercice mur_de_sout_nement.pdf
+│   ├── 📄 td mur de soutènement 23-10-2024.pdf
+│   ├── 📄 td Mécanique des Sols TSGC 2022 2023-45-52.pdf
+│   ├── 📄 livre exercices corrigés géotechnique problèmes pratiques des sols et des fondations(236).pdf
+│   ├── 📄 livre EXERCICES DE MECANIQUE DES SOLS .pdf
+│   ├── 📄 Série 3.pdf
+│   ├── 📄 série des exercices MUR DE SOUTÈNEMENT.pdf
+│   ├── 📄 Serie mur de soutenement-1.pdf
+│   ├── 📄 Série2_Exercices Mécanique des sols.pdf
+│   ├── 📄 Ex GEOTECHNIQUE.pdf
+│   ├── 📄 EXERCICE 1 FC.pdf
+│   ├── 📄 Exercice Géotechnique 2022-2023 mod_250426_150821.pdf
+│   ├── 📄 Exercice Géotechnique 2022-2023 mod.pdf
+│   ├── 📄 exercices serie1 - geotechnique.pdf
+│   ├── 📄 EXO STABILITE 2022 Maj.pdf
+│   ├── 📁 Les séries /
+│   │   ├── 📁 Chapitre 4 /
+│   │   │   ├── 📄 COMPACTAGE DES SOLS.pdf
+│   │   │   ├── 📄 Série sur le compactage des sols.pdf
+│   │   │   └── 📄 Série supplémentaire sur tout le programme.pdf
+│   │   ├── 📁 Chapitre 1 /
+│   │   │   ├── 📄 Série 2 MDS1 .pdf
+│   │   │   ├── 📄 Série 1 MDS1 solution.pdf
+│   │   │   ├── 📄 Série 2- solution.pdf
+│   │   │   └── 📄 Série 1 MDS1.pdf
+│   │   └── 📁 Chapitre 3 /
+│   │       ├── 📄 IDENTIFICATION ET CLASSIFICATION DES SOLS.pdf
+│   │       ├── 📄 serie 2 chapitre 3.pdf
+│   │       ├── 📄 RÉSUMÉ, IDENTIFICATION ET CLASSIFICATION DES SOLS.docx
+│   │       ├── 📄 Solution de lexercice 3 de la série 1 Identification et classification des sols.pdf
+│   │       ├── 📄 solution de lexercice 1 de la série 1 identification et classification des sols.pdf
+│   │       ├── 📄 série 1 du chap 3  identification et classification des sols.pdf
+│   │       ├── 📄 solution de la série 2 identification et classification des sols.pdf
+│   │       └── 📄 solution de lexercice 2 de la série 1 identification et classification des sols.pdf
+│   ├── 📁 Série 1 et 2 /
+│   │   ├── 📄 serie 1 MDS1.pdf
+│   │   ├── 📄 solution série 1 et  2 car phy.pdf
+│   │   └── 📄 serie 2 MDS1 (5).pdf
+│   └── 📁 Série 3 /
+│       ├── 📄 solution série classification.pdf
+│       ├── 📄 série 03.pdf
+│       ├── 📄 corrigé serie 3.pdf
+│       └── 📄 série chapitre 03 .pdf
+└── 📁 controles/
+    ├── 📄 exam.jpg
+    ├── 📄 exam.jpg
+    ├── 📄 exam img2 .jpg
+    ├── 📄 exam.jpg
+    ├── 📄 controle2.jpg
+    ├── 📄 examen.jpg
+    ├── 📄 mds 2-4.JPG
+    ├── 📄 controle tassement 2.bmp
+    ├── 📄 mds 4-4.JPG
+    ├── 📄 mds 3-4.JPG
+    ├── 📄 controle tassement.bmp
+    ├── 📄 mds 1-4.JPG
+    ├── 📄 correction 2020.pdf
+    ├── 📄 EFM Géotechnique .pdf
+    └── 📄 Efm mécanique des sol .pdf
+
+═════════════════════════════════════
+  Fin du fichier · Géotechnique+mécanique des sols
+═════════════════════════════════════

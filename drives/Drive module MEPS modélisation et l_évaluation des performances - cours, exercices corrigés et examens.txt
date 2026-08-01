@@ -1,0 +1,156 @@
+📚 MODULE : MEPS modélisation et l'évaluation des performances
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module MEPS modélisation et l'évaluation des performances.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 MEPS modélisation et l'évaluation des performances/
+├── 🔗📁 Modélisation et Évaluation des Performances des Systèmes/  (raccourci)
+│   ├── 📁 Séries du TD/
+│   │   ├── 📁 Anciennes (Avec Solutions)/
+│   │   │   ├── 📄 Série 2 - Files d'Attente.pdf
+│   │   │   ├── 📄 Série 1 - Chaînes de Markov.pdf
+│   │   │   ├── 📄 Série 0 - Rappels Probabilités.pdf
+│   │   │   └── 📁 Solutions (Cahier)/
+│   │   │       ├── 📄 Corrigé Série 2 (Files d'Attente).pdf
+│   │   │       ├── 📄 Corrigé Série 1 (Chaînes de Markov).pdf
+│   │   │       └── 📄 Corrigé Série 0 (Rappels Probabilités).pdf
+│   │   └── 📁 Nouvelles (2018-19)/
+│   │       ├── 📄 TD 03 - Files d'Attente.pdf
+│   │       ├── 📄 TD 02 - Chaînes de Markov.pdf
+│   │       └── 📄 TD 01 - Rappels Probabilités.pdf
+│   ├── 📁 Interrogations et examens/
+│   │   ├── 📄 Rattrapage MERS + Corr (IL, 2011).pdf
+│   │   ├── 📄 Rattrapage MEPS (RSD, Février 2009).pdf
+│   │   ├── 📄 Rattrapage MEPS (Février 2010).pdf
+│   │   ├── 📄 Interrogation MEPS (SII, Novembre 2018).pdf
+│   │   ├── 📄 Examen MEPS + Corr (SII, Janvier 2014).pdf
+│   │   ├── 📄 Examen MEPS + Corr (RSD, Janvier 2012).pdf
+│   │   ├── 📄 Examen MEPS + Corr (RSD, Janvier 2010).pdf
+│   │   ├── 📄 Examen MEPS + Corr (Janvier 2009).pdf
+│   │   ├── 📄 Examen MEPS + Corr (IL, Janvier 2011).pdf
+│   │   ├── 📄 Examen MEPS + Corr (IL).pdf
+│   │   ├── 📄 Examen MEPS (SII, Janvier 2018).pdf
+│   │   ├── 📄 Examen MEPS (SII, Janvier 2017).pdf
+│   │   ├── 📄 Examen MEPS (RSD, Janvier 2009).pdf
+│   │   ├── 📄 Examen MEPS (SII, Janvier 2019).pdf
+│   │   └── 📁 Corrections sans sujet/
+│   │       └── 📄 Corr Interrogation MEPS (RSD, 2009) [Sans sujet].pdf
+│   ├── 📁 Exercices/
+│   │   ├── 📄 Travail MEPS + Corr (SII, 2017) [Solution Proposée].pdf
+│   │   ├── 📄 Table récapitulative.pdf
+│   │   ├── 📄 Devoir - Réseau de Pétri (RdP).pdf
+│   │   └── 📁 Chaînes à temps discret et continu/
+│   │       ├── 📄 Exercices (temps continu).pdf
+│   │       ├── 📄 Exercices (Chaînes à temps discret).pdf
+│   │       ├── 📄 Chaînes de Markov à temps continu.pdf
+│   │       ├── 📄 Chaînes de Markov discrètes (Exercices avec Corr).pdf
+│   │       └── 📄 Chaines de Markov en temps continu (Exercices).pdf
+│   └── 📁 Cours/
+│       ├── 📄 Présentation MEPS.pdf
+│       ├── 📄 Les Réseaux de Petri (Livre).pdf
+│       ├── 📄 Chap 0 - Introduction.pdf
+│       ├── 📄 Chap 4 - Modèles de files d’Attente.pdf
+│       ├── 📄 Chap 3 - Chaînes de Markov.pdf
+│       ├── 📄 Chap 2 - Techniques d’évaluation des performances.pdf
+│       ├── 📄 Chap 1 - Modélisation des Systèmes.pdf
+│       ├── 📄 Cours MEPS (IL, 2018).pdf
+│       └── 📁 Autres (Exercices et Résumés)/
+│           ├── 📄 Modèles de Files d'Attente (Résumé).pdf
+│           ├── 📄 Les chaines de Markov (Résumé et Exercices).pdf
+│           ├── 📄 Introduction aux Files d'Attente.pdf
+│           ├── 📄 Cours MEPS.pdf
+│           └── 📄 Chaînes de Markov à temps continu.pdf
+├── 🔗📁 MEPS/  (raccourci)
+│   ├── 📄 CoursAmrous_imen.pdf
+│   ├── 📄 CoursAmrous.pptx
+│   ├── 📄 serie 4 Réseaux de pétri.docx
+│   ├── 📄 serie3 Filed d_attente.docx
+│   ├── 📄 serie2_CMTC.docx
+│   └── 📄 Serie1_CMDT.docx
+├── 🔗📁 MEPS/  (raccourci)
+│   ├── 📁 TD + solutions/
+│   │   └── 📁 2017/
+│   │       ├── 📄 série 2 files d'attente.pdf
+│   │       ├── 📄 série 0.pdf
+│   │       ├── 📄 corrigé série 2 files d'attente.pdf
+│   │       ├── 📄 corrigé série 1 chaines de markov.pdf
+│   │       ├── 📄 corrigé série 0.pdf
+│   │       └── 📄 série 1 chaines de markov.pdf
+│   ├── 📁 Exam/
+│   │   ├── 📄 Examen 2018 Meps.pdf
+│   │   ├── 📄 sujets_meps.pdf
+│   │   ├── 📄 sujetMEPS.rar
+│   │   ├── 📄 sujet meps 2017.jpg
+│   │   ├── 📄 Examen_corrig_de_MEPS.pdf
+│   │   ├── 📄 Examen+corrigé+de+MEPS.pdf
+│   │   ├── 📄 Correction graphes_07_01_09.doc
+│   │   ├── 📄 Corrèction d'interrogation.pdf
+│   │   ├── 📄 corrigéMEPS2011.pdf
+│   │   ├── 📄 corrigé MEPS 2010.pdf
+│   │   ├── 📄 Rattrapage20082009.pdf
+│   │   ├── 📄 Examen 20092010.pdf
+│   │   └── 📄 Examen 20082009.pdf
+│   ├── 📁 autres (cours + exos supplémentaires)/
+│   │   ├── 📄 poly_RO_FSur.pdf
+│   │   ├── 📄 chaine_de_Markov_exo.pdf
+│   │   ├── 📄 procal.pdf
+│   │   ├── 📄 technique_analyt-3-2_versailles.ppt
+│   │   ├── 📄 PolyCorriges-1.pdf
+│   │   ├── 📄 polycomplet.pdf
+│   │   ├── 📄 exos_c_2.PDF
+│   │   ├── 📄 exos_c.PDF
+│   │   ├── 📄 exopoly2c.pdf
+│   │   ├── 📄 MODELES_DE_FILES_D_ATTENTE.pdf
+│   │   ├── 📄 MODELES DE FILES D_ATTENTE.pdf
+│   │   ├── 📄 JMCT_MEPS.pdf
+│   │   ├── 📄 ch-mark-cont.pdf
+│   │   ├── 📄 CMTC.pdf
+│   │   └── 📄 14_files_attente.pdf
+│   └── 📁 cours/
+│       ├── 📄 2018 résumé-mepssolution-exo-cmtd-cours.zip
+│       ├── 📄 Réseaux+de+Petri.pdf
+│       ├── 📄 MEPS_presentation.pptx
+│       └── 📄 MEPS1_présentation.pdf
+└── 🔗📁 Modélisation et Évaluation des Performances des Systèmes/  (raccourci)
+    ├── 📄 resume2.docx
+    ├── 📄 resume.docx
+    ├── 📄 Modélisation et Évaluation des Performances des Systèmes-20220211T185226Z-001.zip
+    ├── 📄 Modélisation et Evaluation des Performances des Systemes.zip
+    ├── 📄 Meps.zip
+    └── 📁 COURS/
+        ├── 📄 #7 Cours + TD MEPS (15_12_2021).mp4
+        ├── 📄 #6 Cours + TD MEPS (01_12_2021).mp4
+        ├── 📄 #5 Cours + TD MEPS (28_11_2021).mkv
+        ├── 📄 #9 Cours + TD MEPS (05_01_2022 partie 2).mp4
+        ├── 📄 #8 Cours + TD MEPS (05_01_2022 partie 1).mp4
+        ├── 📄 #4 Cours + TD MEPS (10_11_2021).mp4
+        ├── 📄 #1 Cours MEPS (24_10_2021).mp4
+        ├── 📄 #2 Cours MEPS (03_11_2021).mp4
+        ├── 📄 #3 TD MEPS (03_11_2021).mkv
+        ├── 📄 RESOLUTION PROBLEMES Cours Petri + TD File d_Attente .m4v
+        ├── 📄 MEPS Cours 07.m4v
+        ├── 📄 MODELES DE FILES D_ATTENTE.docx
+        ├── 📄 MEPS Cours 5 (file) + TD_EXO8.m4v
+        ├── 📄 MEPS Cours 06.m4v
+        ├── 📄 MEPS Cours 05.m4v
+        ├── 📄 MEPS Cours 04.m4v
+        ├── 📄 MEPS Cours 03.m4v
+        ├── 📄 MEPS Cours 02.mkv
+        ├── 📄 MEPS presentation 2020_21.pdf
+        ├── 📄 MEPS Cours 01.mkv
+        └── 📁 MEPS/
+            └── ⚠️  [Référence circulaire ignorée]
+
+═════════════════════════════════════
+  Fin du fichier · MEPS modélisation et l'évaluation des performances
+═════════════════════════════════════

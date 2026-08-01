@@ -1,0 +1,328 @@
+📚 MODULE : Matlab simulink labview                   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Matlab simulink labview.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Matlab simulink labview/
+├── 🔗📁 Tp/  (raccourci)
+│   ├── 📄 ElÃ©ment barre.txt
+│   ├── 📄 ElÃ©ment poutre.txt
+│   ├── 📄 TP 4 MATLAB.pdf
+│   ├── 📄 Elément poutre.txt
+│   ├── 📄 Elément barre.txt
+│   ├── 📄 code_source__pivot_de_gauss.txt
+│   ├── 📄 TP 3 MATLAB.pdf
+│   ├── 📄 TP 2 Matlab.pdf
+│   └── 📄 TP 1 MATLAB.pdf
+├── 🔗📁 Outil Matlab/  (raccourci)
+│   └── 📁 Prof Tahir/
+│       ├── 📄 Matlab Examen final2.pdf
+│       ├── 📄 Matlab Examen final Juin 2023.pdf
+│       └── 📁 Tps/
+│           ├── 📄 Matlab_TP9_Structures de données.pdf
+│           ├── 📄 Matlab_TP12_Traitement de signal.pdf
+│           ├── 📄 Matlab_TP11_Traitement d’image.pdf
+│           ├── 📄 Matlab_TP9_Interfaces graphiques.pdf
+│           ├── 📄 Matlab_TP8_Polynômes, fractions rationnelles.docx.pdf
+│           ├── 📄 Matlab_TP7_Résolution des équations différentielles.pdf
+│           ├── 📄 Matlab_TP5_Les fonctions.pdf
+│           ├── 📄 Matlab_TP4_Outils de développement.pdf
+│           ├── 📄 Matlab_TP6_Résolution système Linéaire.pdf
+│           ├── 📄 Matlab_TP3_Représentation graphique.pdf
+│           ├── 📄 Matlab_TP2_Vercteurs et Matrices.pdf
+│           └── 📄 Matlab_TP1_Initiation à Matlab.pdf
+├── 🔗📁 Outils Informatiques+TPs/  (raccourci)
+│   ├── 📁 SIMULINK/
+│   │   ├── 📄 COURS.pdf
+│   │   └── 📁 TPs/
+│   │       ├── 📁 TP3/
+│   │       │   ├── 📄 TP 3 Simulink (BARKACHE Chaimae).pdf
+│   │       │   └── 📄 SIMULINK_TP3_CIRCUITS_ELECTRIQUES (1).pdf
+│   │       ├── 📁 TP4/
+│   │       │   ├── 📄 TP 4 Simulink (BARKACHE Chaimae).pdf
+│   │       │   └── 📄 TP 4 enoncé.pdf
+│   │       ├── 📁 TP2/
+│   │       │   ├── 📄 TP 2 Simulink (BARKACHE Chaimae).pdf
+│   │       │   ├── 📄 Exercises english.pdf
+│   │       │   └── 📄 TP2_ SIMILUNK_énoncé.pdf
+│   │       └── 📁 TP1/
+│   │           ├── 📄 BARKACHE CHAIMAE TP1 SIMULINK.pdf
+│   │           └── 📄 TP1_SIMULINK.pdf
+│   ├── 📁 MATLAB/
+│   │   ├── 📄 TP2_matlab_correction.pdf
+│   │   ├── 📄 TP1_matlab_correction.pdf
+│   │   ├── 📄 TP1_matlab.pdf
+│   │   ├── 📄 TP4_matlab.pdf
+│   │   ├── 📄 TP2_matlab.pdf
+│   │   ├── 📄 TP3_matlab.pdf
+│   │   ├── 📄 TP3_matlab_correction.pdf
+│   │   ├── 📄 TP4_matlab_correction.pdf
+│   │   └── 📄 cours_matlab.pdf
+│   ├── 📁 LABVIEW/
+│   │   ├── 📁 Cours +Applications/
+│   │   │   ├── 📄 crrctapp2.PNG
+│   │   │   ├── 📄 app2.PNG
+│   │   │   ├── 📄 crrct app 1.PNG
+│   │   │   ├── 📄 app 1.PNG
+│   │   │   └── 📄 Cours LabView ENSA FES.pdf
+│   │   └── 📁 TPs/
+│   │       ├── 📁 TP4/
+│   │       │   ├── 📄 exercice 5.vi
+│   │       │   ├── 📄 EX3.vi
+│   │       │   ├── 📄 EX2.vi
+│   │       │   └── 📄 ex1 (1).vi
+│   │       ├── 📁 TP3/
+│   │       │   ├── 📄 EX 1.vi
+│   │       │   ├── 📄 ex4.vi
+│   │       │   ├── 📄 ex3.vi
+│   │       │   ├── 📄 ex3-2.vi
+│   │       │   └── 📄 ex2.vi
+│   │       ├── 📁 TP2/
+│   │       │   ├── 📄 ex4-2.vi
+│   │       │   ├── 📄 ex4_1.vi
+│   │       │   ├── 📄 ex3.vi
+│   │       │   ├── 📄 ex2.vi
+│   │       │   └── 📄 ex1 (1).vi
+│   │       └── 📁 TP 1/
+│   │           ├── 📄 ex4.vi
+│   │           ├── 📄 ex3.vi
+│   │           ├── 📄 ex3-2.vi
+│   │           ├── 📄 ex2.vi
+│   │           └── 📄 ex1.vi
+│   └── 📁 EXAMS matlab sim lab/
+│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.45 (1).jpeg
+│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.45.jpeg
+│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.40.jpeg
+│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.38.jpeg
+│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.35.jpeg
+│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.34.jpeg
+│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.33 (1).jpeg
+│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.33.jpeg
+│       ├── 📄 WhatsApp Image 2020-07-10 at 18.44.47 (5).jpeg
+│       ├── 📄 WhatsApp Image 2020-07-10 at 18.44.47 (4).jpeg
+│       ├── 📄 WhatsApp Image 2020-07-10 at 18.44.47 (3).jpeg
+│       ├── 📄 WhatsApp Image 2020-07-10 at 18.44.47 (2).jpeg
+│       ├── 📄 WhatsApp Image 2020-07-10 at 18.44.47 (1).jpeg
+│       └── 📄 WhatsApp Image 2020-07-10 at 18.44.47.jpeg
+├── 📄 Informatique-ensam.rar
+├── 📄 95435.mhtml
+├── 📄 29982959_428860564240373_5675741312272615371_o_2.jpg
+├── 📄 3437-9-simulink-2011-et-labview.pdf
+├── 📁 cours et tds matlab/
+│   ├── 📄 °TD MATLAB ENSA FES 19-20.pdf
+│   ├── 📄 °COURS MATLAB ENSA-OUAJDA 19-20.pdf
+│   ├── 📄 °TD MATLAB ENSA AGADIR 19-20.pdf
+│   ├── 📄 °TD MATLAB ENSA KHOURIBGHA 19-20.pdf
+│   ├── 📄 °TD MATLAB ENSA OUAJDA 19-20.pdf
+│   ├── 📄 °TD MATLAB ENSA-BM 19-20.pdf
+│   ├── 📄 °TD MATLAB ENSA-SAFI 19-20.pdf
+│   ├── 📄 +COURS MATLAB ENSA AGADIR 19-20.pdf
+│   ├── 📄 +COURS MATLAB ENSA KHOURIBGHA 19-20.pdf
+│   ├── 📄 +COURS MATLAB ENSA-BM 19-20.pdf
+│   ├── 📄 +COURS MATLAB ENSA-FES 19-20.pdf
+│   └── 📄 +COURS MATLAB ENSA-SAFI 19-20.pdf
+├── 📁 TP/
+│   ├── 📄 colle LABVIEW .vi
+│   ├── 📄 projet1 labview.vi
+│   ├── 📄 projet2.vi
+│   ├── 📄 Presentation1.pptx
+│   ├── 📄 tp3.vi
+│   ├── 📄 VI.vi
+│   ├── 📄 VII.vi
+│   ├── 📄 VIII.vi
+│   ├── 📄 tp44.vi
+│   ├── 📄 feu rouge.vi
+│   ├── 📄 projet3 1.vi
+│   ├── 📁 tp chimi/
+│   │   ├── 📄 ACDLabs Freeware 2012 - Shortcut.lnk
+│   │   ├── 📄 tp3 chimi orga.sk2
+│   │   ├── 📄 tp 3-2.sk2
+│   │   ├── 📄 noname05.sk2
+│   │   └── 📄 tp4.sk2
+│   ├── 📁 LABVIEW/
+│   │   ├── 📄 projet2 COMPTEUR.vi
+│   │   ├── 📄 projet1 resoudre equa 2me ordre.vi
+│   │   ├── 📄 IMG20180503142422.jpg
+│   │   ├── 📄 VI.vi
+│   │   ├── 📄 VII.vi
+│   │   ├── 📄 VIII.vi
+│   │   └── 📄 tp3.vi
+│   ├── 📁 simulink project/
+│   │   ├── 📄 projet2.mdl
+│   │   ├── 📄 projet3.mdl
+│   │   ├── 📄 projet1.mdl
+│   │   ├── 📄 projet4.mdl
+│   │   ├── 📄 projet5.mdl
+│   │   ├── 📄 projet51.mdl
+│   │   ├── 📄 projet6.mdl
+│   │   └── 📄 projet.mdl
+│   └── 📁 MATLAB/
+│       ├── 📄 dott.m
+│       ├── 📄 sigma2a.m
+│       ├── 📄 sigma2b.m
+│       ├── 📄 sigma2c.m
+│       ├── 📄 maximum.m
+│       ├── 📄 somme.m
+│       ├── 📄 moyenne.m
+│       ├── 📄 matlab21.mat
+│       ├── 📄 sumCol.asv
+│       ├── 📄 sumCol.m
+│       ├── 📄 m.mat
+│       ├── 📄 matlab sien2.mat
+│       ├── 📄 orio.m
+│       ├── 📄 orio.asv
+│       ├── 📄 sumC.m
+│       ├── 📄 minLi.asv
+│       ├── 📄 minLi.m
+│       ├── 📄 maxi.asv
+│       ├── 📄 maxi.m
+│       ├── 📄 sumfact.m
+│       ├── 📄 sumfact.asv
+│       ├── 📄 prodm.asv
+│       ├── 📄 prodm.m
+│       ├── 📄 sprodl.m
+│       ├── 📄 matlab.mat
+│       ├── 📄 hh.asv
+│       ├── 📄 hh.m
+│       ├── 📄 b.mat
+│       ├── 📄 mx.m
+│       ├── 📄 sig.asv
+│       ├── 📄 sm.m
+│       ├── 📄 sig.m
+│       ├── 📄 dg.m
+│       ├── 📄 orr.m
+│       ├── 📄 equa.m
+│       ├── 📄 or.asv
+│       ├── 📄 ed.m
+│       ├── 📄 shit.asv
+│       ├── 📄 ed.asv
+│       ├── 📄 shit.m
+│       ├── 📄 nb.asv
+│       ├── 📄 nb.m
+│       ├── 📄 sc.m
+│       ├── 📄 md.m
+│       ├── 📄 md2.m
+│       ├── 📄 fc.m
+│       ├── 📄 sd2.m
+│       ├── 📄 exp_d.asv
+│       ├── 📄 exp_d.m
+│       ├── 📄 fact.m
+│       ├── 📄 puiss.m
+│       ├── 📄 exp_dl_vec.asv
+│       ├── 📄 exp_dl_vec.m
+│       ├── 📄 dtc.asv
+│       ├── 📄 dtc.m
+│       ├── 📄 vec.m
+│       ├── 📄 prem.asv
+│       ├── 📄 sprodl.asv
+│       ├── 📄 prem.m
+│       ├── 📄 plt.asv
+│       ├── 📄 plt.m
+│       ├── 📄 sre.asv
+│       ├── 📄 sre.m
+│       └── 📄 trng.m
+├── 📁 SIMULINK/
+│   ├── 📄 COURS.pdf
+│   ├── 📁 simulink/
+│   │   ├── 📄 _♥Using_Matlab_Simulink.pdf
+│   │   ├── 📄 CoursMATLABetSimulink.pdf
+│   │   ├── 📄 simulink.pdf
+│   │   ├── 📄 lessons-algo_str_donnees.pdf
+│   │   ├── 📄 20180310_103817.jpg
+│   │   ├── 📄 20180310_103808.jpg
+│   │   ├── 📄 20180310_103758.jpg
+│   │   ├── 📄 mfa-merit_exercises_5_simulink-5174.pdf
+│   │   ├── 📄 mfa-merit_exercises_5_simulink-5174.pdf
+│   │   ├── 📄 Training_TUM_GS_Simulink_14b.pdf
+│   │   └── 📄 matlab simulink.pdf
+│   └── 📁 TPs/
+│       ├── 📁 TP2/
+│       │   ├── 📄 TP 2 Simulink (BARKACHE Chaimae).pdf
+│       │   ├── 📄 Exercises english.pdf
+│       │   └── 📄 TP2_ SIMILUNK_énoncé.pdf
+│       ├── 📁 TP1/
+│       │   ├── 📄 TP1_SIMULINK.pdf
+│       │   └── 📄 BARKACHE CHAIMAE TP1 SIMULINK.pdf
+│       ├── 📁 TP4/
+│       │   ├── 📄 TP 4 enoncé.pdf
+│       │   └── 📄 TP 4 Simulink (BARKACHE Chaimae).pdf
+│       └── 📁 TP3/
+│           ├── 📄 TP 3 Simulink (BARKACHE Chaimae).pdf
+│           └── 📄 SIMULINK_TP3_CIRCUITS_ELECTRIQUES (1).pdf
+├── 📁 MATLAB/
+│   ├── 🔗📁 Informatique (MATLAB)/  (raccourci)
+│   │   ├── 📄 Matlab séance3.pdf
+│   │   ├── 📄 TP3 Matlab.pdf
+│   │   ├── 📄 TP1 Matlab.pdf
+│   │   ├── 📄 tp1_matlab.pdf
+│   │   ├── 📄 Matlab séance2.pdf
+│   │   └── 📄 Matlab séance1.pdf
+│   ├── 📄 TP4_matlab_correction.pdf
+│   ├── 📄 TP4_matlab.pdf
+│   ├── 📄 TP2_matlab_correction.pdf
+│   ├── 📄 TP3_matlab_correction.pdf
+│   ├── 📄 TP2_matlab.pdf
+│   ├── 📄 TP1_matlab_correction.pdf
+│   ├── 📄 cours_matlab.pdf
+│   ├── 📄 TP3_matlab.pdf
+│   └── 📄 TP1_matlab.pdf
+├── 📁 EXAMS matlab sim lab/
+│   ├── 📄 WhatsApp Image 2020-07-10 at 18.44.47.jpeg
+│   ├── 📄 WhatsApp Image 2020-07-10 at 18.54.38.jpeg
+│   ├── 📄 WhatsApp Image 2020-07-10 at 18.44.47 (5).jpeg
+│   ├── 📄 WhatsApp Image 2020-07-10 at 18.54.33 (1).jpeg
+│   ├── 📄 WhatsApp Image 2020-07-10 at 18.54.35.jpeg
+│   ├── 📄 WhatsApp Image 2020-07-10 at 18.44.47 (1).jpeg
+│   ├── 📄 WhatsApp Image 2020-07-10 at 18.44.47 (4).jpeg
+│   ├── 📄 WhatsApp Image 2020-07-10 at 18.44.47 (2).jpeg
+│   ├── 📄 WhatsApp Image 2020-07-10 at 18.54.34.jpeg
+│   ├── 📄 WhatsApp Image 2020-07-10 at 18.54.33.jpeg
+│   ├── 📄 WhatsApp Image 2020-07-10 at 18.44.47 (3).jpeg
+│   ├── 📄 WhatsApp Image 2020-07-10 at 18.54.45.jpeg
+│   ├── 📄 WhatsApp Image 2020-07-10 at 18.54.40.jpeg
+│   └── 📄 WhatsApp Image 2020-07-10 at 18.54.45 (1).jpeg
+└── 📁 LABVIEW/
+    ├── 📁 TPs/
+    │   ├── 📁 TP3/
+    │   │   ├── 📄 EX 1.vi
+    │   │   ├── 📄 ex2.vi
+    │   │   ├── 📄 ex4.vi
+    │   │   ├── 📄 ex3-2.vi
+    │   │   └── 📄 ex3.vi
+    │   ├── 📁 TP 1/
+    │   │   ├── 📄 ex2.vi
+    │   │   ├── 📄 ex3.vi
+    │   │   ├── 📄 ex4.vi
+    │   │   ├── 📄 ex3-2.vi
+    │   │   └── 📄 ex1.vi
+    │   ├── 📁 TP2/
+    │   │   ├── 📄 ex4_1.vi
+    │   │   ├── 📄 ex4-2.vi
+    │   │   ├── 📄 ex3.vi
+    │   │   ├── 📄 ex2.vi
+    │   │   └── 📄 ex1 (1).vi
+    │   └── 📁 TP4/
+    │       ├── 📄 EX3.vi
+    │       ├── 📄 ex1 (1).vi
+    │       ├── 📄 EX2.vi
+    │       └── 📄 exercice 5.vi
+    └── 📁 Cours +Applications/
+        ├── 📄 crrct app 1.PNG
+        ├── 📄 Cours LabView ENSA FES.pdf
+        ├── 📄 app 1.PNG
+        ├── 📄 crrctapp2.PNG
+        └── 📄 app2.PNG
+
+═════════════════════════════════════
+  Fin du fichier · Matlab simulink labview
+═════════════════════════════════════

@@ -1,0 +1,409 @@
+📚 MODULE : Gestion de projet                         
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Gestion de projet.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Gestion de projet/
+├── 🔗📁 GP/  (raccourci)
+│   ├── 📁 NOTES/ CORRIGÉ EMD/
+│   │   └── 📄 CorrigeěType_Examen_GP_M1-MIND_2021_2022.pdf
+│   ├── 📁 Enregistrement TP/
+│   │   ├── 📄 Tipé4.mkv
+│   │   ├── 📄 Tipé3(After P3).mkv
+│   │   └── 📄 Tipé2.mkv
+│   ├── 📁 Cours/
+│   │   ├── 📄 II_-_Outils_de_Planification_papier_f413200c29c40273e1b4631f39af12d7.pdf
+│   │   ├── 📄 Presentation_de_la_Matiere_papier_90809fd257d9b9c660ef476b5fc4dd81.pdf
+│   │   ├── 📄 Share 'COCOMO - Méthode_a7d7877c711c86dd5c89faceea6f3b77.ppsx'
+│   │   ├── 📄 Budget dans la GP_f69a744b6f0b27cbef04ed1f30026c98.pdf
+│   │   └── 📄 I_-_Les_Fondamentaux_de_Gestion_de_Projets_papier_9a66bd5da45f4285f796c451160ecb39.pdf
+│   └── 📁 TP/
+│       ├── 📄 miv.mpp
+│       ├── 📄 3C.pdf
+│       ├── 📄 Feuilles-GP.pdf
+│       ├── 📄 PERT_GANTT_ML_MT.rar
+│       ├── 📄 Planification de Projets _PERT_ résumé.pdf
+│       ├── 📄 PERT_exemple1.png
+│       ├── 📄 MS Project 2003.rar
+│       └── 🔗📁 MS Project 2003.rar  (raccourci)
+├── 🔗📁 GESTION PROJET/  (raccourci)
+│   ├── 📁 Cours/
+│   │   ├── 📄 I617-Ch3_Partie2_ExApplication.pdf
+│   │   ├── 📄 I617-Cours-Ch1.pdf
+│   │   ├── 📄 I617-Cours-Ch3_Partie1.pdf
+│   │   ├── 📄 I617-Cours-Ch3_Partie2.pdf
+│   │   ├── 📄 I617-Cours-Ch2.pdf
+│   │   └── 📄 cours gestion de projet.pdf
+│   ├── 📁 TP et Compte rendu/
+│   │   ├── 📄 tp3.pdf
+│   │   ├── 📄 TP2 assklou amina.pdf
+│   │   ├── 📄 ASKLOU AMINA TP GESTION DE PROJET.pdf
+│   │   ├── 📄 ASKLOU AMINA GESTION DE PROJET.pdf
+│   │   ├── 📄 TP1.pdf
+│   │   ├── 📄 Compte rendu 1.pdf
+│   │   ├── 📄 compte_rendu _GP_TP_1_2_3_gestion_projet.zip
+│   │   ├── 📄 I617-TD-TP7_imka ayga examain.pdf
+│   │   ├── 📄 I617-TD-TP6_Solution_Ex2.pdf
+│   │   ├── 📄 I617-TD-TP7.pdf
+│   │   ├── 📄 I617-TD-TP7_Solution_Ex2.pdf
+│   │   ├── 📄 I617-TD-TP7_Solution_Ex1.pdf
+│   │   ├── 📄 I617-TD-TP6_Solution_Ex1.pdf
+│   │   ├── 📄 I617-TD-TP5.pdf
+│   │   ├── 📄 I617-TD-TP5_Solution.pdf
+│   │   └── 📄 I617-TD-TP6.pdf
+│   ├── 📁 EXM/
+│   │   ├── 📄 exam GP 2018 .pdf
+│   │   ├── 📄 Examen module Gestion de projet (1).pdf
+│   │   ├── 📄 EXM Correction.pdf
+│   │   ├── 📄 GP2019A_28Dec.pdf
+│   │   ├── 📄 GP2020-08Sept.pdf
+│   │   ├── 📄 GP2020-24Sept22.pdf
+│   │   └── 📄 Gestion.Projet.Bouda.pdf
+│   └── 📁 TD/
+│       ├── 📄 TDs&Solution de GP 2020-2021.pdf
+│       ├── 📄 TD CORRECTION.pdf
+│       ├── 📄 I617-TD1-Solution.pdf
+│       ├── 📄 TD1.pdf
+│       └── 📄 corrige-exercise-td-gantt-et-pert.pdf
+├── 🔗📁 Gestion Des Projets/  (raccourci)
+│   ├── 📁 TP/
+│   │   ├── 📄 TP2.pdf
+│   │   ├── 📄 TP 1 ms project.pdf
+│   │   └── 📄 exo TP1.pdf
+│   ├── 📁 Cours/
+│   │   ├── 📄 Présentation planification V2.pptx
+│   │   ├── 📄 support-gestion-déquipe.pdf
+│   │   ├── 📄 Présentation planification V2(1).pptx
+│   │   ├── 📄 Estimation.pptx
+│   │   ├── 📄 chapitre 3.pptx
+│   │   ├── 📄 chapitre 2.pdf
+│   │   └── 📄 chapitre 1.pdf
+│   └── 📁 TD/
+│       ├── 📄 TD affectation des ressources.pdf
+│       ├── 📄 TD Estimation des charges.pdf
+│       ├── 📄 TD2 (2).pdf
+│       └── 📄 TD 3.pdf
+├── 🔗📁 Gestion Des Projets/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 🔗📁 Gestion Des Projets/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 🔗📁 Gestion Des Projets/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 📄 corrige-exercise-td-gantt-et-pert.pdf
+├── 📄 I617-TD1-Solution.pdf
+├── 📄 TD CORRECTION.pdf
+├── 📄 TD1.pdf
+├── 📄 TDs&Solution de GP 2020-2021.pdf
+├── 🔗📁 GESTION PROJET/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 📄 Examen INF2990 Gestion de projet Solutionnaire Automne 2011-Gestion du projet
+├── 📄 Examen Controle Continu Gestion de Projet SMI S6 Tetouan-Gestion du projet
+├── 📄 Cours Gestion de projets informatiques SMI S6 B El Mohajir-Gestion du projet
+├── 📄 TD 1 Gestion de projet estimation des charges et COCOMO-Gestion du projet
+├── 📄 TP Gestion projet Planning maison ossature bois TeamGantt-Gestion du projet
+├── 📄 Solutions QCM 130 questions Gestion de Projet Exercices-Gestion du projet
+├── 📄 Correction Examen Final Gestion Projet ESSA Tlemcen 2017 2018-Gestion du projet
+├── 📄 Cours Exercices Gestion Projet M1 ISRI Resume QCM Chapitre 1-Gestion du projet
+├── 📄 Cours Gestion de projets informatiques SMI S6 Prof Mohajir-Gestion du projet
+├── 📄 Resume Cours Gestion de Projet Informatique Chapitre 1 Phases-Gestion du projet
+├── 📄 Examen Gestion de Projet Méthode répartition proportionnelle-Gestion du projet
+├── 📄 Examen Controle Continu Gestion de Projet SMI S6 Tetouan-Gestion du projet
+├── 📄 Examen Controle Continu Gestion de projet SMI S6 Tetouan 2020-Gestion du projet
+├── 📄 TD 2 Diagramme de PERT Exercices de planification de projet-Gestion du projet
+├── 📄 Cours Résumé et QCM Gestion de Projet Master 1 ISRI Chap 1-Gestion du projet
+├── 📄 Solutions Exercices QCM 130 questions Gestion de Projet-Gestion du projet
+├── 📄 Correction Examen Final S1 Gestion de projet ESSA Tlemcen-Gestion du projet
+├── 📄 Cours Gestion de Projet Vision Besoins Planification Agile-Gestion du projet
+├── 📄 Examen INF2990 Gestion de projet Solutionnaire Automne 2011-Gestion du projet
+├── 📄 Cours Genie Logiciel et Introduction a la Conduite de Projet-Gestion du projet
+├── 📄 Cours Introduction Gestion Projet Historique et Definitions-Gestion du projet
+├── 📄 Cours Gestion de Projets Informatiques ENSA Fes Pr Haddouch-Gestion du projet
+├── 📄 Exercices Genie Logiciel Serie 1 Capture des besoins GI S5-Gestion du projet
+├── 📄 Exercices Gestion de Projet Planification GI ENSA Fes S5-Gestion du projet
+├── 📄 exercice PERT+GANTT.PDF
+├── 📄 Exercice 1 cahier de charge.PDF
+├── 📄 corrections_TD2-Ex1 (1)-1.PDF
+├── 🔗📁 FST TETOUAN Gestion-de-projet 2021/  (raccourci)
+│   ├── 📁 td/
+│   │   ├── 📄 TP_Teamgantt (3).pdf
+│   │   ├── 📄 corrections_TD2-Ex2-3 (2)-1.ppsx
+│   │   ├── 📄 corrections_TD2-Ex1 (6)-1.ppsx
+│   │   ├── 📄 corrections_TD1 (7)-1.ppsx
+│   │   ├── 📄 TD2_PERT_questions.pdf
+│   │   ├── 📄 TD1_questions (1).pdf
+│   │   ├── 📄 corrections_TD2-Ex1 (1)-1.pptx
+│   │   └── 📄 corrections_TD1 (1)-1.pptx
+│   ├── 📁 exams/
+│   │   ├── 📄 Gestion de projet SMI6 2020-1.pdf
+│   │   ├── 📄 2020-2021-N-corr.pdf
+│   │   └── 📄 2020-2021-N.pdf
+│   └── 📁 cours/
+│       ├── 📄 cour.pdf
+│       └── 📄 Résumé Gestion de Projet SMI6 by Aissam LM-1.pdf
+├── 🔗📁 FST TETOUAN gestion  de projet 2019/  (raccourci)
+│   ├── 📄 TP_Teamgantt.pdf
+│   ├── 📄 TD2_PERT_questions.pdf
+│   ├── 📄 TD1_questions.pdf
+│   └── 📄 Cours_GP_SMI_S6.pdf
+├── 🔗📁 000 GESTION DE PROJET/  (raccourci)
+│   ├── 📄 2022 SABOR.PNG
+│   ├── 📁 FSDM Gestion de projet/
+│   │   ├── 📁 TPA/
+│   │   │   ├── 📄 part1p2(1).pdf
+│   │   │   ├── 📄 Devoir.pdf
+│   │   │   └── 📄 Thèse.mpp
+│   │   ├── 📁 TP/
+│   │   │   └── 📁 EX4/
+│   │   │       └── 📁 image/
+│   │   │           ├── 📄 Capture.PNG
+│   │   │           ├── 📄 2.PNG
+│   │   │           └── 📄 1.PNG
+│   │   └── 📁 cours/
+│   │       ├── 📁 Slides/
+│   │       │   ├── 📄 rent  projet_SMI20_etu_aud_S4.pptx
+│   │       │   ├── 📄 Rent projet SMI20 S3_audio.pptx
+│   │       │   ├── 📄 la valeur acquise séance 2.pptx
+│   │       │   ├── 📄 chapitre gestion valeur acquise dun projet session 1 (1).pptx
+│   │       │   ├── 📄 rentabilité du projet_SMI20_etu_audio_S1.pptx
+│   │       │   └── 📄 rentabilité du projet_SMI20_eu_aud_S2.pptx
+│   │       ├── 📁 old/
+│   │       │   ├── 📄 1-Concept_de_projet-etudiant_2019.pdf
+│   │       │   ├── 📄 3-Les_structures_organisationnelles_B_19_etu.pdf
+│   │       │   └── 📄 2-Le_projet_et_l_Entrepise_A_19_etu.pdf
+│   │       └── 📁 Devoir/
+│   │           ├── 📄 correctiondecopdf.pdf
+│   │           ├── 📄 DEvoir_WBS_.pdf
+│   │           └── 📄 enonce_projet_decopdf.pdf
+│   ├── 📁 S6 SMI6 GESTION DE PROJET FPK KHRI 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 GPIchap1.pdf
+│   │   ├── 📄 Planification et Estimation.pdf
+│   │   └── 📄 Méthode points de fonction.pdf
+│   ├── 📁 S6 SMI FSDM GESTION DE PROJET 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 rentabilité du projet_SMI-20_etu.pdf
+│   │   ├── 📄 L'analyse valeur acquise projet_20etu.pdf
+│   │   ├── 📄 risque projet_SMI-etud-20-pdf.pdf
+│   │   ├── 📄 Cycle  vie projets logiciel-smi_etud2020 pdf.pdf
+│   │   ├── 📄 L’organisation du projet et ses principaux acteurs 20 etu pdf (1).pdf
+│   │   ├── 📄 WBS OBS RACI_2020-etu pdf.pdf
+│   │   └── 📄 Concept de projet-etudiant_2020pdf.pdf
+│   ├── 📁 S6 FSO SMI Tutorat Projet 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 TP_PT1_SMI_S6_Lamlili.pdf
+│   │   ├── 📄 Cours_PT1_partie2_SMI-S6_Lamlili.pdf
+│   │   └── 📄 Cours_PT1_partie1_SMI-S6_Lamlili.pdf
+│   └── 📁 S6 FSO SMI  Projet 1 19-20/
+│       ├── 📄 2022 SABOR.PNG
+│       ├── 📄 Projet 1 SFA36504_TD_5e70f928887d7.pdf
+│       ├── 📄 Projet 1 SFA36504_CR_5e70f8fe25836.pdf
+│       └── 📄 Projet 1 SFA36504_CR_5e70f91d4768a.pdf
+├── 🔗📁 FSDM Gestion Projet/  (raccourci)
+│   ├── 📄 L_analyse des coûts d_un projetv1.pptx
+│   ├── 📄 Gestion de projet.pdf
+│   ├── 📄 analyse de la VA en arabe.pptx
+│   ├── 📄 valeur acquise devoir SMI _corrigé.pdf
+│   ├── 📁 risques/
+│   │   ├── 📄 13254552_269868770029715_9077800916367504726_n.jpg
+│   │   ├── 📄 13254561_269868916696367_7846832563403217051_n.jpg
+│   │   ├── 📄 13245503_269868703363055_2833318580504496489_n.jpg
+│   │   ├── 📄 13241350_269868623363063_6276591582277561287_n.jpg
+│   │   ├── 📄 13244711_269869153363010_4403388309222414766_n.jpg
+│   │   └── 📄 13244657_269868966696362_8916745643913224929_n.jpg
+│   ├── 📁 plan et couts/
+│   │   ├── 📄 8.jpg
+│   │   ├── 📄 4.jpg
+│   │   ├── 📄 7_1.jpg
+│   │   ├── 📄 2.jpg
+│   │   ├── 📄 5.jpg
+│   │   └── 📁 plan/
+│   │       ├── 📄 9.jpg
+│   │       ├── 📄 8.jpg
+│   │       ├── 📄 6_1.jpg
+│   │       ├── 📄 3_3.jpg
+│   │       ├── 📄 6.jpg
+│   │       ├── 📄 4.jpg
+│   │       ├── 📄 7.jpg
+│   │       ├── 📄 5.jpg
+│   │       ├── 📄 3_2.jpg
+│   │       ├── 📄 3_1.jpg
+│   │       ├── 📄 3.jpg
+│   │       ├── 📄 20.jpg
+│   │       ├── 📄 21.jpg
+│   │       ├── 📄 2.jpg
+│   │       ├── 📄 1.jpg
+│   │       ├── 📄 13268550_1730124793941775_7621121024944932923_o.jpg
+│   │       ├── 📄 13268436_1730124787275109_8535294771711484556_o.jpg
+│   │       ├── 📄 13268276_1730124530608468_1270813941098624877_o.jpg
+│   │       └── 📄 13235581_1730124750608446_2589738816619022143_o.jpg
+│   ├── 📁 exercice/
+│   │   ├── 📄 7.jpg
+│   │   ├── 📄 1.jpg
+│   │   └── 📄 5.jpg
+│   ├── 📁 4/
+│   │   ├── 📄 5.jpg
+│   │   ├── 📄 4.jpg
+│   │   ├── 📄 20.jpg
+│   │   ├── 📄 3.jpg
+│   │   ├── 📄 22.jpg
+│   │   ├── 📄 21.jpg
+│   │   ├── 📄 19.jpg
+│   │   ├── 📄 25.jpg
+│   │   ├── 📄 18.jpg
+│   │   ├── 📄 17.jpg
+│   │   ├── 📄 14.jpg
+│   │   ├── 📄 2.jpg
+│   │   ├── 📄 15.jpg
+│   │   ├── 📄 13.jpg
+│   │   ├── 📄 12.jpg
+│   │   ├── 📄 13_1.jpg
+│   │   ├── 📄 16.jpg
+│   │   ├── 📄 11.jpg
+│   │   └── 📄 1.jpg
+│   ├── 📁 3/
+│   │   ├── 📄 8.jpg
+│   │   ├── 📄 8_1.jpg
+│   │   ├── 📄 6.jpg
+│   │   ├── 📄 9.jpg
+│   │   ├── 📄 4.jpg
+│   │   ├── 📄 2.jpg
+│   │   ├── 📄 15.jpg
+│   │   ├── 📄 14.jpg
+│   │   └── 📄 3.jpg
+│   ├── 📁 2/
+│   │   ├── 📄 5.jpg
+│   │   ├── 📄 3_2.jpg
+│   │   ├── 📄 6.jpg
+│   │   ├── 📄 3.jpg
+│   │   ├── 📄 4.jpg
+│   │   ├── 📄 22.jpg
+│   │   ├── 📄 19_2.jpg
+│   │   ├── 📄 23.jpg
+│   │   ├── 📄 2.jpg
+│   │   ├── 📄 21.jpg
+│   │   ├── 📄 17.jpg
+│   │   ├── 📄 18.jpg
+│   │   ├── 📄 19_1.jpg
+│   │   ├── 📄 20.jpg
+│   │   ├── 📄 19.jpg
+│   │   ├── 📄 20_1.jpg
+│   │   ├── 📄 13.jpg
+│   │   ├── 📄 16.jpg
+│   │   ├── 📄 10.jpg
+│   │   ├── 📄 12.jpg
+│   │   ├── 📄 14.jpg
+│   │   ├── 📄 1.jpg
+│   │   ├── 📄 11.jpg
+│   │   └── 📄 15.jpg
+│   └── 📁 1/
+│       ├── 📄 6.jpg
+│       ├── 📄 3.jpg
+│       ├── 📄 7.jpg
+│       ├── 📄 19.jpg
+│       ├── 📄 9.jpg
+│       ├── 📄 4.jpg
+│       ├── 📄 8.jpg
+│       ├── 📄 5.jpg
+│       ├── 📄 17.jpg
+│       ├── 📄 18.jpg
+│       ├── 📄 16.jpg
+│       ├── 📄 11.jpg
+│       ├── 📄 10.jpg
+│       ├── 📄 15.jpg
+│       ├── 📄 12.jpg
+│       ├── 📄 14.jpg
+│       └── 📄 1.jpg
+├── 🔗📁 FST TETOUAN Gestion-de-projet 2021/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 🔗📁 FST TETOUAN gestion  de projet 2019/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 📄 cocomo example.png
+├── 📄 cocomo table.png
+├── 📄 cocomo.png
+├── 📄 CORR TD2 EX2.png
+├── 📄 ex2 td2 GANTT.xlsx
+├── 📄 kano.png
+├── 📄 meth poids relatifs.png
+├── 📁 TPs/
+│   ├── 📄 ASKLOU AMINA GESTION DE PROJET.pdf
+│   ├── 📄 ASKLOU AMINA TP GESTION DE PROJET.pdf
+│   ├── 📄 Compte rendu 1.pdf
+│   ├── 📄 compte_rendu _GP_TP_1_2_3_gestion_projet.zip
+│   ├── 📄 I617-TD-TP5_Solution.pdf
+│   ├── 📄 I617-TD-TP5.pdf
+│   ├── 📄 I617-TD-TP6_Solution_Ex1.pdf
+│   ├── 📄 I617-TD-TP6_Solution_Ex2.pdf
+│   ├── 📄 I617-TD-TP6.pdf
+│   ├── 📄 I617-TD-TP7_imka ayga examain.pdf
+│   ├── 📄 I617-TD-TP7_Solution_Ex1.pdf
+│   ├── 📄 I617-TD-TP7_Solution_Ex2.pdf
+│   ├── 📄 I617-TD-TP7.pdf
+│   ├── 📄 TP1.pdf
+│   ├── 📄 TP2 assklou amina.pdf
+│   └── 📄 tp3.pdf
+├── 📁 Cours/
+│   ├── 📄 cours gestion de projet.pdf
+│   ├── 📄 I617-Ch3_Partie2_ExApplication.pdf
+│   ├── 📄 I617-Cours-Ch1.pdf
+│   ├── 📄 I617-Cours-Ch2.pdf
+│   ├── 📄 I617-Cours-Ch3_Partie1.pdf
+│   └── 📄 I617-Cours-Ch3_Partie2.pdf
+├── 📁 Examens/
+│   ├── 📄 exam GP 2018 .pdf
+│   ├── 📄 Examen module Gestion de projet (1).pdf
+│   ├── 📄 EXM Correction.pdf
+│   ├── 📄 Gestion.Projet.Bouda.pdf
+│   ├── 📄 GP2019A_28Dec.pdf
+│   ├── 📄 GP2020-08Sept.pdf
+│   └── 📄 GP2020-24Sept22.pdf
+├── 📁 Ateliers GdP/
+│   └── 📄 Atelier N3-GEstion des ressources.pdf
+├── 📁 EXAMEN/
+│   ├── 📄 20200116_131455.jpg
+│   ├── 📄 20200116_131502.jpg
+│   ├── 📄 20200116_131617.jpg
+│   ├── 📄 20200116_131623.jpg
+│   ├── 📄 ex lekher.jpg
+│   ├── 📄 exm.png
+│   ├── 📄 gantt.jpg
+│   ├── 📄 gestion 1.jpg
+│   ├── 📄 gestion 2.jpg
+│   ├── 📄 pert.jpg
+│   ├── 📄 QCM.txt
+│   ├── 📄 corrige exam.pdf
+│   └── 📁 qcm/
+└── 📁 old cours/
+    ├── 📄 S1_Introduction à la gestion de projet
+    ├── 📄 séance-08-gestion-de-projet
+    ├── 📄 séance 03 - gestion de projet
+    ├── 📄 séance-08-gestion-de-projet.pdf
+    ├── 📄 S8-Gestion des risques.pdf
+    ├── 📄 séance-06-gestion-de-projet.pdf
+    ├── 📄 Diagramme-PERT-et-Chemin-critique.pdf
+    ├── 📄 séance-10-gestion-de-projet.pdf
+    ├── 📄 séance 03 - gestion de projet.pdf
+    ├── 📄 séance 05 - gestion de projet.pdf
+    ├── 📄 S2_Analyse fonctionnelle.pdf
+    ├── 📄 S4- Le management de projet en 5 étapes.pdf
+    ├── 📄 cours from Linkedin.pdf
+    ├── 📄 D roulement d_un projet de recherche.pdf
+    ├── 📄 S1_Introduction à la gestion de projet.pdf
+    ├── 📄 séance 01- gestion de projet.pdf
+    ├── 📄 séance 04 - gestion de projet.pdf
+    ├── 📄 séance-07-gestion-de-projet.pdf
+    ├── 📄 séance 02- gestion de projet.pdf
+    └── 📄 S3-M thodologies d_organisation.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Gestion de projet
+═════════════════════════════════════

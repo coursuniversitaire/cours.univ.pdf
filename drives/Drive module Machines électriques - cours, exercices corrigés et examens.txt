@@ -1,0 +1,835 @@
+📚 MODULE : Machines électriques                      
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Machines électriques.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Machines électriques/
+├── 🔗📁 Livre machines électriques pour GÉNIE ÉLECTRIQUE gratuit, Cours et exercices corrigés/  (raccourci)
+├── 📄 Polycopié Machines Electriques Approfondies Dr Benhadda Yamina.pdf
+├── 📁 Drives/
+│   ├── 🔗📁 Machines/  (raccourci)
+│   │   ├── 📄 Polycopié Machines Electriques Approfondies Dr Benhadda Yamina.pdf
+│   │   ├── 📁 Examens/
+│   │   │   ├── 📄 Interro 1 machines 2022 .jpg
+│   │   │   ├── 📄 Examen machines 2022.pdf
+│   │   │   ├── 📄 Interro machines 2022 EI.pdf
+│   │   │   └── 📄 interro machine 2021 EI.jpg
+│   │   ├── 📁 Cours/
+│   │   │   ├── 📄 ChapIII_Etudiants.pdf
+│   │   │   ├── 📄 chapII__Machine_Synchrone (1).pdf
+│   │   │   └── 📄 Chap_1_21_VE.pdf
+│   │   ├── 📁 Td/
+│   │   │   ├── 📄 serie-2.pdf
+│   │   │   ├── 📄 TD1_Corrig_VE.pdf
+│   │   │   ├── 📄 TDN°3-Sol.pdf
+│   │   │   ├── 📄 TDN°1-Sol.pdf
+│   │   │   ├── 📄 TD2_20_21_VE.pdf
+│   │   │   └── 📄 TD1_20_21_VE.pdf
+│   │   └── 📁 Tp/
+│   │       └── 📄 TP_Machines_21_22.pdf
+│   ├── 🔗📁 Electrotechnique 2/  (raccourci)
+│   │   ├── 📄 Drive module Electrotechnique 2 - cours, exercices corrigés et examens.txt
+│   │   ├── 📄 Electrotechnique 2-20260510T070850Z-3-001.zip
+│   │   ├── 📄 Livre machines électriques pour GÉNIE ÉLECTRIQUE gratuit, Cours et exercices corrigés
+│   │   ├── 🔗📁 M11 Electrotechnique II/  (raccourci)
+│   │   │   ├── 📁 tp Electrotechnique 29%/
+│   │   │   │   ├── 📄 IMAG0687.jpg
+│   │   │   │   ├── 📄 IMAG0686.jpg
+│   │   │   │   ├── 📄 IMAG0685.jpg
+│   │   │   │   ├── 📄 IMAG0684.jpg
+│   │   │   │   ├── 📄 IMAG0683.jpg
+│   │   │   │   ├── 📄 IMAG0682.jpg
+│   │   │   │   ├── 📄 IMAG0681.jpg
+│   │   │   │   ├── 📄 IMAG0688.jpg
+│   │   │   │   ├── 📄 IMAG0689.jpg
+│   │   │   │   ├── 📄 IMAG0690.jpg
+│   │   │   │   ├── 📄 IMAG0691.jpg
+│   │   │   │   ├── 📄 IMAG0692.jpg
+│   │   │   │   ├── 📄 IMAG0693.jpg
+│   │   │   │   ├── 📄 IMAG0694.jpg
+│   │   │   │   ├── 📄 IMAG0695.jpg
+│   │   │   │   ├── 📄 IMAG0699.jpg
+│   │   │   │   ├── 📄 IMAG0700.jpg
+│   │   │   │   ├── 📄 IMAG0702.jpg
+│   │   │   │   ├── 📄 IMAG0703.jpg
+│   │   │   │   ├── 📄 IMAG0704.jpg
+│   │   │   │   ├── 📄 IMAG0711.jpg
+│   │   │   │   ├── 📄 IMAG0712.jpg
+│   │   │   │   ├── 📄 IMAG0713.jpg
+│   │   │   │   ├── 📄 IMAG0714.jpg
+│   │   │   │   ├── 📄 IMAG0715.jpg
+│   │   │   │   ├── 📄 IMAG0719.jpg
+│   │   │   │   ├── 📄 IMAG0720.jpg
+│   │   │   │   ├── 📄 IMAG0718.jpg
+│   │   │   │   ├── 📄 IMAG0717.jpg
+│   │   │   │   ├── 📄 IMAG0716.jpg
+│   │   │   │   ├── 📄 IMAG0710.jpg
+│   │   │   │   ├── 📄 IMAG0708.jpg
+│   │   │   │   ├── 📄 IMAG0709.jpg
+│   │   │   │   ├── 📄 IMAG0707.jpg
+│   │   │   │   ├── 📄 IMAG0705.jpg
+│   │   │   │   ├── 📄 IMAG0706.jpg
+│   │   │   │   ├── 📄 IMAG0701.jpg
+│   │   │   │   ├── 📄 IMAG0698.jpg
+│   │   │   │   ├── 📄 IMAG0696.jpg
+│   │   │   │   ├── 📄 IMAG0697.jpg
+│   │   │   │   ├── 📄 IMAG0680.jpg
+│   │   │   │   ├── 📄 IMAG0679.jpg
+│   │   │   │   ├── 📄 IMAG0678.jpg
+│   │   │   │   ├── 📄 IMAG0677.jpg
+│   │   │   │   ├── 📄 IMAG0676.jpg
+│   │   │   │   ├── 📄 IMAG0675.jpg
+│   │   │   │   ├── 📄 IMAG0674.jpg
+│   │   │   │   ├── 📄 IMAG0673.jpg
+│   │   │   │   ├── 📄 IMAG0672.jpg
+│   │   │   │   ├── 📄 IMAG0671.jpg
+│   │   │   │   ├── 📄 IMAG0670.jpg
+│   │   │   │   ├── 📄 IMAG0669.jpg
+│   │   │   │   └── 📄 IMAG0668.jpg
+│   │   │   ├── 📁 Association machines 28%/
+│   │   │   │   ├── 📁 TP Association machines 11%/
+│   │   │   │   │   ├── 📄 20160104_095607.jpg
+│   │   │   │   │   ├── 📄 20160104_095559.jpg
+│   │   │   │   │   ├── 📄 20160104_084949.jpg
+│   │   │   │   │   ├── 📄 20160104_091758.jpg
+│   │   │   │   │   ├── 📄 20160104_091641.jpg
+│   │   │   │   │   ├── 📄 20160104_104756.jpg
+│   │   │   │   │   ├── 📄 20160104_104739.jpg
+│   │   │   │   │   ├── 📄 20160104_104721.jpg
+│   │   │   │   │   ├── 📄 20160104_104658.jpg
+│   │   │   │   │   ├── 📄 20160104_104619.jpg
+│   │   │   │   │   ├── 📄 20160104_104447.jpg
+│   │   │   │   │   ├── 📄 20160104_104407.jpg
+│   │   │   │   │   ├── 📄 20160104_104351.jpg
+│   │   │   │   │   ├── 📄 20160104_104258.jpg
+│   │   │   │   │   ├── 📄 20160104_104234.jpg
+│   │   │   │   │   ├── 📄 20160104_103717.jpg
+│   │   │   │   │   ├── 📄 20160104_103639.jpg
+│   │   │   │   │   ├── 📄 20160104_103614.jpg
+│   │   │   │   │   ├── 📄 20160104_103541.jpg
+│   │   │   │   │   ├── 📄 20160104_103510.jpg
+│   │   │   │   │   ├── 📄 20160104_103131.jpg
+│   │   │   │   │   ├── 📄 20160104_103054.jpg
+│   │   │   │   │   ├── 📄 20160104_103024.jpg
+│   │   │   │   │   ├── 📄 20160104_102551.jpg
+│   │   │   │   │   ├── 📄 20160104_102524.jpg
+│   │   │   │   │   ├── 📄 20160104_100410.jpg
+│   │   │   │   │   ├── 📄 20160104_100347.jpg
+│   │   │   │   │   ├── 📄 20160104_100308.jpg
+│   │   │   │   │   ├── 📄 20160104_100109.jpg
+│   │   │   │   │   ├── 📄 20160104_100053.jpg
+│   │   │   │   │   ├── 📄 20160104_100022.jpg
+│   │   │   │   │   ├── 📄 20160104_095728.jpg
+│   │   │   │   │   ├── 📄 20160104_095636.jpg
+│   │   │   │   │   ├── 📄 20160104_091924.jpg
+│   │   │   │   │   ├── 📄 20160104_091732.jpg
+│   │   │   │   │   ├── 📄 20160104_091307.jpg
+│   │   │   │   │   ├── 📄 20160104_091253.jpg
+│   │   │   │   │   ├── 📄 20160104_091240.jpg
+│   │   │   │   │   ├── 📁 tp deruich/
+│   │   │   │   │   │   ├── 📄 Fiche Réponse 6.pdf
+│   │   │   │   │   │   ├── 📄 Fiche Réponse 5.pdf
+│   │   │   │   │   │   ├── 📄 Fiche Réponse 4.pdf
+│   │   │   │   │   │   ├── 📄 Fiche Réponse 3.pdf
+│   │   │   │   │   │   ├── 📄 Cahier Eleve.pdf
+│   │   │   │   │   │   ├── 📄 Fiche Réponse 2.pdf
+│   │   │   │   │   │   ├── 📄 TP3_Scalaire.pdf
+│   │   │   │   │   │   ├── 📄 TP2_MCC.pdf
+│   │   │   │   │   │   └── 📄 TP1_MAS.pdf
+│   │   │   │   │   └── 📁 rapport derouich/
+│   │   │   │   │       ├── 📄 rapport.docx
+│   │   │   │   │       ├── 📄 YASS.docx
+│   │   │   │   │       ├── 📄 TP 2q.docx
+│   │   │   │   │       ├── 📄 TP 2.docx
+│   │   │   │   │       ├── 📄 tp3 partie 2.docx
+│   │   │   │   │       ├── 📄 TP N3.docx
+│   │   │   │   │       ├── 📄 20161221_114254.jpg
+│   │   │   │   │       ├── 📄 20161221_114244.jpg
+│   │   │   │   │       ├── 📄 rapport derouich.docx
+│   │   │   │   │       ├── 📄 Classeur1.xlsx
+│   │   │   │   │       ├── 📄 15910384_1094093587375317_404711825_n.png
+│   │   │   │   │       ├── 📄 Réglage de la vitesse de rotation.html
+│   │   │   │   │       ├── 📄 w.PNG
+│   │   │   │   │       ├── 📄 n,;.PNG
+│   │   │   │   │       ├── 📄 20161226_112454.jpg
+│   │   │   │   │       ├── 📄 Cascade hyposynchrone - Variateur électronique de vitesse — Wikipédia.html
+│   │   │   │   │       ├── 📄 VSI_Topology.jpg
+│   │   │   │   │       ├── 📄 20161227_165948.jpg
+│   │   │   │   │       ├── 📄 20161227_165935.jpg
+│   │   │   │   │       ├── 📄 fasciculeTPGEL523.pdf
+│   │   │   │   │       ├── 📄 20161227_165928.jpg
+│   │   │   │   │       ├── 📄 20161227_165916.jpg
+│   │   │   │   │       ├── 📄 20161226_145452.jpg
+│   │   │   │   │       ├── 📄 20161226_112457.jpg
+│   │   │   │   │       ├── 📄 20161226_112503.jpg
+│   │   │   │   │       ├── 📄 20161226_112401.jpg
+│   │   │   │   │       ├── 📄 20161226_112346.jpg
+│   │   │   │   │       ├── 📄 20161226_112347.jpg
+│   │   │   │   │       ├── 📄 20161226_112330.jpg
+│   │   │   │   │       ├── 📄 20161226_112331.jpg
+│   │   │   │   │       ├── 📄 ct208.pdf
+│   │   │   │   │       ├── 📄 2014G1120F-variateur-de-vitesse.pdf
+│   │   │   │   │       ├── 📄 20161221_011016.jpg
+│   │   │   │   │       ├── 📄 20161221_011024.jpg
+│   │   │   │   │       ├── 📄 20161221_011007.jpg
+│   │   │   │   │       ├── 📄 20161221_010938.jpg
+│   │   │   │   │       ├── 📄 Commande scalaire des machines asynchrones.pdf
+│   │   │   │   │       ├── 📄 Chapitre3_Variateurs.pdf
+│   │   │   │   │       ├── 📄 Cahier-Eleve (1).pdf
+│   │   │   │   │       ├── 📄 Cahier-Eleve.pdf
+│   │   │   │   │       ├── 📄 Introduction.docx
+│   │   │   │   │       ├── 📄 20161222_154057.jpg
+│   │   │   │   │       ├── 📄 20161221_141235.jpg
+│   │   │   │   │       ├── 📄 20161221_141224.jpg
+│   │   │   │   │       ├── 📄 20161221_141206.jpg
+│   │   │   │   │       ├── 📄 20161221_114400.jpg
+│   │   │   │   │       ├── 📄 20161221_114354.jpg
+│   │   │   │   │       ├── 📄 20161221_114334.jpg
+│   │   │   │   │       ├── 📄 20161221_114331.jpg
+│   │   │   │   │       ├── 📄 20161221_102516.jpg
+│   │   │   │   │       ├── 📄 20161221_091812.jpg
+│   │   │   │   │       ├── 📄 20161221_091748.jpg
+│   │   │   │   │       ├── 📄 IMG-20161219-WA0000.jpg
+│   │   │   │   │       ├── 📄 IMG-20161219-WA0001.jpg
+│   │   │   │   │       ├── 📁 tp deruich/
+│   │   │   │   │       │   ├── 📄 Fiche Réponse 6.pdf
+│   │   │   │   │       │   ├── 📄 Fiche Réponse 5.pdf
+│   │   │   │   │       │   ├── 📄 Fiche Réponse 4.pdf
+│   │   │   │   │       │   ├── 📄 Fiche Réponse 3.pdf
+│   │   │   │   │       │   ├── 📄 Cahier Eleve.pdf
+│   │   │   │   │       │   ├── 📄 Fiche Réponse 2.pdf
+│   │   │   │   │       │   ├── 📄 TP3_Scalaire.pdf
+│   │   │   │   │       │   ├── 📄 TP2_MCC.pdf
+│   │   │   │   │       │   └── 📄 TP1_MAS.pdf
+│   │   │   │   │       ├── 📁 Cascade hyposynchrone - Variateur électronique de vitesse — Wikipédia_files/
+│   │   │   │   │       │   ├── 📄 FCI_Topology.jpg
+│   │   │   │   │       │   ├── 📄 NPC-HBI_Topology.jpg
+│   │   │   │   │       │   ├── 📄 170px-KIMO_TRA_U2_mL_Gruppe.jpg
+│   │   │   │   │       │   ├── 📄 24px-Nuvola_apps_ksim.png
+│   │   │   │   │       │   ├── 📄 220px-Cascade_hyposynchrone.png
+│   │   │   │   │       │   ├── 📄 CHBI_Topology.jpg
+│   │   │   │   │       │   ├── 📄 220px-MC_Topology.jpg
+│   │   │   │   │       │   ├── 📄 Cascade_hyposynchrone.png
+│   │   │   │   │       │   ├── 📄 wikimedia-button.png
+│   │   │   │   │       │   ├── 📄 3LI_Topology.jpg
+│   │   │   │   │       │   ├── 📄 170px-2010_Prius_Regeneration.jpg
+│   │   │   │   │       │   ├── 📄 2LI_Topology.jpg
+│   │   │   │   │       │   ├── 📄 poweredby_mediawiki_88x31.png
+│   │   │   │   │       │   ├── 📄 170px-Pwm.svg.png
+│   │   │   │   │       │   ├── 📄 170px-12_pulse_bridge_with_thyristor_valves.png
+│   │   │   │   │       │   ├── 📄 220px-6SWS.jpg
+│   │   │   │   │       │   ├── 📄 load.php
+│   │   │   │   │       │   ├── 📄 CloseWindow19x19.png
+│   │   │   │   │       │   ├── 📄 load(1).php
+│   │   │   │   │       │   ├── 📄 220px-CS_Inverter_Topology.jpg
+│   │   │   │   │       │   ├── 📄 220px-Quadrants_moteur.svg.png
+│   │   │   │   │       │   ├── 📄 load(3).php
+│   │   │   │   │       │   ├── 📄 220px-HitachiJ100A.jpg
+│   │   │   │   │       │   ├── 📄 120px-Wiki-Loves-Africa-logo.png
+│   │   │   │   │       │   ├── 📄 load(2).php
+│   │   │   │   │       │   ├── 📄 220px-VFD_System_fr.svg.png
+│   │   │   │   │       │   ├── 📄 220px-VSI_Topology.jpg
+│   │   │   │   │       │   ├── 📄 220px-Small_VFD_2.jpg
+│   │   │   │   │       │   └── 📄 220px-Pwm.png
+│   │   │   │   │       └── 📁 Réglage de la vitesse de rotation_files/
+│   │   │   │   │           ├── 📄 push.html
+│   │   │   │   │           ├── 📄 s(1).html
+│   │   │   │   │           ├── 📄 zrt_lookup.html
+│   │   │   │   │           ├── 📄 push(1).html
+│   │   │   │   │           ├── 📄 saved_resource.html
+│   │   │   │   │           ├── 📄 s.html
+│   │   │   │   │           ├── 📄 saved_resource(3).html
+│   │   │   │   │           ├── 📄 saved_resource(1).html
+│   │   │   │   │           ├── 📄 ads.html
+│   │   │   │   │           ├── 📄 saved_resource(4).html
+│   │   │   │   │           ├── 📄 saved_resource(2).html
+│   │   │   │   │           ├── 📄 ads(1).html
+│   │   │   │   │           ├── 📄 valid_css.gif
+│   │   │   │   │           ├── 📄 abg.js.téléchargement
+│   │   │   │   │           ├── 📄 osd.js.téléchargement
+│   │   │   │   │           ├── 📄 vit31.gif
+│   │   │   │   │           ├── 📄 l
+│   │   │   │   │           ├── 📄 vit35.gif
+│   │   │   │   │           ├── 📄 vit34.gif
+│   │   │   │   │           ├── 📄 vit33.gif
+│   │   │   │   │           ├── 📄 valid_rss.gif
+│   │   │   │   │           ├── 📄 tpAXzIz6GEIJa0NhNE598D1Ux2rQjrdRxDvHaUyoSes.js.téléchargement
+│   │   │   │   │           ├── 📄 vit37.gif
+│   │   │   │   │           ├── 📄 show_ads_impl.js.téléchargement
+│   │   │   │   │           ├── 📄 vit38.gif
+│   │   │   │   │           ├── 📄 m_js_controller.js.téléchargement
+│   │   │   │   │           ├── 📄 expansion_publ.js.téléchargement
+│   │   │   │   │           ├── 📄 googlelogo_color_112x36dp.png
+│   │   │   │   │           ├── 📄 valid_xhtml.gif
+│   │   │   │   │           ├── 📄 vit39.gif
+│   │   │   │   │           ├── 📄 vit32.gif
+│   │   │   │   │           ├── 📄 vit25.gif
+│   │   │   │   │           ├── 📄 vit13.gif
+│   │   │   │   │           ├── 📄 vit8.gif
+│   │   │   │   │           ├── 📄 vit18.gif
+│   │   │   │   │           ├── 📄 vit22.gif
+│   │   │   │   │           ├── 📄 vit15.gif
+│   │   │   │   │           ├── 📄 vit14.gif
+│   │   │   │   │           ├── 📄 vit10.gif
+│   │   │   │   │           ├── 📄 vit7.gif
+│   │   │   │   │           ├── 📄 vit24.gif
+│   │   │   │   │           ├── 📄 vit23.gif
+│   │   │   │   │           ├── 📄 vit16.gif
+│   │   │   │   │           ├── 📄 vit11.gif
+│   │   │   │   │           ├── 📄 vit19.gif
+│   │   │   │   │           ├── 📄 vit9.gif
+│   │   │   │   │           ├── 📄 vit30.gif
+│   │   │   │   │           ├── 📄 vit41.gif
+│   │   │   │   │           ├── 📄 vit21.gif
+│   │   │   │   │           ├── 📄 vit29.gif
+│   │   │   │   │           ├── 📄 vit17.gif
+│   │   │   │   │           ├── 📄 vit27.gif
+│   │   │   │   │           ├── 📄 vit40.gif
+│   │   │   │   │           ├── 📄 vit12.gif
+│   │   │   │   │           ├── 📄 vit26.gif
+│   │   │   │   │           ├── 📄 phi2.gif
+│   │   │   │   │           ├── 📄 vit20.gif
+│   │   │   │   │           ├── 📄 vit4.gif
+│   │   │   │   │           ├── 📄 omega.gif
+│   │   │   │   │           ├── 📄 elecstyle.css
+│   │   │   │   │           ├── 📄 vit3.gif
+│   │   │   │   │           ├── 📄 ca-pub-8059694843042488.js.téléchargement
+│   │   │   │   │           ├── 📄 vit2.gif
+│   │   │   │   │           ├── 📄 maison.gif
+│   │   │   │   │           ├── 📄 vit1.gif
+│   │   │   │   │           ├── 📄 vit36.gif
+│   │   │   │   │           ├── 📄 show_ads.js.téléchargement
+│   │   │   │   │           ├── 📄 vit5.gif
+│   │   │   │   │           ├── 📄 ti_omega.gif
+│   │   │   │   │           └── 📄 vit6.gif
+│   │   │   │   └── 📁 cours Associ.. 17%/
+│   │   │   │       ├── 📄 Variation_de_vitesse_des_moteurs__courant_continu.ppt
+│   │   │   │       ├── 📄 1732.ppt
+│   │   │   │       ├── 📄 Variation de vitesse Moteurs cc.doc
+│   │   │   │       ├── 📄 variationde vitesse1.ppt
+│   │   │   │       ├── 📄 Exam Darouich 2012-2013.jpg
+│   │   │   │       └── 📄 Chapitre3_Variateurs vitesse.pdf
+│   │   │   ├── 📁 Machine Exam/
+│   │   │   │   ├── 📄 IMAG0654.jpg
+│   │   │   │   ├── 📄 IMAG0652.jpg
+│   │   │   │   ├── 📄 IMAG0651.jpg
+│   │   │   │   ├── 📄 IMAG0649.jpg
+│   │   │   │   ├── 📄 IMAG0646.jpg
+│   │   │   │   ├── 📄 IMAG0645.jpg
+│   │   │   │   ├── 📄 20100.jpg
+│   │   │   │   ├── 📄 IMAG0640.jpg
+│   │   │   │   └── 📄 IMAG0639.jpg
+│   │   │   ├── 📁 Machines électriques II/
+│   │   │   │   ├── 📁 Machine Exam/
+│   │   │   │   │   ├── 📄 IMAG0641.jpg
+│   │   │   │   │   ├── 📄 IMAG0658.jpg
+│   │   │   │   │   ├── 📄 IMAG0657.jpg
+│   │   │   │   │   ├── 📄 IMAG0656.jpg
+│   │   │   │   │   ├── 📄 IMAG0655.jpg
+│   │   │   │   │   ├── 📄 IMAG0654.jpg
+│   │   │   │   │   ├── 📄 IMAG0653.jpg
+│   │   │   │   │   ├── 📄 IMAG0652.jpg
+│   │   │   │   │   ├── 📄 IMAG0650.jpg
+│   │   │   │   │   ├── 📄 IMAG0651.jpg
+│   │   │   │   │   ├── 📄 IMAG0649.jpg
+│   │   │   │   │   ├── 📄 IMAG0647.jpg
+│   │   │   │   │   ├── 📄 IMAG0646.jpg
+│   │   │   │   │   ├── 📄 IMAG0645.jpg
+│   │   │   │   │   ├── 📄 IMAG0644.jpg
+│   │   │   │   │   ├── 📄 IMAG0643.jpg
+│   │   │   │   │   ├── 📄 IMAG0642.jpg
+│   │   │   │   │   ├── 📄 IMAG0640.jpg
+│   │   │   │   │   └── 📄 IMAG0639.jpg
+│   │   │   │   ├── 📁 machine electrique El bachtiri/
+│   │   │   │   │   ├── 📄 Plan Ms.jpg
+│   │   │   │   │   ├── 📁 machine electrique El bachtiri/
+│   │   │   │   │   │   └── 📁 machines synchrones/
+│   │   │   │   │   │       ├── 📄 Td MS.pdf
+│   │   │   │   │   │       ├── 📄 Thumbs.db
+│   │   │   │   │   │       └── 📄 synchrone.pdf
+│   │   │   │   │   ├── 📁 machines synchrones/
+│   │   │   │   │   │   ├── 📄 MS.pdf
+│   │   │   │   │   │   ├── 📄 exercices_alternateur Fabrice.pdf
+│   │   │   │   │   │   ├── 📄 Cours Morel La machine synchrone.pdf
+│   │   │   │   │   │   ├── 📄 Ms Ex.pdf
+│   │   │   │   │   │   ├── 📄 Cours STI.pdf
+│   │   │   │   │   │   ├── 📄 ET_Ch7-MSync.pdf
+│   │   │   │   │   │   ├── 📄 Machine synchrone.pdf
+│   │   │   │   │   │   ├── 📄 Td MS.pdf
+│   │   │   │   │   │   ├── 📄 Thumbs.db
+│   │   │   │   │   │   ├── 📄 cours_alternateur.doc
+│   │   │   │   │   │   ├── 📄 alterncor1.mht
+│   │   │   │   │   │   ├── 📄 alternateur1.mht
+│   │   │   │   │   │   ├── 📄 Alternateur.mht
+│   │   │   │   │   │   ├── 📄 synchrone.pdf
+│   │   │   │   │   │   ├── 📄 exos_machines synchrones.doc
+│   │   │   │   │   │   ├── 📄 Machine synchrone exo 3.pdf
+│   │   │   │   │   │   ├── 📄 cours_machine_synchrone.pdf
+│   │   │   │   │   │   ├── 📄 choix_MSync1.ppt
+│   │   │   │   │   │   ├── 📄 CHAP_4.DOC
+│   │   │   │   │   │   ├── 📄 CHAP4_TF.DOC
+│   │   │   │   │   │   └── 📁 La machine synchrone/
+│   │   │   │   │   │       ├── 📄 Thumbs.db
+│   │   │   │   │   │       ├── 📄 hts-log.txt
+│   │   │   │   │   │       ├── 📄 index.html
+│   │   │   │   │   │       ├── 📄 backblue.gif
+│   │   │   │   │   │       ├── 📄 fade.gif
+│   │   │   │   │   │       └── 📁 sciences-physiques.ac-dijon.fr/
+│   │   │   │   │   │           └── 📁 documents/
+│   │   │   │   │   │               └── 📁 PhysiqueAppliquee/
+│   │   │   │   │   │                   └── 📁 MachineSynchrone/
+│   │   │   │   │   │                       ├── 📄 Potier.htm
+│   │   │   │   │   │                       ├── 📄 MoteurSynchrone.htm
+│   │   │   │   │   │                       ├── 📄 MachineSynchrone.htm
+│   │   │   │   │   │                       ├── 📄 BehnEschenbourg.htm
+│   │   │   │   │   │                       └── 📄 Alternateur.htm
+│   │   │   │   │   ├── 📁 cours 2015-2016/
+│   │   │   │   │   │   ├── 📄 20160204_142527.jpg
+│   │   │   │   │   │   ├── 📄 20160204_142456.jpg
+│   │   │   │   │   │   ├── 📄 20160204_142449.jpg
+│   │   │   │   │   │   ├── 📄 20160204_142440.jpg
+│   │   │   │   │   │   ├── 📄 20160204_142435.jpg
+│   │   │   │   │   │   ├── 📄 20160204_142424.jpg
+│   │   │   │   │   │   ├── 📄 20160204_142358.jpg
+│   │   │   │   │   │   ├── 📄 20160204_142348.jpg
+│   │   │   │   │   │   ├── 📄 20160204_142337.jpg
+│   │   │   │   │   │   ├── 📄 20160204_142327.jpg
+│   │   │   │   │   │   ├── 📄 20160204_142218.jpg
+│   │   │   │   │   │   └── 📄 20160204_142209.jpg
+│   │   │   │   │   └── 📁 exams de machine/
+│   │   │   │   │       ├── 📄 2013 MS.jpg
+│   │   │   │   │       ├── 📄 2008 MS.jpg
+│   │   │   │   │       ├── 📄 2011 MS.jpg
+│   │   │   │   │       ├── 📄 Exam 4 Machine.jpg
+│   │   │   │   │       ├── 📄 Exam 11 Machine.jpg
+│   │   │   │   │       ├── 📄 2012 MS.jpg
+│   │   │   │   │       ├── 📄 Exam 7 Machine.jpg
+│   │   │   │   │       ├── 📄 2004 MS.jpg
+│   │   │   │   │       ├── 📄 2010 MS.jpg
+│   │   │   │   │       └── 📄 2007 MS.jpg
+│   │   │   │   └── 📁 Machine electrique derouich/
+│   │   │   │       ├── 📄 Couplage des mas en mono ( val de c ).docx
+│   │   │   │       ├── 📄 Recherche 1_Moteur Triphasé en Mono.docx
+│   │   │   │       ├── 📄 Exam Darouich (2).jpg
+│   │   │   │       ├── 📄 Chapitre2_M_P_P.pdf
+│   │   │   │       ├── 📄 Chapitre1_M_monophase.pdf
+│   │   │   │       ├── 📄 cours_moteur_pas_a_pas.pdf
+│   │   │   │       ├── 📄 exercices_alternateur.pdf
+│   │   │   │       ├── 📄 Électronique de commande moteurs pas à pas.mht
+│   │   │   │       ├── 📄 Les moteurs pas à pas.mht
+│   │   │   │       ├── 📁 transfo triphasé/
+│   │   │   │       │   ├── 📄 Chapitre6_Transfo_Triphase2.pdf
+│   │   │   │       │   ├── 📄 TD de Transfo triphasé.pdf
+│   │   │   │       │   ├── 📄 Etude des transformateurs.pdf
+│   │   │   │       │   ├── 📄 LE TRANSFORMATEUR TRIPHASé.docx
+│   │   │   │       │   ├── 📄 ET1-4.pps
+│   │   │   │       │   └── 📄 Le transformateur triphasé.pdf
+│   │   │   │       ├── 📁 derouich Cours et Td (2013-2016)/
+│   │   │   │       │   ├── 📄 IMAG0743.jpg
+│   │   │   │       │   ├── 📄 IMAG0741.jpg
+│   │   │   │       │   ├── 📄 IMAG0742.jpg
+│   │   │   │       │   ├── 📄 IMAG0739.jpg
+│   │   │   │       │   ├── 📄 IMAG0740.jpg
+│   │   │   │       │   ├── 📄 IMAG0738.jpg
+│   │   │   │       │   ├── 📄 IMAG0737.jpg
+│   │   │   │       │   ├── 📄 IMAG0736.jpg
+│   │   │   │       │   ├── 📄 IMAG0735.jpg
+│   │   │   │       │   ├── 📄 IMAG0734.jpg
+│   │   │   │       │   ├── 📄 IMAG0733.jpg
+│   │   │   │       │   ├── 📄 IMAG0732.jpg
+│   │   │   │       │   ├── 📄 IMAG0731.jpg
+│   │   │   │       │   ├── 📄 IMAG0730.jpg
+│   │   │   │       │   ├── 📄 IMAG0728.jpg
+│   │   │   │       │   ├── 📄 IMAG0729.jpg
+│   │   │   │       │   ├── 📄 IMAG0727.jpg
+│   │   │   │       │   ├── 📄 IMAG0726.jpg
+│   │   │   │       │   ├── 📄 IMAG0762.jpg
+│   │   │   │       │   ├── 📄 IMAG0763.jpg
+│   │   │   │       │   ├── 📄 IMAG0764.jpg
+│   │   │   │       │   ├── 📄 IMAG0759.jpg
+│   │   │   │       │   ├── 📄 IMAG0760.jpg
+│   │   │   │       │   ├── 📄 IMAG0761.jpg
+│   │   │   │       │   ├── 📄 IMAG0756.jpg
+│   │   │   │       │   ├── 📄 IMAG0757.jpg
+│   │   │   │       │   ├── 📄 IMAG0758.jpg
+│   │   │   │       │   ├── 📄 IMAG0753.jpg
+│   │   │   │       │   ├── 📄 IMAG0754.jpg
+│   │   │   │       │   ├── 📄 IMAG0755.jpg
+│   │   │   │       │   ├── 📄 IMAG0750.jpg
+│   │   │   │       │   ├── 📄 IMAG0751.jpg
+│   │   │   │       │   ├── 📄 IMAG0752.jpg
+│   │   │   │       │   ├── 📄 IMAG0747.jpg
+│   │   │   │       │   ├── 📄 IMAG0748.jpg
+│   │   │   │       │   ├── 📄 IMAG0749.jpg
+│   │   │   │       │   ├── 📄 IMAG0744.jpg
+│   │   │   │       │   ├── 📄 IMAG0745.jpg
+│   │   │   │       │   └── 📄 IMAG0746.jpg
+│   │   │   │       ├── 📁 Derouich/
+│   │   │   │       │   ├── 📄 Couplage des mas en mono ( val de c ).docx
+│   │   │   │       │   ├── 📄 wyciaga.txt
+│   │   │   │       │   └── 📁 trnsfo cours 2015-2016/
+│   │   │   │       │       ├── 📄 20160204_142651.jpg
+│   │   │   │       │       ├── 📄 20160204_142802.jpg
+│   │   │   │       │       ├── 📄 20160204_142736.jpg
+│   │   │   │       │       ├── 📄 20160204_142731.jpg
+│   │   │   │       │       ├── 📄 20160204_142723.jpg
+│   │   │   │       │       ├── 📄 20160204_142717.jpg
+│   │   │   │       │       ├── 📄 20160204_142708.jpg
+│   │   │   │       │       └── 📄 20160204_142659.jpg
+│   │   │   │       └── 📁 Machine electrique derouich/
+│   │   │   │           ├── 📄 Couplage des mas en mono ( val de c ).docx
+│   │   │   │           ├── 📁 derouich Cours et Td (2013-2014)/
+│   │   │   │           │   ├── 📄 IMAG0743.jpg
+│   │   │   │           │   ├── 📄 IMAG0742.jpg
+│   │   │   │           │   ├── 📄 IMAG0741.jpg
+│   │   │   │           │   ├── 📄 IMAG0739.jpg
+│   │   │   │           │   ├── 📄 IMAG0740.jpg
+│   │   │   │           │   ├── 📄 IMAG0737.jpg
+│   │   │   │           │   ├── 📄 IMAG0738.jpg
+│   │   │   │           │   ├── 📄 IMAG0736.jpg
+│   │   │   │           │   ├── 📄 IMAG0735.jpg
+│   │   │   │           │   ├── 📄 IMAG0734.jpg
+│   │   │   │           │   ├── 📄 IMAG0733.jpg
+│   │   │   │           │   ├── 📄 IMAG0732.jpg
+│   │   │   │           │   ├── 📄 IMAG0731.jpg
+│   │   │   │           │   ├── 📄 IMAG0730.jpg
+│   │   │   │           │   ├── 📄 IMAG0728.jpg
+│   │   │   │           │   ├── 📄 IMAG0729.jpg
+│   │   │   │           │   ├── 📄 IMAG0727.jpg
+│   │   │   │           │   ├── 📄 IMAG0726.jpg
+│   │   │   │           │   ├── 📄 IMAG0762.jpg
+│   │   │   │           │   ├── 📄 IMAG0763.jpg
+│   │   │   │           │   ├── 📄 IMAG0764.jpg
+│   │   │   │           │   ├── 📄 IMAG0759.jpg
+│   │   │   │           │   ├── 📄 IMAG0760.jpg
+│   │   │   │           │   ├── 📄 IMAG0761.jpg
+│   │   │   │           │   ├── 📄 IMAG0756.jpg
+│   │   │   │           │   ├── 📄 IMAG0757.jpg
+│   │   │   │           │   ├── 📄 IMAG0758.jpg
+│   │   │   │           │   ├── 📄 IMAG0753.jpg
+│   │   │   │           │   ├── 📄 IMAG0754.jpg
+│   │   │   │           │   ├── 📄 IMAG0755.jpg
+│   │   │   │           │   ├── 📄 IMAG0750.jpg
+│   │   │   │           │   ├── 📄 IMAG0751.jpg
+│   │   │   │           │   ├── 📄 IMAG0752.jpg
+│   │   │   │           │   ├── 📄 IMAG0747.jpg
+│   │   │   │           │   ├── 📄 IMAG0748.jpg
+│   │   │   │           │   ├── 📄 IMAG0749.jpg
+│   │   │   │           │   ├── 📄 IMAG0744.jpg
+│   │   │   │           │   ├── 📄 IMAG0745.jpg
+│   │   │   │           │   └── 📄 IMAG0746.jpg
+│   │   │   │           ├── 📁 Examen derouich Machine II/
+│   │   │   │           │   └── 📄 exam 2015-2016.jpg
+│   │   │   │           ├── 📁 1°Transformateur triphasé/
+│   │   │   │           │   ├── 📄 Les_transformateurs.doc
+│   │   │   │           │   ├── 📄 Chapitre 4.2 Transformateur - Les indices horaires des transformateurs en triphasé.mp4
+│   │   │   │           │   ├── 📄 tdelectroniquel2_2.pdf
+│   │   │   │           │   ├── 📄 DS30202_court_enonce.pdf
+│   │   │   │           │   ├── 📄 exe-Transformateur-triphase.pdf
+│   │   │   │           │   ├── 📄 transformateur-tri-cours.pdf
+│   │   │   │           │   ├── 📄 Transformateur-Triphase.pdf
+│   │   │   │           │   ├── 📄 DAeterminationydeyl_indiceyhoraire.pdf
+│   │   │   │           │   ├── 📄 TransfoTriBiscours1.pdf
+│   │   │   │           │   ├── 📄 electrotec_transfo_triphas_.pdf
+│   │   │   │           │   ├── 📄 Serie6.pdf
+│   │   │   │           │   ├── 📄 Chapitre6_Transfo_Triphase2.pdf
+│   │   │   │           │   ├── 📄 TD de Transfo triphasé.pdf
+│   │   │   │           │   ├── 📄 Etude des transformateurs.pdf
+│   │   │   │           │   ├── 📄 LE TRANSFORMATEUR TRIPHASé.docx
+│   │   │   │           │   ├── 📄 ET1-4.pps
+│   │   │   │           │   ├── 📄 Le transformateur triphasé.pdf
+│   │   │   │           │   └── 📁 trnsfo cours 2015-2016/
+│   │   │   │           │       ├── 📄 20160204_142651.jpg
+│   │   │   │           │       ├── 📄 20160204_142802.jpg
+│   │   │   │           │       ├── 📄 20160204_142736.jpg
+│   │   │   │           │       ├── 📄 20160204_142731.jpg
+│   │   │   │           │       ├── 📄 20160204_142723.jpg
+│   │   │   │           │       ├── 📄 20160204_142717.jpg
+│   │   │   │           │       ├── 📄 20160204_142708.jpg
+│   │   │   │           │       └── 📄 20160204_142659.jpg
+│   │   │   │           ├── 📁 2°Moteur_Monophasé/
+│   │   │   │           │   ├── 📄 moteur asynchrone monophasé et son condensateur   Technologie en ligne.mp4
+│   │   │   │           │   ├── 📄 Recherche 1_Moteur Triphasé en Mono.docx
+│   │   │   │           │   └── 📄 Chapitre1_M_monophase.pdf
+│   │   │   │           ├── 📁 3°Moteur_Pas_Pas/
+│   │   │   │           │   ├── 📄 Cours n°15- le moteur pas à pas avec le microcontroleur pic16f84 شرح كيفية تشغيل محرك خطوي.mp4
+│   │   │   │           │   ├── 📄 Cour N° 5 Moteur pas a pas (Théore) .Arnoun taoufik.mp4
+│   │   │   │           │   ├── 📄 moteur pas à pas par pic.pdf
+│   │   │   │           │   ├── 📄 Chapitre2_M_P_P.pdf
+│   │   │   │           │   ├── 📄 cours_moteur_pas_a_pas.pdf
+│   │   │   │           │   ├── 📄 Électronique de commande moteurs pas à pas.mht
+│   │   │   │           │   └── 📄 Les moteurs pas à pas.mht
+│   │   │   │           ├── 📁 MAS/
+│   │   │   │           │   ├── 📄 Moteur asynchrone Partie1 (الدارجة المغربية) - YouTube.MKV
+│   │   │   │           │   ├── 📄 Moteur asynchrone Partie 4_Couplage triangle_étoile (الدارجة المغربية) - YouTube.MKV
+│   │   │   │           │   ├── 📄 Moteur asynchrone Partie3 - pilan de puissance (الدارجة المغربية) - YouTube.MP4
+│   │   │   │           │   └── 📄 Moteur asynchrone Partie 2 (الدارجة المغربية) - YouTube.MP4
+│   │   │   │           └── 📁 MCC/
+│   │   │   │               ├── 📄 Différence entre Moteur à courant continu et Moteur asynchrone - YouTube.MKV
+│   │   │   │               └── 📄 Moteur a courant continu Partie 2 (الدارجة المغربية) - YouTube.MP4
+│   │   │   └── 📁 Compte Rendu de tp Electrotechnique/
+│   │   │       ├── 📄 IMAG0687.jpg
+│   │   │       ├── 📄 IMAG0686.jpg
+│   │   │       ├── 📄 IMAG0685.jpg
+│   │   │       ├── 📄 IMAG0684.jpg
+│   │   │       ├── 📄 IMAG0683.jpg
+│   │   │       ├── 📄 IMAG0682.jpg
+│   │   │       ├── 📄 IMAG0681.jpg
+│   │   │       ├── 📄 IMAG0688.jpg
+│   │   │       ├── 📄 IMAG0689.jpg
+│   │   │       ├── 📄 IMAG0690.jpg
+│   │   │       ├── 📄 IMAG0691.jpg
+│   │   │       ├── 📄 IMAG0692.jpg
+│   │   │       ├── 📄 IMAG0693.jpg
+│   │   │       ├── 📄 IMAG0694.jpg
+│   │   │       ├── 📄 IMAG0695.jpg
+│   │   │       ├── 📄 IMAG0699.jpg
+│   │   │       ├── 📄 IMAG0700.jpg
+│   │   │       ├── 📄 IMAG0702.jpg
+│   │   │       ├── 📄 IMAG0703.jpg
+│   │   │       ├── 📄 IMAG0704.jpg
+│   │   │       ├── 📄 IMAG0711.jpg
+│   │   │       ├── 📄 IMAG0712.jpg
+│   │   │       ├── 📄 IMAG0713.jpg
+│   │   │       ├── 📄 IMAG0714.jpg
+│   │   │       ├── 📄 IMAG0715.jpg
+│   │   │       ├── 📄 IMAG0719.jpg
+│   │   │       ├── 📄 IMAG0720.jpg
+│   │   │       ├── 📄 IMAG0718.jpg
+│   │   │       ├── 📄 IMAG0717.jpg
+│   │   │       ├── 📄 IMAG0716.jpg
+│   │   │       ├── 📄 IMAG0710.jpg
+│   │   │       ├── 📄 IMAG0708.jpg
+│   │   │       ├── 📄 IMAG0709.jpg
+│   │   │       ├── 📄 IMAG0707.jpg
+│   │   │       ├── 📄 IMAG0705.jpg
+│   │   │       ├── 📄 IMAG0706.jpg
+│   │   │       ├── 📄 IMAG0701.jpg
+│   │   │       ├── 📄 IMAG0698.jpg
+│   │   │       ├── 📄 IMAG0696.jpg
+│   │   │       ├── 📄 IMAG0697.jpg
+│   │   │       ├── 📄 IMAG0680.jpg
+│   │   │       ├── 📄 IMAG0679.jpg
+│   │   │       ├── 📄 IMAG0678.jpg
+│   │   │       ├── 📄 IMAG0677.jpg
+│   │   │       ├── 📄 IMAG0676.jpg
+│   │   │       ├── 📄 IMAG0675.jpg
+│   │   │       ├── 📄 IMAG0674.jpg
+│   │   │       ├── 📄 IMAG0673.jpg
+│   │   │       ├── 📄 IMAG0672.jpg
+│   │   │       ├── 📄 IMAG0671.jpg
+│   │   │       ├── 📄 IMAG0670.jpg
+│   │   │       ├── 📄 IMAG0669.jpg
+│   │   │       └── 📄 IMAG0668.jpg
+│   │   ├── 🔗📁 Electrotechnique 2/  (raccourci)
+│   │   │   ├── 📁 Cours/
+│   │   │   │   ├── 📄 machine electrique.pdf
+│   │   │   │   ├── 📄 Cours Machine  à C.C.pdf
+│   │   │   │   ├── 📁 Résumé Machine A C.C/
+│   │   │   │   │   ├── 📄 9.jpg
+│   │   │   │   │   ├── 📄 8.jpg
+│   │   │   │   │   ├── 📄 7.jpg
+│   │   │   │   │   ├── 📄 6.jpg
+│   │   │   │   │   ├── 📄 5.jpg
+│   │   │   │   │   ├── 📄 4.jpg
+│   │   │   │   │   ├── 📄 3.jpg
+│   │   │   │   │   ├── 📄 2.jpg
+│   │   │   │   │   └── 📄 1.jpg
+│   │   │   │   └── 📁 Cours ELT/
+│   │   │   │       ├── 📄 cours.pdf
+│   │   │   │       ├── 📄 Circuits magnétiques.pdf
+│   │   │   │       ├── 📄 circuits-courant-alternatif-monophase-21.pdf
+│   │   │   │       ├── 📄 ch3 systeme triphase.pdf
+│   │   │   │       ├── 📄 cours_transformateur.pdf
+│   │   │   │       ├── 📄 cours electronique puissance ch0.pdf
+│   │   │   │       ├── 📄 ch2 systeme monophase.pdf
+│   │   │   │       └── 📄 ch1 machine a courant continu.pdf
+│   │   │   ├── 📁 Examens Tests Exo/
+│   │   │   │   ├── 📁 Lagh2016/
+│   │   │   │   │   ├── 📄 2.jpg
+│   │   │   │   │   └── 📄 1.jpg
+│   │   │   │   ├── 📁 Lagh2017/
+│   │   │   │   │   ├── 📄 Examen Electrotechnique 2017.pdf
+│   │   │   │   │   ├── 📄 7.jpg
+│   │   │   │   │   ├── 📄 6.jpg
+│   │   │   │   │   ├── 📄 5.jpg
+│   │   │   │   │   ├── 📄 4.jpg
+│   │   │   │   │   ├── 📄 3.jpg
+│   │   │   │   │   ├── 📄 2.jpg
+│   │   │   │   │   └── 📄 1.jpg
+│   │   │   │   ├── 📁 exercice corigé/
+│   │   │   │   │   ├── 📄 POLYCOPIE_TRAVAUX_DIRIG_201_S__201_LECTROTECHNIQUE_EXERCICES__CORRIG_201_S.pdf
+│   │   │   │   │   ├── 📄 exercices_transformateur.pdf
+│   │   │   │   │   └── 📄 exercices_machine_courant_continu.pdf
+│   │   │   │   └── 📁 Td ElT 2 Laghouat 2017/
+│   │   │   │       ├── 📁 solution serie n 03/
+│   │   │   │       │   ├── 📄 7.jpg
+│   │   │   │       │   ├── 📄 6.jpg
+│   │   │   │       │   ├── 📄 5.jpg
+│   │   │   │       │   ├── 📄 4.jpg
+│   │   │   │       │   ├── 📄 3.jpg
+│   │   │   │       │   ├── 📄 2.jpg
+│   │   │   │       │   ├── 📄 9.jpg
+│   │   │   │       │   ├── 📄 8.jpg
+│   │   │   │       │   ├── 📄 12.jpg
+│   │   │   │       │   ├── 📄 1.jpg
+│   │   │   │       │   ├── 📄 11.jpg
+│   │   │   │       │   └── 📄 10.jpg
+│   │   │   │       ├── 📁 solution serie n 02/
+│   │   │   │       │   ├── 📄 1.jpg
+│   │   │   │       │   ├── 📄 2.jpg
+│   │   │   │       │   └── 📄 solution serie n 02.pdf
+│   │   │   │       └── 📁 solution serie n 01/
+│   │   │   │           ├── 📄 9.jpg
+│   │   │   │           ├── 📄 8.jpg
+│   │   │   │           ├── 📄 7.jpg
+│   │   │   │           ├── 📄 4.jpg
+│   │   │   │           ├── 📄 6.jpg
+│   │   │   │           ├── 📄 5.jpg
+│   │   │   │           ├── 📄 3.jpg
+│   │   │   │           ├── 📄 2.jpg
+│   │   │   │           ├── 📄 10.jpg
+│   │   │   │           └── 📄 1.jpg
+│   │   │   └── 📁 TP/
+│   │   │       ├── 📁 TP-1-Transformateur/
+│   │   │       │   ├── 📄 4.jpg
+│   │   │       │   ├── 📄 3.jpg
+│   │   │       │   ├── 📄 1.jpg
+│   │   │       │   └── 📄 2.jpg
+│   │   │       └── 📁 TP2-Motor asynchrone/
+│   │   │           ├── 📄 5.jpg
+│   │   │           ├── 📄 4.jpg
+│   │   │           ├── 📄 3.jpg
+│   │   │           ├── 📄 2.jpg
+│   │   │           └── 📄 1.jpg
+│   │   └── 📁 Electrotechnique 2/
+│   │       ├── 📁 Examens Tests Exo/
+│   │       │   ├── 📁 Lagh2017/
+│   │       │   │   ├── 📄 Examen Electrotechnique 2017.pdf
+│   │       │   │   ├── 📄 7.jpg
+│   │       │   │   ├── 📄 6.jpg
+│   │       │   │   ├── 📄 5.jpg
+│   │       │   │   ├── 📄 4.jpg
+│   │       │   │   ├── 📄 3.jpg
+│   │       │   │   ├── 📄 2.jpg
+│   │       │   │   └── 📄 1.jpg
+│   │       │   ├── 📁 Td ElT 2 Laghouat 2017/
+│   │       │   │   ├── 📁 solution serie n 02/
+│   │       │   │   │   ├── 📄 1.jpg
+│   │       │   │   │   ├── 📄 2.jpg
+│   │       │   │   │   └── 📄 solution serie n 02.pdf
+│   │       │   │   ├── 📁 solution serie n 03/
+│   │       │   │   │   ├── 📄 7.jpg
+│   │       │   │   │   ├── 📄 6.jpg
+│   │       │   │   │   ├── 📄 5.jpg
+│   │       │   │   │   ├── 📄 4.jpg
+│   │       │   │   │   ├── 📄 3.jpg
+│   │       │   │   │   ├── 📄 2.jpg
+│   │       │   │   │   ├── 📄 9.jpg
+│   │       │   │   │   ├── 📄 8.jpg
+│   │       │   │   │   ├── 📄 12.jpg
+│   │       │   │   │   ├── 📄 1.jpg
+│   │       │   │   │   ├── 📄 11.jpg
+│   │       │   │   │   └── 📄 10.jpg
+│   │       │   │   └── 📁 solution serie n 01/
+│   │       │   │       ├── 📄 9.jpg
+│   │       │   │       ├── 📄 8.jpg
+│   │       │   │       ├── 📄 7.jpg
+│   │       │   │       ├── 📄 6.jpg
+│   │       │   │       ├── 📄 4.jpg
+│   │       │   │       ├── 📄 5.jpg
+│   │       │   │       ├── 📄 3.jpg
+│   │       │   │       ├── 📄 2.jpg
+│   │       │   │       ├── 📄 10.jpg
+│   │       │   │       └── 📄 1.jpg
+│   │       │   ├── 📁 exercice corigé/
+│   │       │   │   ├── 📄 POLYCOPIE_TRAVAUX_DIRIG_201_S__201_LECTROTECHNIQUE_EXERCICES__CORRIG_201_S.pdf
+│   │       │   │   ├── 📄 exercices_machine_courant_continu.pdf
+│   │       │   │   └── 📄 exercices_transformateur.pdf
+│   │       │   └── 📁 Lagh2016/
+│   │       │       ├── 📄 2.jpg
+│   │       │       └── 📄 1.jpg
+│   │       ├── 📁 Cours/
+│   │       │   ├── 📄 Cours Machine  à C.C.pdf
+│   │       │   ├── 📁 Résumé Machine A C.C/
+│   │       │   │   ├── 📄 9.jpg
+│   │       │   │   ├── 📄 8.jpg
+│   │       │   │   ├── 📄 7.jpg
+│   │       │   │   ├── 📄 6.jpg
+│   │       │   │   ├── 📄 5.jpg
+│   │       │   │   ├── 📄 4.jpg
+│   │       │   │   ├── 📄 3.jpg
+│   │       │   │   ├── 📄 2.jpg
+│   │       │   │   └── 📄 1.jpg
+│   │       │   └── 📁 Cours ELT/
+│   │       │       ├── 📄 cours.pdf
+│   │       │       ├── 📄 Circuits magnétiques.pdf
+│   │       │       ├── 📄 circuits-courant-alternatif-monophase-21.pdf
+│   │       │       ├── 📄 ch3 systeme triphase.pdf
+│   │       │       ├── 📄 cours_transformateur.pdf
+│   │       │       ├── 📄 cours electronique puissance ch0.pdf
+│   │       │       ├── 📄 ch2 systeme monophase.pdf
+│   │       │       └── 📄 ch1 machine a courant continu.pdf
+│   │       └── 📁 TP/
+│   │           ├── 📁 TP2-Motor asynchrone/
+│   │           │   ├── 📄 5.jpg
+│   │           │   ├── 📄 4.jpg
+│   │           │   ├── 📄 3.jpg
+│   │           │   ├── 📄 2.jpg
+│   │           │   └── 📄 1.jpg
+│   │           └── 📁 TP-1-Transformateur/
+│   │               ├── 📄 4.jpg
+│   │               ├── 📄 3.jpg
+│   │               ├── 📄 1.jpg
+│   │               └── 📄 2.jpg
+│   ├── 🔗📁 Machines électriques II/  (raccourci)
+│   │   └── ⚠️  [Référence circulaire ignorée]
+│   ├── 🔗📁 Commande des machines électriques  (raccourci)
+│   ├── 🔗📁 Machines électriques spéciales/  (raccourci)
+│   │   └── 📁 exposé machines spéciales/
+│   │       └── 📄 Applications spatiales-Moteur de stirling.pptx
+│   └── 🔗📁 Machines Electriques Tournantes  (raccourci)
+├── 📁 Autre/
+│   ├── 🔗📁 les rapports de tp/  (raccourci)
+│   │   ├── 📄 1tp-machin1.docx
+│   │   ├── 📄 tp-machine2.docx
+│   │   ├── 📄 tp4machine.docx
+│   │   ├── 📄 tp3.docx
+│   │   └── 📄 tpmachine5.docx
+│   └── 🔗📁 td avec la solution/  (raccourci)
+│       ├── 📄 TDN1+ CORRECTION_MEC74_2019-2020.pdf
+│       ├── 📄 TDN1+CORRECTION_MEC74_2019-2020_SUITE.pdf
+│       ├── 📄 TDN2+CORRECTION_MEC74_2019-2020_.pdf
+│       └── 📄 TDN3+CORRECTION_MEC74_2019-2020_.pdf
+├── 📁 Cours/
+│   ├── 📄 ChapIII_Etudiants.pdf
+│   ├── 📄 chapII__Machine_Synchrone (1).pdf
+│   └── 📄 Chap_1_21_VE.pdf
+├── 📁 Examens/
+│   ├── 📄 Interro 1 machines 2022 .jpg
+│   ├── 📄 Examen machines 2022.pdf
+│   ├── 📄 Interro machines 2022 EI.pdf
+│   └── 📄 interro machine 2021 EI.jpg
+├── 📁 Td/
+│   ├── 📄 serie-2.pdf
+│   ├── 📄 TD1_Corrig_VE.pdf
+│   ├── 📄 TDN°3-Sol.pdf
+│   ├── 📄 TDN°1-Sol.pdf
+│   ├── 📄 TD2_20_21_VE.pdf
+│   └── 📄 TD1_20_21_VE.pdf
+└── 📁 Tp/
+    └── 📄 TP_Machines_21_22.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Machines électriques
+═════════════════════════════════════

@@ -1,0 +1,214 @@
+📚 MODULE : MDA - IDM - OCL Ingénierie Dirigée par les Modèles
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module MDA - IDM - OCL Ingénierie Dirigée par les Modèles.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 MDA - IDM - OCL Ingénierie Dirigée par les Modèles/
+├── 📄 IDM _ Ingénierie des Modèles-20260505T191246Z-3-001.zip
+├── 🔗📁 IDM | Ingénierie des Modèles/  (raccourci)
+│   ├── 📄 Idm_Transformations.pdf
+│   ├── 📄 Idm_Execution.pdf
+│   ├── 📄 Idm_Intro.pdf
+│   ├── 📄 Idm_Meta.pdf
+│   ├── 📄 Idm_OCL.pdf
+│   ├── 📁 Examen / Tests/
+│   │   └── 📄 MDE_2021_2022_Session_1_Solution.pdf
+│   └── 📁 TD et Correction/
+│       ├── 📄 Fiche Transformation.pdf
+│       ├── 📄 TD 2.pdf
+│       ├── 📄 TD 3.pdf
+│       └── 📄 TD 1.pdf
+├── 📄 .s
+├── 📄 + Gestion de projets.pdf
+├── 📄 a-Example-UML-Class-Diagram-and-b-Example-OCL-Constraints-our-evaluation-Section-8.png
+├── 📄 behavioral-state-machine-frame.png
+├── 📄 classifier.png
+├── 📄 collections methods.jpg
+├── 📄 exam.jpeg
+├── 📄 example etat transition.png
+├── 📄 exm ensaf2.jpeg
+├── 📄 IMG_20211226_105703.jpg
+├── 📄 khrissi.jpg
+├── 📄 metamodel-Use-Cases.png
+├── 📄 MMUML.png
+├── 📄 niveau meta.png
+├── 📄 quelquesFonctions.txt
+├── 📄 resume OCL Atl.txt
+├── 📄 resume rharnati.pdf
+├── 📄 ScreenShot_20220121111930.png
+├── 📄 state diag def.png
+├── 📄 state transi diag.png
+├── 📄 state transi example.png
+├── 📄 TP2.jpg
+├── 📄 TP3.jpg
+├── 📄 Transition-states-meta-model.png
+├── 📄 types and theirs functions.png
+├── 📄 Use-case-meta-model-OMG-04.png
+├── 📄 use-case-meta-model.png
+├── 📄 use-case-meta-model2.png
+├── 📄 usecase MM.png
+├── 📄 énoncé.txt
+├── 📄 atl-tutorial-eclipsecon-2008.pdf
+├── 📄 NFP121_12_007_UML_OCL-1.pdf
+├── 📄 _cours d khressi META MODEL.pdf
+├── 📄 UML Specification formal-2015-03-01.pdf
+├── 📄 +TD5-corr05.pdf
+├── 📄 __ATL UML2Java Example.pdf
+├── 📄 ++td-ocl-_exos_corrigés.pdf
+├── 📄 ++niiice cours OCL.pdf
+├── 📄 cours OCL (khressi).pdf
+├── 📄 _Lakhrissi_MDA_cours_Ensaf.pdf
+├── 📄 td5-correction_compress.pdf
+├── 📁 resume OCL           imgs/
+│   ├── 📄 IMG20211101135114.jpg
+│   ├── 📄 IMG20211101135128.jpg
+│   └── 📄 IMG20211101135139.jpg
+├── 📁 TP/
+│   ├── 📁 TpMDA/
+│   │   ├── 📄 .project
+│   │   ├── 📁 ModelesSources/
+│   │   │   ├── 📁 m2/
+│   │   │   │   ├── 📄 m2.di
+│   │   │   │   ├── 📄 m2.notation
+│   │   │   │   └── 📄 m2.uml
+│   │   │   ├── 📁 MM_results/
+│   │   │   │   ├── 📄 Model_gen_setters_getters.uml
+│   │   │   │   ├── 📄 Model_R1.uml
+│   │   │   │   ├── 📄 Model_R2.uml
+│   │   │   │   ├── 📄 Model_R3.uml
+│   │   │   │   ├── 📄 Model_R4.uml
+│   │   │   │   ├── 📄 Model_R4_2.uml
+│   │   │   │   ├── 📄 Model_R4_3.uml
+│   │   │   │   ├── 📄 Model_Rule_correct_Name.uml
+│   │   │   │   ├── 📄 Model_Rule_Enum.uml
+│   │   │   │   ├── 📄 Model_Rule_interfaces.uml
+│   │   │   │   └── 📄 Model_Rule_visi.uml
+│   │   │   ├── 📁 Model1/
+│   │   │   │   ├── 📄 GestionFiliere.di
+│   │   │   │   ├── 📄 GestionFiliere.notation
+│   │   │   │   └── 📄 GestionFiliere.uml
+│   │   │   └── 📁 Model2Model/
+│   │   │       └── 📄 GestionFiliere_out.uml
+│   │   ├── 📁 Resultats/
+│   │   │   ├── 📄 .java
+│   │   │   ├── 📄 allClasses.java
+│   │   │   ├── 📄 Message.txt
+│   │   │   ├── 📄 QueryOverModelUMLTest_result.txt
+│   │   │   ├── 📄 queryTest_result.txt
+│   │   │   └── 📁 GestionFiliere_CodeGéneré/
+│   │   │       ├── 📁 Administration/
+│   │   │       │   ├── 📄 Departement.java
+│   │   │       │   └── 📄 Filiere.java
+│   │   │       ├── 📁 Formation/
+│   │   │       │   ├── 📄 Cours.java
+│   │   │       │   ├── 📄 Matiere.java
+│   │   │       │   └── 📄 Module.java
+│   │   │       └── 📁 Personnel/
+│   │   │           ├── 📄 Class.java
+│   │   │           ├── 📄 Etudiant.java
+│   │   │           ├── 📄 humain.java
+│   │   │           ├── 📄 Personne.java
+│   │   │           ├── 📄 Professeur.java
+│   │   │           ├── 📄 Speciality.java
+│   │   │           └── 📄 Taleeb.java
+│   │   └── 📁 Transformations/
+│   │       ├── 📄 GenerationCOdeJava.asm
+│   │       ├── 📄 GenerationCOdeJava.atl
+│   │       ├── 📄 M2MTest.asm
+│   │       ├── 📄 M2MTest.atl
+│   │       ├── 📄 QueryOverModelUMLTest.asm
+│   │       ├── 📄 QueryOverModelUMLTest.atl
+│   │       ├── 📄 query_test.asm
+│   │       ├── 📄 query_test.atl
+│   │       ├── 📄 tp1.asm
+│   │       ├── 📄 tp1.atl
+│   │       ├── 📄 TransfoM2M.asm
+│   │       └── 📄 TransfoM2M.atl
+│   ├── 📁 screens/
+│   │   ├── 📄 ScreenShot_20211122150028.png
+│   │   ├── 📄 ScreenShot_20211122150302.png
+│   │   ├── 📄 ScreenShot_20211222170703.png
+│   │   ├── 📄 ScreenShot_20211222170846.png
+│   │   ├── 📄 ScreenShot_20211222171014.png
+│   │   ├── 📄 ScreenShot_20211222171109.png
+│   │   ├── 📄 ScreenShot_20211225233115.png
+│   │   ├── 📄 ScreenShot_20211226131241.png
+│   │   ├── 📄 ScreenShot_20211226135739.png
+│   │   ├── 📄 ScreenShot_20211226141040.png
+│   │   ├── 📄 ScreenShot_20211226202937.png
+│   │   └── 📄 ScreenShot_20211226203006.png
+│   └── 📁 TP1 TP2/
+│       ├── 📄 .project
+│       ├── 📁 ModelesSources/
+│       │   ├── 📁 m2/
+│       │   │   ├── 📄 m2.di
+│       │   │   ├── 📄 m2.notation
+│       │   │   └── 📄 m2.uml
+│       │   ├── 📁 MM_results/
+│       │   │   ├── 📄 Model_R1.uml
+│       │   │   ├── 📄 Model_R2.uml
+│       │   │   ├── 📄 Model_R3.uml
+│       │   │   ├── 📄 Model_R4.uml
+│       │   │   ├── 📄 Model_R4_2.uml
+│       │   │   ├── 📄 Model_R4_3.uml
+│       │   │   ├── 📄 Model_Rule_correct_Name.uml
+│       │   │   ├── 📄 Model_Rule_Enum.uml
+│       │   │   └── 📄 Model_Rule_interfaces.uml
+│       │   ├── 📁 Model1/
+│       │   │   ├── 📄 GestionFiliere.di
+│       │   │   ├── 📄 GestionFiliere.notation
+│       │   │   └── 📄 GestionFiliere.uml
+│       │   └── 📁 Model2Model/
+│       │       └── 📄 GestionFiliere_out.uml
+│       ├── 📁 Resultats/
+│       │   ├── 📄 .java
+│       │   ├── 📄 allClasses.java
+│       │   ├── 📄 Message.txt
+│       │   ├── 📄 QueryOverModelUMLTest_result.txt
+│       │   ├── 📄 queryTest_result.txt
+│       │   └── 📁 GestionFiliere_CodeGéneré/
+│       │       ├── 📁 Administration/
+│       │       │   ├── 📄 Departement.java
+│       │       │   └── 📄 Filiere.java
+│       │       ├── 📁 Formation/
+│       │       │   ├── 📄 Cours.java
+│       │       │   ├── 📄 Matiere.java
+│       │       │   └── 📄 Module.java
+│       │       └── 📁 Personnel/
+│       │           ├── 📄 Class.java
+│       │           ├── 📄 Etudiant.java
+│       │           ├── 📄 humain.java
+│       │           ├── 📄 Personne.java
+│       │           ├── 📄 Professeur.java
+│       │           ├── 📄 Speciality.java
+│       │           └── 📄 Taleeb.java
+│       └── 📁 Transformations/
+│           ├── 📄 GenerationCOdeJava.asm
+│           ├── 📄 GenerationCOdeJava.atl
+│           ├── 📄 M2MTest.asm
+│           ├── 📄 M2MTest.atl
+│           ├── 📄 QueryOverModelUMLTest.asm
+│           ├── 📄 QueryOverModelUMLTest.atl
+│           ├── 📄 query_test.asm
+│           ├── 📄 query_test.atl
+│           ├── 📄 tp1.asm
+│           ├── 📄 tp1.atl
+│           ├── 📄 TransfoM2M.asm
+│           └── 📄 TransfoM2M.atl
+└── 📁 tuto ytb/
+    ├── 📄 keywords.png
+    └── 📄 New Text Document.txt
+
+═════════════════════════════════════
+  Fin du fichier · MDA - IDM - OCL Ingénierie Dirigée par les Modèles
+═════════════════════════════════════

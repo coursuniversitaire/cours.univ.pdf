@@ -1,0 +1,64 @@
+📚 MODULE : Modélisation et identification des systèmes
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Modélisation et identification des systèmes.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Modélisation et identification des systèmes/
+├── 🔗📁 Modélisation des systèmes complexes et systèmes multi-agents/  (raccourci)
+│   ├── 📄 LesSMA_Ferber.pdf
+│   ├── 📄 cours 3-Modélisation des systmes complexes [Mode de compatibilité].pdf
+│   ├── 📄 cours 1- Introduction aux systmes complexes1 [Mode de compatibilité].pdf
+│   ├── 📄 cours 4-Simulation des systmes complexes [Mode de compatibilité].pdf
+│   ├── 📄 cours 2-Introduction aux systmes complexes2 [Mode de compatibilité].pdf
+│   ├── 📄 Références du cours MSMA.docx
+│   ├── 📄 cours 5-Principes de vérification et validation delamodélisati et la simulation [Mode de compatibilité].pdf
+│   └── 📄 cours 6-Systmes Multi-Agents [Mode de compatibilité].pdf
+└── 📁 3# Modélisation et identification des systèmes/
+    ├── 📄 Programme_Modélisation et identification des systèmes.pdf
+    ├── 📁 tp/
+    │   ├── 📄 Programme_TP Modélisation et identification des systèmes.pdf
+    │   ├── 📁 TP1/
+    │   │   ├── 📄 Modélisation du Moteur à Courant Continu.pdf
+    │   │   ├── 📄 TP1.pdf
+    │   │   ├── 📄 untitled.slx
+    │   │   └── 📄 Untitled.m
+    │   ├── 📁 TP2/
+    │   │   ├── 📄 MIS_TP2.pdf
+    │   │   ├── 📄 untitled2.slx
+    │   │   └── 📄 TP2.m
+    │   └── 📁 TP3/
+    │       ├── 📄 MIS_TP3.pdf
+    │       └── 📄 TP3.m
+    ├── 📁 cours/
+    │   ├── 📄 MIS_Ch1.pdf
+    │   ├── 📄 MIS_Ch3.pdf
+    │   └── 📄 MIS_Ch2.pdf
+    ├── 📁 examens/
+    │   ├── 📄 2017-2018_corrigé.pdf
+    │   ├── 📄 2010-2011_corrigé.pdf
+    │   ├── 📄 2017-2018.pdf
+    │   ├── 📄 2012-2013_corrigé.pdf
+    │   ├── 📄 2010-2011.pdf
+    │   ├── 📄 2012-2013.pdf
+    │   └── 📄 2008-2009.pdf
+    └── 📁 td/
+        ├── 📄 Série 3.pdf
+        ├── 📄 série 1 sol.pdf
+        ├── 📄 Série 2.pdf
+        ├── 📄 Série 1.pdf
+        ├── 📄 série 3 sol.pdf
+        └── 📄 série 2 sol.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Modélisation et identification des systèmes
+═════════════════════════════════════

@@ -1,0 +1,570 @@
+📚 MODULE : Méthode numérique                         
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Méthode numérique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Méthode numérique/
+├── 🔗📁 03_MNA/  (raccourci)
+│   ├── 📁 TPs/
+│   │   ├── 📄 TP mna.pdf
+│   │   ├── 📄 Tp-20240508T142844Z-001.zip
+│   │   ├── 📁 3/
+│   │   │   ├── 📄 RK4.m
+│   │   │   ├── 📄 Euler.m
+│   │   │   ├── 📄 4.jpg
+│   │   │   ├── 📄 3.jpg
+│   │   │   ├── 📄 2.jpg
+│   │   │   ├── 📄 1.jpg
+│   │   │   └── 📄 TP_N3_MN.pdf
+│   │   ├── 📁 2/
+│   │   │   ├── 📄 Lagrange.m
+│   │   │   ├── 📄 Moindres_carres.m
+│   │   │   ├── 📄 Preparation_2.jpg
+│   │   │   ├── 📄 Preparation_1.jpg
+│   │   │   └── 📄 TP_N2_MN.pdf
+│   │   └── 📁 1/
+│   │       ├── 📄 Dichotomie.m
+│   │       ├── 📄 Newton.m
+│   │       ├── 📄 Point_fixe.m
+│   │       └── 📄 TP_N1_MN.pdf
+│   ├── 📁 TD/
+│   │   ├── 📁 TD_5/
+│   │   │   ├── 📄 Resume+Solution_serie5.pdf
+│   │   │   └── 📄 serie5_Les matrices.pdf
+│   │   ├── 📁 TD_3/
+│   │   │   ├── 📄 Résumé+Solution_serie3.pdf
+│   │   │   ├── 📄 Serie_de_TD_N3.pdf
+│   │   │   └── 📄 Resume_3.jpg
+│   │   ├── 📁 TD_2/
+│   │   │   ├── 📄 Résumé+Solution_serie2 (1).pdf
+│   │   │   ├── 📄 Resume_2.jpg
+│   │   │   └── 📄 Serie_de_MNA_2.pdf
+│   │   ├── 📁 TD_4/
+│   │   │   ├── 📄 Résumé+Solution_serie4.pdf
+│   │   │   └── 📄 1.png
+│   │   └── 📁 TD_1/
+│   │       ├── 📄 Résumé+Solution_serie1.pdf
+│   │       └── 📄 Serie_de_MNA_1.pdf
+│   ├── 📁 Revison_Final/
+│   │   ├── 📄 examen_5.pdf
+│   │   ├── 📁 4/
+│   │   │   ├── 📄 examens4_2021.pdf
+│   │   │   └── 📄 corrige_examens4_2021.pdf
+│   │   ├── 📁 3/
+│   │   │   └── 📄 examen_3.pdf
+│   │   ├── 📁 2/
+│   │   │   └── 📄 examen_2.pdf
+│   │   └── 📁 1/
+│   │       ├── 📄 4.jpg
+│   │       ├── 📄 3.jpg
+│   │       ├── 📄 2.jpg
+│   │       └── 📄 1.jpg
+│   └── 📁 2022-2023/
+│       ├── 📄 Cours_Methodes_Numeriques_Benchikh-Lehocine-Iftikhar.pdf
+│       ├── 📄 td_mna_toutes_les_series_corriges_methodes_numeriques_appliques.pdf
+│       ├── 📁 Ch_4/
+│       │   └── 📄 CH6_Chap6-EquationDifferentiellesSmall.pdf
+│       ├── 📁 Ch_5/
+│       │   ├── 📄 CH8_Iterative-Methods-Matrix-forms-course-examples.pdf
+│       │   ├── 📄 CH8_chap8-Systemes-Lineaires-Methodes-Iteratives.pdf
+│       │   ├── 📄 CH7_Scaling-in-Gauss-Elimination.pdf
+│       │   ├── 📄 CH7_Determinant-and-Inverse-Matrix.pdf
+│       │   └── 📄 CH7_chap7-Systemes-Lineaires-Methodes-directesSmall.pdf
+│       ├── 📁 Ch_2/
+│       │   ├── 📄 corrige-td3.pdf
+│       │   ├── 📄 td3.pdf
+│       │   ├── 📄 chap2_interpolation polynomial.pdf
+│       │   └── 📄 CH3_Runge-Function.pdf
+│       ├── 📁 Ch_3/
+│       │   ├── 📄 td3.pdf
+│       │   └── 📄 Chap3-Integration.pdf
+│       └── 📁 Ch_1/
+│           ├── 📄 CH2_When-can-Methods-Fail.pdf
+│           ├── 📄 CH2_Nonlinear-equations-lecture-examples.pdf
+│           └── 📄 CH2_Chap2NonLinearEquations-small.pdf
+├── 🔗📁 4_Méthodes numériques -20260619T201145Z-3-001.zip/  (raccourci)
+├── 🔗📁 4_Méthodes numériques /  (raccourci)
+│   ├── 📁 Video fanny/
+│   │   └── 📄 Méthodes numériques.docx
+│   ├── 📁 4_Tp méthodes numérique /
+│   │   ├── 📄 WORK_1.pdf
+│   │   ├── 📄 WORK_2.pdf
+│   │   ├── 📄 WORK_4.pdf
+│   │   ├── 📄 WORK_3.pdf
+│   │   ├── 📄 Sol Work 3 Lagrange’s Interpolation Method.pdf
+│   │   ├── 📄 Sol Work 4 simspon + Trapeze.pdf
+│   │   ├── 📄 Sol Work 1 The Bissection + Newton-raphson.pdf
+│   │   └── 📄 Sol Work 2  jacobi + Gauss-Seidel.pdf
+│   ├── 📁 3_Cntrls/
+│   │   ├── 📁 2015/
+│   │   │   └── 📄 Cntrl.pdf
+│   │   ├── 📁 2016/
+│   │   │   ├── 📄 Ratt.pdf
+│   │   │   └── 📄 Cntrl.pdf
+│   │   ├── 📁 2017/
+│   │   │   └── 📄 Cntrl.pdf
+│   │   ├── 📁 2018/
+│   │   │   └── 📄 Ratt.pdf
+│   │   ├── 📁 2019/
+│   │   │   ├── 📄 Ratt.pdf
+│   │   │   └── 📄 Cntrl.pdf
+│   │   ├── 📁 2021/
+│   │   │   └── 📄 Cntrl.pdf
+│   │   ├── 📁 2022/
+│   │   │   ├── 📄 Interr.pdf
+│   │   │   ├── 📄 Cntrl remplacement.pdf
+│   │   │   ├── 📄 Interr remplacement.pdf
+│   │   │   └── 📄 Cntrl.pdf
+│   │   ├── 📁 2023/
+│   │   │   ├── 📄 Cntrl.pdf
+│   │   │   └── 📄 Interr.pdf
+│   │   ├── 📁 2024/
+│   │   │   ├── 📄 Ratt.pdf
+│   │   │   ├── 📄 Cntrl.pdf
+│   │   │   ├── 📄 Interr.pdf
+│   │   │   ├── 📄 Interr remplacement.pdf
+│   │   │   └── 📄 Cntrl remplacement.pdf
+│   │   └── 📁 2025/
+│   │       ├── 📄 Interr remplacement.pdf
+│   │       ├── 📄 Ratt.pdf
+│   │       ├── 📄 Cntrl.pdf
+│   │       └── 📄 Interr.pdf
+│   ├── 📁 2_Tds/
+│   │   ├── 📄 Mthodes_Numriques_Partie2_TD_2-1.pdf
+│   │   ├── 📁 Td5/
+│   │   │   ├── 📄 1_Td 5.pdf
+│   │   │   └── 📄 Solution Td 5.pdf
+│   │   ├── 📁 Td4/
+│   │   │   ├── 📄 1_Td 4.pdf
+│   │   │   └── 📄 Solution Td 4.pdf
+│   │   ├── 📁 Td3/
+│   │   │   ├── 📄 1_Td 3.pdf
+│   │   │   └── 📄 Solution Td 3.pdf
+│   │   ├── 📁 Td2/
+│   │   │   ├── 📄 1_Td 2.pdf
+│   │   │   └── 📄 Solution Td 2.pdf
+│   │   └── 📁 Td1/
+│   │       └── 📄 Td 1 avec solution.pdf
+│   └── 📁 1_Cours/
+│       ├── 📄 Mthodes_Numriques_Partie1_Cours_2m-2.pdf
+│       ├── 📄 chapitre 5 Équations différentielles .pdf
+│       ├── 📄 Chapitre 3 Interpolation.pdf
+│       ├── 📄 chapitre 4 Intégration numérique.pdf
+│       ├── 📄 chapitre 2 Résolution des équations linéaires .pdf
+│       └── 📄 Chapitre 1 Résolution des équations non linéaires .pdf
+├── 🔗📁 MN/  (raccourci)
+│   ├── 📁 TP /
+│   │   ├── 📄 TP2 Solution (Crout) .pdf
+│   │   ├── 📄 TP2 Solution (Gauss) .pdf
+│   │   ├── 📄 TP1 .pdf
+│   │   ├── 📄 TP1 Solution .pdf
+│   │   ├── 📄 TP2 .pdf
+│   │   ├── 📄 TP3 .pdf
+│   │   └── 📄 TP3 Solution.pdf
+│   ├── 📁 Cours/
+│   │   ├── 📄 Chapter1 .pdf
+│   │   ├── 📄 Chapter2 .pdf
+│   │   ├── 📄 Chapter4 .pdf
+│   │   ├── 📄 Chapter5 .pdf
+│   │   └── 📄 Chapter3 .pdf
+│   └── 📁 Examen/
+│       ├── 📄 2024 .pdf
+│       ├── 📄 2024 Solution .pdf
+│       ├── 📄 2020 + Solution .pdf
+│       ├── 📄 Ratt 2021 solution .pdf
+│       ├── 📄 Ratt 2021 .pdf
+│       ├── 📄 2022 .pdf
+│       ├── 📄 2021 solution .pdf
+│       ├── 📄 2021 .pdf
+│       ├── 📄 2022 solution .pdf
+│       ├── 📄 2023 .pdf
+│       ├── 📄 2023 solution .pdf
+│       └── 📁 2025/
+│           ├── 📄 2025 .pdf
+│           ├── 📄 IMG_7023.HEIC
+│           ├── 📄 IMG_7021.HEIC
+│           └── 📄 IMG_7022.HEIC
+├── 🔗📁 MNA  (raccourci)
+├── 📄 Méthode Numérique-20260604T201143Z-3-001.zip
+├── 🔗📁 mna/  (raccourci)
+│   ├── 📄 exercice 1-cor ode.pdf
+│   ├── 📄 SERIE 3 _MNA_L2_ELT.pdf
+│   ├── 📄 Chapitre 3 ODE MNA 2020 Ziani.pdf
+│   ├── 📄 SERIE 3   MNA 2020_pdf.pdf
+│   ├── 📄 TD_EX02_Interpolation_newton_Webex.pdf
+│   ├── 📄 TD Méthode numérique.pdf
+│   ├── 📄 SERIE 2   MNA ELT 2020_2.pdf
+│   ├── 📄 Interpolation Polynomiale cours ziani 2020.pdf
+│   ├── 📄 methode num.pdf
+│   ├── 📄 EXAM_M1_ASE_Simul_0910.pdf
+│   ├── 📄 Examen 2 MATLAB.pdf
+│   ├── 📄 examen_MATLAB.pdf
+│   ├── 📁 Exo/
+│   │   ├── 📄 Epreuve_Finale_MNA_2019_cor.pdf
+│   │   ├── 📄 Correction  Exo 2    série 5 MNA 15 juin (1).docx
+│   │   ├── 📄 révision MNA L2 corrigé Ziani.pdf
+│   │   ├── 📄 série 4-intégration numerique solution.PDF
+│   │   ├── 📄 s__rie-2_interpolation correction.pdf
+│   │   ├── 📄 exo4-série1.PDF
+│   │   ├── 📄 TD Méthode numérique_2.pdf
+│   │   ├── 📄 MNA-chapitre_1_ZIANI_revision_19_octobre.pdf
+│   │   ├── 📄 TD_EX02_Interpolation_newton_Webex_2.pdf
+│   │   ├── 📄 Révision MNA   Vendredi   25.pdf
+│   │   ├── 📄 EX3 série 5 MNA-pdf.pdf
+│   │   ├── 📄 Correction Exo 2 série 4 (1).pdf
+│   │   ├── 📄 Correction Exo 2 série 4.pdf
+│   │   ├── 📄 correction EX1 Série 5 MNA-.pdf
+│   │   ├── 📄 Séerie 5 MNA-la dernière.pdf
+│   │   ├── 📄 SERIE 4   MNA Intégration numérique.pdf
+│   │   ├── 📄 série 3_equations différen correction.PDF
+│   │   ├── 📄 Livre-cours-TD-corrigés-MNA.pdf
+│   │   ├── 📄 cours ode ziani.pptx
+│   │   ├── 📄 exo5+mna cour moindre carré.pptx
+│   │   ├── 📄 MNA Lundi13_avril cours.pdf
+│   │   ├── 📄 série-1-MNA-2020-ziani-ELT.pdf
+│   │   └── 📁 corrige serie 4 mna/
+│   │       ├── 📄 corrige serie 4 mna_9.jpg
+│   │       ├── 📄 corrige serie 4 mna_7.jpg
+│   │       ├── 📄 corrige serie 4 mna_6.jpg
+│   │       ├── 📄 corrige serie 4 mna_5.jpg
+│   │       ├── 📄 corrige serie 4 mna_4.jpg
+│   │       ├── 📄 corrige serie 4 mna_3.jpg
+│   │       ├── 📄 corrige serie 4 mna_2.jpg
+│   │       ├── 📄 corrige serie 4 mna_1.jpg
+│   │       └── 📄 serie 4 mna.jpg
+│   └── 📁 cours/
+│       ├── 📄 Livre_cours_TD_corrig_s_MNA.pdf
+│       ├── 📄 Interpolation_Polynomiale_cours_ziani_2020.pdf
+│       ├── 📄 CH1-MNA_ziani_ELT.pdf
+│       ├── 📄 Chapitre_3_ODE_MNA_2020_Ziani.pdf
+│       ├── 📄 cours_ode_ziani_runge.pdf
+│       ├── 📄 Chapitre 5 MNA   Résolution des systèmes linéaires.pdf
+│       ├── 📄 _Chapitre 4 intégration_numerique Ziani _pdf.pdf
+│       ├── 📄 cours ode ziani.pptx
+│       ├── 📄 exo5+mna cour moindre carré.pptx
+│       └── 📄 MNA Lundi13_avril cours.pdf
+├── 📄 Méthode numérique -20260508T202117Z-3-001.zip
+├── 🔗📁 Méthodes Numériques/  (raccourci)
+│   ├── 📄 Résumé2 Méthode numérique L2.pdf · version 1.pdf
+│   ├── 📄 Résumé1 Méthode numérique L2.pdf
+│   ├── 📄 MN_MB.pdf
+│   ├── 📄 Cours_Methodes_Numeriques_Benchikh-Lehocine-Iftikhar.pdf
+│   ├── 📁 Médéa /
+│   │   ├── 📁 TD/
+│   │   │   ├── 📄 Séries TD 4 corrigés (EDP).pdf
+│   │   │   ├── 📄 TD(2) MNAO.pdf
+│   │   │   ├── 📄 TD(3) MNAO..pdf
+│   │   │   └── 📄 TD (1) MNAO.pdf
+│   │   └── 📁 Cours/
+│   │       ├── 📄 resumé (chapitre (EDP)).pdf
+│   │       ├── 📄 chapitre 2(EDO).pdf
+│   │       ├── 📄 Remarque (Méthode de Newton).. (1).pdf
+│   │       └── 📄 Résolution des systèmes d’équations linéaires et non  linéaires.pdf
+│   ├── 📁 Résumé /
+│   │   ├── 📄 Chapitre 1 résolution des équations non linéaires .pdf
+│   │   ├── 📄 Chapitre 4 Résolution des équations différentielles ordinaire .pdf
+│   │   ├── 📄 Chapitre 3 intégration numériques .pdf
+│   │   ├── 📄 Chapitre 2 polynôme d'interpolation .pdf
+│   │   └── 📁 Untitled folder/
+│   │       ├── 📄 Résumé4 Méthode numérique.pdf
+│   │       ├── 📄 Résumé5 Méthode numérique.pdf
+│   │       ├── 📄 Résumé6 Méthode numérique.pdf
+│   │       ├── 📄 Résumé5 Méthode numérique.pdf
+│   │       ├── 📄 Résumé3 Méthode numérique.pdf
+│   │       ├── 📄 Résumé2 Méthode numérique.pdf
+│   │       └── 📄 Résumé1 Méthode numérique.pdf
+│   └── 📁 Laghouat /
+│       ├── 📁 Cours/
+│       │   ├── 📄 المحددات والمصفوفات.pdf
+│       │   ├── 📄 التحليل العددي.PDF
+│       │   ├── 📄 SCFCAnalyse2.pdf
+│       │   ├── 📄 maht 6.PDF.pdf
+│       │   └── 📄 methode nemerique.pdf
+│       ├── 📁 TD/
+│       │   ├── 📄 Image (17).jpg
+│       │   ├── 📄 Image (16).jpg
+│       │   ├── 📄 Image (15).jpg
+│       │   ├── 📄 Image (14).jpg
+│       │   ├── 📄 Image (13).jpg
+│       │   ├── 📄 Image (12).jpg
+│       │   ├── 📄 Image (11).jpg
+│       │   ├── 📄 Image (10).jpg
+│       │   ├── 📄 Image (9).jpg
+│       │   ├── 📄 Image (8).jpg
+│       │   ├── 📄 Image (7).jpg
+│       │   ├── 📄 Image (6).jpg
+│       │   ├── 📄 Image (5).jpg
+│       │   ├── 📄 Image (4).jpg
+│       │   ├── 📄 Image (3).jpg
+│       │   ├── 📄 Image (2).jpg
+│       │   ├── 📄 Image (1).jpg
+│       │   └── 📁 La Série d'exercices /
+│       │       ├── 📄 6 (1).jpg
+│       │       ├── 📄 5 (1).jpg
+│       │       ├── 📄 4 (2).jpg
+│       │       ├── 📄 3 (2).jpg
+│       │       ├── 📄 2 (2).jpg
+│       │       └── 📄 1 (2).jpg
+│       └── 📁 Examens /
+│           ├── 📁 2018/
+│           │   ├── 📄 Screenshot_2019-05-18-12-03-39.png
+│           │   ├── 📄 FB_IMG_15581773893298214.jpg
+│           │   └── 📄 FB_IMG_15581773818802850.jpg
+│           ├── 📁 2017/
+│           │   ├── 📄 4 (1).jpg
+│           │   ├── 📄 2 (1).jpg
+│           │   ├── 📄 3 (1).jpg
+│           │   ├── 📄 1 (1).jpg
+│           │   └── 📄 Examen Méthodes Num 2017.pdf
+│           ├── 📁 2015/
+│           │   ├── 📄 2.jpg
+│           │   ├── 📄 3.jpg
+│           │   ├── 📄 1.jpg
+│           │   ├── 📄 5.jpg
+│           │   ├── 📄 7.jpg
+│           │   ├── 📄 6.jpg
+│           │   └── 📄 4.jpg
+│           └── 📁 2011 à 2013/
+│               ├── 📄 3ExamenSTMethNum2011-2012.pdf
+│               ├── 📄 5CorrigeExamenSTMethNum2011-2012.pdf
+│               ├── 📄 6ExamenTDSTMethNum2011-2012.pdf
+│               ├── 📄 1ExamenSTMethNum2013.pdf
+│               ├── 📄 7CorrigeExamenTDSTMethNum2011-2012.pdf
+│               └── 📄 2CorrectionEMDSTMethNum2013.pdf
+├── 🔗📁 Méthodes numériques/  (raccourci)
+│   ├── 📁 Test TP/
+│   │   ├── 📄 Capture2.PNG
+│   │   ├── 📄 TEST.m
+│   │   ├── 📄 Capture4.PNG
+│   │   ├── 📄 Capture3.PNG
+│   │   └── 📄 Capture.PNG
+│   ├── 📁 Programation/
+│   │   ├── 📄 985.m
+│   │   ├── 📄 RungeKuttaOrdre4.m
+│   │   ├── 📄 Untitled7.m
+│   │   ├── 📄 oscillateur5.m
+│   │   ├── 📄 dhia.m
+│   │   ├── 📄 Untitled9.m
+│   │   ├── 📄 bisect.m
+│   │   ├── 📄 Untitled4.m
+│   │   ├── 📄 Untitled9536.m
+│   │   ├── 📄 Untitled898.m
+│   │   ├── 📄 Untitled23.m
+│   │   ├── 📄 Untitled2.m
+│   │   ├── 📄 Untitled5.m
+│   │   ├── 📄 Untitled77.m
+│   │   ├── 📄 Untitled55.m
+│   │   ├── 📄 Untitled33.m
+│   │   ├── 📄 Untitled2974.m
+│   │   ├── 📄 Untitled2565.m
+│   │   ├── 📄 Untitled8.m
+│   │   ├── 📄 Untitled44.m
+│   │   ├── 📄 Untitled25.m
+│   │   ├── 📄 Untitled223.m
+│   │   ├── 📄 Untitled222222.m
+│   │   ├── 📄 Untitled3.m
+│   │   ├── 📄 methDFC.m
+│   │   ├── 📄 MethLag.m
+│   │   ├── 📄 Untitled.m
+│   │   ├── 📄 Untitled12.m
+│   │   ├── 📄 ra.m
+│   │   ├── 📄 transfert.m
+│   │   ├── 📄 rk4.m
+│   │   ├── 📄 oscillateur.m
+│   │   ├── 📄 k.m
+│   │   ├── 📄 oscillateur3.m
+│   │   ├── 📄 oscillateur2.m
+│   │   ├── 📄 methnewton.m
+│   │   ├── 📄 Mafct.m
+│   │   ├── 📄 euler.m
+│   │   ├── 📄 fd.m
+│   │   ├── 📄 bisection.m
+│   │   ├── 📄 difffini.m
+│   │   ├── 📄 function.m
+│   │   ├── 📄 h.m
+│   │   ├── 📄 f.m
+│   │   ├── 📄 eqtdiff_2ordre.m
+│   │   ├── 📄 awm.m
+│   │   ├── 📄 eqdiff5ord.m
+│   │   ├── 📄 f12.m
+│   │   └── 📄 ra.asv
+│   └── 📁 Cours/
+│       ├── 📄 Polycopie-MEF_kious.pdf
+│       ├── 📄 Methode_Dif_finis.pdf
+│       ├── 📄 Matlab.pdf
+│       ├── 📄 bvpb_kious.pdf
+│       └── 📄 Nouveau_Document_Microsoft_Word.docx
+├── 🔗📁 Méthode numérique /  (raccourci)
+│   ├── 📄 Liste 2022-2023 A.pdf
+│   ├── 📁 Chapitre 4/
+│   │   ├── 📄 Chapitre 4 (1).pdf
+│   │   └── 📄 Serie 4.pdf
+│   ├── 📁 Solution des séries /
+│   │   ├── 📄 Solution Serie 3 (1).pdf
+│   │   ├── 📄 Solution Exo 2 Série 1.pdf
+│   │   ├── 📄 Solution serie 2.pdf
+│   │   ├── 📄 Solution Serie 4.pdf
+│   │   └── 📄 Solution Série 1.pdf
+│   ├── 📁 Les listes/
+│   │   ├── 📄 A2.pdf
+│   │   ├── 📄 A4.pdf
+│   │   ├── 📁 Mn afichage A3--A6 /
+│   │   │   └── 📄 Notes TD MN (A3, A5, A6).pdf
+│   │   └── 📁 Affichage mn /
+│   │       ├── 📄 GR B6.xlsx
+│   │       ├── 📄 GR B1.xlsx
+│   │       ├── 📄 GR B4.xlsx
+│   │       └── 📄 GR B5.xlsx
+│   ├── 📁 Devoir N1 /
+│   │   ├── 📄 Solution Devoir 2 2022-2023.pdf
+│   │   ├── 📄 Solution Devoir VET 2 (Mercredi-Jeudi).pdf
+│   │   ├── 📄 Devoir 1(Dimanche Lundi).pdf
+│   │   └── 📄 Solution Devoir VET 1.pdf
+│   ├── 📁 Chapitre 3/
+│   │   ├── 📄 Serie 3 (1).pdf
+│   │   └── 📄 Chapitre 3 (2).pdf
+│   ├── 📁 Chapitre 2/
+│   │   ├── 📄 Serie 2 (1).pdf
+│   │   └── 📄 Chapitre 2 (6).pdf
+│   └── 📁 Chapitre 1/
+│       ├── 📄 Chapitre1 (3).pdf
+│       └── 📄 Serie 1 2017-2018.pdf
+└── 🔗📁 Méthodes Numériques/  (raccourci)
+    ├── 📄 TP methodes num.rar
+    ├── 📁 Cours/
+    │   ├── 📄 methode nemerique.pdf
+    │   ├── 📄 كتاب التحليل العددي.pdf
+    │   ├── 📄 المحددات والمصفوفات.pdf
+    │   ├── 📄 التحليل العددي.PDF
+    │   ├── 📄 SCFCAnalyse2.pdf
+    │   └── 📄 maht 6.PDF
+    ├── 📁 TP methodes num/
+    │   ├── 📄 TP N6.doc
+    │   ├── 📄 tous les tp de l'informatique  (method numirique.doc
+    │   ├── 📁 TP 4_approx_lin_poly/
+    │   │   ├── 📁 Meth_Appr_Ligne/
+    │   │   │   ├── 📄 TP4.docx
+    │   │   │   └── 📄 MethApprLigne.m
+    │   │   └── 📁 Meth_Appr_Poly/
+    │   │       ├── 📄 Devoir de TP 4.docx
+    │   │       └── 📄 MethApprPoly.m
+    │   ├── 📁 TP 2_Lgrange_Newton/
+    │   │   ├── 📁 interpolation de Lgrange/
+    │   │   │   ├── 📄 TP 2.docx
+    │   │   │   └── 📄 MethLag.m
+    │   │   └── 📁 interpolation de Newton/
+    │   │       ├── 📄 Devoir Tp 2 Photo.docx
+    │   │       ├── 📄 Devoir TP2 2017.docx
+    │   │       ├── 📄 G4.m
+    │   │       └── 📄 Devoir de TP 2.docx
+    │   ├── 📁 TP 5_trapez_simpson/
+    │   │   ├── 📁 MethSimp/
+    │   │   │   ├── 📄 Devoir de TP 5.docx
+    │   │   │   ├── 📄 MethSimp.m
+    │   │   │   └── 📄 f2.m
+    │   │   └── 📁 MethTrap/
+    │   │       ├── 📄 TP 5.docx
+    │   │       ├── 📄 MethTrap.m
+    │   │       └── 📄 f1.m
+    │   ├── 📁 TP 1_Bisection_Newton/
+    │   │   ├── 📁 bisect/
+    │   │   │   ├── 📄 TP 1.docx
+    │   │   │   ├── 📄 f.m
+    │   │   │   └── 📄 bisect.m
+    │   │   └── 📁 Newton/
+    │   │       ├── 📄 Devoir TP1 Photo.docx
+    │   │       └── 📄 Devoir de TP 1.docx
+    │   ├── 📁 TP 3_ Jacobi_LU/
+    │   │   ├── 📁 mjacobi/
+    │   │   │   ├── 📄 TP 3.docx
+    │   │   │   └── 📄 MethJacobi.m
+    │   │   └── 📁 LU/
+    │   │       ├── 📄 Devoir TP3 Photo.docx
+    │   │       ├── 📄 G42.m
+    │   │       ├── 📄 G3.m
+    │   │       ├── 📄 Devoir TP3 2017.docx
+    │   │       └── 📄 Devoir de TP 3.docx
+    │   ├── 📁 autre/
+    │   │   ├── 📄 A.pdf
+    │   │   ├── 📄 The Newton  method.doc
+    │   │   ├── 📄 Nouveau Microsoft Office Word Document.docx
+    │   │   ├── 📄 Nouveau Microsoft Office Word Document (3).docx
+    │   │   ├── 📄 La mèthodes de runge kutta.docx
+    │   │   ├── 📄 Nouveau Microsoft Office Word Document (2).docx
+    │   │   ├── 📄 Les outre méthode.docx
+    │   │   ├── 📄 A copy.pdf
+    │   │   └── 📄 11.docx
+    │   └── 📁 TP 6_Euler_RK4/
+    │       ├── 📁 MethRK4/
+    │       │   ├── 📄 MethRK4.m
+    │       │   ├── 📄 fnc2.m
+    │       │   └── 📄 Devoir TP 6.docx
+    │       └── 📁 Euler/
+    │           ├── 📄 TP 6.docx
+    │           ├── 📄 MethEuler.m
+    │           └── 📄 fnc1.m
+    ├── 📁 Examens/
+    │   ├── 📁 Lagh2012 Et 2013/
+    │   │   ├── 📄 7CorrigeExamenTDSTMethNum2011-2012.pdf
+    │   │   ├── 📄 6ExamenTDSTMethNum2011-2012.pdf
+    │   │   ├── 📄 5CorrigeExamenSTMethNum2011-2012.pdf
+    │   │   ├── 📄 3ExamenSTMethNum2011-2012.pdf
+    │   │   ├── 📄 2CorrectionEMDSTMethNum2013.pdf
+    │   │   └── 📄 1ExamenSTMethNum2013.pdf
+    │   ├── 📁 Lagh2015/
+    │   │   ├── 📄 7.jpg
+    │   │   ├── 📄 6.jpg
+    │   │   ├── 📄 5.jpg
+    │   │   ├── 📄 4.jpg
+    │   │   ├── 📄 3.jpg
+    │   │   ├── 📄 2.jpg
+    │   │   └── 📄 1.jpg
+    │   └── 📁 Lagh2017/
+    │       ├── 📄 Examen Méthodes Num 2017.pdf
+    │       ├── 📄 1.jpg
+    │       ├── 📄 4.jpg
+    │       ├── 📄 3.jpg
+    │       └── 📄 2.jpg
+    └── 📁 TD/
+        ├── 📄 TD Méthod num Lagh 2017.rar
+        ├── 📄 TD Lagh 2017.rar
+        ├── 📄 Mthodes_Numriques_Partie2_TD.pdf
+        └── 📁 TD Lagh 2017/
+            ├── 📄 Image (8).jpg
+            ├── 📄 Image (6).jpg
+            ├── 📄 Image (4).jpg
+            ├── 📄 Image (2).jpg
+            ├── 📄 Image (16).jpg
+            ├── 📄 Image (14).jpg
+            ├── 📄 Image (12).jpg
+            ├── 📄 Image (10).jpg
+            ├── 📄 Image (9).jpg
+            ├── 📄 Image (7).jpg
+            ├── 📄 Image (5).jpg
+            ├── 📄 Image (3).jpg
+            ├── 📄 Image (17).jpg
+            ├── 📄 Image (15).jpg
+            ├── 📄 Image (13).jpg
+            ├── 📄 Image (1).jpg
+            ├── 📄 Image (11).jpg
+            └── 📁 Les séries/
+                ├── 📄 6.jpg
+                ├── 📄 5.jpg
+                ├── 📄 4.jpg
+                ├── 📄 1.jpg
+                ├── 📄 3.jpg
+                └── 📄 2.jpg
+
+═════════════════════════════════════
+  Fin du fichier · Méthode numérique
+═════════════════════════════════════

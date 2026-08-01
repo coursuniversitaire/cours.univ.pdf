@@ -1,0 +1,106 @@
+📚 MODULE : Macroéconomie                             
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Macroéconomie.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Macroéconomie/
+├── 📄 Introduction à la macroéconomie pdf
+├── 📄 Examen corrigé Microeconomie QCM PDF
+├── 📄 Examen corrigé Macroéconomie S2 FSJES 2020 QCM et Questions Fondamentales
+├── 📄 Exercices Macroéconomie pdf Ouverte L2 AES Modèle IS LM Investissement et VAN
+├── 📄 Macroéconomie Les représentations contemporaines modèle IS LM
+├── 📄 Exercices corrigés macroéconomie pdf
+├── 📄 Examen corrigé Microeconomie QCM PDF
+├── 📄 Introduction à la macroéconomie pdf
+├── 📄 Cours détailllé Macroéconomie tous les chapitres pdf
+├── 📄 Analyse des exercices TD Macroéconomie Environnement Économique et Juridique
+├── 🔗📁 Macroéconomie/  (raccourci)
+│   ├── 📄 Chapitre 5.docx
+│   ├── 📄 Chapitre 4.docx
+│   ├── 📄 Chapitre 1.docx
+│   ├── 📄 Chapitre 3.docx
+│   ├── 📄 Chapitre 2.docx
+│   ├── 📄 Chapitre 6.docx
+│   ├── 📄 fiche.docx
+│   └── 📁 TD/
+│       ├── 📄 TD9.docx
+│       ├── 📄 TD6.docx
+│       ├── 📄 TD5.docx
+│       ├── 📄 TD4.docx
+│       ├── 📄 TD3.docx
+│       ├── 📄 TD2.pdf
+│       └── 📄 TD1.docx
+├── 🔗📁 Macroéconomie/  (raccourci)
+│   ├── 📄 Chapitre 5.docx
+│   ├── 📄 Chapitre 4.docx
+│   ├── 📄 Chapitre 3.docx
+│   ├── 📄 Chapitre 6.docx
+│   ├── 📄 Chapitre 2.docx
+│   └── 📄 Chapitre 1.docx
+├── 🔗📁 Macroéconomie  (raccourci)
+├── 🔗📁 Macroéconomie/  (raccourci)
+│   ├── 📄 synthesepjdlegislative2011-111114173520-phpapp02.pdf
+│   ├── 📄 PJDFinal.pdf
+│   ├── 📄 _MACROECONOMIE-.pptx
+│   ├── 📄 _Le.pptx
+│   ├── 📄 redistribution_cor.doc
+│   ├── 📄 PI.pdf
+│   ├── 📄 Les agrégats de la comptabilité nationale.pptx
+│   ├── 📄 L’inflation.pptx
+│   ├── 📄 Macroéconomie.pptx
+│   ├── 📄 LE CHÔMAGE.pptx
+│   ├── 📄 La redistribution des revenus.doc
+│   ├── 📄 La monnaie.pptx
+│   ├── 📄 Accélération de la cadence de mise en œuvre des stratégies sectorielles.docx
+│   ├── 📄 Macro.pptx
+│   └── 📄 Macro éco 2-2.pptx
+├── 🔗📁 Macro économie/  (raccourci)
+│   ├── 📄 Equilibre Global (1).doc
+│   ├── 📄 Cours complet de Macro-économie.pdf
+│   ├── 📄 TD 3.doc
+│   ├── 📄 TD 2.doc
+│   ├── 📄 TD 1.docx
+│   ├── 📄 résumé macro chap.docx
+│   ├── 📄 multiplicateur  et accélérateur (1).docx
+│   ├── 📄 modele_IS-LM (1).pdf
+│   ├── 📄 macro_exercices_2.pdf
+│   ├── 📄 L_investissement (1).docx
+│   ├── 📄 introduction-a-la-macroeconomie.pdf
+│   ├── 📄 Exercices d application IS-LM L2 AES.pdf
+│   ├── 📄 Exercice 1 - ISLM - Corrige.pdf
+│   ├── 📄 Demande Globale (1).doc
+│   ├── 📄 Cours Macro 2013.docx
+│   ├── 📄 1524238_607706039265126_1006894771_o.jpg
+│   ├── 📄 1504206_685312021520317_1840756320_o.jpg
+│   └── 📄 1495142_607705899265140_1785642079_o.jpg
+├── 🔗📁 Macroéconomie/  (raccourci)
+│   ├── 📄 Pr. Lalla Saadia Hamidi Macroéconomie covd19-converti.pdf
+│   └── 📄 résumé macro par Karim.pdf
+└── 📁 TDs/
+    ├── 📄 Exercices TD Macroéconomie 2013 2014 Benamar Fatiha Circuit Economique PIB Investissement
+    ├── 📄 Exercices TD Macroéconomie 2013 2014 Benamar Fatiha Circuit Economique PIB Investissement
+    ├── 📄 TD2 macroéconomie Economie Politique Monétaire et Climat Macroéconomie
+    ├── 📄 Questions corrigées macroéconomie Monetaire et Bancaire Epargne Liquide Masse Monetaire USA Zone Euro Macroéconomie
+    ├── 📄 TD6 : Les bases du modèle IS-LM macroéconomie Demande Monnaie et Taux Interet
+    ├── 📄 TD2 macroéconomie Economie Politique Monétaire et Climat Macroéconomie
+    ├── 📄 Exercices TD4 macroéconomie la courbe de Phillips macroeconomie keynesienne classique Macroéconomie
+    ├── 📄 Exercices Macroéconomie TD4 Transition Ecologique Analyse Production Potentielle et Techno Optimisme
+    ├── 📄 Exercices TD Analyse Macroéconomique Crise Sanitaire 2020 et Secteurs Contraints Macroéconomie
+    ├── 📄 Exercices TD Economie Les mutations capitalisme et les intangibles Macroéconomie
+    ├── 📄 Exercices TD Macroéconomie Consommation et Epargne Fonctions Keynésiennes
+    ├── 📄 Exercices TD Macroéconomie 2013 2014 Benamar Fatiha Circuit Economique PIB Investissement
+    └── 📄 Exercices TD Macroéconomie 2013 2014 Benamar Valeur Ajoutée et PIB
+
+═════════════════════════════════════
+  Fin du fichier · Macroéconomie
+═════════════════════════════════════

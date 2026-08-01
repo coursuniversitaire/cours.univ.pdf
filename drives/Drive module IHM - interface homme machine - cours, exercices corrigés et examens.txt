@@ -1,0 +1,244 @@
+📚 MODULE : IHM - interface homme machine             
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module IHM - interface homme machine.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 IHM - interface homme machine/
+├── 🔗📁 IHM/  (raccourci)
+│   ├── 📁 TP/
+│   │   ├── 📄 Support TP.pptx
+│   │   └── 📄 Description Projet Biometric.docx
+│   └── 📁 Cours/
+│       ├── 📄 Resume.pdf
+│       ├── 📄 cours4.pdf
+│       ├── 📄 Cours3.pdf
+│       ├── 📄 Cours1-1.pdf
+│       └── 📄 Cours2.pdf
+├── 🔗📁 IHM/  (raccourci)
+│   ├── 📁 COURS/
+│   │   ├── 📄 Les éléments d_un IHM.pdf
+│   │   ├── 📄 COURS4. PROCESSUS DE DEVELOPEMENT.pdf
+│   │   ├── 📄 COURS3. ERGONOMIE DES INTERFACES.pdf
+│   │   ├── 📄 COURS2. NOTIONS DE BASE SUR LES SCIENCES COGNITIVES.pdf
+│   │   ├── 📄 RÉSUMÉ IHM.pdf
+│   │   ├── 📄 NEW_RESUME_IHM.pdf
+│   │   ├── 📄 COURS6. EVALUATION DES IHM.pdf
+│   │   ├── 📄 Méthode_Keystroke.pdf
+│   │   ├── 📄 COURS5. MODELES ARCHITECTURAUX DES SYSTEMES INTERACTIFS.pdf
+│   │   ├── 📄 COURS1. INTRODUCTION AUX IHM.pdf
+│   │   ├── 📄 régle-ergonomique.docx
+│   │   ├── 📄 Keystroke.doc
+│   │   └── 📄 .DS_Store
+│   ├── 📁 TP/
+│   │   ├── 📄 Support TP.pptx
+│   │   ├── 📄 Mini projet.pdf
+│   │   ├── 📄 TP2-Corrigé type.pdf
+│   │   ├── 📄 Evaluation 3 et corrigé.pdf
+│   │   ├── 📄 .DS_Store
+│   │   ├── 📄 TP1 IHM.pdf
+│   │   ├── 📁 mini_projet/
+│   │   │   ├── 📄 READ.txt
+│   │   │   ├── 📄 mini_projet.png
+│   │   │   ├── 📄 DB.sql
+│   │   │   ├── 📄 index.php
+│   │   │   ├── 📄 .DS_Store
+│   │   │   ├── 📁 view/
+│   │   │   │   ├── 📄 vote.php
+│   │   │   │   ├── 📄 footer.php
+│   │   │   │   ├── 📄 sidebar.php
+│   │   │   │   ├── 📄 statistique.php
+│   │   │   │   ├── 📄 header.php
+│   │   │   │   ├── 📄 editevote.php
+│   │   │   │   └── 📄 allvote.php
+│   │   │   ├── 📁 models/
+│   │   │   │   ├── 📄 Choix.php
+│   │   │   │   ├── 📄 Vote.php
+│   │   │   │   └── 📄 database.php
+│   │   │   ├── 📁 vendor/
+│   │   │   │   ├── 📄 .DS_Store
+│   │   │   │   ├── 📁 jquery/
+│   │   │   │   │   ├── 📄 jquery.js
+│   │   │   │   │   └── 📄 jquery.min.js
+│   │   │   │   ├── 📁 palette/
+│   │   │   │   │   └── 📄 palette.js
+│   │   │   │   ├── 📁 DataTables/
+│   │   │   │   │   ├── 📄 datatables.min.js
+│   │   │   │   │   ├── 📄 datatables.css
+│   │   │   │   │   ├── 📄 datatables.min.css
+│   │   │   │   │   ├── 📄 datatables.js
+│   │   │   │   │   ├── 📄 .DS_Store
+│   │   │   │   │   └── 📁 DataTables-1.10.16/
+│   │   │   │   │       ├── 📄 .DS_Store
+│   │   │   │   │       ├── 📁 js/
+│   │   │   │   │       │   ├── 📄 jquery.dataTables.js
+│   │   │   │   │       │   ├── 📄 dataTables.jqueryui.min.js
+│   │   │   │   │       │   ├── 📄 dataTables.semanticui.min.js
+│   │   │   │   │       │   ├── 📄 jquery.dataTables.min.js
+│   │   │   │   │       │   ├── 📄 dataTables.foundation.min.js
+│   │   │   │   │       │   ├── 📄 dataTables.semanticui.js
+│   │   │   │   │       │   ├── 📄 dataTables.jqueryui.js
+│   │   │   │   │       │   ├── 📄 dataTables.bootstrap4.min.js
+│   │   │   │   │       │   ├── 📄 dataTables.foundation.js
+│   │   │   │   │       │   ├── 📄 dataTables.bootstrap4.js
+│   │   │   │   │       │   ├── 📄 dataTables.bootstrap.min.js
+│   │   │   │   │       │   └── 📄 dataTables.bootstrap.js
+│   │   │   │   │       ├── 📁 images/
+│   │   │   │   │       │   ├── 📄 sort_desc_disabled.png
+│   │   │   │   │       │   ├── 📄 sort_asc.png
+│   │   │   │   │       │   ├── 📄 sort_both.png
+│   │   │   │   │       │   ├── 📄 sort_desc.png
+│   │   │   │   │       │   └── 📄 sort_asc_disabled.png
+│   │   │   │   │       └── 📁 css/
+│   │   │   │   │           ├── 📄 foundation.min.css
+│   │   │   │   │           ├── 📄 dataTables.semanticui.min.css
+│   │   │   │   │           ├── 📄 jquery.dataTables.min.css
+│   │   │   │   │           ├── 📄 dataTables.foundation.min.css
+│   │   │   │   │           ├── 📄 dataTables.jqueryui.min.css
+│   │   │   │   │           ├── 📄 jquery.dataTables.css
+│   │   │   │   │           ├── 📄 dataTables.semanticui.css
+│   │   │   │   │           ├── 📄 dataTables.bootstrap4.min.css
+│   │   │   │   │           ├── 📄 dataTables.foundation.css
+│   │   │   │   │           ├── 📄 dataTables.jqueryui.css
+│   │   │   │   │           ├── 📄 dataTables.bootstrap.min.css
+│   │   │   │   │           ├── 📄 dataTables.bootstrap4.css
+│   │   │   │   │           └── 📄 dataTables.bootstrap.css
+│   │   │   │   ├── 📁 bootstrap/
+│   │   │   │   │   ├── 📄 .DS_Store
+│   │   │   │   │   ├── 📁 fonts/
+│   │   │   │   │   │   ├── 📄 glyphicons-halflings-regular.woff2
+│   │   │   │   │   │   ├── 📄 glyphicons-halflings-regular.svg
+│   │   │   │   │   │   ├── 📄 glyphicons-halflings-regular.woff
+│   │   │   │   │   │   ├── 📄 glyphicons-halflings-regular.ttf
+│   │   │   │   │   │   └── 📄 glyphicons-halflings-regular.eot
+│   │   │   │   │   ├── 📁 css/
+│   │   │   │   │   │   ├── 📄 bootstrap.min.css.map
+│   │   │   │   │   │   ├── 📄 bootstrap.css.map
+│   │   │   │   │   │   ├── 📄 bootstrap.css
+│   │   │   │   │   │   ├── 📄 bootstrap-theme.min.css
+│   │   │   │   │   │   ├── 📄 bootstrap.min.css
+│   │   │   │   │   │   ├── 📄 bootstrap-theme.css
+│   │   │   │   │   │   ├── 📄 bootstrap-theme.min.css.map
+│   │   │   │   │   │   └── 📄 bootstrap-theme.css.map
+│   │   │   │   │   └── 📁 js/
+│   │   │   │   │       ├── 📄 bootstrap.min.js
+│   │   │   │   │       ├── 📄 npm.js
+│   │   │   │   │       └── 📄 bootstrap.js
+│   │   │   │   └── 📁 chart/
+│   │   │   │       └── 📄 chart.js
+│   │   │   └── 📁 css/
+│   │   │       └── 📄 simple-sidebar.css
+│   │   └── 📁 Layout OCR/
+│   │       ├── 📄 Positionner des boutons - Apprenez à programmer en Java - OpenClassrooms.html
+│   │       ├── 📄 .DS_Store
+│   │       └── 📁 Positionner des boutons - Apprenez à programmer en Java - OpenClassrooms_fichiers/
+│   │           ├── 📄 vendors-1c5d1cf2.js
+│   │           ├── 📄 track.js
+│   │           ├── 📄 video-js.css
+│   │           ├── 📄 polyfill.js
+│   │           ├── 📄 master-3cded050.css
+│   │           ├── 📄 theme-ace-openclassrooms.js
+│   │           ├── 📄 main-b1541643.css
+│   │           ├── 📄 insight.js
+│   │           ├── 📄 nr-1059.js
+│   │           ├── 📄 mode-java.js
+│   │           ├── 📄 logo_logo-oc.png
+│   │           ├── 📄 common-ccd27c91.js
+│   │           ├── 📄 fbevents.js
+│   │           ├── 📄 certif.jpg
+│   │           ├── 📄 gtm.js
+│   │           ├── 📄 courseView-b4cf9a9f.js
+│   │           ├── 📄 conversion_async.js
+│   │           ├── 📄 bat.js
+│   │           ├── 📄 blueshift.js
+│   │           ├── 📄 analytics.js
+│   │           ├── 📄 396523.png
+│   │           ├── 📄 396521.png
+│   │           ├── 📄 analytics_002.js
+│   │           ├── 📄 396518.png
+│   │           ├── 📄 amplitude-3.js
+│   │           ├── 📄 396522.png
+│   │           ├── 📄 396515.png
+│   │           ├── 📄 396520.png
+│   │           ├── 📄 396512.png
+│   │           ├── 📄 396517.png
+│   │           ├── 📄 396514.png
+│   │           ├── 📄 396510.png
+│   │           ├── 📄 396505.png
+│   │           ├── 📄 396511.png
+│   │           ├── 📄 396506.png
+│   │           └── 📄 14688532018551_ESGI_master_logo%201%20-%20copie%202.png
+│   ├── 📁 CONTRÔLES/
+│   │   └── 📄 Contrôles_TD_IHM_avec_corrigés.pdf
+│   └── 📁 TD/
+│       ├── 📄 TD_IHM_SOL_Khouloud.pdf
+│       ├── 📄 TD_IHM.pdf
+│       ├── 📄 SOL_TD4_IHM.docx
+│       ├── 📄 LAST_TD_IHM.txt
+│       └── 📄 .DS_Store
+├── 📄 S6 FPO SMI INTERFACE HOMME MACHINE-20260423T193627Z-3-001.zip
+├── 📁 Tds/
+│   ├── 📄 LAST_TD_IHM.txt
+│   ├── 📄 SOL_TD4_IHM.docx
+│   ├── 📄 TD_IHM_SOL_Khouloud.pdf
+│   └── 📄 TD_IHM.pdf
+├── 📁 EXAMS/
+│   ├── 📄 Contrôles_TD_IHM_avec_corrigés.pdf
+│   ├── 📄 ExamIHMSIQ2019_2020Cor_1.pdf
+│   ├── 📄 ExamIHMISIL2021_2022Solution.pdf
+│   ├── 📄 ExamIHMISIL2019_2020Correction.pdf
+│   ├── 📄 ExamIHMISIL2017_2018-solution.pdf
+│   ├── 📄 ExamenIHMSIQ2021_2022Solution_1.pdf
+│   ├── 📄 ExamenIHMISIL2020_2021Solution.pdf
+│   ├── 📄 Suj2022_2023.pdf
+│   ├── 📄 SolutionExamIHM2022_2023.pdf
+│   ├── 📄 resume-ihm.pdf
+│   ├── 📄 ExamIHMSIQ2019_2020Cor (1).pdf
+│   ├── 📄 ExamenIHMSIQ2020_2021Corr (1).pdf
+│   └── 📄 InteroIHM2022_2023Solution699.pdf
+├── 📁 SOLUTION TP/
+│   ├── 📁 SOLUTION TP5/
+│   │   ├── 📄 Serie4MVCPartie1 (1).pdf
+│   │   ├── 📄 Serie4MVCPartie3 (1).pdf
+│   │   ├── 📄 Serie4MVCPartie2 (1).pdf
+│   │   └── 📄 Presentation_ihm (1).odp
+│   ├── 📁 SOLUTION TP4/
+│   │   └── 📄 Copie-de-Tp-4-ihm.pptx
+│   ├── 📁 SOLUTION TP3/
+│   │   ├── 📄 tpihmm3.pptx
+│   │   └── 📄 presentation-de-Tp3 (1).pptx
+│   └── 📁 SOLUTION TP2/
+│       └── 📄 Solution-tp2-IHM-2.pdf
+├── 📁 TP/
+│   ├── 📄 TP5.pdf
+│   ├── 📄 TP4_2.pdf
+│   ├── 📄 TP3_4 (5).pdf
+│   ├── 📄 TP2_3 (4).pdf
+│   ├── 📄 TP1_1.pdf
+│   └── 📁 Tps/
+│       ├── 📄 Evaluation 3 et corrigé.pdf
+│       ├── 📄 Mini projet.pdf
+│       ├── 📄 TP1 IHM.pdf
+│       └── 📄 TP2-Corrigé type.pdf
+└── 📁 COURS/
+    ├── 📄 chap4-Ergonomie-des-Interfaces.pdf
+    ├── 📄 chap3Les-sciences-cognitives30_1.pdf
+    ├── 📄 chap2-JavaFX_Partie3_Event_Handler (1).pdf
+    ├── 📄 chap2-JavaFX_Partie3_Event_Handler.pdf
+    ├── 📄 chap2_JavaFX_Partie2_Layouts_panes_1.pptx
+    ├── 📄 chap2-JavaFXPartie1.pdf
+    ├── 📄 chap2-GUI-en-JavaFxPartie0.pdf
+    └── 📄 chap1Introduction-aux-IHM.pdf
+
+═════════════════════════════════════
+  Fin du fichier · IHM - interface homme machine
+═════════════════════════════════════

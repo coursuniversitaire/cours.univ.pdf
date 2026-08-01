@@ -1,0 +1,310 @@
+📚 MODULE : marketing                                 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module marketing.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 marketing/
+├── 🔗📁 cours de marketing/  (raccourci)
+│   ├── 📄 power point COURS MARKETING 2-modifié.ppt
+│   ├── 📄 mkt.doc
+│   └── 📁 cours de marketingg/
+│       ├── 📄 power point COURS MARKETING 2-modifié.ppt
+│       └── 📄 mkt.doc
+├── 📄 Qcm-Et-Exercice-Marketing.pdf
+├── 📄 qcm marketing.pdf
+├── 📄 qcm marketing.pdf
+├── 📄 QCM Corrigé marketing de base ENCG CASA.pdf
+├── 📄 Exercice-corrige-marketing-approfondi.pdf
+├── 🔗📁 M MARKETING AIN CHOCK/  (raccourci)
+│   ├── 📄 epreuve de selection écrite.pdf
+│   ├── 📄 Exemple de Concours Master Marketing 2019-2020 - Fsjes Ain Chock (3).jpg
+│   ├── 📄 Exemple de Concours Master Marketing 2019-2020 - Fsjes Ain Chock (2).jpg
+│   ├── 📄 Exemple de Concours Master Marketing 2019-2020 - Fsjes Ain Chock (1).jpg
+│   ├── 📄 Marketing Ain Chock 2014 (2).jpg
+│   ├── 📄 Marketing Ain Chock 2014.jpg
+│   ├── 📄 Marketing Ain Chock 2015.jpg
+│   ├── 📄 Marketing Ain Chock 2014 (3).jpg
+│   ├── 📁 Master Marketing Ain chock 2014/
+│   │   ├── 📄 Screenshot_20170902-213721.png
+│   │   └── 📄 marketing-fsjes-ain-chock.jpg
+│   ├── 📁 Master Marketing Ain chock 2015/
+│   │   └── 📄 14441125_10207479718446441_7574939775296486168_n.jpg
+│   └── 📁 Master Marketing Ain chock 2016/
+│       ├── 📄 FB_IMG_1500197167038.jpg
+│       └── 📄 FB_IMG_1500197179723.jpg
+├── 🔗📁 Marketing approfondi/  (raccourci)
+│   ├── 📄 td3_MKG.docx
+│   ├── 📄 Support-Cours-Marketing-approfondi.ppt
+│   ├── 📄 Listes des projets en marketing approfondie - SectionB-.pdf
+│   ├── 📄 Liste _MARKET_APP_SEC_B_1516.docx
+│   ├── 📄 Fiche de lecture - Acte d_achat et trop plein d_informations  - les echos.doc
+│   ├── 📄 Cas 3.pdf
+│   ├── 📄 Cas 2.pdf
+│   ├── 📄 Cas 1.pdf
+│   ├── 📄 Article PartiPris11.pdf
+│   └── 📁 Circuit Touristique/
+│       ├── 📄 Sahara From Above.docx
+│       ├── 📄 South from above.docx
+│       ├── 📄 South from above comcom.docx
+│       ├── 📄 Programme.docx
+│       ├── 📄 Programme-détaillé-1.docx
+│       ├── 📄 politique produit.docx
+│       ├── 📄 PLAN DU TRAVAIL_mkg.docx
+│       ├── 📄 Marketing opérationnel_prix.docx
+│       ├── 📄 MARKETING STRATEGIQUE_ciblage.docx
+│       ├── 📄 Le-positionnement.docx
+│       ├── 📄 ETUDE DOCUMENTAIRE_OFFRE.docx
+│       ├── 📄 Descriptif des villes.docx
+│       └── 📁 Rapport final+affiche/
+│           ├── 📄 P2.png
+│           └── 📄 affiche.jpg
+├── 🔗📁 - Marketing de base/  (raccourci)
+│   ├── 📄 neuromarketing-2.pptx
+│   ├── 📄 mkt du sport (1) (2).ppt
+│   ├── 📄 merchandising modifié.pptx
+│   ├── 📄 Marketing Mix.pptx
+│   ├── 📄 Marketing des services.pptx
+│   ├── 📄 Les-stratégies-de-marketing.pptx
+│   ├── 📄 E-marketing.pptx
+│   ├── 📄 E-Marketing.pdf
+│   ├── 📄 cours_marketing_s4-2013_partieii1_2.ppt
+│   ├── 📄 communication hors media S4 section A.pptx
+│   ├── 📄 Tendances.docx
+│   ├── 📄 Trois médailles d’or de l’Oréal.docx
+│   ├── 📄 Présentation3.pptx
+│   ├── 📄 Planning Marketing.docx
+│   ├── 📄 Négociation Commercial Final - Marketing.pptx
+│   ├── 📄 NOUVEAU HOMEODOSSEUR.docx
+│   ├── 📄 Neuromarketing.pptx
+│   ├── 📄 MARQUE ET PACKAGING 3.pptx
+│   ├── 📄 marketing_yann.pdf
+│   ├── 📄 MARKETING VIRAL.pptx
+│   ├── 📄 marketing de politique.pptx
+│   ├── 📄 Marketing de distribution.pptx
+│   ├── 📄 Les influenceurs.docx
+│   ├── 📄 Le marketing.docx
+│   ├── 📄 Le concept de produit.docx
+│   ├── 📄 la communication marketing.pptx
+│   ├── 📄 la culture marocaine.docx
+│   ├── 📄 Intro au Marketing.ppt
+│   ├── 📄 expos.docx
+│   ├── 📄 Devine qui achètra demain.docx
+│   ├── 📄 Club Med branche les jeunes avec OYYO.docx
+│   ├── 📄 classe sociale au maroc.docx
+│   ├── 📄 4 LES STRATEGIES.docx
+│   ├── 📁 cours/
+│   │   ├── 📄 PLAN DU COURS MARKETING DE BASE.doc
+│   │   ├── 📄 cours de marketing de base.ppsx
+│   │   └── 📄 Cours de marketing complet.docx
+│   └── 📁 Le comportement du consommateur/
+│       ├── 📄 Séance 2.ppt
+│       ├── 📄 Le_Comportement_du_Consommateur_2.pptx
+│       ├── 📄 PLAN DE TRAVAIL.docx
+│       ├── 📄 LES FACTEURES QUI INFLUENCENT LE COMPORTEMENT DU CONSOMMATEUR.docx
+│       ├── 📄 LeConsommateur.ppt
+│       ├── 📄 Le Comportement du Consommateur.pptx
+│       ├── 📄 LE COMPORTEMENT DU CONSOMMATEUR 2014.pptx
+│       ├── 📄 Le comportement du consommateur version intégrale.docx
+│       ├── 📄 INTRODUCTION GENERALE+ 1ER AXE.docx
+│       ├── 📄 3ème ax1.docx
+│       ├── 📄 4ème AXE.docx
+│       └── 📄 . Les étapes du processus d’achat.docx
+├── 🔗📁 Marketing/  (raccourci)
+│   ├── 📄 cours-strategie-marketing.doc
+│   ├── 📄 version corrigee.pdf
+│   ├── 📄 Synthse_sur_les_choix_stratgiques_de_l.pdf
+│   ├── 📄 swot-hp.pdf
+│   ├── 📄 swot-facebook.pdf
+│   ├── 📄 Samsung_final1.ppt
+│   ├── 📄 Résumé_Marketing_Stratégique.docx
+│   ├── 📄 rèsumer_marketing.pdf
+│   ├── 📄 Resuuuuumé.pdf
+│   ├── 📄 pestel-facebook.pdf
+│   ├── 📄 part1_Pointet.pdf
+│   ├── 📄 nouvelle présentation MKG stratégqiue new.pdf.pdf
+│   ├── 📄 Mini_Manuel_de_Marketing-par---www.heights-book.blogspot.com--.pdf
+│   ├── 📄 matrice-pestel-samsung.pdf
+│   ├── 📄 Marketing_Management_-_Millenium_Edition.pdf
+│   ├── 📄 Marketing.pdf
+│   ├── 📄 marketing-strategique-et-operationnel-www-vosbooks-com.pdf
+│   ├── 📄 marketing-r_sum_.pdf
+│   ├── 📄 Marketing-resume-trés-court-5-1-1.docx_1494366756139.pdf
+│   ├── 📄 marketing-matrice-adl.pdf
+│   ├── 📄 Marketing Stratégique AGC TSGE.pdf
+│   ├── 📄 M17_Marketing_Strategique-AGC-TSGE_www.bac-ofppt.blogspot.com.pdf
+│   ├── 📄 M03-Marketing-Stratégique.pdf
+│   ├── 📄 les-cinq-forces-de-porter.pdf
+│   ├── 📄 Les Choix stratégie.pdf
+│   ├── 📄 le-marketing-book-2015-par-digischool-commerce.pdf
+│   ├── 📄 guide4-marketing-version-finale.pdf
+│   ├── 📄 Etudes Marketing.pdf
+│   ├── 📄 EFM Marketing Stratégique Page 4.pdf.pdf
+│   ├── 📄 EFM Marketing Stratégique Page 3.pdf.pdf
+│   ├── 📄 EFM Marketing Stratégique Page 2.pdf.pdf
+│   ├── 📄 EFM Marketing Stratégique Page  1.pdf.pdf
+│   ├── 📄 E-marketing.pdf
+│   ├── 📄 définitions-marketing-11.pdf-1.pdf
+│   ├── 📄 définitions marketing.docx
+│   ├── 📄 définition MRKT.pdf
+│   ├── 📄 cours-marketing-a0003.pdf
+│   ├── 📄 Cours-La-planification-Stratégique-lOrganisation-des-Entreprises-Par-Mr-Labiad-Zakaria.pdf
+│   ├── 📄 Cours managent Strategique partie 2 Mlle Maleanine (S6 Gestion).pdf
+│   ├── 📄 analyse-swot-samsung.pdf
+│   ├── 📄 9782311400441.pdf
+│   ├── 📄 9782297025539.pdf
+│   ├── 📄 -pestel-hp.pdf
+│   ├── 📄 -matrice-swot-das-porter-mc-kinsey.pdf
+│   └── 📄 strategies-emarketing.pdf
+├── 📄 Exercice 2.pdf
+├── 📄 cours AXE II Comprendre le marché industriel.pdf
+├── 📄 AXE I- Le marketing industriel et ses spécificités.pdf
+├── 📄 introdu mkt.pdf
+├── 📁 Qcm et sujets/
+│   ├── 📄 MASTER-CCA-QCM-2020-MANDOUR.pdf
+│   ├── 📄 MASTER-MARKETING-QCM-2020-MANDOUR.pdf
+│   ├── 📄 66644941_2352684341613494_4619831024472293376_o.jpg
+│   ├── 📄 66412649_2352684521613476_2356594799504523264_o.jpg
+│   ├── 📄 s1-sujet-rc3a9visions.pdf
+│   ├── 📄 qcmm.docx
+│   ├── 📄 qcm-strategie-industrielle.pdf
+│   ├── 📄 qcm marketing.pdf
+│   ├── 📄 QCM Corrigé marketing de base ENCG CASA.pdf
+│   ├── 📄 management-strategique-et-operationnel-c.pdf
+│   ├── 📄 Exercice-corrige-marketing-approfondi.pdf
+│   ├── 📄 478318281-410660980-QCM-en-Management-Strategique-pdf.pdf
+│   ├── 📄 456266245-Qcm-Diagnostic-Marketing.pdf
+│   ├── 📄 410660980-QCM-en-Management-Strategique.docx
+│   ├── 📄 381001940-Qcm-Et-Exercice-Marketing.pdf
+│   ├── 📄 372953233-Marketing-Qcm.pdf
+│   ├── 📄 369970884-175145629-QCM-Marketing-pdf.pdf
+│   ├── 📄 355687734-Qcm-Marketing-3.pdf
+│   ├── 📄 25 questions QCM Marketing Corrigés ENCG SETTAT.pdf
+│   ├── 📄 2.jpg
+│   ├── 📄 2 (2).jpg
+│   ├── 📄 2 (1).jpg
+│   ├── 📄 1.jpg
+│   ├── 📄 1-converti.pdf
+│   ├── 📄 1 (1).jpg
+│   ├── 📄 1 (2).jpg
+│   ├── 🔗📁 MARKETING ACTION COMMERCIALE SETTAT/  (raccourci)
+│   │   ├── 📄 marketing-et-action-commerciale.png
+│   │   ├── 📄 67091651_3031602643546577_4262436320346898432_n.png
+│   │   ├── 📄 4.png
+│   │   ├── 📄 3.png
+│   │   ├── 📄 2.png
+│   │   ├── 📄 1.png
+│   │   ├── 📁 Master Marketing Settat 2015/
+│   │   │   └── 📄 Screenshot_20170902-005059.jpg
+│   │   └── 📁 Master Marketing Settat 2016/
+│   │       └── 📄 FB_IMG_1504302182203.jpg
+│   ├── 🔗📁 ENCG AGADIR MARKETING TOURISTIQUE/  (raccourci)
+│   │   ├── 📄 WhatsApp Image 2020-09-30 at 15.41.41.jpeg
+│   │   ├── 📄 Exemple de Concours Master Marketing et Management Touristique 2017-2018 - ENCG Agadir.jpg
+│   │   └── 📁 Master Marketing et management touristique ENCG AGADIR 2016/
+│   │       └── 📄 received_1183647731711250.jpeg
+│   ├── 🔗📁 MARKETING ET STRATEGIE COMMERCIAL MKS/  (raccourci)
+│   │   ├── 📄 sujet-géneral.png
+│   │   └── 📁 Master Marketing Meknes 2016/
+│   │       └── 📄 20106831_677999235723738_6246406294339666399_n.jpg
+│   └── 🔗📁 MARKETING STRAT ET MANAGEMENT COMMERCIAL/  (raccourci)
+│       ├── 📄 QCM-MSMCE-2020-mandour.pdf
+│       ├── 📄 MASTER-MARKETING-QCM-2020-MANDOUR.pdf
+│       ├── 📄 13709815_10210203724399700_2517540727094885854_n.jpg
+│       ├── 📄 14369857_1317966541577465_7988913462622225837_n.jpg
+│       ├── 📄 8.png
+│       ├── 📄 7.png
+│       ├── 📄 6.png
+│       ├── 📄 5.png
+│       ├── 📄 4.png
+│       ├── 📄 3.png
+│       ├── 📄 2.png
+│       ├── 📄 1.png
+│       ├── 📁 Master Marketing et management commercial souissi 2016/
+│       │   ├── 📄 20375949_1903429993240620_9176077121213422721_n.jpg
+│       │   ├── 📄 20375813_1903430099907276_8481943638990969949_n.jpg
+│       │   ├── 📄 20476147_1903430093240610_8640846161854723354_n.jpg
+│       │   ├── 📄 20525377_1903429969907289_8477621028887196766_n.jpg
+│       │   ├── 📄 20476350_1903429999907286_8701240909005151826_n.jpg
+│       │   ├── 📄 20431675_1903429963240623_6576150643720059314_n.jpg
+│       │   └── 📄 20525267_1903430116573941_4510091507781354509_n.jpg
+│       └── 📁 Master Marketing et management commercial souissi/
+│           └── 📄 TEST Concours d_acc_s au Master sp_cialis_ Marketing et Management Commercial..jpg
+└── 📁 old/
+    ├── 📄 cours ex Marketing-and-market-research.pdf
+    ├── 📄 __exm descri MARKETING ET ETUDE DE MARCHE - Délimitation du contenu objet d’examen – Session Printemps 2020.pdf
+    ├── 📄 usmba.  Intro-generale-marketing.pdf
+    ├── 📄 devoir.zip
+    ├── 📁 Ensa/
+    │   ├── 📄 The-case-method-and-the-marketing-plan.pdf
+    │   ├── 📄 ensa Examen type de marketing et étude de marhé.pdf
+    │   ├── 📁 Marketing/
+    │   │   ├── 📄 chap1 Marketing_Intro.pdf
+    │   │   ├── 📄 chap4 COMMUNICATION.pdf
+    │   │   ├── 📄 chap2 PRODUIT.pdf
+    │   │   ├── 📄 chap3 PRIX .pdf
+    │   │   ├── 📄 devoir  Marketing et Etudes de Marché (1).docx
+    │   │   ├── 📄 chap5 distribution.pdf
+    │   │   ├── 📄 old resume arbre MARKETING.pdf
+    │   │   ├── 📄 __exemples d'etude de cas.txt
+    │   │   └── 📁 devoir/
+    │   │       ├── 📄 Contrôle en Marketing et Etudes de Marché (1).docx
+    │   │       ├── 📄 etude de danon.pdf
+    │   │       ├── 📄 fdocuments.net_la-strategie-marketing-de-mercedes-benz.pptx
+    │   │       ├── 📄 marketing tahiri devoir.pdf
+    │   │       ├── 📄 omar Contrôle-en-Marketing-et-Etudes-de-Marché-1 (1).docx
+    │   │       ├── 📄 Contrôle-en-Marketing-et-Etudes-de-Marché-1 (1).docx
+    │   │       ├── 📄 Contrôle-en-Marketing-et-Etudes-de-Marché-1.docx
+    │   │       └── 📄 Mercedes et le marketing.docx
+    │   ├── 📁 étude de marché/
+    │   │   ├── 📄 old resume arbre MARCHE.pdf
+    │   │   ├── 📄 MARCHE exemple Cas pratique _Rapport détude -Magasin de loisirs créatifs pour enfants -Creatests.pdf
+    │   │   ├── 📄 CHAP1 Etudes de marché_Principes généraux.pdf
+    │   │   └── 📄 CHAP2 marché Démarche de l’étude de marché.pdf
+    │   └── 📁 resume IMG/
+    │       ├── 📄 marché collection d'info.jpg
+    │       ├── 📄 marché.jpg
+    │       ├── 📄 sondage.jpg
+    │       ├── 📄 communication.jpg
+    │       ├── 📄 prix.jpg
+    │       ├── 📄 2 enviro plan.jpg
+    │       ├── 📄 distribution.jpg
+    │       ├── 📄 marche techs.jpg
+    │       ├── 📄 segmentation.jpg
+    │       ├── 📄 1_intro def.jpg
+    │       ├── 📄 cycle de vie.jpg
+    │       └── 📄 produit.jpg
+    ├── 📁 new/
+    │   ├── 📄 marketing s1-sujet-rc3a9visions.pdf
+    │   ├── 📄 qcm co mkt.pdf
+    │   ├── 📄 res384957_QCM-corrig-du-livre.pdf
+    │   └── 📄 fasicule td marketing.pdf
+    └── 📁 Marketing         dr/
+        ├── 📄 Les_sondages_empiriques.pdf
+        ├── 📄 Marketing 1.ppt
+        ├── 📄 marketing nabil TOUGUI.pptx
+        ├── 📄 Cours de Marketing PPT.ppt
+        ├── 📄 Cours de Marketing.doc
+        ├── 📄 DSC01837.JPG
+        ├── 📄 DSC01838.JPG
+        ├── 📄 mkt.doc
+        ├── 📄 power point COURS MARKETING 2-modifié.ppt
+        ├── 📄 power point marketing 1ere partie.ppt
+        ├── 📄 Résumé__mkt__Tamimi.pdf
+        ├── 📄 Marketing des services final.pptx
+        ├── 📄 Merchandising (2).pptx
+        ├── 📄 mkt.pdf
+        └── 📄 power point COURS MARKETING 2-modifié.pdf
+
+═════════════════════════════════════
+  Fin du fichier · marketing
+═════════════════════════════════════

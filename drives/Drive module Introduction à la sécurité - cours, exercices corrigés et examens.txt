@@ -1,0 +1,44 @@
+📚 MODULE : Introduction à la sécurité                
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Introduction à la sécurité.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Introduction à la sécurité/
+└── 🔗📁 Intro Sécurité/  (raccourci)
+    ├── 📄 sec7.rar
+    ├── 📄 sec06.rar
+    ├── 📄 M1-SSI-IS-C4.pdf
+    ├── 📄 Sec05.rar
+    ├── 📄 M1-SSI-IS-C3.pdf
+    ├── 📄 M1-IS-C1&2.pdf
+    ├── 📄 sec04.rar
+    ├── 📄 Sec03.mp4
+    ├── 📄 Sec01
+    ├── 📄 Sec02(chwiya yikes).rar
+    ├── 📁 TD Sécu/
+    │   ├── 📄 Projet_discussion.rar
+    │   ├── 📄 TD_sec5.rar
+    │   ├── 📄 TD4_sec.rar
+    │   ├── 📄 td3_sec.rar
+    │   ├── 📄 sec_td02.rar
+    │   └── 📄 td_sec01.rar
+    └── 📁 TP Sécu/
+        ├── 📄 TP4_sec.rar
+        ├── 📄 Guide TP3(samedi presentiel).txt
+        ├── 📄 tp02 sec.rar
+        ├── 📄 TP1_sec.zip
+        └── 📄 TP1_sec.rar
+
+═════════════════════════════════════
+  Fin du fichier · Introduction à la sécurité
+═════════════════════════════════════

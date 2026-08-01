@@ -1,0 +1,80 @@
+📚 MODULE : management                                
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module management.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 management/
+└── 🔗📁 management/  (raccourci)
+    ├── 📄 Interrogation novembre 2008.jpg
+    ├── 📄 Examen final 2009.jpg
+    ├── 📄 Examen final 2008.jpg
+    ├── 📄 Examen 2006-2007.jpg
+    ├── 📁 Management-Recherche/
+    │   ├── 📄 Thumbs.db
+    │   ├── 📄 swot.doc
+    │   ├── 📄 SWOT-box.jpg
+    │   ├── 📄 Sans titre.bmp
+    │   ├── 📄 Porter_Chaine_de_valeur.jpg
+    │   ├── 📄 Norme ISO.doc
+    │   ├── 📄 Management stratégique-OCP.doc
+    │   ├── 📄 Fonctionement de lentreprise.doc
+    │   └── 📄 Chaine de valeur.doc
+    ├── 📁 is-force/
+    │   ├── 📄 publication3.pdf
+    │   └── 📄 publication2.pdf
+    ├── 📁 Cours/
+    │   ├── 📁 Scan/
+    │   │   ├── 📁 management des entreprise 4/
+    │   │   │   ├── 📄 Thumbs.db
+    │   │   │   ├── 📄 lastscan4.jpg
+    │   │   │   ├── 📄 lastscan3.jpg
+    │   │   │   ├── 📄 lastscan2.jpg
+    │   │   │   └── 📄 lastscan.jpg
+    │   │   ├── 📁 leadership/
+    │   │   │   ├── 📄 Thumbs.db
+    │   │   │   ├── 📄 lastscan6.jpg
+    │   │   │   ├── 📄 lastscan5.jpg
+    │   │   │   ├── 📄 lastscan4.jpg
+    │   │   │   ├── 📄 lastscan3.jpg
+    │   │   │   ├── 📄 lastscan2.jpg
+    │   │   │   └── 📄 lastscan.jpg
+    │   │   └── 📁 management des entreprise 5/
+    │   │       ├── 📄 Thumbs.db
+    │   │       ├── 📄 lastscan9.jpg
+    │   │       ├── 📄 lastscan8.jpg
+    │   │       ├── 📄 lastscan7.jpg
+    │   │       ├── 📄 lastscan6.jpg
+    │   │       ├── 📄 lastscan5.jpg
+    │   │       ├── 📄 lastscan4.jpg
+    │   │       ├── 📄 lastscan3.jpg
+    │   │       ├── 📄 lastscan2.jpg
+    │   │       ├── 📄 lastscan11.jpg
+    │   │       ├── 📄 lastscan10.jpg
+    │   │       └── 📄 lastscan.jpg
+    │   └── 📁 pdf/
+    │       ├── 📄 Mnt 4.pdf
+    │       ├── 📄 Mnt 3.pdf
+    │       ├── 📄 Mnt 2.pdf
+    │       └── 📄 Mnt 1.pdf
+    └── 📁 Contrôles/
+        ├── 📄 Thumbs.db
+        ├── 📄 controle juin 2006.jpg
+        ├── 📄 communication.JPG
+        ├── 📄 4.JPG
+        ├── 📄 3.JPG
+        ├── 📄 2.JPG
+        └── 📄 1.JPG
+
+═════════════════════════════════════
+  Fin du fichier · management
+═════════════════════════════════════

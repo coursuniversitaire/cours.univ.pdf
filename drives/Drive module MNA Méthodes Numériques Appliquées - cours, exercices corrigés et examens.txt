@@ -1,0 +1,71 @@
+📚 MODULE : MNA Méthodes Numériques Appliquées        
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module MNA Méthodes Numériques Appliquées.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 MNA Méthodes Numériques Appliquées/
+├── 📁 examens corrigés /
+│   ├── 📄 sujet 6 " corrigé "
+│   ├── 📄 sujet 6
+│   ├── 📄 sujet 5 " corrigé "
+│   ├── 📄 sujet 5.pdf
+│   ├── 📄 sujet 2 '' corrigé ''
+│   ├── 📄 sujet 3 " corrigé "
+│   ├── 📄 sujet 4
+│   ├── 📄 Sujet 3
+│   ├── 📄 sujet 1
+│   ├── 📄 sujet 2
+│   └── 📄 MNA-beskri.pdf
+├── 📁 cours/
+│   ├── 📄 Chapitre 1.pdf
+│   ├── 📄 Chapitre 2
+│   ├── 📄 Chapitre 3 
+│   ├── 📄 Chapitre 4
+│   └── 📄 MNA_-S4.pdf
+└── 📁 Tds corrigés /
+    ├── 📄 2 TEL A MNA TD4  Corrigé Résolution numérique des EDO 20 21.pdf
+    ├── 📄 correction td1.pdf
+    ├── 📄 correction td3.pdf
+    ├── 📄 td 3.pdf
+    ├── 📄 td1.pdf
+    ├── 📄 td2 correction.pdf
+    ├── 📄 td2.pdf
+    ├── 📄 td4.pdf
+    └── 📁 tds et exo/
+        ├── 📄 sujet 6 " corrigé "
+        ├── 📄 sujet 6
+        ├── 📄 sujet 5 " corrigé "
+        ├── 📄 sujet 5.pdf
+        ├── 📄 sujet 2 '' corrigé ''
+        ├── 📄 Équations non linéaires "cours"
+        ├── 📄 Approximation " cours "
+        ├── 📄 integration num " serie td + resumé d cours  "
+        ├── 📄 interpolation " serie Td + resumé d cours  "
+        ├── 📄 sujet 1 " corrigé "
+        ├── 📄 sujet 3 " corrigé "
+        ├── 📄 sujet 4
+        ├── 📄 Sujet 3
+        ├── 📄 sujet 1
+        ├── 📄 sujet 2
+        ├── 📄 interpolation " TD + correction "
+        ├── 📄 approximation MC " TD + correction "
+        ├── 📄 approximation MC " serie de td + resumé d cours " 
+        ├── 📄 integration num " TD + correction "
+        ├── 📄 equation alg correction exos 6 et 7 " TD "
+        ├── 📄 integration num " cours partie 2 "
+        ├── 📄 integration num " cours partie 1 "
+        └── 📄 interpolation " cours "
+
+═════════════════════════════════════
+  Fin du fichier · MNA Méthodes Numériques Appliquées
+═════════════════════════════════════

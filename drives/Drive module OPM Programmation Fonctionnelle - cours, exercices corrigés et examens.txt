@@ -1,0 +1,110 @@
+📚 MODULE : OPM Programmation Fonctionnelle           
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module OPM Programmation Fonctionnelle.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 OPM Programmation Fonctionnelle/
+├── 📄 OPM-20260508T202512Z-3-001.zip
+├── 🔗📁 OPM/  (raccourci)
+│   ├── 📄 Chaîne YouTube 
+│   ├── 📁 Révision /
+│   │   └── 📄 REVISION.pdf
+│   ├── 📁 TD/
+│   │   ├── 📁 Machine de Turing/
+│   │   │   ├── 📁 Série 3/
+│   │   │   │   ├── 📄 TD3.pdf
+│   │   │   │   └── 📄 Série TD3 OPM MT.pdf
+│   │   │   └── 📁 Série 4/
+│   │   │       ├── 📄 TD4.pdf
+│   │   │       └── 📄 Série TD4 OPM.pdf
+│   │   └── 📁 Les fonctions PR/
+│   │       ├── 📁 Série 2/
+│   │       │   ├── 📄 TD2.pdf
+│   │       │   ├── 📄 TD2 ens rel.pdf
+│   │       │   └── 📄 Série TD2 OPM.pdf
+│   │       └── 📁 Série 1/
+│   │           ├── 📄 Série TD1 OPM.pdf
+│   │           ├── 📄 TD 1 exo1 2.pdf
+│   │           ├── 📄 TD 1 exo3 4.pdf
+│   │           ├── 📄 TD 1 exo5.pdf
+│   │           └── 📄 Série TD1 OPM (Partie 1) Corrigé.pdf
+│   └── 📁 COURS/
+│       ├── 📄 COURS MT .pdf
+│       └── 📄 Cours OPM Partie 1.pdf
+├── 🔗📁 opm/  (raccourci)
+│   ├── 📄 LesTP.pdf
+│   └── 📄 MonCours PRF4.pptx
+├── 🔗📁 Opm/  (raccourci)
+│   ├── 📄 Cours_N_5_Scilab.pdf
+│   ├── 📄 Cours_N_1_Scilab.pdf
+│   ├── 📄 Cours_N_3_Scilab.pdf
+│   └── 📄 Cours_N_6_Scilab.pdf
+└── 🔗📁 OPM/  (raccourci)
+    ├── 🔗📁 Révision TP CAML OPM.wrf/  (raccourci)
+    ├── 🔗📁 Révision CAML.ml/  (raccourci)
+    ├── 📄 Devoir 1 tp.docx
+    ├── 📄 Devoir2.docx
+    ├── 📁 Revision Test PRF/
+    │   ├── 📄 Révision CAML.ml
+    │   ├── 📄 Tp5 CAML. Corrigé.pdf
+    │   ├── 📄 TP2 CAML.Corrigé.pdf
+    │   └── 📄 Tp3 CAML. Corrigé.pdf
+    ├── 📁 Sujets d'examens /
+    │   ├── 📄 119009448_234282538003475_5746428646002911738_n.jpg
+    │   ├── 📄 119008766_1417359775114293_974588736601453745_n.jpg
+    │   ├── 📄 119009319_307014083933018_8851379556034199160_n.jpg
+    │   ├── 📄 119025130_662151571101213_234657128988367594_n.jpg
+    │   ├── 📄 119028572_1378795292326048_3173053521847636967_n.jpg
+    │   ├── 📄 119058535_336785354136023_8646158090585752296_n.jpg
+    │   ├── 📄 119004827_329613324816883_6959812494834061427_n.jpg
+    │   ├── 📄 EMD OPM 2014. Corrigé.pdf
+    │   └── 📄 EMD OPM 2010. Corrigé.pdf
+    ├── 📁 Chapitre 2: Calculabilité par Machine de Turing/
+    │   ├── 📄 Révision Chapitre 2 OPM.pdf
+    │   ├── 📄 Cours OPM. Autre solution MT de la fonction Mod 2.pdf
+    │   ├── 📄 Cours OPM. MT de la fonction Sg,SgBarra, Pred.pdf
+    │   ├── 📄 Cours OPM MT Successeur Méthode 1.pdf
+    │   └── 📁 TD- MT/
+    ├── 📁 Chapitre 1: Calculabilité des fonctions Primitives Récursives/
+    │   ├── 📄 Révision Chapitre1 OPM.pdf
+    │   ├── 📄 Révision Chapitre1 OPM.wrf
+    │   ├── 📄 Cours OPM Fonction moins_Ensemble_Relation.pdf
+    │   ├── 📄 Cours OPM Fonction min_Abs-r2.pdf
+    │   ├── 📄 Cours OPM Partie 1.pdf
+    │   ├── 📄 Cours - Fonction Puissance.pdf
+    │   └── 📁 TD- Fonctions PRs/
+    │       ├── 📄 Série TD1 PRF.pdf
+    │       ├── 📄 Série TD1 OPM (Partie 1) Corrigé.pdf
+    │       └── 📄 Série TD2 OPM.pdf
+    ├── 📁 Fichiers- TP/
+    │   ├── 📄 TPCamlRestQuotListeSuite.ml
+    │   ├── 📄 TPListe2.ml
+    │   ├── 📄 FctRecursives.ml
+    │   └── 📄 Les TP CAML (PRF).pdf
+    ├── 📁 Vidéos-TP/
+    │   ├── 📄 TP OPM 2020-06-25-10-19-29.mp4
+    │   ├── 📄 TP OPM 2020-06-18-10-08-21.mp4
+    │   ├── 📄 TP OPM 2020-05-07-09-22-27.mp4
+    │   ├── 📄 Cours OPM 2020-04-30-09-05-47.mp4
+    │   ├── 📄 Cours OPM 2020-04-30-09-43-08.mp4
+    │   └── 📄 Cours OPM 2020-04-30-09-45-16.mp4
+    └── 📁 Vidéos-Cours/
+        ├── 📄 Cours OPM 2020-06-12-16-04-23.mp4
+        ├── 📄 Cours OPM 2020-06-25-11-07-56.mp4
+        ├── 📄 Cours OPM 2020-06-18-11-19-48.mp4
+        ├── 📄 Cours OPM 2020-04-30-10-12-04 2.mp4
+        └── 📄 Cours2 OPM 2020-04-23-09-41-40.mp4
+
+═════════════════════════════════════
+  Fin du fichier · OPM Programmation Fonctionnelle
+═════════════════════════════════════

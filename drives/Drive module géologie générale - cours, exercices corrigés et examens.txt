@@ -1,0 +1,54 @@
+📚 MODULE : géologie générale                         
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module géologie générale.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 géologie générale/
+├── 🔗📁 géologie générale/  (raccourci)
+│   ├── 📁 cours/
+│   │   ├── 📄 Présentation séismes_Séances 1  2 Tairi.pptx
+│   │   ├── 📄 Roches  Mx et Mines.pptx
+│   │   ├── 📄 Présentation Sratigraphie_séance 3_Tairi.pptx
+│   │   ├── 📄 Cours_suite3_Paléoclimatologie_automne_2021_A6.ppt
+│   │   ├── 📄 Cours_suite1_Paléoclimatologie_automne_2021_A6.ppt
+│   │   ├── 📄 PDF_S1_2021_2022_Notions_de_paléoclimatologie.pdf
+│   │   ├── 📄 Crises bio et derive des continents.pdf
+│   │   ├── 📄 Cours_Paléoclimatologie_automne_2021_A6.ppt
+│   │   ├── 📄 Cours_suite2_Paléoclimatologie_automne_2021_A6.ppt
+│   │   └── 📄 COURS COSMOLOGIE 2023.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 EXERCICES_CARTO_SV1_STU1_2011.pdf
+│   │   ├── 📄 TD1_Corrige.pdf
+│   │   ├── 📄 TD2_Corrige.pdf
+│   │   └── 📄 TD3_Corrige.pdf
+│   └── 📁 TP/
+│       ├── 📄 Polycopie_TP_Carto_2015-16.pdf
+│       ├── 📄 TP_Carto_2015-2016.pdf
+│       └── 📄 Solution_exercices_TP_2015-2016.pdf
+├── 📁 cours/
+│   ├── 📄 PDF_S1_2021_2022_Notions_de_paléoclimatologie.pdf
+│   ├── 📄 Crises bio et derive des continents.pdf
+│   └── 📄 COURS COSMOLOGIE 2023.pdf
+├── 📁 TD/
+│   ├── 📄 EXERCICES_CARTO_SV1_STU1_2011.pdf
+│   ├── 📄 TD2_Corrige.pdf
+│   ├── 📄 TD3_Corrige.pdf
+│   └── 📄 TD1_Corrige.pdf
+└── 📁 TP/
+    ├── 📄 Polycopie_TP_Carto_2015-16.pdf
+    ├── 📄 TP_Carto_2015-2016.pdf
+    └── 📄 Solution_exercices_TP_2015-2016.pdf
+
+═════════════════════════════════════
+  Fin du fichier · géologie générale
+═════════════════════════════════════

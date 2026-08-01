@@ -1,0 +1,196 @@
+📚 MODULE : Metrologie                                
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Metrologie.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Metrologie/
+├── 🔗📁 Mesure et métrologie/  (raccourci)
+│   ├── 📄 Micro Métrologie.pdf
+│   ├── 📄 Examen Metrologie.pdf
+│   ├── 📄 CC  2022-2023 Mesure et Metrologie GM  et GI .pdf
+│   ├── 📄 couriger type  CC Mesure et Métrologie GM et GI 2023.pdf
+│   ├── 📁 Cours/
+│   │   ├── 📄 Généralités sur la Métrologie...pdf
+│   │   ├── 📄 Système international d'unités 2022.pdf
+│   │   ├── 📄 Système de mesure 2023 .pdf
+│   │   ├── 📄 Traçabilité métrologique 2023.pdf
+│   │   ├── 📄 Métrologie et contrôle qualité 2023.pdf
+│   │   └── 📄 Développement de la norme ISO 17025 Version 2005.....2023.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 Incertitude de type B-  exemple 2.mp4
+│   │   ├── 📄 Calcul des incertitudes au lycée.mp4
+│   │   ├── 📄 Exemples d'incertitudes de type B.mp4
+│   │   ├── 📄 calcul d'erreur et incertitude du mesurage indirect de résistance et incertitudes.mp4
+│   │   ├── 📄 Travaux-diriges-01.pdf
+│   │   ├── 📄 Correction Travaux Dirigés n°01.pdf
+│   │   ├── 📄 Correction Travaux Dirigés n°03 n.pdf
+│   │   ├── 📄 Correction Travaux Dirigés n°04...2023.pdf
+│   │   ├── 📄 Travaux Dirigés n°04. 2023...pdf
+│   │   ├── 📄 support TD 1.pdf
+│   │   └── 📄 Loi de composition des incertitudes de mesure.pdf
+│   └── 📁 TP/
+│       ├── 📄 TP01.pdf
+│       ├── 📄 TP02 MESURE ET RESISTANCE.pdf
+│       ├── 📄 TP03 PIED A COULISSE.pdf
+│       ├── 📄 TP  04 Micrométre.pdf
+│       └── 📄 TP02 MESURE ET RESISTANCE HELP.pdf
+├── 🔗📁 Métrologie et instrumentation /  (raccourci)
+│   └── 📄 solution TDs instrum.pdf
+├── 🔗📁 Capteurs et Métrologie/  (raccourci)
+│   ├── 🔗📁 CAPTEURS EN INSTRUMENTATION/  (raccourci)
+│   │   ├── 📄 Drive module CAPTEURS EN INSTRUMENTATION - cours, exercices corrigés et examens.txt
+│   │   └── 🔗📁 capteur/  (raccourci)
+│   │       ├── 📄 IMG_20170516_090553.jpg
+│   │       ├── 📄 IMG_20170516_090545.jpg
+│   │       ├── 📄 td.s1.jpg
+│   │       ├── 📄 td.jpg
+│   │       ├── 📄 td..jpg
+│   │       ├── 📄 td.....jpg
+│   │       ├── 📄 IMG_20170602_004138(1).jpg
+│   │       ├── 📄 IMG_20170602_004113(1).jpg
+│   │       ├── 📄 IMG_20170525_104845.jpg
+│   │       ├── 📄 IMG_20170525_104708.jpg
+│   │       ├── 📄 IMG_20170525_104701.jpg
+│   │       ├── 📄 FB_IMG_1493740091853.jpg
+│   │       ├── 📄 FB_IMG_1493740079938.jpg
+│   │       ├── 📁 تيدي كابتور/
+│   │       │   ├── 📄 20180429_154050.jpg
+│   │       │   ├── 📄 20180429_154044.jpg
+│   │       │   ├── 📄 20180429_154022.jpg
+│   │       │   ├── 📄 20180429_153932.jpg
+│   │       │   ├── 📄 20180429_154017.jpg
+│   │       │   ├── 📄 20180429_154008.jpg
+│   │       │   ├── 📄 20180429_153942.jpg
+│   │       │   ├── 📄 3.jpg
+│   │       │   ├── 📄 2.jpg
+│   │       │   └── 📄 1.jpg
+│   │       └── 📁 Nouveau dossier/
+│   │           ├── 📄 18424983_1847216158938191_1919382716285824638_n.jpg
+│   │           ├── 📄 18402740_1847215288938278_2851427832747497314_n.jpg
+│   │           └── 📄 18424077_1847215242271616_2531627138691204651_n.jpg
+│   ├── 📄 Drive module Capteurs et Métrologie - cours, exercices corrigés et examens.txt
+│   ├── 🔗📁 Capteurs et Métrologie.rar/  (raccourci)
+│   ├── 📄 chapitre 2 Capteur.pptx
+│   ├── 📄 chapitre 1 Capteur.pptx
+│   ├── 📄 doc réponse TP 3.pdf
+│   ├── 📄 doc réponse TP 1.pdf
+│   ├── 📄 TP 3.pdf
+│   ├── 📄 doc réponse TP 2.pdf
+│   ├── 📄 TP 2.pdf
+│   ├── 📄 TP 1.pdf
+│   ├── 📁 Cours/
+│   │   ├── 📄 L3-ELN-capteurs.pdf
+│   │   ├── 📄 Chap4 la vitesse.pdf
+│   │   ├── 📄 Chap3 le débit.pdf
+│   │   ├── 📄 Chap2 la pression.pdf
+│   │   ├── 📄 Chap1 la température.pdf
+│   │   ├── 📄 I Métrologie.pdf
+│   │   ├── 📄 capteurs.pdf
+│   │   └── 📄 Cours Capteurs et Métrologie_Dr_BENYETTOU_ Loutfi.pdf
+│   ├── 📁 Examen/
+│   │   └── 📄 solution capteurs 20.pdf
+│   └── 📁 TD/
+│       ├── 📄 Solution Série N 2  capteurs et métrologie.pdf
+│       ├── 📄 Serie TD 2  capteurs et métrologie.pdf
+│       ├── 📄 Solution SeriesTD 1 capteurs et métrologie.pdf
+│       └── 📄 series_TD 1 capteurs et métrologie.pdf
+├── 🔗📁 Capteurs et Métrologie/  (raccourci)
+│   ├── 📄 .~lock.capteur de position cours 2019.pptx#
+│   ├── 📄 .~lock.chapitre 1 Capteur.pptx#
+│   ├── 📄 .~lock.capteur de débit 2019.pptx#
+│   ├── 📄 .~lock.chapitre 2 Capteur.pptx#
+│   ├── 📄 capteur de débit 2019.pptx
+│   ├── 📄 Présentation5 capteur de déformation 2019.pptx
+│   ├── 📄 capteur de position cours 2019.pptx
+│   ├── 📄 chapitre 2 Capteur.pptx
+│   ├── 📄 chapitre 1 Capteur.pptx
+│   ├── 📄 doc réponse TP 3.pdf
+│   ├── 📄 doc réponse TP 1.pdf
+│   ├── 📄 TP 3.pdf
+│   ├── 📄 doc réponse TP 2.pdf
+│   ├── 📄 TP 2.pdf
+│   ├── 📄 TP 1.pdf
+│   ├── 📁 Examen/
+│   │   └── 📄 solution capteurs 20.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 Solution Série N 2  capteurs et métrologie.pdf
+│   │   ├── 📄 Serie TD 2  capteurs et métrologie.pdf
+│   │   ├── 📄 Solution SeriesTD 1 capteurs et métrologie.pdf
+│   │   └── 📄 series_TD 1 capteurs et métrologie.pdf
+│   └── 📁 Cours/
+│       ├── 📄 L3-ELN-capteurs.pdf
+│       ├── 📄 Chap4 la vitesse.pdf
+│       ├── 📄 Chap3 le débit.pdf
+│       ├── 📄 Chap2 la pression.pdf
+│       ├── 📄 Chap1 la température.pdf
+│       ├── 📄 I Métrologie.pdf
+│       ├── 📄 capteurs.pdf
+│       └── 📄 Cours Capteurs et Métrologie_Dr_BENYETTOU_ Loutfi.pdf
+├── 🔗📁 Metrologie/  (raccourci)
+│   ├── 📄 Chapitre IV Métrologie.pdf
+│   ├── 📄 Chapitre III Métrologie.pdf
+│   ├── 📄 Chapitre II Métrologie.pdf
+│   ├── 📄 Chapitre I Métrologie.pdf
+│   └── 📁 Examen /
+│       ├── 📄 examne_note_sessionnormale_A00D0001S30010.xlsx (1).xlsx
+│       └── 📄 examne_note_sessionnormale_A00D0001S30010.xlsx.xlsx
+├── 🔗📁 Métrologie /  (raccourci)
+│   ├── 📄 TD5 capteursx.pdf
+│   ├── 📄 re.zip
+│   ├── 📄 partie2_capteurs.pdf
+│   ├── 📄 cours_capteurs_sardi.ppt
+│   ├── 📄 TD2_Capteurs.pdf
+│   ├── 📄 Pont_de_Wheatstone.pdf
+│   ├── 📄 Feuilletage.pdf
+│   └── 📄 10737211_779670592082521_1812073167_n.pdf
+├── 🔗📁 metrologie/  (raccourci)
+│   ├── 📄 Chap IIb-Métrolog.pptx
+│   ├── 📄 Chap I-2017.pptx
+│   ├── 📄 ChapitreIII-b.pptx
+│   ├── 📄 Chap IIa-2017.pptx
+│   ├── 📄 Chap III-a.pptx
+│   └── 📄 Chapitre IV.pptx
+├── 🔗📁 METROLOGIE/  (raccourci)
+│   ├── 📄 TP 2 métrologie figure 02.jpg
+│   ├── 📄 Corrigé TP métrologie.pdf
+│   ├── 📄 3 TP de métrologie 3e L CM.pdf
+│   └── 📄 TP_m_trologie_.pdf
+└── 📁 drives/
+    └── 🔗📁 MI/  (raccourci)
+        ├── 📄 Série_TP1_2021.pdf
+        ├── 📄 Série_TP2_2021.pdf
+        ├── 📄 Chp7_métroqualité.pdf
+        ├── 📄 Série_TP3_2021.pdf
+        ├── 📄 Tableau1_TP3_2021.docx
+        ├── 📄 Correction_chp6 ( Exo1-4).pdf
+        ├── 📄 données_Statistiques.docx
+        ├── 📄 Chp6_SupGUM.pdf
+        ├── 📄 Chp6_GUM.pdf
+        ├── 📄 Chp5.I_Statistique.pdf
+        ├── 📄 Chp5.II_Moindres carrés.pdf
+        ├── 📄 Chp4_systèmes de mesures_2021.pdf
+        ├── 📄 Chp3_Mesure-erreur- incertitude.pdf
+        ├── 📄 Grandeurs dimensions  unités.pdf
+        ├── 📄 Evolution du SI.pdf
+        ├── 📄 Introduction_MI_21.pdf
+        ├── 📄 Programme_MI_INS_21.pdf
+        └── 📁 Séries/
+            ├── 📄 Série 5.pdf
+            ├── 📄 Série 4.pdf
+            ├── 📄 Série 3.pdf
+            ├── 📄 Série 2.pdf
+            └── 📄 Série 1.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Metrologie
+═════════════════════════════════════

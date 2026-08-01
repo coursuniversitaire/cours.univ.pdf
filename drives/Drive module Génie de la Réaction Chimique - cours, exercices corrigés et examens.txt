@@ -1,0 +1,35 @@
+📚 MODULE : Génie de la Réaction Chimique             
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Génie de la Réaction Chimique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Génie de la Réaction Chimique/
+├── 📄 lois.pdf
+├── 📁 TD/
+│   ├── 📄 Serie1.pdf
+│   ├── 📄 Série3.pdf
+│   ├── 📄 Série4.pdf
+│   └── 📁 Série2/
+│       ├── 📄 série2s.pdf
+│       ├── 📄 série2v1.pdf
+│       └── 📄 Série2.pdf
+└── 📁 Cours/
+    ├── 📄 ch3.pdf
+    ├── 📄 Ch1.2.pdf
+    ├── 📄 Ch1.1.pdf
+    ├── 📄 Ch2.2.pdf
+    └── 📄 Ch2.1.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Génie de la Réaction Chimique
+═════════════════════════════════════

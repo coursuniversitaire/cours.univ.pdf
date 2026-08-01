@@ -1,0 +1,489 @@
+📚 MODULE : Java                                      
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Java.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Java/
+├── 🔗📁 java/  (raccourci)
+│   ├── 📁 tp/
+│   │   ├── 📄 TP5-Classe et Objet Java _Envoyé_- 2024-partie d'examen.pdf
+│   │   ├── 📄 TP4-Classe et Objet Java_Envoyé.pdf
+│   │   ├── 📄 TP3_Fonctions_Envoyé.pdf
+│   │   ├── 📄 TP2 - Tableaux et ChaineCaractère Envoyer_27122023.pdf
+│   │   └── 📁 Solution des tp/
+│   │       ├── 📄 IMG_5837.HEIC
+│   │       ├── 📄 IMG_5838.HEIC
+│   │       ├── 📄 IMG_6197.HEIC
+│   │       ├── 📄 IMG_6200.HEIC
+│   │       ├── 📄 IMG_6199.HEIC
+│   │       ├── 📄 IMG_5718.JPG
+│   │       ├── 📄 IMG_6198.HEIC
+│   │       └── 📄 IMG_6205.HEIC
+│   └── 📁 cours/
+│       ├── 📄 Cours 2_Les boucles-for-while-do while ET Conditions.pdf
+│       ├── 📄 Chapitre Oriente Objet-Cours1 Classe .pdf
+│       ├── 📄 Cours 1_Les variables.pdf
+│       ├── 📄 Chapitre Oriente Objet-Cours 2_Constructeurs et héritage_2024.pdf
+│       ├── 📄 Chapitre Fondamentaux Java_ Cours 4 et 5-Tableaux et Chaine de caractère_2024.pdf
+│       ├── 📄 JAVA -Cours-Classe-et-Objets.pdf
+│       ├── 📄 JAVA -Tableaux-et-Chaine-de-Caractère.pdf
+│       └── 📄 JAVA - Constructeurs-et-héritage.pdf
+├── 🔗📁 Java/  (raccourci)
+│   ├── 📁 Ds 2021/
+│   ├── 📁 Ds 2022/
+│   ├── 📁 EX Cour/
+│   │   └── 📄 TestEtudiant (1).java
+│   ├── 📁 TP/
+│   │   ├── 📄 Correction_Exercice4.docx
+│   │   └── 📄 Correction_Exercice4.pdf
+│   └── 📁 Cour/
+├── 🔗📁 java/  (raccourci)
+│   ├── 📄 EXAMENS DE JAVA.pdf
+│   ├── 📄 Examen java.pdf
+│   ├── 📄 EXam java.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 DEVOIR .ASKLOU AMINA.rar
+│   │   ├── 📄 DEVOIR - POO.pdf
+│   │   ├── 📄 Java--Impression.pdf
+│   │   ├── 📄 series java-1.pdf
+│   │   ├── 📄 Exercices en Java - Claude Delannoy .pdf
+│   │   ├── 📄 series java.pdf
+│   │   ├── 📄 Java-1ere partie (1).pdf
+│   │   ├── 📄 série N° 4.pdf
+│   │   ├── 📄 series java-1 2 3 4 5 6.pdf
+│   │   ├── 📄 Traveaux_Dirigées_Java_I511.pdf
+│   │   ├── 📄 series java 5  6.pdf
+│   │   ├── 📄 exercices-classes-1.pdf
+│   │   ├── 📄 EXOS-JAVA.rar
+│   │   ├── 📄 td6.pdf
+│   │   ├── 📄 td5.pdf
+│   │   ├── 📄 td4.pdf
+│   │   ├── 📄 td3.pdf
+│   │   ├── 📄 td2.pdf
+│   │   ├── 📄 td1.pdf
+│   │   ├── 📄 tdJava2.pdf
+│   │   ├── 📄 tdJava1.pdf
+│   │   └── 📄 td4_fgv5.pdf
+│   ├── 📁 TP/
+│   │   ├── 📄 TP_N3 - Classes et objets.pdf
+│   │   ├── 📄 TP_N2 - Classes et objets_Solutions.pdf
+│   │   ├── 📄 TP N˚5.pdf
+│   │   ├── 📄 TP N˚3.pdf
+│   │   ├── 📄 TP N 6.pdf
+│   │   ├── 📄 TP_N_7.pdf
+│   │   ├── 📄 TP_N2 - Classes et objets.pdf
+│   │   ├── 📄 TP_N1.pdf
+│   │   ├── 📄 TP9.pdf
+│   │   ├── 📄 tp9 correction java.pdf
+│   │   └── 📁 les Tps preparé par Brahim ADREF/
+│   │       ├── 📁 Exercices Tps 2015/
+│   │       │   ├── 📁 serie2_2015/
+│   │       │   │   ├── 📁 exo1/
+│   │       │   │   │   ├── 📄 Control_point.java
+│   │       │   │   │   └── 📄 Point2DCartisien.java
+│   │       │   │   └── 📁 exo2/
+│   │       │   │       ├── 📄 Complexe.java
+│   │       │   │       └── 📄 TestComplexe.java
+│   │       │   ├── 📁 serie3_2015/
+│   │       │   │   ├── 📁 exo3/
+│   │       │   │   │   ├── 📄 Point2DCartesien.java
+│   │       │   │   │   ├── 📄 Point2DPolaire.java
+│   │       │   │   │   └── 📄 Point2D.java
+│   │       │   │   ├── 📁 exo2/
+│   │       │   │   │   ├── 📄 TestCompte.java
+│   │       │   │   │   └── 📄 Compte.java
+│   │       │   │   └── 📁 exo1/
+│   │       │   │       ├── 📄 Document.java
+│   │       │   │       ├── 📄 Livre.java
+│   │       │   │       ├── 📄 Dictionnaire.java
+│   │       │   │       └── 📄 Bibliotheque.java
+│   │       │   ├── 📁 serie4_15/
+│   │       │   │   ├── 📁 exercice_1/
+│   │       │   │   │   ├── 📄 TestExamen.java
+│   │       │   │   │   └── 📄 ClasseA.java
+│   │       │   │   ├── 📁 exercice_2/
+│   │       │   │   │   ├── 📄 EntNat.java
+│   │       │   │   │   └── 📄 ErrConst.java
+│   │       │   │   ├── 📁 exercice_4/
+│   │       │   │   │   └── 📄 CalcFactorielle.java
+│   │       │   │   └── 📁 exercice_3/
+│   │       │   │       └── 📄 Chemin.java
+│   │       │   └── 📁 serie5_15/
+│   │       │       ├── 📁 exercice_1_PANEL/
+│   │       │       │   └── 📄 App.java
+│   │       │       └── 📁 exercice_1/
+│   │       │           └── 📄 Fenetre_app.java
+│   │       ├── 📁 Serie 2/
+│   │       │   ├── 📄 Exercice1 serie 2.docx
+│   │       │   ├── 📄 exercice3 serie 2.docx
+│   │       │   ├── 📄 package exercice3 serie 2 avec tbs dynamics.docx
+│   │       │   └── 📁 exercice2/
+│   │       │       ├── 📄 TestCompte.java
+│   │       │       └── 📄 CompteBancaire.java
+│   │       ├── 📁 Serie 1/
+│   │       │   ├── 📁 exercice4/
+│   │       │   │   └── 📄 TestPrimitifs.java
+│   │       │   └── 📁 exo4 suite/
+│   │       │       └── 📄 test.java
+│   │       ├── 📁 Serie 4/
+│   │       │   └── 📄 exercice2 serie4.docx
+│   │       ├── 📁 Serie 3/
+│   │       │   ├── 📄 ~$ercice 5 serie 3.docx
+│   │       │   ├── 📄 exercice 5 serie 3.docx
+│   │       │   ├── 📄 Exercice 4 série 3.docx
+│   │       │   ├── 📄 exercice 1 serie 3.docx
+│   │       │   ├── 📄 exercice2 serie 3.docx
+│   │       │   └── 📁 exercice_3/
+│   │       │       ├── 📄 Test.java
+│   │       │       ├── 📄 ClientFidel.java
+│   │       │       ├── 📄 Personne.java
+│   │       │       └── 📄 Client.java
+│   │       └── 📁 Serie 5/
+│   │           ├── 📁 exercice_1/
+│   │           │   └── 📄 Fenetre_app.java
+│   │           ├── 📁 exercice_2/
+│   │           │   └── 📄 Cases.java
+│   │           ├── 📁 exercice_1_PANEL/
+│   │           │   └── 📄 App.java
+│   │           ├── 📁 exercice_4/
+│   │           │   └── 📄 Expl.java
+│   │           ├── 📁 exercice_3/
+│   │           │   ├── 📄 Carre_cl.java
+│   │           │   └── 📄 Carres.java
+│   │           └── 📁 exercice_6/
+│   │               └── 📄 InterG.java
+│   ├── 📁 COURS/
+│   │   ├── 📄 Chapitre 4 -Classes et objets.pdf
+│   │   ├── 📄 170 exercice java.pdf
+│   │   ├── 📄 Chapitre 3 -Les bases du langage Java.pdf
+│   │   ├── 📄 Chapitre 1-Introduction générale.pdf
+│   │   ├── 📄 Chapitre 2 -Présentation du langage Java.pdf
+│   │   ├── 📄 JAVA 3 EME PARTIE  PROF.pdf
+│   │   ├── 📄 CH 4 Java-Exception et packages (1).pdf
+│   │   ├── 📄 Correction_Examen POO_Java_2019_2020.pdf
+│   │   ├── 📄 F006106.pdf
+│   │   ├── 📄 Cours_Java_chap-5_2015.pdf
+│   │   ├── 📄 Cours_Java_chap-4.pdf
+│   │   ├── 📄 Cours_Java_chap-6.pdf
+│   │   ├── 📄 Cours_Java_chap-1-1.pdf
+│   │   ├── 📄 Cours_Java_chap-1-1-1.pdf
+│   │   ├── 📄 Cours_Java_chap-03_2015.pdf
+│   │   ├── 📄 Cours_Java_chap-2-1.pdf
+│   │   ├── 📄 Cours_Java_chap-2.pdf
+│   │   ├── 📄 Cours_Java_chap 3 [Mode de compatibilité].pdf
+│   │   ├── 📄 Cours_Java_chap 4 [Mode de compatibilité].pdf
+│   │   ├── 📄 Cours_Java_chap 5 [Mode de compatibilité]-3.pdf
+│   │   ├── 📄 Livre Exercices en Java.pdf
+│   │   ├── 📄 10601-apprenez-a-programmer-en-java.pdf
+│   │   ├── 📄 Programmer.en.Java_Couvre.les.nouveautes.de.Java.8_streams_expressions lambda.pdf
+│   │   ├── 📄 Cours_POO_JAVA Ajjalouda.pdf
+│   │   └── 📄 cours java SMI_IGE_SIL_S5.pdf
+│   └── 📁 les Tps preparé par Brahim ADREF/
+│       ├── 📁 Serie 1/
+│       ├── 📁 Exercices Tps 2015/
+│       ├── 📁 Serie 3/
+│       ├── 📁 Serie 2/
+│       ├── 📁 Serie 4/
+│       └── 📁 Serie 5/
+│           └── 📁 exercice_6/
+├── 🔗📁 000 Java & Java Avancée/  (raccourci)
+│   ├── 📄 2022 SABOR.PNG
+│   ├── 📁 FSAC Java/
+│   │   ├── 📄 tp-java.zip
+│   │   ├── 📁 tp-java/
+│   │   │   ├── 📄 TDCalculatriceSwing.pdf
+│   │   │   ├── 📄 correction-TD3.pdf
+│   │   │   ├── 📄 JAVATD 4 (Exceptions).pdf
+│   │   │   ├── 📄 JAVATD 4 (Exceptions)(2).pdf
+│   │   │   ├── 📄 JAVATD 4 (Exceptions)(1).pdf
+│   │   │   ├── 📄 TD4.pdf
+│   │   │   ├── 📄 TD 1(1).pdf
+│   │   │   ├── 📄 TD 1.pdf
+│   │   │   ├── 📄 TD3.pdf
+│   │   │   ├── 📄 TD2(1).pdf
+│   │   │   └── 📄 TD2.pdf
+│   │   ├── 📁 exams/
+│   │   │   ├── 📄 java16.pdf
+│   │   │   ├── 📄 java18,pdf.pdf
+│   │   │   ├── 📄 java19(1).pdf
+│   │   │   ├── 📄 java19(2).pdf
+│   │   │   ├── 📄 java19.pdf
+│   │   │   ├── 📄 Examen SMI 2018_v.doc
+│   │   │   ├── 📄 Examen SMI 2016_v(1).doc
+│   │   │   ├── 📄 Examen SMI 2016_v.doc
+│   │   │   ├── 📄 Examen SMI 2016_v(2).doc
+│   │   │   ├── 📄 Examen SMI 2018 rattrapage_v.doc
+│   │   │   ├── 📄 Examen SMI 2018 rattrapage_v(1).doc
+│   │   │   ├── 📄 18519976_1838973866429019_6991794087811040910_n(3).jpg
+│   │   │   ├── 📄 18519976_1838973866429019_6991794087811040910_n(2).jpg
+│   │   │   ├── 📄 18519976_1838973866429019_6991794087811040910_n(8).jpg
+│   │   │   ├── 📄 18519976_1838973866429019_6991794087811040910_n(10).jpg
+│   │   │   ├── 📄 18519976_1838973866429019_6991794087811040910_n(1).jpg
+│   │   │   ├── 📄 18519976_1838973866429019_6991794087811040910_n(4).jpg
+│   │   │   ├── 📄 18519976_1838973866429019_6991794087811040910_n.jpg
+│   │   │   ├── 📄 18519976_1838973866429019_6991794087811040910_n(6).jpg
+│   │   │   ├── 📄 18519976_1838973866429019_6991794087811040910_n(5).jpg
+│   │   │   ├── 📄 18519976_1838973866429019_6991794087811040910_n(9).jpg
+│   │   │   ├── 📄 18519976_1838973866429019_6991794087811040910_n(7).jpg
+│   │   │   ├── 📄 18486157_1838973849762354_2856990012905567347_n.jpg
+│   │   │   ├── 📄 18485367_1838973829762356_3196228127947117233_n.jpg
+│   │   │   ├── 📄 18447005_1838973809762358_8930516889010997075_n.jpg
+│   │   │   ├── 📄 correction Examen SMI S6 2017.pdf
+│   │   │   ├── 📄 Correction Examen SMI 2016(2).doc
+│   │   │   ├── 📄 Correction Examen SMI 2016(1).doc
+│   │   │   ├── 📄 Correction Examen SMI 2016.doc
+│   │   │   ├── 📄 ExamenSMI2014.pdf
+│   │   │   ├── 📄 18136656_1455146521173452_1955254768_n.jpg
+│   │   │   ├── 📄 18136412_1455146511173453_1460010456_n (1)(2).jpg
+│   │   │   ├── 📄 18136412_1455146511173453_1460010456_n (1).jpg
+│   │   │   ├── 📄 18136412_1455146511173453_1460010456_n (1)(1).jpg
+│   │   │   ├── 📄 18136934_1455146487840122_194982233_n.jpg
+│   │   │   ├── 📄 18136770_1455146464506791_1506877313_n.jpg
+│   │   │   ├── 📄 18136770_1455146464506791_1506877313_n(1).jpg
+│   │   │   ├── 📄 18136770_1455146464506791_1506877313_n(2).jpg
+│   │   │   └── 📁 ennonceexamnormal2017/
+│   │   │       ├── 📄 exo5.GIF
+│   │   │       ├── 📄 exo4.GIF
+│   │   │       ├── 📄 exo3.GIF
+│   │   │       └── 📄 exo2.GIF
+│   │   ├── 📁 cours/
+│   │   │   └── 📄 JDBC.pdf
+│   │   └── 📁 Java/
+│   │       ├── 📁 tp/
+│   │       │   ├── 📄 JAVATD 4 (Exceptions).pdf
+│   │       │   ├── 📄 TD4.pdf
+│   │       │   ├── 📄 TD 1.pdf
+│   │       │   ├── 📄 TD3.pdf
+│   │       │   └── 📄 TD2.pdf
+│   │       ├── 📁 exams/
+│   │       │   ├── 📄 java16.pdf
+│   │       │   ├── 📄 java18,pdf.pdf
+│   │       │   ├── 📄 java19.pdf
+│   │       │   ├── 📄 Examen SMI 2018_v.doc
+│   │       │   ├── 📄 Examen SMI 2016_v.doc
+│   │       │   ├── 📄 Examen SMI 2018 rattrapage_v.doc
+│   │       │   ├── 📄 18519976_1838973866429019_6991794087811040910_n.jpg
+│   │       │   ├── 📄 18486157_1838973849762354_2856990012905567347_n.jpg
+│   │       │   ├── 📄 18485367_1838973829762356_3196228127947117233_n.jpg
+│   │       │   ├── 📄 18447005_1838973809762358_8930516889010997075_n.jpg
+│   │       │   ├── 📄 correction Examen SMI S6 2017.pdf
+│   │       │   ├── 📄 Correction Examen SMI 2016.doc
+│   │       │   ├── 📄 ExamenSMI2014.pdf
+│   │       │   ├── 📄 18136656_1455146521173452_1955254768_n.jpg
+│   │       │   ├── 📄 18136412_1455146511173453_1460010456_n (1).jpg
+│   │       │   ├── 📄 18136934_1455146487840122_194982233_n.jpg
+│   │       │   ├── 📄 18136770_1455146464506791_1506877313_n.jpg
+│   │       │   └── 📁 ennonceexamnormal2017/
+│   │       │       ├── 📄 exo1_1.GIF
+│   │       │       ├── 📄 exo5.GIF
+│   │       │       ├── 📄 exo4.GIF
+│   │       │       ├── 📄 exo3.GIF
+│   │       │       ├── 📄 exo2.GIF
+│   │       │       └── 📄 exo1.GIF
+│   │       └── 📁 cours/
+│   │           ├── 📄 JAVA TD 4 (Exceptions).pdf
+│   │           ├── 📄 Cours java - Exceptions.pdf
+│   │           ├── 📄 JAVA.pdf
+│   │           └── 📄 Exception.pdf
+│   ├── 📁 S6 SMI FSJ PROGRAMMATION JAVA 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 Exercice2.txt
+│   │   ├── 📄 Exercice1.txt
+│   │   ├── 📄 Java-chapitre3.pptx
+│   │   ├── 📄 Java-chapitre3-Interfaces graphiques.pptx
+│   │   └── 📄 TD2-Les collections.docx
+│   ├── 📁 S6 SMI FSAC SMI S6 JAVA pour SMI S6/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 devoir java N° 1.pdf
+│   │   ├── 📄 Correction Exercice 1 serie N°4.pdf
+│   │   ├── 📄 Correction Exercice 2 serie N°4.pdf
+│   │   ├── 📄 videoS.pdf
+│   │   ├── 📄 video.pdf
+│   │   ├── 📄 video_2.pdf
+│   │   ├── 📄 videoA.pdf
+│   │   ├── 📄 videoF.pdf
+│   │   ├── 📄 videoV.pdf
+│   │   ├── 📄 videoG.pdf
+│   │   ├── 📄 videoL.pdf
+│   │   └── 📄 videoK.pdf
+│   ├── 📁 S6 SMI FSAC JAVA pour SMI S6/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 Correction%20Exercice%202%20serie%20N°4.PDF
+│   │   ├── 📄 Correction%20Exercice%201%20serie%20N.pdf
+│   │   ├── 📄 video_2.pdf
+│   │   ├── 📄 videoFF.pdf
+│   │   ├── 📄 video.pdf
+│   │   ├── 📄 videoSSA.pdf
+│   │   ├── 📄 videoSS.pdf
+│   │   ├── 📄 videoS.pdf
+│   │   ├── 📄 videoGGG.pdf
+│   │   ├── 📄 videoFFF.pdf
+│   │   └── 📄 videoQQQ.pdf
+│   ├── 📁 S6 FS SAFI Java SMI6/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 exposeJavaSMI_S6_2019_2020.pptx
+│   │   ├── 📄 TD_1.pdf
+│   │   ├── 📄 TD_2.pdf
+│   │   ├── 📄 TD_3.pdf
+│   │   ├── 📄 TD_4.pdf
+│   │   └── 📄 TD_5.pdf
+│   ├── 📁 S6 FS SAFI Java Avancée SMI6/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 exposeJava_Avance_SMIS6_2019_2020.pptx
+│   │   ├── 📄 TP_1.pdf
+│   │   ├── 📄 Td 1.pdf
+│   │   ├── 📄 Td_2.pdf
+│   │   ├── 📄 Td_3.pdf
+│   │   ├── 📄 Td_4.pdf
+│   │   └── 📁 DevoirsMaison/
+│   │       ├── 📄 DevoirMaison_JavaAvance_2019_2020.pdf
+│   │       ├── 📄 Main.java
+│   │       ├── 📄 ExamenRattrapageJavaAvance2016_2017_BienJavaAvance.docx
+│   │       └── 📁 Images/
+│   │           ├── 📄 oie.gif
+│   │           ├── 📄 les_schtroumphs.jpg
+│   │           ├── 📄 imageArrierePlan.jpg
+│   │           ├── 📄 iconeImage.png
+│   │           ├── 📄 AvionDeChasse.PNG
+│   │           ├── 📄 labyrinthez.jpg
+│   │           ├── 📄 DessinAnime.png
+│   │           └── 📄 eye.gif
+│   └── 📁 FSTG  Programmation Orientée Objet- JAVA 2020/
+│       ├── 📄 2022 SABOR.PNG
+│       ├── 📄 7-Applet.pdf
+│       ├── 📄 6-Classes_Utiles.pdf
+│       ├── 📄 5-Exceptions-Java.pdf
+│       ├── 📄 4-Heritage-Interface-Java.pdf
+│       ├── 📄 3-Notions POO-Java.pdf
+│       ├── 📄 2-Notions de base-Java.pdf
+│       └── 📄 1-Introdution.pdf
+├── 📄 Compte_rendu (TP3_Ex2) .docx
+├── 📄 Compte-rendu (TP4).docx
+├── 📄 compte-rendu1_ichrak el gabsi_LSI2_G1.docx
+├── 📄 Compte-rendu2(TP2-Ex3).docx
+├── 📄 Exercice.docx
+├── 📄 tp1.docx
+├── 📄 TP1.pdf
+├── 📄 Tp2.docx
+├── 📄 TP2.pdf
+├── 📄 TP3.docx
+├── 📄 TP4.docx
+├── 📄 tp6.docx
+├── 📄 Tp7.docx
+├── 🔗📁 java/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 📄 170 exercice java.pdf
+├── 📄 10601-apprenez-a-programmer-en-java.pdf
+├── 📄 CH 4 Java-Exception et packages (1).pdf
+├── 📄 Chapitre 1-Introduction générale.pdf
+├── 📄 Chapitre 2 -Présentation du langage Java.pdf
+├── 📄 Chapitre 3 -Les bases du langage Java.pdf
+├── 📄 Chapitre 4 -Classes et objets.pdf
+├── 📄 Correction_Examen POO_Java_2019_2020.pdf
+├── 📄 cours java SMI_IGE_SIL_S5.pdf
+├── 📄 Cours_Java_chap 3 [Mode de compatibilité].pdf
+├── 📄 Cours_Java_chap 4 [Mode de compatibilité].pdf
+├── 📄 Cours_Java_chap 5 [Mode de compatibilité]-3.pdf
+├── 📄 Cours_Java_chap-1-1-1.pdf
+├── 📄 Cours_Java_chap-1-1.pdf
+├── 📄 Cours_Java_chap-2-1.pdf
+├── 📄 Cours_Java_chap-2.pdf
+├── 📄 Cours_Java_chap-03_2015.pdf
+├── 📄 Cours_Java_chap-4.pdf
+├── 📄 Cours_Java_chap-5_2015.pdf
+├── 📄 Cours_Java_chap-6.pdf
+├── 📄 Cours_POO_JAVA Ajjalouda.pdf
+├── 📄 F006106.pdf
+├── 📄 JAVA 3 EME PARTIE  PROF.pdf
+├── 📄 Livre Exercices en Java.pdf
+├── 📄 DEVOIR - POO.pdf
+├── 📄 DEVOIR .ASKLOU AMINA.rar
+├── 📄 Exercices en Java - Claude Delannoy .pdf
+├── 📄 exercices-classes-1.pdf
+├── 📄 EXOS-JAVA.rar
+├── 📄 Java--Impression.pdf
+├── 📄 Java-1ere partie (1).pdf
+├── 📄 série N° 4.pdf
+├── 📄 series java 5  6.pdf
+├── 📄 series java-1 2 3 4 5 6.pdf
+├── 📄 series java-1.pdf
+├── 📄 series java.pdf
+├── 📄 td1.pdf
+├── 📄 td2.pdf
+├── 📄 td3.pdf
+├── 📄 td4_fgv5.pdf
+├── 📄 td4.pdf
+├── 📄 td5.pdf
+├── 📄 td6.pdf
+├── 📄 tdJava1.pdf
+├── 📄 tdJava2.pdf
+├── 📄 Traveaux_Dirigées_Java_I511.pdf
+├── 📄 TP N 6.pdf
+├── 📄 TP N˚3.pdf
+├── 📄 TP N˚5.pdf
+├── 📄 TP_N_7.pdf
+├── 📄 TP_N1.pdf
+├── 📄 TP_N2 - Classes et objets_Solutions.pdf
+├── 📄 TP_N2 - Classes et objets.pdf
+├── 📄 TP_N3 - Classes et objets.pdf
+├── 📄 tp9 correction java.pdf
+├── 📄 TP9.pdf
+├── 📄 EXam java.pdf
+├── 📄 Examen java.pdf
+├── 📄 EXAMENS DE JAVA.pdf
+├── 🔗📁 java/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 📁 Tds/
+│   ├── 📄 DEVOIR - POO.pdf
+│   ├── 📄 DEVOIR .ASKLOU AMINA.rar
+│   ├── 📄 Exercices en Java - Claude Delannoy .pdf
+│   ├── 📄 exercices-classes-1.pdf
+│   ├── 📄 EXOS-JAVA.rar
+│   ├── 📄 Java--Impression.pdf
+│   ├── 📄 Java-1ere partie (1).pdf
+│   ├── 📄 série N° 4.pdf
+│   ├── 📄 series java 5  6.pdf
+│   ├── 📄 series java-1 2 3 4 5 6.pdf
+│   ├── 📄 series java-1.pdf
+│   ├── 📄 series java.pdf
+│   ├── 📄 td1.pdf
+│   ├── 📄 td2.pdf
+│   ├── 📄 td3.pdf
+│   ├── 📄 td4_fgv5.pdf
+│   ├── 📄 td4.pdf
+│   ├── 📄 td5.pdf
+│   ├── 📄 td6.pdf
+│   ├── 📄 tdJava1.pdf
+│   ├── 📄 tdJava2.pdf
+│   └── 📄 Traveaux_Dirigées_Java_I511.pdf
+├── 📁 TPs/
+│   ├── 🔗📁 les Tps preparé par Brahim ADREF/  (raccourci)
+│   │   └── ⚠️  [Référence circulaire ignorée]
+│   ├── 📄 TP N 6.pdf
+│   ├── 📄 TP N˚3.pdf
+│   ├── 📄 TP N˚5.pdf
+│   ├── 📄 TP_N_7.pdf
+│   ├── 📄 TP_N1.pdf
+│   ├── 📄 TP_N2 - Classes et objets_Solutions.pdf
+│   ├── 📄 TP_N2 - Classes et objets.pdf
+│   ├── 📄 TP_N3 - Classes et objets.pdf
+│   ├── 📄 tp9 correction java.pdf
+│   └── 📄 TP9.pdf
+└── 📁 Examens/
+    ├── 📄 EXam java.pdf
+    ├── 📄 Examen java.pdf
+    └── 📄 EXAMENS DE JAVA.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Java
+═════════════════════════════════════

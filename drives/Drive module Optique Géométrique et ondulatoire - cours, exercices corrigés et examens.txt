@@ -1,0 +1,444 @@
+📚 MODULE : Optique Géométrique et ondulatoire        
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Optique Géométrique et ondulatoire.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Optique Géométrique et ondulatoire/
+├── 🔗📁 optique ondulatoire/  (raccourci)
+│   └── 📁 Optique Ondulatoire smp s4 EL RHALEB fsr By exosup.com/
+│       ├── 📁 12-13 By exosup.com/
+│       │   ├── 📄 Ch4 - Interferences- 2012 impression By exosup.com.zip
+│       │   ├── 📄 Ch3 - Diffraction - 2012 By exosup.com.zip
+│       │   ├── 📄 Ch2 - Polarisation - 2012  By exosup.com.zip
+│       │   └── 📄 Ch1 - Onde lumineuse - 2012  By exosup.com.zip
+│       ├── 📁 11-12 By exosup.com/
+│       │   ├── 📄 Ch4 - Interferences- 2011 By exosup.com.zip
+│       │   ├── 📄 Ch3 - Diffraction - 2011 By exosup.com.zip
+│       │   ├── 📄 Ch2 - Polarisation - 2011 By exosup.com.zip
+│       │   └── 📄 Ch1 - Onde lumineuse - 2011 By exosup.com.zip
+│       ├── 📁 14-15 By exosup.com/
+│       │   ├── 📁 tp/
+│       │   │   └── 📄 TP Optique Physique SMP4 2015 By exosup.com.zip
+│       │   ├── 📁 td/
+│       │   │   ├── 📄 TD2-SMP4 2015 By exosup.com.zip
+│       │   │   └── 📄 TD1-SMP4 2015 By exosup.com.zip
+│       │   └── 📁 cours/
+│       │       ├── 📄 Ch5 -Reseaux - 2014 By exosup.com.zip
+│       │       ├── 📄 Ch4 - Interferences- 2014 impression By exosup.com.zip
+│       │       ├── 📄 Ch3 - Diffraction - 2014 By exosup.com.zip
+│       │       ├── 📄 Ch2 - Polarisation - 2014  By exosup.com.zip
+│       │       └── 📄 Ch1 - Onde Lumineuse - 2014 By exosup.com.zip
+│       ├── 📁 13-14 By exosup.com/
+│       │   ├── 📁 td/
+│       │   │   ├── 📄 TD2-SMP3 -2013-2014 By exosup.com.zip
+│       │   │   └── 📄 TD1-SMP3 - 2013-2014 By exosup.com.zip
+│       │   └── 📁 cours/
+│       │       ├── 📄 Ch5 -Reseaux - 2013-2014 By exosup.com.zip
+│       │       ├── 📄 Ch4 - Interferences- 2013  By exosup.com.zip
+│       │       ├── 📄 Ch3 - Diffraction - 2013 By exosup.com.zip
+│       │       ├── 📄 Ch2 - Polarisation - 2013 By exosup.com.zip
+│       │       └── 📄 Ch1 - Onde lumineuse - 2013-2014 By exosup.com.zip
+│       └── 📁 examens By exosup.com/
+│           ├── 📄 examen rattrapage 2009  By exosup.com.zip
+│           ├── 📄 examen rattrapage 2008 By exosup.com.zip
+│           ├── 📄 Examen 2013-2014 By exosup.com.zip
+│           └── 📄 CC1-2012-2013 By exosup.com.zip
+├── 🔗📁 Optique Géométrique/  (raccourci)
+│   ├── 📁 TD & Exercices/
+│   │   ├── 📄 série 5 corrigé 1 pdf.pdf
+│   │   ├── 📄 série 5 corrigé 2 .pdf
+│   │   ├── 📄 série 4 .pdf
+│   │   ├── 📄 série 2 pdf.pdf
+│   │   ├── 📄 série 3 pdf.pdf
+│   │   ├── 📄 série 1 .pdf
+│   │   ├── 📄 Optique correction .pdf
+│   │   ├── 📄 optique série pdf.pdf
+│   │   └── 📄 TDoptiquegeometriquev1.05.pdf
+│   ├── 📁 Examens Corrigées/
+│   │   ├── 📄 Examen d'Optique géométrique SMP-SMC2-20190720T194249Z-001.zip
+│   │   ├── 📄 examens optique géométrique s2 fsj By ExoSup.com.pdf
+│   │   ├── 📄 examen.pdf
+│   │   ├── 📄 Exam_correction_session_normale_2010.pdf
+│   │   ├── 📄 Corrige-Exam-Optiq-Geom-SMP2-SR-2015.pdf
+│   │   └── 📄 CORRIGE-EX-OPT-GEOM-SN-SMP2-2015.pdf
+│   └── 📁 Cours/
+│       ├── 📄 cours_optique.pdf
+│       ├── 📄 Chapitre1_optique.pdf
+│       ├── 📄 Chapitre2_optique.pdf
+│       ├── 📄 Annexe cours optique polycope.pdf
+│       ├── 📄 Chapitre 5 cours optique Polycope.pdf
+│       ├── 📄 Chapitre3_optique.pdf
+│       ├── 📄 Chapitre 3 cours optique polycope.pdf
+│       ├── 📄 Chapitre 4 cours optique polycope.pdf
+│       ├── 📄 Chapitre 2 cours optique polycope.pdf
+│       └── 📄 Chaptre1 cours optique polycope.pdf
+├── 🔗📁 optique/  (raccourci)
+│   ├── 📁 cours/
+│   │   └── 📄 cours optique (KH) .pdf
+│   ├── 📁 TP/
+│   │   ├── 📄 tp optique(KH).pdf
+│   │   └── 📄 énoncé tp optique.pdf
+│   ├── 📁 resumé/
+│   │   └── 📄 resumé optique (KH) .pdf
+│   ├── 📁 exercices/
+│   │   ├── 📄 3 corr 2.PNG
+│   │   ├── 📄 3 corr 1.PNG
+│   │   ├── 📄 3.PNG
+│   │   ├── 📄 2 corr.PNG
+│   │   ├── 📄 2.PNG
+│   │   ├── 📄 1 chem.PNG
+│   │   ├── 📄 1 corr.PNG
+│   │   ├── 📄 1.PNG
+│   │   └── 📄 exoptique_20089.pdf
+│   ├── 📁 devoirs/
+│   │   ├── 📄 examen c 2019 ( corrigé voir ex3 td1) (KH) .pdf
+│   │   ├── 📄 examen p 2019 + corrigé(KH) .pdf
+│   │   └── 📄 DS optique 2019 + corrigé (KH) .pdf
+│   └── 📁 TD/
+│       ├── 📄 TD3 optique (KH) .pdf
+│       ├── 📄 TD2 optique (KH) .pdf
+│       └── 📄 TD1 optique (KH) .pdf
+├── 🔗📁 Optique Physique/  (raccourci)
+│   ├── 📄 CamScanner 03-02-2023 19.14.pdf
+│   ├── 📁 TP/
+│   │   ├── 📄 Compte_Rendu_TPs_Optique_Ondulatoire_DMGHARAZ.pdf
+│   │   └── 📄 TP_Optique-ondulatoire(parti A)(3).pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 TD1_Optiq2_SMP4_2020 (1).pdf
+│   │   ├── 📄 TD1_Optiq2_SMP4_2020.pdf
+│   │   ├── 📄 TD2_Optiq2_SMP4_2020.pdf
+│   │   ├── 📄 TD3_Optiq2_SMP4_2020.pdf
+│   │   ├── 📄 TD4_Optiq2_SMP4_2020.pdf
+│   │   ├── 📄 TD5_Optiq2_SMP4_2020.pdf
+│   │   ├── 📄 TD1_Optiq2_SMP4_2021.pdf
+│   │   ├── 📄 TD2_Optiq2_SMP4_2021.pdf
+│   │   ├── 📄 TD3_Optiq2_SMP4_2021.pdf
+│   │   ├── 📄 TD4_Optiq2_SMP4_2021.pdf
+│   │   ├── 📄 TD5_Optiq2_SMP4_2021.pdf
+│   │   ├── 📄 N°2.pdf
+│   │   └── 📄 TDs Optique Ondulatoire 2023.pdf
+│   ├── 📁 EXAMAN/
+│   │   ├── 📄 Exam_FSA_NS22_WaveOptics.pdf
+│   │   ├── 📄 corr optique rabat 14 (Exam3).pdf
+│   │   ├── 📄 Épreuve dOptique Physique (2).pdf
+│   │   ├── 📄 Examen SN 2015.pdf
+│   │   ├── 📄 Examen SR 2015.pdf
+│   │   ├── 📄 Exa_Optiq2_SMPC3_2013_SN.pdf
+│   │   ├── 📄 Exa_Optiq2_SMPC3_2013_SR.pdf
+│   │   ├── 📄 Exa_Optiq2_SMP4_2018_SN.pdf
+│   │   ├── 📄 Examen_Optiq2_SMP4_2018_SR.pdf
+│   │   ├── 📄 Exa_Optiq2_SMP4_2019_SN.pdf
+│   │   ├── 📄 Exa_Optiq2_SMP4_2019_SR.pdf
+│   │   ├── 📄 Exa_Optiq2_SMP4_2020_SN.pdf
+│   │   ├── 📄 Exa_Optiq2_SMP4_2020_SR.pdf
+│   │   ├── 📄 Exa_Optiq2_SMP4_2021_SN.pdf
+│   │   ├── 📄 Exa_Optiq2_SMP4_2021_SR.pdf
+│   │   ├── 📄 Épreuve dOptique Physiqu.pdf
+│   │   └── 📄 Épreuve dOptique Physique.pdf
+│   └── 📁 coure/
+│       ├── 📄 Optique phy- chp1- Generalités + polarisation.pdf
+│       ├── 📄 optique phy_ interférences lumineuses (1).pdf
+│       ├── 📄 Cours  dOptique Ondulatoire.pdf
+│       ├── 📄 Generalites.pdf
+│       ├── 📄 OEM.pdf
+│       ├── 📄 Interferences.pdf
+│       ├── 📄 InterferencesDeuxOndes.pdf
+│       ├── 📄 InterferencesOndesMultiples.pdf
+│       ├── 📄 EgaleEpaisseur.pdf
+│       ├── 📄 Diffraction.pdf
+│       ├── 📄 Generalites_ppt.pdf
+│       ├── 📄 OEM_ppt.pdf
+│       ├── 📄 Interferences_ppt.pdf
+│       ├── 📄 InterferencesDeuxOndes_ppt.pdf
+│       ├── 📄 Ch5-InterferencesOndesMultiples_ppt.pdf
+│       └── 📄 Ch6-EgaleEpaisseur_ppt.pdf
+├── 🔗📁 Optique /  (raccourci)
+│   ├── 📄 Exercices Corrigés.pdf
+│   ├── 📄 Remarque.pdf
+│   ├── 📄 Exercice 4 TD1.pdf
+│   ├── 📄 Cours Optique complet.pdf
+│   ├── 📄 Correction TD 3.pdf
+│   ├── 📄 Chapitre 6.pdf
+│   ├── 📄 TD 3.pdf
+│   ├── 📄 Chapitre 5.pdf
+│   ├── 📄 chapitre1.pdf
+│   ├── 📄 Correction TD1.pdf
+│   ├── 📄 Correction TD 2.pdf
+│   ├── 📄 TD1.pdf
+│   ├── 📄 TD 2.pdf
+│   ├── 📄 Correction applications.pdf
+│   ├── 📄 Chapitre 4.pdf
+│   ├── 📄 Chapitre 3.pdf
+│   └── 📄 Chapitre 2.pdf
+├── 🔗📁 ° OPTIQUE GEOMETRIQUE SABORPCMATH.COM/  (raccourci)
+│   ├── 📄 °TDS OPTIQUE-GEO FPK 2020 SMAI KHOURIBGHA.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FPK 2020 SMPC KHOURIBGHA.pdf
+│   ├── 📄 EXAMENS OPTIQUE S2 FPO-OUARZAZATE 2012 a 2016.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FPO-OUARZAZATE 201-2016.pdf
+│   ├── 📄 EXAMENS OPTIQUE S2 FPO-OUARZAZATE SMAI.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FPO-OUARZAZATE 2020 SMAI.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FPO-OUARZAZATE 2020 SMP.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FPT-TAZA 2020 SMPC-SMAI 2.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FPT-TAZA 2020 SMPC-SMAI 1.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO ENSAB 2020 BERRECHID.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO ENSA-KH 2020 KHOURIBGHA.pdf
+│   ├── 📄 EXAMENS OPTIQUE S2 ENSAS-SAFI.pdf
+│   ├── 📄 EXAMENS OPTIQUE S2 ENSA-ELJADIDA.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO ENSAJ 2020 ELJADIDA.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSDM 2020 SMPC.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSDM 2018 SMAI.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSDM 2020 SMAI.pdf
+│   ├── 📄 EXAMENS OPTIQUE S2 FSDM-FES SMPC-SMAI 07 10.pdf
+│   ├── 📄 EXAMENS OPTIQUE S2 FSDM-FES SMPC-SMAI 17 19.pdf
+│   ├── 📄 EXAMENS OPTIQUE S2 FSJ-ELJADIDA SMPC-SMAI.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSJ 2020 SMAI.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSJ 2020 SMPC.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSJ 2012 SMPC.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSJ 2014 SMPC.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSJ 2016 SMAI.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSK 2020 SMPC.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSK 2013 SMPC.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSK 2014 SMPC.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSK 2016 SMPC.pdf
+│   ├── 📄 EXAMENS OPTIQUE S2 FSK-KENITRA SMPC-SMAI.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSM 2020 SMAI.pdf
+│   ├── 📄 °TD-EXAMENS OPTIQUE-GEO FSM 2020 SMPC.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSO 2012-2013 SMAI-SMPC.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSO 2020 SMPC.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSO 2020 SMAI.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSR 2020 SMPC.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSR 2019 SMPC.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSR 2019 SMAI.pdf
+│   ├── 📄 EXAMENS OPTIQUE S2 FSR-RABAT SMPC.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSSM 2020 SMAI.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FSSM 2020 SMPC.pdf
+│   ├── 📄 °TDS OPTIQUE-GEO FST-MOH.pdf
+│   ├── 📄 EXAMENS OPTIQUE S2 MY ENSAM.pdf
+│   ├── 📄 TDS OPTIQUE S2 MY ENSAM.pdf
+│   ├── 📄 EXAMENS OPTIQUE S2 FSAC 2005 A 2019.pdf
+│   ├── 📄 EXAMENS OPTIQUE S2 FSA-AGADIR 2010 A 2017.pdf
+│   └── 📄 °° Optique Géométrique BY SABOR F.pdf
+├── 🔗📁 ° OPTIQUE GEOMETRIQUE SABORPCMATH.COM/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 📄 Exercices Optique
+├── 📄 TD 4 11 Optique Lentille Convexe
+├── 📄 Exercices Optique Vitesse de la lumiere
+├── 📄 Exercices Physique Ondes Interféromètre de Michelson
+├── 📄 Cours Optique Géométrique ENSAF
+├── 📄 TD Diffraction Lumiere Obstacles
+├── 📄 TD 02  Prisme a reflexion totale
+├── 📄 Exercices Physique Partie Optique Serie 01
+├── 📄 Exercices Lentille mince  Optique Geometrique
+├── 📄 Exercices optique geometrique SMP2 SR
+├── 📄 Examen  Optique  Physique
+├── 📄 TD 64 13 Capteur de niveau d'eau Optique
+├── 📄 Examen Optique Physique
+├── 📄 Exercices Optique Microscope
+├── 📄 Examen Physique Optique 2
+├── 📄 Examen optique geometrique SMP2
+├── 📄 Controle Optique Physique
+├── 📄 Examen  Physique  4  Optique  Physique
+├── 📄 Cours Physique Optique Ondulatoire CH 30
+├── 📄 Exercices Optique Geometrique Dioptre Spherique
+├── 📄 Corrige TD Optique Geometrique SMP2
+├── 📄 TD Diffraction du Reseau
+├── 📄 Exercices Optique Loupe
+├── 📄 Exercices Optique G4 08 appareil photo
+├── 📄 TD Optique Géométrique IBRIHICH
+├── 📄 TD Optique Geometrique
+├── 📄 TD 1 Interferences a Deux Ondes Par Division Du Front D'Onde
+├── 📄 TD 64 06 Optique Lentilles
+├── 📄 Controle Optique Lentes Convergentes
+├── 📄 Cours Physique IV Optique Physique
+├── 📄 Examen Optique Geometrique SMP2
+├── 📄 Exercices Optique Geometrique
+├── 📄 Examen Physique 4 Optique Physique
+├── 📄 TD Optique Physique Rattrapage
+├── 📄 Exercices Optique four solaire
+├── 📄 TD 65 05 Lentille convergente et dioptre plan
+├── 📄 Cours Prisme et Lentilles
+├── 📄 TD 4 Optique Grossissement D Une Loupe
+├── 📄 Examen Optique Geometrique Filiere SM2
+├── 📄 TD 5-03 Optique Miroir Sphérique
+├── 📄 Controle SMP Optique 2
+├── 📄 Examen  Optique Physique
+├── 📄 Exercices Optique géométrique
+├── 📄 Exercices Optique Mission sur la planete Mars
+├── 📄 Examen Physique Optique
+├── 📄 TD  SMPC2  Optique
+├── 📄 Exercices Grandissement  et  grossissement
+├── 📄 Exercices Optique Lentille Divergente
+├── 📄 Exercices Optique traitement antireflet d une lentille
+├── 📄 Controle Optique Physique SMP S3
+├── 📄 Examen Optique Geometrique
+├── 📄 TD 64 14 Optique methode de Bessel
+├── 📄 Exercices Optique Geometrique
+├── 📄 Exercices Optique Geometrique
+├── 📄 Cours Optique Geometrique S1 G et S1 SM-d
+├── 📄 TD 62.02 Courbe d'indice Loi de Cauchy Optique
+├── 📄 TD Optique Géométrique SMPC2
+├── 📄 Examen Optique Geometrique SMP2 FSA
+├── 📄 Exercices Solution de l'exercice 4
+├── 📄 TD Optique Geometrique SMP2
+├── 📄 Examen Physique Optique SMP
+├── 📄 Cours Les instruments d'optique
+├── 📄 TD Optique Geometrique SMPC2
+├── 📄 Controle Optique Geometrique  TD
+├── 📄 Controle Physique SMP S3 Ondes Lumineuses
+├── 📄 TD 4.10  Optique menisque convergent
+├── 📄 TD Optique geometrique
+├── 📄 Controle Optique
+├── 📄 Examen SMPC2 electricite optique laiasson chimiques
+├── 📄 TD 6-4-07 Lunette de Galilée
+├── 📄 Exercices Optique Prisme réflexion totale
+├── 📄 Exercices Optique geometrique SN 1h30
+├── 📄 Exercices Optique Miroir spherique concave
+├── 📄 Cours Lentilles Convergentes et Divergentes
+├── 📄 Examen Spectro-goniometrie a reseau plan par transmission
+├── 📄 Exercices Optique Fibre a saut d'indice
+├── 📄 Exercices Optique Geometrie
+├── 📄 Exercices Optique ombre et penombre
+├── 📄 Examen Optique SM2 SMC
+├── 📄 TD 04 Optique Retroprojecteur
+├── 📄 Examen Optique geometrique SMP2
+├── 📄 TD 2  Interferometrie Mach Zehnder
+├── 📄 Exercices Optique Lentilles Minces
+├── 📄 Exercices Optique Geometrie Enonces
+├── 📄 Cours success club
+├── 📄 Exercices  Physique Optique
+├── 📄 Examen Optique Physique SMP
+├── 📄 Examen optique géométrique API 2eme semestre
+├── 📄 Cours Optique Geometrique Formation des Images
+├── 📄 Examen SMP S3 Corrige
+├── 📄 Cours Dioptre et Lame à faces parallèles
+├── 📄 Cours Algebre 2 Resume de cours
+├── 📄 Exercices Optique Prisme de Dove
+├── 📄 Examen Physique Optique
+├── 📄 Exercices Optique Defauts de l'oeil
+├── 📄 Exercices Optique Deviation Lumiere Prisme
+├── 📄 TD 03 Optique Mesure de longueurs - cas des grandes distances
+├── 📄 Controle  SMP3 Optique 2
+├── 📄 Exercices Optique Penta Prisme
+├── 📄 TD 4 Interférences bi-miroir de Fresnel
+├── 📄 TD 4 Optique Physique SM4
+├── 📄 Examen Physique Optique
+├── 📄 Examen Optique Physique
+├── 📄 Examen physique SHS  physique ondes
+├── 📄 Exercices Optique Geometrique
+├── 📄 Examen optique géométrique SMIA Physique 4
+├── 📄 TD 64-05 Lentilles
+├── 📄 Exercices  Optique  Geometrique  Enonces
+├── 📄 TD Diffraction Lumieres Obstacles
+├── 📄 Examen Optique Geometrique SMP2
+├── 📄 Cours Miroirs
+├── 📄 Cours Optique Lentille Minces
+├── 📄 Exercices Optique Geometrique SMP2
+├── 📄 Examen  Physique 5 Optique
+├── 📄 TD 2 Physique Ondes Optique
+├── 📄 TD Physique  SMA SMI  Electrostatique  Electrocinetique
+├── 📄 Examen Optique geometrique - ENSA Khouribga
+├── 📄 Controle SMP Optique 2
+├── 📄 Examen Physique Optique 2
+├── 📄 Cours Optique Géométrique Pr IBRIHICH
+├── 📄 20180417221605.jpg
+├── 📁 Optique Géo ensaf/
+│   ├── 📄 td 1.pdf
+│   ├── 📄 Devoir à la maison ( ex 8-9).pdf
+│   ├── 📄 TD 1.pdf
+│   ├── 📄 td 4.pdf
+│   ├── 📄 TD 2.pdf
+│   ├── 📄 COURS (fluerissant).pdf
+│   ├── 📄 td 3.pdf
+│   ├── 📄 td 2.pdf
+│   ├── 📁 EXAMS OPTIQUE/
+│   │   ├── 📄 WhatsApp Image 2020-07-10 at 18.54.07.jpeg
+│   │   └── 📄 WhatsApp Image 2020-07-10 at 18.54.11.jpeg
+│   ├── 📁 TDs/
+│   │   ├── 📁 TD2/
+│   │   │   ├── 📄 Ex 1.2.jpeg
+│   │   │   ├── 📄 ex 2.jpeg
+│   │   │   ├── 📄 Ex 1.1.jpeg
+│   │   │   ├── 📁 EX 6 (lentille/
+│   │   │   │   ├── 📄 Q3  vergence de lentille divergente negatif.PNG
+│   │   │   │   ├── 📄 Q6.PNG
+│   │   │   │   ├── 📄 Q3 f_ du systeme.PNG
+│   │   │   │   ├── 📄 Q1 dimension.PNG
+│   │   │   │   ├── 📄 Q1 (distance focale positive =lentille convergente ).PNG
+│   │   │   │   ├── 📄 Q2 construction geo.PNG
+│   │   │   │   └── 📁 Q4 ( à 20 cm )/
+│   │   │   └── 📁 EX 5 (lentille mince)/
+│   │   │       ├── 📄 Q3 ( x de la tache).PNG
+│   │   │       ├── 📄 Q4 distance focale mininmale pour.PNG
+│   │   │       ├── 📄 q1 ( sur le plan focal F_).PNG
+│   │   │       ├── 📄 Q2 ( non. c est une tache pas nette).PNG
+│   │   │       ├── 📄 Q3.PNG
+│   │   │       └── 📁 Q4 changer distance focale pour/
+│   │   └── 📁 TD 1/
+│   ├── 📁 COURS/
+│   └── 📁 Optique géo Ensa Tanger/
+└── 📁 Optique Géométrique/
+    ├── 📁 Contrôles/
+    │   ├── 📁 22-23/
+    │   │   └── 📄 CF optique 22-23.pdf
+    │   ├── 📁 21-22/
+    │   │   ├── 📄 CF-SMPCS2_OG_CR_2022.pdf
+    │   │   └── 📄 CR_OG_SMPCS2_2022.pdf
+    │   ├── 📁 15-16/
+    │   │   ├── 📄 CR_Opt_géom_S2_SMPC_ Corrigé_Exo2.pdf
+    │   │   ├── 📄 CR_Opt_géom_S2_SMPC_ Ennoncé.pdf
+    │   │   ├── 📄 CF_opt_Géom_S2_SMPC_corrigé.pdf
+    │   │   └── 📄 CF_opt_Géom_S2_SMPC_Ennoncé.pdf
+    │   ├── 📁 20-21/
+    │   │   ├── 📄 CR-solution_2021.pdf
+    │   │   ├── 📄 CFB-solution_2021.pdf
+    │   │   ├── 📄 CFA-solution_2021.pdf
+    │   │   └── 📄 CF 2021 Optique.pdf
+    │   └── 📁 19-20/
+    │       └── 📄 Corrigée CF 2019-2020 OG.pdf
+    ├── 📁 Cours/
+    │   └── 📁 Cours Prof BENSAMKA/
+    │       ├── 📄 Chap 6.I Optique.pdf
+    │       ├── 📄 Chap 6.II Optique.pdf
+    │       ├── 📄 Chap 4 I -Optique.pdf
+    │       ├── 📄 Chap 4 II Optique.pdf
+    │       ├── 📄 Chap7.II_Optique.pdf
+    │       ├── 📄 Chap7.I_Optique.pdf
+    │       ├── 📄 Prisme_Cours.pdf
+    │       ├── 📄 Chap 5 I Optique.pdf
+    │       ├── 📄 Chap 5 II Optique.pdf
+    │       ├── 📄 Chap 2 Optique.pdf
+    │       ├── 📄 Chap 1 Optique .pdf
+    │       └── 📄 Chap 3 Optique.pdf
+    ├── 📁 TDs/
+    │   ├── 📁 TD4/
+    │   │   ├── 📄 Corrigé TD4 Optique.pdf
+    │   │   └── 📄 TD4 Optique.pdf
+    │   ├── 📁 TD3/
+    │   │   ├── 📄 Corrigé TD3 Optique.pdf
+    │   │   └── 📄 TD3 Optique.pdf
+    │   ├── 📁 TD2/
+    │   │   ├── 📄 Corrigé TD2 Optique.pdf
+    │   │   └── 📄 TD2 Optique.pdf
+    │   └── 📁 TD1/
+    │       ├── 📄 TD1 Optique.pdf
+    │       └── 📄 Corrigé TD1 Optique.pdf
+    └── 📁 Résumé/
+        ├── 📄 Résumé optique geometrique SMPC2.pdf
+        ├── 📄 résumé optique géo By ExoSup.com.pdf
+        ├── 📄 Optique Résume.pdf
+        ├── 📄 Résumé du cours d’OPTIQUE By ExoSup.com.pdf
+        └── 📄 resume optique geometrique SMP SMC S2 By ExoSup.com.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Optique Géométrique et ondulatoire
+═════════════════════════════════════

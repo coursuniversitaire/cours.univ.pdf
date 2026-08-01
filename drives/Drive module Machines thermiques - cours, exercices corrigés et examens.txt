@@ -1,0 +1,104 @@
+📚 MODULE : Machines thermiques                       
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Machines thermiques.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Machines thermiques/
+└── 🔗📁 MACHINES THERMIQUES/  (raccourci)
+    ├── 📄 machine thermique.pdf
+    ├── 📄 GP-S2-M7.1-Mach. thermique -CRS-Mourad.pdf
+    ├── 📄 CYCLES_THERMODYNAMIQUES_DES_MACHINES_THE.pdf
+    ├── 📄 Machines frigorifiques MT.pdf
+    ├── 📄 td-machines-thermiques_2019_2020-1.pdf
+    ├── 📄 WhatsApp Image 2021-05-09 at 3.53.43 PM.jpeg
+    ├── 📄 WhatsApp Image 2021-05-09 at 3.53.06 PM.jpeg
+    ├── 📄 WhatsApp Image 2021-05-09 at 3.52.27 PM.jpeg
+    ├── 📄 WhatsApp Image 2021-05-09 at 3.51.51 PM.jpeg
+    ├── 📄 WhatsApp Image 2021-05-09 at 3.51.04 PM.jpeg
+    ├── 📄 WhatsApp Image 2021-04-15 at 9.57.54 AM.jpeg
+    ├── 📄 WhatsApp Image 2021-04-15 at 9.57.30 AM.jpeg
+    ├── 📄 WhatsApp Image 2021-04-15 at 9.57.15 AM.jpeg
+    ├── 📄 WhatsApp Image 2021-04-15 at 9.56.59 AM.jpeg
+    ├── 📁 TP/
+    │   ├── 📄 DESIGN03.dsn
+    │   ├── 📄 otto.dsn
+    │   ├── 📄 diesel.dsn
+    │   ├── 📄 diesel.dbk
+    │   ├── 📄 TP Machines thermiques.pdf
+    │   ├── 📄 otto.dbk
+    │   ├── 📄 TP.DSN
+    │   ├── 📄 TP.dbk
+    │   ├── 📄 DESIGN01.dsn
+    │   ├── 📄 TP Machines thermiques - GP 20-21.pdf
+    │   └── 📄 DESIGN03.dsn
+    ├── 📁 cyclepad_20010611/
+    │   └── 📁 CYCLEPAD/
+    │       ├── 📄 FILOG.INI
+    │       ├── 📄 FITMP000.000
+    │       ├── 📄 ACLGUT32.DLL
+    │       ├── 📄 ACLGUT16.DLL
+    │       ├── 📄 WIDGE32.DLL
+    │       ├── 📄 SOCKAUX.DLL
+    │       ├── 📄 CPICONS.DLL
+    │       ├── 📄 CPDEMO01.EXE
+    │       ├── 📄 CYCLEPAD.IM8
+    │       ├── 📄 CYCLEPAD.IM7
+    │       ├── 📄 CYCLEPAD.IM6
+    │       ├── 📄 CYCLEPAD.IM5
+    │       ├── 📄 CYCLEPAD.IM4
+    │       ├── 📄 CYCLEPAD.IM3
+    │       ├── 📄 CYCLEPAD.IM2
+    │       ├── 📄 CYCLEPAD.IMG
+    │       ├── 📄 CPADLAB.INI
+    │       ├── 📄 CYCLEPAD.INI
+    │       ├── 📄 ALLEGRO.INI
+    │       ├── 📄 CPAD.EXE
+    │       ├── 📁 HELP/
+    │       │   └── 📄 CPADHELP.HLP
+    │       ├── 📁 LIBRARY/
+    │       │   ├── 📄 S_REGEN.DLB
+    │       │   ├── 📄 S_REHEAT.DLB
+    │       │   ├── 📄 S_DSL.DLB
+    │       │   ├── 📄 S_BRYTN.DLB
+    │       │   ├── 📄 BRAYTON.DLB
+    │       │   ├── 📄 S_OTTO.DLB
+    │       │   ├── 📄 REGEN.DLB
+    │       │   ├── 📄 COMBINED.DLB
+    │       │   ├── 📄 S_CMBND.DLB
+    │       │   ├── 📄 S_REFRIG.DLB
+    │       │   ├── 📄 OTTO.DLB
+    │       │   ├── 📄 REFRIG.DLB
+    │       │   ├── 📄 DIESEL.DLB
+    │       │   ├── 📄 REHEAT.DLB
+    │       │   ├── 📄 S_RANKIN.DLB
+    │       │   └── 📄 RANKINE.DLB
+    │       ├── 📁 LOGS/
+    │       │   └── 📄 ERRORS.RTM
+    │       ├── 📁 OUTPUT/
+    │       │   └── 📄 README.TXT
+    │       └── 📁 PROBLEMS/
+    │           └── 📄 README.TXT
+    └── 📁 EXAMS/
+        ├── 📄 WhatsApp Image 2021-05-30 at 8.06.57 PM.jpeg
+        ├── 📄 WhatsApp Image 2021-05-30 at 8.41.52 PM.jpeg
+        ├── 📄 WhatsApp Image 2021-05-30 at 5.34.07 PM.jpeg
+        ├── 📄 WhatsApp Image 2021-05-13 at 4.53.12 PM.jpeg
+        ├── 📄 WhatsApp Image 2021-05-13 at 4.53.19 PM.jpeg
+        ├── 📄 WhatsApp Image 2021-05-13 at 4.53.44 PM.jpeg
+        ├── 📄 WhatsApp Image 2021-05-13 at 4.55.11 PM.jpeg
+        ├── 📄 WhatsApp Image 2021-05-13 at 3.05.02 PM.jpeg
+        └── 📄 WhatsApp Image 2021-05-13 at 3.05.02 PM (1).jpeg
+
+═════════════════════════════════════
+  Fin du fichier · Machines thermiques
+═════════════════════════════════════

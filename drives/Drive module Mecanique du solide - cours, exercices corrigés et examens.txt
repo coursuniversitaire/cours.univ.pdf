@@ -1,0 +1,335 @@
+📚 MODULE : Mecanique du solide                       
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Mecanique du solide.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Mecanique du solide/
+├── 🔗📁 Mécanique de solide /  (raccourci)
+│   ├── 📄 Polycopi- dExercices et Probl-mes R-solus de M-can_260409_123754.pdf
+│   ├── 📄 Examen de mecanique du solide - Session ordinaire.pdf
+│   ├── 📄 Correction de l-examen de mecanique du solide.pdf
+│   ├── 📄 Polycopi- dExercices et Probl-mes R-solus de M-canique du Solide (Edition 2021).pdf
+│   ├── 📄 Serie 4.pdf
+│   ├── 📄 Correction de la serie 3.pdf
+│   ├── 📄 Correction de la Série 2.pdf
+│   ├── 📄 Correction de la Serie 1.pdf
+│   └── 📄 Cours de Mécanique des Solides.pdf
+├── 🔗📁 [P145] Mécanique du solide/  (raccourci)
+│   ├── 📁 [P145] TP/
+│   │   ├── 📄 determination des incertitudes.pdf
+│   │   └── 📄 p145-tp.pdf
+│   ├── 📁 [P145] TD/
+│   │   └── 📄 Poly-TD-P145 2023
+│   ├── 📁 [P145] Bonus/
+│   │   ├── 📁 archive/
+│   │   │   ├── 📄 684092848-exam-Me-canique-des-Solides.pdf
+│   │   │   └── 📄 archive2 smp
+│   │   ├── 📁 resumée/
+│   │   │   ├── 📄 Resume Meca 1.pdf
+│   │   │   ├── 📄 resumee solid.pdf
+│   │   │   ├── 📄 P145-MecDesSysSolIndef_cours.pdf
+│   │   │   ├── 📄 résumé mécanique des solides
+│   │   │   ├── 📄 dynamique.cours fsts
+│   │   │   ├── 📄 matriceMomentInertie.pdf
+│   │   │   ├── 📄 SMP S3 -- RÉSUMÉE de MÉCANIQUE DU SOLIDE.pdf
+│   │   │   └── 📄 Résumé solide.pdf
+│   │   ├── 📁 TD/
+│   │   │   ├── 📄 Série 2_A.pdf
+│   │   │   ├── 📄 Solide TD Solution.pdf
+│   │   │   ├── 📄 Corrigée-Série-4-Mécanique-Solide-2012-2013.pdf
+│   │   │   ├── 📄 Polycope-MS-Exercices-Solutions.pdf
+│   │   │   ├── 📄 Corrigée-Série-3-Mécanique-Solide-2012-2013.pdf
+│   │   │   ├── 📄 mécanique solide.pdf
+│   │   │   ├── 📄 Corrigée-Série-2-Mécanique-Solide-2012-2013.pdf
+│   │   │   ├── 📄 CENTRE inertie cours Mécanique2.pdf
+│   │   │   ├── 📄 Corrigée-Contrôle-Mécanique-Solide-2011-2012.pdf
+│   │   │   ├── 📄 Corrigée-Contrôle-Mécanique-Solide-2012-2013.pdf
+│   │   │   ├── 📄 C2-SMP-2013-2014-Corrigé.pdf
+│   │   │   ├── 📄 Corrigée-Série-1-Mécanique-Solide-2012-2013.pdf
+│   │   │   ├── 📄 Contrôle-N-1-Mécanique-Solide-2011-2012.pdf
+│   │   │   ├── 📄 C1-SMP-2012-2013-Has.pdf
+│   │   │   ├── 📄 MECANIQUE_DU SOLIDE.pdf
+│   │   │   ├── 📄 Contrôle-rattrapage-Mécanique-Solide-2006-2007.pdf
+│   │   │   ├── 📄 Contrôle-N-2-Mécanique-Solide-2011-2012.pdf
+│   │   │   ├── 📄 2019-20_Cinetique du solide.pdf
+│   │   │   ├── 📄 2019-20_Systeme Mecanique.pdf
+│   │   │   ├── 📄 Solution de lexercice 2 _ Cinétique.pdf
+│   │   │   ├── 📄 Solution de  lexercice 2 _ Cinématique.pdf
+│   │   │   ├── 📄 MC_30-11-2015.pdf
+│   │   │   ├── 📄 TD_N°3_15_16_avec_solution_étud.pdf
+│   │   │   ├── 📄 Geometrie_des_masses.pdf
+│   │   │   ├── 📄 Exercice_4_detaille_ (1).pdf
+│   │   │   ├── 📄 Corrigée-Série-5-Mécanique-Solide-2012-2013.pdf
+│   │   │   ├── 📄 Devoir de mécanique du solide.pdf
+│   │   │   ├── 📄 cylindre_matrice dinertie.pdf
+│   │   │   ├── 📄 2020_TD-Dynamique-Théorèmes de lEnergie-Corrigé-.pdf
+│   │   │   ├── 📄 2020_TD-Dynamique-Théorèmes de lEnergie.pdf
+│   │   │   ├── 📄 2020_Corrigé Cinétique-Exercice3_TD4.pdf
+│   │   │   ├── 📄 Corrigé TD4.pdf
+│   │   │   ├── 📄 Corrigé-TD3.pdf
+│   │   │   ├── 📄 2020_TD4.pdf
+│   │   │   ├── 📄 TD3 (1).pdf
+│   │   │   ├── 📄 TD3.pdf
+│   │   │   ├── 📄 Vendredi-TD2_Suite.pdf
+│   │   │   ├── 📄 TD2bis.pdf
+│   │   │   ├── 📄 TD2.pdf
+│   │   │   ├── 📄 TD1.pdf
+│   │   │   └── 📄 exercices_et_examens_resolus.pdf
+│   │   └── 📁 TP/
+│   │       ├── 📄 TP1 théorème d'huygens.pdf
+│   │       └── 📄 Tp 145-146.pdf
+│   ├── 📁 [P145] Cours/
+│   │   ├── 📄 Systeme Mecanique.pdf
+│   │   ├── 📄 P145.chp5
+│   │   ├── 📄 P145.Chp4
+│   │   ├── 📄 P145.chp3
+│   │   ├── 📄 P145.chap2 
+│   │   └── 📄  P145.Chp1
+│   └── 📁 [P145] Archive/
+│       ├── 📄 exam-2023-Pr-fadili.pdf
+│       └── 📄 Exam-2023
+├── 📄 Exercices  et  Problèmes  corrigés  Mécanique  du  solide  
+Exercices
+├── 📄 TD Centre de gravité
+├── 📄 Cours Systemes Materiels
+├── 📄 Examen Mecanique du Solide
+├── 📄 Cours Mecanique Du Solide Parfait
+├── 📄 Exercices  application lineaire antisymetrique
+├── 📄 Examen Mecanique du Solide
+├── 📄 Exercices Mecanique du Solide Indeformable
+├── 📄 Exercices Mecanique Du Solide Indeformable
+├── 📄 Exercices Mecanique du Solide Indeformable Serie N2
+├── 📄 Exercices Mecanique du Solide Indeformable Serie N2
+├── 📄 Exercices Mecanique du Solide Indeformable Serie N2
+├── 📄 Exercices Mecanique du Solide Indeformable Serie N2
+├── 📄 Exercices Mecanique du Solide Indeformable Serie N2
+├── 🔗📁 ° MECANIQUE SOLIDE BY SABORPCMATH 2022/  (raccourci)
+│   ├── 📁 °TD/
+│   │   ├── 📁 FS SMA SMP/
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE Rachid MESRAR FSA SABOR.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FSSM 20-21 SMP SABOR.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FSSM 20-21 SMA SABOR.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FSSM 17-18 SMP SABOR.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FSSM 16-17 SMP SABOR.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FSSM 15-16 SMP SABOR.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FSSM 15-16 SMA SABOR.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FSSM 14-15 SMP SABOR.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FSR-RABAT 15-16 SMP.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FSR-RABAT 14-15 SMP.pdf
+│   │   │   ├── 📄 °TDS MECANIQUE SOLIDE FSR 08-09 SMP.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FSO 12-13 SMP SABOR.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FSM-MEKNES 20-21 SMP.pdf
+│   │   │   ├── 📄 °TDS MECANIQUE SOLIDE FSJ-ELJADIDA SMA4 2020.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FSJ SABOR.pdf
+│   │   │   ├── 📄 °TDS MECANIQUE SOLIDE FSDM-FES SMA4 2020.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FSDM-FES 21-22 SMA.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FSDM-FES 20-21 SMP.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FSDM-FES 11-12 SMP.pdf
+│   │   │   ├── 📄 °TDS MECANIQUE SOLIDE FSBM-CASABLANCA SMA4 2020.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FSBM-CASA 20-21 SMP.pdf
+│   │   │   ├── 📄 °TDS MECANIQUE SOLIDE FSBM 14-15.pdf
+│   │   │   ├── 📄 °TDS MECANIQUE SOLIDE FSAO-OUAJDA SMA4 2020.pdf
+│   │   │   ├── 📄 °TDS MECANIQUE SOLIDE FSAC-CASABLANCA SMA4 2020.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FSAC-CASABLANCA 20-21 SMP.pdf
+│   │   │   ├── 📄 °TDS MECANIQUE SOLIDE FSA-AGADIR SMP 20-21.pdf
+│   │   │   ├── 📄 °TDS MECANIQUE SOLIDE FSA-AGADIR SMA4 2020.pdf
+│   │   │   ├── 📄 °TDS MECANIQUE SOLIDE FS-TETOUAN SMA4 2020.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FS-TETOUAN 20-21 SABOR.pdf
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE FS-TETOUAN 12-13 SABOR.pdf
+│   │   │   ├── 📄 °TDS MECANIQUE SOLIDE FPT-TAZA SMA4 2020.pdf
+│   │   │   ├── 📄 °TDS MECANIQUE SOLIDE FPS-SAFI SMA4 2020.pdf
+│   │   │   ├── 📄 °TDs Mecanique du solide SMA-SMP-s3 FSDM 11-12.pdf
+│   │   │   ├── 📄 °TDs Mécanique  Solide  FPN-NADOR 2017 SABOR.pdf
+│   │   │   └── 📄 °TDs COURS MECANIQUE SOLIDE FPL-LARACH 20 21.pdf
+│   │   ├── 📁 ENSA/
+│   │   │   ├── 📄 °TDs MECANIQUE SOLIDE ENSAH-HOCIEMA.pdf
+│   │   │   ├── 📄 °TDs COURS MECANIQUE SOLIDE ENSAJ-ELJADIDA.pdf
+│   │   │   ├── 📄 °TDs COURS MECANIQUE SOLIDE ENSA-TETOUAN.pdf
+│   │   │   └── 📄 °TDs COURS MECANIQUE SOLIDE ENSA-AGADIR.pdf
+│   │   ├── 📁 FST MIPC GEGM/
+│   │   │   ├── 📄 °TDs Mécanique de Solide FST TANGER 2020.pdf
+│   │   │   ├── 📄 °TDs Mécanique de Solide FST TANGER 2018.pdf
+│   │   │   ├── 📄 °TDs Mécanique de Solide FST MOHAMMEDIA.pdf
+│   │   │   └── 📄 °TDs Mécanique de Solide FST MARRAKECH 20-21.pdf
+│   │   └── 📁 CPGE/
+│   ├── 📁 °EXAMENS/
+│   │   ├── 📁 FS SMA SMP/
+│   │   │   ├── 📄 °°°EXAMENS MECANIQUE SOLIDE FSSM SMP SABOR.pdf
+│   │   │   ├── 📄 °°°EXAMENS MECANIQUE SOLIDE FSSM SMA SABOR.pdf
+│   │   │   ├── 📄 °°°EXAMENS MECANIQUE SOLIDE FSK SMP.pdf
+│   │   │   ├── 📄 °°°EXAMENS MECANIQUE SOLIDE FSAC-CASA SMP.pdf
+│   │   │   ├── 📄 °°°EXAMENS MECANIQUE SOLIDE FSA-AGADIR SMP.pdf
+│   │   │   ├── 📄 °°°EXAMENs MECANIQUE SOLIDE FS-TETOUAN SABOR.pdf
+│   │   │   ├── 📄 °°°EXAMENs MECANIQUE SOLIDE FS-TETOUAN  a 2021.pdf
+│   │   │   ├── 📄 °°°EXAMENS +TDs MECANIQUE SOLIDE FSK-KHOURIBGA SMP.pdf
+│   │   │   ├── 📄 °°°EXAMENS +TDs MECANIQUE SOLIDE FSJ S3 SMP SABOR.pdf
+│   │   │   └── 📄 °°°EXAMENS +TDs MECANIQUE SOLIDE FSJ S3 SMP A 2018.pdf
+│   │   ├── 📁 FST MIPC GEGM/
+│   │   │   └── 📄 °°°EXAMENS MECANIQUE SOLIDE FST MARRAKECH MIPC.pdf
+│   │   ├── 📁 ENSA/
+│   │   │   ├── 📄 °°°EXAMENS +TDs MECANIQUE SOLIDE ENSA-SAFI.pdf
+│   │   │   └── 📄 °°°EXAMENS +TDs MECANIQUE SOLIDE ENSA-BENI MELLAL.pdf
+│   │   └── 📁 CPGE/
+│   └── 📁 °COURS/
+│       ├── 📁 FST MIPC GEGM/
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FST-TANGER MIPC 2020.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FST-MARRAKECH MIPC 2020.pdf
+│       │   └── 📄 °°COURS MECANIQUE SOLIDE FST-MARRAKECH MIPC 2018.pdf
+│       ├── 📁 FS SMA SMP/
+│       │   ├── 📄 °°COURs MECANIQUE SOLIDE Rachid MESRAR FSA.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FSR-RABAT SMP 08-09.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FSM-MEKNES SMP 2020.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FSK-KENITRA SMP 2015.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FSDM-FES SMP 2020 2021.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FSDM-FES SMA4.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FSDM-FES SMA 2021 2022.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FSBM-CASABLANCA SMP 2020 2021.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FSBM-CASA SMP 2015.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FSAO-OUAJDA SMA4.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FSAC-CASABLANCA SMP 2020 2021.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FSAC-CASABLANCA SMA42020.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FSAC-CASABLANCA SMA42020 Rappels de cours (New).pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FSAC-CASABLANCA SMA42020 Les applications (New).pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FSA-AGADIR SMP3 21-22.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FSA-AGADIR SMP3 20-21.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FSA-AGADIR SMA4 2020.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FS-TETOUAN SMP 2018-2019.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FS-TETOUAN SMP 2014.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FS-TETOUAN SMA4 2020.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FPT-TAZA SMA4.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FPK SMP3 20-21.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE FPK SMA4 2020.pdf
+│       │   ├── 📄 °°COURS MECANIQUE SOLIDE 2 FSJ 2018.pdf
+│       │   └── 📄 °°COURS MECANIQUE SOLIDE 1 FSJ 2018.pdf
+│       ├── 📁 ENSA/
+│       │   ├── 📄 °°COURS Mécanique du solide ENSA-BENI MELLAL.pdf
+│       │   ├── 📄 °°COURS Mécanique du solide ENSA-SAFI.pdf
+│       │   └── 📄 °°COURS Mécanique du solide ENSAH-HOCIEMA.pdf
+│       └── 📁 CPGE/
+├── 📄 Controle Mecanique du solide corrigé 
+├── 📄 Exercices Mecanique du Solide Indeformable Serie N2
+├── 📄 Exercices Mecanique Du Solide Indeformable
+├── 📄 Exercices Mecanique du Solide Indeformable
+├── 📄 Examen Mecanique du Solide
+├── 📄 Exercices  application lineaire antisymetrique
+├── 📄 TD 3 Centre Instantané de Rotation
+├── 📄 TD 3 Cinematique du solide
+├── 📄 TD 3 Cinématique du solide
+├── 📄 TD Cinématique du Solide
+├── 📄 Exercices Cinématique Solide
+├── 📄 TD Centre de gravité
+├── 📄 TD 3 Cinematique Barre
+├── 📄 TD  Mecanique  Theoremes Energetiques
+├── 📄 TD 2  Théorèmes énergétiques
+├── 📄 Exercices Inertie Cylindre
+├── 📄 Examen Mecanique du solide
+├── 📄 Exercices Module Physique 6 Mecanique du solide indeformable
+├── 📄 Exercices Centre instantane de rotation base et roulante
+├── 📄 Exercices Geometrie des masses
+├── 📄 TD 3 Mecanique II SMP S3
+├── 📄 Cours Mecanique du Point Materiel
+├── 📄 Cours Systemes Materiels
+├── 📄 Cours Cinétique du Solide Parfait
+├── 📄 Examen Mecanique SMP3 Physique 4
+├── 📄 Exercices Mecanique du solide indeformable
+├── 📄 Controle Mecanique II SMP S3
+├── 📄 Controle Mecanique du Solide Indeformable
+├── 📄 Controle TD Mecanique Solide Indeformable
+├── 📄 cours Moment d inertie
+├── 📄 Exercices Cinematique Solide Indeformable
+├── 📄 Exercices Cinématique du solide
+├── 📄 Exercices Geometrie des Masses
+├── 📄 Cours Mécanique des Solides Indéformables
+├── 📄 Cours Mecanique du Solide Indéformable
+├── 📄 TD Mecanique du Solide Indeformable Serie 3
+├── 📄 Cours Energetique Du Solide
+├── 📄 Exercices Moments d'inertie
+├── 📄 TD Cinématique du solide
+├── 📄 Cours Geometrie Des Masses
+├── 📄 Cours Cinematique Du Solide
+├── 📄 Exercices Mecanique du Solide
+├── 📄 TD Mécanique du point et du solide
+├── 📄 TD Mecanique du point et du solide
+├── 📄 TD Cinématique du solide
+├── 📄 Examen Mecanique Du Solide
+├── 📄 TD 1  Solides a l'equilibre
+├── 📄 Examen Physique PC2 mecanique du solide
+├── 📄 Cours Mecanique Du Solide Parfait
+├── 📄 Exercices  et  Problèmes  corrigés  Mécanique  du  solide  
+Exercices
+├── 📄 Examen Mecanique des Solides Rigides cours
+├── 📄 Cours Mécanique du Solide UE 41c
+├── 📄 Cours Mécanique du Solide Loulidi
+├── 📄 Cours  Machines Thermiques
+├── 📄 Examen Mecanique Solide Indeformable
+├── 📄 Exercices Champ de vecteurs des vitesses d'un solide
+├── 📄 Exercices cinematique solide indeformable
+├── 📄 TD  Champ  antisymétrique
+├── 📄 cours Moment d'inertie
+├── 📄 Cours Tenseur d'Action
+├── 📄 Cours  Cinematique du Solide Indeformable
+├── 📄 Cours Mecanique des Solides Indeformables
+├── 📄 Cours Géométrie de masse et éléments d'inertie
+├── 📄 Cours Moment d'inertie
+├── 📄 Cours Cinematique du Solide Indeformable
+├── 📄 Exercices  Dynamique  Solide Indéformable
+├── 📄 Cours Mécanique des Solides Indéformables
+├── 📄 Exercices Dynamique des solides
+├── 📄 Exercices  Theoremes generaux  Rotation  Inertie
+├── 📄 Exercices Rotation Cone 3D
+├── 📄 Exercices  Cinematique des solides en contact
+├── 📄 Cours Torseur et champ de vecteurs
+├── 📄 TD 1 Dynamique Solide Indeformable
+├── 📄 Exercices  Cinétique  Roulement  Disque  Tige  Articulée
+├── 📄 TD 1 Mecanique du Solide
+├── 📄 Cours Mecanique des Solides Indeformables
+├── 📄 Cours Géométrie de masse et les éléments d'inertie
+├── 📄 Cours Champ antisymetrique
+├── 📄 Cours Cinematique du solide indeformable
+├── 📄 exm meca solide.jpg
+├── 📄 exm meca solid.jpg
+└── 📁 ezm solide ensak/
+    ├── 📄 Controle SMP physique 4 mecanique
+    ├── 📄 Controle Mecanique du Solide
+    ├── 📄 TD 4 Mecanique du Solide
+    ├── 📄 Sujet Examen Smp3 2eme Edition
+    ├── 📄 TD Mecanique du solide Serie 1
+    ├── 📄 TP Calorimétrie Pendule simple S1
+    ├── 📄 TD Mecanique La Premiere Serie Avec Sa Correction
+    ├── 📄 Exercices Torseurs Mecanique Du Solide
+    ├── 📄 Examen Mecanique Du Solide Indéformable
+    ├── 📄 Examen  Correction  d Examen
+    ├── 📄 Cours Mecanique des solides indeformables
+    ├── 📄 CC-1 (1).jpg
+    ├── 📄 CR-2.jpg
+    ├── 📄 CF-1 (2).jpg
+    ├── 📄 CF-2 (3).jpg
+    ├── 📄 CF-2 (1).jpg
+    ├── 📄 CC-1 (2).jpg
+    ├── 📄 CF-1.jpg
+    ├── 📄 CF-1 (3).jpg
+    ├── 📄 CC-2 (1).jpg
+    ├── 📄 CF-2.jpg
+    ├── 📄 CR-1.jpg
+    ├── 📄 CF-3.jpg
+    ├── 📄 CF-1 (1).jpg
+    ├── 📄 CF-2 (2).jpg
+    ├── 📄 CC-2.jpg
+    ├── 📄 CC-2 (2).jpg
+    ├── 📄 CC-1 (3).jpg
+    ├── 📄 control solide.jpg
+    └── 📄 exm solide.jpg
+
+═════════════════════════════════════
+  Fin du fichier · Mecanique du solide
+═════════════════════════════════════

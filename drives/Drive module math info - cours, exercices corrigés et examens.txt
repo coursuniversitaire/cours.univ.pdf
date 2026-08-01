@@ -1,0 +1,1292 @@
+📚 MODULE : math info                                 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module math info.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 math info/
+├── 🔗📁 Structure Machine/  (raccourci)
+│   ├── 📁 1/
+│   │   ├── 📄 TEST_STRM1_2019_2020_bareme.pdf
+│   │   ├── 📄 Test_STRM1_SectionB_2021+corrigé .pdf
+│   │   ├── 📄 examen_strm1_2018_2019.pdf
+│   │   ├── 📄 EMD01 - ARCHI1.pdf
+│   │   ├── 📄 mi-1an13-emd-structure_machine2020.pdf
+│   │   ├── 📄 mi-1an02-emd-structure_machine2019.pdf
+│   │   ├── 📄 mi-1an_hb-s1-exfin-cri15.pdf
+│   │   ├── 📄 mi-1an16u-emd1-strm17.pdf
+│   │   ├── 📄 Examen  Année 2017-2018.pdf
+│   │   ├── 📄 Examen  Année 2018-2019.pdf
+│   │   ├── 📄 Examen de rattrapage Année 2019-2020.pdf
+│   │   ├── 📄 Examen Année 2019-2020.pdf
+│   │   └── 📄 examen strm1 2020_2021.pdf
+│   └── 📁 2/
+│       ├── 📄 besekri.pdf
+│       ├── 📄 control+corrigé_STRM2_2017_2018.pdf
+│       ├── 📄 examen+corrigé_Strm2_2017_2018.pdf
+│       ├── 📄 control+corrige_Strm2_2018_2019.pdf
+│       ├── 📄 ETLD_MI_S2_2016_2017.pdf
+│       ├── 📄 Examen_STRM2_2015_2016.pdf
+│       ├── 📄 examen_Strm2_2018_2019.pdf
+│       ├── 📄 Test B STRM 2017.pdf
+│       ├── 📄 Test A STRM 2017.pdf
+│       ├── 📄 ETLD_MI_S2_2019_2020 corrigé type .pdf
+│       ├── 📄 ETLD_MI_S2_2016_2017_corrigé_type.docx.pdf
+│       ├── 📄 Examen_Strm2_2017_2018.pdf
+│       ├── 📄 EMD02 - ARCHI 1.pdf
+│       ├── 📄 EMD02 - ARCHI1.pdf
+│       ├── 📄 mi-1an18-s2-structure_machine2019.pdf
+│       ├── 📄 STRM.pdf
+│       ├── 📄 Sujet87.pdf
+│       ├── 📄 Sujet_corrige_EF_Structure-Machine_17-18.pdf
+│       ├── 📄 Sujet_corrige_EF_Structure-Machine_19-20.pdf
+│       └── 📄 EXAM_FINAL_Struct2_21_22.pdf
+├── 🔗📁 Cours enregistrés  STRM2/  (raccourci)
+│   ├── 📄 td_corrigé_STRM2_partie_séquentiel.pdf
+│   ├── 📄 Chap2_partie4_Registres.pptx
+│   ├── 📄 Chapitre2_partie3_les compteurs_décompteurs.pdf
+│   ├── 📄 Circuits _sequentiels_YDROUDJ_partie1_partie2_2022.pdf
+│   ├── 📄 Chapitre1_circuits_combinatoires_YDROUDJ 2022.pdf
+│   └── 📁 Test_examen_STRM2/
+│       ├── 📄 ETLD_MI_S2_2016_2017_corrigé_type.docx
+│       ├── 📄 ETLD_MI_S2_2016_2017.pdf
+│       ├── 📄 Rattrapage MI STRM S2 2016-2017.pdf
+│       ├── 📄 Corrigé type  rattrapage STRM S2 2017.docx
+│       ├── 📄 Test B STRM 2017.pdf
+│       ├── 📄 Test A STRM 2017.pdf
+│       ├── 📄 Corrigé Type Test A STRM 2017.pdf
+│       ├── 📄 Corrigé Type Test A STRM 2017.pdf
+│       ├── 📄 Corrigé type Test B STRM 2017.pdf
+│       ├── 📄 rattrapage+corrigé_STRM2_2015_2016.pdf
+│       ├── 📄 corrigé_examen_STRM2_2018_2019.pdf
+│       ├── 📄 examen_Strm2_2018_2019.pdf
+│       ├── 📄 control+corrige_Strm2_2018_2019.pdf
+│       ├── 📄 examen+corrigé_Strm2_2017_2018.pdf
+│       ├── 📄 Examen_Strm2_2017_2018.pdf
+│       ├── 📄 control+corrigé_STRM2_2017_2018.pdf
+│       ├── 📄 corrigé_STRM2_2015_2016.pdf
+│       └── 📄 Examen_STRM2_2015_2016.pdf
+├── 🔗📁 S1/  (raccourci)
+│   ├── 📁 TP Bureautique/
+│   │   ├── 📄 TP5 EXCEL.pdf
+│   │   ├── 📄 TP4 EXCEL.pdf
+│   │   ├── 📄 TP4.mp4
+│   │   ├── 📄 TP3 EXCEL.pdf
+│   │   ├── 📄 TP2 EXCEL.pdf
+│   │   ├── 📄 TP1 EXCEL.pdf
+│   │   ├── 📄 TP3 Suite.webm
+│   │   ├── 📄 TP3.webm
+│   │   ├── 📄 TP2.webm
+│   │   ├── 📄 TP1.webm
+│   │   └── 📁 Examens d'autres sections/
+│   │       ├── 📄 Examen-de-Bureautique-section?.pdf
+│   │       ├── 📄 Examen-de-Bureautique-section9.pdf
+│   │       └── 📄 Examen-de-Bureautique-section4.pdf
+│   ├── 📁 TCE/
+│   │   ├── 📄 La Prise de note.pdf
+│   │   ├── 📄 La lettre administrative.pdf
+│   │   ├── 📄 corrigé exercices la prise de notes.pdf
+│   │   ├── 📄 prise de notes.pdf
+│   │   ├── 📄 série exercices Le choix du mot juste-2-Les verbes confondus-.pdf
+│   │   ├── 📄 série d'exercices le choix du mot juste-1-Les verbes passe-partout-.pdf
+│   │   ├── 📄 TD 1 TCE MI 2020-2021.pdf
+│   │   ├── 📄 La rédaction d'une lettre.pdf
+│   │   ├── 📄 Les confusions homonymiques EXERCICES.pdf
+│   │   └── 📄 Le curriculum vitae.pdf
+│   ├── 📁 Analyse/
+│   │   ├── 📁 TD/
+│   │   │   ├── 📁 CHAPITER 4/
+│   │   │   │   └── 📄 Série 4 TD Analyse.pdf
+│   │   │   ├── 📁 CHAPITER 1/
+│   │   │   │   └── 📄 Serie1.pdf
+│   │   │   ├── 📁 CHAPITER 3/
+│   │   │   │   └── 📄 Série d'exercices n°3.pdf
+│   │   │   └── 📁 CHAPITER 2/
+│   │   │       ├── 📄 SERIE2TD2.mp4
+│   │   │       ├── 📄 SERIE2TD1.mp4
+│   │   │       ├── 📄 solution Serie2 PART2.pdf
+│   │   │       ├── 📄 solution Serie2 PART1.pdf
+│   │   │       └── 📄 Série d'exercices n°2.pdf
+│   │   └── 📁 cours/
+│   │       └── 📄 LES SUITES + LES FONCTIONS.pdf
+│   ├── 📁 LE/
+│   │   ├── 📄 La recherche Bibliographque
+│   │   ├── 📄 Desktop LE le rapport.m4v
+│   │   ├── 📄 La recherche Bibliographque
+│   │   ├── 📄 LE RAPPORT
+│   │   ├── 📄 LE RÉSUMÉ SCIENTIFIQUE
+│   │   ├── 📄 LE COMPTE RENDU
+│   │   └── 📄 Desktop 2021.02.17 - 17.38.24.01-1.m4v
+│   ├── 📁 Algorithme/
+│   │   ├── 📁 Cours/
+│   │   │   ├── 📄 Algo 5 (les matrices).m4v
+│   │   │   └── 📁 Capitre(1)_c_language/
+│   │   │       └── 📄 Language_C.pdf
+│   │   ├── 📁 TD/
+│   │   │   ├── 📁 Td(3)/
+│   │   │   │   ├── 📄 TD2 solution exo 1, 2, 3, 4.pdf
+│   │   │   │   ├── 📄 TD2 solution exo 5, 6, 7 et 8.pdf
+│   │   │   │   └── 📄 2emme série td algo .bin
+│   │   │   ├── 📁 Td(2)/
+│   │   │   │   ├── 📄 TD2 solution exo 1, 2, 3, 4, 5, 6, 7.pdf
+│   │   │   │   └── 📄 TD2.pdf
+│   │   │   ├── 📁 Td(1)/
+│   │   │   │   ├── 📄 correction serie 1 g 2.pdf
+│   │   │   │   ├── 📄 TD1 solution (Ancienne série).pdf
+│   │   │   │   └── 📄 TD_1_Algo.pdf
+│   │   │   └── 📁 Td(0)/
+│   │   │       ├── 📄 TD_0_Algo.pdf
+│   │   │       └── 📄 TD_0_solution.pdf
+│   │   └── 📁 TP/
+│   │       ├── 📁 Tp4/
+│   │       │   └── 📄 TP_Algo_chapitre4_Tableaux et chaînnes de caractères en langage C.pdf
+│   │       ├── 📁 Tp 3/
+│   │       │   └── 📄 TP_Algo_chapitre3_Conditions et  boucles en langage C.pdf
+│   │       ├── 📁 Corrigé Exo TP G3-4/
+│   │       │   ├── 📄 exo5_chap2.cpp
+│   │       │   ├── 📄 exo3_chap2.cpp
+│   │       │   ├── 📄 Exo2_chap2.cpp
+│   │       │   ├── 📄 exo7_chap2.cpp
+│   │       │   ├── 📄 exo6_chap2.cpp
+│   │       │   ├── 📄 exo4_chap2.cpp
+│   │       │   ├── 📄 Exo1_chp2_A.cpp
+│   │       │   └── 📄 Exo1_chp2_B.cpp
+│   │       ├── 📁 Tp2/
+│   │       │   └── 📄 TP_2.pdf
+│   │       └── 📁 Tp1/
+│   │           └── 📄 Tp_1.pdf
+│   ├── 📁 CRI/
+│   │   ├── 📄 Cri 8-1.m4v
+│   │   ├── 📄 CRI 7.m4v
+│   │   ├── 📄 Cours CRI 6.m4v
+│   │   ├── 📄 Desktop CRI 5.m4v
+│   │   ├── 📄 Cours CRI 4.m4v
+│   │   ├── 📁 Chapitre(3)_les circuits combinatoires/
+│   │   │   ├── 📁 TD/
+│   │   │   │   └── 📄 serie3-final CRI.pdf
+│   │   │   └── 📁 Cours/
+│   │   │       └── 📄 Chapitre III systèmes combinatoires.pdf
+│   │   ├── 📁 Chapitre (1)_systemes _de_numèration/
+│   │   │   ├── 📁 Td/
+│   │   │   │   ├── 📁 Corrigè/
+│   │   │   │   │   ├── 📄 corrigé p7.pdf
+│   │   │   │   │   ├── 📄 corrigé p2.pdf
+│   │   │   │   │   └── 📄 corrigé p1.pdf
+│   │   │   │   └── 📁 Sèrie/
+│   │   │   │       └── 📄 série 1.pdf
+│   │   │   └── 📁 Cours/
+│   │   │       ├── 📄 Systemes_de_numeration_Arithmetique_binaire_(2).pdf
+│   │   │       └── 📄 Systemes_de_numeration_Arithmetique_binaire (1).pdf
+│   │   └── 📁 Chapitre(2)_algèbre de Boole/
+│   │       ├── 📁 Td/
+│   │       │   ├── 📄 Corrigé Série N°2.pdf
+│   │       │   └── 📄 serie 2.pdf
+│   │       └── 📁 Cours/
+│   │           └── 📄 Chapitre II Algèbre de Boole.pdf
+│   ├── 📁 ALGEBRE /
+│   │   ├── 📁 CHAPITRE (4)_Structure algebrique/
+│   │   │   ├── 📁 Td/
+│   │   │   │   ├── 📄 exos.bin
+│   │   │   │   ├── 📄 serie supplimentaire structure algebrique.pdf
+│   │   │   │   └── 📄 série 3
+│   │   │   └── 📁 Cours/
+│   │   │       └── 📄 STRUCTURES algebriques
+│   │   ├── 📁 CHAPITRE (3)_relations binaires/
+│   │   │   ├── 📁 Td/
+│   │   │   │   ├── 📄 corrigé série 2
+│   │   │   │   └── 📄 série 2
+│   │   │   └── 📁 Cours/
+│   │   │       ├── 📄 résumer du prof de td
+│   │   │       └── 📄 RELATIONS binaires
+│   │   ├── 📁 CHAPITRE (2)_Applications/
+│   │   │   └── 📁 Cours/
+│   │   │       ├── 📄 APPLICATIONS
+│   │   │       └── 📄 Cours APPLICATIONS .pdf
+│   │   └── 📁 CHAPITRE (1)_logic et ensemble /
+│   │       ├── 📁 Td/
+│   │       │   ├── 📁 Corrigè/
+│   │       │   │   ├── 📄  corrige série 1 : exo 7 to 13
+│   │       │   │   ├── 📄  corrigé série 1 :exo 17 to 23
+│   │       │   │   └── 📄  corrige série 1 : exo 7 to 13
+│   │       │   └── 📁 Sèrie/
+│   │       │       ├── 📄 série 1
+│   │       │       ├── 📄 Série 1 + qlq exos
+│   │       │       └── 📄 série 1
+│   │       └── 📁 Cours/
+│   │           └── 📄 LOGIQUE et les ensembles
+│   └── 📁 MP/
+│       ├── 📄 Correction De L'evaluation 1 MP.m4v
+│       ├── 📁 COURS/
+│       │   ├── 📄 Chapitre III -Travail et énergie partie 2.pdf
+│       │   ├── 📄 Chapitre III -Travail et énergie partie 1.pdf
+│       │   ├── 📄 Partie II- Dynamique.pdf
+│       │   ├── 📄 Partie I- Dynamique.pdf
+│       │   ├── 📄 Partie II- Cinematique.pdf
+│       │   └── 📄 Partie I- Cinematique.pdf
+│       ├── 📁 TD + SOL G 3 ET 4/
+│       │   ├── 📄 Corrigé-Dynamique.pdf
+│       │   ├── 📄 coorigé série 2-exo1-2et9(1).pdf
+│       │   ├── 📄 1612652282020_Corrigé Exo-6 Cinématique++.pdf
+│       │   ├── 📄 Dynamique 2020-2021.docx
+│       │   ├── 📄 Présentation1-TD3-cinématique.pdf
+│       │   ├── 📄 Présentation1-TD1-cinématique.pdf
+│       │   ├── 📄 Présentation1-TD2-cinématique.pdf
+│       │   └── 📄 serieCINEMATIQUE_2020-2021.docx
+│       └── 📁 SOLUTION TD G1 ET 2/
+│           ├── 📄 coorigé série 2-exo1-2et9(1).pdf
+│           ├── 📄 Solution_Exo-4_Cin_matique.pdf
+│           ├── 📄 Solution_Exo_3_Cin_matique.pdf
+│           ├── 📄 Solution_Exo-5_Cin_matique.pdf
+│           ├── 📄 Solution_Exo-2_Cin_matique.pdf
+│           ├── 📄 Solution_Exo_3_Cin_matique_.pdf
+│           ├── 📄 Solution_Exo-4_Cin_matique_.pdf
+│           ├── 📄 Solution_Exo-5_Cin_matique_.pdf
+│           ├── 📄 Solution_Exo-7_Cin_matique_1_.pdf
+│           ├── 📄 Solution_Exo-8_Cin_matique_.pdf
+│           ├── 📄 SOLUTION_EX_9.pdf
+│           └── 📄 Solution_Exo-10_Cin_matique_.pdf
+├── 🔗📁 Mi - Semester 2/  (raccourci)
+│   ├── 📄 Expose.ppt
+│   ├── 📁 Matlab/
+│   │   ├── 📄 Chapitre 04 -Programmation avec Matlab.pdf
+│   │   ├── 📄 Chapitre 02 -Calculs Matriciels.pdf
+│   │   ├── 📄 Chapitre 03 -Résolution de systèmes d-équations linéaires.pdf
+│   │   ├── 📄 Chapitre 03 -Résolution de systèmes d-équations linéaires.pptx
+│   │   ├── 📄 Chapitre 04 -Programmation avec Matlab.pptx
+│   │   ├── 📄 Chapitre 02 -Calculs Matriciels.pptx
+│   │   └── 📄 Chapitre 1.pdf
+│   ├── 📁 ANA2/
+│   │   ├── 📄 dev limités usual.pdf
+│   │   ├── 📁 Wiz/
+│   │   │   ├── 📄 sujets d'examens corrigés d'analyse MI.pdf
+│   │   │   ├── 📄 SERIE N3  (CORRIGE) Analyse2 (kasmi).pdf
+│   │   │   ├── 📄 SERIE N3  ( 19-20 ) Analyse2 (kasmi).pdf
+│   │   │   └── 📄 Chapitre III+Chapitre IV  ( équations différentielles ) Analyse2 (kasmi).pdf
+│   │   ├── 📁 TD/
+│   │   │   ├── 📄 RIEMANN.PDF
+│   │   │   ├── 📄 DL.PDF
+│   │   │   ├── 📄 TD1_DéveloppementLimité.rar
+│   │   │   ├── 📄 TD4_EquationsDifférentielles.pdf
+│   │   │   ├── 📄 TD3_IntégralesGénéralisées.pdf
+│   │   │   ├── 📄 TD2_IntégralesDeRiemann.pdf
+│   │   │   ├── 📄 TD1_DLs.pdf
+│   │   │   └── 📁 TD4_EquationsDifferentielles/
+│   │   │       ├── 📄 img003.jpg
+│   │   │       ├── 📄 img002.jpg
+│   │   │       └── 📄 img001.jpg
+│   │   ├── 📁 INTERROGATIONS/
+│   │   │   ├── 📄 Interro2-2014-2015.pdf
+│   │   │   └── 📄 Interro1-2014-2015.pdf
+│   │   ├── 📁 EMD/
+│   │   │   ├── 📄 Examen-Final-2014-2015.pdf
+│   │   │   ├── 📄 ANA_EMD_1314.PDF
+│   │   │   ├── 📄 emd_13_14.PDF
+│   │   │   ├── 📄 Interro2_ANA2_2012-2013.pdf
+│   │   │   ├── 📄 Interro2_ANA2_2010-2011.pdf
+│   │   │   ├── 📄 Interro1_ANA2_2010-2011.pdf
+│   │   │   ├── 📄 EMD_ANA2_2011-2012.pdf
+│   │   │   ├── 📄 EMD_ANA2_2012-2013.pdf
+│   │   │   └── 📄 EMD_ANA2_2009-2010.pdf
+│   │   └── 📁 COURS/
+│   │       ├── 📄 Chap3_IntégralesGénéralisées.pdf
+│   │       ├── 📄 Chap3_IntégralesGénéralisées(2).pdf
+│   │       ├── 📄 Chap4_EquationsDifferentielles_02.pdf
+│   │       ├── 📄 Chap4_EquationsDifferencielles_01.pdf
+│   │       ├── 📄 Chap2_IntegraleDeRiemann.pdf
+│   │       └── 📄 Chap1_DéveloppementsLimités.pdf
+│   ├── 📁 Electricité/
+│   │   ├── 📄 TD_1_Physique 2_L1MI.pdf.pdf
+│   │   ├── 📄 TD_2_Physique 2_L1MI.pdf.pdf
+│   │   └── 📄 cours_1_Physique 2_L1MI.pdf.pdf
+│   ├── 📁 ALG2/
+│   │   ├── 📄 2.pdf
+│   │   ├── 📄 espace vectoriel.pdf
+│   │   ├── 📁 TD/
+│   │   │   ├── 📄 TD-2014-2015-Application-Lineaires.pdf
+│   │   │   ├── 📄 TD-2014-2015-Matrice.pdf
+│   │   │   ├── 📄 TD-2014-2015-Espaces-Vectoriels.pdf
+│   │   │   ├── 📄 TD-2014-2015-Complement-Fractions-Rationelles.pdf
+│   │   │   ├── 📄 ESPACEVECT.PDF
+│   │   │   ├── 📄 TD2_ApplicationsLinéaires.rar
+│   │   │   ├── 📄 TD3_Matrices.rar
+│   │   │   ├── 📄 TD2_ApplicationsLinéaires.pdf
+│   │   │   ├── 📄 TD1_EspacesVectoriels_2013-2014.pdf
+│   │   │   └── 📄 TD1_EspacesVectoriels_2012-2013.pdf
+│   │   ├── 📁 COURS/
+│   │   │   ├── 📄 Chapitre1.Espaces vectoriels (cours et exercices corrigés ).pdf
+│   │   │   ├── 📄 Matrices.pdf
+│   │   │   ├── 📄 Chap2_ApplicationsLinéaires.pdf
+│   │   │   └── 📄 Chap1_EspacesVectoriels.pdf
+│   │   ├── 📁 EMD/
+│   │   │   ├── 📄 2014-2015-examen-final.pdf
+│   │   │   ├── 📄 EMD2_ALG2_Corrigé_2013-2014.pdf
+│   │   │   ├── 📄 EMD1_ALG2_Corrigé_2010-2011.pdf
+│   │   │   ├── 📄 EMD1_ALG2_Partie2+CORR_2012-2013.pdf
+│   │   │   ├── 📄 EMD1_ALG2_2012-2013.PDF
+│   │   │   ├── 📄 EMD1_ALG2_2011-2012.pdf
+│   │   │   ├── 📄 EMD1_ALG2_2010-2011.pdf
+│   │   │   ├── 📄 EMD1_ALG2_2009-2010.pdf
+│   │   │   ├── 📄 CI_ALG2_Corrigé_2010-2011.pdf
+│   │   │   ├── 📄 CI_ALG2_Corrigé_2009-2010.pdf
+│   │   │   ├── 📄 CI_ALG2_2010-2011.pdf
+│   │   │   └── 📄 CI_ALG2_2009-2010.pdf
+│   │   └── 📁 Autre/
+│   │       ├── 📄 fic00017.pdf
+│   │       ├── 📄 fic00008.pdf
+│   │       ├── 📄 EnsemblesEtApplications_Exercices+CORR.pdf
+│   │       ├── 📄 ApplicationsLinéaires+CORR.pdf
+│   │       ├── 📄 SériesDeMatrices.pdf
+│   │       ├── 📄 SériesDeMatrices_Corrigé.pdf
+│   │       ├── 📄 EspacesVectoriels_Corrigé.PDF
+│   │       ├── 📄 EspacesVectoriels.PDF
+│   │       ├── 📄 AlgebreLinéaireI.pdf
+│   │       └── 📄 AlgebreLinéaireI_Corrigé.pdf
+│   ├── 📁 TIC/
+│   │   ├── 📄 ExosCorrigés.pdf
+│   │   ├── 📄 Cours 7.pdf
+│   │   ├── 📄 Cours 6.pdf
+│   │   ├── 📄 Cours 4.pdf
+│   │   ├── 📄 Cours 5.pdf
+│   │   ├── 📄 Cours 3.pdf
+│   │   ├── 📄 Cours 2.pdf
+│   │   └── 📄 Cours 1.pdf
+│   ├── 📁 ALSDD/
+│   │   ├── 📄 Livre_ApprenezAProgrammerEnC_SiteDeZéro_.pdf
+│   │   ├── 📁 EMD/
+│   │   │   ├── 📄 intero.PDF
+│   │   │   ├── 📄 EMD2_ALSDD_Corrigé_2013-2014.pdf
+│   │   │   ├── 📄 EMD1_ALSDD_Corrigé_2011-2012.doc
+│   │   │   ├── 📄 EMD1_ALSDD_Corrigé_2010-2011.doc
+│   │   │   ├── 📄 EMD1_ALSDD_Corrigé_2009-2010.doc
+│   │   │   ├── 📄 Interro1_ALSDD_2009-2010.pdf
+│   │   │   ├── 📄 EMD1_ALSDD_2010-2011.doc
+│   │   │   ├── 📄 EMD1_ALSDD_2009-2010.doc
+│   │   │   ├── 📄 EMD1_ALSDD_2011-2012.doc
+│   │   │   ├── 📄 EMD1+CORR_ALSDD_2012-2013.pdf
+│   │   │   ├── 📄 EMD2_ALSDD_2011-2012.pdf
+│   │   │   └── 📄 EMD2+CORR_ALSDD_2012-2013.pdf
+│   │   ├── 📁 Cours/
+│   │   │   ├── 📄 Recursion.pdf
+│   │   │   ├── 📄 Chap07_Recursivité.pdf
+│   │   │   ├── 📄 Chapitre 5 - LLC - 4pages_2.pdf
+│   │   │   ├── 📄 Chapitre 5-Structure_hierarchique_Arbre.pdf
+│   │   │   ├── 📄 Chapitre 5-Structure_hierarchique_Tas.pdf
+│   │   │   ├── 📄 Chapitre 5-Structure_hierarchique_AVL.pdf
+│   │   │   ├── 📄 Chapitre 3-Structure_Séq_File.pdf
+│   │   │   ├── 📄 Chapitre 2-Complexité_itératif.pdf
+│   │   │   ├── 📄 Chapitre 3-Structure_Séq_Pile.pdf
+│   │   │   ├── 📄 Chapitre 1 - Rappel_S1_S2_2.pdf
+│   │   │   ├── 📄 Chapitre 4-Récurcivité.pdf
+│   │   │   ├── 📄 Chapitre 1 - LangageC.pdf
+│   │   │   ├── 📄 Chapitre 3-Structure_Séq_LLC.pdf
+│   │   │   ├── 📄 Chap02_Tableaux_Présentation.pdf
+│   │   │   └── 📄 Chap02_Tableaux.pdf
+│   │   └── 📁 TD/
+│   │       ├── 📄 TD_ 02.0_AlgorithmqueSD2_L1MI.pdf
+│   │       ├── 📄 TD_ 03.1_AlgorithmqueSD2_L1MI.pdf
+│   │       ├── 📄 TD_ 01.1_AlgorithmqueSD2_L1MI.pdf
+│   │       ├── 📄 TD_ 01.2_AlgorithmqueSD2_L1MI.pdf
+│   │       ├── 📄 TD_ 03.2_AlgorithmqueSD2_L1MI.pdf
+│   │       ├── 📄 Série2 - Chapitre 5 - LLC.pdf
+│   │       └── 📄 Série1 - Chapitre2 - Les tableaux.pdf
+│   └── 📁 Structure machine/
+│       ├── 📄 Chapitre 01.pdf
+│       ├── 📄 Chapitre 02.pdf
+│       ├── 📄 Chapite02.pdf
+│       ├── 📄 Chapite03.pdf
+│       ├── 📄 Chapite04.pdf
+│       └── 📄 Chapite01.pdf
+└── 🔗📁 L1 Info-2022/2023/  (raccourci)
+    ├── 📁 Ressources/
+    │   ├── 📁 Extra/
+    │   │   ├── 📄 IMG_20221026_080748.jpg
+    │   │   ├── 📄 2IMG_20221026_080748_35.jpg
+    │   │   ├── 📄 IMG_20221026_080748_3541.jpg
+    │   │   ├── 📄 IMG_20221026_080748_354.jpg
+    │   │   ├── 📄 IMG_20221026_080748_3544.PNG
+    │   │   ├── 📄 IMG_20221026_080748_3545.PNG
+    │   │   └── 📄 Screenshot_20221002-091226_Facebook.jpg
+    │   ├── 📁 Livres D'éxercices/
+    │   │   ├── 📄 Livre D'exercices d'analyse.pdf
+    │   │   ├── 📄 Algorithmique et Programmation en langage C.pdf
+    │   │   ├── 📄 exo algebre.pdf
+    │   │   ├── 📄 exercices d'analyse resolus.pdf
+    │   │   └── 📄 exercices corrigés d'Algorithmique BESSAA.pdf
+    │   └── 📁 Livres de Cours/
+    │       ├── 📄 Cours Algèbre et analyse.pdf
+    │       ├── 📄 Calcul intégral et differentiel .pdf
+    │       ├── 📄 Cours exo7.pdf
+    │       ├── 📄 Stucture machine.pdf
+    │       ├── 📄 langage-c.pdf
+    │       ├── 📄 livre analyse exo7.pdf
+    │       └── 📄 Livre analyse.pdf
+    ├── 📁 Sujets EMD/
+    │   ├── 📁 Tic/
+    │   │   ├── 📄 examen-s2-tic2017-v0-3-correction.pdf
+    │   │   ├── 📄 Sujet_corrige_EF_Techno-Web_17-18.pdf
+    │   │   └── 📄 Sujet_corrige_EF_Techno-Web_19-20.pdf
+    │   ├── 📁 Algebre/
+    │   │   ├── 📁 2/
+    │   │   │   ├── 📄 besekri.pdf
+    │   │   │   ├── 📄 Exam2_Algebre2_ensi_2015 (2).pdf
+    │   │   │   ├── 📄 corrigé EMD2_Algebre2.pdf
+    │   │   │   ├── 📄 Exam2_ensi_2017_2018_Algebre2.pdf
+    │   │   │   ├── 📄 Exam2_Algebre2_ensi_2015.pdf
+    │   │   │   ├── 📄 Exam1_Algebre2_ensi_2016-1.pdf
+    │   │   │   ├── 📄 Corrigé_Exam1_Algèbre2_2018_2019.pdf
+    │   │   │   ├── 📄 EMD01 - Algebre02.pdf
+    │   │   │   └── 📄 14-04-2016-{ ex1 et 2 }.pdf
+    │   │   └── 📁 1/
+    │   │       ├── 📄 Lundi 01 février 2016.pdf
+    │   │       ├── 📄 solution_examen_1_2016_Algebre1.pdf
+    │   │       ├── 📄 28-01-2015.pdf
+    │   │       ├── 📄 Exam1_ensi_2014.pdf
+    │   │       ├── 📄 Exam1_ensi_2016_Algebre1.pdf
+    │   │       ├── 📄 2014-2015.pdf
+    │   │       ├── 📄 Exam1_ensi_2017_2018_Algebre1.pdf
+    │   │       ├── 📄 Exam2_ensi_2014.pdf
+    │   │       ├── 📄 Exam2_ensi_2017_2018_Algebre1.pdf
+    │   │       ├── 📄 Exam1_ensi_2015_Algebre1.pdf
+    │   │       ├── 📄 EMD02 • 2016 - 2017.pdf
+    │   │       ├── 📄 EMD01 - Algebre1.pdf
+    │   │       ├── 📄 mi-1an19-emd1-algebre17.pdf
+    │   │       ├── 📄 mi-1an19-emd1-algebre2022.pdf
+    │   │       ├── 📄 mi-1an28-s1-emd-algebre2020.pdf
+    │   │       ├── 📄 mi-1an31-emd1-algebre15.pdf
+    │   │       ├── 📄 mi-1an_hb-s1-exfin-algebre16.pdf
+    │   │       ├── 📄 mi-1an16u-emd1-algebre17.pdf
+    │   │       ├── 📄 mi-1an-emd1-algebr6.pdf.pdf
+    │   │       ├── 📄 examen_algebre_corrige_l1.pdf
+    │   │       ├── 📄 examen_algebre_l1.pdf
+    │   │       ├── 📄 examen_algebre_2_l1.pdf
+    │   │       ├── 📄 mi-1an_hb-s1-exfin-algebre14.pdf
+    │   │       ├── 📄 mi-1an_hb-s1-exfin-algebre15.pdf
+    │   │       ├── 📄 mi-1an16-s1-exam-algebre16.pdf
+    │   │       ├── 📄 mi-1an_hb-s1-rattr-algebre14.pdf
+    │   │       ├── 📄 Examen + corrigé.pdf
+    │   │       └── 📄 Test + Corrigé - 2019_2020.pdf
+    │   ├── 📁 Structure Machine/
+    │   │   └── ⚠️  [Référence circulaire ignorée]
+    │   ├── 📁 Electricité/
+    │   │   ├── 📄 besekri.pdf
+    │   │   ├── 📄 Emd01 - élect.pdf
+    │   │   ├── 📄 EMD02 - ELECT.pdf
+    │   │   └── 📄 mi-1an_hb-s2-exfin-elec16.pdf
+    │   ├── 📁 Analyse/
+    │   │   ├── 📁 2/
+    │   │   │   ├── 📄 7_Rattrapage_Corrigé_Rattrapage_Analyse_2pdf_·_230512_233033.pdf
+    │   │   │   ├── 📄 Examen Analyse 2 2019-2020pdf · version 1_230602_135416.pdf
+    │   │   │   ├── 📄 examen_de_ratrapage_Analyse2_2022pdf_·_version_1_230602_134905.pdf
+    │   │   │   ├── 📄 Testanalyse2 corrigé2022pdf · version 1_230531_183131.pdf
+    │   │   │   ├── 📄 ExamenAnlyse2-2022 (1).pdf
+    │   │   │   ├── 📄 besekri.pdf
+    │   │   │   ├── 📄 Examen-Analyse-2-2019-2020.pdf
+    │   │   │   ├── 📄 Examen-2016.pdf
+    │   │   │   ├── 📄 Examen-2017.pdf
+    │   │   │   ├── 📄 Corrige-Exam N-3.pdf
+    │   │   │   ├── 📄 EMD01 - Analyse 02.pdf
+    │   │   │   ├── 📄 Examen-2015.pdf
+    │   │   │   ├── 📄 Dimanche 31 Mai 2015.pdf
+    │   │   │   ├── 📄 Jeudi 16 avril 2015.pdf
+    │   │   │   ├── 📄 examen_analyse_8_l1_mi.pdf
+    │   │   │   └── 📄 _ExamenAnalyse2 corrigé2021.pdf
+    │   │   └── 📁 1/
+    │   │       ├── 📄 Examen2 Analyse 1 L1-MI Mila.PDF
+    │   │       ├── 📄 Examen1 Analyse 1 L1-MI Mila.PDF
+    │   │       ├── 📄 Examen2 Analyse 1 MI-L1 Jijel.pdf
+    │   │       ├── 📄 Examen1 Analyse 1 MI-L1 Jijel.pdf
+    │   │       ├── 📄 Examen5 Analyse 1 MI-L1 Bejaia.PDF
+    │   │       ├── 📄 Examen4 Analyse 1 MI-L1 Bejaia.PDF
+    │   │       ├── 📄 Examen3 Analyse 1 MI-L1 Bejaia.PDF
+    │   │       ├── 📄 Examen2 Analyse 1 MI-L1 Bejaia.PDF
+    │   │       ├── 📄 Examen1 Analyse 1 MI-L1 Bejaia.PDF
+    │   │       ├── 📄 Examen8 Analyse 1 MI-L1.pdf
+    │   │       ├── 📄 Examen6 Analyse 1 MI-L1.pdf
+    │   │       ├── 📄 Examen7 Analyse 1 MI-L1.pdf
+    │   │       ├── 📄 Examen5 Analyse 1 MI-L1.pdf
+    │   │       ├── 📄 Examen4 Analyse 1 MI-L1.pdf
+    │   │       ├── 📄 Examen3 Analyse 1 MI-L1.pdf
+    │   │       ├── 📄 Examen2 Analyse 1 MI-L1.pdf
+    │   │       ├── 📄 Examen1 Analyse 1 MI-L1.pdf
+    │   │       ├── 📄 Dimanche 30 Novembre 2014.pdf
+    │   │       ├── 📄 JEUDI 29 Janvier 2015.pdf
+    │   │       ├── 📄 Dimanche 29 Novembre 2015.pdf
+    │   │       ├── 📄 esi22-1an-exam1-ana15.pdf888387380.pdf
+    │   │       ├── 📄 EMD02 - Analyse1.pdf
+    │   │       ├── 📄 EMD01 - Analyse 1.pdf
+    │   │       ├── 📄 mi-1an43-emd1-analyse13.pdf
+    │   │       ├── 📄 mi-1an22-emd1-analyse2022.pdf
+    │   │       ├── 📄 mi-1an28-s1-emd-analyse2020.pdf
+    │   │       ├── 📄 mi-1an31-emd1-analyse15.pdf
+    │   │       ├── 📄 mi-1an17-s1-emd-analyse2019.pdf
+    │   │       ├── 📄 mi-1an31-emd1-analyse2019.pdf
+    │   │       ├── 📄 mi-1an_hb-s1-exfin-anal14.pdf
+    │   │       ├── 📄 mi-1an_hb-s1-exfin-anal15.pdf
+    │   │       ├── 📄 mi-1an_hb-s1-exfin-anal16.pdf
+    │   │       ├── 📄 mi-1an16u-emd1-analyse17.pdf
+    │   │       ├── 📄 mi-1an22-s1-emd-analyse2019.pdf
+    │   │       ├── 📄 exam.pdf
+    │   │       ├── 📄 Examen Analyse 1-fusionné.pdf
+    │   │       ├── 📄 Examen Analyse.pdf
+    │   │       ├── 📄 examen_analyse_11_l1_mi.pdf
+    │   │       ├── 📄 examen_analyse_10_l1_mi.pdf
+    │   │       ├── 📄 examen_analyse_9_l1_mi.pdf
+    │   │       ├── 📄 examen_analyse_7_l1_mi.pdf
+    │   │       ├── 📄 examen_analyse_5_mi_l1.pdf
+    │   │       ├── 📄 examen_analyse_4_mi_l1.pdf
+    │   │       ├── 📄 mi-1an16-s1-exfin-anal16.pdf
+    │   │       ├── 📄 Corr Test1 2019_2020.pdf
+    │   │       ├── 📄 Test1 2019_2020.pdf
+    │   │       ├── 📄 Examen 2019_2020.pdf
+    │   │       ├── 📄 Corr Exam 2019_2020.pdf
+    │   │       ├── 📄 Corr Exam 2018_2019 .pdf
+    │   │       ├── 📄 Test 1 _2018_Corrigé.pdf
+    │   │       ├── 📄 Examen 2018_2019.pdf
+    │   │       └── 📄 Test1_2018 .pdf
+    │   ├── 📁 Proba-stat/
+    │   │   ├── 📄 besekri.pdf
+    │   │   ├── 📄 Epreuve de rattrapage 2017.pdf
+    │   │   ├── 📄 Examen de Prob-Stat.pdf
+    │   │   ├── 📄 mi-1an_hb-s2-exfin-stat16.pdf
+    │   │   └── 📄 mi-1an18-s2-stat2019.pdf
+    │   └── 📁 ASD/
+    │       ├── 📁 2/
+    │       │   ├── 📄 besekri.pdf
+    │       │   ├── 📄 EMD02 - ALSDD.pdf
+    │       │   ├── 📄 EMD2_ALSDS+CORR_2012-2013.pdf
+    │       │   ├── 📄 EMD2_ALSDS_Corrigé_2010-2011.pdf
+    │       │   ├── 📄 Emd2-14-15.pdf
+    │       │   ├── 📄 EMD2_ALSDS_2012-2013.pdf
+    │       │   ├── 📄 EMD2_ALSDS_2010-2011.pdf
+    │       │   ├── 📄 EMD2_ALSDS_2013-2014.pdf
+    │       │   ├── 📄 EMD2_ALSDS_Corrigé_2011-2012.pdf
+    │       │   ├── 📄 EMD02 - ALGO.pdf
+    │       │   ├── 📄 mi-1an_hb-s2-exfin-algo16.pdf
+    │       │   ├── 📄 mi-1an_hb-s2-exfin-algo2020.pdf
+    │       │   ├── 📄 mi-1an13-s2-ex_fin-algo14.pdf
+    │       │   ├── 📄 mi-1an13-s2-ex_fin-algo15.pdf
+    │       │   └── 📄 mi-1an13-s2-ex_fin-algo16.pdf
+    │       └── 📁 1/
+    │           ├── 📄 Contrôle Continu 2018-2019.pdf
+    │           ├── 📄 Contrôle Continu (Groupes 3  4) (corrigé).pdf
+    │           ├── 📄 Corrige_EMD_S1_2021-2022.pdf
+    │           ├── 📄 Contrôle Continu 2021-2022 (S1) (corrigé).pdf
+    │           ├── 📄 Test N°1.pdf
+    │           ├── 📄 Test N°1 (corrigé).pdf
+    │           ├── 📄 Examen Final 2019-2020.pdf
+    │           ├── 📄 Contrôle Continu (Groupes 1 _ 2).pdf
+    │           ├── 📄 Contrôle Continu 2019-2020.pdf
+    │           ├── 📄 Examen Final 2020-2021.pdf
+    │           ├── 📄 3.pdf
+    │           ├── 📄 1.pdf
+    │           ├── 📄 7.pdf
+    │           ├── 📄 8.pdf
+    │           ├── 📄 5.pdf
+    │           ├── 📄 9.pdf
+    │           ├── 📄 6.pdf
+    │           ├── 📄 2.pdf
+    │           ├── 📄 4.pdf
+    │           ├── 📄 10.pdf
+    │           ├── 📄 Examens_Algo-01_compressed.pdf
+    │           ├── 📄 EMD1_ALSDS_2010-2011.pdf
+    │           ├── 📄 EMD1_ALSDS+CORR_2012-2013.pdf
+    │           ├── 📄 EMD1_ALSDS+CORR_2011-2012.pdf
+    │           ├── 📄 EMD1+CORR_ALSDS_2013-2014.pdf
+    │           ├── 📄 EMD1_ALSDS_Corrigé_2010-2011.pdf
+    │           ├── 📄 mi-1an16u-emd1-algo17.pdf
+    │           ├── 📄 mi-1an16u-emd1-algo2019.pdf
+    │           ├── 📄 mi-1an13-ctrl_con1-algo16.pdf
+    │           ├── 📄 mi-1an13-s1-ex_fin-algo16.pdf
+    │           ├── 📄 mi-1an15-emd1-algo2017.pdf
+    │           ├── 📄 mi-1an15-emd1-algo2022.pdf
+    │           ├── 📄 mi-1an18-s1-interrogation-algo2018.pdf
+    │           ├── 📄 mi-1an18-s1-interrogation-algo2019.pdf
+    │           ├── 📄 Examen final 17 18.pdf
+    │           ├── 📄 Examen Rattrapage 14 15.pdf
+    │           ├── 📄 Examen final 15 16.pdf
+    │           ├── 📄 Examen rattrapage 17 18.pdf
+    │           ├── 📄 Examen rattrapage 18 19.pdf
+    │           ├── 📄 Examen Rattrapage 13 14.pdf
+    │           ├── 📄 Examen final 13 14.pdf
+    │           ├── 📄 Examen final 16 17.pdf
+    │           ├── 📄 Examen Final 14 15.pdf
+    │           ├── 📄 Examen Rattrapage 16 17.pdf
+    │           ├── 📄 Examen Rattrapage 15 16.pdf
+    │           ├── 📄 examens_algorithmique_exam_corrige_s1_mi_2016.pdf
+    │           ├── 📄 examens_algorithmique_exam_corrige_s1_mi_2014.pdf
+    │           ├── 📄 algorithmique_control_corrige_s1_mi_2013.pdf
+    │           ├── 📄 examen_algorithme_exam_corrige_s1_mi.pdf
+    │           ├── 📄 examen_algorithmique_8_l1_mi.pdf
+    │           ├── 📄 examen_algorithmique_corrige_7_l1_mi.pdf
+    │           ├── 📄 examen_algorithmique_corrige_6_l1_mi.pdf
+    │           ├── 📄 examen_algorithmique_corrige_5_l1_mi.pdf
+    │           ├── 📄 examen_algorithmique_corrige_4_l1_mi.pdf
+    │           ├── 📄 examen_algorithmique_3_l1_mi.pdf
+    │           ├── 📄 examen_algorithmique_1_l1_mi.pdf
+    │           ├── 📄 mi-1an18-s1-rattr-algo2018.pdf
+    │           ├── 📄 mi-1an31-emd1-algo15.pdf
+    │           ├── 📄 mi-1an18-s1-examen-algo2018.pdf
+    │           ├── 📄 mi-1an13-s1-ctrl_con-algo14.pdf
+    │           ├── 📄 mi-1an_hb-s1-exfin-algo16.pdf
+    │           └── 📄 mi-1an13-cntr1-algo15.pdf
+    ├── 📁 S2/
+    │   ├── 📄 Programme S2
+    │   ├── 📁 • TIC/
+    │   │   ├── 📄 Résumé.pdf
+    │   │   ├── 📁 USTHB/
+    │   │   │   ├── 📄 Chapitre-1.pdf
+    │   │   │   ├── 📄 Chapitre-2.pdf
+    │   │   │   └── 📄 Chapitre-3.pdf
+    │   │   ├── 📁 Alger/
+    │   │   │   ├── 📄 Chapitre 2.pdf
+    │   │   │   ├── 📄 Chapitre 3.pdf
+    │   │   │   ├── 📄 Chapitre 1.pdf
+    │   │   │   ├── 📄 Chap1.pdf
+    │   │   │   └── 📄 Chap2.pdf
+    │   │   └── 📁 UMBB/
+    │   │       ├── 📄 Cours5.pdf
+    │   │       ├── 📄 Cours4.pdf
+    │   │       ├── 📄 Cours3.pdf
+    │   │       ├── 📄 Cours 2.pdf
+    │   │       ├── 📄 Cours 1.pdf
+    │   │       └── 📄 Cours0.pdf
+    │   ├── 📁 • Structure Machine 2/
+    │   │   ├── 📁 TD/
+    │   │   │   └── 📁 Corrigé /
+    │   │   │       ├── 📄 Sol part 2 (1).pdf
+    │   │   │       ├── 📄 Sol part 1.pdf
+    │   │   │       ├── 📄 Sol part 2.pdf
+    │   │   │       └── 📄 Sol part 3.pdf
+    │   │   └── 📁 Cours/
+    │   │       ├── 📄 structure-machine.pdf
+    │   │       └── 📁 Alger/
+    │   │           └── 📁 Mme Touil/
+    │   │               ├── 📄 Chapitre 2 part 2.pdf
+    │   │               ├── 📄 Chapitre 4 part 1.pdf
+    │   │               ├── 📄 Chapitre 4 part 2.pdf
+    │   │               └── 📄 Chapitre 2 part 0.pdf
+    │   ├── 📁 • Proba/Stat/
+    │   │   ├── 📄 Resume-de-stat.pdf
+    │   │   ├── 📁 Cours/
+    │   │   │   ├── 📁 NTIC/
+    │   │   │   │   ├── 📄 Chapitre 1.pdf
+    │   │   │   │   └── 📄 Chapitre 2.pdf
+    │   │   │   ├── 📁 UMBB/
+    │   │   │   │   ├── 📄 2. Statistique simple.pdf
+    │   │   │   │   ├── 📄 1. Probabilité.pdf
+    │   │   │   │   └── 📄 3. Statistique double.pdf
+    │   │   │   └── 📁 Alger/
+    │   │   │       ├── 📄 Chapitre 1.pdf
+    │   │   │       ├── 📄 Chapitre 2.pdf
+    │   │   │       └── 📄 Chapitre 3.pdf
+    │   │   └── 📁 TD/
+    │   │       ├── 📁 NTIC/
+    │   │       │   ├── 📄 Série 3.pdf
+    │   │       │   ├── 📄 Série 2.pdf
+    │   │       │   └── 📄 Série 1.pdf
+    │   │       └── 📁 Alger/
+    │   │           ├── 📁 2023/
+    │   │           │   ├── 📄 Série 3.pdf
+    │   │           │   ├── 📄 Série 2.pdf
+    │   │           │   ├── 📄 Série 1.pdf
+    │   │           │   └── 📁 Solution/
+    │   │           │       ├── 📄 0_Probastat.pdf
+    │   │           │       ├── 📄 corrigé - Série 2-.pdf
+    │   │           │       ├── 📄 corrigé - Série 1.pdf
+    │   │           │       └── 📄 Corrigé_-Série_3-_.pdf
+    │   │           ├── 📁 2022/
+    │   │           │   ├── 📄 Série 3.pdf
+    │   │           │   └── 📄 Série 2.pdf
+    │   │           ├── 📁 2020/
+    │   │           │   ├── 📄 Série 3.pdf
+    │   │           │   └── 📄 Série 2.pdf
+    │   │           └── 📁 2021/
+    │   │               └── 📄 Serie 1.pdf
+    │   ├── 📁 • Physique 2/
+    │   │   ├── 📄 Résumé-Physique2.pdf
+    │   │   ├── 📄 Résumé.pdf
+    │   │   ├── 📁 Cours/
+    │   │   │   ├── 📁 USTHB/
+    │   │   │   │   ├── 📄 ChapI6.pdf
+    │   │   │   │   ├── 📄 ChapI5.pdf
+    │   │   │   │   ├── 📄 chapI3.pdf
+    │   │   │   │   ├── 📄 chapII2.pdf
+    │   │   │   │   ├── 📄 chapI7.pdf
+    │   │   │   │   ├── 📄 chapI4.pdf
+    │   │   │   │   ├── 📄 chapII3.pdf
+    │   │   │   │   ├── 📄 chapII1.pdf
+    │   │   │   │   ├── 📄 chapI1.pdf
+    │   │   │   │   ├── 📄 chapI2.pdf
+    │   │   │   │   ├── 📄 chapII4.pdf
+    │   │   │   │   └── 📄 Chap0.pdf
+    │   │   │   └── 📁 Alger/
+    │   │   │       ├── 📄 Circuit electrique.pdf
+    │   │   │       ├── 📄 Lois electricité.pdf
+    │   │   │       ├── 📄 Chapitre 4.pdf
+    │   │   │       ├── 📄 Chapitre 1 .pdf
+    │   │   │       ├── 📄 Chapitre 3.pdf
+    │   │   │       └── 📄 Chapitre 2.pdf
+    │   │   └── 📁 TD/
+    │   │       ├── 📁 2023/
+    │   │       │   ├── 📄 TD 4.pdf
+    │   │       │   ├── 📄 TD 3.pdf
+    │   │       │   ├── 📄 TD 2.pdf
+    │   │       │   └── 📄 TD 1.pdf
+    │   │       ├── 📁 2021/
+    │   │       │   ├── 📄 TD 3.pdf
+    │   │       │   ├── 📄 TD 2.pdf
+    │   │       │   └── 📁 Solution/
+    │   │       │       ├── 📄 Sol TD 2.pdf
+    │   │       │       └── 📄 Sol TD 3.pdf
+    │   │       └── 📁 2020/
+    │   │           ├── 📄 TD 2.pdf
+    │   │           ├── 📄 TD 6.pdf
+    │   │           ├── 📄 TD 3.pdf
+    │   │           ├── 📄 TD 4.pdf
+    │   │           ├── 📄 TD 1.pdf
+    │   │           ├── 📄 TD 5.pdf
+    │   │           └── 📁 Solution/
+    │   │               ├── 📄 Sol TD 3.pdf
+    │   │               ├── 📄 Sol TD 5.pdf
+    │   │               └── 📄 Sol TD 4.pdf
+    │   ├── 📁 • OPM/
+    │   │   ├── 📁 TP/
+    │   │   │   ├── 📄 Séries 2022_2023.pdf
+    │   │   │   └── 📁 Solution/
+    │   │   │       ├── 📄 TP 3.pdf
+    │   │   │       ├── 📄 TP 4.pdf
+    │   │   │       ├── 📄 TP 2.pdf
+    │   │   │       └── 📄 TP 1.pdf
+    │   │   └── 📁 Cours/
+    │   │       └── 📁 Alger/
+    │   │           ├── 📄 Chapitre 3.pdf
+    │   │           ├── 📄 Chapitre 2.pdf
+    │   │           ├── 📄 Chapitre 1.pdf
+    │   │           └── 📁 Résumé /
+    │   │               ├── 📄 Chapitre 2.pdf
+    │   │               ├── 📄 Chapitre 3.pdf
+    │   │               └── 📄 Chapitre 1.pdf
+    │   ├── 📁 • ASD 2/
+    │   │   ├── 📁 TD/
+    │   │   │   ├── 📁 Alger /
+    │   │   │   │   ├── 📁 2023/
+    │   │   │   │   │   ├── 📄 TD 3.pdf
+    │   │   │   │   │   ├── 📄 TD 2.pdf
+    │   │   │   │   │   └── 📄 TD 1.pdf
+    │   │   │   │   ├── 📁 2019/
+    │   │   │   │   │   ├── 📄 Série 3 part 2.pdf
+    │   │   │   │   │   ├── 📄 Série 3 part 1.pdf
+    │   │   │   │   │   └── 📄 Série 1.pdf
+    │   │   │   │   └── 📁 2020/
+    │   │   │   │       ├── 📄 Série 2.pdf
+    │   │   │   │       ├── 📄 Série 1.pdf
+    │   │   │   │       └── 📄 Série 3.pdf
+    │   │   │   ├── 📁 USTHB/
+    │   │   │   │   └── 📄 Série 2.pdf
+    │   │   │   └── 📁 UOEB/
+    │   │   │       ├── 📄 TD4.pdf
+    │   │   │       ├── 📄 TD3.pdf
+    │   │   │       ├── 📄 TD2..pdf
+    │   │   │       ├── 📄 TD2.pdf
+    │   │   │       └── 📄 TD1.pdf
+    │   │   ├── 📁 TP/
+    │   │   │   ├── 📁 2023/
+    │   │   │   │   ├── 📄 TP 3.pdf
+    │   │   │   │   ├── 📄 TP 4.pdf
+    │   │   │   │   ├── 📄 TP 1.pdf
+    │   │   │   │   └── 📄 TP 2.pdf
+    │   │   │   ├── 📁 2021/
+    │   │   │   │   ├── 📄 TP1.pdf
+    │   │   │   │   ├── 📄 TP3.pdf
+    │   │   │   │   ├── 📄 TP4.pdf
+    │   │   │   │   └── 📄 TP2.pdf
+    │   │   │   ├── 📁 2022/
+    │   │   │   │   ├── 📄 TP2.pdf
+    │   │   │   │   └── 📄 TP1.pdf
+    │   │   │   └── 📁 2020/
+    │   │   │       ├── 📄 TP4.pdf
+    │   │   │       ├── 📄 TP3.pdf
+    │   │   │       ├── 📄 TP2.pdf
+    │   │   │       └── 📄 TP1.pdf
+    │   │   └── 📁 Cours/
+    │   │       ├── 📁 Alger/
+    │   │       │   ├── 📄 les enregistrements .pdf
+    │   │       │   ├── 📄 Les Fichiers.pdf
+    │   │       │   ├── 📁 Mme Touil/
+    │   │       │   │   ├── 📄 Les Pointeurs.pdf
+    │   │       │   │   ├── 📄 Les Enregistrement.pdf
+    │   │       │   │   ├── 📄 Les Listes Chainées.pdf
+    │   │       │   │   └── 📄 Les Fichiers.pdf
+    │   │       │   ├── 📁 Cours Langage C/
+    │   │       │   │   ├── 📄 Les Fichiers .pdf
+    │   │       │   │   ├── 📄 les Listes Chaînées.pdf
+    │   │       │   │   ├── 📄 Les Pointeurs.pdf
+    │   │       │   │   └── 📄 Les Enregistremes.pdf
+    │   │       │   └── 📁 Mr Mahseur/
+    │   │       │       ├── 📄 4_Les listes linéaires chaînées.ppsx
+    │   │       │       ├── 📄 3_Les pointeurs.ppsx
+    │   │       │       ├── 📄 2_Les fichiers.ppsx
+    │   │       │       └── 📄 1_Les enregistrements.ppsx
+    │   │       ├── 📁 UMBB/
+    │   │       │   ├── 📄 Chapitre 3_Fichiers sequentiels.pdf
+    │   │       │   ├── 📄 Chapitre 2_Les enregistrements.pdf
+    │   │       │   └── 📄 Chapitre 1_Actions paramétrées.pdf
+    │   │       ├── 📁 UFAS/
+    │   │       │   ├── 🔗📁 TP2.pdf.webp/  (raccourci)
+    │   │       │   ├── 🔗📁 TP 01.pdf/  (raccourci)
+    │   │       │   ├── 🔗📁 TD 01.pdf/  (raccourci)
+    │   │       │   ├── 🔗📁 TD2.pdf/  (raccourci)
+    │   │       │   ├── 🔗📁 Chapitre 4 les structure de donnée dynamique.pdf/  (raccourci)
+    │   │       │   ├── 🔗📁 CHAPITRE 1 - Procédures & Fonctions.pdf/  (raccourci)
+    │   │       │   ├── 🔗📁 Chapitre 3 - les fichiers.pdf/  (raccourci)
+    │   │       │   └── 🔗📁 Chapitre 2 - les pointeurs et l'allocation dynamique de  mémoire.pdf/  (raccourci)
+    │   │       ├── 📁 UABT/
+    │   │       │   ├── 📁 Tp/
+    │   │       │   │   ├── 📄 TP8_Structures.pdf
+    │   │       │   │   ├── 📄 TP4_Fonctions.pdf
+    │   │       │   │   ├── 📄 TP6_Tableaux.pdf
+    │   │       │   │   ├── 📄 TP5_Pointeurs.pdf
+    │   │       │   │   ├── 📄 TP7_Chaines.pdf
+    │   │       │   │   └── 📄 TP_11.pdf
+    │   │       │   ├── 📁 TD/
+    │   │       │   │   ├── 📄 TD6_Tableaux.pdf
+    │   │       │   │   ├── 📄 TD_9.pdf
+    │   │       │   │   ├── 📄 TD8_Structures.pdf
+    │   │       │   │   ├── 📄 TD5_Pointeurs.pdf
+    │   │       │   │   ├── 📄 TD4_Fonctions.pdf
+    │   │       │   │   └── 📄 TD7_Chaines.pdf
+    │   │       │   ├── 📁 sujet + Examen/
+    │   │       │   │   ├── 📄 Correction_Controle_Continu_S2_final_MI_2015.pdf
+    │   │       │   │   ├── 📄 Examen_Final_S2_MI_2014.pdf
+    │   │       │   │   ├── 📄 Rattrapage_S2_MI_2014.pdf
+    │   │       │   │   ├── 📄 Contrôl_Continu_S2_final_MI_2016.pdf
+    │   │       │   │   ├── 📄 Contrôl_Continu_S2_final_MI_2017.pdf
+    │   │       │   │   ├── 📄 Correction_Controle_Continu_S2_final_MI_2016.pdf
+    │   │       │   │   ├── 📄 Rattrapage_S2_2018.pdf
+    │   │       │   │   ├── 📄 Rattrapage_S2_2017.pdf
+    │   │       │   │   ├── 📄 Corr_Control_Continu_S2_2018.pdf
+    │   │       │   │   ├── 📄 Correction_Examen_Final_S2_final_MI_2015.pdf
+    │   │       │   │   ├── 📄 Examen_Final_S2_final_MI_2016.pdf
+    │   │       │   │   ├── 📄 Corr_Rattrapage_S2_2017.pdf
+    │   │       │   │   ├── 📄 GeneralAttachmentError.htm
+    │   │       │   │   ├── 📄 Control_Continu_S2_2018_001.pdf
+    │   │       │   │   ├── 📄 Correction_Rattrapage_S2_MI_2014.pdf
+    │   │       │   │   ├── 📄 Correction_Rattrapage_S2_MI_2016_001.pdf
+    │   │       │   │   ├── 📄 Correction_Examen_S2_MI_2014.pdf
+    │   │       │   │   ├── 📄 Correction_Controle_Continu_S2_MI_2017.aux.pdf
+    │   │       │   │   ├── 📄 Controle_Continu_S2_MI_2014.pdf
+    │   │       │   │   ├── 📄 Contrôl_Continu_S2_final_MI_2015.pdf
+    │   │       │   │   ├── 📄 Final-Exam_S2_2018_001.pdf
+    │   │       │   │   ├── 📄 Corr_Rattrapage_S2_2018.pdf
+    │   │       │   │   ├── 📄 Correction_Controle_Continu_S2_MI_2014.pdf
+    │   │       │   │   ├── 📄 Correction_Rattrapage_S2_final_MI_2015.pdf
+    │   │       │   │   ├── 📄 Examen_Final_S2_final_MI_2015.pdf
+    │   │       │   │   ├── 📄 Final-Exam_S2_2017.pdf
+    │   │       │   │   ├── 📄 Rattrapage_S2_final_MI_2015.pdf
+    │   │       │   │   └── 📄 Correction_Rattrapage_S2_MI_2016.pdf
+    │   │       │   └── 📁 Cours/
+    │   │       │       ├── 📄 Cours_Chaine_de_caracteres.pdf
+    │   │       │       ├── 📄 Cours_Fichiers.pdf
+    │   │       │       ├── 📄 Cours_Structures.pdf
+    │   │       │       ├── 📄 Cours_Tableaux.pdf
+    │   │       │       ├── 📄 Cours5_Fonctions.pdf
+    │   │       │       └── 📄 Cours_Pointeurs.pdf
+    │   │       └── 📁 USTHB/
+    │   │           ├── 📄 Chapitre 4 part 2.pdf
+    │   │           ├── 📄 Chapitre 4 part 1.pdf
+    │   │           ├── 📄 Chapitre 3.pdf
+    │   │           ├── 📄 Chapitre 2.pdf
+    │   │           └── 📄 Chapitre 1.pdf
+    │   ├── 📁 • Analyse 2/
+    │   │   ├── 📁 Cours/
+    │   │   │   ├── 📁 Alger/
+    │   │   │   │   ├── 📄 Chapitre 6 part 1.pdf
+    │   │   │   │   ├── 📄 Chapitre 6 Part 2.pdf
+    │   │   │   │   └── 📄 Chapitres 7 .pdf
+    │   │   │   └── 📁 UMBB/
+    │   │   │       ├── 📄 Intégrales indéfinies part3.pdf
+    │   │   │       ├── 📄 Intégrales indéfinies part2.pdf
+    │   │   │       ├── 📄 Les intégrales indéfinies part1.pdf
+    │   │   │       ├── 📄 chapitre 3.pdf
+    │   │   │       └── 📄 cours_developpement__limité.pdf
+    │   │   └── 📁 TD/
+    │   │       ├── 📁 2023/
+    │   │       │   ├── 📄 Série 7.pdf
+    │   │       │   ├── 📄 Série 6.pdf
+    │   │       │   └── 📁 Solution/
+    │   │       │       ├── 📄 Série 6.pdf
+    │   │       │       └── 📄 Série 7.pdf
+    │   │       └── 📁 2020/
+    │   │           ├── 📄 Série 7.pdf
+    │   │           ├── 📄 Série 5.pdf
+    │   │           └── 📄 Série 6.pdf
+    │   └── 📁 • Algèbre 2 /
+    │       ├── 📁 TD/
+    │       │   ├── 📁 USTHB /
+    │       │   │   ├── 📄 Série Applications linéaires.pdf
+    │       │   │   ├── 📄 Série applications linéaires..pdf
+    │       │   │   ├── 📄 Série matrices.pdf
+    │       │   │   ├── 📄 Série espace vectoriel.pdf
+    │       │   │   └── 📄 série d'exercices corrigés.pdf
+    │       │   ├── 📁 Alger/
+    │       │   │   ├── 📁 2021/
+    │       │   │   │   └── 📄 Serie 1.pdf
+    │       │   │   └── 📁 2023/
+    │       │   │       ├── 📄 Série 3.pdf
+    │       │   │       ├── 📄 Série 2.pdf
+    │       │   │       ├── 📄 Série 1.pdf
+    │       │   │       └── 📁 Solution/
+    │       │   │           └── 📄 Série 1.pdf
+    │       │   └── 📁 NTIC/
+    │       │       ├── 📄 Série 3.pdf
+    │       │       ├── 📄 Série 2.pdf
+    │       │       └── 📄 Série 1.pdf
+    │       └── 📁 Cours/
+    │           ├── 📁 NTIC/
+    │           │   ├── 📄 Chapitre 1 Espaces vectoriels.pdf
+    │           │   ├── 📄 Chapitre 2 Applications lineaires.pdf
+    │           │   └── 📄 Chapitre 3 Matrices.pdf
+    │           ├── 📁 Alger/
+    │           │   ├── 📄 Chapitre 3 & 4.pdf
+    │           │   ├── 🔗📁 Chapitre 3.pdf  (raccourci)
+    │           │   └── 📄 Chapitre 1 & 2.pdf
+    │           ├── 📁 USTHB/
+    │           │   ├── 📄 2_Applications lineaires.pdf
+    │           │   └── 📄 1-Espace vectoriel.pdf
+    │           └── 📁 UMBB/
+    │               ├── 📄 4)determinants.pdf
+    │               ├── 📄 3)les matrices.pdf
+    │               ├── 📄 2)Applications Linéaires.pdf
+    │               └── 📄 1)les espaces vectoriel.pdf
+    └── 📁 S1/
+        ├── 📄 Programme S1
+        ├── 📁 • TCE/
+        │   ├── 📄 Chapt 1.pdf
+        │   ├── 📄 Accord du participe passé.pdf
+        │   ├── 📄 Les différents comportements dans une situation de communication.pdf
+        │   ├── 📄 Le texte argumentatif.pdf
+        │   ├── 📄 Le schéma de la communication.pdf
+        │   ├── 📄 Chapt 2.pdf
+        │   ├── 📄 Chapt 3.pdf
+        │   ├── 📄 C V.pdf
+        │   └── 🔗📁 LES PREMIERS COURS.pdf/  (raccourci)
+        ├── 📁 • Structure Machine 1/
+        │   ├── 📁 TD/
+        │   │   ├── 📁 UMBB/
+        │   │   │   └── 📄 Séries.pdf
+        │   │   ├── 📁 UYFM/
+        │   │   │   ├── 📄 TD2.pdf
+        │   │   │   ├── 📄 TD3.pdf
+        │   │   │   └── 📄 TD1.pdf
+        │   │   └── 📁 Alger/
+        │   │       ├── 📄 Series 2022_2023.pdf
+        │   │       └── 📁 Solution /
+        │   │           ├── 📄 Partie 5.pdf
+        │   │           └── 📄 Partie 4.pdf
+        │   └── 📁 cours/
+        │       ├── 📄 Résumé.pdf
+        │       ├── 📁 Alger/
+        │       │   ├── 📄 Algèbre de Boole-Eric Cariou.pdf
+        │       │   ├── 📁 Mme Touil/
+        │       │   │   ├── 📄 Chapitre 3 partie 3.pdf
+        │       │   │   ├── 📄 Chapitre 3 part 1.pdf
+        │       │   │   ├── 📄 Chapitre 3 part 2.pdf
+        │       │   │   ├── 📄 Chapitre 2 Tables ASCII .pdf
+        │       │   │   ├── 📄 Chapitre 2 part 4.pdf
+        │       │   │   ├── 📄 Chapitre 2 part 3 .pdf
+        │       │   │   ├── 📄 Chapitre 2 part 1 .pdf
+        │       │   │   ├── 📄 Chapitre 2 part 2.pdf
+        │       │   │   └── 📄 Chapitre 1.pdf
+        │       │   └── 📁 Mme Ydroudj/
+        │       │       ├── 📄 Chapitre 3.pdf
+        │       │       ├── 📄 Chapitre 1.pdf
+        │       │       └── 📄 Chapitre 2.pdf
+        │       └── 📁 UMBB/
+        │           ├── 📄 Chapitre 3 part2.pdf
+        │           ├── 📄 Chapitre 1.pdf
+        │           ├── 📄 Chapitre 2.pdf
+        │           └── 📄 Chapitre 3 part1.pdf
+        ├── 📁 • Physique 1/
+        │   ├── 📁 Cours/
+        │   │   ├── 📄 électronique.pdf
+        │   │   ├── 📁 USTHB/
+        │   │   │   ├── 📄 Composant_CM_1.pdf
+        │   │   │   ├── 📄 Composant_CM_2.pdf
+        │   │   │   ├── 📄 Composant_CM_4.pdf
+        │   │   │   ├── 📄 Composant_CM_3.pdf
+        │   │   │   └── 📄 Carte mère.pdf
+        │   │   ├── 📁 NTIC/
+        │   │   │   ├── 📄 chapitre 4.pdf
+        │   │   │   ├── 📄 chapitre 3.pdf
+        │   │   │   ├── 📄 chapitre 2.pdf
+        │   │   │   └── 📄 chapitre 1.pdf
+        │   │   ├── 📁 UMBB/
+        │   │   │   ├── 📄 Chapt 6.1.pdf
+        │   │   │   ├── 📄 Chapt 6.2.pdf
+        │   │   │   ├── 📄 Chapt 1.pdf
+        │   │   │   ├── 📄 Chapt 4.1.pdf
+        │   │   │   ├── 📄 Chapt 2.pdf
+        │   │   │   ├── 📄 Chapt 3.pdf
+        │   │   │   ├── 📄 Chapt 5.pdf
+        │   │   │   └── 📄 Chapt 4.2.pdf
+        │   │   ├── 📁 UHBC/
+        │   │   │   ├── 🔗📁 Cours 2.pdf/  (raccourci)
+        │   │   │   ├── 🔗📁 Cours 6.pdf/  (raccourci)
+        │   │   │   ├── 🔗📁 Cours 3.pdf/  (raccourci)
+        │   │   │   ├── 🔗📁 Cours 5.pdf/  (raccourci)
+        │   │   │   ├── 🔗📁 Cours 4.pdf/  (raccourci)
+        │   │   │   ├── 🔗📁 Cours 1.pdf/  (raccourci)
+        │   │   │   ├── 🔗📁 Cours 8.pdf/  (raccourci)
+        │   │   │   └── 🔗📁 Cours 7.pdf/  (raccourci)
+        │   │   └── 📁 ALGER /
+        │   │       ├── 📄 Chapitre 1 part1.pdf
+        │   │       ├── 📄 Chapitre 1 part3 .pdf
+        │   │       └── 📄 Chapitre 1 part2.pdf
+        │   └── 📁 EXERCICES/
+        │       ├── 📄 ELECT-EXOS.pdf
+        │       └── 📁 NTIC/
+        │           ├── 📄 TD 3.pdf
+        │           ├── 📄 TD 2.pdf
+        │           └── 📄 TD 1.pdf
+        ├── 📁 • ASD 1/
+        │   ├── 📄 Résumé  des cours ASD 1.pdf
+        │   ├── 📁 TP/
+        │   │   ├── 📁 2023/
+        │   │   │   ├── 📄 TP3.pdf
+        │   │   │   ├── 📄 TP2.pdf
+        │   │   │   ├── 📄 TP1.pdf
+        │   │   │   └── 📁 solutions/
+        │   │   │       ├── 📄 TP3.pdf
+        │   │   │       ├── 📄 TP1.pdf
+        │   │   │       └── 📄 TP2.pdf
+        │   │   └── 📁 2022/
+        │   │       └── 📄 Series TP S1.pdf
+        │   ├── 📁 TD/
+        │   │   ├── 📁 UMBB/
+        │   │   │   ├── 📄 TD5.pdf
+        │   │   │   ├── 📄 TD4.pdf
+        │   │   │   ├── 📄 TD3.pdf
+        │   │   │   ├── 📄 TD2.pdf
+        │   │   │   ├── 📄 TD1.pdf
+        │   │   │   └── 📄 Série 01.pdf
+        │   │   ├── 📁 USTHB /
+        │   │   │   ├── 📁 2020/
+        │   │   │   │   ├── 📄 TD Chapitre III n1.pdf
+        │   │   │   │   ├── 📄 TD Chapitre III n2.pdf
+        │   │   │   │   ├── 📄 TD Chapitre III n3.pdf
+        │   │   │   │   ├── 📄 TD Chapitre IV.pdf
+        │   │   │   │   ├── 📄 Série 2.pdf
+        │   │   │   │   └── 📄 Série 1.pdf
+        │   │   │   ├── 📁 2021/
+        │   │   │   │   ├── 📄 TD Chapitre III n1.pdf
+        │   │   │   │   ├── 📄 TD Chapitre III n2.pdf
+        │   │   │   │   ├── 📄 TD Chapitre III n5.pdf
+        │   │   │   │   ├── 📄 TD Chapitre III n4.pdf
+        │   │   │   │   ├── 📄 TD Chapitre IV n5.pdf
+        │   │   │   │   ├── 📄 TD Chapitre IV n3.pdf
+        │   │   │   │   ├── 📄 TD Chapitre III n3.pdf
+        │   │   │   │   ├── 📄 TD Chapitre IV n6.pdf
+        │   │   │   │   ├── 📄 TD Chapitre IV n4.pdf
+        │   │   │   │   ├── 📄 Série 1.pdf
+        │   │   │   │   ├── 📄 TD Chapitre IV n2.pdf
+        │   │   │   │   ├── 📄 TD Chapitre IV n7.pdf
+        │   │   │   │   ├── 📄 Série 2.pdf
+        │   │   │   │   └── 📄 TD Chapitre IV n1.pdf
+        │   │   │   └── 📁 2019/
+        │   │   │       ├── 📄 Série 1.pdf
+        │   │   │       ├── 📄 Série 2.pdf
+        │   │   │       ├── 📄 Série 3.pdf
+        │   │   │       ├── 📄 TD Chapitre II.pdf
+        │   │   │       ├── 📄 TD Chapitre III.pdf
+        │   │   │       └── 📄 TD Chapitre IV.pdf
+        │   │   └── 📁 Alger/
+        │   │       ├── 📁 2023/
+        │   │       │   ├── 📄 Série 2.pdf
+        │   │       │   ├── 📄 Série 3.pdf
+        │   │       │   ├── 📄 Série 1.pdf
+        │   │       │   └── 📁 solution /
+        │   │       │       ├── 📄 Série 4.pdf
+        │   │       │       ├── 📄 Serie 2.pdf
+        │   │       │       └── 📄 Série 1.pdf
+        │   │       └── 📁 2022/
+        │   │           ├── 📄 Série 3.pdf
+        │   │           ├── 📄 série 2.pdf
+        │   │           ├── 📄 série 4.pdf
+        │   │           └── 📄 Série 1.pdf
+        │   └── 📁 cours/
+        │       ├── 📁 Alger /
+        │       │   ├── 📄 Chapitre 4.pdf
+        │       │   ├── 📄 Chapitre 2.pdf
+        │       │   ├── 📄 Chapitre 3.pdf
+        │       │   └── 📁 Cours Langage C/
+        │       │       ├── 📁 Mme Messabih/
+        │       │       │   ├── 📄 2.pdf
+        │       │       │   ├── 📄 1.pdf
+        │       │       │   └── 📄 3.pdf
+        │       │       └── 📁 Mme Touil/
+        │       │           ├── 📄 2.pdf
+        │       │           ├── 📄 3.pdf
+        │       │           └── 📄 1.pdf
+        │       ├── 📁 UABT/
+        │       │   ├── 📄 Chap-4-les boucles.pdf
+        │       │   ├── 📄 Chap-3-structures conditionnelles.pdf
+        │       │   ├── 📄 Chap-1.pdf
+        │       │   ├── 📄 Chap-2 généralités.pdf
+        │       │   └── 📄 Chap-5-les tableaux.pdf
+        │       └── 📁 USTHB/
+        │           ├── 🔗📁 Chapitre IV. Tableaux (Séance N°2).pdf/  (raccourci)
+        │           ├── 🔗📁 Chapitre IV. Tableaux (Séance N°4).pdf/  (raccourci)
+        │           ├── 🔗📁 Chapitre IV. Tableaux (Séance N°5).pdf/  (raccourci)
+        │           ├── 🔗📁 Chapitre III. Langage Algorithmique (Séance N°10).pdf/  (raccourci)
+        │           ├── 🔗📁 Chapitre III. Langage Algorithmique (Séance N°8).pdf/  (raccourci)
+        │           ├── 🔗📁 Chapitre IV. Tableaux (Séance N°1).pdf/  (raccourci)
+        │           ├── 🔗📁 Chapitre III. Langage Algorithmique (Séance N°9).pdf/  (raccourci)
+        │           ├── 🔗📁 Chapitre IV. Tableaux (Séance N°3).pdf/  (raccourci)
+        │           ├── 🔗📁 Chapitre III. Langage Algorithmique (Séance N°4).pdf/  (raccourci)
+        │           ├── 🔗📁 Chapitre I. Introduction à linformatique (Séance N°1).pdf/  (raccourci)
+        │           ├── 🔗📁 Chapitre III. Langage Algorithmique (Séance N°1).pdf/  (raccourci)
+        │           ├── 🔗📁 Chapitre II. Résolution de problèmes en informatique (Séance N°1).pdf/  (raccourci)
+        │           ├── 🔗📁 Chapitre III. Langage Algorithmique (Séance N°2).pdf/  (raccourci)
+        │           ├── 🔗📁 Chapitre III. Langage Algorithmique (Séance N°5).pdf/  (raccourci)
+        │           ├── 🔗📁 Chapitre III. Langage Algorithmique (Séance N°6).pdf/  (raccourci)
+        │           ├── 🔗📁 Chapitre III. Langage Algorithmique (Séance N°3).pdf/  (raccourci)
+        │           ├── 🔗📁 Chapitre III. Langage Algorithmique (Séance N°7).pdf/  (raccourci)
+        │           └── 📁 Mr Bessaa/
+        │               └── 📄 Chapitre V.pdf
+        ├── 📁 • Anglais  1/
+        │   ├── 📁 Alger/
+        │   │   ├── 📄 All Lessons.pdf
+        │   │   ├── 📄 Grammar Lessons MI S1 .pdf
+        │   │   └── 📄 anglais.pdf
+        │   ├── 📁 UMBB/
+        │   │   ├── 📄 The English Paragraph.pdf
+        │   │   ├── 📄 Unity and Coherene PRACTICE.pdf
+        │   │   ├── 📁 Lesson1/
+        │   │   │   ├── 📄 Lesson1 types of sentences.pdf
+        │   │   │   └── 📄 Lesson1 Answers.pdf
+        │   │   ├── 📁 Lesson2/
+        │   │   │   ├── 📄 Lesson2 Answers.pdf
+        │   │   │   └── 📄 Lesson2 interacting with your computer.pdf
+        │   │   ├── 📁 Lesson5/
+        │   │   │   ├── 📄 Lesson5 Answers.pdf
+        │   │   │   └── 📄 Lesson5 CONDITIONALS.pdf
+        │   │   ├── 📁 Lesson7/
+        │   │   │   ├── 📄 Lesson7 Expressing the future.pdf
+        │   │   │   └── 📄 Lesson7 Answers.pdf
+        │   │   ├── 📁 Lesson6/
+        │   │   │   ├── 📄 Lesson6 Answers.pdf
+        │   │   │   └── 📄 Lesson6 Interacting with your Computer 3.pdf
+        │   │   ├── 📁 Lesson4/
+        │   │   │   ├── 📄 Lesson4 Answers.pdf
+        │   │   │   └── 📄 Lesson4 Interacting with the computer 2.pdf
+        │   │   ├── 📁 Lesson8/
+        │   │   │   ├── 📄 Lesson8 Concession and Contrast.pdf
+        │   │   │   └── 📄 Lesson08Answers.pdf
+        │   │   └── 📁 Lesson3/
+        │   │       ├── 📄 lesson3 Answers.pdf
+        │   │       └── 📄 lesson3 Tenses.pdf
+        │   └── 📁 UNIV MILA/
+        │       ├── 📄 Lesson 8.pdf
+        │       ├── 📄 Lesson 6.pdf
+        │       ├── 📄 Lesson 1.pdf
+        │       ├── 📄 Lesson 10.pdf
+        │       ├── 📄 Lesson 5.pdf
+        │       ├── 📄 Lesson 2.pdf
+        │       ├── 📄 Lesson 9.pdf
+        │       ├── 📄 Lesson 4.pdf
+        │       ├── 📄 Lesson 3.pdf
+        │       └── 📄 Lesson 7.pdf
+        ├── 📁 • Analyse 1/
+        │   ├── 🔗📁 Résumé_chapitre1_nombres_réels_Analyse1_MI8_21.pdf  (raccourci)
+        │   ├── 📁 TD/
+        │   │   ├── 📁 2023/
+        │   │   │   ├── 📄 Série 5.pdf
+        │   │   │   ├── 📄 Série 4.pdf
+        │   │   │   ├── 📄 Série 3 .pdf
+        │   │   │   ├── 📄 Série 1.pdf
+        │   │   │   ├── 📄 Série 2.pdf
+        │   │   │   └── 📁 solution/
+        │   │   │       ├── 📄 corr s5 ana.pdf
+        │   │   │       ├── 📄 CORRIGE SERIE 4.pdf
+        │   │   │       ├── 📄 CORRIGE SERIE 3.pdf
+        │   │   │       ├── 📄 CORRIGE SERIE 2 .pdf
+        │   │   │       └── 📄 CORRIGE SERIE 1.pdf
+        │   │   ├── 📁 2021/
+        │   │   │   ├── 📄 Série 3.pdf
+        │   │   │   ├── 📄 Série 2.pdf
+        │   │   │   └── 📄 Série 1.pdf
+        │   │   └── 📁 2022/
+        │   │       ├── 📄 Série 1.pdf
+        │   │       ├── 📄 Série 3.pdf
+        │   │       └── 📄 Serie 2.pdf
+        │   └── 📁 cours/
+        │       ├── 📁 UMBB/
+        │       │   ├── 📄 4)Fonctions élémentaires.pdf
+        │       │   ├── 📄 5)Dérivabilité des fonctions réelles.pdf
+        │       │   └── 📄 1)cours nombres réels. 2)suites numériques.pdf
+        │       └── 📁 USTHB/
+        │           ├── 📄 chapitre 3 part 3.pdf
+        │           ├── 📄 chapitre 3 part 2.pdf
+        │           ├── 📄 chapitre 3 part 1.pdf
+        │           ├── 📄 Chapitre 2.pdf
+        │           ├── 📄 Chapitre 4.pdf
+        │           └── 📄 Chapitre 1 .pdf
+        └── 📁 • Algèbre 1/
+            ├── 📁 TD/
+            │   ├── 📁 NTIC/
+            │   │   ├── 📄 Série 3.pdf
+            │   │   ├── 📄 Série 2.pdf
+            │   │   ├── 📄 Série 1.pdf
+            │   │   └── 📄 Série 4.pdf
+            │   ├── 📁 Alger/
+            │   │   ├── 📁 2023/
+            │   │   │   ├── 📄 Série 4.pdf
+            │   │   │   ├── 📄 Serie 3.pdf
+            │   │   │   ├── 📄 Série 2 part 1.pdf
+            │   │   │   ├── 📄 Série 2 part 2.pdf
+            │   │   │   └── 📄 Série 1.pdf
+            │   │   └── 📁 2021/
+            │   │       ├── 📄 Série 3.pdf
+            │   │       ├── 📄 Série 1.pdf
+            │   │       ├── 📄 série 2.pdf
+            │   │       └── 📄 série 4.pdf
+            │   └── 📁 USTHB/
+            │       ├── 📄 TD1.pdf
+            │       ├── 📄 Série 3.pdf
+            │       ├── 📄 Série 1.pdf
+            │       └── 📄 Série 2.pdf
+            └── 📁 cours/
+                ├── 📁 Alger/
+                │   ├── 📄 Chapitre 4.pdf
+                │   └── 📄 Chapitre 2.pdf
+                ├── 📁 NTIC/
+                │   ├── 📄 Chapitre1_ Logique et Raisonnement.pdf
+                │   ├── 📄 Chapitre 2 Ensembles et applications.pdf
+                │   ├── 📄 Chapitre 3_ Relations binaires.pdf
+                │   └── 📄 Chapitre 4 Structures algebriques.pdf
+                ├── 📁 USTHB/
+                │   ├── 📄 Chapitre 5.pdf
+                │   ├── 📄 Chapitre 4.pdf
+                │   ├── 📄 Chapitre 3.pdf
+                │   ├── 📄 Chapitre 1.pdf
+                │   └── 📄 Chapitre 2.pdf
+                └── 📁 UMBB/
+                    ├── 📄 Chapitre 6 ( Les polynômes ).pdf
+                    ├── 📄 Chapitre 5 ( Les structures algébriques ).pdf
+                    ├── 📄 Chapitre 4 ( Les applications ).pdf
+                    ├── 📄 Chapitre 3 ( Les relations ).pdf
+                    ├── 📄 Chapitre 2 ( les ensembles ).pdf
+                    └── 📄 Chapitre 1 ( logique mathématique ).pdf
+
+═════════════════════════════════════
+  Fin du fichier · math info
+═════════════════════════════════════

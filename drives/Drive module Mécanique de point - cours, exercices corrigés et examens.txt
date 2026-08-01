@@ -1,0 +1,330 @@
+📚 MODULE : Mécanique de point                        
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Mécanique de point.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Mécanique de point/
+├── 🔗📁 mécanique/  (raccourci)
+│   ├── 📁 resumé/
+│   │   └── 📄 resumé mecanique (KH) .pdf
+│   ├── 📁 TP/
+│   │   └── 📄 énoncé tps meca .pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 TD4 meca (KH) .pdf
+│   │   ├── 📄 TD2 meca (KH) .pdf
+│   │   ├── 📄 TD1 meca (KH) .pdf
+│   │   └── 📄 TD3 meca (KH) .pdf
+│   ├── 📁 exercices/
+│   │   └── 📄 applications mécanique (KH) .pdf
+│   ├── 📁 cours/
+│   │   └── 📄 cours mécanique (KH) .pdf
+│   └── 📁 devoirs/
+│       ├── 📁 examens/
+│       │   ├── 📄 examen c 2019 (KH) .pdf
+│       │   └── 📄 examen p 2019 (KH) .pdf
+│       └── 📁 ds/
+│           └── 📄 ds mecanique 2019 (KH) .pdf
+├── 🔗📁 Mécanique du point/  (raccourci)
+│   ├── 📁 TD & Exercices/
+│   │   ├── 📄 TD de mecanique du point materiel.pdf
+│   │   ├── 📄 g Cinéma exercices.pdf
+│   │   ├── 📄 corrige4.pdf
+│   │   ├── 📄 corrige3.pdf
+│   │   ├── 📄 corrige2.pdf
+│   │   ├── 📄 corrige1.pdf
+│   │   ├── 📄 serie4.pdf
+│   │   ├── 📄 serie3.pdf
+│   │   ├── 📄 serie2.pdf
+│   │   ├── 📄 serie1.pdf
+│   │   ├── 📄 mecanique smpcTD.pdf
+│   │   ├── 📄 INP Meca TD.pdf
+│   │   └── 📄 MecDuPointMat_Polycop_Ex(1).pdf
+│   ├── 📁 Examens Corrigées/
+│   │   ├── 📄 TP EXm de  de mecanique du point materiel.pdf
+│   │   ├── 📄 tome-1-S1-SMPC-et-SMA.pdf
+│   │   ├── 📄 exm meca 1 jdida_.pdf
+│   │   ├── 📄 Examen smp1 knitra.pdf
+│   │   ├── 📄 exmens corrigée mécanique de point S1 marakch.pdf
+│   │   ├── 📄 Exercices-et-probleme-resolus-tome-1-2013-Semestre-1-SMPC-et-SMA_Deleted.pdf
+│   │   └── 📄 EXAMENS corriges de Mecanique du point materiel 1.pdf
+│   └── 📁 Cours/
+│       └── 📄 cour  mecanique de point 1.pdf
+├── 🔗📁 Mécanique du point/  (raccourci)
+│   ├── 📁 cours/
+│   │   ├── 📄 Phy103-Energetique-TravauxPratiquesTP1.pdf
+│   │   ├── 📄 mecanique.pdf
+│   │   ├── 📄 CH-2-Cineematique.pdf
+│   │   ├── 📄 CH-3-Dynamique.pdf
+│   │   └── 📄 precis-mecanique.pdf
+│   ├── 📁 Exercices/
+│   │   ├── 📄 Mécanique, classes préparatoires MPSI, PCSI, PTSI.pdf
+│   │   ├── 📄 -__-TD DYNAMIQUE DU POINT + CORRECTIONS.pdf
+│   │   ├── 📄 excerces_3.pdf
+│   │   ├── 📄 TDMeca2.pdf
+│   │   ├── 📄 TD2.pdf
+│   │   ├── 📄 TD8-9.pdf
+│   │   ├── 📄 TD4.pdf
+│   │   ├── 📄 TD6.pdf
+│   │   ├── 📄 TD3.pdf
+│   │   ├── 📄 TD 1.pdf
+│   │   ├── 📄 TD7.pdf
+│   │   ├── 📄 TD5.pdf
+│   │   ├── 📄 INP Meca TD.pdf
+│   │   ├── 📄 MecDuPointMat_Polycop_Ex.pdf
+│   │   ├── 📄 corrige3.pdf
+│   │   ├── 📄 serie3.pdf
+│   │   ├── 📄 corrige2.pdf
+│   │   ├── 📄 serie2.pdf
+│   │   └── 📄 serie1.pdf
+│   └── 📁 Mecanique Controle S1 By ExoSup.com/
+│       ├── 📄 contro13 By ExoSup.com.jpg
+│       ├── 📄 contro12 By ExoSup.com.jpg
+│       ├── 📄 contro14 By ExoSup.com.jpg
+│       └── 📄 Copie de Controles Semestre 1 By ExoSup.com.pdf
+├── 🔗📁 °MECANIQUE SMPC SMAI/  (raccourci)
+│   ├── 📄 ++TD MECANIQUE-SMPC1 FSSM-MARRAKECH 2020-2021.pdf
+│   ├── 📄 ++TD MECANIQUE-SMPC1 FSDM-FES 20 21 22.pdf
+│   ├── 📄 ++TD MECANIQUE-SMPC1 FSAC-CASABLANCA 2020-2021.pdf
+│   ├── 📄 ++TD MECANIQUE-SMPC1 FSAC-CASABLANCA 20-21.pdf
+│   ├── 📄 ++TD MECANIQUE-SMPC1 FSA-AGADIR 2020-2021.pdf
+│   ├── 📄 ++TD MECANIQUE-SMPC1 FPS-SAFI 20 21.pdf
+│   ├── 📄 ++TD MECANIQUE-SMPC1 FPK-KHOURIBGHA 2020-2021.pdf
+│   ├── 📄 ++TD MECANIQUE-SMAI1 SMPC1 FPL-LARACH 2020-2021.pdf
+│   ├── 📄 ++TD MECANIQUE-SMAI1 SMPC1 FPBM-BENIMELLAL.pdf
+│   ├── 📄 ++TD MECANIQUE-SMAI1 FSSM-MARRAKECH 2021-2022.pdf
+│   ├── 📄 ++TD MECANIQUE-SMAI1 FSSM-MARRAKECH 2020-2021.pdf
+│   ├── 📄 ++TD MECANIQUE-SMAI1 FSM-MEKNES 2020-2021.pdf
+│   ├── 📄 ++TD MECANIQUE-SMAI1 FSK-KENITRA.pdf
+│   ├── 📄 ++TD MECANIQUE-SMAI1 FSDM-FES 2021-2022.pdf
+│   ├── 📄 ++TD MECANIQUE-SMAI1 FSDM-FES 2020-2021.pdf
+│   ├── 📄 ++TD MECANIQUE-SMAI1 FSAC-CASABLANCA 20-21.pdf
+│   ├── 📄 ++TD MECANIQUE-SMAI1 FSA-AGADIR 2020-2021.pdf
+│   ├── 📄 ++TD MECANIQUE-SMAI1 FPS-SAFI 20 21.pdf
+│   ├── 📄 ++TD MECANIQUE-SMAI1 FPO-OUARZAZATE 2020-2021.pdf
+│   ├── 📄 ++TD MECANIQUE-SMAI1  FPK-KHOURIBGHA 2020-2021.pdf
+│   ├── 📄 ++TD MECANIQUE SMPC1 FSR-RABAT 2020-2021.pdf
+│   ├── 📄 ++TD MECANIQUE SMAI FSM-MEKNES 2014-2015.pdf
+│   ├── 📄 ++TD MECANIQUE SMAI FSJ ELJADIDA 2019-2020.pdf
+│   ├── 📄 ++TD MECANIQUE FSSM 2016-2017.pdf
+│   ├── 📄 ++TD MECANIQUE FSSM 2013 2014 2015.pdf
+│   ├── 📄 ++TD MECANIQUE FSJ ELJADIDA 2015-2016.pdf
+│   ├── 📄 ++TD COURS MECANIQUE-SMPC1 FSM-MEKNES 2020-2021.pdf
+│   ├── 📄 ++COURS MECANIQUE-SMAI1 FPK-KHOURIBGA.pdf
+│   ├── 📄 ++COURS MECANIQUE-SMAI SMPC FSSM-MARRAKECH.pdf
+│   ├── 📄 ++COURS MECANIQUE-SMAI SMPC FSSM-MARRAKECH 19-20.pdf
+│   ├── 📄 ++COURS MECANIQUE SMPC1 FPK-KHOURIBGA.pdf
+│   ├── 📄 ++COURS MECANIQUE SMPC FSM-MEKNES 20 21.pdf
+│   ├── 📄 ++COURS MECANIQUE SMAI SMPC FSK-KENITRA.pdf
+│   ├── 📄 ++COURS MECANIQUE SMAI FSM-MEKNES 20 21.pdf
+│   ├── 📄 ++COURS MECANIQUE SMAI FPS-SAFI 20 21.pdf
+│   ├── 📄 ++COURS MECANIQUE FSJ ELJADIDA 2019-2020.pdf
+│   ├── 📄 +° EXAMENS TDS MECANIQUE- FSBM-CASABLANCA.pdf
+│   ├── 📄 +° EXAMENS MECANIQUE-SMPC1 SMAI1 FSR-RABAT.pdf
+│   ├── 📄 +° EXAMENS MECANIQUE-SMPC1 FSAC-CASABLANCA 17 A 22.pdf
+│   ├── 📄 +° EXAMENS MECANIQUE-SMPC1  FSDM-FES.pdf
+│   ├── 📄 +° EXAMENS MECANIQUE-SMAI1 SMPC1 FSJ-ELJADIDA.pdf
+│   ├── 📄 +° EXAMENS MECANIQUE-SMAI1 SMPC1 FSDM-FES.pdf
+│   ├── 📄 +° EXAMENS MECANIQUE-SMAI1 FSK-KENITRA DE 15 A 18.pdf
+│   ├── 📄 +° EXAMENS MECANIQUE-SMAI1 FSAC-CASABLANCA 17 A 22.pdf
+│   ├── 📄 +° EXAMENS MECANIQUE-SMAI1  FSDM-FES 19 A 22.pdf
+│   ├── 📄 +° EXAMENS MECANIQUE- FSSM-MARRAKECH 20132021.pdf
+│   ├── 📄 +° EXAMENS MECANIQUE- FSSM-MARRAKECH 20072018.pdf
+│   ├── 📄 +° EXAMENS MECANIQUE- FSA-AGADIR.pdf
+│   ├── 📄 +° EXAMENS MECANIQUE- FPS-SAFI.pdf
+│   └── 📄 +° EXAMENS MECANIQUE- FPBM-BENI MELLAL.pdf
+├── 🔗📁 °MECANIQUE ENSA & ENSAM/  (raccourci)
+│   ├── 📄 ++COURS MECANIQUE-CP1 ENSAM-CASABLANCA.pdf
+│   ├── 📄 ++TDS MECANIQUE-ENSAM-CASABLANCA 2020.pdf
+│   ├── 📄 ++TDS MECANIQUE-ENSAM 2018.pdf
+│   ├── 📄 ++TDS MECANIQUE-CP1 ENSA-TANGER 13 14.pdf
+│   ├── 📄 ++TDS MECANIQUE-CP1 ENSA-MARRAKECH 2021-2020.pdf
+│   ├── 📄 ++TDS MECANIQUE-CP1 ENSA-BENI-MELLAL 2021-2020.pdf
+│   ├── 📄 ++TDS MECANIQUE-CP1 ENSA-AGADIR- 2021-2020.pdf
+│   ├── 📄 ++TDS MECANIQUE CP1 ENSA-TETOUAN 2020-2021.pdf
+│   ├── 📄 ++TDS MECANIQUE CP1 ENSA-TETOUAN 2016-2017.pdf
+│   ├── 📄 ++TDS MECANIQUE CP1 ENSA-TETOUAN 2010-2011.pdf
+│   ├── 📄 ++TDS MECANIQUE CP1 ENSA-ELJADIDA 2019-2020.pdf
+│   ├── 📄 ++TDS EXAMENS MECANIQUE-CP1 ENSA-KENITRA.pdf
+│   ├── 📄 ++TDS EXAMENS MECANIQUE-CP1 ENSA-HOCIEMA 2020.pdf
+│   ├── 📄 ++TDS COURS MECANIQUE-CP1 ENSA-KHOURIBGHA 2021-2020.pdf
+│   ├── 📄 ++COURS MECANIQUE-CP1 ENSA-TETOUAN 20 21.pdf
+│   ├── 📄 ++COURS MECANIQUE-CP1 ENSA-TANGER.pdf
+│   ├── 📄 ++COURS MECANIQUE-CP1 ENSA-SAFI.pdf
+│   ├── 📄 ++COURS MECANIQUE-CP1 ENSA-KHOURIBGA.pdf
+│   ├── 📄 ++COURS MECANIQUE-CP1 ENSA-KENITRA.pdf
+│   ├── 📄 ++COURS MECANIQUE-CP1 ENSA-HOCIEMA 2020.pdf
+│   ├── 📄 ++COURS MECANIQUE-CP1 ENSA-BENI-MELLAL 2021-2020.pdf
+│   ├── 📄 +° EXAMENS MECANIQUE-CP1 ENSA-TANGER 13 14.pdf
+│   ├── 📄 +° EXAMENS MECANIQUE- ENSAM-.pdf
+│   ├── 📄 +° EXAMENS MECANIQUE- ENSA-TETOUAN.pdf
+│   ├── 📄 +° EXAMENS MECANIQUE- ENSA-MARRAKECH.pdf
+│   ├── 📄 +° EXAMENS MECANIQUE- ENSA-FES.pdf
+│   ├── 📄 +° EXAMENS MECANIQUE- ENSA-ELJADIDA.pdf
+│   └── 📄 +° EXAMENS MECANIQUE- ENSA-ELJADIDA 2022.pdf
+└── 📁 Mécanique du point/
+    ├── 📁 Cours/
+    │   ├── 📄 Cours Mecanique du point chapitre 2 Cinematique du point materiel-Mécanique de point
+    │   ├── 📄 Chapitre 4 Dynamique du point materiel-Mécanique de point
+    │   ├── 📄 Chapitre 3 Dynamique du point materiel-Mécanique de point
+    │   ├── 📄 Cours de mécanique du point Pr.ACHEGAF Zineb-Mécanique de point
+    │   ├── 📄 Cours Dynamique d'un point SVT
+    │   ├── 📄 Cours Dynamique du point
+    │   ├── 📄 Cours Mecanique Point Materiel  Etude Energetique
+    │   ├── 📄 Chapitre 1 composants de l ordinateur-Mécanique de point
+    │   ├── 📄 Cours Cinematique du point materiel
+    │   ├── 📄 Cours Cinematique du Point  ABD-LEFDIL
+    │   ├── 📄 Cours Mecanique Point et systeme de points materiels
+    │   ├── 📄 Cours Dynamique du Point Materiel
+    │   ├── 📄 Chapitre 4 TD Mecanique des milieux continus-Mécanique de point
+    │   ├── 📄 Cours Puissance Travail Energie
+    │   ├── 📄 Chapitre 1 Cinematique du point materiel-Mécanique de point
+    │   ├── 📄 Cours Mécanique du point  Chapitre 1
+    │   ├── 📄 Cours Mecanique Du Point Materiel
+    │   ├── 📄 Cours Mecanique du pointChapitre 3 Changements de referentiels Pr. Adel Bouajaj-Mécanique de point
+    │   ├── 📄 Cours Mecanique du Point Materiel SM et SMI
+    │   ├── 📄 Cours Dynamique
+    │   ├── 📄 Cours Mecanique du point ENSAH
+    │   ├── 📄 Chapitre 5 Chocs TD ou Cours-Mécanique de point
+    │   └── 📄 Chapitre 6 Oscillateurs harmoniques.pdf-Mécanique de point
+    ├── 📁 Examens/
+    │   ├── 📄 Mecanique du point DS Anciens-Mécanique de point
+    │   ├── 📄 Controle12 .jpg
+    │   ├── 📄 Controle14.jpg
+    │   ├── 📄 Controle13.jpg
+    │   ├── 📄 Examen 2  Mecanique
+    │   ├── 📄 corr   .pdf
+    │   ├── 📄 Controle SMP SMC
+    │   ├── 📄 Controle Mecanique Point N 1  exercices
+    │   ├── 📄 Corrigé de l'examen de mathématiques générales 1-Mécanique de point
+    │   ├── 📄 Controle Mecanique du point N2
+    │   ├── 📄 Examen Mecanique du Point Systeme L.M.D. ST
+    │   ├── 📄 annales mecanique du point materiel-Mécanique de point
+    │   ├── 📄 Controle de mecanique des fluides semestre 1-Mécanique de point
+    │   ├── 📄 Controle de mecanique du point-Mécanique de point
+    │   ├── 📄 examen mecanique du point materiel session 2014.pdf-Mécanique de point
+    │   ├── 📄 devoir 2016.pdf
+    │   ├── 📄 Controle de rattrapage de mecanique du point-Mécanique de point
+    │   ├── 📄 Controle Mecanique du point materiel ENSAK
+    │   ├── 📄 corr devoir 2016 .pdf
+    │   ├── 📄 Controle mecanique du point materiel S1-Mécanique de point
+    │   ├── 📄 examen mecanique du point materiel-Mécanique de point
+    │   ├── 📄 examen mecanique du point M1 2014 2015-Mécanique de point
+    │   └── 📄 Controle Mecanique du point N1
+    ├── 📁 TDs et exercices corrigés /
+    │   ├── 📄 Exercice pour trouver léquation du mouvement  par 4 méthodes (PFD, TMC,  TEC, et intégrale 1ère dénergie  (1).pdf
+    │   ├── 📄 Exercice pour trouver léquation du mouvement  par 4 méthodes (PFD, TMC,  TEC, et intégrale 1ère dénergie  (1).pdf
+    │   ├── 📄 P111 - TD 1 (Optique) (Solution).pdf
+    │   ├── 📄 P111 - TD 1 (Optique).pdf
+    │   ├── 📄 P111 - TD 2 (Optique) (Solution).pdf
+    │   ├── 📄 P111 - TD 2 (Optique).pdf
+    │   ├── 📄 P111 - TD 3 (Optique) (Solution).pdf
+    │   ├── 📄 P111 - TD 3 (Optique).pdf
+    │   ├── 📄 Polycopié des travaux dirigés de mécanique du point .pdf
+    │   ├── 📄 Polycopié des travaux dirigés de mécanique du point .pdf
+    │   ├── 📄 Série n° 1 de TD mecanique.pdf
+    │   ├── 📄 Série n° 1 de TD mecanique.pdf
+    │   ├── 📄 Série n° II (Mécanique du point).docx
+    │   ├── 📄 Série n° II (Mécanique du point).docx
+    │   ├── 📄 Série-n°-II-_Mécanique-du-point_.pdf
+    │   ├── 📄 Série-n°-II-_Mécanique-du-point_.pdf
+    │   ├── 📄 Exercices Mecanique PTSI
+    │   ├── 📄 TD 1 Mouvement Harmonique
+    │   ├── 📄 Mecanique du point materiel TD n°2-Mécanique de point
+    │   ├── 📄 TD Mecanique du point 2A 2016 2017-Mécanique de point
+    │   ├── 📄 Exercices Mécanique du Point Matériel
+    │   ├── 📄 TD fonctions de plusieurs variables.pdf-Mécanique de point
+    │   ├── 📄 TD 8 Conservatif
+    │   ├── 📄 Mecanique du point materiel   TD   Filiere SMPC   2007-2008   FSSM-Mécanique de point
+    │   ├── 📄 Exercices Mecanique  Problemes Corriges
+    │   ├── 📄 TD 1 Mécanique du point Oscillations Chocs Elastiques Moment cinétique
+    │   ├── 📄 TD 5 Mecanique Equilibre
+    │   ├── 📄 TD  Mecanique du point
+    │   ├── 📄 Corrigé TD Mécanique du point-Mécanique de point
+    │   ├── 📄 corr td3.pdf
+    │   ├── 📄 Mecanique TD N2 S1 2020 2021-Mécanique de point
+    │   ├── 📄 Mecanique du point chap 1 Rappels de maths-Mécanique de point
+    │   ├── 📄 corrr.pdf
+    │   ├── 📄 TD 6 Mecanique Deflexion Particule Lourde
+    │   ├── 📄 Initiation Informatique Introduction Generale Cours E.W. Dadi 2020 2021-Mécanique de point
+    │   ├── 📄 Exercices Mecanique du Point Materiel
+    │   ├── 📄 TD Mecanique du point materiel-Mécanique de point
+    │   ├── 📄 Exercices Mecanique PTSI Forces Centrales Conservatives
+    │   ├── 📄 Introduction au module physique 1 cours.pdf-Mécanique de point
+    │   ├── 📄 TD 7 Oscillateurs mecaniques
+    │   ├── 📄 Travaux diriges mecanique du point 2AP S1 2020 2021-Mécanique de point
+    │   ├── 📄 TD Electro statique serie 1 Introduction-Mécanique de point
+    │   ├── 📄 Mecanique quantique 1ere page-Mécanique de point
+    │   ├── 📄 Exercices Cinématique du point - SVT TD1
+    │   ├── 📄 TD 1 Mecanique du point
+    │   ├── 📄 Exercices  Mecanique Point Materiel
+    │   ├── 📄 Exercices Mecanique Oscillateur Harmonique
+    │   ├── 📄 Exercices Physique Point Materiel
+    │   ├── 📄 TD Mecanique du point M1 M2.pdf-Mécanique de point
+    │   ├── 📄 corr td5.pdf
+    │   ├── 📄 TD Cinematique Premiere Annee Classes Preparatoires-Mécanique de point
+    │   ├── 📄 Exercices  Mecanique  Cinematique  Du  Point
+    │   ├── 📄 TD Mecanique Exercice 1 Corrigé.pdf-Mécanique de point
+    │   ├── 📄 TD Mecanique du point
+    │   ├── 📄 Exercices Mécaniques des Systèmes de Solides Indéformables
+    │   ├── 📄 TD 7 Mouvement d'un point matériel dans un champ de force centrale
+    │   ├── 📄 Exercices Mecanique du Point Materiel
+    │   ├── 📄 Exercices Flocons de neige
+    │   ├── 📄 TD 1 Mecanique du point Rappel Mathematiques
+    │   ├── 📄 Exercices et controles corriges mecanique du point materiel-Mécanique de point
+    │   ├── 📄 Exercices Mecanique Newtonienne
+    │   ├── 📄 TD Mecanique du point-Mécanique de point
+    │   ├── 📄 Exercices Principe Fondamental Dynamique  TD
+    │   ├── 📄 Exercices  Chapitre 2 avec corrigé succinct
+    │   ├── 📄 Polycopie exercices et examens résolus Mécanique du point matériel-Mécanique de point
+    │   ├── 📄 TD 4 Physique Mecanique
+    │   ├── 📄 TD Mecanique du point
+    │   ├── 📄 TD 2 Mouvement Parabolique
+    │   ├── 📄 TD 6 Mecanique Du Point
+    │   ├── 📄 TD 2 Mecanique du point
+    │   ├── 📄 Exercices Physique Mecanique Du Point
+    │   ├── 📄 corr alot exer.pdf
+    │   ├── 📄 Exercices Mecanique du Point
+    │   ├── 📄 Exercices Mecanique PTSI
+    │   ├── 📄 Exercices Mecanique PTSI
+    │   ├── 📄 Exercices Mecanique PTSI
+    │   ├── 📄 Exercices Mecanique
+    │   ├── 📄 Exercices Mecanique Produit Vectoriel
+    │   ├── 📄 Exercices Mecanique du point Anneau sur un cercleau
+    │   ├── 📄 Exercices Spectrometre Masse
+    │   ├── 📄 TD 2 Mecanique du Point
+    │   ├── 📄 Exercices Dynamique du point matériel Série N°3
+    │   ├── 📄 TD Mecanique du Point Materiel
+    │   ├── 📄 Exercices Mecanique Newtonienne
+    │   ├── 📄 Mecanique du point TD N1 2020 2021.pdf-Mécanique de point
+    │   ├── 📄 Travaux dirigés Mécanique du point matériel-Mécanique de point
+    │   ├── 📄 Mecanique du point serie 1 TD 1.pdf-Mécanique de point
+    │   ├── 📄 TD Mecanique du point-Mécanique de point
+    │   ├── 📄 TD Physique 3 serie 1 Etudiants 1ere année CP-Mécanique de point
+    │   ├── 📄 serie 1ere STI2D - trigo - exo trigo trigo trigo-Mécanique de point
+    │   ├── 📄 Mecanique du point materiel corriges exercices-Mécanique de point
+    │   ├── 📄 Mecanique du point Exercices corriges-Mécanique de point
+    │   ├── 📄 Mecanique du point corrigé flocons de neige-Mécanique de point
+    │   ├── 📄 Mecanique du point serie 2.pdf-Mécanique de point
+    │   ├── 📄 Mecanique du point materiel serie 1.pdf-Mécanique de point
+    │   └── 📄 MECANIQUE 1 TD S1 S2 Rabat 2013 2014.pdf-Mécanique de point
+    └── 📁 Tp/
+        ├── 📄 TP Pendule Simple Q1 Q2-Mécanique de point
+        ├── 📄 TP 1 Energie Mecanique
+        ├── 📄 TP 2.doc
+        ├── 📄  TP1.docx
+        ├── 📄 TP 4.docx
+        └── 📄 tp3.docx
+
+═════════════════════════════════════
+  Fin du fichier · Mécanique de point
+═════════════════════════════════════

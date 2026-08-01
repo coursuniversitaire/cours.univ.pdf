@@ -1,0 +1,44 @@
+📚 MODULE : Liaisons Chimiques                        
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Liaisons Chimiques.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Liaisons Chimiques/
+├── 📁 Cours/
+│   ├── 📄 LA LIAISON CHIMIQUE By Ray.pdf
+│   ├── 📄 cours Liaisons chimique smpc s2 faculte des science fes .pdf
+│   ├── 📄 8387369.pdf
+│   ├── 📄 CHAP3a.pdf
+│   ├── 📄 3-LIAISONSCHIMIQUES.pdf
+│   ├── 📄 support-01.pdf
+│   ├── 📄 04.pdf
+│   └── 📄 liaison.pdf
+├── 📁 Examens Corrigées/
+│   ├── 📄 des examens fsr Liaison chimique et chimie en solution .pdf
+│   ├── 📄 ratt laison chimie.pdf
+│   └── 📄 exam laison chimie.pdf
+└── 📁 TD & Exercices/
+    ├── 📄 série 3 .pdf
+    ├── 📄 E120_td6.pdf
+    ├── 📄 E2_td5_2.pdf
+    ├── 📄 E120_td5.pdf
+    ├── 📄 exe .cor-5pdf.pdf
+    ├── 📄 Globale-exercices Liaison chimique smpc s2 .pdf
+    ├── 📄 TD Liaison chimique smpc s2 pdf.pdf
+    ├── 📄 série 1 .pdf
+    ├── 📄 série 2 .pdf
+    └── 📄 poly TD Liaison chimique smpc s2 .pdf
+
+═════════════════════════════════════
+  Fin du fichier · Liaisons Chimiques
+═════════════════════════════════════

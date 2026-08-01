@@ -1,0 +1,40 @@
+📚 MODULE : Management                                
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Management.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Management/
+├── 📄 Management Examens.pdf
+├── 🔗📁 Management /  (raccourci)
+│   ├── 📄 IMG_4132.HEIC
+│   ├── 📄 IMG_4136.HEIC
+│   ├── 📄 IMG_4137.HEIC
+│   ├── 📄 IMG_4128.HEIC
+│   ├── 📄 IMG_4131.HEIC
+│   ├── 📄 IMG_4130.HEIC
+│   ├── 📄 IMG_4134.HEIC
+│   ├── 📄 IMG_4129.HEIC
+│   ├── 📄 IMG_4133.HEIC
+│   ├── 📄 IMG_4135.HEIC
+│   └── 📄 IMG_4138.HEIC
+└── 📁 TDs/
+    ├── 📄 Corrigé de l'étude de cas de l'entreprise de Nora Essafi PDF.pdf
+    ├── 📄 Corrigé de l'étude de cas de la municipalité d'Agadir PDF.pdf
+    ├── 📄 La municipalité d'Agadir PDF (1).pdf
+    ├── 📄 NORA ESSAFI  PDF.pdf
+    ├── 📄 Organigramme de l'ENCGA.pdf
+    └── 📄 Solution de l'étude de cas SOMAC PDF.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Management
+═════════════════════════════════════

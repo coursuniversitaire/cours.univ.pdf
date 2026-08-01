@@ -1,0 +1,70 @@
+📚 MODULE : Mécanique Analytique                      
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Mécanique Analytique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Mécanique Analytique/
+├── 📁 TD/
+│   ├── 📄 Serie_4_m_canique_analytique (1)-4-8.pdf
+│   ├── 📄 App1-tige-sphere.pdf
+│   ├── 📄 TD3_MécaAnalytique.pdf
+│   ├── 📄 Application pédagogique sur les équations de Lagrange simples.pdf
+│   ├── 📄 TD2_meca_analytique.pdf
+│   ├── 📄 TD1-cor.pdf
+│   ├── 📄 App-ped2-cor.pdf
+│   └── 📄 Application-pédagogique.pdf
+├── 📁 Cours/
+│   ├── 📄 Mécanal-5.pdf
+│   ├── 📄 Mécanal-4.pdf
+│   ├── 📄 Mécanal-3.pdf
+│   ├── 📄 Mécanal-2.pdf
+│   └── 📄 CHAPITRE 1 FORMALISME LAGRANGIEN.pdf
+├── 📁 Exams/
+│   ├── 📄 Exam2-18-cor.pdf
+│   ├── 📄 Exam2-18.pdf
+│   ├── 📄 Exam2-19-corlong.pdf
+│   ├── 📄 Devoir 2.pdf
+│   ├── 📄 Devoir1.pdf
+│   ├── 📄 rattrapage 2021.pdf
+│   └── 📄 Plan-incliné-VF-corr.pdf
+└── 📁 Mécanique analytique/
+    ├── 📁 contrôles corrigés Mécanique Analytique et Vibrations FS Rabat/
+    │   ├── 📄 Contrôles-Vibrations-Analytique-avec-corrigés.pdf
+    │   ├── 📁 2015-2016/
+    │   │   ├── 📄 Examen Rattrapage+Corrigé Mécanique Analytique Et Vibrations SMP S5 2015-2016 FSR.pdf
+    │   │   └── 📄 Examen Final+Corrigé Mécanique Analytique Et Vibrations SMP S5 2015-2016 FSR.pdf
+    │   ├── 📁 2014-2015/
+    │   │   ├── 📄 8.jpg
+    │   │   ├── 📄 7.jpg
+    │   │   ├── 📄 4.jpg
+    │   │   ├── 📄 3.jpg
+    │   │   ├── 📄 5.jpg
+    │   │   ├── 📄 6.jpg
+    │   │   ├── 📄 2.jpg
+    │   │   └── 📄 1.jpg
+    │   └── 📁 2016-2017/
+    │       ├── 📄 IMG_1046.JPG
+    │       ├── 📄 IMG_1045.JPG
+    │       ├── 📄 IMG_1044.JPG
+    │       ├── 📄 IMG_1043.JPG
+    │       ├── 📄 cf2.JPG
+    │       └── 📄 cf1.JPG
+    └── 📁 TD/
+        ├── 📄 Série 4.pdf
+        ├── 📄 Série 3.pdf
+        ├── 📄 Série 2.pdf
+        └── 📄 Série 1.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Mécanique Analytique
+═════════════════════════════════════

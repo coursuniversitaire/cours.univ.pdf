@@ -1,0 +1,66 @@
+📚 MODULE : MECANISME INDUSTRIEL                      
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module MECANISME INDUSTRIEL.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 MECANISME INDUSTRIEL/
+├── 📄 MECANISME INDUSTRIEL -20260514T175410Z-3-001.zip
+├── 🔗📁 MECANISME INDUSTRIEL /  (raccourci)
+│   ├── 📁 EXAMS /
+│   │   ├── 📄 received_565449475498084 (1).jpeg
+│   │   ├── 📄 received_713670496872489.jpeg
+│   │   └── 📄 received_874007560500791.jpeg
+│   ├── 📁 TP/
+│   │   ├── 📄  'Encastrement Boite de Vitesses (1)' 
+│   │   └── 📄 Encastrement Boite de Vitesses (1).doc
+│   └── 📁 TD/
+│       ├── 📄 Schema-cinematique-exercice-TD-suite.pdf
+│       ├── 📄 TD03
+│       ├── 📄 Td2 sol.pdf
+│       ├── 📄 Td1 sol.pdf
+│       ├── 📄 TD02.pdf
+│       └── 📄 TD1.docx.pdf
+└── 📁 autre/
+    ├── 🔗📁 6_Maintenance et fiabilité(Bahouh)/  (raccourci)
+    │   ├── 📁 3_Cntrls/
+    │   │   └── 🔗📁 cntrls/  (raccourci)
+    │   │       ├── 📄 cntrl 21 2.jpg
+    │   │       ├── 📄 cntrl 21.jpg
+    │   │       ├── 📄 controlz 2012 2.jpg
+    │   │       ├── 📄 controle 2021.jpg
+    │   │       ├── 📄 controlz 2019.jpg
+    │   │       ├── 📄 controle.jpg
+    │   │       └── 📄 controle 2015.jpg
+    │   ├── 📁 2_TDs/
+    │   │   └── 📄 TD1.pdf
+    │   └── 📁 1_Cours/
+    │       └── 📄 Cours.pdf
+    ├── 🔗📁 Maintenance et fiabilité/  (raccourci)
+    │   └── 📄 Maintenance et fiabilité.pdf
+    └── 🔗📁 9# Maintenance et fiabilité/  (raccourci)
+        ├── 📄 METHODE ABC INDICE DE GINI.mp4
+        ├── 📄 2# Localiser la source d'une panne électrique sur votre disjoncteur.mp4
+        ├── 📄 1# Remplacer un tableau électrique.mp4
+        ├── 📄 Programme_Maintenance et fiabilité.pdf
+        ├── 📁 cours/
+        │   ├── 📄 CHAPITRE II Mécanisme et modes de défaillance.pdf
+        │   ├── 📄 CHAPITRE I FONCTION MAINTENANCE.pdf
+        │   └── 📁 Maintenance et fiabilité/
+        │       └── ⚠️  [Référence circulaire ignorée]
+        └── 📁 EF/
+            ├── 📄 EF2018.pdf
+            └── 📄 EF2017.pdf
+
+═════════════════════════════════════
+  Fin du fichier · MECANISME INDUSTRIEL
+═════════════════════════════════════

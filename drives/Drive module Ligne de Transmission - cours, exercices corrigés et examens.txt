@@ -1,0 +1,161 @@
+📚 MODULE : Ligne de Transmission                     
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Ligne de Transmission.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Ligne de Transmission/
+├── 🔗📁 Ligne de Transmission/  (raccourci)
+│   ├── 📄 smith.pdf
+│   ├── 📄 REMARQUE.txt
+│   ├── 📁 TP/
+│   │   ├── 📁 BOU-EL-HARMEL/
+│   │   │   ├── 📄 TP EII 2021.pdf
+│   │   │   └── 📁 Compte-rendue/
+│   │   │       ├── 📄 HABBI_RAHICH_ELANAZ2.pdf
+│   │   │       ├── 📄 HABBI_RAHICH_ELANAZ1.pdf
+│   │   │       └── 📄 HABBI_RAHICH_ELANAZ.pdf
+│   │   └── 📁 BENBASSOU/
+│   │       ├── 📄 TP.doc
+│   │       ├── 📄 etude de la reflectometrie en hf.doc
+│   │       ├── 📁 TP 3/
+│   │       │   ├── 📄 2019_12_11_23_39_IMG_1175.JPG
+│   │       │   ├── 📄 2019_12_11_23_39_IMG_1174.JPG
+│   │       │   ├── 📄 2019_12_11_23_39_IMG_1173.JPG
+│   │       │   ├── 📄 2019_12_11_23_39_IMG_1172.JPG
+│   │       │   ├── 📄 2019_12_11_23_39_IMG_1171.JPG
+│   │       │   └── 📄 2019_12_11_23_38_IMG_1170.JPG
+│   │       ├── 📁 TP 1/
+│   │       │   ├── 📄 2019_11_28_00_47_IMG_1080.JPG
+│   │       │   ├── 📄 2019_11_28_00_47_IMG_1078.JPG
+│   │       │   ├── 📄 2019_11_28_00_48_IMG_1084.JPG
+│   │       │   ├── 📄 2019_11_28_00_48_IMG_1083.JPG
+│   │       │   ├── 📄 2019_11_28_00_48_IMG_1082.JPG
+│   │       │   ├── 📄 2019_11_28_00_48_IMG_1081.JPG
+│   │       │   └── 📄 2019_11_28_00_47_IMG_1079.JPG
+│   │       └── 📁 TP 2/
+│   │           ├── 📄 2019_12_05_08_45_IMG_1132.JPG
+│   │           ├── 📄 2019_12_05_08_45_IMG_1131.JPG
+│   │           ├── 📄 2019_12_05_08_45_IMG_1130.JPG
+│   │           ├── 📄 2019_12_05_08_45_IMG_1129.JPG
+│   │           ├── 📄 2019_12_05_08_45_IMG_1128.JPG
+│   │           ├── 📄 2019_12_05_08_45_IMG_1127.JPG
+│   │           └── 📄 2019_12_05_08_45_IMG_1126.JPG
+│   ├── 📁 TD/
+│   │   ├── 📄 solution serie TD N2.pdf
+│   │   ├── 📄 correction TD N°1 LT.pdf
+│   │   ├── 📄 TD5 Antenne 2016.doc
+│   │   ├── 📄 TD Ligne N°1.doc
+│   │   ├── 📄 TD3 ligne de trans.doc
+│   │   └── 📄 TD2 ligne de transm10 .doc
+│   ├── 📁 Examens/
+│   │   ├── 📄 controle Antenne 2022.doc
+│   │   ├── 📄 Exm 2020.pdf
+│   │   ├── 📄 12286005_901636876592489_1641800707_n.jpg
+│   │   ├── 📄 DSC01046.JPG
+│   │   ├── 📄 DSC01045.JPG
+│   │   ├── 📄 Photo0311.jpg
+│   │   ├── 📄 Photo0310.jpg
+│   │   ├── 📄 Photo0308.jpg
+│   │   ├── 📄 Photo0307.jpg
+│   │   ├── 📄 Photo0306.jpg
+│   │   ├── 📄 Photo0303.jpg
+│   │   ├── 📄 Photo0294.jpg
+│   │   ├── 📄 Photo0292.jpg
+│   │   ├── 📄 Photo0309.jpg
+│   │   ├── 📄 Photo0305.jpg
+│   │   ├── 📄 Photo0304.jpg
+│   │   └── 📁 EXAMEN/
+│   │       ├── 📄 EXAMEN_page-0001.jpg
+│   │       ├── 📄 EXAMEN_page-0005.jpg
+│   │       ├── 📄 EXAMEN_page-0003.jpg
+│   │       ├── 📄 EXAMEN_page-0002.jpg
+│   │       └── 📄 EXAMEN_page-0004.jpg
+│   └── 📁 Cours/
+│       ├── 📄 Ant EST.ppt
+│       ├── 📄 ligne de transmission 2.ppt
+│       ├── 📄 ligne de transmission 1.ppt
+│       └── 📄 l_abaque de smith.pdf
+├── 📄 smith.pdf
+├── 📄 REMARQUE.txt
+├── 📁 Examens/
+│   ├── 📄 controle Antenne 2022.doc
+│   ├── 📄 Exm 2020.pdf
+│   ├── 📄 12286005_901636876592489_1641800707_n.jpg
+│   ├── 📄 DSC01046.JPG
+│   ├── 📄 DSC01045.JPG
+│   ├── 📄 Photo0311.jpg
+│   ├── 📄 Photo0310.jpg
+│   ├── 📄 Photo0308.jpg
+│   ├── 📄 Photo0307.jpg
+│   ├── 📄 Photo0306.jpg
+│   ├── 📄 Photo0303.jpg
+│   ├── 📄 Photo0294.jpg
+│   ├── 📄 Photo0292.jpg
+│   ├── 📄 Photo0309.jpg
+│   ├── 📄 Photo0305.jpg
+│   ├── 📄 Photo0304.jpg
+│   └── 📁 EXAMEN/
+│       ├── 📄 EXAMEN_page-0002.jpg
+│       ├── 📄 EXAMEN_page-0003.jpg
+│       ├── 📄 EXAMEN_page-0005.jpg
+│       ├── 📄 EXAMEN_page-0001.jpg
+│       └── 📄 EXAMEN_page-0004.jpg
+├── 📁 TP/
+│   ├── 📁 BOU-EL-HARMEL/
+│   │   ├── 📄 TP EII 2021.pdf
+│   │   └── 📁 Compte-rendue/
+│   │       ├── 📄 HABBI_RAHICH_ELANAZ2.pdf
+│   │       ├── 📄 HABBI_RAHICH_ELANAZ1.pdf
+│   │       └── 📄 HABBI_RAHICH_ELANAZ.pdf
+│   └── 📁 BENBASSOU/
+│       ├── 📄 TP.doc
+│       ├── 📄 etude de la reflectometrie en hf.doc
+│       ├── 📁 TP 3/
+│       │   ├── 📄 2019_12_11_23_39_IMG_1175.JPG
+│       │   ├── 📄 2019_12_11_23_39_IMG_1174.JPG
+│       │   ├── 📄 2019_12_11_23_39_IMG_1173.JPG
+│       │   ├── 📄 2019_12_11_23_39_IMG_1172.JPG
+│       │   ├── 📄 2019_12_11_23_39_IMG_1171.JPG
+│       │   └── 📄 2019_12_11_23_38_IMG_1170.JPG
+│       ├── 📁 TP 2/
+│       │   ├── 📄 2019_12_05_08_45_IMG_1132.JPG
+│       │   ├── 📄 2019_12_05_08_45_IMG_1131.JPG
+│       │   ├── 📄 2019_12_05_08_45_IMG_1130.JPG
+│       │   ├── 📄 2019_12_05_08_45_IMG_1129.JPG
+│       │   ├── 📄 2019_12_05_08_45_IMG_1128.JPG
+│       │   ├── 📄 2019_12_05_08_45_IMG_1127.JPG
+│       │   └── 📄 2019_12_05_08_45_IMG_1126.JPG
+│       └── 📁 TP 1/
+│           ├── 📄 2019_11_28_00_47_IMG_1080.JPG
+│           ├── 📄 2019_11_28_00_47_IMG_1078.JPG
+│           ├── 📄 2019_11_28_00_48_IMG_1084.JPG
+│           ├── 📄 2019_11_28_00_48_IMG_1083.JPG
+│           ├── 📄 2019_11_28_00_48_IMG_1082.JPG
+│           ├── 📄 2019_11_28_00_48_IMG_1081.JPG
+│           └── 📄 2019_11_28_00_47_IMG_1079.JPG
+├── 📁 TD/
+│   ├── 📄 solution serie TD N2.pdf
+│   ├── 📄 correction TD N°1 LT.pdf
+│   ├── 📄 TD5 Antenne 2016.doc
+│   ├── 📄 TD Ligne N°1.doc
+│   ├── 📄 TD3 ligne de trans.doc
+│   └── 📄 TD2 ligne de transm10 .doc
+└── 📁 Cours/
+    ├── 📄 Ant EST.ppt
+    ├── 📄 ligne de transmission 2.ppt
+    ├── 📄 ligne de transmission 1.ppt
+    └── 📄 l_abaque de smith.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Ligne de Transmission
+═════════════════════════════════════

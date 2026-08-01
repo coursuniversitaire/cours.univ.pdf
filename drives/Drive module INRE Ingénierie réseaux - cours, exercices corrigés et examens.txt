@@ -1,0 +1,37 @@
+📚 MODULE : INRE Ingénierie réseaux                   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module INRE Ingénierie réseaux.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 INRE Ingénierie réseaux/
+├── 🔗📁 INRE/  (raccourci)
+│   ├── 📄 Chapitre 1 - Introduction à l’ingénierie des réseaux  (Partie 2).pdf
+│   ├── 📄 Chapitre 3 - Migration Techniques from IPv4 to IPv6 - Part III.pdf
+│   ├── 📄 Chapitre 3 - Routing In IPv6 - Part II.pdf
+│   ├── 📄 Chapitre 1 - Introduction à l’ingénierie des réseaux (Partie 1) - à publier.pdf
+│   ├── 📄 Chapitre 2 - IPv6 Addressing.pdf
+│   ├── 📄 Chapitre 3 - Routing In IPv6 - Part I.pdf
+│   ├── 📄 TP4 INRE.pdf
+│   ├── 📄 TP3.pdf
+│   └── 📄 TP2.pdf
+└── 🔗📁 INRE/  (raccourci)
+    ├── 📄 TP INRE 3.pdf
+    ├── 📄 TP INRE 1.pdf
+    ├── 📄 TP INRE Partie 2.pdf
+    ├── 📄 Ctrl-INRE (V_B)Finale.pdf
+    ├── 📄 49668511_543655702779502_4121449234262130688_o.jpg
+    └── 📄 49691961_543654556112950_8098094990464385024_o.jpg
+
+═════════════════════════════════════
+  Fin du fichier · INRE Ingénierie réseaux
+═════════════════════════════════════

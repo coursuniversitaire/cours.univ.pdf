@@ -1,0 +1,103 @@
+📚 MODULE : Hydrologique                              
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Hydrologique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Hydrologique/
+├── 🔗📁 CHP/  (raccourci)
+│   ├── 📄 CHP_Exams.pdf
+│   ├── 📁 Cours/
+│   │   ├── 📄 chapitre 01 ET 02 Energie hydrauliques et pneumatiques diapo.pdf
+│   │   ├── 📄 chapitre 03 et 04 les circuits d’hydraulique industrielle.pdf
+│   │   └── 📄 suite chapitre 4 Les Systèmes Automatisés De Production.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 TD 02_Fiche.pdf
+│   │   ├── 📄 TD 02_Solution.pdf
+│   │   ├── 📄 TD04.pdf
+│   │   ├── 📄 TD 01 .pdf
+│   │   ├── 📄 TD 02Suite Fiche 
+│   │   ├── 📄 TD 01 correction .pdf
+│   │   └── 📄 TD03 et correction.pdf
+│   └── 📁 TP/
+│       └── 📁 Festo Fluidsim Pneumatic-Hydraulic 4.2/
+│           ├── 📄 Hydraulic.zip
+│           └── 📄 Pneumatic.rar
+├── 🔗📁 HYP/  (raccourci)
+│   ├── 📁 TD/
+│   │   ├── 📁 TD5/
+│   │   │   ├── 📄 TD 05.pdf
+│   │   │   └── 📄 Solution du TD 05.pdf
+│   │   ├── 📁 TD4/
+│   │   │   ├── 📄 TD 04.pdf
+│   │   │   └── 📄 Solution du TD 04.pdf
+│   │   ├── 📁 TD3/
+│   │   │   └── 📄 Td3 HYP.pdf
+│   │   ├── 📁 TD2/
+│   │   │   └── 📄 Td2 HYP.pdf
+│   │   └── 📁 TD1/
+│   │       ├── 📄 TD01 - Solution.pdf
+│   │       └── 📄 Td1 HYP.pdf
+│   └── 📁 Cours/
+│       ├── 📄 Cours 05- pneum.pdf
+│       ├── 📄 Cours 04.pdf
+│       ├── 📄 Cours 03.pdf
+│       ├── 📄 Cours 02.pdf
+│       └── 📄 Cours 01.pdf
+├── 🔗📁 Hydraulique et pneumatique/  (raccourci)
+│   ├── 📄 tp hydrauliques.pdf
+│   ├── 📄 notions-mecanique-des-fluides.pdf
+│   ├── 📄 cours.pdf
+│   ├── 📄 204986681-Hydra-Uli-Que-Industri-Elle.pdf
+│   ├── 📄 série 3.pdf
+│   ├── 📄 exemples montage circuit hydraulique.pdf
+│   ├── 📄 12745550_1097281430336787_7733201948686849097_n.jpg
+│   ├── 📄 12741962_1097281427003454_2944125728983439445_n.jpg
+│   ├── 📄 12801162_993291194082969_6307310347906880399_n.jpg
+│   └── 📄 série 2.pdf
+├── 🔗📁 Hydraulique /  (raccourci)
+│   ├── 📁 Enregistrements /
+│   │   ├── 📄 TD N°01 2021-04-24.mkv
+│   │   └── 📄 Cours N°01 2021-04-24.mkv
+│   ├── 📁 TD/
+│   │   ├── 📄 TD Hyrauliques VOA B -1.rar
+│   │   ├── 📄 - Série N°04 Corrigé.pdf
+│   │   ├── 📄 - Série N°02 + corrigé.pdf
+│   │   ├── 📄 - Série N°04.pdf
+│   │   ├── 📄 - Série N°01 Corrigé.pdf
+│   │   ├── 📄 - Série N°01.pdf
+│   │   ├── 📄 - Série N°03 Corrigé.pdf
+│   │   ├── 📄 - Série N°03 (suite).pdf
+│   │   ├── 📄 - Série N°03 assainissement  plate-forme.pdf
+│   │   ├── 📄 Abaques Rh S et P.pdf
+│   │   ├── 📄 ABAQUES Hcr Hn.pdf
+│   │   ├── 📄 FORMULAIRE Chap 02 hydr.pdf
+│   │   └── 📄 FORMULAIRE Chap 01 2021.pdf
+│   └── 📁 Cours /
+│       ├── 📄 COURS CHAP IV   RETABLISSEMENT DES ECOULEMENTS.pdf
+│       ├── 📄 CHAP III Assainissement  plateforme.pdf
+│       ├── 📄 CHAP  II NOTIONS D' HYDRAULIQUE.pdf
+│       └── 📄 CHAP I  NOTIONS D'HYDROLOGIE  (1).pdf
+├── 📁 TDs corrigés/
+│   ├── 📄 Exercices TD Travaux Publics -Hydrologique
+│   ├── 📄 Exercices TD Hydrologie -Hydrologique
+│   ├── 📄 Exercices TD Hydraulique -Hydrologique
+│   └── 📄 Exercices TD Hydraulique Travaux Publics -Hydrologique
+└── 📁 Cours/
+    ├── 📄 Exercices TD Hydraulique -Hydrologique
+    ├── 📄 Assainissement Plateforme Routes -Hydrologique
+    ├── 📄 Exercices TD Hydrologie Générale -Hydrologique
+    └── 📄 Cours Hydraulique Routiere -Hydrologique
+
+═════════════════════════════════════
+  Fin du fichier · Hydrologique
+═════════════════════════════════════

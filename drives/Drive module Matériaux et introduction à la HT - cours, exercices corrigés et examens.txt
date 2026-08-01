@@ -1,0 +1,43 @@
+📚 MODULE : Matériaux et introduction à la HT         
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Matériaux et introduction à la HT.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Matériaux et introduction à la HT/
+├── 📄 examen_2020_2.jpg
+├── 📄 examen_2020_1.jpg
+├── 📄 correction_2019_5.jpg
+├── 📄 correction_2019_4.jpg
+├── 📄 correction2019_3.jpg
+├── 📄 correction_2019_2.jpg
+├── 📄 correction_2019_1.jpg
+├── 📄 rattrapage_2019_1.jpg
+├── 📄 examen_2019_2.jpg
+├── 📄 examen_2019_1.jpg
+├── 📁 Cours/
+│   ├── 📄 Cours_Mat_riaux-HT2021_2.pdf
+│   └── 📄 Cours_Mat_riaux-HT2021.pdf
+├── 📁 TD/
+│   ├── 📄 TD- Série 3 mod (1).pdf
+│   ├── 📄 TD-_S_rie_2_1_.pdf
+│   ├── 📄 EXO2-EXO6_et_EXO3-EXO7_-TDN_1.pdf
+│   ├── 📄 EXO1-EXO5-TDN_1.pdf
+│   ├── 📄 TD-_S_rie_1.pdf
+│   └── 📄 TD MATÉRIAUX ET HT.pdf
+└── 📁 TP/
+    ├── 📄 TP2-Hysterisis.pdf
+    └── 📄 TP1-bobine_noyau_fer.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Matériaux et introduction à la HT
+═════════════════════════════════════

@@ -1,0 +1,43 @@
+📚 MODULE : MEF - Méthode des Eléments Finis          
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module MEF - Méthode des Eléments Finis.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 MEF - Méthode des Eléments Finis/
+├── 🔗📁 Enregistrements/  (raccourci)
+│   ├── 📄 - cours 01.mp4
+│   └── 📄 Gauss.mp4
+├── 📁 TDs et exercices corrigés/
+│   ├── 📄 tds corrigés.pdf
+│   ├── 📄 ExercicesI_S2.pdf
+│   ├── 📄 ExercicesII_S2_Form.pdf
+│   ├── 📄 ExercicesII_S2.pdf
+│   ├── 📄 TD.N°1-ElementsFinisRessorts.pdf
+│   ├── 📄 TD1-EFRessort(suite).pdf
+│   ├── 📄 TD2-ElémentsFinisBarre.pdf
+│   ├── 📄 TD3-Influence de la numerotation-Semi-bande.pdf
+│   ├── 📄 TD4-Contrainte Déformation Charge Equivalente.pdf
+│   ├── 📄 TD5-EF Poutre.pdf
+│   └── 📄 TD6-EF Poutre(suite).pdf
+└── 📁 cours/
+    ├── 📄 poutres.pdf
+    ├── 📄 CHAP.1.pdf
+    ├── 📄 CHAP.3-Méthode Formelle.pdf
+    ├── 📄 CHAP.4.pdf
+    ├── 📄 CHAP.5-Application Elasticité Plane.pdf
+    ├── 📄 CHAP2-partie1.pdf
+    └── 📄 CHAP2-partie2.pdf
+
+═════════════════════════════════════
+  Fin du fichier · MEF - Méthode des Eléments Finis
+═════════════════════════════════════

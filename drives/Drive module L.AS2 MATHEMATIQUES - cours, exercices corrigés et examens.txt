@@ -1,0 +1,894 @@
+📚 MODULE : L.AS2 MATHEMATIQUES                       
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module L.AS2 MATHEMATIQUES.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 L.AS2 MATHEMATIQUES/
+├── 🔗📁 Las2 Maths/  (raccourci)
+│   ├── 📄 Quelques constats et conseils pour les candidats LAS2 Maths-v2 2.docx
+│   ├── 📁 S3/
+│   │   ├── 📁 Info/
+│   │   │   └── 📁 dipos CM/
+│   │   │       ├── 📄 1. présentation + représentation des données.pdf
+│   │   │       ├── 📄 CM9.pdf
+│   │   │       ├── 📄 CM8.pdf
+│   │   │       ├── 📄 CM7.pdf
+│   │   │       ├── 📄 CM6.pdf
+│   │   │       ├── 📄 CM5.pdf
+│   │   │       ├── 📄 CM4.pdf
+│   │   │       ├── 📄 CM3.pdf
+│   │   │       ├── 📄 CM2.pdf
+│   │   │       └── 📄 CM1.pdf
+│   │   ├── 📁 Bases-2/
+│   │   │   ├── 📁 TDs /
+│   │   │   │   ├── 📁 énoncés /
+│   │   │   │   └── 📁 Correction /
+│   │   │   │       ├── 📄 TD5 _ Relations .pdf
+│   │   │   │       └── 📄 TD4 Dénombrements .pdf
+│   │   │   └── 📁 interros/
+│   │   │       ├── 📁 corrigé /
+│   │   │       │   ├── 📄 Copie de CC4-B-corrige (2).pdf
+│   │   │       │   ├── 📄 Copie de CC3 C corrige.pdf
+│   │   │       │   ├── 📄 Copie de CC4-C-corrige (3).pdf
+│   │   │       │   ├── 📄 Copie de CC4-A-corrige (2).pdf
+│   │   │       │   ├── 📄 Copie de CC3 B corrige.pdf
+│   │   │       │   └── 📄 Copie de CC3 A corrige.pdf
+│   │   │       └── 📁 sujets /
+│   │   │           ├── 📄 CC4_2025.pdf
+│   │   │           ├── 📄 Copie de CC2_B.pdf
+│   │   │           ├── 📄 Copie de CC2_C.pdf
+│   │   │           ├── 📄 Copie de CC3 B.pdf
+│   │   │           ├── 📄 Copie de CC3 C.pdf
+│   │   │           ├── 📄 Copie de CC4-A (1).pdf
+│   │   │           ├── 📄 Copie de CC4-B (1).pdf
+│   │   │           ├── 📄 Copie de CC4-C (1).pdf
+│   │   │           ├── 📄 Copie de CC1-B.pdf
+│   │   │           ├── 📄 Copie de CC2_A.pdf
+│   │   │           ├── 📄 Copie de CC3 A.pdf
+│   │   │           ├── 📄 Copie de CC1-A.pdf
+│   │   │           ├── 📄 Copie de CC1-C.pdf
+│   │   │           └── 📄 CC4_2023.pdf
+│   │   ├── 📁 Algèbre-linéaire 1/
+│   │   │   ├── 🔗📁 tp03-Systemes-corrige.ipynb/  (raccourci)
+│   │   │   ├── 📁 cours /
+│   │   │   │   ├── 📄 chapitre 6pdf.pdf
+│   │   │   │   ├── 📄 chapitre 5.pdf
+│   │   │   │   ├── 📄 chapitre 4.pdf
+│   │   │   │   ├── 📄 chapitre 3.pdf
+│   │   │   │   ├── 📄 chapitre 2.pdf
+│   │   │   │   └── 📄 chapitre 1pdf.pdf
+│   │   │   ├── 📁 annales/
+│   │   │   │   ├── 📄 Exo-geometrie-3D.pdf
+│   │   │   │   ├── 📁 2025/
+│   │   │   │   │   ├── 📄 CC1-2025-A
+│   │   │   │   │   ├── 📄 CC3B-2025.pdf
+│   │   │   │   │   ├── 📄 CC3A-2025.pdf
+│   │   │   │   │   ├── 📄 CC1-2025-B.pdf
+│   │   │   │   │   └── 📄 CC1-2025-A.pdf
+│   │   │   │   ├── 📁 2024/
+│   │   │   │   │   ├── 📄 CC4-2024
+│   │   │   │   │   ├── 📄 CC2-2024-B.pdf
+│   │   │   │   │   ├── 📄 CC2-2024-A.pdf
+│   │   │   │   │   ├── 📄 CC4-2024.pdf
+│   │   │   │   │   └── 📄 CC3-2024.pdf
+│   │   │   │   └── 📁 2023/
+│   │   │   │       ├── 📄 CC4-automne-2023.pdf
+│   │   │   │       ├── 📄 CC3B-automne-2023.pdf
+│   │   │   │       └── 📄 CC3-automne-2023.pdf
+│   │   │   └── 📁 TDs/
+│   │   │       ├── 📄 TD5.pdf
+│   │   │       ├── 📄 TD4.pdf
+│   │   │       ├── 📄 TD3.pdf
+│   │   │       ├── 📄 TD2.pdf
+│   │   │       ├── 📄 TD1.pdf
+│   │   │       └── 📁 Correction des TDs/
+│   │   │           ├── 📄 TD 5 _ Applications Linéaires.pdf
+│   │   │           ├── 📄 TD 4 _ Espaces Vectoriels.pdf
+│   │   │           ├── 📄 TD2_ Géométrie dans R3.pdf
+│   │   │           └── 📄 TD3- Déterminants.pdf
+│   │   ├── 📁 Anglais/
+│   │   │   ├── 📄 Conseils
+│   │   │   ├── 📁 Going Abroad /
+│   │   │   ├── 📁 Ethical issues/
+│   │   │   │   └── 📄 Document sans titre
+│   │   │   └── 📁 Science in fiction/
+│   │   └── 📁 Analyse 1/
+│   │       ├── 📁 TD/
+│   │       │   ├── 📁 correction/
+│   │       │   │   ├── 📄 TD11.pdf
+│   │       │   │   ├── 📄 TD7.pdf
+│   │       │   │   ├── 📄 TD6bis.pdf
+│   │       │   │   ├── 📄 TD6.pdf
+│   │       │   │   ├── 📄 TD5.pdf
+│   │       │   │   ├── 📄 TD4.pdf
+│   │       │   │   ├── 📄 TD3.pdf
+│   │       │   │   ├── 📄 TD12.pdf
+│   │       │   │   ├── 📄 TD10.pdf
+│   │       │   │   ├── 📄 TD9.pdf
+│   │       │   │   ├── 📄 TD8.pdf
+│   │       │   │   └── 📄 TD1.pdf
+│   │       │   └── 📁 sujets /
+│   │       │       ├── 📄 TD12.pdf
+│   │       │       ├── 📄 TD11.pdf
+│   │       │       ├── 📄 TD10.pdf
+│   │       │       ├── 📄 TD9.pdf
+│   │       │       ├── 📄 TD8.pdf
+│   │       │       ├── 📄 TD7.pdf
+│   │       │       ├── 📄 TD6bis.pdf
+│   │       │       ├── 📄 TD6.pdf
+│   │       │       ├── 📄 TD5.pdf
+│   │       │       ├── 📄 TD3.pdf
+│   │       │       ├── 📄 TD2.pdf
+│   │       │       ├── 📄 TD4.pdf
+│   │       │       └── 📄 TD1.pdf
+│   │       └── 📁 cours /
+│   │           ├── 📁 support cours diapo/
+│   │           │   ├── 📄 chapitre 5.pdf
+│   │           │   ├── 📄 chapitre 4.pdf
+│   │           │   ├── 📄 chapitre 3.pdf
+│   │           │   ├── 📄 chapitre 2.pdf
+│   │           │   └── 📄 chapitre 1.pdf
+│   │           └── 📁 cours pdf/
+│   │               ├── 📄 chapitre5.pdf
+│   │               ├── 📄 chapitre4.pdf
+│   │               ├── 📄 chapitre3.pdf
+│   │               ├── 📄 chapitre2.pdf
+│   │               └── 📄 chapitre1.pdf
+│   └── 📁 S4/
+│       ├── 📄 AlgLin2CC4 (2).pdf
+│       ├── 📄 CC4 (1).pdf
+│       ├── 📄 CC4-corrige.pdf
+│       ├── 📄 CC4 Alg Lin 2 (1).pdf
+│       ├── 📁 Algèbre-linéaire 2/
+│       ├── 📁 Algèbre 1/
+│       ├── 📁 Bases-3/
+│       │   ├── 📁 annales/
+│       │   │   ├── 📄 CC1_Sillon6_2023.pdf
+│       │   │   ├── 📄 CC3_Sillon1_2025_corr.pdf
+│       │   │   ├── 📄 CC3_Sillon2_2025_correction .pdf
+│       │   │   ├── 📄 CC3_Sillon2 2025.pdf
+│       │   │   ├── 📄 CC3_Sillon1 2025.pdf
+│       │   │   ├── 📄 CC3 2023 sillon 2.pdf
+│       │   │   ├── 📄 CC4 2023 sillon 2.pdf
+│       │   │   ├── 📄 CC4 2023 sillon 6.pdf
+│       │   │   └── 📄 CC3 2023 sillon 5.pdf
+│       │   ├── 📁 corrigé Cours/TD/
+│       │   │   ├── 📄 corrige.artith.pdf
+│       │   │   ├── 📄 CTD2 corr.pdf
+│       │   │   └── 📄 CTD0 corr.pdf
+│       │   └── 📁 Cours/TD/
+│       │       ├── 📄 CTD5.pdf
+│       │       ├── 📄 CTD4.pdf
+│       │       ├── 📄 CTD3.pdf
+│       │       ├── 📄 CTD2.pdf
+│       │       ├── 📄 CTD1.pdf
+│       │       └── 📄 CTD0.pdf
+│       ├── 📁 Analyse 3/
+│       └── 📁 Analyse 2/
+└── 🔗📁 LAS2 mathématiques/  (raccourci)
+    ├── 📄 Conseil general .docx
+    ├── 📁 S4/
+    │   ├── 📁 ana2/
+    │   │   ├── 📄 sylabus ana2.docx
+    │   │   ├── 📄 Séries cours
+    │   │   ├── 📄 integrales generalisees cours
+    │   │   ├── 📄 corrextion cc3.jpg
+    │   │   ├── 📄 DM.png
+    │   │   ├── 📁 autre/
+    │   │   │   ├── 📄 FONCTIONS HYPERBOLIQUES.pdf
+    │   │   │   └── 📄 Continuité par morceaux.pdf
+    │   │   ├── 📁 années précédentes/
+    │   │   │   ├── 📄 fct_plus_var.pdf
+    │   │   │   ├── 📄 Partiel_A9_cor.pdf
+    │   │   │   ├── 📄 riemann.pdf
+    │   │   │   └── 📁 TD/
+    │   │   │       ├── 📄 feuille5-IS-2022-series.pdf
+    │   │   │       ├── 📄 TD4-IS-Int-gen-2022.pdf
+    │   │   │       ├── 📄 feuille3-IS-2022-vf.pdf
+    │   │   │       ├── 📄 feuille2-IS-2022.pdf
+    │   │   │       └── 📄 feuille1-IS-2022.pdf
+    │   │   └── 📁 TD/
+    │   │       ├── 📄 TD4.pdf
+    │   │       ├── 📄 TD3bis sol.pdf
+    │   │       ├── 📄 TD 3bis.pdf
+    │   │       ├── 📄 TD3 sol.pdf
+    │   │       ├── 📄 TD3 cor debut.pdf
+    │   │       ├── 📄 TD2_avec_correction.pdf
+    │   │       ├── 📄 TD3-sujet.pdf
+    │   │       ├── 📄 CT_2020r_an2 (1).pdf
+    │   │       ├── 📄 recueil-avec-solutions (1).pdf
+    │   │       ├── 📄 TD1-avec-correction_sol.pdf
+    │   │       ├── 📄 TD1-avec-correction.pdf
+    │   │       └── 📄 TD2.pdf
+    │   ├── 📁 algb1/
+    │   │   ├── 📄 syllabus algèbre 1.docx
+    │   │   ├── 📁 autre/
+    │   │   │   ├── 📄 groupe monogène cyclique.pdf
+    │   │   │   ├── 📄 cours groupe symetrique +++.pdf
+    │   │   │   ├── 📄 groupe-isometrie.pdf
+    │   │   │   ├── 📄 30_Isometries.pdf
+    │   │   │   ├── 📄 exercices_corriges_groupe.pdf
+    │   │   │   ├── 📄 15_Groupe_symetrique.pdf
+    │   │   │   ├── 📄 exos corrigés permutation.pdf
+    │   │   │   └── 📄 test corrige permutation.pdf
+    │   │   ├── 📁 interro/
+    │   │   │   ├── 📄 CC3 2023.pdf
+    │   │   │   ├── 📄 CC4 2023.pdf
+    │   │   │   ├── 📄 CC3 2022.pdf
+    │   │   │   ├── 📄 DM2023 CC42022 Corrigé.pdf
+    │   │   │   ├── 📄 CC1_3 corrige 2023.pdf
+    │   │   │   ├── 📄 CC1_2 corrige 2023.pdf
+    │   │   │   ├── 📄 CC1_1 corrige 2023.pdf
+    │   │   │   ├── 📄 CC4 2022.pdf
+    │   │   │   └── 📁 années précédentes/
+    │   │   │       ├── 📄 ExamenRecapAlg12022C.pdf
+    │   │   │       ├── 📄 INterro2corrigé.jpeg
+    │   │   │       ├── 📄 Interro2bisCorrigé.jpeg
+    │   │   │       ├── 📄 GAE-Interro3--bis---corrigé--copie.pdf
+    │   │   │       ├── 📄 GAE-Interro3--corrigé.pdf
+    │   │   │       ├── 📄 GAE-Interro3--bis---corrigé.pdf
+    │   │   │       ├── 📄 corection 1.jpeg
+    │   │   │       ├── 📄 GAE-Interro1---SujetFinal.pdf
+    │   │   │       └── 📁 DS/
+    │   │   │           ├── 📄 corrige 1.jpeg
+    │   │   │           ├── 📄 corrige 2.jpeg
+    │   │   │           ├── 📄 corrige 3.jpeg
+    │   │   │           └── 📄 corrige ds.jpeg
+    │   │   ├── 📁 TD/
+    │   │   │   ├── 📄 TD7_anneaux_corps.pdf
+    │   │   │   ├── 📄 TD6_polynomes_anneaux.pdf
+    │   │   │   ├── 📄 TD5_isometries.pdf
+    │   │   │   ├── 📄 TD4_GroupeSymetrique.pdf
+    │   │   │   ├── 📄 TD3_groupes.pdf
+    │   │   │   ├── 📄 Feuille_de_TD2_groupes_et_anneaux__l_mentaires.pdf
+    │   │   │   ├── 📄 Feuille_de_TD1_alg_bre.pdf
+    │   │   │   └── 📁 anciens td/
+    │   │   │       ├── 📄 GAEf5bis.pdf
+    │   │   │       ├── 📄 GAEf5.pdf
+    │   │   │       ├── 📄 GAEf4.pdf
+    │   │   │       ├── 📄 GAE-f3B.pdf
+    │   │   │       ├── 📄 GAE-f2---augmentee.pdf
+    │   │   │       ├── 📄 GAE-f2.pdf
+    │   │   │       └── 📄 GAE-f1.pdf
+    │   │   ├── 📁 cours/
+    │   │   │   └── 📄 CoursGAE1-51222.pdf
+    │   │   └── 📁 DM/
+    │   │       └── 📄 GAE-DM1.pdf
+    │   ├── 📁 algblin2/
+    │   │   ├── 📄 Syllabus algb lin2.docx
+    │   │   ├── 📄 CC3 2023 alglin2.pdf
+    │   │   ├── 📄 TD_5_solutions.pdf
+    │   │   ├── 📄 TD_4_et_5 diago trigona.pdf
+    │   │   ├── 📄 TD al dim finie corr.pdf
+    │   │   ├── 📄 TD al corr.pdf
+    │   │   ├── 📄 TD0 ev corr.pdf
+    │   │   ├── 📄 TD0_1_2_3 sujet.pdf
+    │   │   ├── 📄 CC3 2023 corrigé grA4.pdf
+    │   │   ├── 📁 autre/
+    │   │   │   ├── 📄 matrices.pdf
+    │   │   │   └── 📄 canonicite.pdf
+    │   │   ├── 📁 années précédentes/
+    │   │   │   ├── 📄 TD5_corr.pdf
+    │   │   │   ├── 📄 TD5 trigonalisation et polynomes annulateurs.pdf
+    │   │   │   ├── 📄 TD4_corr.pdf
+    │   │   │   ├── 📄 TD4 reduction des endomorphismes.pdf
+    │   │   │   ├── 📄 TD3_corr.pdf
+    │   │   │   ├── 📄 TD3 determinants.pdf
+    │   │   │   ├── 📄 TD2_corr.pdf
+    │   │   │   ├── 📄 TD2 applin en dimension finie.pdf
+    │   │   │   ├── 📄 TD1-applin-corr.pdf
+    │   │   │   ├── 📄 TD1 applications lineaires.pdf
+    │   │   │   ├── 📄 TD0_correction.pdf
+    │   │   │   └── 📄 TD0_Espace vectoriel.pdf
+    │   │   └── 📁 cours/
+    │   │       └── 📄 cours Grifone - Algèbre linéaire.pdf
+    │   ├── 📁 bases3/
+    │   │   ├── 📄 ensembles denombrables autre cours
+    │   │   ├── 📄 CC4 2023.pdf
+    │   │   ├── 📄 syllabus bases3.docx
+    │   │   ├── 📁 automne/
+    │   │   │   └── 📁 TD/
+    │   │   │       ├── 📄 2022-2023-Ensembles2-CC2.pdf
+    │   │   │       ├── 📄 2022-2023-Ensembles2-TD10-VariableAleatoire (1).pdf
+    │   │   │       ├── 📄 2022-2023-Ensembles2-TD9-ProbaConditionnelle (1).pdf
+    │   │   │       ├── 📄 2022-2023-Ensembles2-TD8-Equiprobabilite (1).pdf
+    │   │   │       ├── 📄 2022-2023-Ensembles2-TD7-EspaceProbabilite (1).pdf
+    │   │   │       ├── 📄 2022-2023-Ensembles2-CC1.pdf
+    │   │   │       ├── 📄 TD6 sols_feuille6 1-4.pdf
+    │   │   │       ├── 📄 TD5 sols_feuille5.pdf
+    │   │   │       ├── 📄 TD4 sols_feuille4.pdf
+    │   │   │       ├── 📄 TD3 correction Exercices-4-5-6-7.pdf
+    │   │   │       ├── 📄 TD3 correction Exercices 1-2-3-8-9-10-11-12.pdf
+    │   │   │       ├── 📄 2022-2023-Ensembles2-TD1-Denombrabilite (1).pdf
+    │   │   │       ├── 📄 2022-2023-Ensembles2-TD0-Rappel (1).pdf
+    │   │   │       ├── 📄 2022-2023-Ensembles2-TD10-VariableAleatoire.pdf
+    │   │   │       ├── 📄 2022-2023-Ensembles2-TD9-ProbaConditionnelle.pdf
+    │   │   │       ├── 📄 2022-2023-Ensembles2-TD8-Equiprobabilite.pdf
+    │   │   │       ├── 📄 2022-2023-Ensembles2-TD7-EspaceProbabilite.pdf
+    │   │   │       ├── 📄 2022-2023-Ensembles2-TD6-RSA.pdf
+    │   │   │       ├── 📄 2022-2023-Ensembles2-TD5-Congruences.pdf
+    │   │   │       ├── 📄 2022-2023-Ensembles2-TD4-Bezout.pdf
+    │   │   │       ├── 📄 2022-2023-Ensembles2-TD3-Divisibilite.pdf
+    │   │   │       ├── 📄 2022-2023-Ensembles2-TD2-RelationEquivalence.pdf
+    │   │   │       ├── 📄 2022-2023-Ensembles2-TD1-Denombrabilite.pdf
+    │   │   │       └── 📄 2022-2023-Ensembles2-TD0-Rappel.pdf
+    │   │   └── 📁 TD/
+    │   │       ├── 📄 CTD-Proba (1).pdf
+    │   │       ├── 📄 CTD-Proba.pdf
+    │   │       ├── 📄 corrige.artith.pdf
+    │   │       ├── 📄 2022-2023-Ensembles2-TD3-Arithmetique.pdf
+    │   │       ├── 📄 2022-2023-Ensembles2-TD2-RelationEquivalence.pdf
+    │   │       ├── 📄 2022-2023-Ensembles2-TD1-Denombrabilite (1).pdf
+    │   │       ├── 📄 2022-2023-Ensembles2-TD1-Denombrabilite.pdf
+    │   │       ├── 📄 2022-2023-Ensembles2-TD0-Rappel-1.pdf
+    │   │       └── 📄 2022-2023-Ensembles2-TD0-Rappel.pdf
+    │   └── 📁 ana3/
+    │       ├── 📄 sylabus ana3.docx
+    │       ├── 📄 cours.pdf
+    │       ├── 📄 TD6_formes_quadratiques_Cor.pdf
+    │       ├── 📄 TD6_formes_quadratiques.pdf
+    │       ├── 📄 TD5-Correction.pdf
+    │       ├── 📄 TD5_2023.pdf
+    │       ├── 📄 TD4-derivees_ordre_sup (1).pdf
+    │       ├── 📄 TD4-derivees_ordre_sup.pdf
+    │       ├── 📄 TD3-Correction.pdf
+    │       ├── 📄 TD3_2023.pdf
+    │       ├── 📄 TD2-continuite-2023 (1).pdf
+    │       ├── 📄 TD2-continuite-2023.pdf
+    │       ├── 📄 TD1-correction.pdf
+    │       ├── 📄 TD1-normes.pdf
+    │       ├── 📄 TD0-rappels_une_variable.pdf
+    │       ├── 📄 calcul différentiel autre cours.pdf
+    │       ├── 📁 TD/
+    │       │   ├── 📄 fct_plus_var.pdf
+    │       │   ├── 📄 TD0-rappels_une_variable.pdf
+    │       │   ├── 📄 Correction_partielle_feuille3.pdf
+    │       │   ├── 📄 Correction_partielle_feuille2.pdf
+    │       │   ├── 📄 Correction_partie_feuille1.pdf
+    │       │   ├── 📄 TD5-extrema.pdf
+    │       │   ├── 📄 TD4-derivees_ordre_sup.pdf
+    │       │   ├── 📄 TD3-derivees_partielles.pdf
+    │       │   ├── 📄 TD2-continuite.pdf
+    │       │   └── 📄 TD1-normes.pdf
+    │       └── 📁 eval/
+    │           ├── 📄 CC4-Correction.pdf
+    │           ├── 📄 cc3-correction.pdf
+    │           ├── 📄 test2-correction.pdf
+    │           └── 📄 Test1-TD-correction.pdf
+    └── 📁 S3/
+        ├── 📁 autre/
+        │   ├── 📄 MCC_L2_Math.pdf
+        │   ├── 📄 SYL_L2_Math_09_2021.pdf
+        │   ├── 📄 SYL_L1_Math.pdf
+        │   ├── 📁 remise à niveau/
+        │   │   ├── 📁 analyse/
+        │   │   │   ├── 📄 Brouillon - exercices (erreurs possibles)-20220328.zip
+        │   │   │   ├── 📄 analyse-exos-5.pdf
+        │   │   │   ├── 📄 analyse-cours-5.pdf
+        │   │   │   ├── 📄 analyse-exos-4.pdf
+        │   │   │   ├── 📄 analyse-cours-4.pdf
+        │   │   │   ├── 📄 analyse-exos-3.pdf
+        │   │   │   ├── 📄 analyse-cours-3.pdf
+        │   │   │   ├── 📄 analyse-exos-2.pdf
+        │   │   │   ├── 📄 analyse-cours-2.pdf
+        │   │   │   ├── 📄 analyse-exos-1.pdf
+        │   │   │   └── 📄 analyse-cours-1.pdf
+        │   │   └── 📁 algèbre/
+        │   │       ├── 📄 algebre-exos-5.pdf
+        │   │       ├── 📄 algebre-cours-5.pdf
+        │   │       ├── 📄 algebre-exos-4.pdf
+        │   │       ├── 📄 algebre-cours-4.pdf
+        │   │       ├── 📄 algebre-exos-3.pdf
+        │   │       ├── 📄 algebre-cours-3.pdf
+        │   │       ├── 📄 algebre-exos-2.pdf
+        │   │       ├── 📄 algebre-cours-2.pdf
+        │   │       ├── 📄 algebre-exos-1.pdf
+        │   │       └── 📄 algebre-cours-1.pdf
+        │   ├── 📁 L1/
+        │   │   ├── 📄 livre-algebre-1.pdf
+        │   │   ├── 📁 3.polynomes/
+        │   │   │   ├── 📄 TDPolynomes-correction.pdf
+        │   │   │   ├── 📄 TDPolynomes_enonce.pdf
+        │   │   │   └── 📄 chapitre3Polynomes.pdf
+        │   │   ├── 📁 annales/
+        │   │   │   ├── 📄 2018-2019.zip
+        │   │   │   ├── 📄 2017-2018.zip
+        │   │   │   ├── 📄 2016-2017.zip
+        │   │   │   ├── 📁 2020-2021/
+        │   │   │   │   ├── 📄 CC2.zip
+        │   │   │   │   └── 📄 CC1.zip
+        │   │   │   ├── 📁 2019-2020/
+        │   │   │   │   ├── 📄 maths-session2-corrige.pdf
+        │   │   │   │   ├── 📄 CT.zip
+        │   │   │   │   ├── 📄 CC2.zip
+        │   │   │   │   └── 📄 CC1.zip
+        │   │   │   └── 📁 2021-2022/
+        │   │   │       ├── 📄 CC2.zip
+        │   │   │       └── 📁 CC1/
+        │   │   │           ├── 📄 CC1-SN.pdf
+        │   │   │           ├── 📄 CC1-SN-corrige.pdf
+        │   │   │           ├── 📄 CC1-SF.pdf
+        │   │   │           ├── 📄 CC1-SF-corrige.pdf
+        │   │   │           ├── 📄 CC1-SA.pdf
+        │   │   │           └── 📄 CC1-SA-corrige.pdf
+        │   │   ├── 📁 2.complexes/
+        │   │   │   ├── 📄 TDComplexes-corrigé.pdf
+        │   │   │   ├── 📄 TDComplexes-sujet.pdf
+        │   │   │   └── 📄 chapitreComplexes.pdf
+        │   │   └── 📁 1.fonctions/
+        │   │       ├── 📄 TDFonctions-corrige.pdf
+        │   │       ├── 📄 TDFonctions-sujet.pdf
+        │   │       └── 📄 chapitre1Fonctions.pdf
+        │   ├── 📁 fiches lycée/
+        │   │   ├── 📄 Fiches Lycée 2.pdf
+        │   │   └── 📄 Fiches Lycée 1.pdf
+        │   ├── 📁 analyse/
+        │   │   ├── 📁 examens/
+        │   │   │   ├── 📁 2021/
+        │   │   │   │   ├── 📄 corrCT2analyse-21.pdf
+        │   │   │   │   ├── 📄 corrCTanalyse2021.pdf
+        │   │   │   │   ├── 📄 CTanalyse2021.pdf
+        │   │   │   │   ├── 📄 CT2Analyse2020.pdf
+        │   │   │   │   ├── 📄 corrigé controle terminal S2 2021.pdf
+        │   │   │   │   ├── 📄 controle terminal S2 2021.pdf
+        │   │   │   │   └── 📄 controle terminal S2 2020.pdf
+        │   │   │   ├── 📁 2018/
+        │   │   │   │   ├── 📄 corCTAnalyse2018final.pdf
+        │   │   │   │   ├── 📄 CTAnalyse2018final.pdf
+        │   │   │   │   ├── 📄 CPAnalyse2018.corrige.pdf
+        │   │   │   │   └── 📄 CPAnalyse2018.pdf
+        │   │   │   ├── 📁 2017/
+        │   │   │   │   ├── 📄 CC1Analyse2017.pdf
+        │   │   │   │   ├── 📄 CTcor2017.pdf
+        │   │   │   │   └── 📄 Sess2Analyse2017bis.pdf
+        │   │   │   └── 📁 2019/
+        │   │   │       ├── 📄 corrigéCTAnalyse-2019.pdf
+        │   │   │       ├── 📄 CTAnalyse2019bis.pdf
+        │   │   │       ├── 📄 corrCPAnalyse2019.pdf
+        │   │   │       └── 📄 CPAnalyse2019bis.pdf
+        │   │   ├── 📁 TD/
+        │   │   │   ├── 📄 TD5.pdf
+        │   │   │   ├── 📄 TD4 correction.pdf
+        │   │   │   ├── 📄 TD4.pdf
+        │   │   │   ├── 📄 TD3 correction.pdf
+        │   │   │   ├── 📄 TD3.pdf
+        │   │   │   ├── 📄 TD2 correction.pdf
+        │   │   │   ├── 📄 TD2.pdf
+        │   │   │   ├── 📄 TD1 correction.pdf
+        │   │   │   └── 📄 TD1.pdf
+        │   │   └── 📁 cours/
+        │   │       ├── 📄 chap 6.pdf
+        │   │       ├── 📄 chap 5.pdf
+        │   │       ├── 📄 chap 4.pdf
+        │   │       ├── 📄 chap 3.pdf
+        │   │       └── 📄 chap 1,2.pdf
+        │   ├── 📁 algèbre/
+        │   │   ├── 📄 Annales-2022.zip
+        │   │   ├── 📄 Sujets de TP.zip
+        │   │   ├── 📄 Sujets de TD.zip
+        │   │   └── 📄 livre-algebre-1.pdf
+        │   └── 📁 QCM exo7/
+        │       ├── 📄 fic00080.pdf
+        │       ├── 📄 qcm-lille-1.pdf
+        │       ├── 📄 qcm-arnaud revision correc.pdf
+        │       ├── 📄 qcm-lille-2-correc.pdf
+        │       ├── 📄 qcm-lille-1-correc.pdf
+        │       ├── 📄 qcm-arnaud revision.pdf
+        │       └── 📄 qcm-lille-2.pdf
+        ├── 📁 algo1/
+        │   ├── 📄 7.1.tri insertion CM7.py
+        │   ├── 📄 7.1.tri insertion iteratif CM7.py
+        │   ├── 📄 7. cm07_tris_etu.pdf
+        │   ├── 📄 7.2.inserer_dans_liste_trie(liste chainee), tri insertion rec CM7.py
+        │   ├── 📄 7.partager_liste.py
+        │   ├── 📄 6.1substituer_premiere_occurence liste chainee CM6.py
+        │   ├── 📄 5.somme_chiffres.py
+        │   ├── 📄 6.5parcours prefixe infixe suffixe CM6.py
+        │   ├── 📄 6.2fonctions utilitaires arbre.py
+        │   ├── 📄 6.4ajout a droite arbre CM6.py
+        │   ├── 📄 6.3taille et hauteur arbre.py
+        │   ├── 📄 6.import ast.py
+        │   ├── 📄 6. cm06_recursivite_2_etu.pdf
+        │   ├── 📄 1.algo point CM1.py
+        │   ├── 📄 6.6parcours en largeur CM6.py
+        │   ├── 📄 4.algo dichotomie.py
+        │   ├── 📄 5.cm05_recursivite_1_etu.pdf
+        │   ├── 📄 4. cm04_invariant_variant.pdf
+        │   ├── 📄 5.fonctions liste chainée CM5.py
+        │   ├── 📄 5.longueur liste chainee CM.py
+        │   ├── 📄 3.def recherche exhaustive DG ou GD CM3.py
+        │   ├── 📄 3.def somme_entiers CM3.py
+        │   ├── 📄 3.def deplacer, permutation CM3.py
+        │   ├── 📄 2.est_membre, est_majorant, est_maximum.py
+        │   ├── 📄 2.algo division_euclidienne CM2.py
+        │   ├── 📄 1.algo palindrome CM1.py
+        │   ├── 📄 3.cm03_tableaux_complexite_etu.pdf
+        │   ├── 📄 2. cm02_specification_fonction_etu.pdf
+        │   ├── 📄 0.cm0 fonctionnement_objectifs.pdf
+        │   ├── 📁 CC3/
+        │   │   └── 📄 CC3-sujet1.pdf
+        │   ├── 📁 TD/
+        │   │   ├── 📄 5.feuille_gauche(arbre).py
+        │   │   ├── 📄 7.4.fonctions utilitaires files.py
+        │   │   ├── 📄 7.6.parcours_largeur.py
+        │   │   ├── 📄 7.3est_parenthesage_correct.py
+        │   │   ├── 📄 7.1.int_vers_pile.py
+        │   │   ├── 📄 6.tri selection.py
+        │   │   ├── 📄 7. td07_piles_files_etu.pdf
+        │   │   ├── 📄 6. td06_tris_etu.pdf
+        │   │   ├── 📄 7.5.positifs_negatifs.py
+        │   │   ├── 📄 7.2.pile_vers_int.py
+        │   │   ├── 📄 7.0.fonctions utilitaires piles.py
+        │   │   ├── 📄 6.TD tri fusion.py
+        │   │   ├── 📄 6.est_trie, tri par insertion.py
+        │   │   ├── 📄 5. td05_recursivite_2_etu.pdf
+        │   │   ├── 📄 5.somme(arbre).py
+        │   │   ├── 📄 5.appartient(arbre,valeur).py
+        │   │   ├── 📄 3.somme entiers avc invariant.py
+        │   │   ├── 📄 2.est_matrice.py
+        │   │   ├── 📄 2.calculer indices.py
+        │   │   ├── 📄 2.deux maximum (tab).py
+        │   │   ├── 📄 2.somme maximale tab complexité.py
+        │   │   ├── 📄 2.somme colonnes et somme lignes.py
+        │   │   ├── 📄 2.boucles test.py
+        │   │   ├── 📄 1.TD racine_entière.py
+        │   │   ├── 📄 1.TD est_majorant.py
+        │   │   ├── 📄 4.lire element indice i (liste chainée).py
+        │   │   ├── 📄 4.produit element (liste chainée).py
+        │   │   ├── 📄 4.appartient (liste chainée).py
+        │   │   ├── 📄 4.dernier élément (liste chainée).py
+        │   │   ├── 📄 4.fibonacci rec.py
+        │   │   ├── 📄 3. td03_invariant_variant_etu.pdf
+        │   │   ├── 📄 4. td04_recursivite_1_etu.pdf
+        │   │   ├── 📄 2.complexité.py
+        │   │   ├── 📄 1.TD nombre_chiffres.py
+        │   │   ├── 📄 1.TD est_membre.py
+        │   │   ├── 📄 1.TD est_croissant.py
+        │   │   ├── 📄 1. td01_tests_specification_etu.pdf
+        │   │   └── 📄 2. td02_tableaux_complexite_etu.pdf
+        │   ├── 📁 notes/
+        │   │   └── 📄 pv_anonymise_bug_ent.pdf
+        │   └── 📁 TP/
+        │       ├── 📁 TP9/
+        │       │   ├── 📄 ex14_partitionner_pivot.py
+        │       │   ├── 📄 ex15_concatener_listes.py
+        │       │   ├── 📄 ex08_convertir_en_chaine.py
+        │       │   ├── 📄 ex02_insertion_suppression.py
+        │       │   ├── 📄 ex09_premier_indice.py
+        │       │   ├── 📄 ex11_extraire_minimum.py
+        │       │   ├── 📄 ex01_lecture_modification.py
+        │       │   ├── 📄 ex07_extraire_negatifs_positifs.py
+        │       │   ├── 📄 ex12_partager_liste.py
+        │       │   ├── 📄 ex04_comparaison.py
+        │       │   ├── 📄 ex10_inserer_dans_liste_triee.py
+        │       │   ├── 📄 ex03_somme_maximum.py
+        │       │   ├── 📄 ex06_recherche.py
+        │       │   ├── 📄 ex13_fusionner_listes_triees.py
+        │       │   ├── 📄 ex05_inversion.py
+        │       │   └── 📄 tp09_listes_chainees.pdf
+        │       ├── 📁 TP8/
+        │       │   ├── 📄 ex09_lapins.py
+        │       │   ├── 📄 ex02_somme_carres.py
+        │       │   ├── 📄 ex06_syracuse.py
+        │       │   ├── 📄 ex03_chiffres.py
+        │       │   ├── 📄 ex10_memoisation.py
+        │       │   ├── 📄 ex05_minimum_maximum.py
+        │       │   ├── 📄 ex04_puissance.py
+        │       │   ├── 📄 ex08_nombre_miroir.py
+        │       │   ├── 📄 ex07_pgcd.py
+        │       │   ├── 📄 ex01_recurrence.py
+        │       │   └── 📄 tp08_recursivite_entiers.pdf
+        │       ├── 📁 TP7/
+        │       │   ├── 📄 ex04_annee_jour_q2.py
+        │       │   ├── 📄 ex04_annee_jour_q1.py
+        │       │   ├── 📄 ex03_indice_maximum.py
+        │       │   ├── 📄 ex06_negatifs_positifs.py
+        │       │   ├── 📄 ex02_somme.py
+        │       │   ├── 📄 ex07_pivot.py
+        │       │   ├── 📄 ex01_somme_chiffres.py
+        │       │   ├── 📄 ex05_fonctions_auxiliaires.py
+        │       │   └── 📄 tp07_variant_invariant.pdf
+        │       ├── 📁 TP3/
+        │       │   ├── 📄 ex05_somme_glissante.py
+        │       │   ├── 📄 ex06_appliquer_cycle.py
+        │       │   ├── 📄 ex02_recherche_tableau.py
+        │       │   ├── 📄 ex03_etendue.py
+        │       │   ├── 📄 ex04_chats_souris.py
+        │       │   ├── 📄 ex01_initialisation_saisie_parcours.py
+        │       │   └── 📄 tp03_tableaux.pdf
+        │       ├── 📁 TP6/
+        │       │   ├── 📄 ex02_log2_entier.py
+        │       │   ├── 📄 ex01_factorielle.py
+        │       │   ├── 📄 ex04_racine_entiere.py
+        │       │   ├── 📄 ex06_palindrome_centre.py
+        │       │   ├── 📄 ex07_recherche_par_dichotomie.py
+        │       │   ├── 📄 ex03_division_euclidienne.py
+        │       │   ├── 📄 ex05_indice_dernier_negatif.py
+        │       │   └── 📄 tp06_invariant.pdf
+        │       ├── 📁 TP2/
+        │       │   ├── 📄 ex02_indices.py
+        │       │   ├── 📄 ex06_lagrange.py
+        │       │   ├── 📄 ex03_minimum_somme_distances.py
+        │       │   ├── 📄 ex01_reciproques_entieres.py
+        │       │   ├── 📄 ex04_collier.py
+        │       │   ├── 📄 ex05_rle.py
+        │       │   └── 📄 tp02_specification_fonction.pdf
+        │       ├── 📁 TP5/
+        │       │   ├── 📄 ex02_puissance.py
+        │       │   ├── 📄 ex03_somme_maximale_q2.py
+        │       │   ├── 📄 ex01_somme_entiers.py
+        │       │   ├── 📄 ex03_somme_maximale_q1.py
+        │       │   ├── 📄 ex05_maximum_et.py
+        │       │   ├── 📄 ex04_meilleure_plus_value_q2.py
+        │       │   ├── 📄 ex04_meilleure_plus_value_q1.py
+        │       │   └── 📄 tp05_complexite.pdf
+        │       ├── 📁 TP1/
+        │       │   ├── 📄 ex05_occurrences.py
+        │       │   ├── 📄 ex06_annee_bissextile.py
+        │       │   ├── 📄 ex02_maximum.py
+        │       │   ├── 📄 ex01_palindrome.py
+        │       │   ├── 📄 ex04_facteurs_premiers.py
+        │       │   ├── 📄 ex03_doublons.py
+        │       │   ├── 📄 ex07_mystere.py
+        │       │   └── 📄 tp01_tests.pdf
+        │       ├── 📁 TP10/
+        │       │   ├── 📄 ex08_expression_algebrique.py
+        │       │   ├── 📄 ex09_distance_dans_arbre.py
+        │       │   ├── 📄 ex03_nb_occurrences.py
+        │       │   ├── 📄 ex10_arbres_parfaits.py
+        │       │   ├── 📄 ex06_miroir.py
+        │       │   ├── 📄 ex01_proprietes.py
+        │       │   ├── 📄 ex07_parcours_profondeur.py
+        │       │   ├── 📄 ex05_substituer.py
+        │       │   ├── 📄 ex02_somme_maximum.py
+        │       │   ├── 📄 ex04_feuilles.py
+        │       │   └── 📄 tp10_arbres.pdf
+        │       ├── 📁 TP4/
+        │       │   ├── 📄 ex09_matrice_pivotee.py
+        │       │   ├── 📄 ex10_minimum_local.py
+        │       │   ├── 📄 ex08_parcours_diagonal.py
+        │       │   ├── 📄 ex03_sommes.py
+        │       │   ├── 📄 ex01_affichage_matrice.py
+        │       │   ├── 📄 ex07_matrice_transposee.py
+        │       │   ├── 📄 ex02_verification.py
+        │       │   ├── 📄 ex05_matrice_produit.py
+        │       │   ├── 📄 ex04_matrice_chats_souris.py
+        │       │   ├── 📄 ex06_matrice_symetrique.py
+        │       │   └── 📄 tp04_matrices.pdf
+        │       └── 📁 TP11/
+        │           ├── 📄 ex01_tri_selection_iteratif.py
+        │           ├── 📄 ex02_tri_insertion_iteratif.py
+        │           ├── 📄 ex11_tri_cocktail.py
+        │           ├── 📄 ex04_tri_insertion_recursif.py
+        │           ├── 📄 ex07_tri_selection_complexite.py
+        │           ├── 📄 ex06_tri_rapide_recursif.py
+        │           ├── 📄 ex03_tri_selection_recursif.py
+        │           ├── 📄 ex12_indices_tri.py
+        │           ├── 📄 ex08_tri_insertion_complexite.py
+        │           ├── 📄 ex09_tri_fusion_complexite.py
+        │           ├── 📄 ex10_tri_bulles.py
+        │           ├── 📄 ex05_tri_fusion_recursif.py
+        │           └── 📄 tp11_tris.pdf
+        ├── 📁 ana1/
+        │   ├── 📄 Conseil analyse 1.pdf
+        │   ├── 📄 Conseil analyse 1.pages
+        │   ├── 📄 sylabus ana1.docx
+        │   ├── 📁 CH5 develloppement limite/
+        │   │   ├── 📄 5.diapo ch_dl.pdf
+        │   │   ├── 📄 5.poly ch_dl.pdf
+        │   │   ├── 📄 TD11-correction.pdf
+        │   │   └── 📄 TD11-sujet.pdf
+        │   ├── 📁 CH3 limites et fonctions continues/
+        │   │   ├── 📄 TD9.pdf
+        │   │   ├── 📄 3.diapo pres_fonctions (3).pdf
+        │   │   ├── 📄 3.poly ch_fonctions (3).pdf
+        │   │   ├── 📄 continuite fiche.docx
+        │   │   ├── 📄 mettre en exp.jpg
+        │   │   ├── 📄 TD9-sujet (1).pdf
+        │   │   ├── 📄 TD8 correction.pdf
+        │   │   └── 📄 TD8  -sujet (1).pdf
+        │   ├── 📁 CH4 derivabilité/
+        │   │   ├── 📄 4.poly ch_derivee (1).pdf
+        │   │   ├── 📄 4.diapo pres_derive.pdf
+        │   │   ├── 📄 TD10-sujet.pdf
+        │   │   ├── 📄 TD10 correction.pdf
+        │   │   └── 📄 fiche ch4.docx
+        │   ├── 📁 CH1 réels/
+        │   │   ├── 📄 TD3-correction (2).pdf
+        │   │   ├── 📄 TD3.pdf
+        │   │   ├── 📄 TD2-correction.pdf
+        │   │   ├── 📄 TD2 (1).pdf
+        │   │   ├── 📄 TD1-correction.pdf
+        │   │   ├── 📄 TD1 (1).pdf
+        │   │   ├── 📄 1.diapo réels.pdf
+        │   │   └── 📄 1.poly ch_reels.pdf
+        │   ├── 📁 annales/
+        │   │   ├── 📁 2023/
+        │   │   │   ├── 📄 CC4-correction.pdf
+        │   │   │   ├── 📄 CC4.pdf
+        │   │   │   ├── 📄 CC2-correction.pdf
+        │   │   │   ├── 📄 CC2.pdf
+        │   │   │   ├── 📄 QEL3-correction.pdf
+        │   │   │   ├── 📄 QEL3.pdf
+        │   │   │   ├── 📄 QEL2.pdf
+        │   │   │   ├── 📄 QEL1-correctionpdf
+        │   │   │   ├── 📄 QEL1.pdf
+        │   │   │   ├── 📄 CC1-correction.pdf
+        │   │   │   └── 📄 CC1.pdf
+        │   │   ├── 📁 2021/
+        │   │   │   ├── 📄 correction-session2-2021.pdf
+        │   │   │   ├── 📄 CTanalyse2-21.pdf
+        │   │   │   ├── 📄 corrCTanalyse2021.pdf
+        │   │   │   ├── 📄 CTanalyse2021.pdf
+        │   │   │   └── 📄 CT2Analyse2020.pdf
+        │   │   ├── 📁 2018/
+        │   │   │   ├── 📄 CPAnalyse2018.pdf
+        │   │   │   ├── 📄 corCTAnalyse2018final.pdf
+        │   │   │   ├── 📄 CTAnalyse2018final.pdf
+        │   │   │   └── 📄 CPAnalyse2018.corrige.pdf
+        │   │   ├── 📁 2017/
+        │   │   │   ├── 📄 CTcor2017 (1).pdf
+        │   │   │   └── 📄 CC1Analyse2017 (1).pdf
+        │   │   ├── 📁 2022/
+        │   │   │   ├── 📄 CTAnalyse2022_11mai-final-correction.pdf
+        │   │   │   ├── 📄 CT session2-correction 2022.pdf
+        │   │   │   └── 📄 CC1 2022.pdf
+        │   │   └── 📁 2019/
+        │   │       ├── 📄 CPAnalyse2019bis.pdf
+        │   │       ├── 📄 corrCPAnalyse2019.pdf
+        │   │       ├── 📄 CTAnalyse2019bis.pdf
+        │   │       └── 📄 corrigéCTAnalyse-2019.pdf
+        │   └── 📁 CH2 suites/
+        │       ├── 📄 fiche demo suites.docx
+        │       ├── 📄 fiche suites.docx
+        │       ├── 📄 2.diapo pres_suites (2).pdf
+        │       ├── 📄 2.poly ch_suites.pdf
+        │       ├── 📄 TD7-correction.pdf
+        │       ├── 📄 TD6-correction.pdf
+        │       ├── 📄 TD7.pdf
+        │       ├── 📄 TD6.pdf
+        │       ├── 📄 TD5-correction.pdf
+        │       ├── 📄 TD4-correction.pdf
+        │       ├── 📄 TD5.pdf
+        │       └── 📄 TD4.pdf
+        ├── 📁 anglais/
+        │   ├── 📁 going abroad/
+        │   │   ├── 📁 class 1/
+        │   │   │   ├── 📄 Words to avoid in academic writing.docx
+        │   │   │   ├── 📄 How to write an essay in english.docx
+        │   │   │   ├── 📄 Conditional Sentences.docx
+        │   │   │   ├── 📄 List of Irregular Verbs in English.docx
+        │   │   │   ├── 📄 review of English tenses.docx
+        │   │   │   ├── 📄 Step1_Voc (1).pdf
+        │   │   │   └── 📄 ReadingDoc_StudentProfiles (1).pdf
+        │   │   ├── 📁 class 3/
+        │   │   │   └── 📄 What makes a good university (1).pdf
+        │   │   └── 📁 class 2/
+        │   │       ├── 📄 Studying in Denmark.pdf
+        │   │       ├── 📄 UK vs USA.pdf
+        │   │       ├── 📄 Higher Education in the USA.pdf
+        │   │       └── 📄 Studying in the UK.pdf
+        │   └── 📁 ethical issues/
+        │       ├── 📄 Critères évaluation DEBATING.pdf
+        │       ├── 📄 2 Room setup for debates.pdf
+        │       ├── 📄 1 Roles and POI.pdf
+        │       ├── 📄 Useful Expressions for Debating.docx
+        │       ├── 📄 vocabulaire du débat.pdf
+        │       ├── 📄 Apprendre et mémoriser le lexique (français).pdf
+        │       ├── 📁 right to die/
+        │       │   └── 📄 The Right to Die Debate A Survey.pdf
+        │       ├── 📁 class4/
+        │       │   ├── 📄 If workers slack off, the wristband will know.pdf
+        │       │   ├── 📄 Julian assange.pdf
+        │       │   └── 📄 Snowden.pdf
+        │       ├── 📁 class 3/
+        │       │   ├── 📄 Erasing Memory.pdf
+        │       │   └── 📄 article 1 test.docx
+        │       └── 📁 class 2/
+        │           ├── 📄 Is it wrong to steal from large corporations.docx
+        │           ├── 📄 Text - Alexander Kjerulf.pdf
+        │           ├── 📄 Ethical buying.pdf
+        │           ├── 📄 Why People Opt Against Going Green.pdf
+        │           ├── 📄 The 8 reasons why we do not go green.pdf
+        │           ├── 📄 The Pros and Cons of going green.pdf
+        │           └── 📄 CSR Patagonia.pdf
+        ├── 📁 algblin1/
+        │   ├── 📄 Conseil algèbre linéaire 1.pdf
+        │   ├── 📄 Conseil algèbre linéaire 1.pages
+        │   ├── 📄 6.Applications linéaires.pdf
+        │   ├── 📄 5.Espaces vectoriels.pdf
+        │   ├── 📄 4.Determinants.pdf
+        │   ├── 📄 3.Systèmes linéaire et géométrie en 3D.pdf
+        │   ├── 📄 2.Matrices.pdf
+        │   ├── 📄 1.Systemes lineaires.pdf
+        │   ├── 📄 0.Organisation du cours.pdf
+        │   ├── 📄 sylabus algb 1.docx
+        │   ├── 📁 annales/
+        │   │   ├── 📄 Notes.pdf
+        │   │   ├── 📄 1819-ct-corrige.pdf
+        │   │   ├── 📄 2021-ct.pdf
+        │   │   ├── 📄 1718-ct-corrige copy.pdf
+        │   │   └── 📁 en plus/
+        │   │       └── 📄 Annales_Calcul_Matriciel.pdf
+        │   ├── 📁 TP/
+        │   │   ├── 📄 tp03-Determinants-corrige.ipynb
+        │   │   └── 📄 tp03-Systemes-corrige.ipynb
+        │   └── 📁 TD/
+        │       ├── 📄 F5 Solutions Etudiants.pdf
+        │       ├── 📄 F5 applications linéaires.pdf
+        │       ├── 📄 F4AlgLin1 Solutions Etudiants.pdf
+        │       ├── 📄 F4 espaces vectoriels AlgLin1.pdf
+        │       ├── 📄 F3AlgLin1 Solutions Etudiants.pdf
+        │       ├── 📄 F3 determinants AlgLin1.pdf
+        │       ├── 📄 F2AlgLin1 Solutions Etudiants.pdf
+        │       ├── 📄 F2 matrices et geometrie 3DAlgLin1.pdf
+        │       ├── 📄 F1AlgLin1 Solutions Etudiants.pdf
+        │       └── 📄 F1 systemes lineaires et pivot de gauss AlgLin1.pdf
+        └── 📁 bases2/
+            ├── 📄 TD7-Polynômes correction.pdf
+            ├── 📄 TD7-Polynômes.pdf
+            ├── 📄 TD6_corr.pdf
+            ├── 📄 TD6-arithmetique.pdf
+            ├── 📄 TD5bis-BorneSup correction.pdf
+            ├── 📄 TD5bis-BorneSup.pdf
+            ├── 📄 TD5-Relations correction.pdf
+            ├── 📄 TD5-Relations.pdf
+            ├── 📄 TD4-Denombrements correcton.pdf
+            ├── 📄 TD4-Denombrements.pdf
+            ├── 📄 sylabus bases 2.docx
+            ├── 📁 CH1. logique et raisonnement/
+            │   ├── 📄 1.Cours-Logique tapé.pdf
+            │   ├── 📄 TD1-Logique-Cor.pdf
+            │   ├── 📄 1.TD1-Logique bases2.pdf
+            │   ├── 📄 1.exo7 ch_logique.pdf
+            │   └── 📄 1.CM logique bases2.pdf
+            ├── 📁 archives controle continu/
+            │   ├── 📄 CC4-C-corrige (3).pdf
+            │   ├── 📄 CC4-B-corrige (2).pdf
+            │   ├── 📄 CC4-A-corrige (2).pdf
+            │   ├── 📄 CC4-C (1).pdf
+            │   ├── 📄 CC4-B (1).pdf
+            │   ├── 📄 CC4-A (1).pdf
+            │   ├── 📄 CC3 C corrige.pdf
+            │   ├── 📄 CC3 B corrige.pdf
+            │   ├── 📄 CC3 A corrige.pdf
+            │   ├── 📄 CC3 C.pdf
+            │   ├── 📄 CC3 B.pdf
+            │   ├── 📄 CC3 A.pdf
+            │   ├── 📄 CC2_C.pdf
+            │   ├── 📄 CC2_B.pdf
+            │   ├── 📄 CC2_A.pdf
+            │   ├── 📄 CC1-C.pdf
+            │   ├── 📄 CC1-B.pdf
+            │   ├── 📄 CC1-A.pdf
+            │   ├── 📄 20230106_134046119_iOS.jpg
+            │   └── 📄 20230106_134046259_iOS.jpg
+            ├── 📁 CH2. intro à la théorie des ensembles/
+            │   ├── 📄 exercices_corriges_applications_injectives_surjectives_composition_reciproques.pdf
+            │   ├── 📄 feuille_TD2_2versions.pdf
+            │   ├── 📄 TD3-Applications_CL.pdf
+            │   ├── 📄 CoursMathDiscretes2.pdf
+            │   ├── 📄 feuille_TD3.pdf
+            │   ├── 📄 TD3-Applications corr.pdf
+            │   └── 📄 TD2-ensembles corr.pdf
+            └── 📁 notes de cours/
+                ├── 📄 polynomes.pdf
+                ├── 📄 arithmetique_L1.pdf
+                ├── 📄 arithmetique.pdf
+                ├── 📄 notes-manuscrites_theorie-ensembles.pdf
+                ├── 📄 cours logique,ensembles,relations.pdf
+                └── 📄 Cours-Logique.pdf
+
+═════════════════════════════════════
+  Fin du fichier · L.AS2 MATHEMATIQUES
+═════════════════════════════════════

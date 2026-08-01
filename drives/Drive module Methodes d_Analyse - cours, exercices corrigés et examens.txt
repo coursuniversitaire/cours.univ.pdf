@@ -1,0 +1,132 @@
+📚 MODULE : Methodes d'Analyse                        
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Methodes d'Analyse.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Methodes d'Analyse/
+└── 🔗📁 Methodes d'Analyse/  (raccourci)
+    ├── 📁 2- Sujets/
+    │   ├── 📄 156476808_277796340617977_4945746801248089222_n.jpg
+    │   ├── 📄 86700694_802981720112445_8815387179237769216_o.jpg
+    │   ├── 📄 81973952_2837764712973784_4863272433689296896_n.jpg
+    │   ├── 📄 Constantine - Examen MCPA.pdf
+    │   └── 📁 USTHB - Examen 2016 (sol) + Devoir/
+    │       ├── 📄 devoir p2.jpg
+    │       ├── 📄 devoir p1.jpg
+    │       ├── 📄 sol p3.jpg
+    │       ├── 📄 sol p2.jpg
+    │       ├── 📄 sol p1.jpg
+    │       └── 📄 Sujet - Spectroscopie Atomique.jpg
+    ├── 📁 1- Cours + TD/
+    │   ├── 📄 Annaba - Outils spectroscopiques II.pdf
+    │   ├── 📄 El-Oued - COURS Méthodes physico-chimiques d’analyse .pdf
+    │   ├── 📄 Bejaia - Méthodes Spectroscopiques d'analyse.pdf
+    │   ├── 📄 analyse_spectrale_exercices.pdf
+    │   ├── 📄 Msila - Techniques danalyse physicochimique 2.pdf
+    │   ├── 📄 Jijel - cours_boucheloukh Chromatograph.pdf
+    │   ├── 📄 Ouargla - Methodes spectroscopiques d’analyse.pdf
+    │   ├── 📄 RMN.pdf
+    │   ├── 📄 IMPCA 2.pdf
+    │   ├── 📄 IMPCA 1.pdf
+    │   ├── 📄 Exo.jpg
+    │   ├── 📄 UMBB - FSI- cours MPCA.pdf
+    │   ├── 📄 Alger - Spectrometrie de Fluorescence.pdf
+    │   ├── 📄 Biskra - uv-vis (Djani Faical).pdf
+    │   ├── 📄 Biskra - spectrophotométrie UV-Visible (Samir Kenouche).pdf
+    │   ├── 📄 Bouira - IR.pdf
+    │   ├── 📄 IR+RMN.pdf
+    │   ├── 📁 Relizane - Methodes Physico-chimique d'Analyse/
+    │   │   ├── 📄 CHAPITRE VII.docx
+    │   │   ├── 📄 CHAPITRE VI.docx
+    │   │   ├── 📄 Chapitre V.docx
+    │   │   ├── 📄 Chapitre IV.docx
+    │   │   ├── 📄 Chapitre III.docx
+    │   │   ├── 📄 CHAPITRE II.docx
+    │   │   └── 📄 CHAPITRE I.docx
+    │   ├── 📁 Relizane/
+    │   │   ├── 📄 Cours_chromato_2021.pdf
+    │   │   └── 📄 Cours_TA_IR.pdf
+    │   ├── 📁 Msila - TDs/
+    │   │   ├── 📄 Methode d'Analyse - TD 2.jpg
+    │   │   ├── 📄 Methode d'Analyse - TD 1 p2.jpg
+    │   │   ├── 📄 Methode d'Analyse - TD 3.jpg
+    │   │   └── 📄 Methode d'Analyse - TD 1 p1.jpg
+    │   ├── 📁 Tissemsilt - Techniques d’Analyse Physicochimique II/
+    │   │   ├── 📄 Chapitre 4 La corrosion.docx
+    │   │   ├── 📄 Chapitre 5.docx
+    │   │   └── 📄 Chapitre 4.docx
+    │   ├── 📁 USTHB - Cours + Exos/
+    │   │   ├── 📄 MPCA.EXOS.pdf
+    │   │   ├── 📄 MPCA.CPG.pdf
+    │   │   ├── 📄 MPCA.lois.pdf
+    │   │   ├── 📄 MPCA.HPLC.pdf
+    │   │   ├── 📄 MPCA.grandeursderet.pdf
+    │   │   └── 📄 MPCA.generalite.pdf
+    │   └── 📁 Technique D'analyse Cours/
+    │       ├── 📄 c p44.jpg
+    │       ├── 📄 c p45.jpg
+    │       ├── 📄 c p46.jpg
+    │       ├── 📄 c p42.jpg
+    │       ├── 📄 c p41.jpg
+    │       ├── 📄 c p40.jpg
+    │       ├── 📄 c p29.5(2).jpg
+    │       ├── 📄 c p35.jpg
+    │       ├── 📄 c p33.jpg
+    │       ├── 📄 c p32.jpg
+    │       ├── 📄 c p30.jpg
+    │       ├── 📄 c p31.jpg
+    │       ├── 📄 c p29(2).jpg
+    │       ├── 📄 c p28(2).jpg
+    │       ├── 📄 c2 p2.jpg
+    │       ├── 📄 c2 p1.jpg
+    │       ├── 📄 c p27(2).jpg
+    │       ├── 📄 c p26(2).jpg
+    │       ├── 📄 c p29.jpg
+    │       ├── 📄 c p28.jpg
+    │       ├── 📄 c p27.jpg
+    │       ├── 📄 c p26.jpg
+    │       ├── 📄 c p25.jpg
+    │       ├── 📄 c p24.jpg
+    │       ├── 📄 c p23.jpg
+    │       ├── 📄 c p22.jpg
+    │       ├── 📄 c p21.jpg
+    │       ├── 📄 c p20.jpg
+    │       ├── 📄 c p19.jpg
+    │       ├── 📄 c p18.jpg
+    │       ├── 📄 c p17.jpg
+    │       ├── 📄 c p16.jpg
+    │       ├── 📄 c p15.jpg
+    │       ├── 📄 c p14.jpg
+    │       ├── 📄 c p13.jpg
+    │       ├── 📄 c p10 (2).jpg
+    │       ├── 📄 c p11.jpg
+    │       ├── 📄 c p10.jpg
+    │       ├── 📄 c p9.jpg
+    │       ├── 📄 c p8.jpg
+    │       ├── 📄 c p7.jpg
+    │       ├── 📄 c p6.jpg
+    │       ├── 📄 c p5.jpg
+    │       ├── 📄 c p4.jpg
+    │       ├── 📄 c p3.jpg
+    │       ├── 📄 c p2.jpg
+    │       ├── 📄 c p1.jpg
+    │       ├── 📄 c p0.jpg
+    │       └── 📄 Serie.jpg
+    └── 📁 3- Livres/
+        ├── 📄 Annick ROUESSAC,Francis ROUESSAC - Techniques instrumentales d’analyse chimique en 23 fiches (2011).pdf
+        ├── 📄 METHODES D'ANALYSES SPECTROSCOPIQUES EN CHIMIE ORGANIQUE.pdf
+        └── 📄 Analyse chimique - Méthodes et techniques.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Methodes d'Analyse
+═════════════════════════════════════

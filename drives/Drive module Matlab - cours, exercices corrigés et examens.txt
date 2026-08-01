@@ -1,0 +1,57 @@
+📚 MODULE : Matlab                                    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Matlab.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Matlab/
+├── 🔗📁 cours et tds matlab/  (raccourci)
+│   ├── 📄 °TD MATLAB ENSA FES 19-20.pdf
+│   ├── 📄 °COURS MATLAB ENSA-OUAJDA 19-20.pdf
+│   ├── 📄 °TD MATLAB ENSA AGADIR 19-20.pdf
+│   ├── 📄 °TD MATLAB ENSA KHOURIBGHA 19-20.pdf
+│   ├── 📄 °TD MATLAB ENSA OUAJDA 19-20.pdf
+│   ├── 📄 °TD MATLAB ENSA-BM 19-20.pdf
+│   ├── 📄 °TD MATLAB ENSA-SAFI 19-20.pdf
+│   ├── 📄 +COURS MATLAB ENSA AGADIR 19-20.pdf
+│   ├── 📄 +COURS MATLAB ENSA KHOURIBGHA 19-20.pdf
+│   ├── 📄 +COURS MATLAB ENSA-BM 19-20.pdf
+│   ├── 📄 +COURS MATLAB ENSA-FES 19-20.pdf
+│   └── 📄 +COURS MATLAB ENSA-SAFI 19-20.pdf
+├── 📄 °TD MATLAB ENSA FES 19-20.pdf
+├── 📄 °COURS MATLAB ENSA-OUAJDA 19-20.pdf
+├── 📄 °TD MATLAB ENSA AGADIR 19-20.pdf
+├── 📄 °TD MATLAB ENSA KHOURIBGHA 19-20.pdf
+├── 📄 °TD MATLAB ENSA OUAJDA 19-20.pdf
+├── 📄 °TD MATLAB ENSA-BM 19-20.pdf
+├── 📄 °TD MATLAB ENSA-SAFI 19-20.pdf
+├── 📄 +COURS MATLAB ENSA AGADIR 19-20.pdf
+├── 📄 +COURS MATLAB ENSA KHOURIBGHA 19-20.pdf
+├── 📄 +COURS MATLAB ENSA-FES 19-20.pdf
+├── 📄 +COURS MATLAB ENSA-SAFI 19-20.pdf
+└── 🔗📁 ° ENSA MATLAB BY SABOR/  (raccourci)
+    ├── 📄 +COURS MATLAB ENSA-FES 19-20.pdf
+    ├── 📄 +COURS MATLAB ENSA-BM 19-20.pdf
+    ├── 📄 °TD MATLAB ENSA-SAFI 19-20.pdf
+    ├── 📄 +COURS MATLAB ENSA-SAFI 19-20.pdf
+    ├── 📄 °TD MATLAB ENSA OUAJDA 19-20.pdf
+    ├── 📄 °COURS MATLAB ENSA-OUAJDA 19-20.pdf
+    ├── 📄 +COURS MATLAB ENSA KHOURIBGHA 19-20.pdf
+    ├── 📄 +COURS MATLAB ENSA AGADIR 19-20.pdf
+    ├── 📄 °TD MATLAB ENSA KHOURIBGHA 19-20.pdf
+    ├── 📄 °TD MATLAB ENSA FES 19-20.pdf
+    ├── 📄 °TD MATLAB ENSA-BM 19-20.pdf
+    └── 📄 °TD MATLAB ENSA AGADIR 19-20.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Matlab
+═════════════════════════════════════

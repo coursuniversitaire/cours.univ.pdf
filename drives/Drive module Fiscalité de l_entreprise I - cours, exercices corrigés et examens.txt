@@ -1,0 +1,33 @@
+📚 MODULE : Fiscalité de l'entreprise I               
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Fiscalité de l'entreprise I.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Fiscalité de l'entreprise I/
+├── 📄 Cours Fiscalite Entreprise - Fiscalité de l'entreprise I
+├── 📄 Cours Fiscalite Entreprise TVA - Fiscalité de l'entreprise I
+├── 📄 Exercices TD TVA - Fiscalité de l'entreprise I
+├── 📄 Exercices TD TVA - Fiscalité de l'entreprise I
+├── 📄 Exercices TD TVA - Fiscalité de l'entreprise I
+├── 📄 TRAVAUX DIRIGES 4 TVA
+├── 📄 Exercices TD Fiscalité Approfondie -Fiscalité de l'entreprise I
+├── 📄 Cours TVA Direction Régionale -Fiscalité de l'entreprise I
+├── 📄 Exercices TD TVA -Fiscalité de l'entreprise I
+├── 📄 TD 4 Corrigé.xlsx
+├── 📄 TD 2 Corrigé.xlsx
+├── 📄 TD 3 Corrigé.xlsx
+└── 📄 cours_fiscalite.ppt
+
+═════════════════════════════════════
+  Fin du fichier · Fiscalité de l'entreprise I
+═════════════════════════════════════

@@ -1,0 +1,48 @@
+📚 MODULE : JEE                                       
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module JEE.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 JEE/
+├── 🔗📁 S6 SSSS TECHNOLOGIE J2EE/  (raccourci)
+│   ├── 📄 Servlet.pdf
+│   ├── 📄 JSP.pdf
+│   ├── 📄 atelier5.pdf
+│   ├── 📄 atelier4.pdf
+│   ├── 📄 atelier3.pdf
+│   ├── 📄 atelier2.pdf
+│   └── 📄 atelier1.pdf
+├── 🔗📁 J2E/JPA/SOA/  (raccourci)
+│   ├── 📄 Examen - Applications distribuees, JEE, EJB, JMS.pdf
+│   ├── 📄 Examen - Applications distribuees, JEE, EJB, JMS (2014-2015).pdf
+│   └── 📄 Examen - Internet et services Web, SOA.pdf
+├── 📄 TPx2.pdf
+├── 📄 s2- Java EE partie 2.1.pdf
+├── 📄 s4- Java EE partie 2.3_v6.pdf
+├── 📄 Coursx1.pdf
+├── 📄 s1- Java EE partie 1.pdf
+├── 📄 Coursx3.pdf
+├── 📄 TPx4.pdf
+├── 📄 Coursx4.pdf
+├── 📄 Coursx2.pdf
+├── 📄 TPx3.pdf
+├── 📄 s5- Java EE_Session.pdf
+├── 📄 j2ee_beans.pdf
+├── 📄 TP 2_JEE.pdf
+├── 📄 TPx1.pdf
+├── 📄 s3- Java EE partie 2.2_v5.pdf
+└── 📄 s6- Java EE_JSP.pdf
+
+═════════════════════════════════════
+  Fin du fichier · JEE
+═════════════════════════════════════

@@ -1,0 +1,154 @@
+📚 MODULE : Microbiologie Générale                    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Microbiologie Générale.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Microbiologie Générale/
+├── 🔗📁 Microbiologie Générale/  (raccourci)
+│   ├── 📁 Cours/
+│   │   ├── 📁 CHAP III/
+│   │   │   ├── 📄 CHAPITRE 3 Les Conditions Physicochimiqu et Physiologie Bactérienne.pdf
+│   │   │   └── 📄 CHAPITRE 3 NUTRITION ET METABOLISME BACTERIENS.pdf
+│   │   ├── 📁 CHAP IV/
+│   │   │   ├── 📄 CHAPITRE 4 dénomnrement et croissance bactérienne.pdf
+│   │   │   └── 📄 CHAPITRE 4- GENETIQUE BACTERIENNE.pdf
+│   │   ├── 📁 CHAP VII/
+│   │   │   └── 📄 CHAPITRE 7 S3 Génétique bactérienne [Enregistrement automatique].pdf
+│   │   ├── 📁 CHAP V/
+│   │   │   └── 📄 CHAPITRE 5 VIROLOGIE ET BACTERIOPHAGES.pdf
+│   │   ├── 📁 CHAP VI/
+│   │   │   └── 📄 CHAPITRE 6 S3 2022 Structures bactériennes.pdf
+│   │   ├── 📁 CHAP II/
+│   │   │   ├── 📄 CHAPITRE 2-E-STRUCTURES FACULTATIVES.pdf
+│   │   │   ├── 📄 CHAPITRE 2-D-CYTOPLASME RIBOSOME NOYAU.pdf
+│   │   │   ├── 📄 CHAPITRE 2-C- MEMBRANE PLASMIQUE.pdf
+│   │   │   ├── 📄 CHAPITRE 2-B- STRUCTURE PAROI BACTERIENNE.pdf
+│   │   │   └── 📄 CHAPITRE 2 FORME BACTERIENNE.pdf
+│   │   └── 📁 CHAP I/
+│   │       └── 📄 CHAPITRE 1 LE MONDE MICROBIEN.pdf
+│   ├── 📁 Contole/
+│   │   ├── 📄 contrôles microbiologie.pdf
+│   │   └── 📄 Extraits controles-12.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 TD6_Génetique-bacterienne.pdf
+│   │   ├── 📄 TD4- Introduction.pdf
+│   │   ├── 📄 TD5_Types-Trophiques.pdf
+│   │   ├── 📄 TD1_initiation aux technbiques de Microbiologie.pdf
+│   │   ├── 📄 TD2_Dénombrements bactériens.pdf
+│   │   ├── 📄 TD3-Cours_CROISSANCE-BACTERIENNE-S3.pdf
+│   │   ├── 📄 MicroBiologie _-_ TD denombrements Bacteriennes.pdf
+│   │   ├── 📄 TD met nutrition S3 2004.pdf
+│   │   ├── 📄 TD croissance bacterienne.pdf
+│   │   ├── 📄 TD genetique bacterienne.pdf
+│   │   └── 📄 TD denombrements.pdf
+│   └── 📁 TP/
+│       ├── 📄 Recommandations.pdf
+│       ├── 📄 Identification bactérienne-démarche.pdf
+│       ├── 📄 Isolement_Milieu-Selectif-et-Différentiel_Milieu-Chapman (1).pdf
+│       ├── 📄 TP sources de contaminations.pdf
+│       ├── 📄 Poste de travail.pdf
+│       ├── 📄 TP-Microbiologie_2020.pdf
+│       └── 📄 TOPO_TP-Microbio_S3_2021-2022.pdf
+├── 📁 TP/
+│   ├── 📄 Recommandations.pdf
+│   ├── 📄 Identification bactérienne-démarche.pdf
+│   ├── 📄 Isolement_Milieu-Selectif-et-Différentiel_Milieu-Chapman (1).pdf
+│   ├── 📄 TP sources de contaminations.pdf
+│   ├── 📄 Poste de travail.pdf
+│   ├── 📄 TP-Microbiologie_2020.pdf
+│   └── 📄 TOPO_TP-Microbio_S3_2021-2022.pdf
+├── 📁 Microbiologie Générale/
+│   ├── 📁 TP/
+│   │   ├── 📄 Recommandations.pdf
+│   │   ├── 📄 Identification bactérienne-démarche.pdf
+│   │   ├── 📄 Isolement_Milieu-Selectif-et-Différentiel_Milieu-Chapman (1).pdf
+│   │   ├── 📄 TP sources de contaminations.pdf
+│   │   ├── 📄 Poste de travail.pdf
+│   │   ├── 📄 TP-Microbiologie_2020.pdf
+│   │   └── 📄 TOPO_TP-Microbio_S3_2021-2022.pdf
+│   ├── 📁 Cours/
+│   │   ├── 📁 CHAP VI/
+│   │   │   └── 📄 CHAPITRE 6 S3 2022 Structures bactériennes.pdf
+│   │   ├── 📁 CHAP VII/
+│   │   │   └── 📄 CHAPITRE 7 S3 Génétique bactérienne [Enregistrement automatique].pdf
+│   │   ├── 📁 CHAP IV/
+│   │   │   ├── 📄 CHAPITRE 4 dénomnrement et croissance bactérienne.pdf
+│   │   │   └── 📄 CHAPITRE 4- GENETIQUE BACTERIENNE.pdf
+│   │   ├── 📁 CHAP III/
+│   │   │   ├── 📄 CHAPITRE 3 Les Conditions Physicochimiqu et Physiologie Bactérienne.pdf
+│   │   │   └── 📄 CHAPITRE 3 NUTRITION ET METABOLISME BACTERIENS.pdf
+│   │   ├── 📁 CHAP V/
+│   │   │   └── 📄 CHAPITRE 5 VIROLOGIE ET BACTERIOPHAGES.pdf
+│   │   ├── 📁 CHAP II/
+│   │   │   ├── 📄 CHAPITRE 2-E-STRUCTURES FACULTATIVES.pdf
+│   │   │   ├── 📄 CHAPITRE 2-D-CYTOPLASME RIBOSOME NOYAU.pdf
+│   │   │   ├── 📄 CHAPITRE 2-B- STRUCTURE PAROI BACTERIENNE.pdf
+│   │   │   ├── 📄 CHAPITRE 2-C- MEMBRANE PLASMIQUE.pdf
+│   │   │   └── 📄 CHAPITRE 2 FORME BACTERIENNE.pdf
+│   │   └── 📁 CHAP I/
+│   │       └── 📄 CHAPITRE 1 LE MONDE MICROBIEN.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 TD6_Génetique-bacterienne.pdf
+│   │   ├── 📄 TD4- Introduction.pdf
+│   │   ├── 📄 TD5_Types-Trophiques.pdf
+│   │   ├── 📄 TD1_initiation aux technbiques de Microbiologie.pdf
+│   │   ├── 📄 TD2_Dénombrements bactériens.pdf
+│   │   ├── 📄 TD3-Cours_CROISSANCE-BACTERIENNE-S3.pdf
+│   │   ├── 📄 MicroBiologie _-_ TD denombrements Bacteriennes.pdf
+│   │   ├── 📄 TD met nutrition S3 2004.pdf
+│   │   ├── 📄 TD genetique bacterienne.pdf
+│   │   ├── 📄 TD croissance bacterienne.pdf
+│   │   └── 📄 TD denombrements.pdf
+│   └── 📁 Contole/
+│       ├── 📄 contrôles microbiologie.pdf
+│       └── 📄 Extraits controles-12.pdf
+├── 📁 Cours/
+│   ├── 📁 CHAP VI/
+│   │   └── 📄 CHAPITRE 6 S3 2022 Structures bactériennes.pdf
+│   ├── 📁 CHAP VII/
+│   │   └── 📄 CHAPITRE 7 S3 Génétique bactérienne [Enregistrement automatique].pdf
+│   ├── 📁 CHAP IV/
+│   │   ├── 📄 CHAPITRE 4 dénomnrement et croissance bactérienne.pdf
+│   │   └── 📄 CHAPITRE 4- GENETIQUE BACTERIENNE.pdf
+│   ├── 📁 CHAP III/
+│   │   ├── 📄 CHAPITRE 3 Les Conditions Physicochimiqu et Physiologie Bactérienne.pdf
+│   │   └── 📄 CHAPITRE 3 NUTRITION ET METABOLISME BACTERIENS.pdf
+│   ├── 📁 CHAP V/
+│   │   └── 📄 CHAPITRE 5 VIROLOGIE ET BACTERIOPHAGES.pdf
+│   ├── 📁 CHAP II/
+│   │   ├── 📄 CHAPITRE 2-E-STRUCTURES FACULTATIVES.pdf
+│   │   ├── 📄 CHAPITRE 2-D-CYTOPLASME RIBOSOME NOYAU.pdf
+│   │   ├── 📄 CHAPITRE 2-B- STRUCTURE PAROI BACTERIENNE.pdf
+│   │   ├── 📄 CHAPITRE 2-C- MEMBRANE PLASMIQUE.pdf
+│   │   └── 📄 CHAPITRE 2 FORME BACTERIENNE.pdf
+│   └── 📁 CHAP I/
+│       └── 📄 CHAPITRE 1 LE MONDE MICROBIEN.pdf
+├── 📁 TD/
+│   ├── 📄 TD6_Génetique-bacterienne.pdf
+│   ├── 📄 TD4- Introduction.pdf
+│   ├── 📄 TD5_Types-Trophiques.pdf
+│   ├── 📄 TD1_initiation aux technbiques de Microbiologie.pdf
+│   ├── 📄 TD2_Dénombrements bactériens.pdf
+│   ├── 📄 TD3-Cours_CROISSANCE-BACTERIENNE-S3.pdf
+│   ├── 📄 MicroBiologie _-_ TD denombrements Bacteriennes.pdf
+│   ├── 📄 TD met nutrition S3 2004.pdf
+│   ├── 📄 TD genetique bacterienne.pdf
+│   ├── 📄 TD croissance bacterienne.pdf
+│   └── 📄 TD denombrements.pdf
+└── 📁 Contole/
+    ├── 📄 contrôles microbiologie.pdf
+    └── 📄 Extraits controles-12.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Microbiologie Générale
+═════════════════════════════════════

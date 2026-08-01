@@ -1,0 +1,29 @@
+📚 MODULE : Histoire des Mathématiques                
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Histoire des Mathématiques.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Histoire des Mathématiques/
+├── 🔗📁 Histoire des Mathématiques/  (raccourci)
+│   ├── 📄 Résumé-Histoire-des-Maths.pdf
+│   ├── 📄 histoire des maths.pdf
+│   ├── 📄 Histoire .pdf
+│   ├── 📄 Resume _ Chapitre 2_ HAG_05_12_16.docx
+│   ├── 📄 Histoire des Sciences02.pdf
+│   ├── 📄 Histoire des sciences01.pdf
+│   └── 📄 booksstream-com_b1ws31 www.mathmaroc.com.pdf
+└── 📄 Cours et exercices Histoire des mathématiques.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Histoire des Mathématiques
+═════════════════════════════════════

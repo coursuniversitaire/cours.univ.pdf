@@ -1,0 +1,156 @@
+📚 MODULE : Mécanique des milieux continus            
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Mécanique des milieux continus.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Mécanique des milieux continus/
+├── 🔗📁 mecanique des milieux continue/  (raccourci)
+│   ├── 📄 cours.pps
+│   ├── 📄 Chapitre 2_Modélisation géométrique.pdf
+│   ├── 📁 Td/
+│   │   ├── 📄 MMC_Exercices.pdf
+│   │   ├── 📄 IMG_20191218_204354.jpg
+│   │   ├── 📄 IMG_20191218_204343.jpg
+│   │   ├── 📄 IMG_20191218_204325.jpg
+│   │   ├── 📄 IMG_20191218_204424.jpg
+│   │   └── 📁 Resumé/
+│   │       └── 📄 Copie de IMG_20191218_204941.jpg
+│   ├── 📁 Resumé/
+│   │   ├── 📄 resumé
+│   │   ├── 📄 resumé.pdf
+│   │   └── 📁 Image/
+│   │       ├── 📄 IMG_20191218_204753.jpg
+│   │       ├── 📄 IMG_20191218_204829.jpg
+│   │       ├── 📄 IMG_20191218_204803.jpg
+│   │       ├── 📄 IMG_20191218_204941.jpg
+│   │       ├── 📄 IMG_20191218_204936.jpg
+│   │       ├── 📄 IMG_20191218_204821.jpg
+│   │       ├── 📄 IMG_20191218_204810.jpg
+│   │       ├── 📄 IMG_20191218_204928.jpg
+│   │       ├── 📄 IMG_20191218_204916.jpg
+│   │       ├── 📄 IMG_20191218_204909.jpg
+│   │       ├── 📄 IMG_20191218_204900.jpg
+│   │       ├── 📄 IMG_20191218_204853.jpg
+│   │       ├── 📄 IMG_20191218_204841.jpg
+│   │       ├── 📄 IMG_20191218_204836.jpg
+│   │       └── 📄 IMG_20191218_204941(1).jpg
+│   ├── 📁 Examen/
+│   │   ├── 📄 examan 2015.pdf
+│   │   └── 📄 examan 2015
+│   ├── 📁 Ch1/
+│   │   ├── 📄 IMG_20191225_201451.jpg
+│   │   ├── 📄 IMG_20191225_201604.jpg
+│   │   ├── 📄 IMG_20191225_201549.jpg
+│   │   ├── 📄 IMG_20191225_201514.jpg
+│   │   ├── 📄 IMG_20191225_201514(1).jpg
+│   │   ├── 📄 IMG_20191225_201505.jpg
+│   │   ├── 📄 IMG_20191225_201444.jpg
+│   │   ├── 📄 IMG_20191225_201444(1).jpg
+│   │   ├── 📄 IMG_20191225_201437.jpg
+│   │   ├── 📄 IMG_20191225_201432.jpg
+│   │   ├── 📄 IMG_20191225_201424.jpg
+│   │   ├── 📄 IMG_20191225_201322.jpg
+│   │   ├── 📄 IMG_20191225_201413.jpg
+│   │   ├── 📄 IMG_20191225_201239.jpg
+│   │   ├── 📄 IMG_20191225_201350.jpg
+│   │   ├── 📄 IMG_20191225_201303.jpg
+│   │   ├── 📄 IMG_20191225_201215.jpg
+│   │   ├── 📄 IMG_20191225_201156.jpg
+│   │   └── 📄 IMG_20191225_201215(1).jpg
+│   ├── 📁 Cours/
+│   │   ├── 📄 IMG_20191218_204319.jpg
+│   │   ├── 📄 IMG_20191218_204306.jpg
+│   │   ├── 📄 IMG_20191218_204251.jpg
+│   │   ├── 📄 IMG_20191218_204244.jpg
+│   │   ├── 📄 IMG_20191218_204223.jpg
+│   │   ├── 📄 IMG_20191218_204216.jpg
+│   │   ├── 📄 IMG_20191218_204156.jpg
+│   │   ├── 📄 IMG_20191218_204511.jpg
+│   │   └── 📄 IMG_20191218_204149.jpg
+│   └── 📁 Ch 4/
+│       ├── 📄 CH4 PG 15.jpg
+│       ├── 📄 CH4 PG 14.jpg
+│       ├── 📄 CH4 PG 13.jpg
+│       ├── 📄 CH4 PG 12.jpg
+│       ├── 📄 CH4 PG 11.jpg
+│       ├── 📄 CH4 PG 10.jpg
+│       ├── 📄 CH4 PG 9.jpg
+│       ├── 📄 CH4 PG 8.jpg
+│       ├── 📄 CH4 PG 7.jpg
+│       ├── 📄 CH4 PG 6.jpg
+│       ├── 📄 CH4 PG 5.jpg
+│       ├── 📄 CH4 PG 4.jpg
+│       ├── 📄 CH4 PG 3.jpg
+│       ├── 📄 CH4 PG 2.jpg
+│       ├── 📄 CH4 PG 1.jpg
+│       └── 📄 CH4 PG 0.jpg
+├── 📄 CH.1 Algèbre Tensorielle.pdf
+├── 📄 Ch.3 Tenseurs des contraintes.pdf
+├── 📄 CH.4 Loi de comportement des Milieux Continus.pdf
+├── 📄 Chapitre.4 Loi de Comportement.pdf
+├── 📄 Cours MMC_V1.pdf
+├── 📄 TD.1 Tenseurs déformation.pdf
+├── 📄 TD.1(correction).pdf
+├── 📄 TD.2 (correction) Ex.1 2 3 4 5.pdf
+├── 📄 TD.2 Tenseur des Contraintes.pdf
+├── 📄 TD.3 (Correction).pdf
+├── 📄 TD.3.pdf
+├── 🔗📁 Méca_Milieux _Continus  (raccourci)
+├── 🔗📁 MMC/  (raccourci)
+│   ├── 📄 Cours MMC-CHAPITRE 6_ Théorèmes liés a énergie +.pdf
+│   ├── 📄 Cours MMC-CHAPITRE 5-Criteres de limite elastique.pdf
+│   ├── 📄 Exemple de revision MMC avec solution.pdf
+│   ├── 📄 Cours MMC-CHAPITRE 4-Equations de elastostatique.pdf
+│   ├── 📄 Cours MMC-CHAPITRE 4-Equations de elastostatique.pdf
+│   ├── 🔗📁 mmc  (raccourci)
+│   ├── 📄 MMC serie-04-2020-2021.pdf
+│   ├── 📄 Cours MMC-CHAPITRE 3-Loi de comportement elastique --.pdf
+│   ├── 📄 MMC-CHAPITRE_2 Tenseur de deformation.pdf
+│   ├── 📄 MMC serie-03-2020-2021.pdf
+│   ├── 📄 MMC serie-01-2020-2021 solution exercice 6.pdf
+│   ├── 📄 Cours-MMC-CHAPITRE 1 tenseur de contrainte Parties I et II.pdf
+│   ├── 📄 tricercles de mohr.pptx
+│   ├── 📄 MMC serie-02-2020-2021.pdf
+│   ├── 📄 Cours-MMC-CHAPITRE 1 tenseur de contrainte- PARTIE I.pdf
+│   ├── 📄 MMC serie-01.pdf
+│   └── 📁 Les enregistrements /
+│       ├── 📄 Copie de Cours TD MMC (2021-01-13 at 01:45 GMT-8)
+│       └── 📄 Copie de Cours TD MMC (2021-01-13 at 00:39 GMT-8)
+├── 📄 MMC serie-01-2020-2021 solution exercice 6.pdf
+├── 📄 MMC serie-01.pdf
+├── 📄 MMC serie-02-2020-2021.pdf
+├── 📄 MMC serie-03-2020-2021.pdf
+├── 📄 MMC serie-04-2020-2021.pdf
+├── 📄 Cours_MMC_Complet_ER.pdf
+├── 📄 Exams_MMC_Complet.pdf
+├── 📄 TD_MMC_Complet_ER.pdf
+├── 📄 Livre MMC.pdf
+├── 📄 Examen MMC 23-24.pdf
+└── 🔗📁 Mécanique des milieux continus/  (raccourci)
+    ├── 📁 Examens/
+    │   └── 📄 Exams_MMC_Complet.pdf
+    ├── 📁 TDs/
+    │   └── 📄 MMC- TD+Corrigé.pdf
+    └── 📁 Cours/
+        ├── 📄 CH.6- ELASTICITE-LINEAIRE (Résumé) - Copie.pdf
+        ├── 📄 CH-3 -Déformation (résumé).pdf
+        ├── 📄 CH-3 -Déformation (résumé) - Copie.pdf
+        ├── 📄 CH-2 -DESCRIPTION (résumé) - Copie.pdf
+        ├── 📄 MMC- Rappel 2 (Résistance des Matériaux).pdf
+        ├── 📄 MMC- Rappel 1 (Mécanique des Fluides).pdf
+        ├── 📄 MMC (CH.2 + CH.3).pdf
+        └── 📄 Cours_MMC_Complet.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Mécanique des milieux continus
+═════════════════════════════════════

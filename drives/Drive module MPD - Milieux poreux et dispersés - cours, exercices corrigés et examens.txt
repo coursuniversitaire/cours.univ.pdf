@@ -1,0 +1,69 @@
+📚 MODULE : MPD - Milieux poreux et dispersés         
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module MPD - Milieux poreux et dispersés.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 MPD - Milieux poreux et dispersés/
+├── 📁 Milieux Poreux et Dispersés/
+│   └── 🔗📁 Milieux Poreux et Dispersés/  (raccourci)
+│       ├── 📁 1- Cours + TDs/
+│       │   ├── 📄 Messif Yacine (Etudiant) - milieux poreux.pdf
+│       │   ├── 📄 Laghouat - TD Milieux poreux et dispersés.pdf
+│       │   ├── 📄 Cours Milieux Poreux et Dispersés.pdf
+│       │   ├── 📄 (Etudiant) - Milieux poreux et dispersés_CR.pdf
+│       │   ├── 📄 (Etudiant) - milieux poreux et dis.pdf
+│       │   ├── 📁 USTO - Benhammadi/
+│       │   │   ├── 📄 003.jpg
+│       │   │   ├── 📄 007.jpg
+│       │   │   ├── 📄 006.jpg
+│       │   │   ├── 📄 009.jpg
+│       │   │   ├── 📄 004.jpg
+│       │   │   ├── 📄 008.jpg
+│       │   │   ├── 📄 mpd.pdf
+│       │   │   └── 📄 MPD PDF.pdf
+│       │   ├── 📁 Mostaganem - TD/
+│       │   │   ├── 📄 TD 2.jpg
+│       │   │   ├── 📄 TD 1.jpg
+│       │   │   ├── 📄 TD 5.jpg
+│       │   │   └── 📄 TD 4.jpg
+│       │   └── 📁 Relizane (Cours + TD)/
+│       │       ├── 📄 fiche TD 3.pdf
+│       │       ├── 📄 chap 6.pdf
+│       │       ├── 📄 chap 5.pdf
+│       │       ├── 📄 chap 4.pdf
+│       │       ├── 📄 chap 3.pdf
+│       │       ├── 📄 chap 2.pdf
+│       │       ├── 📄 chap 1.pdf
+│       │       └── 📄 fiche TD 1.pdf
+│       └── 📁 2- Sujets/
+│           ├── 📄 Setif - Examen (2010).jpg
+│           ├── 📄 155761096_1320854348284955_9221853052343961594_o.jpg
+│           ├── 📄 Setif - Controle.jpg
+│           ├── 📄 El-Oued - Examen.jpg
+│           └── 📄 Adrar - Examen.jpg
+├── 📁 cours/
+│   ├── 📄 Note Chapitre 1 MPD 2019 - 2020 R.pdf
+│   ├── 📄 Note Chapitre II  MPD 2019.pdf
+│   ├── 📄 Note Chapitre V MDP 2019.pdf
+│   └── 📄 résumés3.pdf
+└── 📁 Tds corrigés /
+    ├── 📄 série broyage.pdf
+    ├── 📄 serie1.pdf
+    ├── 📄 serie2.pdf
+    ├── 📄 serie3.pdf
+    ├── 📄 serie4.pdf
+    └── 📄 serie5.pdf
+
+═════════════════════════════════════
+  Fin du fichier · MPD - Milieux poreux et dispersés
+═════════════════════════════════════

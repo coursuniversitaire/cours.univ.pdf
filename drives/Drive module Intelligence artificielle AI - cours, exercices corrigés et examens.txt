@@ -1,0 +1,357 @@
+📚 MODULE : Intelligence artificielle AI              
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Intelligence artificielle AI.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Intelligence artificielle AI/
+├── 🔗📁 Fondement de l'intelligence Artificielle 2ème année /  (raccourci)
+│   ├── 📁 TP/
+│   │   ├── 📄 initiation à prolog.pdf
+│   │   ├── 📁 tp3/
+│   │   │   ├── 📄 tp3.py
+│   │   │   ├── 📄 dfs.ipynb
+│   │   │   ├── 📄 bfs.ipynb
+│   │   │   ├── 📄 liens.txt
+│   │   │   ├── 📄 a_etoile.py
+│   │   │   ├── 📄 TP3 IA.pdf
+│   │   │   └── 📁 projet final/
+│   │   │       ├── 📄 rapport.docx
+│   │   │       └── 📄 taquin.ipynb
+│   │   ├── 📁 tp2/
+│   │   │   ├── 📄 c22.pl
+│   │   │   ├── 📄 ZangarMalak-L2CS2.pdf
+│   │   │   ├── 📄 ZangarMalak-L2CS2.docx
+│   │   │   ├── 📄 c23.pl
+│   │   │   ├── 📄 c21.pl
+│   │   │   └── 📄 TP2 IA.docx.pdf
+│   │   └── 📁 tp1/
+│   │       ├── 📄 ZangarMalak-L2CS2.pdf
+│   │       ├── 📄 ZangarMalak-L2CS2.docx
+│   │       ├── 📄 arbre.pl
+│   │       ├── 📄 arbre.pl
+│   │       ├── 📄 likes.pl
+│   │       ├── 📄 likes.pl
+│   │       └── 📄 TP1 IA.pdf
+│   ├── 📁 ancien/
+│   │   ├── 📁 cours/
+│   │   │   ├── 📄 IA-Chap-5-2010 2011.pdf
+│   │   │   ├── 📄 chap4.pdf
+│   │   │   ├── 📄 chap3.pdf
+│   │   │   ├── 📄 chap2.pdf
+│   │   │   ├── 📄 chap2.pdf
+│   │   │   ├── 📄 chap1.pdf
+│   │   │   └── 📄 chap1.pdf
+│   │   ├── 📁 TP/
+│   │   │   ├── 📁 tp4/
+│   │   │   │   ├── 📄 ex1.pl
+│   │   │   │   ├── 📄 ex2.pl
+│   │   │   │   └── 📄 TP4.pdf
+│   │   │   ├── 📁 tp3/
+│   │   │   │   ├── 📄 ex1.txt
+│   │   │   │   ├── 📄 ex2.pl
+│   │   │   │   └── 📄 TP3.pdf
+│   │   │   └── 📁 tp2/
+│   │   │       ├── 📄 ex3.pl
+│   │   │       ├── 📄 ex1.pl
+│   │   │       └── 📄 TP2.pdf
+│   │   └── 📁 TD/
+│   │       ├── 📄 TD2 moteur d'inference.jpg
+│   │       ├── 📄 TD2 moteur d'inference.jpg
+│   │       ├── 📄 Représentation des connaissances.jpg
+│   │       ├── 📄 Représentation des connaissances.jpg
+│   │       ├── 📄 IA- TD3 Systeme expert.pdf
+│   │       └── 📄 IA- TD3 Systeme expert.pdf
+│   └── 📁 cours/
+│       ├── 📄 exercices de révision.pdf
+│       ├── 📄 exercices de révision.pdf
+│       ├── 📄 Sysyème Expert Memo.pdf
+│       ├── 📄 Sysyème Expert Memo.pdf
+│       ├── 📄 Fondement IA 2021 cours2 SE.pdf
+│       ├── 📁 chap1/
+│       │   ├── 📄 Fondement IA 2021 cours1 partie2 Historique.pdf
+│       │   └── 📄 Fondement IA 2021 cours1 partie2 Historique.pdf
+│       └── 📁 chap4 jeux/
+│           ├── 📄 exercice MINIMAX 6mai2021.pdf
+│           ├── 📄 MiniMax et AlphaBeta Etape par Etape.pdf
+│           └── 📄 MiniMax et AlphaBeta Etape par Etape.pdf
+├── 🔗📁 IA L3 SI/  (raccourci)
+│   ├── 📁 COURS/
+│   │   ├── 📄 Chap3_Résolution de Problèmes_L3-SI.pdf
+│   │   ├── 📄 Chap2_Représentation Connaissances_Réseaux_Sémantiques_IA--L3-SI.pdf
+│   │   ├── 📄 Chap1_partie1_Représentation des Connaissances_2-Logique Propositionnelle_IA--L3-SI.pdf
+│   │   ├── 📄 Chap4_Programmation Logique et Système Expert_L3-SI.pdf
+│   │   ├── 📄 .DS_Store
+│   │   └── 📄 Chap1_partie2_Représentation des Connaissances_3-Logique du Premier Ordre_IA--L3-SI.pdf
+│   └── 📁 TD/
+│       ├── 📄 SOL_TD_IA_KHOULOUD.pdf
+│       ├── 📄 TD-Représentation_Logique_des_Connaissances- IA-L3-SI.pdf
+│       ├── 📄 TD-Prolog et Syst Expert- IA-L3-SI.pdf
+│       ├── 📄 TD- Résolution de Problèmes - IA - L3 - SI.pdf
+│       ├── 📄 TD-Représentation_Graphique_des_Connaissances- IA-L3-SI.pdf
+│       ├── 📁 SOLUTION TD RÉSEAUX SÉMANTIQUES IA/
+│       │   ├── 📄 TD-Représentation_Graphique_des_Connaissances- IA-L3-SI.pdf
+│       │   ├── 📄 page_4.jpg
+│       │   ├── 📄 page_3.jpg
+│       │   ├── 📄 page_2.jpg
+│       │   ├── 📄 page_5.jpg
+│       │   └── 📄 page_1.jpg
+│       └── 📁 SOLUTION TD PROLOG SYSTÈME EXPERT IA/
+│           ├── 📄 page_3.jpg
+│           ├── 📄 page_4.jpg
+│           ├── 📄 page_2.jpg
+│           └── 📄 page_1.jpg
+├── 🔗📁 ia/  (raccourci)
+│   ├── 📄 Cours 4 (1).pptx
+│   ├── 📄 TP_IA.rar
+│   ├── 📄 Apprentissage supervisé (2).pptx
+│   ├── 📄 Apprentissage non supervisé.pptx
+│   ├── 📄 Cours Intro_Intelligence Artificielle.pptx
+│   ├── 📄 Cours Intelligence Artificielle.pptx
+│   ├── 📁 examen/
+│   │   ├── 📄 4_1.jpg
+│   │   ├── 📄 4.jpg
+│   │   ├── 📄 3.jpg
+│   │   ├── 📄 2.jpg
+│   │   └── 📄 1.jpg
+│   ├── 📁 exm_ia/
+│   │   ├── 📄 164629446_901794640618858_1323314423817412318_n.jpg
+│   │   ├── 📄 164538801_182221736874680_3774718754473336277_n.jpg
+│   │   ├── 📄 164480283_1223701078085527_6714542545242421553_n.jpg
+│   │   └── 📄 165072682_266267161778202_7994954611088823287_n.jpg
+│   ├── 📁 TD App. non sup/
+│   │   ├── 📄 Série1_app_ non supervisé_ K-means_CHA.pdf
+│   │   ├── 📄 Série 3 app. non super. K-means.pdf
+│   │   ├── 📄 Série 3_app_non_sup_k-means.ipynb
+│   │   ├── 📄 Serie 1 apprentissage non supervisé.ipynb
+│   │   └── 📄 EastWestAirlinesCluster.xlsx
+│   ├── 📁 TD App. sup/
+│   │   ├── 📄 Série 4_knn_regressor_prédicition_des prix_des_maisons.pdf
+│   │   ├── 📄 Série 4 -house-price-knn-regressor.ipynb
+│   │   ├── 📄 Série2_ app_supe_Knn_diabète.ipynb
+│   │   ├── 📄 house-prices-advanced-regression-techniques.zip
+│   │   ├── 📄 Série 2_app_sup_KNN.pdf
+│   │   ├── 📁 .ipynb_checkpoints/
+│   │   │   ├── 📄 house-price-knn-regressorCopy1-checkpoint.ipynb
+│   │   │   └── 📄 Série2_ app_supe_Knn_diabète-checkpoint.ipynb
+│   │   └── 📁 house-prices-advanced-regression-techniques/
+│   │       ├── 📄 train
+│   │       ├── 📄 test.csv
+│   │       ├── 📄 data_description.txt
+│   │       ├── 📄 sample_submission.csv
+│   │       └── 📄 train.csv
+│   └── 📁 TP_IA/
+│       ├── 📄 TP_IA_2021.pdf
+│       ├── 📄 Phase1.csv
+│       ├── 📄 Phase3.csv
+│       └── 📄 Phase2.csv
+├── 🔗📁 AI/  (raccourci)
+│   ├── 📁 TP/
+│   │   ├── 📄 Pandas_serie_2-corrige.ipynb
+│   │   ├── 📄 Serie_dexercices_N1-Corrige.ipynb
+│   │   ├── 📄 Cours_Pandas.ipynb
+│   │   ├── 📄 Cours_1__Python.ipynb
+│   │   └── 📄 guid-instalation.pdf
+│   ├── 📁 EXAMS/
+│   │   └── 📄 correction-IA-selon-chat-gbt.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 Serie_3_app_sup_KNN_classification_diabete.pdf
+│   │   ├── 📄 Serie_2_algorithme_CHA.ipynb
+│   │   ├── 📄 Serie_1_app_non_sup_k-means.ipynb
+│   │   ├── 📄 Serie_2_Algorithme_CHA.pdf
+│   │   ├── 📄 Solution_Serie_3__app_supervise_Knn_classification_diabete.ipynb
+│   │   ├── 📄 Serie_dexercices_N1-Corrige (1).ipynb
+│   │   ├── 📄 UL.pdf
+│   │   ├── 📄 Serie_4_knn_regressor_predicition_des_prix_des_maisons.pdf
+│   │   ├── 📄 Serie_4_-house-price-knn-regressor.ipynb
+│   │   ├── 📄 Serie_dataframe_python.pdf
+│   │   ├── 📄 Serie_1_Algo_non_super_K-means.pdf
+│   │   ├── 📄 Regression_liniaire.ipynb
+│   │   ├── 📄 EastWestAirlinesCluster.xlsx
+│   │   └── 📄 K-means.pdf
+│   └── 📁 COURS/
+│       ├── 📄 Cours_4_RL_24.pptx
+│       ├── 📄 Apprentissage_supervise_1.pptx
+│       ├── 📄 Systemes_experts.pptx
+│       ├── 📄 App_non_supr_DBSCAN.pptx
+│       ├── 📄 Apprentissage_non_supervise.pptx
+│       └── 📄 Cours_Intelligence_Artificielle.pptx
+├── 🔗📁 IA-Introduction à l’intelligence artificielle/  (raccourci)
+│   ├── 📄 Chapitre_04_Les systeme experts.pdf
+│   ├── 📄 Chapitre_02_La logique propositionnelle et la logique des prédicats.pdf
+│   ├── 📄 Chapitre_01_Notions de base sur l IA.pdf
+│   ├── 📄 Chapitre_03_La représentation graphique des connaissances.pdf
+│   └── 📄 SYLLABUS Introduction_ IA Master 1 IATI_S1_2021_2022.pdf
+├── 🔗📁 AI TP/  (raccourci)
+│   ├── 📄 tp online.docx
+│   ├── 📄 TP4 ANN Python.pdf
+│   ├── 📄 TP2_IA_-LSI-ISSAT.pdf
+│   ├── 📄 Tp1 Ex4.pl
+│   ├── 📄 Tp1 Ex4.pl~
+│   ├── 📄 Tp1 Ex2.pl
+│   ├── 📄 Tp1 Ex2.pl~
+│   ├── 📄 TP1 EX1.pl~
+│   ├── 📄 TP1 EX1.pl
+│   ├── 📄 TP1 pre.pl~
+│   ├── 📄 TP1 pre.pl
+│   ├── 📄 TP1_IA_ LSI ISSAT.pdf
+│   ├── 📁 Nouveau dossier/
+│   └── 📁 TP3 IA/
+│       ├── 📄 breast-w.arff
+│       └── 📁 lib/
+│           ├── 📄 .DS_Store
+│           ├── 📄 nblibraries.properties
+│           └── 📁 CopyLibs/
+│               └── 📄 org-netbeans-modules-java-j2seproject-copylibstask.jar
+├── 📄 TP1_IA_ LSI ISSAT.pdf
+├── 📄 TP2_IA_-LSI-ISSAT.pdf
+├── 📄 TP4 ANN Python.pdf
+├── 🔗📁 PL/  (raccourci)
+│   ├── 📁 TP_PROLOG/
+│   │   ├── 📄 TP_PROLOG_SERIE_1_2.pdf
+│   │   ├── 📄 .DS_Store
+│   │   ├── 📁 TP2_SOLUTIONS/
+│   │   │   ├── 📄 exo2.pl
+│   │   │   ├── 📄 exo3.pl
+│   │   │   └── 📄 exo1.pl
+│   │   └── 📁 TP1_SOLUTION/
+│   │       └── 📄 exo1.pl
+│   └── 📁 COURS_PROLOG/
+│       ├── 📄 PROLOG1.pdf
+│       └── 📄 PROLOG.pdf
+├── 📄 resume prolog.txt
+├── 📁 sys Expert/
+│   ├── 📄 example chainage PLAYLIST.txt
+│   ├── 📄 exam.pl
+│   ├── 📄 prolog.txt
+│   ├── 📄 TP 1 - Faits, Règles et Requêtes .pdf
+│   ├── 📄 Chapitre 5 Systèmes Experts et Moteurs d’Inférence.pdf
+│   ├── 📄 TP 4 – Objets composés.pdf
+│   ├── 📄 TP 3 - Les Listes .pdf
+│   ├── 📄 TP 2 - Variables numériques & Récursivité.pdf
+│   ├── 📁 prolog ++/
+│   │   ├── 📄 TP3-4 PROLOG (PROgrammation LOGique)
+│   │   ├── 📄 TP3_4 PROLOG Résolution de problèmes par recherche dans un graphe d’états.pdf
+│   │   ├── 📄 TP3-4 PROLOG (PROgrammation LOGique).pdf
+│   │   ├── 📄 PROgrammation LOGique - Bases de l’Intelligence Artificielle.pdf
+│   │   ├── 📄 TP 1 – Initiation à Prolog.pdf
+│   │   ├── 📄 TD 6 Prolog.pdf
+│   │   ├── 📄 TP5-6 - PROLOG (PROgrammation LOGique).pdf
+│   │   ├── 📄 TP1- PROLOG.pdf
+│   │   ├── 📄 PROLOG & IA - Bases de l’Intelligence Artificielle .pdf
+│   │   ├── 📄 TP2 PROLOG.pdf
+│   │   └── 📁 TP corrigés/
+│   │       ├── 📄 bia2020_tp3_prolog_correction.txt
+│   │       ├── 📄 bia2020_tp4_prolog_correction.txt
+│   │       ├── 📄 bia2020_tp5_prolog_correction.txt
+│   │       ├── 📄 bia2020_tp_revision.txt
+│   │       ├── 📄 genealogie_base_faits.txt
+│   │       ├── 📄 bia2020_tp1_prolog_correction.txt
+│   │       ├── 📄 bia2020_tp2_prolog_correction.txt
+│   │       ├── 📄 TP3 – Prolog & la résolution de problèmes .pdf
+│   │       ├── 📄 TP2 – Prolog & la résolution de problèmes.pdf
+│   │       ├── 📄 TP4 – Prolog & les CSP.pdf
+│   │       ├── 📄 TP-Revision.pdf
+│   │       ├── 📄 TD4 corrigé – Prolog.pdf
+│   │       ├── 📄 TP1 – Prolog.pdf
+│   │       ├── 📄 TP5 – Prolog & la recherche dans un graphe d’états.pdf
+│   │       └── 📄 TD4 – Prolog.pdf
+│   ├── 📁 tp ensaf/
+│   │   ├── 📄 fist.pl~
+│   │   ├── 📄 recursive_fact.pl
+│   │   ├── 📄 recursive_fact.pl~
+│   │   ├── 📄 ScreenShot_20210506071002.png
+│   │   ├── 📄 TP 1 – Initiation à Prolog.pdf
+│   │   ├── 📁 autre/
+│   │   │   ├── 📄 prolog.zip
+│   │   │   ├── 📄 Tp_exo_2_2.pl
+│   │   │   ├── 📄 arbre.pl
+│   │   │   ├── 📄 exo_7.pl
+│   │   │   ├── 📄 exo_9.pl
+│   │   │   ├── 📄 fist.pl
+│   │   │   └── 📄 TP1_11_12.doc
+│   │   ├── 📁 tp4/
+│   │   │   ├── 📄 ex11.pl
+│   │   │   ├── 📄 ex11.pl~
+│   │   │   └── 📄 TP 4 IA_17-18.pdf
+│   │   ├── 📁 tp2/
+│   │   │   ├── 📄 afficherNfois.pl~
+│   │   │   ├── 📄 afficherNfois.pl
+│   │   │   ├── 📄 decrementer.pl
+│   │   │   ├── 📄 decrementer.pl~
+│   │   │   ├── 📄 eq2deg.pl
+│   │   │   ├── 📄 eq2deg.pl~
+│   │   │   ├── 📄 tp2_ex1.pl~
+│   │   │   ├── 📄 tp2_ex1.pl
+│   │   │   ├── 📄 TP 2 .pdf
+│   │   │   └── 📄 2013-14.TP.tp2.prolog.sujet.ia.pdf
+│   │   ├── 📁 tp3/
+│   │   │   ├── 📄 tp3_liste.pl
+│   │   │   ├── 📄 tp3_liste.pl~
+│   │   │   ├── 📄 lists.pl~
+│   │   │   ├── 📄 lists.pl
+│   │   │   └── 📄 TP 3 .pdf
+│   │   └── 📁 tp1/
+│   │       ├── 📄 tp1_ex1.pl~
+│   │       ├── 📄 tp1_ex1.pl
+│   │       └── 📄 TP 1 .pdf
+│   └── 📁 projet avec solution/
+│       ├── 📄 projet intelligence artificielle.pdf
+│       ├── 📁 code/
+│       │   ├── 📄 Exercice 1.pl
+│       │   ├── 📄 Exercice 2.pl
+│       │   ├── 📄 Exercice 4.pl
+│       │   ├── 📄 Exercice 5.pl
+│       │   └── 📄 Exercice 3.pl
+│       └── 📁 explications/
+│           ├── 📄 2013-14.projet.projet1.groupe1.explications.exercice1.ia.txt
+│           ├── 📄 2013-14.projet.projet1.groupe1.explications.exercice4.ia.txt
+│           ├── 📄 2013-14.projet.projet1.groupe1.explications.exercice5.ia.txt
+│           ├── 📄 2013-14.projet.projet1.groupe1.explications.exercice2.ia.txt
+│           └── 📄 2013-14.projet.projet1.groupe1.explications.exercice3.ia.txt
+└── 📁 Représentation de la connaissance/
+    ├── 📁 Ensaf/
+    │   ├── 📄 corr ex EXM.png
+    │   ├── 📄 resumé.txt
+    │   ├── 📄 Représentation de la connaissance Intelligence Artificielle.pdf
+    │   ├── 📄 Examen 1 Final en Représentation de la connaissance.pdf
+    │   ├── 📄 Travaux Dirigés 3 – Les formes clausales.pdf
+    │   ├── 📄 Examen 2 Final en Représentation de la connaissance.pdf
+    │   ├── 📄 Examen 3 Final en Représentation de la connaissance.pdf
+    │   ├── 📄 Travaux Dirigés 1 – La Logique des Propositions.pdf
+    │   └── 📄 Travaux Dirigés 2 – La Logique des Prédicats de Premier Ordre.pdf
+    ├── 📁 Exercices/
+    │   ├── 📄 TD3 systèmes formels et logiques.pdf
+    │   ├── 📄 TP6 – Système à base de règles en Prolog.pdf
+    │   ├── 📄 TD 2 Représentation et résolution de problème (2).pdf
+    │   ├── 📄 TD 1 Représentation et résolution de problème (1).pdf
+    │   ├── 📄 TD2 avec Correction  – Graphe de décomposition et CSP.pdf
+    │   ├── 📄 Exercices de révision avec correction - Logique des prédicat.pdf
+    │   ├── 📄 TD 5  Prolog.pdf
+    │   ├── 📄 TD 6 AGENTS LOGIQUES - Intelligence Artificielle.pdf
+    │   ├── 📄 TD4 - IA et Logique.pdf
+    │   ├── 📄 TD3 avec Correction  – Logique.pdf
+    │   ├── 📄 Exercices corrigés Logique des prédicat.pdf
+    │   ├── 📄 Exercices Logique des prédicat-4.pdf
+    │   ├── 📄 TD1 avec Correction  – Résolution de problèmes à l’aide de graphes d’états.pdf
+    │   └── 📄 TD5 avec Correction  – Prolog AI.pdf
+    ├── 📁 Cours/
+    │   ├── 📄 chapitre4 Les ontologies - prolog AI.pdf
+    │   ├── 📄 chapitre1 Prolog introduction.pdf
+    │   ├── 📄 chapitre2 Introduction à l’Intelligence Artificielle prolog AI.pdf
+    │   └── 📄 chapitre3 Résolution de problèmes en IA.pdf
+    └── 📁 Examens/
+        └── 📄 Examen Intelligence Artificielle 2019-CCF-Session1-correction.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Intelligence artificielle AI
+═════════════════════════════════════

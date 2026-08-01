@@ -1,0 +1,302 @@
+📚 MODULE : Génie logiciel                            
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Génie logiciel.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Génie logiciel/
+├── 🔗📁 S6 FPO SMI GENIE LOGICIEL/  (raccourci)
+│   ├── 📄 2022 SABOR.PNG
+│   ├── 📄 SMIS6_Genie_Logiciel_examen2017.pdf
+│   ├── 📄 td2-2020_Solutions.pdf
+│   ├── 📄 td1-2020-Solutions.pdf
+│   ├── 📄 SMI-S6-GL_ Série 2 des exercices.pdf
+│   ├── 📄 SMI-S6-GL_ Série 1 des exercies.pdf
+│   ├── 📄 Chapitre 2  Cycle de vie d’un logiciel.pdf
+│   ├── 📄 Chapitre 1  Introduction.pdf
+│   ├── 📄 Chapitre 3  Gestion de projet logiciel.pdf
+│   ├── 📄 Chapitre 4  Planification d’un projet logiciel.pdf
+│   ├── 📄 Chapitre 5  Spécification des besoins.pdf
+│   ├── 📄 Chapitre 6  Conception.pdf
+│   ├── 📄 Chapitre 7  Implémentation (Organisation du code).pdf
+│   ├── 📄 functionPoints.pdf
+│   ├── 📄 tp_cas_etude.pdf
+│   ├── 📄 SMIS6_Genie_Logiciel_corrigé_examen2017.pdf
+│   ├── 📄 SMIS6_Genie_Logiciel_examen2018.pdf
+│   ├── 📄 SMIS6_Genie_Logiciel_examen2018_corrigé.pdf
+│   ├── 📄 SMIS6_Genie_Logiciel_examen2019.pdf
+│   └── 📄 SMIS6_Genie_Logiciel_corrigé_examen2019.pdf
+└── 🔗📁 Génie logiciel/  (raccourci)
+    ├── 📄 Drive module UML - cours, exercices corrigés et examens.txt
+    ├── 🔗📁 UML/  (raccourci)
+    │   ├── 📄 UML 2019_2020 GL.docx
+    │   ├── 📄 AMINA ASKLOU DEVOIR  1.2.3 UML (1).pdf
+    │   ├── 📄 Devoir UML.docx
+    │   ├── 📄 Examen-A distance-UML-12-09-2020.pdf
+    │   ├── 📄 EXAMENS UML(2).pdf
+    │   ├── 📄 [2] UML-ClasseD_ObjetD.pptx
+    │   ├── 📄 [1] UML -Introduction.pptx
+    │   ├── 📄 TapScanner 31-12-2020-13.00.pdf
+    │   ├── 📄 JAKIMI UML deuxième scéance.pdf
+    │   ├── 📄 DevoirN°1-UML_COO.pdf
+    │   ├── 📄 Exercice UML (système de livraison express à domicile).pdf
+    │   ├── 📄 Exercice UML _ Etude de Cas recherche en viticulture.pdf
+    │   ├── 📄 Exercice UML diagramme de séquence et des cas d'utilisation.pdf
+    │   ├── 📄 Exercice UML _ Use Case.pdf
+    │   ├── 📄 Exercice UML modéliser les vues statiques et dynamiques d'un système.pdf
+    │   ├── 📄 uml-corr01.pdf
+    │   ├── 📄 uml-corr04.pdf
+    │   ├── 📄 JAKIMI Cours UML.pdf
+    │   ├── 📄 coursUML7-Diagramme d'etat-Transition-1.pdf
+    │   ├── 📄 DOC-20200115-WA0014.pdf
+    │   ├── 📄 UML 2019_2020 GL.pdf
+    │   ├── 📄 84723902-UML-Conception.pdf
+    │   ├── 📄 uml-corr02.pdf
+    │   ├── 📄 DOC-20200115-WA0015.pdf
+    │   ├── 📄 UML.pdf
+    │   ├── 📄 3-UML.pdf
+    │   ├── 📄 TD1.pdf
+    │   ├── 📄 Cours_UML_Yassine_Rhazali.pdf
+    │   ├── 📄 Cours_DOTNET_Yassine_Rhazali.pdf
+    │   ├── 📄 F006111.pdf
+    │   ├── 📄 exame UML 2015-2016.pdf
+    │   ├── 📄 DiagrammeDeClasses.pdf
+    │   ├── 📄 coursUML2 UseCaseDiagramm.pdf
+    │   ├── 📄 coursUML3 Diagramme de classes.pdf
+    │   ├── 📄 coursUML4-Diagramme d_objet.pdf
+    │   ├── 📄 0736-uml-diagrammes-de-sequence-en-conception.pdf
+    │   ├── 📄 0738-uml-etats-transition.pdf
+    │   ├── 📄 UML consep.pdf
+    │   ├── 📄 les diagramme en ligne.pdf
+    │   ├── 📄 EXAMENS UML.pdf
+    │   ├── 📄 Exercices-UML-corrige.pdf
+    │   ├── 📄 uml-corr06.pdf
+    │   ├── 📄 CorrectionEtudedecas-Exam-2010-2011.pdf
+    │   ├── 📄 UML2_par_la_pratique.pdf
+    │   ├── 📄 série 1 UML.pdf
+    │   ├── 📄 série 3 UML.pdf
+    │   ├── 📄 série 2 UML.pdf
+    │   ├── 📄 Chapitre 2 - Diagramme  de Classe.pdf
+    │   ├── 📄 Chapitre 2.5 - Traduction du diagramme de classe vers Java.pdf
+    │   ├── 📄 TD5-Collaboration.pdf
+    │   ├── 📄 TD5-Collabo-Corrigé.pdf
+    │   ├── 📄 Chapitre 4 - Diagrammes d’interaction.pdf
+    │   ├── 📄 Chapitre 3 - Diagrammes  d’objets.pdf
+    │   ├── 📄 qsd.PNG
+    │   ├── 📄 Chapitre 5 - Diagramme d’états-transitions.pdf
+    │   ├── 📄 CH1-Intro et Diagramme de Cas d’utilisation.pdf
+    │   ├── 📄 TD4_Diag_Objet.docx
+    │   ├── 📄 TD3.docx
+    │   ├── 📄 TD2_DClasse.docx
+    │   └── 📄 TD1.docx
+    ├── 🔗📁 GÉNIE LOGICIEL1/  (raccourci)
+    │   ├── 📄 UML2 pour la pratique.pdf
+    │   ├── 📁 TD/
+    │   │   ├── 📄 SÉRIES_TD_GL.pdf
+    │   │   ├── 📄 serie_supp_gl_sans_corrigé.pdf
+    │   │   ├── 📄 Corrigé_TD_GL.pdf
+    │   │   └── 📄 Corrigé Exercice 3 de la série TD 5.pdf
+    │   ├── 📁 RÉSUMÉS/
+    │   │   ├── 📄 UML - Résumé.pdf
+    │   │   └── 📄 Résumé GL.pdf
+    │   ├── 📁 TESTS & EXAMENS/
+    │   │   ├── 📄 Sujet_Test_TD_GL.pdf
+    │   │   ├── 📄 Corrigé_type_du_test.pdf
+    │   │   └── 📄 Examen_GL_2017_Corrigé.pdf
+    │   └── 📁 COURS/
+    │       ├── 📄 COURS_GL_TAIBOUNI.pdf
+    │       └── 📄 COURS_GL_BENGHALIA.pdf.zip
+    ├── 🔗📁 UML/  (raccourci)
+    │   └── ⚠️  [Référence circulaire ignorée]
+    ├── 🔗📁 ++ SMI5 CONCEPTION ORIENTEE OBJETS UML SABORPCMATH.COM/  (raccourci)
+    │   ├── 📄 °TD CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM FES 22 23.pdf
+    │   ├── 📄 °COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM FES 22 23.pdf
+    │   ├── 📄 °TD CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM CASABLANCA 20 21.pdf
+    │   ├── 📄 UML_2_Pratique_de_la_mod__lisation_-_2__me_Edition.pdf
+    │   ├── 📄 +TP CONCEPTION ORIENTEE OBJETS UML LBD FSR RABAT.pdf
+    │   ├── 📄 +TP CONCEPTION ORIENTEE OBJETS UML LBD FSR RABAT 15 16.pdf
+    │   ├── 📄 +TD TP CONCEPTION ORIENTEE OBJETS UML SMI5 FPO OUARZAZATE.pdf
+    │   ├── 📄 +TD TP CONCEPTION ORIENTEE OBJETS UML LBD FSM MEKNES 20 21.pdf
+    │   ├── 📄 +TD TP CONCEPTION ORIENTEE OBJETS UML LBD FSJ ELJADIDA.pdf
+    │   ├── 📄 +TD TP CONCEPTION ORIENTEE OBJETS UML ENSAJ FSJ ELJADIDA.pdf
+    │   ├── 📄 +TD CONCEPTION ORIENTEE OBJETS UML SMI5 FST TETOUAN 2020.pdf
+    │   ├── 📄 +TD CONCEPTION ORIENTEE OBJETS UML SMI5 FST TETOUAN 2016.pdf
+    │   ├── 📄 +TD CONCEPTION ORIENTEE OBJETS UML SMI5 FST TETOUAN 2015.pdf
+    │   ├── 📄 +TD CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM CASABLANCA 20 21.pdf
+    │   ├── 📄 +TD CONCEPTION ORIENTEE OBJETS UML LBD FSR RABAT 19 20.pdf
+    │   ├── 📄 +TD CONCEPTION ORIENTEE OBJETS UML LBD FSR RABAT 16 17.pdf
+    │   ├── 📄 +TD CONCEPTION ORIENTEE OBJETS UML LBD FSR RABAT 15 16.pdf
+    │   ├── 📄 +EXAMENS UML et Genie Logiciel SMI5 FSJ ELJADIDA.pdf
+    │   ├── 📄 +EXAMENS CONCEPTION ORIENTEE OBJETS UML SMI5 FSAC CASABLANCA.pdf
+    │   ├── 📄 +EXAMENS CONCEPTION ORIENTEE OBJETS UML SMI5 FPO OUARZAZATE.pdf
+    │   ├── 📄 +EXAMENS CONCEPTION ORIENTEE OBJETS UML LBD FSR RABAT.pdf
+    │   ├── 📄 +COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FST TETOUAN 2021.pdf
+    │   ├── 📄 +COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FST TETOUAN 2017.pdf
+    │   ├── 📄 +COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FST TETOUAN 2015.pdf
+    │   ├── 📄 +COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FST TETOUAN 21 22.pdf
+    │   ├── 📄 +COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FSDM FES 20 21.pdf
+    │   ├── 📄 +COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM CASABLANCA 20 21 V2.pdf
+    │   ├── 📄 +COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM CASABLANCA 20 21 V1.pdf
+    │   ├── 📄 +COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FSAC CASABLANCA.pdf
+    │   ├── 📄 +COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FPK KHOURIBGA.pdf
+    │   ├── 📄 °COURS CONCEPTION ORIENTEE OBJETS UML LBD FSR RABAT.pdf
+    │   └── 📄 °TD CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM FES 20 21.pdf
+    ├── 📁 Autre/
+    │   ├── 📄 TD5-Collaboration.pdf
+    │   ├── 📄 UML consep.pdf
+    │   ├── 📄 uml-corr01.pdf
+    │   ├── 📄 uml-corr02.pdf
+    │   ├── 📄 uml-corr04.pdf
+    │   ├── 📄 uml-corr06.pdf
+    │   ├── 📄 UML.pdf
+    │   ├── 📄 Devoir UML.docx
+    │   ├── 📄 DevoirN°1-UML_COO.pdf
+    │   ├── 📄 DOC-20200115-WA0014.pdf
+    │   ├── 📄 DOC-20200115-WA0015.pdf
+    │   ├── 📄 exame UML 2015-2016.pdf
+    │   ├── 📄 Examen-A distance-UML-12-09-2020.pdf
+    │   ├── 📄 EXAMENS UML.pdf
+    │   ├── 📄 EXAMENS UML(2).pdf
+    │   ├── 📄 Exercice UML _ Etude de Cas recherche en viticulture.pdf
+    │   ├── 📄 Exercice UML _ Use Case.pdf
+    │   ├── 📄 Exercice UML (système de livraison express à domicile).pdf
+    │   ├── 📄 Exercice UML diagramme de séquence et des cas d'utilisation.pdf
+    │   ├── 📄 Exercice UML modéliser les vues statiques et dynamiques d'un système.pdf
+    │   ├── 📄 Exercices-UML-corrige.pdf
+    │   ├── 📄 série 1 UML.pdf
+    │   ├── 📄 série 2 UML.pdf
+    │   ├── 📄 série 3 UML.pdf
+    │   ├── 📄 TD1.docx
+    │   ├── 📄 TD1.pdf
+    │   ├── 📄 TD2_DClasse.docx
+    │   ├── 📄 TD3.docx
+    │   ├── 📄 TD4_Diag_Objet.docx
+    │   └── 📄 TD5-Collabo-Corrigé.pdf
+    ├── 📁 UML/
+    │   ├── 📄 Série exercices uml N1 :Les cas d’utilisation
+    │   └── 📄 TD exercices uml CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM FES 20 21.pdf
+    ├── 📁 Exercices et TDs corrigés/
+    │   ├── 📄 °TD CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM FES 22 23.pdf
+    │   ├── 📄 °TD CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM FES 20 21.pdf
+    │   ├── 📄 UML td 4 + corrigé.rar
+    │   ├── 📄 TD.doc
+    │   ├── 📄 TD2.doc
+    │   ├── 📄 TD3.doc
+    │   ├── 📄 TD4.doc
+    │   ├── 📄 TD5.doc
+    │   ├── 📄 TD7.docx
+    │   ├── 📄 temp
+    │   ├── 📄 Analyse et conception d'un système de gestion de banque-UML
+    │   ├── 📄 master 2 TD TD6 Diagramme Etats Transitions-UML
+    │   ├── 📄 TD Introduction à la modélisation objet-UML
+    │   ├── 📄 Etude de cas UML
+    │   ├── 📄 Exercices UML placement des informations
+    │   ├── 📄 Exercices sur les diagrammes de cas d'utilisation.pdf-UML
+    │   ├── 📄 UML Exercices de base
+    │   ├── 📄 Diagramme de séquence GAB-UML
+    │   ├── 📄 Diagrammes de Communication et de Déploiement Exercices-UML
+    │   ├── 📄 Exercices sur les états et les interactions d'un téléphone.pdf-UML
+    │   ├── 📄 Analyse du projet Mini Projet Genie Logiciel.pdf-UML
+    │   ├── 📄 Diagramme etat transition MCOChapitre5-UML
+    │   ├── 📄 genie logiciel introduction modele de cycle de vie-UML
+    │   ├── 📄 Diagramme de classes exercices et corrections MCOOChapitre3 L2ARS SIL 2011 2012.pdf-UML
+    │   ├── 📄 genie logiciel examen qcm-UML
+    │   ├── 📄 Diagramme de cas d'utilisation-UML
+    │   ├── 📄 Diagramme des cas d utilisation exercices et correction TD MCOO chapitre 2-UML
+    │   ├── 📄 Diagramme d etats transitions et activites.pdf-UML
+    │   ├── 📄 TD Genie logiciel-UML
+    │   ├── 📄 serie exercices 4 diagrammes de sequence-UML
+    │   ├── 📄 Diagramme de classes et objets-UML
+    │   ├── 📄 TD Diagramme de cas d'utilisation et diagramme de séquences-UML
+    │   ├── 📄 uml cours et exercices
+    │   ├── 📄 Methodes de conception objet TD.pdf-UML
+    │   ├── 📄 genie logiciel 1 examen 2018 2019-UML
+    │   ├── 📄 TD UML page 1
+    │   ├── 📄 TD Genie Logiciel Questions-UML
+    │   ├── 📄 TD Modélisation UML Diagramme de classes
+    │   ├── 📄 genie logiciel serie 1 TD N01.pdf-UML
+    │   ├── 📄 SystemeGestionBibliotheque_consignes-UML
+    │   ├── 📄 TD UML avec etude de cas
+    │   ├── 📄 Diagramme des cas d utilisation MCOChapitre2-UML
+    │   ├── 📄 Diagramme des cas d'utilisation exercices MCOO chapitre 2 L2ARS SIL 2011 2012.pdf-UML
+    │   ├── 📄 TD Genie logiciel-UML
+    │   ├── 📄 Methodes de conception OO TD 1 énoncés.pdf-UML
+    │   ├── 📄 EXERCICES UML  PLACEMENT DES INFORMATIONS.pdf
+    │   ├── 📄 etape 1 reservation de train-UML
+    │   ├── 📄 Diagramme de cas d'utilisation-UML
+    │   ├── 📄 serie d exercices n3 diagramme de classes-UML
+    │   ├── 📄 Analyse et conception d'une application de gestion des Rapports Quotidiens de Vol-UML
+    │   ├── 📄 Exercices MERISE ENITA de Bordeaux-UML
+    │   ├── 📄 Exercices UML placement des informations
+    │   ├── 📄 TD Modélisation UML Diagramme d'états-transitions énoncé
+    │   ├── 📄 serie exercices genie logiciel uml cas d'utilisation
+    │   └── 📄 Diagramme de classes exercices MCOChapitre3 L2ARS 2011 2012-UML
+    ├── 📁 Examens/
+    │   ├── 📄 UML exam 2019_2020_1.jpg
+    │   ├── 📄 UML exam 2019_2020_2.jpg
+    │   ├── 📄 UML exam 2019_2020_3.jpg
+    │   ├── 📄 UML exam 2019_2020_4.jpg
+    │   ├── 📄 UML exam + corrigé 2013.rar
+    │   ├── 📄 uml EMD+Correction.rar
+    │   ├── 📄 examen mi-semestre info projet-UML
+    │   ├── 📄 examen genie logiciel L3 2010 2011.pdf-UML
+    │   ├── 📄 énoncé examen java uml
+    │   ├── 📄 examen methodes conception objet-UML
+    │   ├── 📄 examen methodes conception objet-UML
+    │   └── 📄 Devoir de session principale L2 ARSIL-UML
+    ├── 📁 Cours/
+    │   ├── 📄 Cours_UML_Partie3.docx
+    │   ├── 📄 conception realisation bases de donnees uml vers sql.pdf
+    │   ├── 📄 Cours Diagramme de communication et diagramme de séquence-UML
+    │   ├── 📄 Cours UML Diagrammes de composants et de déploiement
+    │   ├── 📄 Chapitre 1 Introduction Genie Logiciel-UML
+    │   ├── 📄 Cours Analyse et Conception Orientée Objet ISTA Hay Ryad 2011 2012-UML
+    │   ├── 📄 Diagramme de Classes TD Analyse UML
+    │   ├── 📄 Cours UML Diagramme de cas d'utilisation
+    │   ├── 📄 Diagramme objets TD-UML
+    │   ├── 📄 Diagramme objets statique ENSA Fès-UML
+    │   ├── 📄 Cours UML
+    │   ├── 📄 Cours Introduction au génie logiciel-UML
+    │   ├── 📄 Cours UML M1 2012 2013
+    │   ├── 📄 Présentation cours Mohammad NÉMICHE-UML
+    │   ├── 📄 Cours UML Les cas d'utilisation
+    │   ├── 📄 Diagramme d'états et transitions-UML
+    │   ├── 📄 Cours Diagramme de séquence - UML
+    │   ├── 📄 Chapitre 6 - D'UML vers C++
+    │   ├── 📄 Cours UML Introduction
+    │   ├── 📄 Cours UML Diagramme de cas d'utilisation
+    │   ├── 📄 Cours de modelisation et conception UML
+    │   ├── 📄 Cours UML Diagramme de séquence
+    │   ├── 📄 Cours Diagrammes de cas d'utilisation-UML
+    │   ├── 📄 Cours Analyse et Conception Orientée Objet ISTA Hay Ryad 2011 2012-UML
+    │   ├── 📄 Cours langage de modélisation UML partie 2
+    │   ├── 📄 Cours UML Diagrammes d'interaction
+    │   ├── 📄 Cours_UML_Partie3.pdf
+    │   ├── 📄 Chp3-DC.pdf
+    │   ├── 📄 Cours Introduction UML
+    │   ├── 📄 conception systemes uml cours
+    │   ├── 📄 Chapitre 2 Analyse et Définition des Besoins.pdf-UML
+    │   ├── 📄 Cours UML Introduction historique
+    │   └── 📄 Cours UML L2 SIL ARS 2010 2011
+    └── 📁 UML++ TP TD crs/
+        └── 📁 academiPro/
+            ├── 📄 2014_12_30_td_12.rar
+            ├── 📄 2014_12_30_td_11.rar
+            ├── 📄 2014_12_30_td_10.rar
+            ├── 📄 2014_12_30_td_9.rar
+            ├── 📄 2013_03_05_EXAMEN2010.docx
+            ├── 📄 2013_03_05_ds2010.docx
+            └── 📄 2013_03_05_ds2010 (1).docx
+
+═════════════════════════════════════
+  Fin du fichier · Génie logiciel
+═════════════════════════════════════

@@ -1,0 +1,56 @@
+📚 MODULE : méta-heuristiques et les algorithmes évolutionnaires
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module méta-heuristiques et les algorithmes évolutionnaires.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 méta-heuristiques et les algorithmes évolutionnaires/
+├── 📄 Méta-heuristiques et algorithmes évolutionnaires-20260608T190213Z-3-001.zip
+├── 🔗📁 Méta-heuristiques et algorithmes évolutionnaires/  (raccourci)
+│   ├── 📄 Exercices de révision.pdf
+│   ├── 📁 TP/
+│   │   ├── 📄 Projet Métaheuristiques Partie 1.pdf
+│   │   ├── 📄 TP Méta - Techniques de résolution en IA.pdf
+│   │   ├── 📄 n-puzzle.pdf
+│   │   └── 📄 projet-SIntelligence 2022.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 TD 4 - Corrigé BSO.pdf
+│   │   ├── 📄 TD 4 - BSO.pdf
+│   │   ├── 📄 TD 3 - Corrigé PSO.pdf
+│   │   ├── 📄 TD 3 - PSO.pdf
+│   │   ├── 📄 TD 2 - Corrigé GA.pdf
+│   │   ├── 📄 TD 2 - Genetic Algorithms.pdf
+│   │   ├── 📄 TD 1 - Corrigé Heuristiques.pdf
+│   │   └── 📄 TD 1 - Heuristiques et Métaheuristiques.pdf
+│   └── 📁 Cours/
+│       ├── 📄 Chapter 4. BSO.pdf
+│       ├── 📄 Chapter 3. PSO.pdf
+│       ├── 📄 Chapter 2. GA.pdf
+│       └── 📄 Chapter 1. SI-EA.pdf
+├── 🔗📁 Métaheuristiques/  (raccourci)
+│   ├── 📁 Test/
+│   │   └── 📄 40162390_1951536285145413_516506247256604672_n.jpg
+│   ├── 📁 EMD+corrigé/
+│   │   ├── 📄 40160011_2133643786891095_1876379269257494528_n.jpg
+│   │   ├── 📄 34659999_476233829474952_1543927901236232192_n.jpg
+│   │   ├── 📄 34558760_476223336142668_5682526484644757504_n.jpg
+│   │   ├── 📄 34482015_476223392809329_8864343119148089344_n.jpg
+│   │   ├── 📄 34532231_476233796141622_2705681748389265408_n.jpg
+│   │   └── 📄 34439609_476225639475771_3881896235031855104_n.jpg
+│   └── 📁 Projet/
+│       ├── 📄 projet-intelligence-en-essaim-2018.pdf
+│       └── 📄 Lien_Projet_Bourahla Yasser & Benhadded Wissem.txt
+└── 🔗📁 Métaheuristiques  (raccourci)
+
+═════════════════════════════════════
+  Fin du fichier · méta-heuristiques et les algorithmes évolutionnaires
+═════════════════════════════════════

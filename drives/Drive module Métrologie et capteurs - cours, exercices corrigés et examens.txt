@@ -1,0 +1,34 @@
+📚 MODULE : Métrologie et capteurs                    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Métrologie et capteurs.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Métrologie et capteurs/
+└── 🔗📁 France/  (raccourci)
+    ├── 📁 Cour/
+    │   ├── 📄 Chapitre 4 Partie 2.pdf
+    │   ├── 📄 Chapitre 4 Partie 1 (1).pdf
+    │   ├── 📄 Chapitre 3.pdf
+    │   ├── 📄 Chapitre 2 (1).pdf
+    │   ├── 📄 Chapitre 1 Parties de 11 à 13 (1).pdf
+    │   ├── 📄 Chapitre 1 Parties de 7 à 10 (1).pdf
+    │   └── 📄 Chapitre 1 Parties de 1 à 6 (2).pdf
+    └── 📁 TD/
+        ├── 📄 TD7 Corrigé.pdf
+        ├── 📄 TD6 Corrigé (1).pdf
+        ├── 📄 TD5 Corrigé (1).pdf
+        └── 📄 TD4 Corrigé (1).pdf
+
+═════════════════════════════════════
+  Fin du fichier · Métrologie et capteurs
+═════════════════════════════════════
