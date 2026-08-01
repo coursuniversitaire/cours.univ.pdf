@@ -1,0 +1,87 @@
+📚 MODULE : RCI Réseaux et communications industriels 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module RCI Réseaux et communications industriels.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 RCI Réseaux et communications industriels/
+├── 📁 RCI/
+│   ├── 📄 Trames.pdf
+│   ├── 📄 IP.pdf
+│   ├── 📄 OSI.pdf
+│   ├── 📄 ARS3_cm_modbus.pdf
+│   ├── 📄 TD3_codage et CRC_20_rev.pdf
+│   ├── 📄 TD2_norme RS232_20_rev.pdf
+│   ├── 📄 Chp1_Complément_20.pdf
+│   ├── 📄 D-shhet_XTR117.pdf
+│   ├── 📄 D-sheet_XTR105AP.pdf
+│   ├── 📄 Boucle_de_courant_20_rev.pdf
+│   ├── 📄 bus de terrain eleve13.pdf
+│   ├── 📄 Rattrapage_RCI_ 2020_COR.pdf
+│   ├── 📄 Exam_RCI_ 2020.pdf
+│   ├── 📄 Programme_RCI_20.docx
+│   ├── 📄 Projet 1 MI_2021.pdf
+│   ├── 📄 Modèle_liste-binôme.jpg
+│   ├── 📄 0001.jpg
+│   ├── 📄 feuille de route_RCI_21.pdf
+│   ├── 📄 Modèle_liste-binôme.docx
+│   ├── 📁 SOL TD/
+│   │   ├── 📄 TD2_norme RS232_20_ Rep.pdf
+│   │   ├── 📄 Solution TD3 Codage.pdf
+│   │   └── 📄 Solution TD1 Boucle de courant.pdf
+│   ├── 📁 Cours et TDs/
+│   │   ├── 📄 Chp1_Partie 2_21.pdf
+│   │   ├── 📄 Boucle_de_courant_20_rev (1).pdf
+│   │   ├── 📄 Chp1_Partie 1_21.pdf
+│   │   ├── 📄 TD3_codage et CRC_20_rev.pdf
+│   │   ├── 📄 TD2_norme RS232_20_rev.pdf
+│   │   └── 📄 Boucle_de_courant_20_rev.pdf
+│   └── 📁 TPs/
+│       ├── 📄 D-shhet_XTR117.pdf
+│       ├── 📄 D-sheet_XTR105AP.pdf
+│       └── 📄 Projet 1 MI_2021.pdf
+└── 📁 rci/
+    ├── 📁 cours/
+    │   ├── 📄 Profibus.pptx
+    │   ├── 📄 Chapitre_2_Le Bus CAN.pptx
+    │   ├── 📄 Chapitre_1_Intro_RCI.pptx
+    │   ├── 📄 Chapitre_1_Généralités sur les bus de terrain_BIS.pdf
+    │   ├── 📄 Chapitre 3 modbus_2019.pptx
+    │   └── 📄 Chapitre_2_cours_bus_CAN_USTHB.pdf
+    ├── 📁 exms/
+    │   ├── 📄 Examens.zip
+    │   ├── 📄 examens.rar
+    │   ├── 📄 EMD_ RCI_cor (2).pdf
+    │   └── 📁 exam PRR2/
+    │       ├── 📄 EMD PRR2 2015.doc
+    │       ├── 📄 examen2BUS corrigé.doc
+    │       ├── 📄 EMD PRR2 2015 Corr.doc
+    │       └── 📄 examen2.doc
+    ├── 📁 tp/
+    │   ├── 📄 TP_bus_CAN__ESE_2019.docx
+    │   └── 📄 TP n 2 RCI.pdf
+    └── 📁 td/
+        ├── 📄 Série bus CAN.doc
+        ├── 📄 TDN2_le bus CAN.doc
+        ├── 📄 TD1 correction.pdf
+        ├── 📄 correction_TD_RLI_-_bus_CAN.pdf
+        ├── 📄 TD_1_RCI_USTHB.docx
+        ├── 📄 Série bus CAN-Solutions.doc
+        ├── 📄 Exercices_CAN_corrigé.pdf
+        ├── 📄 29019887_162596207773305_201349788_n.jpg
+        ├── 📄 Ex07.docx
+        ├── 📄 29340762_162596331106626_1749978184_n.jpg
+        └── 📄 29138238_162596481106611_869855890_n.jpg
+
+═════════════════════════════════════
+  Fin du fichier · RCI Réseaux et communications industriels
+═════════════════════════════════════

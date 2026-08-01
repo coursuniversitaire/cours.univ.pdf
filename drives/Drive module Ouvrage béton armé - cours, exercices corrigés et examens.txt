@@ -1,0 +1,81 @@
+📚 MODULE : Ouvrage béton armé                        
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Ouvrage béton armé.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Ouvrage béton armé/
+├── 🔗📁 Ouvre béton armé /  (raccourci)
+│   ├── 📁 TD/
+│   │   ├── 📁 Fondation profonde + excentrée/
+│   │   │   ├── 📄 TD N°05 Semelles  excentrées.pdf
+│   │   │   ├── 📄 TD N°06 semelles profondes.pdf
+│   │   │   └── 📄 TD N°4.pdf
+│   │   └── 📁 Fondation superficielle /
+│   │       ├── 📄 TD N°03.pdf
+│   │       ├── 📄 TD N°01.pdf
+│   │       └── 📄 TD N°2.pdf
+│   ├── 📁 Enregistrements /
+│   │   ├── 📁 TD /
+│   │   │   ├── 📄 TD N°01 OBA 2021-02-03.mp4
+│   │   │   ├── 🔗📁 TD N°05 OBA 2021-03-03_113146.wmv  (raccourci)
+│   │   │   ├── 🔗📁 TD N°04.wmv  (raccourci)
+│   │   │   ├── 🔗📁 TD N°03.wmv  (raccourci)
+│   │   │   ├── 🔗📁 TD N°06.wmv  (raccourci)
+│   │   │   └── 📄 TD N°02 OBA 2021-02-08 10-10-18.mp4
+│   │   └── 📁 Cours /
+│   │       ├── 📄 COURS OBA 2021-03-06-13-34-07.mp4
+│   │       ├── 🔗📁 COURS OBA 2021-02-13-13-46-13.mp4  (raccourci)
+│   │       ├── 🔗📁 COURS OBA 2021-01-30-17-05-15.mp4  (raccourci)
+│   │       ├── 🔗📁 Cours OBA 2021-01-23-15-32-19.mp4  (raccourci)
+│   │       ├── 🔗📁 COURS OBA 2021-01-16-13-18-45.mp4  (raccourci)
+│   │       └── 🔗📁 Cours N°02 OBA 2021-01-12.mp4  (raccourci)
+│   └── 📁 Cours /
+│       ├── 📄 CHAPITRE I.pdf
+│       ├── 📄 CHAPITRE III.pdf
+│       └── 📄 CHAPITRE II.pdf
+├── 🔗📁 Enregistrements /  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 🔗📁 Ouvre béton armé /  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 📁 Autres ressources/
+│   ├── 🔗📁 BA/  (raccourci)
+│   │   ├── 📄 BA examen + solution.pdf
+│   │   ├── 📄 BA solution TD.pdf
+│   │   ├── 📄 planchers et dalles.pdf
+│   │   ├── 📄 chap4.escaliers.pdf
+│   │   ├── 📄 Méthode de Caquot.pdf
+│   │   └── 📄 Poutres continues.pdf
+│   ├── 📄 TD beton2.pdf
+│   ├── 📄 BA examen + solution.pdf
+│   ├── 📄 BA solution TD.pdf
+│   ├── 📄 chap4.escaliers.pdf
+│   ├── 📄 Méthode de Caquot.pdf
+│   ├── 📄 planchers et dalles.pdf
+│   └── 📄 Poutres continues.pdf
+├── 📁 TDs corrigés/
+│   ├── 📁 Fondation profonde + excentrée/
+│   │   ├── 📄 TD N°05 Semelles  excentrées.pdf
+│   │   ├── 📄 TD N°06 semelles profondes.pdf
+│   │   └── 📄 TD N°4.pdf
+│   └── 📁 Fondation superficielle /
+│       ├── 📄 TD N°03.pdf
+│       ├── 📄 TD N°01.pdf
+│       └── 📄 TD N°2.pdf
+└── 📁 Cours/
+    ├── 📄 CHAPITRE I.pdf
+    ├── 📄 CHAPITRE II.pdf
+    └── 📄 CHAPITRE III.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Ouvrage béton armé
+═════════════════════════════════════

@@ -1,0 +1,177 @@
+📚 MODULE : Procédés de fabrication                   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Procédés de fabrication.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Procédés de fabrication/
+├── 📄 TD2.pdf
+├── 📄 Exercices résolus.pdf
+├── 📄 TD1 Procédés 2020.pdf
+├── 📄 TD2 Procédés 2020.pdf
+├── 📄 Cisaillage-poinçonnage.pdf
+├── 📄 Emboutissage.pdf
+├── 📄 Estampage.pdf
+├── 📄 Extrusion.pptx
+├── 📄 Pliage.pdf
+├── 📄 1-AVPEF-Corrigé.pdf
+├── 📄 METHODE BOUATEM2.docx
+├── 📄 Travaux pratiques d'usinage tournage.pdf
+├── 📄 complement de cours usinage (my ensam) .pdf
+├── 📄 cours usinage sec1 + sec 2.pdf
+├── 📄 Examens fondrie corrigee (my ensam).pdf
+├── 📄 examens usinage.pdf
+├── 📄 Exercices usinage CORRIGES mise en position isostatique.pdf
+├── 📄 fonderie definitions.pdf
+├── 📄 Montages_usinage (1).pdf
+├── 📄 null (1).pdf
+├── 📄 null (2).pdf
+├── 📄 TD 1+2 corrigee (my ensam).pdf
+└── 📁 Procèdes de Fabrication/
+    ├── 📄 Examens fondrie corrigee (my ensam).pdf
+    ├── 📄 examens usinage.pdf
+    ├── 📄 Exercices usinage CORRIGES mise en position isostatique.pdf
+    ├── 📄 TD 1+2 corrigee (my ensam).pdf
+    ├── 📄 Cc Procédés 2024.pdf
+    ├── 📄 Exam procedes.pdf
+    ├── 📄 Exam Tp procedes.pdf
+    ├── 📄 TD-1_Proc_Fab2024-PR.pdf
+    ├── 📄 TD-1_Proc_Fab2024.pdf
+    ├── 📄 TD-2_Proc_Fab2024.pdf
+    ├── 📄 API2_last_VE.pdf
+    ├── 📄 Proc_fab_API2_VE.pdf
+    ├── 📄 procédés_Fabrication_CP_Fonte_Feraille2024_VE.pdf
+    ├── 📄 procédés_Fabrication_CP1.pdf
+    ├── 🔗📁 Procèdes de Fabrication /  (raccourci)
+    │   ├── 📄 Exam procedes.pdf
+    │   ├── 📄 Exam Tp procedes.pdf
+    │   ├── 📄 Cc Procédés 2024.pdf
+    │   ├── 📁 Prof Sobhi/
+    │   │   ├── 📄 [SOS]-[chap1]-cours-procédé-Fab (1)11.pdf
+    │   │   ├── 📄 procédés 
+    │   │   └── 📄 [SOS]-[chap2]-cours-procédé-Fab25.ppsx
+    │   ├── 📁 TD/
+    │   │   ├── 📄 TD-2_Proc_Fab2024.pdf
+    │   │   ├── 📄 TD-1_Proc_Fab2024.pdf
+    │   │   └── 📁 Correction /
+    │   │       └── 📄 TD-1_Proc_Fab2024-PR.pdf
+    │   └── 📁 Prof Benmessoud/
+    │       └── 📁 Cours/
+    │           ├── 📄 API2_last_VE.pdf
+    │           ├── 📄 Proc_fab_API2_VE.pdf
+    │           ├── 📄 procédés_Fabrication_CP_Fonte_Feraille2024_VE.pdf
+    │           └── 📄 procédés_Fabrication_CP1.pdf
+    ├── 🔗📁 Procédés de fabrication/  (raccourci)
+    │   └── ⚠️  [Référence circulaire ignorée]
+    ├── 🔗📁 Procédés de fabrication/  (raccourci)
+    │   ├── 📁 TD/
+    │   │   ├── 📄 TD2 Procédés 2020.pdf
+    │   │   └── 📄 TD1 Procédés 2020.pdf
+    │   └── 📁 Cour/
+    │       ├── 📄 procédés_Fabrication_VEP2.pdf
+    │       ├── 📄 procédés_Fabrication_VEP1.pdf
+    │       ├── 📄 Proc_fab_API_Tour2.pdf
+    │       └── 📄 Proc_fab_API_Tour.pdf
+    ├── 🔗📁 Procédés de fabrication/  (raccourci)
+    │   ├── 📁 TDs/
+    │   │   ├── 📄 TD2.pdf
+    │   │   └── 📄 Exercices résolus.pdf
+    │   └── 📁 Cours/
+    │       ├── 📄 Chap 5-2.pdf
+    │       ├── 📄 Chap 5-1.pdf
+    │       ├── 📄 Chap 4 + TD1.pdf
+    │       └── 📄 Chap 1_2_3.pdf
+    ├── 🔗📁 Procèdes de Fabrication & Métallurgie/  (raccourci)
+    │   ├── 📁 Procèdes de Fabrication /
+    │   │   └── ⚠️  [Référence circulaire ignorée]
+    │   └── 📁 Métallurgie/
+    │       ├── 📁 Prof Akhiate/
+    │       │   ├── 📁 Cours/
+    │       │   │   ├── 📄 Traitement thermique API2- 2023-2024.pdf
+    │       │   │   ├── 📄 Diagrammes de phase 2023-2024.pdf
+    │       │   │   ├── 📄 Classification et Désignation des métaux 2023-2023.pdf
+    │       │   │   └── 📄 Structures cristallines des métaux 2023-2024.pdf
+    │       │   └── 📁 TD/
+    │       │       ├── 📄 TD diagramme de phase 2023-2024.pdf
+    │       │       └── 📄 TD cristalographie 2023-2024.pdf
+    │       └── 📁 Prof ait el fqih/
+    │           └── 📁 Td/
+    │               └── 📄 Td Traitement thermique.pdf
+    └── 🔗📁 Procédés de fabrication/  (raccourci)
+        ├── 📄 Montages_usinage (1).pdf
+        ├── 📄 Examens fondrie corrigee (my ensam).pdf
+        ├── 📄 fonderie definitions.pdf
+        ├── 📄 cours usinage sec1 + sec 2.pdf
+        ├── 📄 complement de cours usinage (my ensam) .pdf
+        ├── 📄 examens usinage.pdf
+        ├── 📄 Exercices usinage CORRIGES mise en position isostatique.pdf
+        ├── 📄 TD 1+2 corrigee (my ensam).pdf
+        ├── 📄 null (2).pdf
+        ├── 📄 null (1).pdf
+        ├── 📁 Fonderie/
+        │   ├── 📄 Cours fonderie sec1.pdf
+        │   ├── 📄 noyau_horiz.pdf
+        │   ├── 📄 regle_de_choix_de_plan_de_joint.pdf
+        │   ├── 📄 Cours_02_Procedes_de_moulage_des_metaux_Fonderie.pdf
+        │   └── 📄 Réaliser un moule.odt
+        ├── 📁 Usinage/
+        │   ├── 📄 METHODE BOUATEM2.docx
+        │   ├── 📄 1-AVPEF-Corrigé.pdf
+        │   ├── 📄 Travaux pratiques d'usinage tournage.pdf
+        │   └── 📁 Facultatif/
+        │       ├── 📄 mipmap.pdf
+        │       └── 📄 Cours Production 2 Bac- Science de l-ingénieur - Mise et le maintien en position - STM[Mpgun.com].mp4
+        └── 📁 Forge ou Formage/
+            ├── 📄 examens forge corrigee (my ensam).pdf
+            ├── 📄 Chapitre-3-pliage-solution.pdf
+            ├── 📄 Poly Tracé Procédé COULEUR.pdf
+            ├── 📄 TD2020Forge1ère année_partie 2.pdf
+            ├── 📄 TD2020Forge1ère année_partie 1.pdf
+            ├── 📄 Formage 1er année.pdf
+            ├── 📁 Foorge/
+            │   ├── 📄 Pliage.pdf
+            │   ├── 📄 Estampage.pdf
+            │   ├── 📄 Cisaillage-poinçonnage.pdf
+            │   ├── 📄 Emboutissage.pdf
+            │   └── 📄 Extrusion.pptx
+            └── 📁 Estampage/
+                ├── 📄 27.jpg
+                ├── 📄 26.jpg
+                ├── 📄 25.jpg
+                ├── 📄 24.jpg
+                ├── 📄 23.jpg
+                ├── 📄 22.jpg
+                ├── 📄 21.jpg
+                ├── 📄 20.jpg
+                ├── 📄 19.jpg
+                ├── 📄 18.jpg
+                ├── 📄 17.jpg
+                ├── 📄 16.jpg
+                ├── 📄 15.jpg
+                ├── 📄 14.jpg
+                ├── 📄 13.jpg
+                ├── 📄 12.jpg
+                ├── 📄 11.jpg
+                ├── 📄 10.jpg
+                ├── 📄 9.jpg
+                ├── 📄 8.jpg
+                ├── 📄 7.jpg
+                ├── 📄 6.jpg
+                ├── 📄 5.jpg
+                ├── 📄 4.jpg
+                ├── 📄 3.jpg
+                ├── 📄 2.jpg
+                └── 📄 1.jpg
+
+═════════════════════════════════════
+  Fin du fichier · Procédés de fabrication
+═════════════════════════════════════

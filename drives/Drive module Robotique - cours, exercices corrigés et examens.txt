@@ -1,0 +1,72 @@
+📚 MODULE : Robotique                                 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Robotique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Robotique/
+├── 📄 3# ROBOTIQUE (Commande de robots de manipulation)-20260522T220417Z-3-001.zip
+├── 🔗📁 7# Robotique/  (raccourci)
+│   ├── 📄 Résumé.pdf
+│   ├── 📄 Cours4-Robotique M1 AS-2017-2018.pdf
+│   ├── 📄 Cours3-Robotique M1 AS-2017-2018.pdf
+│   ├── 📄 Cours2-Robotique M1 AS-2017-2018.pdf
+│   ├── 📄 Cours1-Robotique M1 AS-2017-2018.pdf
+│   └── 📄 goupes exposes-Robotique-M1AS-2018-2019.xlsx
+└── 🔗📁 3# ROBOTIQUE (Commande de robots de manipulation)/  (raccourci)
+    ├── 📄 programme.pdf
+    ├── 📄 Résumé.pdf
+    ├── 📄 NB.txt
+    ├── 📄 Formules de trigonométrie circulaire utilisées.jpg
+    ├── 📁 examens/
+    │   ├── 📄 examen 2012.pdf
+    │   ├── 📄 examen 2017.pdf
+    │   ├── 📄 examen 2016.pdf
+    │   ├── 📄 examen 2015.pdf
+    │   ├── 📄 examen 2013.pdf
+    │   └── 📄 examen 2020.pdf
+    ├── 📁 tp/
+    │   ├── 📄 programme tp.pdf
+    │   ├── 📄 ROBOTIQUEfinal(à ne pas voir).m
+    │   ├── 📁 tp1/
+    │   │   └── 📄 Compte rendu tp1 robotique.pdf
+    │   ├── 📁 tp2/
+    │   │   ├── 📄 Compte rendu tp2 robotique.pdf
+    │   │   ├── 📄 Solution PROF RobotJaune.pdf
+    │   │   ├── 📄 RobotJauneInverse.m
+    │   │   ├── 📄 RobotJaune.m
+    │   │   ├── 📄 robotjaune.jpg
+    │   │   ├── 📄 RobotGrisInverse.m
+    │   │   ├── 📄 robotGris.jpg
+    │   │   ├── 📄 robotGris2.jpg
+    │   │   ├── 📄 RobotGris.m
+    │   │   └── 📄 NB.txt
+    │   └── 📁 tp3/
+    │       ├── 📄 TP 3 Commande des robots manipulateurs.pdf
+    │       └── 📄 TP3.m
+    ├── 📁 td/
+    │   ├── 📄 td3robotique.pdf
+    │   ├── 📄 td2.pdf
+    │   └── 📄 énoncé td1.jpg
+    └── 📁 cours ROBOTIQUE/
+        ├── 📄 support_pour_le_Cours_mecanique_pour_la_robotique.pdf
+        ├── 📄 Intro.pdf
+        ├── 📄 Cours externe.pdf
+        ├── 📄 1# Introduction MECANIQUE POUR LA ROBOTIQUE.pdf
+        ├── 📄 NB.txt
+        ├── 📄 3# MODELISATION CINEMATIQUE.pdf
+        ├── 📄 4# Modélisation dynamique.pdf
+        └── 📄 2# MODELISATION_GEOMETRIQUE.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Robotique
+═════════════════════════════════════

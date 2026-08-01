@@ -1,0 +1,125 @@
+📚 MODULE : Physique statistique                      
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Physique statistique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Physique statistique/
+├── 📁 Physique statistique/
+│   ├── 📄 2015-solution.pdf
+│   ├── 📄 2015.pdf
+│   ├── 📄 2016_rattrapage-solution.pdf
+│   ├── 📄 2016_rattrapage.pdf
+│   ├── 📄 2016-solution.pdf
+│   ├── 📄 2016.pdf
+│   ├── 📄 Série 1.pdf
+│   ├── 📄 Série 2.pdf
+│   ├── 📄 Série 3.pdf
+│   ├── 📄 Série 4.pdf
+│   ├── 📄 EXAM_v1.pdf
+│   ├── 📄 EXAM_v1_ratt.pdf
+│   ├── 📄 TD2_phys_stat.pdf
+│   ├── 📄 TD3_phys_stat.pdf
+│   ├── 📄 TD1_phys_stat.pdf
+│   ├── 🔗📁 Physique statistique/  (raccourci)
+│   │   └── ⚠️  [Référence circulaire ignorée]
+│   ├── 🔗📁 +Physique statistique 2021 SABORPCMATH.COM/  (raccourci)
+│   │   ├── 📄 °TD PHYSIQUE STATISTIQUE FST TETOUAN 20 21 SMP5.pdf
+│   │   ├── 📄 °TD PHYSIQUE STATISTIQUE FST TETOUAN 15 16 SMP5.pdf
+│   │   ├── 📄 °TD PHYSIQUE STATISTIQUE FST TETOUAN 13 14 SMP5.pdf
+│   │   ├── 📄 °TD PHYSIQUE STATISTIQUE FSSM MARRAKECH 20 21 SMP5.pdf
+│   │   ├── 📄 °TD PHYSIQUE STATISTIQUE FSSM MARRAKECH 07 08 V2 SMP5.pdf
+│   │   ├── 📄 °TD PHYSIQUE STATISTIQUE FSSM MARRAKECH 07 08 V1 SMP5.pdf
+│   │   ├── 📄 °TD PHYSIQUE STATISTIQUE FSR RABAT 14 15 SMP5.pdf
+│   │   ├── 📄 °TD PHYSIQUE STATISTIQUE FSM MEKNES 20 21 SMP5.pdf
+│   │   ├── 📄 °TD PHYSIQUE STATISTIQUE FSJ ELJADIDA 15 16 SMP5.pdf
+│   │   ├── 📄 °TD PHYSIQUE STATISTIQUE FSDM FES 20 21 SMP5.pdf
+│   │   ├── 📄 °TD PHYSIQUE STATISTIQUE FSDM FES 12 13 SMP5.pdf
+│   │   ├── 📄 °TD PHYSIQUE STATISTIQUE FSA AGADIR 20 21 SMP5.pdf
+│   │   ├── 📄 °TD PHYSIQUE STATISTIQUE FSA AGADIR 14 15 V2 SMP5.pdf
+│   │   ├── 📄 °TD PHYSIQUE STATISTIQUE FSA AGADIR 14 15 V1 SMP5.pdf
+│   │   ├── 📄 °TD PHYSIQUE STATISTIQUE FPL LARACH SMP5.pdf
+│   │   ├── 📄 °TD PHYSIQUE STATISTIQUE FPK KHOURIBGA SMP5.pdf
+│   │   ├── 📄 °EXAMENS PHYSIQUE STATISTIQUE FST TETOUAN SMP5.pdf
+│   │   ├── 📄 °EXAMENS PHYSIQUE STATISTIQUE FSSM MARRAKECH SMP5.pdf
+│   │   ├── 📄 °EXAMENS PHYSIQUE STATISTIQUE FSDM FES  SMP5.pdf
+│   │   ├── 📄 °EXAMENS PHYSIQUE STATISTIQUE FSM MEKNES  SMP5.pdf
+│   │   ├── 📄 °EXAMENS PHYSIQUE STATISTIQUE FSA AGADIR SMP5.pdf
+│   │   ├── 📄 °COURS PHYSIQUE STATISTIQUE FST TETOUAN 20 21 SMP5.pdf
+│   │   ├── 📄 °COURS PHYSIQUE STATISTIQUE FST TETOUAN 14 15 SMP5.pdf
+│   │   ├── 📄 °COURS PHYSIQUE STATISTIQUE FSSM MARRAKECH 20 21 SMP5.pdf
+│   │   ├── 📄 °COURS PHYSIQUE STATISTIQUE FSSM MARRAKECH 16 17 SMP5.pdf
+│   │   ├── 📄 °COURS PHYSIQUE STATISTIQUE FSSM MARRAKECH 14 15 SMP5.pdf
+│   │   ├── 📄 °COURS PHYSIQUE STATISTIQUE FSR RABAT 14 15 SMP5.pdf
+│   │   ├── 📄 °COURS PHYSIQUE STATISTIQUE FSM MEKNES 20 21 SMP5.pdf
+│   │   ├── 📄 °COURS PHYSIQUE STATISTIQUE FSK KENITRA 14 15 SMP5.pdf
+│   │   ├── 📄 °COURS PHYSIQUE STATISTIQUE FSDM FES 19 20 SMP5.pdf
+│   │   ├── 📄 °COURS PHYSIQUE STATISTIQUE FSDM FES 11 12 SMP5.pdf
+│   │   ├── 📄 °COURS PHYSIQUE STATISTIQUE FSA AGADIR 20 21 SMP5.pdf
+│   │   ├── 📄 °COURS PHYSIQUE STATISTIQUE FPL LARACH SMP5.pdf
+│   │   └── 📄 °COURS PHYSIQUE STATISTIQUE FPK KHOURIBGA SMP5.pdf
+│   └── 📁 Cours/
+│       ├── 📄 Concept4_ensemble microcanonique.pdf
+│       ├── 📄 chap0.pdf
+│       ├── 📄 Concept8_Iensemble canonique.pdf
+│       ├── 📄 Concept10_capacité calorifique des solides I.pdf
+│       ├── 📄 Concept5_entropie.pdf
+│       ├── 📄 Concept12_Iensemble grand canonique.pdf
+│       ├── 📄 Concept9_Proprietes de la fonction de partition.pdf
+│       ├── 📄 Concept6_conditions déquilibre.pdf
+│       ├── 📄 Concept11_le paramagnétisme.pdf
+│       ├── 📄 chap1.pdf
+│       ├── 📄 poly_cours.pdf
+│       ├── 📄 Concept7_Identification de lentropie thermodynamique et lentropie statistique.pdf
+│       └── 📄 Concept3_espace de phase.pdf
+├── 📁 Physique Statistique/
+│   ├── 📁 Exams/
+│   │   ├── 📄 EXAM_v1.pdf
+│   │   └── 📄 EXAM_v1_ratt.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 TD3_phys_stat.pdf
+│   │   ├── 📄 TD2_phys_stat.pdf
+│   │   └── 📄 TD1_phys_stat.pdf
+│   └── 📁 Cours/
+│       ├── 📄 Concept12_Iensemble grand canonique.pdf
+│       ├── 📄 Concept11_le paramagnétisme.pdf
+│       ├── 📄 Concept10_capacité calorifique des solides I.pdf
+│       ├── 📄 Concept9_Proprietes de la fonction de partition.pdf
+│       ├── 📄 Concept8_Iensemble canonique.pdf
+│       ├── 📄 Concept7_Identification de lentropie thermodynamique et lentropie statistique.pdf
+│       ├── 📄 Concept6_conditions déquilibre.pdf
+│       ├── 📄 Concept5_entropie.pdf
+│       ├── 📄 Concept4_ensemble microcanonique.pdf
+│       ├── 📄 Concept3_espace de phase.pdf
+│       ├── 📄 chap1.pdf
+│       ├── 📄 chap0.pdf
+│       └── 📄 poly_cours.pdf
+├── 📁 Travaux dirigés/
+│   ├── 📄 Série 4.pdf
+│   ├── 📄 Série 3.pdf
+│   ├── 📄 Série 2.pdf
+│   └── 📄 Série 1.pdf
+├── 📁 Examens/
+│   ├── 📄 2016.pdf
+│   ├── 📄 2015.pdf
+│   ├── 📄 2016_rattrapage.pdf
+│   ├── 📄 2015-solution.pdf
+│   ├── 📄 2016_rattrapage-solution.pdf
+│   └── 📄 2016-solution.pdf
+└── 📁 Cours/
+    ├── 📄 Chapitre3.pdf
+    ├── 📄 Chapitre2.pdf
+    └── 📄 Chapitre1.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Physique statistique
+═════════════════════════════════════

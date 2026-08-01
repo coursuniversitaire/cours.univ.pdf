@@ -1,0 +1,74 @@
+📚 MODULE : Radiocommunication                        
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Radiocommunication.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Radiocommunication/
+├── 🔗📁 RC (cours, TDs)/  (raccourci)
+│   ├── 📁 TDs/solutions /
+│   │   ├── 📄 TD2_RadioCom_2022_23.pdf
+│   │   └── 📄 TD1 RC.pdf
+│   └── 📁 Cours /
+│       └── 📄 Cours_RadioComBlida_22_23.pdf
+├── 📄 CH 08 Propagation proche de la terre et environnement complexe 2019.pdf
+├── 📄 ch05_Equations de Friis pour un milieu réel  2018_2019 .pdf
+├── 📄 CH06_DIFFRACTION DE ONDES RADIOS 2019.pdf
+├── 📄 CH07 Réfraction troposphérique  2019.pdf
+├── 📄 Examen RadioCounication MSTR  2017 avec solution.pdf
+├── 📄 Examen RadioCounication MSTR  2018 avec solution.pdf
+├── 📄 Examen RadioCounication MSTR  2019 avec solution.pdf
+├── 📄 TD02_Equation de Friis MSTR 2019 avec Solution.pdf
+├── 📄 TD03_affaiblissement  MSTR 2019 avec Solution V2.pdf
+├── 📄 TD04_Diffraction  MSTR 2019.pdf
+├── 📄 TD05_réfraction troposphérique  MSTR 201 Avec Solution.pdf
+├── 📄 TD05_réfraction troposphérique.pdf
+├── 🔗📁 Radio communication/  (raccourci)
+│   ├── 📄 TD05_réfraction troposphérique  MSTR 201 Avec Solution.pdf
+│   ├── 📄 Examen RadioCounication MSTR  2017 avec solution.pdf
+│   ├── 📄 Examen RadioCounication MSTR  2018 avec solution.pdf
+│   ├── 📄 Examen RadioCounication MSTR  2019 avec solution.pdf
+│   ├── 📄 CH 08 Propagation proche de la terre et environnement complexe 2019.pdf
+│   ├── 📄 TD05_réfraction troposphérique.pdf
+│   ├── 📄 ch05_Equations de Friis pour un milieu réel  2018_2019 .pdf
+│   ├── 📄 CH06_DIFFRACTION DE ONDES RADIOS 2019.pdf
+│   ├── 📄 TD02_Equation de Friis MSTR 2019 avec Solution.pdf
+│   ├── 📄 TD04_Diffraction  MSTR 2019.pdf
+│   ├── 📄 TD03_affaiblissement  MSTR 2019 avec Solution V2.pdf
+│   └── 📄 CH07 Réfraction troposphérique  2019.pdf
+├── 🔗📁 Radiocommunication/  (raccourci)
+│   └── 📁 Cours/
+│       ├── 📄 Radiocomminucation.pdf
+│       ├── 📄 BILAN DE LIAISON HERTZIENNE.pdf
+│       ├── 📄 Liaison hertzienne 3.pdf
+│       ├── 📄 Liaison hertzienne 2.pdf
+│       └── 📄 Liaison hertzienne 1.pdf
+├── 🔗📁 Radiocommunication/  (raccourci)
+│   ├── 📄 Programme de Cours.txt
+│   ├── 📁 TD/
+│   │   ├── 📄 TD_3.docx
+│   │   ├── 📄 TD_2.docx
+│   │   └── 📄 TD_1.docx
+│   └── 📁 Cours/
+│       ├── 📄 Chapitre 2.pdf
+│       └── 📄 chapitre 1.pdf
+├── 📁 cours/
+│   ├── 📄 chapitre 1.pdf
+│   └── 📄 Chapitre 2.pdf
+└── 📁 tds/
+    ├── 📄 TD_2.docx
+    ├── 📄 TD_3.docx
+    └── 📄 TD_1.docx
+
+═════════════════════════════════════
+  Fin du fichier · Radiocommunication
+═════════════════════════════════════

@@ -1,0 +1,165 @@
+📚 MODULE : Optoélectronique                          
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Optoélectronique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Optoélectronique/
+├── 🔗📁 technologi compose/  (raccourci)
+│   ├── 📄 TC ELC 2017-12-22.pdf
+│   ├── 📄 KYOSS.zip
+│   ├── 📄 20170115_113908.jpg
+│   ├── 📄 exam composent.pdf
+│   ├── 📁 résumer/
+│   │   ├── 📄 20170114_124413.jpg
+│   │   ├── 📄 9.jpg
+│   │   ├── 📄 8.jpg
+│   │   ├── 📄 7.jpg
+│   │   ├── 📄 6.jpg
+│   │   ├── 📄 5.jpg
+│   │   ├── 📄 10.jpg
+│   │   ├── 📄 1.jpg
+│   │   ├── 📄 4.jpg
+│   │   ├── 📄 3.jpg
+│   │   ├── 📄 2.jpg
+│   │   └── 📄 11.jpg
+│   ├── 📁 كور 2018/
+│   │   ├── 📄 cour  (9).jpg
+│   │   ├── 📄 cour  (7).jpg
+│   │   ├── 📄 cour  (8).jpg
+│   │   ├── 📄 cour  (6).jpg
+│   │   ├── 📄 cour  (5).jpg
+│   │   ├── 📄 cour  (4).jpg
+│   │   ├── 📄 cour  (32).jpg
+│   │   ├── 📄 cour  (14).jpg
+│   │   ├── 📄 cour  (31).jpg
+│   │   ├── 📄 cour  (30).jpg
+│   │   ├── 📄 cour  (18).jpg
+│   │   ├── 📄 cour  (3).jpg
+│   │   ├── 📄 cour  (29).jpg
+│   │   ├── 📄 cour  (17).jpg
+│   │   ├── 📄 cour  (28).jpg
+│   │   ├── 📄 cour  (16).jpg
+│   │   ├── 📄 cour  (27).jpg
+│   │   ├── 📄 cour  (26).jpg
+│   │   ├── 📄 cour  (2).jpg
+│   │   ├── 📄 cour  (25).jpg
+│   │   ├── 📄 cour  (24).jpg
+│   │   ├── 📄 cour  (15).jpg
+│   │   ├── 📄 cour  (23).jpg
+│   │   ├── 📄 cour  (22).jpg
+│   │   ├── 📄 cour  (19).jpg
+│   │   ├── 📄 cour  (21).jpg
+│   │   ├── 📄 cour  (20).jpg
+│   │   ├── 📄 cour  (13).jpg
+│   │   ├── 📄 cour  (12).jpg
+│   │   ├── 📄 cour  (11).jpg
+│   │   ├── 📄 cour  (10).jpg
+│   │   └── 📄 cour  (1).jpg
+│   ├── 📁 كور/
+│   │   ├── 📄 23.jpg
+│   │   ├── 📄 4.jpg
+│   │   ├── 📄 5.jpg
+│   │   ├── 📄 3.jpg
+│   │   ├── 📄 27.jpg
+│   │   ├── 📄 26.jpg
+│   │   ├── 📄 9.jpg
+│   │   ├── 📄 8.jpg
+│   │   ├── 📄 24.jpg
+│   │   ├── 📄 7.jpg
+│   │   ├── 📄 6.jpg
+│   │   ├── 📄 25.jpg
+│   │   ├── 📄 22.jpg
+│   │   ├── 📄 21.jpg
+│   │   ├── 📄 1.jpg
+│   │   ├── 📄 20.jpg
+│   │   ├── 📄 12.jpg
+│   │   ├── 📄 2.jpg
+│   │   ├── 📄 10.jpg
+│   │   ├── 📄 11.jpg
+│   │   ├── 📄 19.jpg
+│   │   ├── 📄 18.jpg
+│   │   ├── 📄 13.jpg
+│   │   ├── 📄 17.jpg
+│   │   ├── 📄 16.jpg
+│   │   ├── 📄 15.jpg
+│   │   └── 📄 14.jpg
+│   └── 📁 exm/
+│       ├── 📁 ratt 2019/
+│       │   └── 📄 1.jpg
+│       ├── 📁 2018/
+│       │   ├── 📄 2.jpg
+│       │   └── 📄 1.jpg
+│       ├── 📁 exm2019/
+│       │   ├── 📄 6.jpg
+│       │   ├── 📄 4.jpg
+│       │   ├── 📄 5.jpg
+│       │   ├── 📄 3.jpg
+│       │   ├── 📄 2.jpg
+│       │   └── 📄 1.jpg
+│       ├── 📁 2017 ratt/
+│       │   ├── 📄 20170302_143032.jpg
+│       │   ├── 📄 20170302_143025.jpg
+│       │   ├── 📄 20170302_143016.jpg
+│       │   ├── 📄 20170302_143002.jpg
+│       │   └── 📄 20170302_142951.jpg
+│       └── 📁 2017/
+│           ├── 📄 FB_IMG_1542374334824.jpg
+│           ├── 📄 FB_IMG_1542374092338.jpg
+│           ├── 📄 FB_IMG_1542374320068.jpg
+│           ├── 📄 FB_IMG_1542374312598.jpg
+│           ├── 📄 FB_IMG_1542374327257.jpg
+│           └── 📄 FB_IMG_1542374307426.jpg
+├── 🔗📁 OPTO.pdf/  (raccourci)
+├── 🔗📁 OPTO/  (raccourci)
+│   ├── 📄 OPTO.pdf
+│   ├── 📁 Cours optoélectronique-20210209T131142Z-001/
+│   │   └── 📁 Cours optoélectronique/
+│   │       ├── 📄 Optoélectronique (1).pdf
+│   │       └── 📄 Optoélectronique (2).pdf
+│   └── 📁 TD optoélectronique -20210209T130959Z-001/
+│       └── 📁 TD optoélectronique/
+│           ├── 📄 TD4corexo.pdf
+│           ├── 📄 TD1corexo1a6.pdf
+│           ├── 📄 TD3.pdf
+│           ├── 📄 TD4.pdf
+│           ├── 📄 TD3corexo.pdf
+│           ├── 📄 TD2.pdf
+│           ├── 📄 TD1corexo7a11.pdf
+│           ├── 📄 TD2corexo.pdf
+│           └── 📄 TD1.pdf
+├── 📁 examens/
+│   ├── 📄 2018 exm (1).jpg
+│   ├── 📄 2018 exm (2).jpg
+│   ├── 📄 2018 exm (3).jpg
+│   ├── 📄 examen_optoelectronique-3ELN_2018.jpg
+│   ├── 📄 ratt2018 (1).jpg
+│   ├── 📄 ratt2018 (2).jpg
+│   ├── 📄 ratt2018 (3).jpg
+│   └── 📄 ratt2018 (3).jpg
+├── 📁 cours/
+│   ├── 📄 Optoélectronique (1).pdf
+│   └── 📄 Optoélectronique (2).pdf
+└── 📁 TDs corrigés /
+    ├── 📄 TD1.pdf
+    ├── 📄 TD1corexo1a6.pdf
+    ├── 📄 TD1corexo7a11.pdf
+    ├── 📄 TD2.pdf
+    ├── 📄 TD2corexo.pdf
+    ├── 📄 TD3.pdf
+    ├── 📄 TD3corexo.pdf
+    ├── 📄 TD4.pdf
+    └── 📄 TD4corexo.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Optoélectronique
+═════════════════════════════════════

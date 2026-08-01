@@ -1,0 +1,230 @@
+📚 MODULE : Probabilité statistique                   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Probabilité statistique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Probabilité statistique/
+├── 🔗📁 [M147] Statistique et probabilités/  (raccourci)
+│   ├── 📁 [M147] Bonus/
+│   │   ├── 📄 probabilité résumé.pdf
+│   │   ├── 📄 statistiques chap1.pdf
+│   │   ├── 📄 Stats-probas-résumé.pdf
+│   │   └── 📁 TD/
+│   │       ├── 📄 Correction-TD5-2020.pdf
+│   │       ├── 📄 Correction-TD4-2020 (1) (1).pdf
+│   │       ├── 📄 Correction-TD3-2020 (1).pdf
+│   │       ├── 📄 4.jpeg
+│   │       ├── 📄 3.jpeg
+│   │       ├── 📄 2.jpeg
+│   │       └── 📄 1.jpeg
+│   ├── 📁 [M147] TD/
+│   │   ├── 📄 cr td1.pdf
+│   │   ├── 📄 [M147] TD (Solution).pdf
+│   │   ├── 📄 M147-td-2023
+│   │   ├── 📄 Correction serie 4 
+│   │   ├── 📄 Correction serie 5
+│   │   ├── 📄 Correction serie 3
+│   │   ├── 📄 Correction-TD1-Ex4.pdf
+│   │   ├── 📄 C-TD2-Ex3.pdf
+│   │   ├── 📄 Correction-TD1-Ex2.pdf
+│   │   ├── 📄 TD2-M147-II-20-21.pdf
+│   │   ├── 📄 TD1-M147-II-20-21.pdf
+│   │   ├── 📄 Corrigé des exercices de la série 3.pdf
+│   │   ├── 📄 TD1-M147-24.pdf
+│   │   ├── 📄 TD5-M147-II-20-21.pdf
+│   │   ├── 📄 Correction-TD1-Ex1.pdf
+│   │   ├── 📄 Série 4 Statistique descriptive unidimensionnelle.pdf
+│   │   ├── 📄 TD3-M147-II-20-21.pdf
+│   │   └── 📄 TD4-M147-II-20-21.pdf
+│   ├── 📁 [M147] Archive/
+│   │   ├── 📄 corr ex 2 mot de passe.pdf
+│   │   ├── 📄 Examen  normal 2021-2022.pdf
+│   │   ├── 📄 exam M147 -22
+│   │   ├── 📄 Examen 2022 M147
+│   │   ├── 📄 Examen ratt 2021 2022.pdf
+│   │   ├── 📄 M147 - Devoir Janvier 2021
+│   │   ├── 📄 M147 - Archive.pdf
+│   │   ├── 📄 R2_22-23.pdf
+│   │   ├── 📄 N1_23-24.pdf
+│   │   ├── 📄 N2_22-23.pdf
+│   │   ├── 📄 N1_22-23.pdf
+│   │   ├── 📄 R1_23-24.pdf
+│   │   └── 📄 R1_22-23.pdf
+│   └── 📁 [M147] Cours/
+│       ├── 📄 sujets_stage_2024-1.pdf
+│       ├── 📄 prb_chap3_variables aléatoires abs cont.pdf
+│       ├── 📄 prb_chap2_variables aléatoire dis.pdf
+│       ├── 📄 prb_chap1_espace de probabilité.pdf
+│       ├── 📄 Cr .Pr.Aziza Belmaati
+│       ├── 📄 M147.cours.M.Fahssi
+│       ├── 📄 Proba.chp2.M.Settar 
+│       ├── 📄 [M147] Cours (Statistique).pdf
+│       └── 📄 [M147] Cours (Probabilités).pdf
+├── 🔗📁 + +PROBABILITÉS ET STATISTIQUES SABORPCMATH.COM/  (raccourci)
+│   ├── 📄 °TD Probabilités statistiques FST BM 19 20.pdf
+│   ├── 📄 °SMI3 TD Probabilités statistiques FSSM MARRAKECH 20 21.pdf
+│   ├── 📄 °SMI3 TD Probabilités statistiques FSR RABAT 20 21.pdf
+│   ├── 📄 °SMI3 TD Probabilités statistiques  FSDM-FES 20-21.pdf
+│   ├── 📄 °SMI3 TD Cours Probabilités statistiques FSO-OUAJDA 20-21.pdf
+│   ├── 📄 °SMI3 Cours Probabilités statistiques FSR RABAT 20 21.pdf
+│   ├── 📄 °SMAI3 TD Probabilités statistiques FST TETOUAN 10 11.pdf
+│   ├── 📄 °SMAI3 TD Probabilités statistiques FSM-MEKNES 20-21.pdf
+│   ├── 📄 °SMAI3 TD Probabilités statistiques FSA-AGADIR 17 18.pdf
+│   ├── 📄 °SMAI3 TD Probabilités Statistiques descriptives FST TETOUAN 19 20.pdf
+│   ├── 📄 °SMAI3 TD Probabilités Statistiques descriptives FST TETOUAN 19 20 V2.pdf
+│   ├── 📄 °SMAI3 TD Probabilités Statistiques descriptives FSM MEKNES 19 20.pdf
+│   ├── 📄 °SMAI3 TD Probabilités Statistiques descriptives FSJ ELJADIDA 20 21.pdf
+│   ├── 📄 °SMAI3 TD Probabilités Statistiques descriptives FSJ ELJADIDA 19 20.pdf
+│   ├── 📄 °SMAI3 TD Probabilités Statistiques descriptives FSAC CASABLANCA 18 19.pdf
+│   ├── 📄 °SMAI3 TD Probabilités Statistiques descriptives FSAC CASABLANCA 17 18.pdf
+│   ├── 📄 °SMAI3 TD Probabilités Statistiques descriptives FPK khouribga 20 21.pdf
+│   ├── 📄 °SMAI3 Examens Probabilités statistiques FSSM MARRAKECH 2.pdf
+│   ├── 📄 °SMAI3 Examens Probabilités statistiques FSSM MARRAKECH 1.pdf
+│   ├── 📄 °SMAI3 Examens Probabilités statistiques FSR RABAT.pdf
+│   ├── 📄 °SMAI3 Examens Probabilités Statistiques descriptives FSM MEKNES.pdf
+│   ├── 📄 °SMAI3 Examens Probabilités Statistiques descriptives FSJ ELJADIDA.pdf
+│   ├── 📄 °SMAI3 Examens Probabilités Statistiques descriptives FSBM CASABLANCA.pdf
+│   ├── 📄 °SMAI3 Examens Probabilités Statistiques descriptives FSAC CASABLANCA.pdf
+│   ├── 📄 °SMAI3 Examens Probabilités Statistiques descriptives FSA AGADIR.pdf
+│   ├── 📄 °SMAI3 Examens Probabilités Statistiques descriptives FPK khouribga.pdf
+│   ├── 📄 °SMAI3 Cours Probabilités Statistiques descriptives FPT TAZA.pdf
+│   ├── 📄 °SMA3&MIP TD EXAMENS Probabilités statistiques FST-TANGER 20-21.pdf
+│   ├── 📄 °SMA3 TD Probabilités statistiques FSSM MARRAKECH 19 20.pdf
+│   ├── 📄 °SMA3 TD Probabilités statistiques FSO-OUAJDA 20-21.pdf
+│   ├── 📄 °SMA3 TD Probabilités statistiques FSDM-FES 20-21.pdf
+│   ├── 📄 °SMA3 TD Probabilités statistiques FSBM-CASABLANCA 20-21.pdf
+│   ├── 📄 °SMA3 TD Probabilités statistiques FSA-AGADIR 20-21.pdf
+│   ├── 📄 °SMA3 TD Probabilités statistiques FSA-AGADIR 18 19.pdf
+│   ├── 📄 °SMA3 TD Probabilités statistiques FSA-AGADIR 16 17.pdf
+│   ├── 📄 °SMA3 TD Probabilités Statistiques descriptives FST TETOUAN 18 19.pdf
+│   ├── 📄 °SMA3 TD Probabilités Statistiques descriptives FSA AGADIR 15 16.pdf
+│   ├── 📄 °SMA3 TD Probabilités statistiques  FSDM-FES 21-22.pdf
+│   ├── 📄 °SMA3 TD Probabilités statistiques  FSDM-FES 20-21.pdf
+│   ├── 📄 °SMA3 TD EXAMENS Probabilités statistiques FSM-MEKNES 20-21.pdf
+│   ├── 📄 °SMA3 Examens Probabilités statistiques FSDM-FES 21-22.pdf
+│   ├── 📄 °MIP Examens Probabilités statistiques FST TANGER.pdf
+│   ├── 📄 °MIP Examens Probabilités statistiques FST MARRAKECH.pdf
+│   ├── 📄 °MIP BCG Examens Probabilités statistiques FST BM.pdf
+│   ├── 📄 °CP2 Examens Probabilités Statistiques descriptives ENSA TETOUAN.pdf
+│   ├── 📄 °CP2 Examens Probabilités Statistiques descriptives ENSA KENITRA.pdf
+│   ├── 📄 °BCG TD Probabilités statistiques FST FES 19 20.pdf
+│   ├── 📄 °BCG TD Probabilités statistiques FST BM 08 09 10.pdf
+│   ├── 📄 °BCG Cours Probabilités statistiques FST MOHAMMEDIA.pdf
+│   ├── 📄 °BCG Cours Probabilités statistiques FST FES 19 20.pdf
+│   ├── 📄 °SMAI3 Cours Probabilités statistiques FSJ ELJADIDA 20-21.pdf
+│   ├── 📄 °MIP TD Probabilités statistiques FST MOHAMMEDIA 20 21.pdf
+│   ├── 📄 °MIP TD Probabilités statistiques FST MARRAKECH 19 20.pdf
+│   ├── 📄 °SMAI3 TD Probabilités statistiques FSR RABAT 16 17.pdf
+│   ├── 📄 °CP2 TD Probabilités Statistiques descriptives ENSA TETOUAN 14 15.pdf
+│   ├── 📄 °CP2 TD Probabilités Statistiques descriptives ENSA OUAJDA 19 20.pdf
+│   ├── 📄 °CP2 Cours Probabilités Statistiques descriptives ENSA KENITRA.pdf
+│   ├── 📄 °CP2 TD Probabilités Statistiques descriptives ENSA KENITRA.pdf
+│   ├── 📄 °CP2 TD Probabilités Statistiques descriptives ENSA HOCIEMA.pdf
+│   ├── 📄 °CP2 TD Probabilités Statistiques descriptives ENSA AGADIR.pdf
+│   ├── 📄 °MIP TD Probabilités statistiques FST TANGER 17 18.pdf
+│   ├── 📄 °SMA3 COURS Probabilités statistiques FSDM-FES 21-22.pdf
+│   ├── 📄 °CP2 TD Probabilités Statistiques descriptives ENSA TETOUAN 16 17.pdf
+│   ├── 📄 °CP2 TD Probabilités Statistiques descriptives ENSA TETOUAN 13 14 B.pdf
+│   ├── 📄 °CP2 TD Probabilités Statistiques descriptives ENSA TETOUAN 13 14 A.pdf
+│   ├── 📄 °CP2 TD Probabilités Statistiques descriptives ENSA SAFI 17 18.pdf
+│   ├── 📄 °SMAI3 Cours Probabilités Statistiques descriptives FSJ ELJADIDA 21 22.pdf
+│   ├── 📄 °MIP Cours Probabilités statistiques FST SETTET 19 20.pdf
+│   ├── 📄 °MIP TD Probabilités statistiques FST SETTET 19 20.pdf
+│   ├── 📄 °SMA3 COURS Probabilités statistiques FSA-AGADIR 20-21.pdf
+│   ├── 📄 °SMA3 COURS Probabilités statistiques FSDM-FES 20-21.pdf
+│   ├── 📄 °SMAI3 Cours Probabilités Statistiques descriptives FSBM CASABLANCA 19 20.pdf
+│   ├── 📄 °MIP TD Probabilités statistiques FST TANGER 20 21.pdf
+│   ├── 📄 °SMA3 Cours Probabilités statistiques FSO-OUAJDA 20-21.pdf
+│   ├── 📄 °MIP TD Probabilités statistiques FST MOHAMMEDIA 19 20.pdf
+│   ├── 📄 °MIP TD Probabilités statistiques FST MARRAKECH 20 21.pdf
+│   ├── 📄 °CP2 TD Probabilités Statistiques descriptives ENSA KENITRA 10 11.pdf
+│   ├── 📄 °SMAI3 Cours Probabilités Statistiques descriptives FSM MEKNES 18 19.pdf
+│   ├── 📄 °CP2 TD Probabilités Statistiques descriptives ENSA TETOUAN 17 18.pdf
+│   ├── 📄 °CP2 Cours Probabilités Statistiques descriptives ENSA HOCIEMA.pdf
+│   ├── 📄 °CP2 Cours Probabilités Statistiques descriptives ENSA AGADIR.pdf
+│   ├── 📄 °CP2 Cours Probabilités Statistiques descriptives ENSA OUAJDA 19 20.pdf
+│   ├── 📄 °GMI TD Probabilités statistiques FST BM 19 20.pdf
+│   ├── 📄 °MIP GEGM Cours Probabilités statistiques FST BM.pdf
+│   ├── 📄 °MIP TD Probabilités statistiques FST SETTET 16 17.pdf
+│   └── 📄 °SMAI3 Cours Probabilités Statistiques descriptives FSAC CASABLANCA 16 17.pdf
+├── 🔗📁 + +PROBABILITÉS ET STATISTIQUES SABORPCMATH.COM/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 📄 Probabilités conditionnelles Exercices corrigés.pdf
+├── 📄 Chapitre 4 Variables aleatoires discretes.pdf
+├── 📄 probabilite-exercices-corriges detaillé 2014.pdf
+├── 📄 PROBABILITES – EXERCICES CORRIGES .pdf
+├── 📄 Examen SMC4‐M26  probabilités Session de printemps 2016_2017.pdf
+├── 📄 Examen Session printemps probabilités 2015.pdf
+├── 📄 Chapitre 3 Calcul des Probabilites .pdf
+├── 📄 TD série 2 variables aléatoires discrètes Corrige.pdf
+├── 📄 TD  série 1 SMC4‐M26  probabilités et statistiques.pdf
+├── 📄 td probabilité sans correction ensaf .pdf
+├── 📄 Examen Final de Probabilités et Statistique.pdf
+├── 📄 Calcul des probabilités 1 Exercices Corrigés.pdf
+├── 📄 Correction TD série 3 Variables aléatoires continues.pdf
+├── 📄 Examen Session printemps rattrapage SMC4-M26  probabilités (2).pdf
+├── 📄 TD série 3 Variables aléatoires continues (2).pdf
+├── 📄 Examen Session printemps Rattrapage SMC4-M26  probabilités.pdf
+├── 📄 Examen SMC4‐M26  probabilités Session de printemps 2017_2018.pdf
+├── 📄 Correction feuille TD 3  probabilités conditionnelles, indépendance.pdf
+├── 📄 TD série 1 Probabilités et Statistiques.pdf
+├── 📄 TP N°1 - Statistiques Descriptives S1-Section F.pdf
+├── 📄 Corrigé TD série 1 Probabilités et Statistiques.pdf
+├── 📄 Corrigé Examen Session printemps SMC4-M26  probabilités.pdf
+├── 📄 Chapitre10-Probabilites_conditionnelles_Loi_binomiale.pdf
+├── 📄 Licence 3 Probabilités Exercices corrigés de TD.pdf
+├── 📄 Série Supplémentaire N˚02 – Statistiques Doubles.pdf
+├── 📄 Série Supplémentaire N˚1– Statistiques Descriptives.pdf
+├── 📄 Corrigé TD série 1 Probabilités et Statistiques.pdf
+├── 📄 Examen Session printemps SMC4-M26  probabilités.pdf
+├── 📄 Série N◦1 Statistique Descriptive.pdf
+├── 📄 TD1 Exercices de statistiques descriptives.pdf
+├── 📄 Série N◦3 Variables aléatoires discerètes.pdf
+├── 📄 Probabilités Exercices corrigés.pdf
+├── 📄 TD Probabilités feuille n◦ 4 Probabilités conditionnelles.pdf
+├── 📄 TD série 2 Variables aléatoires discrètes.pdf
+└── 📁 statistiques et proba ensaf/
+    ├── 📄 correction ex8 td statistique.pdf
+    ├── 📄 Screenshot_20190417-170025.jpg
+    ├── 📄 52941769_2015384525436736_7538194893319962624_n.jpg
+    ├── 📄 proba conditionnele.pdf
+    ├── 📄 desktop.ini
+    ├── 📄 60984541_615315868943127_1252156900074586112_n.jpg
+    ├── 📄 Chapitre 3 (1).pptx
+    ├── 📄 53239489_627754844348981_8153669986078949376_n.jpg
+    ├── 📄 53470910_423408935095730_1354509020165046272_n.jpg
+    ├── 📄 53160542_776420806070594_5459310518806249472_n.jpg
+    ├── 📄 52868310_2332199663465052_2383205403258257408_n.jpg
+    ├── 📄 2012-2013-Proba-TD4-ProbaConditionnelle.pdf
+    ├── 📄 53110811_325976358051276_7190324554051354624_n.jpg
+    ├── 📄 60733424_451553942246683_7502601382646513664_n.jpg
+    ├── 📄 cours3 proba.pdf
+    ├── 📄 EX_Probabilites-conditionnelles_1.pdf
+    ├── 📄 exercices.pdf
+    ├── 📄 Capture statistique.PNG
+    ├── 📄 Chapitre 1 et 2 (3).pptx
+    └── 📁 Probabilités & statistiques descriptives/
+        ├── 📄 Chapitre 3.pptx
+        ├── 📄 résumé statistique.pdf
+        ├── 📄 null-4.pdf
+        ├── 📄 examencp2.pdf
+        ├── 📄 Chapitre 1 et 2 [Enregistrement automatique].pptx
+        ├── 📄 td statique.pdf
+        ├── 📄 null-3.pdf
+        ├── 📄 null-1.pdf
+        ├── 📄 Exams TDs Statistiques & Probabilités.pdf
+        └── 📁 exam et résumer/
+
+═════════════════════════════════════
+  Fin du fichier · Probabilité statistique
+═════════════════════════════════════

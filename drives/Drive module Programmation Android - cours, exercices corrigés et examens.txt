@@ -1,0 +1,124 @@
+📚 MODULE : Programmation Android                     
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Programmation Android.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Programmation Android/
+├── 🔗📁 APPLICATION MOBILE/  (raccourci)
+│   ├── 📁 TD/
+│   │   └── 📄 TD_App_Mobile_Khouloud.pdf
+│   ├── 📁 COURS/
+│   │   ├── 📄 8- CompApp__Part2-MobileApp- L3_SI.pdf
+│   │   ├── 📄 8- CompApp__1-ACTIVITY__MobileApp- L3_SI.pdf
+│   │   ├── 📄 7- Menu_Dialog_ListeView-MobileApp- L3_SI.pdf
+│   │   ├── 📄 6- Intents-MobileApp- L3_SI.pdf
+│   │   ├── 📄 4- Interface Utilisateur Graphique-MobileApp- L3_SI.pdf
+│   │   ├── 📄 3- Architecture Android-MobileApp- L3_SI.pdf
+│   │   ├── 📄 2- PlateForme Android-MobileApp- L3_SI.pdf
+│   │   ├── 📄 1- Introduction-MobileApp- L3_SI.pdf
+│   │   ├── 📄 5- Ressources-MobileApp- L3_SI.pdf
+│   │   └── 📄 9- SQLite-MobileApp- L3_SI.pdf
+│   └── 📁 EXERCICES/
+│       ├── 📄 Exercices_App_Mobile_corrigés.pdf
+│       └── 📄 Examen_noncorrigé.pdf
+├── 🔗📁 APP MOB/  (raccourci)
+│   ├── 📁 REVISION/
+│   ├── 📁 EXAMS/
+│   │   ├── 📄 Exam2023_c.pdf
+│   │   ├── 📄 Exam2021.pdf
+│   │   ├── 📄 Interrogation AppMobil 2016-2017 Blida.pdf
+│   │   ├── 📄 Ratt2019.pdf
+│   │   ├── 📄 Exam2021_c.pdf
+│   │   ├── 📄 Exam2020.pdf
+│   │   ├── 📄 Exam2020_c.pdf
+│   │   └── 📄 Exam2019_c.pdf
+│   ├── 📁 TP/
+│   │   ├── 📄 TP07-SQLite.pdf
+│   │   ├── 📄 TP06-Firebase.pdf
+│   │   ├── 📄 TP05-Intent et GridView.pdf
+│   │   ├── 📄 TP04-Menus.pdf
+│   │   ├── 📄 TP3-Adaptateurs et Listes.pdf
+│   │   ├── 📄 TP02-Composants graphiques.pdf
+│   │   ├── 📄 TP01-Installation.pdf
+│   │   ├── 📄 TP3-Adaptateurs_et_Listes.pdf
+│   │   └── 📄 tp2.pdf
+│   └── 📁 COURS/
+│       ├── 📄 Lecture_06.pdf
+│       ├── 📄 Lecture_05.pdf
+│       ├── 📄 Lecture_04.pdf
+│       ├── 📄 lecture3.pdf
+│       ├── 📄 Lecture_02.pdf
+│       ├── 📄 lectur1.pdf
+│       └── 📄 lectur0.pdf
+├── 📄 course android.txt
+├── 📁 +andro/
+│   ├── 📄 ANDROID – TP1.pdf
+│   ├── 📄 ANDROID DEVELOPMENT.pdf
+│   ├── 📄 Architecture d’une application mobile.pdf
+│   ├── 📄 Themes Applications Mobiles -1.pdf
+│   ├── 📄 Communication entre applications : la classe Intent.pdf
+│   ├── 📄 TP - ANDROID  Threads & Handlers.pdf
+│   └── 📄 Applications Mobiles : Interfaces graphiques.pdf
+├── 📁 android++ tp exm co Crs/
+│   ├── 📄 TP1 HW-Code.zip
+│   ├── 📄 TP2 HW-Code.zip
+│   ├── 📄 TP3-HW.zip
+│   ├── 📄 TP4 HW-Code.zip
+│   ├── 📄 CorrectionExamsTP.zip
+│   ├── 📄 Exam3- compteur.pdf
+│   ├── 📄 Exam4- concat.pdf
+│   ├── 📄 TP4 - Stockage de donnees.pdf
+│   ├── 📄 DS_2011-2012.pdf
+│   ├── 📄 Exam_2011-2012.pdf
+│   ├── 📄 Correction-Exam_2011-2012.pdf
+│   ├── 📄 TP1 - Initiation Java-Eclipse.pdf
+│   ├── 📄 Correction DS_2011-2012.pdf
+│   ├── 📄 TP2_Android.pdf
+│   ├── 📄 TP2 - Initiation Android.pdf
+│   ├── 📄 Exam5-compteur2.pdf
+│   ├── 📄 TP3 - Composants Android.pdf
+│   ├── 📄 Cours1 - Intro.pdf
+│   ├── 📄 Exam1- calculatrice.pdf
+│   ├── 📄 Android-TP2.pdf
+│   ├── 📄 Exam2- moyenne.pdf
+│   └── 📄 Android-TP1.pdf
+└── 📁 TP/
+    ├── 📄 Projets Android _ INFO 2.docx
+    ├── 📄 TP1_code.rar
+    ├── 📄 Atelier2-Android 2020.pdf
+    ├── 📄 tp1 2020.pdf
+    ├── 📄 tp2.pdf
+    ├── 📁 Atelier 1/
+    │   ├── 📄 androidTP1_4.jpg
+    │   ├── 📄 androidTP1_1.jpg
+    │   ├── 📄 androidTP1_5.jpg
+    │   ├── 📄 androidTP1_3.jpg
+    │   ├── 📄 androidTP1_6.jpg
+    │   ├── 📄 2rj.jpg
+    │   └── 📁 Untitled folder/
+    │       ├── 📄 TD2.doc
+    │       ├── 📄 diagramme-de-sequence-cahier-des-charges-ascenseur.pdf
+    │       ├── 📄 Analyse-et-conception-UML
+    │       └── 📄 TD1.pdf
+    ├── 📁 Atelier 2/
+    └── 📁 Untitled folder/
+        ├── 📄 Développement Android  Partie1.pdf
+        ├── 📄 S3- Android v4 Applications et activités.pdf
+        ├── 📄 S2- Android v5 Layouts.pdf
+        ├── 📄 S5 mysql+ Interaction avec le matériel.pdf
+        ├── 📄 S4 Android – SQLite3.pdf
+        └── 📄 tp3.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Programmation Android
+═════════════════════════════════════

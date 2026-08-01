@@ -1,0 +1,1000 @@
+📚 MODULE : RESEAUX                                   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module RESEAUX.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 RESEAUX/
+├── 🔗📁 RÉSEAUX/  (raccourci)
+│   ├── 📁 TP-RÉSEAUX AOUDIA-ABBAS/
+│   │   ├── 📄 TEST_TP_G04
+│   │   ├── 📁 TP Aoudia/
+│   │   │   ├── 📄 Série 2 de tp routage stat et dyn- partie2-b.pkt
+│   │   │   ├── 📄 TP1.pkt
+│   │   │   ├── 📄 Série 2 de tp routage stat et dyn- partie3.pkt
+│   │   │   ├── 📄 TP2.pkt
+│   │   │   ├── 📄 Série 2 de tp routage stat et dyn- partie2-a.pkt
+│   │   │   └── 📄 Série 2 de tp routage stat et dyn- partie 1.pkt
+│   │   └── 📁 TP Abbas/
+│   │       ├── 📄 TP4-RÉSEAUX.pkt
+│   │       ├── 📄 TP5-RÉSEAUX-DYNAMIQUE.pkt
+│   │       ├── 📄 TP5-RÉSEAUX-STATIQUE.pkt
+│   │       ├── 📄 LAST TP ABBAS.pkt
+│   │       └── 📄 TESTTP.pkt
+│   ├── 📁 TEST + EXAMENS/
+│   │   ├── 📄 Examens Réseaux - Msila.pdf
+│   │   └── 📄 test de td commun reseau 6 mai 2017- Version Finale- Solution2.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 Série4_corrigé.pdf
+│   │   └── 📄 series_td_reseaux.pdf
+│   ├── 📁 Examen RÉSEAUX 2017/
+│   │   ├── 📄 5.jpg
+│   │   ├── 📄 1.jpg
+│   │   ├── 📄 3.jpg
+│   │   ├── 📄 2.jpg
+│   │   └── 📄 4.jpg
+│   └── 📁 COURS/
+│       └── 📄 reseaux_all.pdf
+├── 🔗📁 RÉSEAUX/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 🔗📁 Administration des réseaux/  (raccourci)
+│   ├── 📁 TP/
+│   │   ├── 📄 TP6 : SNMP.pdf
+│   │   ├── 📄 TP4 : VLAN.pdf
+│   │   ├── 📄 TP5 : ACL.pdf
+│   │   ├── 📄 TP1 (idem).pdf
+│   │   ├── 📄 TP3 : Routage dynamique.pdf
+│   │   ├── 📄 TP2 : Routage statique.pdf
+│   │   └── 📄 TP1 : DHCP et DNS (corrigé).pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 TD_ACL_VLANCorrection.pdf
+│   │   ├── 📄 TD2 : VLANs.pdf
+│   │   ├── 📄 TD2 : VLANs (corrigé).pdf
+│   │   ├── 📄 TD3 : SNMP (corrigé).pdf
+│   │   └── 📄 TD1 : DHCP et DNS (Corrigé).pdf
+│   └── 📁 Cours/
+│       ├── 📄 Chapitre 4 : VLAN.pdf
+│       ├── 📄 Chapitre 4 : ACL.pdf
+│       ├── 📄 Chapitre 5 : SNMP.pdf
+│       ├── 📄 Chapitre 4 : ACL et contrôle d’accès.pdf
+│       ├── 📄 Chapitre 3 : Routage.pdf
+│       ├── 📄 Chapitre 2 : DHCP et DNS.pdf
+│       └── 📄 Chapitre 1 : Introduction.pdf
+├── 🔗📁 RÉSEAUX/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 🔗📁 000 RESEAUX/  (raccourci)
+│   ├── 📄 2022 SABOR.PNG
+│   ├── 📁 FSDM Prog RS/
+│   │   ├── 📄 chap6.ppt
+│   │   ├── 📄 chap5.ppt
+│   │   ├── 📄 chap4.ppt
+│   │   ├── 📄 chap3.ppt
+│   │   ├── 📄 chap2.pptx
+│   │   ├── 📄 chap1.ppt
+│   │   ├── 📄 chap7.ppt
+│   │   ├── 📄 r1.jpg
+│   │   ├── 📄 r2.jpg
+│   │   ├── 📁 TP/
+│   │   │   ├── 📁 TP4/
+│   │   │   │   ├── 📄 TP 4.pdf
+│   │   │   │   ├── 📄 serv_sig.c
+│   │   │   │   └── 📄 server.c
+│   │   │   ├── 📁 TP3/
+│   │   │   │   ├── 📁 socklab source/
+│   │   │   │   │   ├── 📄 readline-devel-6.0-3.fc12.i686.rpm
+│   │   │   │   │   └── 📄 ncurses-devel-5.7-3.20090207.fc12.i686.rpm
+│   │   │   │   └── 📁 Docs/
+│   │   │   │       ├── 📄 Commandes systeme.pdf
+│   │   │   │       ├── 📄 socklab.pdf
+│   │   │   │       ├── 📄 TCP et UDP.pdf
+│   │   │   │       └── 📄 outils.pdf
+│   │   │   ├── 📁 TP2/
+│   │   │   │   ├── 📄 TP.apache.doc
+│   │   │   │   └── 📁 doc/
+│   │   │   │       ├── 📄 Poly-Cours.pdf
+│   │   │   │       ├── 📄 NIS migration.pdf
+│   │   │   │       ├── 📄 NIS configuration Client-Serveur.pdf
+│   │   │   │       ├── 📄 Introduction au service NFS.pdf
+│   │   │   │       ├── 📄 Systemes de fichiers reseau.pdf
+│   │   │   │       ├── 📄 TP NIS-NFS.pdf
+│   │   │   │       ├── 📄 Linux NFS.pdf
+│   │   │   │       ├── 📁 HOWTO PDF fr/
+│   │   │   │       │   ├── 📄 Concepts du reseau sous Linux.pdf
+│   │   │   │       │   ├── 📄 Possibilites reseau de Linux.pdf
+│   │   │   │       │   ├── 📄 Shadow Password.pdf
+│   │   │   │       │   ├── 📄 Partages SMB.pdf
+│   │   │   │       │   ├── 📄 Sous-reeseaux IP.pdf
+│   │   │   │       │   ├── 📄 Client et serveur NIS.pdf
+│   │   │   │       │   └── 📄 Client et serveur de partages NFS.pdf
+│   │   │   │       └── 📁 HOWTO PDF en/
+│   │   │   │           ├── 📄 SMB.pdf
+│   │   │   │           ├── 📄 Networking-Overview.pdf
+│   │   │   │           └── 📄 NFS.pdf
+│   │   │   ├── 📁 TP1/
+│   │   │   │   ├── 📄 LB-virtualisationEntrepriseBearstech(1).pdf
+│   │   │   │   └── 📄 TPvirtualisation.docx
+│   │   │   └── 📁 aa/
+│   │   │       ├── 📄 javax.mail.jar
+│   │   │       ├── 📁 url-examples/
+│   │   │       │   ├── 📄 HttpURLConnection.java
+│   │   │       │   └── 📄 URLConnection-cookies-2.java
+│   │   │       ├── 📁 TP4/
+│   │   │       │   ├── 📁 JavaMail API – Sending email via Gmail SMTP example_fichiers/
+│   │   │       │   │   ├── 📄 xd_arbiter_002.htm
+│   │   │       │   │   ├── 📄 xd_arbiter.htm
+│   │   │       │   │   ├── 📄 pubads_impl_83.js
+│   │   │       │   │   ├── 📄 sdk.js
+│   │   │       │   │   ├── 📄 style.css
+│   │   │       │   │   ├── 📄 prism.js
+│   │   │       │   │   ├── 📄 embed.js
+│   │   │       │   │   ├── 📄 jquery.js
+│   │   │       │   │   ├── 📄 default.css
+│   │   │       │   │   ├── 📄 count.js
+│   │   │       │   │   ├── 📄 gpt.js
+│   │   │       │   │   ├── 📄 brand
+│   │   │       │   │   ├── 📄 a_011.htm
+│   │   │       │   │   ├── 📄 bootstrap.js
+│   │   │       │   │   ├── 📄 a_009.htm
+│   │   │       │   │   ├── 📄 a_006.htm
+│   │   │       │   │   ├── 📄 adsbygoogle.js
+│   │   │       │   │   ├── 📄 a.htm
+│   │   │       │   │   ├── 📄 analytics.js
+│   │   │       │   │   ├── 📄 a.js
+│   │   │       │   │   ├── 📁 a_data_011/
+│   │   │       │   │   │   ├── 📄 show_ads_impl.js
+│   │   │       │   │   │   ├── 📄 ads.htm
+│   │   │       │   │   │   ├── 📄 expansion_embed.js
+│   │   │       │   │   │   └── 📁 ads_data/
+│   │   │       │   │   │       ├── 📄 googlelogo_color_112x36dp.png
+│   │   │       │   │   │       ├── 📄 m_js_controller.js
+│   │   │       │   │   │       ├── 📄 abg.js
+│   │   │       │   │   │       ├── 📄 7799634520991778171.jpg
+│   │   │       │   │   │       └── 📁 ads_data/
+│   │   │       │   │   │           └── 📄 F5EcQNuXvzCwnROrenDy46C3KsouVqfn29hTt0MreZk.js
+│   │   │       │   │   ├── 📁 a_data_010/
+│   │   │       │   │   │   └── 📄 ads
+│   │   │       │   │   ├── 📁 a_data_009/
+│   │   │       │   │   │   ├── 📄 B9333836.htm
+│   │   │       │   │   │   ├── 📄 impl_v26.js
+│   │   │       │   │   │   └── 📁 B9333836_data/
+│   │   │       │   │   │       ├── 📄 sbhK2lTE.js
+│   │   │       │   │   │       ├── 📄 lidar.js
+│   │   │       │   │   │       └── 📄 6-Breaking_Boundaries__White__-_English_-_300x250_-JPG.jpg
+│   │   │       │   │   ├── 📁 a_data_008/
+│   │   │       │   │   │   ├── 📄 ads.htm
+│   │   │       │   │   │   └── 📁 ads_data/
+│   │   │       │   │   │       └── 📄 10422586985525664956.gif
+│   │   │       │   │   ├── 📁 a_data_007/
+│   │   │       │   │   │   ├── 📄 ads.htm
+│   │   │       │   │   │   └── 📁 ads_data/
+│   │   │       │   │   │       └── 📄 1837995328059036364.jpg
+│   │   │       │   │   ├── 📁 a_data_006/
+│   │   │       │   │   │   ├── 📄 lounge.js
+│   │   │       │   │   │   ├── 📄 noavatar92.png
+│   │   │       │   │   │   ├── 📄 lounge_002.js
+│   │   │       │   │   │   ├── 📄 ga.js
+│   │   │       │   │   │   ├── 📄 lounge.css
+│   │   │       │   │   │   ├── 📄 config.js
+│   │   │       │   │   │   ├── 📄 discovery.js
+│   │   │       │   │   │   └── 📄 common.js
+│   │   │       │   │   ├── 📁 a_data_005/
+│   │   │       │   │   │   ├── 📄 ads.htm
+│   │   │       │   │   │   └── 📁 ads_data/
+│   │   │       │   │   │       └── 📄 css.css
+│   │   │       │   │   ├── 📁 a_data_004/
+│   │   │       │   │   │   ├── 📄 ads.htm
+│   │   │       │   │   │   └── 📁 ads_data/
+│   │   │       │   │   │       ├── 📄 blank_V1_300x250.htm
+│   │   │       │   │   │       └── 📁 blank_V1_300x250_data/
+│   │   │       │   │   │           ├── 📄 css_003.css
+│   │   │       │   │   │           ├── 📄 templatecontainer.js
+│   │   │       │   │   │           ├── 📄 1424164217012737380.jpg
+│   │   │       │   │   │           ├── 📄 7580047107517688066.png
+│   │   │       │   │   │           ├── 📄 css.css
+│   │   │       │   │   │           ├── 📄 addata.js
+│   │   │       │   │   │           └── 📄 css_002.css
+│   │   │       │   │   ├── 📁 a_data_003/
+│   │   │       │   │   │   ├── 📄 osd.js
+│   │   │       │   │   │   ├── 📄 ads.htm
+│   │   │       │   │   │   └── 📁 ads_data/
+│   │   │       │   │   │       └── 📄 15764176442573507276.jpg
+│   │   │       │   │   ├── 📁 a_data_002/
+│   │   │       │   │   │   └── 📄 ads
+│   │   │       │   │   └── 📁 a_data/
+│   │   │       │   │       ├── 📄 B9333836.htm
+│   │   │       │   │       └── 📁 B9333836_data/
+│   │   │       │   │           └── 📄 20-500BUILD---728x90---White-12.jpg
+│   │   │       │   └── 📁 Get the Mime Type from a File - Real_s Java How-to_fichiers/
+│   │   │       │       ├── 📄 sh.htm
+│   │   │       │       ├── 📄 materialize.js
+│   │   │       │       ├── 📄 materialize.css
+│   │   │       │       ├── 📄 layers.js
+│   │   │       │       ├── 📄 embed.js
+│   │   │       │       ├── 📄 icon.css
+│   │   │       │       ├── 📄 fr.js
+│   │   │       │       ├── 📄 fql
+│   │   │       │       ├── 📄 java-0487.htm
+│   │   │       │       ├── 📄 jquery-2.js
+│   │   │       │       ├── 📄 howto.css
+│   │   │       │       ├── 📄 java-0487_002.htm
+│   │   │       │       ├── 📄 css.css
+│   │   │       │       ├── 📄 addthis_widget.js
+│   │   │       │       ├── 📄 analytics.js
+│   │   │       │       ├── 📄 300lo.json
+│   │   │       │       ├── 📄 alfie.js
+│   │   │       │       ├── 📄 adsbygoogle.js
+│   │   │       │       ├── 📄 a.htm
+│   │   │       │       ├── 📄 a_002.htm
+│   │   │       │       ├── 📄 counter.js
+│   │   │       │       ├── 📁 java-0487_data_003/
+│   │   │       │       │   ├── 📄 ads.htm
+│   │   │       │       │   ├── 📄 show_ads_impl.js
+│   │   │       │       │   ├── 📄 expansion_embed.js
+│   │   │       │       │   └── 📁 ads_data/
+│   │   │       │       │       └── 📁 ads_data/
+│   │   │       │       │           └── 📄 F5EcQNuXvzCwnROrenDy46C3KsouVqfn29hTt0MreZk.js
+│   │   │       │       ├── 📁 java-0487_data_002/
+│   │   │       │       │   ├── 📄 ads.htm
+│   │   │       │       │   └── 📁 ads_data/
+│   │   │       │       │       └── 📄 ads.htm
+│   │   │       │       └── 📁 java-0487_data/
+│   │   │       │           ├── 📄 osd.js
+│   │   │       │           ├── 📄 ads.htm
+│   │   │       │           └── 📄 zrt_lookup.htm
+│   │   │       ├── 📁 TP3/
+│   │   │       │   └── 📄 IP-M1-20132014.pdf
+│   │   │       ├── 📁 socket-examples/
+│   │   │       │   ├── 📄 Serveur.java
+│   │   │       │   ├── 📄 test.java
+│   │   │       │   ├── 📄 Reception.java
+│   │   │       │   ├── 📄 Emission.java
+│   │   │       │   ├── 📄 server_thread.java
+│   │   │       │   ├── 📄 server_tcp.java
+│   │   │       │   ├── 📄 inetaddress.java
+│   │   │       │   ├── 📄 server_run.java
+│   │   │       │   └── 📄 connexion.java
+│   │   │       └── 📁 jar/
+│   │   │           ├── 📄 javax.mail.jar
+│   │   │           ├── 📁 Ping/
+│   │   │           │   ├── 📄 javax.mail.jar
+│   │   │           │   ├── 📁 src/
+│   │   │           │   │   ├── 📄 javax.mail.jar
+│   │   │           │   │   ├── 📄 Lookup.java
+│   │   │           │   │   └── 📄 mail.java
+│   │   │           │   ├── 📁 bin/
+│   │   │           │   │   ├── 📄 Test.class
+│   │   │           │   │   └── 📄 javax.mail.jar
+│   │   │           │   └── 📁 .settings/
+│   │   │           │       └── 📄 javax.mail.jar
+│   │   │           ├── 📁 .recommenders/
+│   │   │           │   ├── 📁 index/
+│   │   │           │   │   └── 📁 http___download_eclipse_org_recommenders_models_mars_/
+│   │   │           │   │       ├── 📄 _1.fdt
+│   │   │           │   │       ├── 📄 _1.tis
+│   │   │           │   │       ├── 📄 _1.tii
+│   │   │           │   │       ├── 📄 _1.fdx
+│   │   │           │   │       ├── 📄 _1.frq
+│   │   │           │   │       ├── 📄 _1.prx
+│   │   │           │   │       └── 📄 _1.nrm
+│   │   │           │   └── 📁 caches/
+│   │   │           │       └── 📄 manual-mappings.json
+│   │   │           └── 📁 .metadata/
+│   │   │               ├── 📄 _log.txt
+│   │   │               └── 📁 .plugins/
+│   │   │                   ├── 📁 org.eclipse.wst.jsdt.ui/
+│   │   │                   │   └── 📄 OpenTypeHistory.xml
+│   │   │                   ├── 📁 org.eclipse.rse.core/
+│   │   │                   │   └── 📁 profiles/
+│   │   │                   │       └── 📁 PRF.hp-pc_3/
+│   │   │                   │           ├── 📄 node.properties
+│   │   │                   │           └── 📁 H.local_16/
+│   │   │                   │               └── 📄 node.properties
+│   │   │                   ├── 📁 org.eclipse.m2e.logback.configuration/
+│   │   │                   │   └── 📄 logback.1.6.0.20150526-2032.xml
+│   │   │                   ├── 📁 org.eclipse.ltk.core.refactoring/
+│   │   │                   │   └── 📁 .refactorings/
+│   │   │                   │       └── 📁 Ping/
+│   │   │                   │           └── 📁 2016/
+│   │   │                   │               └── 📁 5/
+│   │   │                   │                   └── 📁 20/
+│   │   │                   │                       └── 📄 refactorings.history.xml
+│   │   │                   ├── 📁 org.eclipse.jdt.ui/
+│   │   │                   │   └── 📄 dialog_settings.xml
+│   │   │                   ├── 📁 org.eclipse.jdt.core/
+│   │   │                   │   ├── 📄 2529425352.index
+│   │   │                   │   ├── 📄 1204721684.index
+│   │   │                   │   ├── 📄 variablesAndContainers.dat
+│   │   │                   │   ├── 📄 assumedExternalFilesCache
+│   │   │                   │   ├── 📄 nonChainingJarsCache
+│   │   │                   │   ├── 📄 savedIndexNames.txt
+│   │   │                   │   ├── 📄 756906832.index
+│   │   │                   │   ├── 📄 4060735715.index
+│   │   │                   │   ├── 📄 708171384.index
+│   │   │                   │   ├── 📄 3844972067.index
+│   │   │                   │   ├── 📄 732305971.index
+│   │   │                   │   ├── 📄 2752043539.index
+│   │   │                   │   ├── 📄 2464996709.index
+│   │   │                   │   ├── 📄 362144405.index
+│   │   │                   │   ├── 📄 2674038792.index
+│   │   │                   │   ├── 📄 3793610375.index
+│   │   │                   │   ├── 📄 2564428345.index
+│   │   │                   │   ├── 📄 1773079057.index
+│   │   │                   │   ├── 📄 1730167810.index
+│   │   │                   │   ├── 📄 1567023110.index
+│   │   │                   │   ├── 📄 1412568314.index
+│   │   │                   │   └── 📄 2105838259.index
+│   │   │                   ├── 📁 org.eclipse.epp.logging.aeri.ui/
+│   │   │                   │   ├── 📁 remote-index/
+│   │   │                   │   │   ├── 📄 _1.tis
+│   │   │                   │   │   ├── 📄 _1.fdt
+│   │   │                   │   │   ├── 📄 _1.fdx
+│   │   │                   │   │   ├── 📄 _1.frq
+│   │   │                   │   │   ├── 📄 _1.nrm
+│   │   │                   │   │   └── 📄 _1.prx
+│   │   │                   │   └── 📁 history/
+│   │   │                   │       ├── 📄 _0.fnm
+│   │   │                   │       └── 📄 _0.fdt
+│   │   │                   ├── 📁 org.eclipse.e4.workbench/
+│   │   │                   │   └── 📄 workbench.xmi
+│   │   │                   ├── 📁 org.eclipse.debug.ui/
+│   │   │                   │   └── 📄 launchConfigurationHistory.xml
+│   │   │                   ├── 📁 org.eclipse.debug.core/
+│   │   │                   │   └── 📁 .launches/
+│   │   │                   │       └── 📄 FileUtils.launch
+│   │   │                   ├── 📁 org.eclipse.core.runtime/
+│   │   │                   │   └── 📁 .settings/
+│   │   │                   │       └── 📄 org.eclipse.ui.workbench.prefs
+│   │   │                   └── 📁 org.eclipse.core.resources/
+│   │   │                       ├── 📁 .projects/
+│   │   │                       │   └── 📁 Ping/
+│   │   │                       │       ├── 📄 _markers
+│   │   │                       │       ├── 📁 org.eclipse.jdt.core/
+│   │   │                       │       │   └── 📄 state.dat
+│   │   │                       │       └── 📁 .indexes/
+│   │   │                       │           └── 📁 e4/
+│   │   │                       │               └── 📄 history.index
+│   │   │                       └── 📁 .history/
+│   │   │                           ├── 📁 ea/
+│   │   │                           │   └── 📄 80bb862fa61600161357afc769082f91
+│   │   │                           ├── 📁 e6/
+│   │   │                           │   └── 📄 a0824af7a11600161357afc769082f91
+│   │   │                           ├── 📁 e2/
+│   │   │                           │   ├── 📄 d00c82b6a51600161357afc769082f91
+│   │   │                           │   └── 📄 a0a3ab97a21600161357afc769082f91
+│   │   │                           ├── 📁 e/
+│   │   │                           │   └── 📄 a044ca97a11600161357afc769082f91
+│   │   │                           ├── 📁 d/
+│   │   │                           │   └── 📄 f00956caa51600161357afc769082f91
+│   │   │                           ├── 📁 ca/
+│   │   │                           │   └── 📄 105d765da21600161357afc769082f91
+│   │   │                           ├── 📁 ad/
+│   │   │                           │   └── 📄 802becb7a21600161357afc769082f91
+│   │   │                           ├── 📁 a9/
+│   │   │                           │   └── 📄 307bec9ea21600161357afc769082f91
+│   │   │                           ├── 📁 a0/
+│   │   │                           │   └── 📄 f00d2829a31600161357afc769082f91
+│   │   │                           ├── 📁 70/
+│   │   │                           │   └── 📄 c0980910a81600161347d2e2074627d1
+│   │   │                           ├── 📁 6a/
+│   │   │                           │   └── 📄 a03f7b62a81600161347d2e2074627d1
+│   │   │                           ├── 📁 69/
+│   │   │                           │   └── 📄 d00f2e0aa31600161357afc769082f91
+│   │   │                           ├── 📁 57/
+│   │   │                           │   └── 📄 60449f5ba81600161347d2e2074627d1
+│   │   │                           ├── 📁 47/
+│   │   │                           │   └── 📄 0034f3e7a11600161357afc769082f91
+│   │   │                           ├── 📁 34/
+│   │   │                           │   ├── 📄 b0732722a31600161357afc769082f91
+│   │   │                           │   └── 📄 80313f8ca71600161347d2e2074627d1
+│   │   │                           ├── 📁 2c/
+│   │   │                           │   └── 📄 f017f890a21600161357afc769082f91
+│   │   │                           ├── 📁 2a/
+│   │   │                           │   └── 📄 90fb77169c1600161357afc769082f91
+│   │   │                           ├── 📁 22/
+│   │   │                           │   └── 📄 c02b73fca51600161357afc769082f91
+│   │   │                           └── 📁 21/
+│   │   │                               └── 📄 b02ff5d6a01600161357afc769082f91
+│   │   └── 📁 2015-2016/
+│   │       ├── 📄 chap5.pdf
+│   │       ├── 📄 chap4.pdf
+│   │       ├── 📄 chap3.pdf
+│   │       ├── 📄 chap0.pdf
+│   │       └── 📄 chap6.pdf
+│   ├── 📁 FSDM Network/
+│   │   ├── 📁 TD/
+│   │   │   ├── 📄 corrige TD2 avec complement SMI S6 satori.pdf
+│   │   │   ├── 📄 TD2 SMI S6 07032020.pdf
+│   │   │   └── 📄 corrige TD1 SMI S6 25022020.pdf
+│   │   └── 📁 Complement Cours/
+│   │       ├── 📄 QuCoursReseaux.pdf
+│   │       ├── 📄 Chapitre 1 Prgrammation reseaux SMI S6.pdf
+│   │       ├── 📄 Chapitre 3 Prgrammation reseaux SMI S6.pdf
+│   │       ├── 📄 cours chap II_Prgrammation reseaux_S6_satori_16_02_2020.pdf
+│   │       ├── 📄 Chapitre 2 (half of it) Prgrammation reseaux SMI S6.pdf
+│   │       └── 📄 Complement cours_langage C_SMIS6Satori1802020.pdf
+│   ├── 📁 FSAC TCP-IP/
+│   │   └── 📁 TCP-IP/
+│   │       ├── 📁 TCP/
+│   │       │   ├── 📄 Clienttcp.sublime-workspace
+│   │       │   ├── 📄 Clienttcp.class
+│   │       │   ├── 📄 EchoClientSimple.class
+│   │       │   ├── 📄 EchoServerMultiple.class
+│   │       │   ├── 📄 ServerThread.class
+│   │       │   ├── 📄 EchoClient.class
+│   │       │   ├── 📄 EchoServer.class
+│   │       │   ├── 📄 facto2.java
+│   │       │   ├── 📄 facto.java
+│   │       │   ├── 📄 EchoServerSimple.java
+│   │       │   ├── 📄 EchoServerMultiple.java
+│   │       │   ├── 📄 EchoServer1.java
+│   │       │   ├── 📄 EchoServer.java
+│   │       │   ├── 📄 EchoClientSimple.java
+│   │       │   ├── 📄 EchoClient.java
+│   │       │   ├── 📄 Serveurtcp.java
+│   │       │   ├── 📄 Clienttcp.java
+│   │       │   ├── 📄 Serveurtcp.class
+│   │       │   └── 📁 Sock/
+│   │       │       ├── 📄 facto2.java
+│   │       │       ├── 📄 serveurtcp.java
+│   │       │       ├── 📄 serveurtcp.class
+│   │       │       ├── 📄 Serveur.class
+│   │       │       ├── 📄 ServerThread.class
+│   │       │       ├── 📄 facto.class
+│   │       │       ├── 📄 Serveur.java
+│   │       │       ├── 📄 facto.java
+│   │       │       ├── 📄 EchoServerSimple.class
+│   │       │       ├── 📄 EchoServerMultiple.class
+│   │       │       ├── 📄 EchoServer1.java
+│   │       │       ├── 📄 EchoServerMultiple.java
+│   │       │       ├── 📄 EchoServerSimple.java
+│   │       │       ├── 📄 EchoServer.java
+│   │       │       ├── 📄 clienttcp.class
+│   │       │       ├── 📄 clienttcp.java
+│   │       │       ├── 📄 EchoClient.java
+│   │       │       ├── 📄 EchoServer.class
+│   │       │       ├── 📄 EchoClientSimple.java
+│   │       │       ├── 📄 EchoClientSimple.class
+│   │       │       ├── 📄 EchoClient.class
+│   │       │       ├── 📄 ._serveurtcp.java
+│   │       │       ├── 📄 Client.class
+│   │       │       ├── 📄 ._facto.java
+│   │       │       ├── 📄 ._EchoServerMultiple.java
+│   │       │       ├── 📄 ._EchoServerSimple.java
+│   │       │       ├── 📄 ._EchoClientSimple.java
+│   │       │       ├── 📄 ._EchoServer.java
+│   │       │       ├── 📄 Client.java
+│   │       │       ├── 📄 ._Serveur.java
+│   │       │       ├── 📄 ._EchoClient.java
+│   │       │       ├── 📄 .DS_Store
+│   │       │       ├── 📄 ._Client.java
+│   │       │       ├── 📄 ._.DS_Store
+│   │       │       ├── 📄 ._clienttcp.java
+│   │       │       └── 📄 .com.apple.timemachine.supported
+│   │       ├── 📁 Sock/
+│   │       │   ├── 📄 facto2.java
+│   │       │   ├── 📄 serveurtcp.java
+│   │       │   ├── 📄 ServerThread.class
+│   │       │   ├── 📄 Serveur.java
+│   │       │   ├── 📄 facto.java
+│   │       │   ├── 📄 facto.class
+│   │       │   ├── 📄 serveurtcp.class
+│   │       │   ├── 📄 Serveur.class
+│   │       │   ├── 📄 EchoServerMultiple.java
+│   │       │   ├── 📄 EchoServerMultiple.class
+│   │       │   ├── 📄 EchoServer1.java
+│   │       │   ├── 📄 EchoServerSimple.class
+│   │       │   ├── 📄 EchoServer.java
+│   │       │   ├── 📄 EchoServerSimple.java
+│   │       │   ├── 📄 clienttcp.java
+│   │       │   ├── 📄 clienttcp.class
+│   │       │   ├── 📄 EchoClientSimple.class
+│   │       │   ├── 📄 EchoClient.java
+│   │       │   ├── 📄 EchoServer.class
+│   │       │   ├── 📄 EchoClientSimple.java
+│   │       │   ├── 📄 EchoClient.class
+│   │       │   ├── 📄 ._serveurtcp.java
+│   │       │   ├── 📄 Client.class
+│   │       │   ├── 📄 ._facto.java
+│   │       │   ├── 📄 ._EchoServer.java
+│   │       │   ├── 📄 ._EchoServerSimple.java
+│   │       │   ├── 📄 ._EchoClientSimple.java
+│   │       │   ├── 📄 ._Serveur.java
+│   │       │   ├── 📄 Client.java
+│   │       │   ├── 📄 ._EchoServerMultiple.java
+│   │       │   ├── 📄 ._EchoClient.java
+│   │       │   ├── 📄 .DS_Store
+│   │       │   ├── 📄 ._.DS_Store
+│   │       │   ├── 📄 ._clienttcp.java
+│   │       │   ├── 📄 .com.apple.timemachine.supported
+│   │       │   └── 📄 ._Client.java
+│   │       ├── 📁 Examen+Correction/
+│   │       │   ├── 📄 examenTCPIP15.docx
+│   │       │   ├── 📄 examenTCPIP14.docx
+│   │       │   ├── 📄 Examen finalTCPIP2.docx
+│   │       │   ├── 📄 examenfinalTCPIPIIR2sess08.doc
+│   │       │   ├── 📄 Examen finalTCPIP.docx
+│   │       │   ├── 📄 Examen finalTCPIP10.doc
+│   │       │   ├── 📄 Examen final.doc
+│   │       │   └── 📄 Examen finalTCPIP.doc
+│   │       └── 📁 Cours/
+│   │           ├── 📄 6.Couche applicationver2020.pdf
+│   │           ├── 📄 HelloWorld.zip
+│   │           ├── 📄 7.RPC.pdf
+│   │           ├── 📄 6.Couche application1.ppt
+│   │           ├── 📄 2.Accesaureseau 2.ppt
+│   │           ├── 📄 3.Couche reseau.ppt
+│   │           ├── 📄 1.TCP IP 2.ppt
+│   │           ├── 📄 5.Couche Transport1.ppt
+│   │           ├── 📄 4.ICMP.ppt
+│   │           └── 📄 Sockets.pptx
+│   ├── 📁 SMI_S6_Res_AV FS MEKNES  19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   └── 📄 SMI_S6_Res_AV-Cours-ELOUADGHIRI.pdf
+│   ├── 📁 SMI6 FPN Réseaux 2 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 SMI S6_COUR VLAN.pdf
+│   │   ├── 📄 SMI S6_COUR RESEAUX_ADRESSAGE.pdf
+│   │   ├── 📄 SMI S6_RESAUX2_TP VLAN routage inter VLAN.pdf
+│   │   ├── 📄 SMI S6_RESAUX_EVALUATION GENERAL.pdf
+│   │   ├── 📄 SMI S6_COUR_VTP_TP.pdf
+│   │   ├── 📄 SMI S6_SOLUTION TDs RESEAUX.pdf
+│   │   ├── 📄 SMI S6_TD1_ADRESSAGE.pdf
+│   │   ├── 📄 SMI S6_TD2_ADRESSAGE.pdf
+│   │   ├── 📄 SMI S6_TD3_ADRESSAGE.pdf
+│   │   ├── 📄 SMI S6_TD4_ADRESSAGE.pdf
+│   │   ├── 📄 SMI S6_TD3_ADRESSAGED.pdf
+│   │   ├── 📄 Réseaux 2 SMI S6_COUR VLAN.pdf
+│   │   └── 📄 Réseaux 2  SMI S6_COUR RESEAUX_ADRESSAGE.pdf
+│   ├── 📁 S6 SMI6 ADDMINISTRATION RESEAUX FPK KHRI 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 Supports de cours-20200426.zip
+│   │   └── 📄 TP-20200426.zip
+│   ├── 📁 S6 SMI S6 RESEAUX 2_COURS-TDs-TPs FPN  19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   └── 📁 SMI S6 RESEAUX 2_COURS-TDs-TPs/
+│   │       ├── 📄 SMI S6_TD4_ADRESSAGE.pdf
+│   │       ├── 📄 SMI S6_COUR VLAN.pdf
+│   │       ├── 📄 SMI S6_RESAUX2_TP VLAN routage inter VLAN.pdf
+│   │       ├── 📄 SMI S6_COUR RESEAUX_ADRESSAGE.pdf
+│   │       ├── 📄 SMI S6_TD3_ADRESSAGE.pdf
+│   │       ├── 📄 SMI S6_TD1_ADRESSAGE.pdf
+│   │       ├── 📄 SMI S6_TD2_ADRESSAGE.pdf
+│   │       ├── 📄 SMI S6_RESAUX_EVALUATION GENERAL.pdf
+│   │       ├── 📄 SMI S6_COUR_VTP_TP.pdf
+│   │       └── 📄 SMI S6_SOLUTION TDs RESEAUX.pdf
+│   ├── 📁 S6 SMI FSM RESEAUX AVANCES/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 SMI_S6_Res_AV-Cours-ELOUADGHIRI.pdf
+│   │   ├── 📄 SMI_S6-RéseauxAv_Liste-Expose-2019_2020.pdf
+│   │   └── 📄 IoTCC_Appls-SMI-S6_REAVA.pdf
+│   ├── 📁 S6 SMI FSJ SECURITE RESEAUX 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 Semaine 7.pptx
+│   │   ├── 📄 TP6.docx
+│   │   ├── 📄 sécurité_8_2.ppt
+│   │   ├── 📄 CCNAS_Chp4_PTActA_ACL.pka
+│   │   ├── 📄 TP3.docx
+│   │   ├── 📄 Semaine7.ppt
+│   │   ├── 📄 Rip v2.pptx
+│   │   ├── 📄 Devoir 2.pptx
+│   │   ├── 📄 CBAC.pptx
+│   │   ├── 📄 Devoir n1 sécurité.pptx
+│   │   ├── 📄 Devoir n1 sécurité.ppt
+│   │   ├── 📄 Devoir n2 sécurité.pdf
+│   │   ├── 📄 sécurité_8.ppt
+│   │   ├── 📄 Devoir n1 sécurité.doc
+│   │   ├── 📄 Devoir n1 Interconnexion.doc
+│   │   ├── 📄 Semaine 7_2.pptx
+│   │   ├── 📄 TP6_2.docx
+│   │   └── 📄 TP3_2.docx
+│   ├── 📁 S6 SMI FSJ Administration Réseau 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 Cours-Admin-Reseau-1.pdf
+│   │   └── 📄 TP-Configuration réseau sous linux.pdf
+│   ├── 📁 S6 SMI FSDM PROGRAMMATION RÉSEAU 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📁 TPs/
+│   │   │   ├── 📄 Maquette adressage TP1.pdf
+│   │   │   ├── 📄 Complement_TP_2_Mise_en_réseau.pdf
+│   │   │   ├── 📄 TP3_Programmation_RZO_SMI S625022020.pdf
+│   │   │   ├── 📄 TP2_Programmation_RZO_SMI S625022020.pdf
+│   │   │   └── 📄 TP1_Programmation_RZO_SMIS625022020.pdf
+│   │   ├── 📁 TD/
+│   │   │   ├── 📄 TD2 SMI S6 07032020.pdf
+│   │   │   ├── 📄 TD1 SMI S6 25022020.pdf
+│   │   │   └── 📄 corrige TD1 SMI S6 25022020.pdf
+│   │   └── 📁 cours/
+│   │       ├── 📄 cours chap II_Prgrammation reseaux_S6_satori_16_02_2020.pdf
+│   │       ├── 📄 complement de cours format des datagrm.pdf
+│   │       └── 📄 Complement cours_langage C_SMIS6Satori1802020.pdf
+│   ├── 📁 S6 SMI FSAC SMI S6 Modèle TCPIP/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 TPS-20200528.zip
+│   │   ├── 📄 TP WHIRESHARK-20200528.zip
+│   │   ├── 📄 liendesinstallationsserveurs.docx
+│   │   ├── 📄 10.2.1.8 Packet Tracer - Web and Email Instructions.pdf
+│   │   ├── 📄 10.2.3.3 Lab - Exploring FTP.pdf
+│   │   ├── 📄 10.2.2.9 Lab - Observing DNS Resolution.pdf
+│   │   ├── 📄 6.Couche applicationver2020.pdf
+│   │   ├── 📄 7.RPC.pdf
+│   │   ├── 📄 HelloWorld.zip
+│   │   ├── 📄 6.sockets.pdf
+│   │   ├── 📄 5.couchetransport.pdf
+│   │   ├── 📄 4.Icmp.pdf
+│   │   ├── 📄 2.Accesaureseau.pdf
+│   │   ├── 📄 3.reseau.pdf
+│   │   └── 📄 1.TCP IP.pdf
+│   ├── 📁 S6 SMI FSAC RESEAUX/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 11.3.2.2 Packet Tracer - Test Connectivity with Traceroute Instructions.pdf
+│   │   ├── 📄 10.2.3.3 Lab - Exploring FTP.pdf
+│   │   ├── 📄 10.2.2.9 Lab - Observing DNS Resolution.pdf
+│   │   ├── 📄 7.3.1.2 Packet Tracer Simulation - Exploration of TCP and UDP Instructions.pdf
+│   │   ├── 📄 7.2.4.3 Lab - Using Wireshark to Examine FTP and TFTP Captures.pdf
+│   │   ├── 📄 7.2.3.5 Lab - Using Wireshark to Examine a UDP DNS Capture.pdf
+│   │   ├── 📄 7.2.1.8 Lab - Using Wireshark to Observe the TCP 3-Way Handshake.pdf
+│   │   ├── 📄 Chapitre 4 allocation memoire2.ppt
+│   │   ├── 📄 Chapitre 5 gestion des fichiers1.pptx
+│   │   ├── 📄 examenTCPIPFsac17.pdf
+│   │   ├── 📄 EXAMENTCPIP16.pdf
+│   │   ├── 📄 1.TCP IP.pdf
+│   │   ├── 📄 2.Accesaureseau.pdf
+│   │   ├── 📄 3.reseau.pdf
+│   │   ├── 📄 4.Icmp.pdf
+│   │   ├── 📄 5.couchetransport.pdf
+│   │   ├── 📄 6.sockets.pdf
+│   │   ├── 📄 7.RPC.pdf
+│   │   ├── 📄 6.Couche applicationver2020.pdf
+│   │   ├── 📄 10.2.1.8 Packet Tracer - Web and Email.pka
+│   │   ├── 📄 liendesinstallationsserveurs.docx
+│   │   ├── 📄 10.2.1.8 Packet Tracer - Web and Email Instructions.pdf
+│   │   ├── 📁 __MACOSX/
+│   │   │   └── 📁 HelloWorld/
+│   │   │       ├── 📄 ._HelloClient.java
+│   │   │       ├── 📄 ._HelloServer.java
+│   │   │       └── 📄 ._.DS_Store
+│   │   └── 📁 HelloWorld/
+│   │       ├── 📄 HelloClient.java
+│   │       ├── 📄 HelloServer.java
+│   │       ├── 📄 .DS_Store
+│   │       ├── 📄 compile.bat
+│   │       ├── 📄 server.bat
+│   │       ├── 📄 client.bat
+│   │       ├── 📄 HelloWorld.x
+│   │       ├── 📄 portmap.bat
+│   │       ├── 📄 oncrpc.jar
+│   │       ├── 📄 jrpcgen.jar
+│   │       └── 📄 jportmap.jar
+│   ├── 📁 S6 SMI FPKHRIBGHA ADDMINISTRATION RESEAUX 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📁 TP/
+│   │   │   ├── 📁 TP2/
+│   │   │   │   ├── 📄 weather.numeric.arff
+│   │   │   │   ├── 📄 ionosphere.arff
+│   │   │   │   ├── 📄 ionosphereData.arff
+│   │   │   │   ├── 📄 ionosphereDataTest1.arff
+│   │   │   │   ├── 📄 ionosphereDataATester.arff
+│   │   │   │   ├── 📄 TestFileWeather.arff
+│   │   │   │   └── 📄 TP2.pdf
+│   │   │   └── 📁 TP1/
+│   │   │       ├── 📄 weather.arff
+│   │   │       ├── 📄 iris.arff
+│   │   │       └── 📄 TP1_2020.pdf
+│   │   └── 📁 Supports de cours/
+│   │       ├── 📄 TextMining.pdf
+│   │       ├── 📄 Partie2.pdf
+│   │       └── 📄 Partie 1.pdf
+│   ├── 📁 S6 FSO SMI Administration Réseaux 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 TP7_DNS.zip
+│   │   ├── 📄 TP2_Web.zip
+│   │   ├── 📄 TP6_Samba.zip
+│   │   ├── 📄 TP4_FtP-SSH.zip
+│   │   ├── 📄 TP5_NFS.zip
+│   │   ├── 📄 TPs_AdminReseaux_SMI_S6_2019-2020.pdf
+│   │   ├── 📄 TP3_DHCP.zip
+│   │   ├── 📄 TP1_GestUtilisateurs.zip
+│   │   └── 📄 Cours_AdminReseaux_SMI_S6_Lakhouaja.pdf
+│   ├── 📁 S6 FSO SMI  Réseaux 2 19-20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 Réseaux 2.txt
+│   │   ├── 📄 Réseaux 2 CorrectionExamNormal_18_19.zip
+│   │   ├── 📄 Réseaux 2 Exam_17_06_2019.pdf
+│   │   ├── 📄 Réseaux 2 Exam_25_06_2018.pdf
+│   │   ├── 📄 Réseaux 2 ExamsAdminRes.zip
+│   │   ├── 📄 Réseaux 2 Exam_19_09_2015_rattrapage.pdf
+│   │   ├── 📄 Réseaux 2 CorrectionExamNormal_14_15.zip
+│   │   ├── 📄 Réseaux 2Exam_29_06_2015.pdf
+│   │   ├── 📄 Réseaux 2 SolutionTPs_AdminReseaux_SMI_S6_2019-2020.zip
+│   │   ├── 📄 Réseaux 2 TPs_AdminReseaux_SMI_S6_Lakhouaja.pdf
+│   │   ├── 📄 Réseaux 2 CoursAdminReseaux_SMI_S6_Lakhouaja.pdf
+│   │   ├── 📄 Réseaux 2 Poly_AdminReseaux.pdf
+│   │   ├── 📄 Réseaux 2 SFI36304_TD_5e71243f6833e.rar
+│   │   └── 📄 Réseaux 2 SFI36304_CR_5e712400b2a78.pdf
+│   ├── 📁 S6 FSDM SMI ROGRAMMATION RÉSEAUX/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 cours_Prgrammation reseaux_SMIS6_Chap1_22042020.pdf
+│   │   ├── 📄 cours_sockets_chap3 patie_I_22_03_2020.pdf
+│   │   ├── 📁 TPs/
+│   │   │   ├── 📄 Maquette adressage TP1.pdf
+│   │   │   ├── 📄 Complement_TP_2_Mise_en_réseau.pdf
+│   │   │   ├── 📄 TP3_Programmation_RZO_SMI S625022020.pdf
+│   │   │   ├── 📄 TP2_Programmation_RZO_SMI S625022020.pdf
+│   │   │   └── 📄 TP1_Programmation_RZO_SMIS625022020.pdf
+│   │   └── 📁 TD/
+│   │       ├── 📄 TD2 SMI S6 07032020.pdf
+│   │       ├── 📄 TD1 SMI S6 25022020.pdf
+│   │       └── 📄 corrige TD1 SMI S6 25022020.pdf
+│   ├── 📁 S6 FSDM SMI PROGRAMMATION RÉSEAUX 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 cours_Prgrammation reseaux_SMIS6_Chap1_22042020.pdf
+│   │   ├── 📄 cours_sockets_chap3 patie_I_22_03_2020.pdf
+│   │   ├── 📁 80949/
+│   │   │   └── 📁 TD/
+│   │   │       ├── 📄 TD2 SMI S6 07032020.pdf
+│   │   │       ├── 📄 TD1 SMI S6 25022020.pdf
+│   │   │       └── 📄 corrige TD1 SMI S6 25022020.pdf
+│   │   ├── 📁 46989/
+│   │   │   └── 📁 TPs/
+│   │   │       ├── 📄 Maquette adressage TP1.pdf
+│   │   │       ├── 📄 Complement_TP_2_Mise_en_réseau.pdf
+│   │   │       ├── 📄 TP3_Programmation_RZO_SMI S625022020.pdf
+│   │   │       ├── 📄 TP2_Programmation_RZO_SMI S625022020.pdf
+│   │   │       └── 📄 TP1_Programmation_RZO_SMIS625022020.pdf
+│   │   └── 📁 41265/
+│   │       └── 📁 cours/
+│   │           ├── 📄 cours chap II_Prgrammation reseaux_S6_satori_16_02_2020.pdf
+│   │           ├── 📄 complement de cours format des datagrm.pdf
+│   │           └── 📄 Complement cours_langage C_SMIS6Satori1802020.pdf
+│   ├── 📁 S6 FSAC SMI6 Modèle TCP IP 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 TP WHIRESHARK-20200423.zip
+│   │   ├── 📄 10.2.3.3 Lab - Exploring FTP.pdf
+│   │   ├── 📄 10.2.2.9 Lab - Observing DNS Resolution.pdf
+│   │   ├── 📄 6.Couche applicationver2020.pdf
+│   │   ├── 📄 7.RPC.pdf
+│   │   ├── 📄 6.sockets.pdf
+│   │   ├── 📄 5.couchetransport.pdf
+│   │   ├── 📄 4.Icmp.pdf
+│   │   ├── 📄 3.reseau.pdf
+│   │   ├── 📄 2.Accesaureseau.pdf
+│   │   └── 📄 1.TCP IP.pdf
+│   ├── 📁 S6 FPN SMI6 Réseaux 2/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 SMI S6_RESAUX_EVALUATION GENERAL.pdf
+│   │   ├── 📄 SMI S6_TD4_ADRESSAGE.pdf
+│   │   ├── 📄 SMI S6_TD3_ADRESSAGE.pdf
+│   │   ├── 📄 SMI S6_TD1_ADRESSAGE.pdf
+│   │   ├── 📄 SMI S6_COUR VLAN.pdf
+│   │   ├── 📄 SMI S6_RESAUX2_TP VLAN routage inter VLAN.pdf
+│   │   ├── 📄 SMI S6_COUR_VTP_TP.pdf
+│   │   ├── 📄 SMI S6_TD2_ADRESSAGE.pdf
+│   │   ├── 📄 SMI S6_SOLUTION TDs RESEAUX.pdf
+│   │   └── 📄 SMI S6_COUR RESEAUX_ADRESSAGE.pdf
+│   ├── 📁 INTERFACE HOMME MACHINE FSR 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 IHM5.pdf
+│   │   ├── 📄 IHM8.pdf
+│   │   ├── 📄 IHM6 .pdf
+│   │   ├── 📄 IHM3.pdf
+│   │   ├── 📄 IHM2.pdf
+│   │   ├── 📄 IHM10.pdf
+│   │   ├── 📄 IHM7.pdf
+│   │   ├── 📄 IHM9.pdf
+│   │   ├── 📄 IHM4.pdf
+│   │   ├── 📄 IHM1.pdf
+│   │   ├── 📄 TD2(1).pdf
+│   │   ├── 📄 TD4(1).pdf
+│   │   ├── 📄 TD3(1).pdf
+│   │   └── 📄 TD1(1).pdf
+│   ├── 📁 INTERCONNEXION DE RESEAUX FSR 19 20/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 M36- Interconnexion des Reseaux-Partie1.pdf
+│   │   ├── 📄 M36- Interconnexion des Reseaux-Partie 0.pdf
+│   │   ├── 📄 M36- Routage IPv6.pdf
+│   │   ├── 📄 M36- Interconnexion des Reseaux-IPv6.pdf
+│   │   ├── 📄 M36- Interconnexion des Reseaux-IPv6 suite.pdf
+│   │   ├── 📄 M36- IPv6- Sous réseaux.pdf
+│   │   ├── 📄 exos en  IPv6.pdf
+│   │   ├── 📄 exo en IPv4.pdf
+│   │   ├── 📄 M36- TD1.pdf
+│   │   ├── 📄 M36- TP4.pdf
+│   │   ├── 📄 M36- TP6.pdf
+│   │   ├── 📄 M36- TP2bis.pdf
+│   │   ├── 📄 M36- TP5.pdf
+│   │   ├── 📄 M36- TP3.pdf
+│   │   ├── 📄 M36- TP2.pdf
+│   │   └── 📄 M36- TP1.pdf
+│   ├── 📁 informatique reseaux/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 C_ours syst et reseau.ppt
+│   │   ├── 📄 devoir-reseau.pdf
+│   │   └── 📄 correction-devoir-reseau.pdf
+│   ├── 📁 FSTG Réseaux Locaux Industriels 2020/
+│   │   ├── 📄 2022 SABOR.PNG
+│   │   ├── 📄 RdP_Cours.pdf
+│   │   ├── 📄 Masques_ITS_PLC_WIN_PLC.rar
+│   │   ├── 📄 Protocole_MODBUS.pdf
+│   │   ├── 📄 TD_RLI_Protection.pdf
+│   │   ├── 📄 TD_RLI_Codage.pdf
+│   │   ├── 📄 Méthodes_ACcès_Voie.pdf
+│   │   ├── 📄 Architecture_réseaux.pdf
+│   │   └── 📄 Introduction_generale.pdf
+│   └── 📁 Administration Des Réseaux Informatiques FSR 19 20/
+│       ├── 📄 2022 SABOR.PNG
+│       ├── 📄 Cours2-STP-AdminRéseaux.pdf
+│       ├── 📄 Cours3-VLAN-AdminRéseaux.pdf
+│       ├── 📄 Cours4-SNMP-AdminRéseaux.pdf
+│       ├── 📄 Cours1-Protocoles-AdminRéseaux.pdf
+│       ├── 📄 TD3-Admin-SMI6.pdf
+│       ├── 📄 TD4-Admin-SMI6.pdf
+│       ├── 📄 TD2-Admin-SMI6.pdf
+│       └── 📄 TD1-Admin-SMI6.pdf
+├── 🔗📁 M35 Administration Des Réseaux Informatiques FSR RABAT/  (raccourci)
+│   ├── 📁 TD/
+│   │   ├── 📄 TD2-Admin-SMI6.pdf
+│   │   ├── 📄 TD1-Admin-SMI6.pdf
+│   │   ├── 📄 TD3-Admin-SMI6.pdf
+│   │   └── 📄 TD4-Admin-SMI6.pdf
+│   └── 📁 Cours/
+│       ├── 📄 Cours4-SNMP-AdminRéseaux.pdf
+│       ├── 📄 Cours1-Protocoles-AdminRéseaux.pdf
+│       ├── 📄 Cours3-VLAN-AdminRéseaux.pdf
+│       └── 📄 Cours2-STP-AdminRéseaux.pdf
+├── 📁 Crs td tp exms/
+│   ├── 📄 TD-reseaux GINF1 (1).pdf
+│   ├── 📄 TP reseaux statique-Réseaux Informatiques
+│   ├── 📄 TP 5 - Protocoles TCP et UDP-Réseaux Informatiques
+│   ├── 📄 Partie 5 Le réseau INTERNET-Réseaux Informatiques
+│   ├── 📄 cours reseaux tcp ip.pdf-Réseaux Informatiques
+│   ├── 📄 Analyse de trame reseaux.pdf-Réseaux Informatiques
+│   ├── 📄 examen reseaux 04 02 2015-Réseaux Informatiques
+│   ├── 📄 examen reseaux LMD 26 janvier 2014-Réseaux Informatiques
+│   ├── 📄 TP3_Reseaux_L3_Analyse_paquets_Outils_ARP_DHCP.pdf-Réseaux Informatiques
+│   ├── 📄 TD CCNA1 V4Chapitre4 énoncé-Réseaux Informatiques
+│   ├── 📄 Chapitre 6 CCNA 1 V4 énoncé-Réseaux Informatiques
+│   ├── 📄 TP5 Genie Informatique Mise en place d'un reseau local-Réseaux Informatiques
+│   ├── 📄 cours introduction a la programmation reseau-Réseaux Informatiques
+│   ├── 📄 TD reseaux Periode 1.pdf-Réseaux Informatiques
+│   ├── 📄 TD Transmission des donnees et reseaux locaux-Réseaux Informatiques
+│   ├── 📄 TP1 reseaux locaux cablage et fonctions des equipements-Réseaux Informatiques
+│   ├── 📄 INF157 L3 info utilisation des reseaux cours-Réseaux Informatiques
+│   ├── 📄 Correction Examen reseaux et SD C-Réseaux Informatiques
+│   ├── 📄 Correction TD Reseaux et SD-Réseaux Informatiques
+│   ├── 📄 Cours des réseaux Informatiques 2010 2011 Rziza Mohammed-Réseaux Informatiques
+│   ├── 📄 USTHB examen reseaux 12 janvier 2013.pdf-Réseaux Informatiques
+│   ├── 📄 examen reseaux 2013-Réseaux Informatiques
+│   ├── 📄 TP découverte des réseaux et protocoles réseaux-Réseaux Informatiques
+│   ├── 📄 Chapitre 1 Transmission des données.pdf-Réseaux Informatiques
+│   ├── 📄 TD1_Transmission des donnees-Réseaux Informatiques
+│   ├── 📄 TD Reseaux Locaux et Ethernet Msila 2018 2019-Réseaux Informatiques
+│   ├── 📄 DS2 Reseaux Informatique 2018 2019.pdf-Réseaux Informatiques
+│   ├── 📄 Genie Informatique Reseaux Informatique Exercices Corriges-Réseaux Informatiques
+│   ├── 📄 DS2 Reseaux Informatique 2017-2018 Corrigé.pdf-Réseaux Informatiques
+│   ├── 📄 rattrapage examen reseaux info 2013 2014.pdf-Réseaux Informatiques
+│   ├── 📄 correction examen reseaux info 2015 2016.pdf-Réseaux Informatiques
+│   ├── 📄 correction ds2 reseaux info 2015 2h-Réseaux Informatiques
+│   ├── 📄 DSI 2016 2017 Examen-Réseaux Informatiques
+│   ├── 📄 DSI 2013 2014 reseaux informatique examen-Réseaux Informatiques
+│   ├── 📄 Exercices adresses MAC reseaux-Réseaux Informatiques
+│   ├── 📄 Exercices sur les réseaux sans fil-Réseaux Informatiques
+│   ├── 📄 TP Genie Informatique Les fondamentaux des réseaux-Réseaux Informatiques
+│   ├── 📄 examen reseaux 2010 2011-Réseaux Informatiques
+│   ├── 📄 Cours reseaux 6 routage IP.pdf-Réseaux Informatiques
+│   ├── 📄 TP1_Reseaux_Câble_RJ45.pdf-Réseaux Informatiques
+│   ├── 📄 DS2_2015_Reseaux_Informatique_Agadir-Réseaux Informatiques
+│   ├── 📄 TD Réseaux Informatique N°4 2013 2014.pdf-Réseaux Informatiques
+│   ├── 📄 cours reseau introduction-Réseaux Informatiques
+│   ├── 📄 cours reseaux TCP IP.pdf-Réseaux Informatiques
+│   ├── 📄 examen reseaux L3 S5-Réseaux Informatiques
+│   ├── 📄 Chapitre 4 Protocoles Internet cours reseaux.pdf-Réseaux Informatiques
+│   ├── 📄 DSI 2017-2018 Examen Réseaux Informatique-Réseaux Informatiques
+│   ├── 📄 TD2 Adressage IP-Réseaux Informatiques
+│   ├── 📄 DS2 Reseaux Informatique 2014 2015 Corrige-Réseaux Informatiques
+│   ├── 📄 TP reseaux L3 informatique notions de sous-reseaux et masquage statique-Réseaux Informatiques
+│   ├── 📄 cours reseaux telecoms urec v1-Réseaux Informatiques
+│   ├── 📄 Master 1 Informatique MIF11 Reseau Codage et elements de theorie de l information Florent Dupont-Réseaux Informatiques
+│   ├── 📄 TD Reseaux Informatique 2015 2016-Réseaux Informatiques
+│   ├── 📄 rattrapage reseaux info 2015 2016 agad-Réseaux Informatiques
+│   ├── 📄 cours reseaux TCP IP.pdf-Réseaux Informatiques
+│   ├── 📄 DS2 Reseaux Informatique 2013 2h Mazoul-Réseaux Informatiques
+│   ├── 📄 TD Interrogation reseaux USTHB 2010 2011.pdf-Réseaux Informatiques
+│   ├── 📄 Exercices Réseaux et protocoles NFP104 2007 2008-Réseaux Informatiques
+│   ├── 📄 TP R4.7 FTP Initiation-Réseaux Informatiques
+│   ├── 📄 TD1_reseaux_info_2015_2016.pdf-Réseaux Informatiques
+│   ├── 📄 cours reseaux TCP IP.pdf-Réseaux Informatiques
+│   ├── 📄 DS2 Reseaux Informatique 2017 2018 Corrigé.pdf-Réseaux Informatiques
+│   ├── 📄 DSI 2014 2015 Corrigé-Réseaux Informatiques
+│   ├── 📄 M6 Genie Informatique TP2 Routage statique et adressage-Réseaux Informatiques
+│   ├── 📄 Chapitre 5 CCNA 1 V4 énoncés-Réseaux Informatiques
+│   ├── 📄 Genie Informatique TP1 Assembleur et configuration d un reseau.pdf-Réseaux Informatiques
+│   ├── 📄 DS2 Reseaux Informatique 2018 2019.pdf-Réseaux Informatiques
+│   ├── 📄 Réseaux et télécoms QCM-Réseaux Informatiques
+│   ├── 📄 cours administration reseau informatique-Réseaux Informatiques
+│   ├── 📄 TP Adressage IP-Réseaux Informatiques
+│   ├── 📄 TD Réseaux S1 LMD 2014-Réseaux Informatiques
+│   ├── 📄 TP Configuration avancée du protocole RIPv1-Réseaux Informatiques
+│   ├── 📄 TP2 Mise en oeuvre d'un reseau poste a poste-Réseaux Informatiques
+│   ├── 📄 TP 8 Protocole de routage EIGRP Les listes de contrôle d'accès.pdf-Réseaux Informatiques
+│   ├── 📄 TP R4.3 IP-Réseaux Informatiques
+│   ├── 📄 esil reseaux 1 transmission des donnees cours 2010 2011-Réseaux Informatiques
+│   ├── 📄 TP2-TP-routage-reseaux-correction-Réseaux Informatiques
+│   ├── 📄 DS2_2016_reseaux_info_2h_A.Mazou-Réseaux Informatiques
+│   ├── 📄 DS2 Reseaux Informatique 2014-2015-Réseaux Informatiques
+│   ├── 📄 examen reseaux locaux 1ere sem 2011-2012-Réseaux Informatiques
+│   ├── 📄 TP Configuration et Administration d'un switch.pdf-Réseaux Informatiques
+│   ├── 📄 Réseaux et télécoms QCMs-Réseaux Informatiques
+│   ├── 📄 TP1_Les Commandes Reseaux-Réseaux Informatiques
+│   ├── 📄 Cours Codes Polynomiaux-Réseaux Informatiques
+│   ├── 📄 TP Programmation Socket Réalisation d'une application de temps-Réseaux Informatiques
+│   ├── 📄 TP R4.4 ARP-Réseaux Informatiques
+│   ├── 📄 TD Concepts généraux sur les réseaux informatiques
+│   ├── 📄 TD1 Introduction et notions de base-Réseaux Informatiques
+│   ├── 📄 QCM Réseaux Informatiques
+│   ├── 📄 TP4 Configuration des VLAN et VTP.pdf-Réseaux Informatiques
+│   ├── 📄 DSI 2016 2017 Examen Réseaux Informatique.pdf-Réseaux Informatiques
+│   ├── 📄 DS2_2016_2017_Réseaux_Informatique_corrigé-Réseaux Informatiques
+│   ├── 📄 Tp reseaux info 3 adresses ip 2013 2014.pdf-Réseaux Informatiques
+│   ├── 📄 TD Reseau Codes correcteurs et codes detecteurs-Réseaux Informatiques
+│   ├── 📄 USTHB. L3 ACAD. RESEAUX. Examen 26 Janvier 2014-Réseaux Informatiques
+│   ├── 📄 Chapitre 0 Introduction a la teleinformatique-Réseaux Informatiques
+│   ├── 📄 correction ds2 reseaux info 2013 2h mazoul.pdf-Réseaux Informatiques
+│   ├── 📄 cours protocole HDLC-Réseaux Informatiques
+│   ├── 📄 cours reseaux locaux-Réseaux Informatiques
+│   ├── 📄 Cours Protocoles couches transport et application de TCP-IP-Réseaux Informatiques
+│   ├── 📄 Gestion de la liaison et correction des erreurs cours reseaux-Réseaux Informatiques
+│   ├── 📄 Cours Les Fondamentaux des Réseaux et TCP IP-Réseaux Informatiques
+│   ├── 📄 TP 5 Configuration et Administration d'un routeur 1-Réseaux Informatiques
+│   ├── 📄 DSI 2013 2014 Examen-Réseaux Informatiques
+│   ├── 📄 Analyse de protocole reseau local TP1.pdf-Réseaux Informatiques
+│   ├── 📄 Exercice 6.4.1 Adressage et calcul VLSM notions elementaires-Réseaux Informatiques
+│   ├── 📄 cours reseaux licence 3 informatique.pdf-Réseaux Informatiques
+│   ├── 📄 Correction Examen Réseaux Informatique 2013 2014.pdf-Réseaux Informatiques
+│   ├── 📄 Exercices corrigés adressage et routage IP-Réseaux Informatiques
+│   ├── 📄 Exercices sur les adresses IP-Réseaux Informatiques
+│   ├── 📄 Chapitre 7 - Les protocoles de transport TCP et UDP-Réseaux Informatiques
+│   ├── 📄 L3 Reseaux et Telecommunications IP fragmentation routage commutation-Réseaux Informatiques
+│   ├── 📄 Correction exercice 3 4.pdf-Réseaux Informatiques
+│   ├── 📄 TD CCNA1 V4Chapitre4 Corrige-Réseaux Informatiques
+│   ├── 📄 Cours Les Fondamentaux des Réseaux et TCP IP-Réseaux Informatiques
+│   ├── 📄 DSI 2015 2016 Examen-Réseaux Informatiques
+│   ├── 📄 DSI 2018 2019 Examen-Réseaux Informatiques
+│   ├── 📄 Cours Réseaux locaux-Réseaux Informatiques
+│   ├── 📄 TP Configuration et Administration d'un routeur 2-Réseaux Informatiques
+│   ├── 📄 isiag iup miage reseaux informatiques cours 2005 2006 jalal boularbah-Réseaux Informatiques
+│   ├── 📄 TP1_Reseaux_L3_Configuration_adressage_IP_sous_Linux_et_Windows.pdf-Réseaux Informatiques
+│   ├── 📄 cours reseaux SIL NTI Aix Marseille-Réseaux Informatiques
+│   ├── 📄 Cours de Réseaux informatiques LMD 3e année-Réseaux Informatiques
+│   ├── 📄 DSI 2017-2018 Reseaux Informatique Examen-Réseaux Informatiques
+│   ├── 📄 Chapitre 7 CCNA 1 V4 énoncés-Réseaux Informatiques
+│   ├── 📄 DSI_Reseaux_Informatique_2018_2019_2h_Mazouj.pdf-Réseaux Informatiques
+│   ├── 📄 Cours réseaux et télécoms 3e édition-Réseaux Informatiques
+│   ├── 📄 DSI 2014 2015 Examen-Réseaux Informatiques
+│   ├── 📄 DSI Examen Reseaux Informatique 2015 2016.pdf-Réseaux Informatiques
+│   ├── 📄 Exercices sur les conversions binaires et décimales des adresses IP-Réseaux Informatiques
+│   ├── 📄 Architecture reseaux TCP IP-Réseaux Informatiques
+│   └── 📄 TP Configuration des fonctions NAT et PAT-Réseaux Informatiques
+└── 📁 dzuniv img+ reseau/
+    ├── 📄 Chap8.pptx
+    ├── 📄 Chapitre6.pptx
+    ├── 📄 _Cours-réseaux2012_Salmi_Chap1.ppt
+    ├── 📄 La Couche Physique .ppt
+    ├── 📄 Interro 2.jpg
+    ├── 📄 Chap4.pptx
+    ├── 📄 Chap5.pptx
+    ├── 📄 TP Wireshark.docx
+    ├── 📄 TP5-Licence.docx
+    └── 📄 TP VLSM.docx
+
+═════════════════════════════════════
+  Fin du fichier · RESEAUX
+═════════════════════════════════════

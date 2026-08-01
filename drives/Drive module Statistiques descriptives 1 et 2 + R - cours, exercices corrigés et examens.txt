@@ -1,0 +1,81 @@
+📚 MODULE : Statistiques descriptives 1 et 2 + R      
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Statistiques descriptives 1 et 2 + R.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Statistiques descriptives 1 et 2 + R/
+├── 📁 Statistiques Descriptives 2 (Régression et classification)/
+│   ├── 📄 cours video - L2 Statistiques Descriptives 2 (regression et classification).PDF.pdf
+│   ├── 📄 Home - L2 Statistiques Descriptives 2 (regression et classification).PDF
+│   ├── 📄 TD5corrstatsdesc2bis.pdf
+│   ├── 📄 Statistiques_Descriptives_2_Cours_Visio.pdf
+│   ├── 📄 Statistiques_Descriptives_2_controle 2 2023-24.pdf
+│   ├── 📄 TD5statsdesc2.pdf
+│   ├── 📄 TD4corrstatsdesc2.pdf
+│   ├── 📄 TD4statsdesc2.pdf
+│   ├── 📄 TD3corrstatsdesc2.pdf
+│   ├── 📄 X.pdf
+│   ├── 📄 TD3statsdesc2.pdf
+│   ├── 📄 TD2corrstatsdesc2.pdf
+│   ├── 📄 TD2statsdesc2.pdf
+│   ├── 📄 TD1corrstatsdesc2.pdf
+│   ├── 📄 TD1statsdesc2.pdf
+│   ├── 📄 Statistiques descriptives 1-20260514T182858Z-3-001.zip
+│   └── 📄 TD4statsdesc.pdf
+├── 📁 TDs corrigés/
+│   ├── 📄 SERIES DE TD.pdf
+│   ├── 📄 TD9statsdesc.pdf
+│   ├── 📄 TD9statsdescCorr.pdf
+│   ├── 📄 TD8.r
+│   ├── 📄 TD8statsdesc (1).pdf
+│   ├── 📄 TD8statsdesc.pdf
+│   ├── 📄 TD7statsdescSolutions (1).pdf
+│   ├── 📄 TD6statsdescSolutions.pdf
+│   ├── 📄 TD6statsdesc.pdf
+│   ├── 📄 TD5statsdescSolutions.pdf
+│   ├── 📄 TD5statsdesc.pdf
+│   ├── 📄 TD4statsdescSolutions.pdf
+│   ├── 📄 TD4statsdesc.pdf
+│   ├── 📄 TD2statsdescSolutions.pdf
+│   ├── 📄 TD2statsdesc.pdf
+│   ├── 📄 TD1statsdescSolutions.pdf
+│   └── 📄 TD1statsdesc.pdf
+├── 📁 TPs avec R/
+│   ├── 📄 Tp4 graphiques et visualisation
+│   ├── 📄 Tp2 types de variables
+│   ├── 📄 Tp Operations de base
+│   └── 📄 Tp 1 Initiation à R
+├── 📁 Cours/
+│   ├── 📄 Regression lineaire
+│   ├── 📄 Quantiles et médiane
+│   ├── 📄 Clustering hiérarchique
+│   ├── 📄 Chapitre 1 : Statistique descriptive univariée
+│   ├── 📄 Résumé 
+│   ├── 📄 Seances Cours videos
+│   ├── 📄 Stat_Desc_L2_MIASHS slides Mult Reg.pdf
+│   ├── 📄 LectureSlides2Plausibility_2020_21.pdf
+│   ├── 📄 Transparents Premiere Partie Clustering Exemple.pdf
+│   └── 📄 Stat_Desc_L2_MIASHS (9).pdf
+└── 📁 Examens corrigés /
+    ├── 📄 2021-Controle1 version 2 corrigée.pdf
+    ├── 📄 Devoir.docx
+    ├── 📄 Controles_Statistiques__Descriptives_L2_MIASHS controle 16 decembre 2020.pdf
+    ├── 📄 corrige_controle2_StatsDesc_MIASHS_2020_21.pdf
+    ├── 📄 Controle_Statistiques__Descriptives_L2_MIASHS_4 novembre 2020.pdf
+    ├── 📄 Controles_Statistiques__Descriptives_L2_MIASHS 4 novembre 2020 corrections.pdf
+    ├── 📄 Controle 2B 2021.pdf
+    └── 📄 Controle 2A 2021.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Statistiques descriptives 1 et 2 + R
+═════════════════════════════════════

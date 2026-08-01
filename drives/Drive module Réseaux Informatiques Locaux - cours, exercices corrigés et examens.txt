@@ -1,0 +1,124 @@
+📚 MODULE : Réseaux Informatiques Locaux              
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Réseaux Informatiques Locaux.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Réseaux Informatiques Locaux/
+├── 🔗📁 réseaux  inf  locaux/  (raccourci)
+│   └── 📁 Dr.Souahlia/
+│       ├── 📁 examen/
+│       │   ├── 📁 2022/
+│       │   │   └── 📄 2022.pdf
+│       │   ├── 📁 2018/
+│       │   │   └── 📄 2018.pdf
+│       │   └── 📁 2016-2017/
+│       │       └── 📄 2016-2017.pdf
+│       ├── 📁 TP/
+│       ├── 📁 Cour/
+│       └── 📁 TD/
+│           ├── 📄 TD02.pdf
+│           ├── 📄 TD01.pdf
+│           ├── 📄 TD03.pdf
+│           └── 📁 Solution/
+│               ├── 📄 TD02 Solution.pdf
+│               └── 📄 TD03 Solution.pdf
+├── 🔗📁 Reseaux Locaux/  (raccourci)
+│   ├── 📄 TD4-BEB.pdf
+│   ├── 📄 TD3-MethodeAcces.pdf
+│   ├── 📄 2IRS-RLI-Chap3.pdf
+│   ├── 📄 2IRS-RLI-Chap2.pdf
+│   ├── 📄 TD2_LAN.pdf
+│   ├── 📄 TD1_AddressageIP.pdf
+│   ├── 📄 2IRS-RLI-Chap1.pdf
+│   └── 📁 TP/
+│       ├── 📄 TP1-2.jpg
+│       ├── 📄 TP1-1.pdf
+│       ├── 📄 RL-TP3.pdf
+│       └── 📄 TP2 Réseaux Locaux.pdf
+├── 🔗📁 46330186-Architecture-Des-Reseaux.pdf/  (raccourci)
+├── 🔗📁 RIL Lachnani/  (raccourci)
+│   ├── 📄 Ch2 Les réseaux locaux.pdf
+│   ├── 📄 RIL 2017-18 interro correction.pdf
+│   ├── 📄 Cours de réseaux informatiques 2010.pdf
+│   ├── 📄 RE - Fiches TD.pdf
+│   ├── 📄 Cours TCP-IP.pdf
+│   ├── 📄 Ch4 Les réseaux locaux de 2G Fast Ethernet, Gigabit Ethernet.pdf
+│   ├── 📄 Ch3 Réseaux Ethernet et Token Ring.pdf
+│   └── 📄 Ch1 Notions sur la transmission de données.pdf
+├── 📄 RIL-20260621T000806Z-3-001.zip
+├── 📄 Réseaux Informatiques Locaux-20260621T000722Z-3-001.zip
+├── 🔗📁 RIL/  (raccourci)
+│   ├── 📁 tp/
+│   │   ├── 📄 5. TP_IosCiscoLANConfig.pdf
+│   │   ├── 📄 TP3 - Packet Tracer.pdf
+│   │   ├── 📄 TP-L3-SRL-Tutoriel-Packet-Tracer2.pdf
+│   │   ├── 📄 L3-Reseaux informatiques locaux-TP3.pdf
+│   │   ├── 📄 L3-Reseaux informatiques locaux-TP2.pdf
+│   │   └── 📄 L3-Reseaux informatiques locaux-TP1.pdf
+│   ├── 📁 ref/
+│   ├── 📁 td/
+│   │   ├── 📄 L3-Reseaux informatiques locaux-TD4-Solution.pdf
+│   │   ├── 📄 L3-Reseaux informatiques locaux-TD4.pdf
+│   │   ├── 📄 L3-Reseaux informatiques locaux-TD3-Solution.pdf
+│   │   ├── 📄 L3-Reseaux informatiques locaux-TD3.pdf
+│   │   ├── 📄 L3-Reseaux informatiques locaux-TD2-Solution.pdf
+│   │   ├── 📄 Reseaux informatiques locaux-TD 1 RIL Corrige.pdf
+│   │   ├── 📄 Reseaux informatiques locaux-TD 2 RIL Telecom.pdf
+│   │   └── 📄 Reseaux-informatiques-locaux-TD1.pdf
+│   └── 📁 cours/
+│       ├── 📄 Reseaux informatiques locaux-Chapitre 2.pdf
+│       ├── 📄 L3-Reseaux informatiques locaux-Chap3.pdf
+│       ├── 📄 Reseaux-informatiques-locaux-chap1.pdf
+│       └── 📄 L3-Reseaux informatiques locaux-Chap4.pdf
+├── 🔗📁 Réseaux Informatiques Locaux/  (raccourci)
+│   ├── 📁 Cours Réseaux Informatiques Locaux/
+│   │   ├── 📄 Partie_3_Chapitre 4.pdf
+│   │   ├── 📄 Partie_2_Chapitre 4.pdf
+│   │   ├── 📄 Partie_1_Chapitre 4.pdf
+│   │   ├── 📄 Chapitre_03_Les Réseaux Ethernet.ppsx
+│   │   ├── 📄 Chapitre 02-Les Réseaux Locaux.pdf
+│   │   └── 📄 Chapitre 01_Notion sur la transmission de données.pdf
+│   └── 📁 TD Réseaux Informatiques Locaux/
+│       ├── 📄 TD_04.pdf
+│       ├── 📄 TD_03.pdf
+│       ├── 📄 SOLUTION_TD_04_EXERCICES_02-P3-P4.jpg
+│       ├── 📄 SOLUTION_TD_04_EXERCICES_02-P1-P2.jpg
+│       ├── 📄 SOLUTION_TD_04_EXERCICES_2.jpg
+│       ├── 📄 SOLUTION_TD_04_EXERCICES_1.jpg
+│       ├── 📄 SOLUTION_TD_03_EXERCICES_4s.jpg
+│       ├── 📄 SOLUTION_TD_03_EXERCICES_3-4.jpg
+│       ├── 📄 SOLUTION_TD_03_EXERCICES_1-2.jpg
+│       ├── 📄 SOLUTION_TD_02_EXERCICES_4-suite.jpg
+│       ├── 📄 SOLUTION_TD_02_EXERCICES_3-4.jpg
+│       ├── 📄 SOLUTION_TD_02_EXERCICES_1-2.jpg
+│       ├── 📄 Le Code CRC- Exemple de Calcul.ppsx
+│       ├── 📄 SOLUTION EXERCICE 05.ppsx
+│       ├── 📄 SOLUTION EXERCICE 04.ppsx
+│       ├── 📄 SOLUTION EXERCICE 02.ppsx
+│       ├── 📄 SOLUTION EXERCICE 01.ppsx
+│       ├── 📄 TD_02.pdf
+│       └── 📄 TD_01.pdf
+├── 📁 examens /
+│   ├── 📄 2022.pdf
+│   ├── 📄 2018.pdf
+│   └── 📄 2016-2017.pdf
+└── 📁 tds corrigés /
+    ├── 📄 TD02 Solution.pdf
+    ├── 📄 TD03 Solution.pdf
+    ├── 📄 TD01.pdf
+    ├── 📄 TD02.pdf
+    └── 📄 TD03.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Réseaux Informatiques Locaux
+═════════════════════════════════════

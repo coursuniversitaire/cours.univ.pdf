@@ -1,0 +1,356 @@
+📚 MODULE : Structures des données avec C            
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Structures des données avec C.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Structures des données avec C/
+├── 🔗📁 ALSDD/  (raccourci)
+│   ├── 📄 Livre_ApprenezAProgrammerEnC_SiteDeZéro_.pdf
+│   ├── 📁 EMD/
+│   │   ├── 📄 intero.PDF
+│   │   ├── 📄 EMD2_ALSDD_Corrigé_2013-2014.pdf
+│   │   ├── 📄 EMD1_ALSDD_Corrigé_2011-2012.doc
+│   │   ├── 📄 EMD1_ALSDD_Corrigé_2010-2011.doc
+│   │   ├── 📄 EMD1_ALSDD_Corrigé_2009-2010.doc
+│   │   ├── 📄 Interro1_ALSDD_2009-2010.pdf
+│   │   ├── 📄 EMD1_ALSDD_2010-2011.doc
+│   │   ├── 📄 EMD1_ALSDD_2009-2010.doc
+│   │   ├── 📄 EMD1_ALSDD_2011-2012.doc
+│   │   ├── 📄 EMD1+CORR_ALSDD_2012-2013.pdf
+│   │   ├── 📄 EMD2_ALSDD_2011-2012.pdf
+│   │   └── 📄 EMD2+CORR_ALSDD_2012-2013.pdf
+│   ├── 📁 Cours/
+│   │   ├── 📄 Recursion.pdf
+│   │   ├── 📄 Chap07_Recursivité.pdf
+│   │   ├── 📄 Chapitre 5 - LLC - 4pages_2.pdf
+│   │   ├── 📄 Chapitre 5-Structure_hierarchique_Arbre.pdf
+│   │   ├── 📄 Chapitre 5-Structure_hierarchique_Tas.pdf
+│   │   ├── 📄 Chapitre 5-Structure_hierarchique_AVL.pdf
+│   │   ├── 📄 Chapitre 3-Structure_Séq_File.pdf
+│   │   ├── 📄 Chapitre 2-Complexité_itératif.pdf
+│   │   ├── 📄 Chapitre 3-Structure_Séq_Pile.pdf
+│   │   ├── 📄 Chapitre 1 - Rappel_S1_S2_2.pdf
+│   │   ├── 📄 Chapitre 4-Récurcivité.pdf
+│   │   ├── 📄 Chapitre 1 - LangageC.pdf
+│   │   ├── 📄 Chapitre 3-Structure_Séq_LLC.pdf
+│   │   ├── 📄 Chap02_Tableaux_Présentation.pdf
+│   │   └── 📄 Chap02_Tableaux.pdf
+│   └── 📁 TD/
+│       ├── 📄 TD_ 02.0_AlgorithmqueSD2_L1MI.pdf
+│       ├── 📄 TD_ 03.1_AlgorithmqueSD2_L1MI.pdf
+│       ├── 📄 TD_ 01.1_AlgorithmqueSD2_L1MI.pdf
+│       ├── 📄 TD_ 01.2_AlgorithmqueSD2_L1MI.pdf
+│       ├── 📄 TD_ 03.2_AlgorithmqueSD2_L1MI.pdf
+│       ├── 📄 Série2 - Chapitre 5 - LLC.pdf
+│       └── 📄 Série1 - Chapitre2 - Les tableaux.pdf
+├── 🔗📁 DSA/  (raccourci)
+│   ├── 📁 Sujets + corrigés /
+│   │   ├── 📄 ExamenFinal2122.pdf
+│   │   ├── 📄 ExamenFinal2021.pdf
+│   │   ├── 📄 ExamenFinal1920.pdf
+│   │   ├── 📄 ExamenRattrapage1819.pdf
+│   │   ├── 📄 ExamenRattrapage1920.pdf
+│   │   ├── 📄 ExamenRattrapage2122.pdf
+│   │   └── 📄 ExamenRattrapage2021.pdf
+│   ├── 📁 TPs/
+│   │   ├── 📄 Objectif du Projet.pdf
+│   │   ├── 📄 DeleteVfromArray.c
+│   │   ├── 📄 SearchMethods.c
+│   │   ├── 📄 Lab-1.pdf
+│   │   └── 📄 Pointers.c
+│   ├── 📁 TDs/
+│   │   ├── 📄 Series 5 Trees-2024.pdf
+│   │   ├── 📄 Series 4 Recursion.pdf
+│   │   ├── 📄 Série 1_Complexité2024.pdf
+│   │   ├── 📄 Series 0_revision-2024.pdf
+│   │   ├── 📁 Serie3/
+│   │   │   └── 📄 numérisé_20240129-2057.pdf
+│   │   └── 📁 Serie 2/
+│   │       └── 📄 numérisé_20240129-2056.pdf
+│   └── 📁 cours/
+│       ├── 📄 5-Recursion-Full.pdf
+│       ├── 📄 6-Trees-Full.ppsx.pdf
+│       ├── 📄 6-Trees-Full.ppsx.pptx
+│       ├── 📄 4-Stacks-Queues-Full
+│       ├── 📄 4-Stacks-Queues-Full.pdf
+│       ├── 📄 4-Stacks-Queues-1.pdf
+│       ├── 📄 3-LinkedLists-3.pdf
+│       ├── 📄 3-LinkedLists-2.pdf
+│       ├── 📄 3-LinkedLists-1.ppsx.pdf
+│       ├── 📄 2-Pointers.pdf
+│       ├── 📄 1-Complexity-2.pdf
+│       ├── 📄 0-Introduction.pdf.pdf
+│       └── 📄 1-Complexity-1.pdf
+├── 🔗📁 [I133] Structure de données en C/  (raccourci)
+│   ├── 📁 [I133] Bonus/
+│   │   ├── 📁 TD/
+│   │   │   ├── 📄 énoncé_.jpg
+│   │   │   ├── 📄 p11.jpg
+│   │   │   ├── 📄 p10.jpg
+│   │   │   ├── 📄 p9.jpg
+│   │   │   ├── 📄 p8.jpg
+│   │   │   ├── 📄 p6.jpg
+│   │   │   ├── 📄 p5.jpg
+│   │   │   ├── 📄 p4.jpg
+│   │   │   ├── 📄 p3.jpg
+│   │   │   ├── 📄 p2.jpg
+│   │   │   └── 📄 P1.jpg
+│   │   ├── 📁 TP/
+│   │   │   ├── 📄 gap.pdf
+│   │   │   ├── 📄 corr-colle3-i3.pdf
+│   │   │   ├── 📄 Colle4-i3-Pr-Noua.jpg
+│   │   │   ├── 📄 colle3-i3.jpg
+│   │   │   ├── 📄 colle2-i3.jpg
+│   │   │   ├── 📄 idee-de-corr-colle1- i3.pdf
+│   │   │   └── 📄 colle1-i3.jpg
+│   │   ├── 📁 Résumé/
+│   │   │   ├── 📄 05.jpg
+│   │   │   ├── 📄 04.jpg
+│   │   │   ├── 📄 01.jpg
+│   │   │   ├── 📄 06.jpg
+│   │   │   ├── 📄 02.jpg
+│   │   │   ├── 📄 07.jpg
+│   │   │   ├── 📄 03.jpg
+│   │   │   └── 📄 08.jpg
+│   │   └── 📁 Examens/
+│   │       └── 📄 Examen.pdf
+│   ├── 📁 [I133] Archive/
+│   │   ├── 📄 gap.pdf
+│   │   ├── 📄 ratt-i133-mai2023.pdf
+│   │   ├── 📄 exam-i3-2017.pdf
+│   │   ├── 📄 corr-exam-2023-i3.pdf
+│   │   ├── 📄 exam-2023-i3.pdf
+│   │   ├── 📄 corr_suggestion_exam_2022_i3 (1).pdf
+│   │   ├── 📄 ratt-2013-i3.pdf
+│   │   ├── 📄 exam-i3-2013.pdf
+│   │   ├── 📄 exam-2016-i3.pdf
+│   │   ├── 📄 Exam-Ratt-2021-i3.pdf
+│   │   ├── 📄 info 3 exam 2022.pdf
+│   │   ├── 📄 Examen 2023 I133.pdf
+│   │   ├── 📄 Examen_info3.2022.pdf
+│   │   ├── 📄 Examen_info3.2019.pdf
+│   │   ├── 📄 Examen_info3_2021.pdf
+│   │   └── 📄 Examen_info3_f_vrier2021_rattrapage5.pdf
+│   ├── 📁 [I133] Cours/
+│   │   ├── 📄 I133 - Cours (Alternatif).ppsm
+│   │   ├── 📄 cours i133-Pr.Hssina.pdf
+│   │   ├── 📄 Poly-cours-info3.pdf
+│   │   ├── 📄 les arbres-Pr.khoukhi.pdf
+│   │   ├── 📄 I133 - Cours (Chapitre 5).pdf
+│   │   ├── 📄 I133 - Cours (Chapitre 4).pdf
+│   │   ├── 📄 I133 - Cours (Chapitre 3).pdf
+│   │   ├── 📄 I133 - Cours (Chapitre 2).pdf
+│   │   ├── 📄 I133 - Cours (Chapitre 0).pdf
+│   │   └── 📄 I133 - Cours (Chapitre 1).pdf
+│   ├── 📁 [I133] TD/
+│   │   ├── 📄 Solution_TDs_Info3_2021_2022.pdf
+│   │   └── 📄 TD_Info3_2022_2023_octobre_Exo_Etudiant (1).pdf
+│   └── 📁 [I133] TP/
+│       ├── 📄 Enonce tp i133
+│       └── 📄 Solution_TPs_info3_2021_2022.pdf
+├── 📄 TP Structure de données C Hraoui ENSA Fes 2020 2021-Structures données avec C
+├── 📄 TP Structure de données C Hraoui ENSA Fes 2020 2021-Structures données avec C
+├── 📄 TP Structure de données C Hraoui ENSA Fes 2020 2021-Structures données avec C
+├── 📄 Langage C Exercices corrigés Maude Manouvrier Dauphine-Structures données avec C
+├── 📄 Langage C Exercices corrigés Maude Manouvrier Dauphine-Structures données avec C
+├── 📄 Langage C Exercices corrigés Maude Manouvrier Dauphine-Structures données avec C
+├── 📄 Exercices Programmation C: Structures et Tables de Hachage-Structures données avec C
+├── 📄 Examen Info Structures Données Fichiers UHII Casa 2017-Structures données avec C
+├── 📄 Examen MIP Informatique 2016 Listes Chainées et Arbres C-Structures données avec C
+├── 📄 Examen I133 Structures de Données en Langage C 2019 2020-Structures données avec C
+├── 📄 Solution TP 1 et TP 2 Structures de Donnees en C LSC et LDC-Structures données avec C
+├── 📄 TP Structure de données en langage C ENSA Fes 2020 2021-Structures données avec C
+├── 📄 TP TD 01 Structures donnees Pointeurs allocation dynamique-Structures données avec C
+├── 📄 Solution TP 1 et TP 2 Structures de Donnees en C LSC et LDC-Structures données avec C
+├── 📄 TD 1 Structures de Donnees C Listes Simplement Chainees MIP-Structures données avec C
+├── 📄 Corrige TD 1 Structures de Donnees en Langage C I133 MIP S3-Structures données avec C
+├── 📄 Cours Module I33 Structures de données MIP S3 FST 2020 2021-Structures données avec C
+├── 📄 Cours I33 Structures de données MIP S3 FST Mohammedia 2020-Structures données avec C
+├── 📄 Cours Structures de données I33 MIP S3 FST Mohammedia HSSINA-Structures données avec C
+├── 📄 Cours I133 Structures de données MIP S3 FST Mohammedia 2021-Structures données avec C
+├── 📄 Cours Structures de données I33 MIP S3 FST Mohammedia 2020-Structures données avec C
+├── 📄 Cours Structures de données Module I33 MIP S3 FST 2019 2020-Structures données avec C
+├── 📄 Examen de rattrapage Module I133 FST Mohammedia 2020 2021-Structures données avec C
+├── 📄 Examen I133 Structures de Donnees en Langage C FST 2020 2021-Structures données avec C
+├── 📄 Examen I133 Structures de Données en Langage C 2019 2020-Structures données avec C
+├── 📄 Examen Module I133 Liste Doublement Chainee MIP S3 2021 2022-Structures données avec C
+├── 📄 Examen Module I133 Files d attente C MIP S3 FST Mohammedia-Structures données avec C
+├── 📄 Examen INFO3 I133 FST Mohammedia Listes Chainees Polynomes-Structures données avec C
+├── 📄 Examen Rattrapage Informatique 3 MIP FST Mohammedia 2021-Structures données avec C
+├── 📄 Examen MIP Informatique 2016 Listes Chainées et Arbres C-Structures données avec C
+├── 📄 Examen Algorithmique et Programmation 3 FST Mohammedia 2013-Structures données avec C
+├── 📄 TD-Structures données avec C
+├── 📄 TD-Structures données avec C
+├── 📄 Examen INFO-Structures données avec C
+├── 📄 td-Structures données avec C
+├── 📄 Examen Info Structures Données Fichiers UHII Casa 2017-Structures données avec C
+├── 📄 examen Rattrapage MIP 3 I133 Polynômes Juin 2023 FST-Structures données avec C
+├── 📄 TP Implémentation d'une file d'attente dynamique de clients en C-Structures données avec C
+├── 📄 TPTD 01 C Tableaux Structures de données Pr Aissaoui-Structures données avec C
+├── 📄 Cours Structures de Données ENSA Fès Karima Aissaoui-Structures données avec C
+├── 📄 TP TD 04 Listes doublement chaînées Structures de données-Structures données avec C
+├── 📄 TP TD 07 Structures de données Les tables de hachage-Structures données avec C
+├── 📄 Cours de Programmation C Résumé des Bases et Syntaxe-Structures données avec C
+├── 📄 TP TD 08 Algorithmes de tri sur listes chainees-Structures données avec C
+├── 📄 Cours Arbres de Pr Karima AISSAOUI Universite USMBA-Structures données avec C
+├── 📄 Structures de données TP TD 03 Listes chaînées simples-Structures données avec C
+├── 📄 Exercices Programmation C: Structures et Tables de Hachage-Structures données avec C
+├── 📄 Cours Pile Structures de Données Pr Karima Aissaoui-Structures données avec C
+├── 📄 TP TD 06 Structures de données Arbres Binaires de Recherche-Structures données avec C
+├── 📄 Langage C Exercices corrigés Maude Manouvrier Dauphine-Structures données avec C
+├── 📄 cours Listes Doublement Chaînées Pr Karima AISSAOUI-Structures données avec C
+├── 📄 Cours Structures de Données Listes Chaînées Pr. AISSAOUI-Structures données avec C
+├── 📄 TP Structure de données C Hraoui ENSA Fes 2020 2021-Structures données avec C
+├── 🔗📁 [I133] Structure de données en C/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 🔗📁 Structure des données en C/  (raccourci)
+│   ├── 📄 colle3.jpeg
+│   ├── 📄 colle2.jpeg
+│   ├── 📄 colle1.jpeg
+│   ├── 📄 2016-2017(Rattrapage2).jpeg
+│   ├── 📄 2016-2017(Rattrapage1).jpeg
+│   ├── 📄 colle4.jpeg
+│   ├── 📄 Examen 2016-2017(2).jpeg
+│   ├── 📄 Examen 2016-2017(1).jpeg
+│   ├── 📄 B.jpeg
+│   ├── 📄 A.jpeg
+│   ├── 📄 5.png
+│   ├── 📄 4.png
+│   ├── 📄 6.png
+│   ├── 📁 Cours/
+│   │   ├── 📁 PDF/
+│   │   ├── 📁 Les arbres/
+│   │   ├── 📁 Les files/
+│   │   ├── 📁 Les piles/
+│   │   └── 📁 Les listes chainées/
+│   ├── 📁 COLLE/
+│   ├── 📁 TP/
+│   │   ├── 📁 TP-Séance-4/
+│   │   │   ├── 📁 Liste chainée/
+│   │   │   ├── 📁 Statique/
+│   │   │   └── 📁 Dynamique/
+│   │   ├── 📁 TP-Séance-1/
+│   │   ├── 📁 TP-Séance-3/
+│   │   └── 📁 TP-Séance-2/
+│   ├── 📁 Examen Ecrit/
+│   ├── 📁 fichier.txt/
+│   │   └── 📁 Jeux/
+│   └── 📁 Samir/
+├── 🔗📁 +Structures de données SMA SMI MIPC/  (raccourci)
+│   ├── 📄 °Examens corrigés structures de données FST FES.pdf
+│   ├── 📄 °EXAMENS Structures de données en C FPT TETOUAN.pdf
+│   ├── 📄 °EXAMENS Structures de données en C FSDM FES.pdf
+│   ├── 📄 °EXAMENS Structures de données en C FSJ ELJDIDA.pdf
+│   ├── 📄 °TD COURS Structures de données en C FSM MEKNES 19 20.pdf
+│   ├── 📄 °TD COURS Structures de données en C FSM MEKNES 20 21.pdf
+│   ├── 📄 °TD COURS Structures de données en C MIPC FST TANGER.pdf
+│   ├── 📄 °TD Structures de données en C FPT TAZA.pdf
+│   ├── 📄 °TD Structures de données en C FPT TETOUAN 19 20.pdf
+│   ├── 📄 °TD Structures de données en C FSAC & EST CASABLANCA.pdf
+│   ├── 📄 °TD Structures de données en C FSJ ELJDIDA 16 17.pdf
+│   ├── 📄 °TD Structures de données en C FSJ ELJDIDA 2020.pdf
+│   ├── 📄 °TD Structures de données en C MIPC FST ERRACHIDIA A.pdf
+│   ├── 📄 °TD Structures de données en C MIPC FST ERRACHIDIA B.pdf
+│   ├── 📄 °TD Structures de données en C MIPC FST FES.pdf
+│   ├── 📄 °TD&TP STRUCTURES DE DONNEES EN LANGAGE C FST-MOHAMMEDIA.pdf
+│   ├── 📄 °TDs TPs EXAMENs STRUCTURES DES DONNEES FST-SETTET.pdf
+│   ├── 📄 °TP STRUCTURES DE DONNEES EN LANGAGE C FPO.pdf
+│   ├── 📄 °TP STRUCTURES DE DONNEES EN LANGAGE C FSO OUAJDA.pdf
+│   ├── 📄 +TD TP Structures de données en C FSDM FES 19 20.pdf
+│   ├── 📄 +TD TP Structures de données en C FSDM FES 20 21.pdf
+│   ├── 📄 +TD TP Structures de données en C FSDM FES 21 22.pdf
+│   ├── 📄 FST SETTET ALGORITHMIQUE & PROGRAMMATION EN C1&C2 TDS EXAMENS.pdf
+│   ├── 📄 TD STRUCTURE DE DONNEES FS-TETOUAN SMA4.pdf
+│   ├── 📄 TD STRUCTURE DE DONNEES FSA AGADIR 2020 SMA4.pdf
+│   ├── 📄 TD STRUCTURE DE DONNEES FSBM CASA SMA4.pdf
+│   ├── 📄 TD STRUCTURE DE DONNEES FSM MEKNES SMA4.pdf
+│   ├── 📄 TDs TPs EXAMENs STRUCTURES DES DONNEES FST-SETTET.pdf
+│   ├── 📄 °COURS Structures de données en C FSJ ELJDIDA 16 17.pdf
+│   ├── 📄 °COURS Structures de données en C MIPC FST FES.pdf
+│   ├── 📄 °COURS Structures de données en C FPT TETOUAN.pdf
+│   ├── 📄 °COURS Structures de données en C FPK.pdf
+│   ├── 📄 °Polycopié de Cours Structures de données.pdf
+│   ├── 📄 °COURS Structures de données en C FSJ ELJDIDA 2020.pdf
+│   ├── 📄 °Cours_Structures_Donnees_SMI_S4 FPN.pdf
+│   ├── 📄 °COURS Structures de données en C MIPC FST ERRACHIDIA.pdf
+│   ├── 📄 °COURS Structures de données en C FPO.pdf
+│   └── 📄 °COURS Structures de données en C FSK KENITRA.pdf
+├── 🔗📁 °Algorithmique2 BY SABORPCMATH/  (raccourci)
+│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSSM MARRAKECH SMI3.pdf
+│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSDM FES SMI3.pdf
+│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSBM CASABLANCA SMI3.pdf
+│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSAC CASABLANCA SMI3.pdf
+│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSA AGADIR SMI3.pdf
+│   ├── 📄 °COURS2 ALGORITHMIQUE II FSBM CASABLANCA SMI3.pdf
+│   ├── 📄 °COURS1 ALGORITHMIQUE II FSBM CASABLANCA SMI3.pdf
+│   ├── 📄 °COURS ALGORITHMIQUE II FSSM MARRAKECH SMI3.pdf
+│   ├── 📄 °COURS ALGORITHMIQUE II FSM MEKNES SMI3.pdf
+│   ├── 📄 °COURS ALGORITHMIQUE II FSDM FES SMI3.pdf
+│   ├── 📄 °COURS ALGORITHMIQUE II FPL LARACH SMI3.pdf
+│   ├── 📄 °COURS ALGORITHMIQUE II 20 21 FST TETOUAN SMI3.pdf
+│   ├── 📄 °COURS ALGORITHMIQUE II 20 21 FSAC CASABLANCA SMI3.pdf
+│   ├── 📄 °COURS ALGORITHMIQUE II 20 21 FPK KHOURIBGHA SMI3.pdf
+│   ├── 📄 °COURS ALGORITHMIQUE II 18 19 FSA AGADIR SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FSSM MARRAKECH SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FSR RABAT 16 17 SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FSR RABAT 14 15 SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FSM MEKNES SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FSK KENITRA SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FSJ ELJADIDA SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FSDM FES SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FSBM CASABLANCA SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FSAC CASABLANCA SMI3.pdf
+│   ├── 📄 °°TDs ALGORITHMIQUE II FPL LARACH SMI3.pdf
+│   └── 📄 °°TDs ALGORITHMIQUE II 18 19FSA AGADIR SMI3.pdf
+└── 📁 Structure des données en C/
+    ├── 📄 arbre.cpp
+    ├── 📄 arb(1).cpp
+    ├── 📄 B.jpeg
+    ├── 📄 liste chainées.cpp
+    ├── 📄 arb(2).cpp
+    ├── 📄 arb.cpp
+    ├── 📄 liste doublement chainees.cpp
+    ├── 📄 colle3.jpeg
+    ├── 📄 les piles.cpp
+    ├── 📄 6.png
+    ├── 📄 l-d-c.cpp
+    ├── 📄 5.png
+    ├── 📄 arbre(2).cpp
+    ├── 📄 colle2.jpeg
+    ├── 📄 desktop.ini
+    ├── 📄 liste double.cpp
+    ├── 📄 2016-2017(Rattrapage1).jpeg
+    ├── 📄 arbre(1).cpp
+    ├── 📄 colle4.jpeg
+    ├── 📄 tri..cpp
+    ├── 📄 calculatrice colle.cpp
+    ├── 📄 H table.cpp
+    ├── 📄 4.png
+    ├── 📄 colle.cpp
+    ├── 📄 calculatrice colle(1).cpp
+    ├── 📄 liste simple.cpp
+    ├── 📄 desktop(1).ini
+    ├── 📄 les arbres.cpp
+    ├── 📄 les files.cpp
+    ├── 📄 A.jpeg
+    ├── 📄 2016-2017(Rattrapage2).jpeg
+    ├── 📄 Examen 2016-2017(2).jpeg
+    ├── 📄 colle1.jpeg
+    ├── 📄 Algo de tri.cpp
+    ├── 📄 Examen 2016-2017(1).jpeg
+    ├── 📄 colle(1).cpp
+    └── 📄 tl-complet.cpp
+
+═════════════════════════════════════
+  Fin du fichier · Structures des données avec C
+═════════════════════════════════════

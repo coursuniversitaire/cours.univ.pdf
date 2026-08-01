@@ -1,0 +1,31 @@
+📚 MODULE : simulation des procédes et optimisation   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module simulation des procédes et optimisation.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 simulation des procédes et optimisation/
+├── 📁 Tds corrigés/
+│   ├── 📄 serie1.pdf
+│   ├── 📄 serie2.pdf
+│   ├── 📄 serie3.pdf
+│   ├── 📄 serie4.pdf
+│   └── 📄 serieSMPLX.pdf
+└── 📁 Cours/
+    ├── 📄 opt1.pdf
+    ├── 📄 opt2.pdf
+    ├── 📄 optM.pdf
+    └── 📄 resumOPT.pdf
+
+═════════════════════════════════════
+  Fin du fichier · simulation des procédes et optimisation
+═════════════════════════════════════

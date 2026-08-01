@@ -1,0 +1,29 @@
+📚 MODULE : RCP-Régulation et commande des procédés   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module RCP-Régulation et commande des procédés.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 RCP-Régulation et commande des procédés/
+├── 📁 Cours/
+│   ├── 📄 RCPchwia resume.pdf
+│   └── 📄 RCPchwia cours.pdf
+└── 📁 TDs corrigés/
+    ├── 📄 RCP.S1.pdf
+    ├── 📄 RCP.S1S.pdf
+    ├── 📄 RCP.S2.pdf
+    ├── 📄 RCP.S3.pdf
+    └── 📄 RCP.S4.pdf
+
+═════════════════════════════════════
+  Fin du fichier · RCP-Régulation et commande des procédés
+═════════════════════════════════════

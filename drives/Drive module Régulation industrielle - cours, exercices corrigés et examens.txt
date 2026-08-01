@@ -1,0 +1,67 @@
+📚 MODULE : Régulation industrielle                   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Régulation industrielle.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Régulation industrielle/
+├── 📄 Regulation-20260510T184153Z-3-001.zip
+├── 🔗📁 Regulation/  (raccourci)
+│   ├── 📁 Exams/
+│   │   ├── 📄 test_régul_2019.docx
+│   │   ├── 📄 exam_régul_2020.docx
+│   │   ├── 📄 exam 2020.pdf
+│   │   ├── 📄 ratrapage 2019.pdf
+│   │   └── 📄 exam final 2019.pdf
+│   ├── 📁 Cours/
+│   │   ├── 📄 Chapitre 4_choix-et-dimensionnement-des-regulateurs.pdf
+│   │   ├── 📄 Chapitre 3_régul_ELM_2021.pdf
+│   │   ├── 📄 Chapitre 2_régul_ELM_2021.pdf
+│   │   ├── 📄 Chapite 1_Suite.pdf
+│   │   ├── 📄 Chapitre 1_régulation_elm.pdf
+│   │   └── 📄 Reduction of block diagrame.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 td03_solution.pdf
+│   │   ├── 📄 td4.pdf
+│   │   ├── 📄 TD3 regulation.pdf
+│   │   ├── 📄 TD01 solution.pdf
+│   │   ├── 📄 TD4
+│   │   ├── 📄 TD02 Solution.pdf
+│   │   ├── 📄 TD1_régul_2023.pdf
+│   │   ├── 📄 TD2_régul_2023.pdf
+│   │   └── 📁 Additional/
+│   │       ├── 📄 TD1_régul_2021.doc
+│   │       └── 📄 TD2_régul_ELM_2020.pdf
+│   └── 📁 TP /
+│       ├── 📄 tp3_régul_2023.pdf
+│       ├── 📄 tp2_régul_2023.pdf
+│       └── 📄 tp1
+├── 📄 exam regulation 2018_2.jpg
+├── 📄 exam regulation 2018_1.jpg
+├── 📄 exam regulation 4.jpg
+├── 📄 exam regulation3.jpg
+├── 📄 exam regulation 2.jpg
+├── 📄 exam regulation1.jpg
+├── 📁 TD/
+│   ├── 📄 TD3-avec_solution.pdf
+│   ├── 📄 TD3-avec_solution(1).pdf
+│   ├── 📄 TD-I-suite.pdf
+│   ├── 📄 TD2-R_gulation_Industrielle.pdf
+│   └── 📄 TD1-R_gulation_Industrielle.pdf
+├── 📁 TP/
+│   └── 📄 Polycopie_du_TP-R_gulation_Industrielle_-2020-2021.pdf
+└── 📁 Cours/
+    └── 📄 cours_asservissement_part_2.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Régulation industrielle
+═════════════════════════════════════

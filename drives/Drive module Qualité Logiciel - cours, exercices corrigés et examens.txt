@@ -1,0 +1,49 @@
+📚 MODULE : Qualité Logiciel                          
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Qualité Logiciel.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Qualité Logiciel/
+├── 📄 2 application de cmmi dans projet.png
+├── 📄 20200116_131558.jpg
+├── 📄 20200116_131604.jpg
+├── 📄 APPLICATION DU MODELE CMMI AU PROJET.docx
+├── 📄 APPLICATION DU MODELE CMMI AU PROJET.png
+├── 📄 CMMI (1).xls
+├── 📄 CMMI representation continu.png
+├── 📄 ex1 corrigé-chap1.png
+├── 📄 Niveaux CMMI.png
+├── 📄 p4_01.jpg
+├── 📄 qualité 1.jpg
+├── 📄 qualité 2.jpg
+├── 📄 qualit  logiciel 2.jpg
+├── 📄 qualit  logiciel.jpg
+├── 📄 60_question_corrige_QCM_genie_logiciel_c.pdf
+├── 📄 séance 06-new cmmi.pdf
+├── 📄 séance 01 - qualité logicielle intro methds.pdf
+├── 📄 séance 03 - qualité logicielle normes .pdf
+├── 📄 r sum  QUALIT  LOGICIELLE.pdf
+├── 📄 séance 04 - qualité logicielle cmmi.pdf
+└── 📁 old/
+    ├── 📄 s3 - qualité logicielle.pdf
+    ├── 📄 s4 - qualité logicielle.pptx
+    ├── 📄 s6-qualité-logicielle.pdf
+    ├── 📄 s1 - qualité logicielle.pdf
+    ├── 📄 cours fsr.ac.ma .pdf
+    ├── 📄 s10-qualité-logicielle.pdf
+    ├── 📄 s2 - qualité logicielle.pdf
+    └── 📄 s8-qualité-logicielle-2ASI.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Qualité Logiciel
+═════════════════════════════════════

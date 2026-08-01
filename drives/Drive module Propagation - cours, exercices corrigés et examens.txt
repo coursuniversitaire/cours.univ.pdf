@@ -1,0 +1,45 @@
+📚 MODULE : Propagation                               
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Propagation.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Propagation/
+└── 🔗📁 Propagation des ondes electromagnetique/  (raccourci)
+    ├── 📁 bou-el-harmel/
+    │   ├── 📄 exam final poem.pdf
+    │   ├── 📄 controlle poem.pdf
+    │   └── 📄 cours POEM.pdf
+    └── 📁 prof/
+        ├── 📄 controlle.pdf
+        ├── 📄 remarque.txt
+        ├── 📄 Contrôle POEM 2020-2021.pdf
+        ├── 📄 Chapitre 3 POEM.pdf
+        ├── 📄 Chapitre 2 POEM.pdf
+        ├── 📄 TD n°3 POEM.pdf
+        ├── 📄 TD n°2 POEM.pdf
+        ├── 📄 Chapitre 1 et une partie du chapitre 2.pdf
+        ├── 📄 TD n°1 POEM.pdf
+        ├── 📄 desktop.ini
+        ├── 📁 TD/
+        │   └── 📄 TD 1,2,3,4 2020.pdf
+        └── 📁 Exms/
+            ├── 📄 Controles 1_2 2020.pdf
+            └── 📁 Controle 1_2 2019/
+                ├── 📄 2019_11_24_19_05_IMG_1051.JPG
+                ├── 📄 2019_11_24_19_05_IMG_1052.JPG
+                ├── 📄 2019_11_24_19_05_IMG_1053.JPG
+                └── 📄 2019_11_24_19_05_IMG_1050.JPG
+
+═════════════════════════════════════
+  Fin du fichier · Propagation
+═════════════════════════════════════

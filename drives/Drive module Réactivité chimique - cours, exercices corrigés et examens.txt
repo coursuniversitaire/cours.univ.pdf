@@ -1,0 +1,114 @@
+📚 MODULE : Réactivité chimique                       
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Réactivité chimique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Réactivité chimique/
+├── 🔗📁 -C112- Réactivité chimique-20260211T193757Z-3-001.zip/  (raccourci)
+├── 🔗📁 [C112] Réactivité chimique-20260211T193757Z-3-001.zip  (raccourci)
+├── 🔗📁 Réactivité Chimique/  (raccourci)
+│   ├── 📁 Chapitre 3/
+│   │   └── 📄 cours chimie en solution chapitre oxy red BCG 23.pdf
+│   ├── 📁 Chapitre2/
+│   │   ├── 📄 cours acide-base BCG 23.pdf
+│   │   └── 📄 4_5967543263186389228.pdf
+│   ├── 📁 Td/
+│   │   ├── 📄 série 4 BCG23.pdf
+│   │   ├── 📄 série 3 réactivité.pdf
+│   │   ├── 📄 Correction td1 réactivité chimique.pdf
+│   │   └── 📄 séries 1 et 2 BCG 23.pdf
+│   └── 📁 Chapitre1/
+│       └── 📄 Chapitre Notions fondamentales étudiants.pdf
+├── 🔗📁 SEANCES/  (raccourci)
+│   ├── 📄 Correction de l'examen 2020
+│   ├── 📁 COURS/
+│   │   ├── 📄 DERNIERE SEANCE CHAP9
+│   │   ├── 📄 10EME SEANCE CHAP8
+│   │   ├── 📄 8EME SEANCE CHAP6
+│   │   ├── 📄 7EME SEANCE.mkv
+│   │   ├── 📄 6EME SEANCE.mkv
+│   │   ├── 📄 5EME SEANCE.mkv
+│   │   ├── 📄 4EME SEANCE.mkv
+│   │   ├── 📄 3EME SEANCE.mkv
+│   │   ├── 📄 2EME SEANCE.mkv
+│   │   └── 📄 1ERE SEANCE.mkv
+│   └── 📁 TD/
+│       ├── 📄 Série 6
+│       ├── 📄 Série 7
+│       ├── 📄 Série 4 : ex3 + Série 5
+│       ├── 📄 Série 4 : ex 1&2
+│       ├── 📄 Série 3 + Série 4 : ex1 question2
+│       ├── 📄 Série 2
+│       └── 📄 Série 1
+├── 🔗📁 [C112] Réactivité chimique/  (raccourci)
+│   ├── 📁 [C112] Cours/
+│   │   ├── 📄 C112 - Cours.pdf
+│   │   ├── 📄 MIP-S2-Module C122-chapitre-01.pdf
+│   │   ├── 📄 MIP-S2-Module C122-chapitre-05.pdf
+│   │   ├── 📄 MIP-S2-Module C122-chapitre-04.pdf
+│   │   ├── 📄 MIP-S2-Module C122-chapitre-02.pdf
+│   │   └── 📄 MIP-S2-Module C122-chapitre-03.pdf
+│   ├── 📁 [C112] Archive/
+│   │   └── 📄 Exam-2021-C122.pdf
+│   └── 📁 [C112] TD/
+│       ├── 📄 TD+Corr Série 5.pdf
+│       ├── 📄 TD Série N2 + Correction.pdf
+│       ├── 📄 TD Série N1 + Correction.pdf
+│       ├── 📄 TD Série N3 + Correction.pdf
+│       ├── 📄 TD Série N4 + Correction.pdf
+│       ├── 📄 C112 - TD 4 (Solution).pdf
+│       ├── 📄 C112 - TD 3 (Solution).pdf
+│       ├── 📄 C112 - TD 2 (Solution).pdf
+│       ├── 📄 C112 - TD 1 (Solution).pdf
+│       ├── 📄 C112 - TD 3.pdf
+│       ├── 📄 C112 - TD 4.pdf
+│       ├── 📄 C112 - TD 2.pdf
+│       ├── 📄 C112 - TD 5.pdf
+│       └── 📄 C112 - TD 1.pdf
+└── 📁 Réactivité chimique/
+    ├── 📁 Cours/
+    │   ├── 📄 Cours Réactivité chimique tous les chapitres
+    │   ├── 📄 Cours Chimie Equilibres OxydoReduction Degres dOxydation Réactivité chimique
+    │   ├── 📄 Cinétique chimique vitesse réaction facteurs influençant et équation d Arrhenius Réactivité chimique
+    │   ├── 📄 Equilibres de precipitation Ks et solubilité s en milieu heterogene Réactivité chimique
+    │   ├── 📄 Cours DEUST MIP C122 Generalites Solutions Chimiques Réactivité chimique
+    │   └── 📄 Les trois modèles pour comprendre les acides et bases en solution aqueuse Réactivité chimique
+    ├── 📁 TDs/
+    │   ├── 📄 Exercices TD Réactivité chimique MIP BCG Oxydoréduction
+    │   ├── 📄 Exercices TD Réactivité chimique MIP BCG Oxydoréduction
+    │   ├── 📄 Exercices TD Réactivité Chimique OxydoRéduction et Alcootest
+    │   ├── 📄 Correction serie 2 Acide Base pH Dilution Calculs Réactivité chimique
+    │   ├── 📄 Correction serie td 3 Chimie Equilibres Solides Liquides Réactivité chimique
+    │   ├── 📄 Correction serie 2 Acide Base pH Dilution Calculs Réactivité chimique
+    │   ├── 📄 Correction serie 1 Réactions Acide Base Réactivité chimique
+    │   ├── 📄 Exercices TD Réactivité Chimique Acido Basique KMnO4 NaOH H2C2O4 H2SO4 Limonade
+    │   ├── 📄 Exercices TD Cinetique chimique serie 5 N2O5 NO2 et decomposition corps pur A Réactivité chimique
+    │   ├── 📄 Exercices TD Réactivité Chimique Acido Basique Solutions Tampons Mélanges
+    │   ├── 📄 Exercices TD Réactivité chimique MIP BCG Oxydoréduction
+    │   ├── 📄 Exercices TD réactivité chimique solubilite et précipitation
+    │   ├── 📄 Exercices TD Chimie Electrochimie Pile Danellino Réactivité chimique
+    │   ├── 📄 Exercices TD Réactivité Chimique équilibres précipitations oxalate lanthane chaux
+    │   ├── 📄 Exercices TD Réactivité Chimique OxydoRéduction et Alcootest
+    │   ├── 📄 Exercices TD Réactivité Chimique MIP BCG Préparation Solutions Vitamine C Eosine
+    │   ├── 📄 Exercices TD Réactivité Chimique pH solutions NaOH et LiOH
+    │   ├── 📄 Exercices TD Cinétique Chimique Correction et Application Pratique Réactivité chimique
+    │   └── 📄 Exercices TD Réactivité Chimique MIP AU 2020 2021
+    ├── 📁 Examens/
+    │   ├── 📄 Contrôles de chimie en solution Parcours MIP04 S2
+    │   └── 📄 Examen Reactivite Chimique FST Casablanca Module C122 Réactivité chimique
+    └── 📁 TP/
+        └── 📄 TP Reactivite Chimique Laboratoire MIP BCG Réactivité chimique
+
+═════════════════════════════════════
+  Fin du fichier · Réactivité chimique
+═════════════════════════════════════

@@ -1,0 +1,376 @@
+📚 MODULE : Propagation et Antennes                   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Propagation et Antennes.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Propagation et Antennes/
+├── 📄 Notes de cours_C2_Liaison.pdf
+├── 📄 Notes de cours_C3_Rayonnement.pdf
+├── 📄 Notes de cours_CI_Propagation.pdf
+├── 📄 antennes.pdf
+├── 📄 Propagation-et-antennes.pdf
+├── 📄 received_258161259217925.jpeg
+├── 📁 cours/
+│   ├── 📄 Chapitre 1 Généralité.pdf
+│   ├── 📄 Chapitre 2 Propagation onde.pdf
+│   ├── 📄 Chapitre 3 Parametres antennes.pdf
+│   └── 📄 Chapitre 4 Antennes filaires.pdf
+├── 📁 tps/
+│   ├── 🔗📁 Antenne/  (raccourci)
+│   │   ├── 📄 ap_notes-e.pdf
+│   │   ├── 📄 TP1  Dipole linéaire demi onde.pdf
+│   │   ├── 📁 tp1_antenne/
+│   │   │   ├── 📄 IMG_20200224_224526.jpg
+│   │   │   ├── 📄 IMG_20200224_221427.jpg
+│   │   │   ├── 📄 IMG_20200224_221419.jpg
+│   │   │   ├── 📄 IMG_20200224_221411.jpg
+│   │   │   ├── 📄 tp1_antenne.docx
+│   │   │   ├── 📄 3.JPG
+│   │   │   ├── 📄 2.JPG
+│   │   │   └── 📄 1.JPG
+│   │   └── 📁 tp2_antenne/
+│   │       ├── 📄 Dipole.hfss
+│   │       └── 📁 Dipole.hfssresults/
+│   │           ├── 📄 ManagedFiles_Design0.asol
+│   │           ├── 📄 Dipole_Antenna_ADKv1.asol
+│   │           ├── 📁 mf_0/
+│   │           │   ├── 📁 GeometryCache/
+│   │           │   │   ├── 📄 OperationDataCache.tmp
+│   │           │   │   ├── 📄 InterrogationCache.tmp
+│   │           │   │   └── 📁 BodyCache/
+│   │           │   │       └── 📄 0000016.sab
+│   │           │   ├── 📁 svcache/
+│   │           │   │   ├── 📄 HDR61469215826198434.tmp
+│   │           │   │   ├── 📄 min1A25692158262141611.tmp
+│   │           │   │   ├── 📄 min1A22692158262141510.tmp
+│   │           │   │   └── 📄 min1A25692158262141612.tmp
+│   │           │   └── 📁 radfld/
+│   │           │       ├── 📄 RAD58569215826197991.tmp
+│   │           │       └── 📄 71369215826199217.tmp
+│   │           └── 📁 Dipole_Antenna_ADKv1.results/
+│   │               ├── 📄 DV44_S4_V13.profile
+│   │               ├── 📄 DV44_SOL10_M0_V14.sd
+│   │               ├── 📄 DV44_SOL5_M4_V14.sd
+│   │               ├── 📄 DV44_SOL6_M0_V14.sd
+│   │               ├── 📄 DV44_SOL5_A4_V14.sd
+│   │               ├── 📄 DV44_SOL5_A3_V14.sd
+│   │               ├── 📄 DV44_SOL5_M3_V14.sd
+│   │               ├── 📄 DV44_SOL5_A2_V14.sd
+│   │               ├── 📄 DV44_SOL5_M2_V14.sd
+│   │               ├── 📄 DV44_SOL5_M1_V14.sd
+│   │               ├── 📄 DV44_SOL5_A1_V14.sd
+│   │               ├── 📄 DV44_SOL5_A0_V14.sd
+│   │               ├── 📁 DV44_S4_V13.cmesh/
+│   │               │   ├── 📄 current.hyd
+│   │               │   ├── 📄 current.lin
+│   │               │   ├── 📄 current.pnt
+│   │               │   ├── 📄 current.stats
+│   │               │   ├── 📄 current.fac
+│   │               │   └── 📄 current.sld
+│   │               ├── 📁 DV44_S4_V13.sfmesh/
+│   │               │   ├── 📄 current.sf_mshhdr
+│   │               │   └── 📄 current.sf_msh
+│   │               ├── 📁 DV44_MI0_V13.sd/
+│   │               │   └── 📄 initial.stats
+│   │               ├── 📁 DV44_V13.imesh/
+│   │               │   ├── 📄 initial.pnt
+│   │               │   ├── 📄 initial.hyd
+│   │               │   ├── 📄 initial.lin
+│   │               │   ├── 📄 initial.sld
+│   │               │   ├── 📄 initial.stats
+│   │               │   └── 📄 initial.fac
+│   │               ├── 📁 DV44_S6_V14_F49/
+│   │               │   ├── 📄 fields.evtrs_hyd
+│   │               │   ├── 📄 fields.sf_fld_0
+│   │               │   ├── 📄 fields.imp
+│   │               │   ├── 📄 fields.evtrs_0
+│   │               │   ├── 📄 fields.hvtrs_0
+│   │               │   ├── 📄 fields.evtrs
+│   │               │   ├── 📄 0_1.tvc
+│   │               │   ├── 📄 0.nvc
+│   │               │   ├── 📄 0_1.tvz
+│   │               │   └── 📄 0_1.tvm
+│   │               └── 📁 DV44_S4_MI0_V13.sd/
+│   │                   └── 📄 current.stats
+│   ├── 📄 Share 4_5886593209945036284.doc
+│   ├── 📄 Share TP_Antenne_Dipole_compte rendu.doc
+│   └── 📄 TP3 étude d'une liaison.pdf
+├── 📁 examens/
+│   ├── 📄 ANTENA AND WAVE PROPAGATION-F-19.jpg
+│   ├── 📄 ANTENA AND WAVE PROPAGATION-SP-19.jpg
+│   ├── 📄 ANTENNA AND WAVE PROPAGATION (SP 16).jpg
+│   ├── 📄 Antenna and Wave Propagation, F 17.jpg
+│   ├── 📄 Antenna and Wave Propagation, SP 18.jpeg
+│   ├── 📄 ANTENNA.W.PR-F15.jpg
+│   └── 📄 Solution_exam_ing_2025_En.pdf
+├── 📁 tds corrigés/
+│   ├── 📄 Réponse td
+│   ├── 📄 SERIE  2  antenne  sep 2020 finale .pdf
+│   ├── 📄 Série dexercices corrigés .pdf
+│   ├── 📄 Exercice sur le chapitre 1.pdf
+│   ├── 📄 Prog  ant_TD1_21 (1).pdf
+│   ├── 📄 Prog  ant_TD1_Solution.docx.pdf
+│   ├── 📄 Prog  ant_TD2_solution.pdf
+│   └── 📄 Prog  ant_TD3_21_solution.pdf
+└── 📁 autre/
+    ├── 🔗📁 Antenne/  (raccourci)
+    │   ├── 📁 lessons/
+    │   │   ├── 📄 Antenne_conception_applications.pdf
+    │   │   ├── 📄 réseau_antennes (1).pdf
+    │   │   ├── 📄 equatin_Propag_espace libre_2020.pdf
+    │   │   ├── 📄 antennes_dipole _monopole_1-Ing_dist_2020.pdf
+    │   │   ├── 📄 cour-1-Antennes-et-Propagation-des-Ondes.pdf
+    │   │   ├── 📄 antenne_reflecteur-cornet_2020.pdf
+    │   │   ├── 📄 antennesss_filaires_1.pdf
+    │   │   ├── 📄 antenne_boucle_ouverture.pdf
+    │   │   └── 📄 antennes_directivité_2020.pdf
+    │   ├── 📁 exams/
+    │   │   ├── 📄 TD1_ANtennes_Ing2-SE_2020.pdf
+    │   │   ├── 📄 antennes_DM_2020_correction-1.pdf
+    │   │   ├── 📄 antenne_DS_juin_2020_pdf.pdf
+    │   │   ├── 📄 CamScanner 10-09-2023 18.53.pdf
+    │   │   ├── 📄 received_2013722042044418.jpeg
+    │   │   ├── 📄 antenne_exam_final_20208_corrigé.docx
+    │   │   ├── 📄 exmn 2017.jpg
+    │   │   ├── 📄 Cours-antennes.pdf
+    │   │   ├── 📄 TD1-2-ANTENNE_2021-correction.pdf
+    │   │   ├── 📄 TD_directivité_recapitulatitif_janv_2021.pdf
+    │   │   ├── 📄 TD_Antennes_Corona_Juin_2020_correct.pdf
+    │   │   ├── 📄 anten-propag-corrigé-test1-2017.docx
+    │   │   ├── 📄 anternne_STR1-TD1_2020.pdf
+    │   │   ├── 📄 TD-antennes.pdf
+    │   │   ├── 📄 Antennes-examens-01.pdf
+    │   │   ├── 📄 ing1_correction_td_1_antenne_2020.docx
+    │   │   └── 📄 antennes_test_correct_ing1_str-21.pdf
+    │   └── 📁 TDs&TPs/
+    │       ├── 📄 TD1_ANtennes_Ing2-SE_2020.pdf
+    │       ├── 📄 antennes_DM_2020_correction-1.pdf
+    │       ├── 📄 TD_Antennes_Corona_Juin_2020_correct.pdf
+    │       └── 📁 TD1/
+    │           ├── 📄 Screenshot_20190120-170233.png
+    │           ├── 📄 Screenshot_20190120-170239.png
+    │           ├── 📄 Screenshot_20190120-170244.png
+    │           ├── 📄 Screenshot_20190120-170246.png
+    │           ├── 📄 Screenshot_20190120-170241.png
+    │           ├── 📄 Screenshot_20190120-170235.png
+    │           ├── 📄 Screenshot_20190120-170237.png
+    │           ├── 📄 Screenshot_20190120-170232.png
+    │           └── 📄 Screenshot_20190120-170243.png
+    ├── 🔗📁 Antenne #18/  (raccourci)
+    │   ├── 📄 COUR ANTENNA.pdf
+    │   ├── 📄 desktop.ini
+    │   ├── 📁 COUR/
+    │   │   └── 📄 Cour_Antenne.pdf
+    │   ├── 📁 formule trigo/
+    │   │   ├── 📄 trig-identities-new.pdf
+    │   │   ├── 📄 Interrogation 1-G1 - Corrigé.pdf
+    │   │   ├── 📄 Interrogation 1-G2_ Corrigé.pdf
+    │   │   ├── 📄 image085.jpg
+    │   │   ├── 📄 image084.jpg
+    │   │   ├── 📄 image086.jpg
+    │   │   ├── 📄 Interrogation 1-G3 - Corrigé.pdf
+    │   │   ├── 📄 Interrogation2-corrigé.pdf
+    │   │   ├── 📄 Formules à connaître par cœur.pdf
+    │   │   └── 📄 image087.jpg
+    │   ├── 📁 EXAM/
+    │   │   ├── 📄 EXAM + CORRIGEE (2).pdf
+    │   │   └── 📄 EXAM + CORRIGEE (1).pdf
+    │   ├── 📁 PDF/
+    │   │   ├── 📄 COUR ANTENNE.pdf
+    │   │   └── 📄 Antenna Theory Analysis and Design.pdf
+    │   └── 📁 TD ENONCE/
+    │       ├── 📄 04.jpg
+    │       ├── 📄 05.jpg
+    │       ├── 📄 02.jpg
+    │       ├── 📄 03.jpg
+    │       └── 📄 01.jpg
+    ├── 🔗📁 ANTENNE/  (raccourci)
+    │   ├── 📄 poly_lignes_23.pdf
+    │   ├── 📄 Abaque de Smith.pdf
+    │   ├── 📄 TP_Antennes.rar
+    │   ├── 📁 chapitre 1 MR.Mokraoui/
+    │   │   ├── 📄 37.jpg
+    │   │   ├── 📄 34.jpg
+    │   │   ├── 📄 36.jpg
+    │   │   ├── 📄 35.jpg
+    │   │   ├── 📄 33.jpg
+    │   │   ├── 📄 31.jpg
+    │   │   ├── 📄 32.jpg
+    │   │   ├── 📄 30.jpg
+    │   │   ├── 📄 28.jpg
+    │   │   ├── 📄 29.jpg
+    │   │   ├── 📄 26.jpg
+    │   │   ├── 📄 25.jpg
+    │   │   ├── 📄 23.jpg
+    │   │   ├── 📄 24.jpg
+    │   │   ├── 📄 21.jpg
+    │   │   ├── 📄 22.jpg
+    │   │   ├── 📄 20.jpg
+    │   │   ├── 📄 19.jpg
+    │   │   ├── 📄 18.jpg
+    │   │   ├── 📄 17.jpg
+    │   │   ├── 📄 16.jpg
+    │   │   ├── 📄 14.jpg
+    │   │   ├── 📄 15.jpg
+    │   │   ├── 📄 13.jpg
+    │   │   ├── 📄 12.jpg
+    │   │   ├── 📄 11.jpg
+    │   │   ├── 📄 10.jpg
+    │   │   ├── 📄 09.jpg
+    │   │   ├── 📄 08.jpg
+    │   │   ├── 📄 07.jpg
+    │   │   ├── 📄 06.jpg
+    │   │   ├── 📄 05.jpg
+    │   │   ├── 📄 04.jpg
+    │   │   ├── 📄 03.jpg
+    │   │   ├── 📄 02.jpg
+    │   │   └── 📄 01.jpg
+    │   ├── 📁 DIVERS/
+    │   │   ├── 📄 OndesElectromagnetiques.pdf
+    │   │   ├── 📄 ep_unsa_elec4_tp_electronique_04_Antennes_2014.pdf
+    │   │   ├── 📄 e-antennes.pdf
+    │   │   ├── 📄 cours_elmg01_prof.pdf
+    │   │   ├── 📄 Cours_Elec_Mag.pdf
+    │   │   ├── 📄 cours_antennes_oct11_v4_5RT.pdf
+    │   │   ├── 📄 cours_antennes_oct11_v4.pdf
+    │   │   ├── 📄 CoursHyper2005_Impression.pdf
+    │   │   ├── 📄 CoursAntenneL3.pps
+    │   │   ├── 📄 COH - partII - antennes.pdf
+    │   │   ├── 📄 ant_tot.pdf
+    │   │   ├── 📄 abaque-smith.pdf
+    │   │   ├── 📄 6 - Antennes intelligentes.ppt
+    │   │   ├── 📄 3-Différents Types d'Antennes.ppt
+    │   │   ├── 📄 3-Differents Types d'Antennes.ppt
+    │   │   ├── 📄 2-Caracteristiques Generales des Antennes.ppt
+    │   │   ├── 📄 2 - Antennes larges bandes.ppt
+    │   │   ├── 📄 1- Les Grands Principes du Rayonnement.ppt
+    │   │   ├── 📄 0- Introduction.ppt
+    │   │   ├── 📄 NadirCHAABI.pdf
+    │   │   ├── 📄 theocirc6.pdf
+    │   │   ├── 📄 Abaque de Smith (notion 4).ppt
+    │   │   ├── 📄 Polarisation_2.pdf
+    │   │   ├── 📄 Polarisation.pdf
+    │   │   └── 📄 abaque_smith.pdf
+    │   ├── 📁 chapitre 2 MR.Mokraoui/
+    │   │   ├── 📄 20170429_192244.jpg
+    │   │   ├── 📄 20170429_192233.jpg
+    │   │   ├── 📄 20170429_192227.jpg
+    │   │   ├── 📄 20170429_192217.jpg
+    │   │   ├── 📄 20170429_192211.jpg
+    │   │   ├── 📄 20170429_192201.jpg
+    │   │   ├── 📄 20170429_192154.jpg
+    │   │   ├── 📄 20170429_192143.jpg
+    │   │   ├── 📄 20170429_192136.jpg
+    │   │   └── 📄 20170429_192124.jpg
+    │   ├── 📁 EXAM+CORRIGE/
+    │   │   ├── 📄 exam anatenne  (2).pdf
+    │   │   ├── 📄 exam anatenne  (1).pdf
+    │   │   ├── 📁 INTERROGATION CORRIGÉ 2017/
+    │   │   │   ├── 📄 Interrogation_1-G2__Corrig_.pdf
+    │   │   │   ├── 📄 Interrogation_1-G3_-_Corrig_.pdf
+    │   │   │   ├── 📄 Interrogation_1-G1_-_Corrig_.pdf
+    │   │   │   └── 📄 Interrogation2-corrig_.pdf
+    │   │   └── 📁 EXAM 2017/
+    │   │       ├── 📄 A3.jpg
+    │   │       ├── 📄 A9.jpg
+    │   │       ├── 📄 A2.jpg
+    │   │       ├── 📄 A5.jpg
+    │   │       ├── 📄 A8.jpg
+    │   │       ├── 📄 A6.jpg
+    │   │       ├── 📄 A7.jpg
+    │   │       ├── 📄 A4.jpg
+    │   │       └── 📄 A1.jpg
+    │   ├── 📁 Rappel important !!/
+    │   │   ├── 📄 20170429_193357.jpg
+    │   │   └── 📄 20170429_193347.jpg
+    │   ├── 📁 chapitre 4 MR.Mokraoui/
+    │   │   └── 📄 CHAP 04.pdf
+    │   └── 📁 chapitre 3 MR.Mokraoui/
+    │       ├── 📄 20170429_192405.jpg
+    │       ├── 📄 20170429_192349.jpg
+    │       ├── 📄 20170429_192343.jpg
+    │       ├── 📄 20170429_192335.jpg
+    │       ├── 📄 20170429_192328.jpg
+    │       ├── 📄 20170429_192319.jpg
+    │       ├── 📄 20170429_192312.jpg
+    │       ├── 📄 20170429_192305.jpg
+    │       ├── 📄 20170429_192258.jpg
+    │       └── 📄 20170429_192250.jpg
+    ├── 🔗📁 TD/  (raccourci)
+    │   ├── 📄 Série de TD N 1 2 3.pdf
+    │   └── 📁 solution TD/
+    │       ├── 📄 Solution de la Série de TD N°1.pdf
+    │       ├── 📄 Solution de la Série de TD N° 2.pdf
+    │       └── 📄 Solution de la Série de TD N° 3.pdf
+    ├── 🔗📁 antennes/  (raccourci)
+    │   ├── 📄 antennes.pdf
+    │   ├── 📄 Propagation-et-antennes.pdf
+    │   ├── 📄 received_258161259217925.jpeg
+    │   ├── 📁 td/
+    │   │   ├── 📄 Réponse à Ben Ghelab.pdf
+    │   │   ├── 📄 Prog  ant_TD3_21_solution.pdf
+    │   │   ├── 📄 Prog  ant_TD2_solution.pdf
+    │   │   ├── 📄 Prog  ant_TD1_Solution.docx.pdf
+    │   │   └── 📄 Prog  ant_TD1_21 (1).pdf
+    │   └── 📁 cours/
+    │       ├── 📄 Notes de cours_C3_Rayonnement.pdf
+    │       ├── 📄 Notes de cours_C2_Liaison.pdf
+    │       └── 📄 Notes de cours_CI_Propagation.pdf
+    ├── 🔗📁 Antenne/  (raccourci)
+    │   └── ⚠️  [Référence circulaire ignorée]
+    ├── 🔗📁 Antenne L3/  (raccourci)
+    │   ├── 📁 TD/
+    │   │   ├── 📄 SERIE  2  antenne  sep 2020 finale .pdf
+    │   │   └── 📄 Série dexercices corrigés .pdf
+    │   └── 📁 Cours/
+    │       ├── 📄 Chapitre 4 Antennes filaires.pdf
+    │       ├── 📄 Chapitre 3 Parametres antennes.pdf
+    │       ├── 📄 Chapitre 2 Propagation onde.pdf
+    │       └── 📄 Chapitre 1 Généralité.pdf
+    ├── 🔗📁 Antenne/  (raccourci)
+    │   └── 📄 Cours Antenne Avionique  (2016-2017).pdf
+    ├── 🔗📁  Antennas and Wireless Propagation/  (raccourci)
+    │   ├── 📄 Solution_exam_ing_2025_En.pdf
+    │   ├── 📁 Tp/
+    │   │   ├── 📄 TP3 étude d'une liaison.pdf
+    │   │   ├── 📄 Share 4_5886593209945036284.doc
+    │   │   └── 📄 Share TP_Antenne_Dipole_compte rendu.doc
+    │   ├── 📁 Cour/
+    │   │   ├── 📄 Radiant Antennas.pdf
+    │   │   ├── 📄 The receiving antenna.pdf
+    │   │   ├── 📄 Straight Antenna.pdf
+    │   │   ├── 📄 antenna_array_Ing2025.pdf
+    │   │   ├── 📄 Chapter4_Receiving antenna_EN.ppt
+    │   │   ├── 📄 Chapitre 5_Antenna(1).pdf
+    │   │   ├── 📄 Chapitre_3_EN.pdf
+    │   │   └── 📄 Chapitre 2 Antenne EN(2).pdf
+    │   └── 📁 Td/
+    ├── 🔗📁 Propagation des ondes et Antennes (S5)/  (raccourci)
+    │   ├── 📄 Exercice sur le chapitre 1.pdf
+    │   └── 📁 Cours/
+    │       ├── 📄 Chapitre 6. Caractéristiques de quelques antennes usuelles.pdf
+    │       ├── 📄 Chapitre 4 Propagation des ondes électromagnétique dans les milieux conducteurs.pdf
+    │       ├── 📄 Chapitre 3 Propagation des ondes électromagnétiques dans les milieux diélectriques.pdf
+    │       ├── 📄 Chapitre 2  EQUATIONS DE MAXWELL.pdf
+    │       └── 📄 CHAPITRE 1 Rappels sur les éléments danalyse vectorielle.pdf
+    └── 🔗📁 ANTENNA & WAVE PROPAGATION/  (raccourci)
+        ├── 📄 ANTENA AND WAVE PROPAGATION-F-19.jpg
+        ├── 📄 ANTENA AND WAVE PROPAGATION-SP-19.jpg
+        ├── 📄 Antenna and Wave Propagation, SP 18.jpeg
+        ├── 📄 Antenna and Wave Propagation, F 17.jpg
+        ├── 📄 ANTENNA AND WAVE PROPAGATION (SP 16).jpg
+        └── 📄 ANTENNA.W.PR-F15.jpg
+
+═════════════════════════════════════
+  Fin du fichier · Propagation et Antennes
+═════════════════════════════════════

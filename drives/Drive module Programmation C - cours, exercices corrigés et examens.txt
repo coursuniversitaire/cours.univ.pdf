@@ -1,0 +1,651 @@
+📚 MODULE : Programmation C                           
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Programmation C.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Programmation C/
+├── 🔗📁 +Informatique 3 & Programmation1 C  SABORPCMATH.COM/  (raccourci)
+│   ├── 📄 +TP SMP4 Programmation1 (Langage C) FSR RABAT 2015.pdf
+│   ├── 📄 +TP CP2 Programmation1 (Langage C) ENSA SAFI.pdf
+│   ├── 📄 +TP CP2 Programmation1 (Langage C) ENSA ELJADIDA.pdf
+│   ├── 📄 +TD SMP4 Programmation1 (Langage C) FSR RABAT 2015.pdf
+│   ├── 📄 +TD SMP4 Programmation1 (Langage C) FSO OUAJDA 2016.pdf
+│   ├── 📄 +TD SMP4 Programmation1 (Langage C) FSAC CASABLANCA 15 16.pdf
+│   ├── 📄 +TD SMI3 Programmation1(Langage C) FPK KHOURIBGA 20 21.pdf
+│   ├── 📄 +TD SMI3 Programmation1 (Langage C) FSSM MARRAKECH.pdf
+│   ├── 📄 +TD SMI3 Programmation1 (Langage C) FSDM FES 20 21.pdf
+│   ├── 📄 +TD SMI3 Programmation1 (Langage C) FSBM CASABLANCA 20 21.pdf
+│   ├── 📄 +TD SMI3 Programmation1 (Langage C) FSBM CASABLANCA 18 19.pdf
+│   ├── 📄 +TD SMI3 Programmation1 (Langage C) FSA AGADIR 17 18.pdf
+│   ├── 📄 +TD SMI3 Programmation1 (Langage C) FPL LARACH.pdf
+│   ├── 📄 +TD SMAI Programmation1 (Langage C) FST TETOUAN.pdf
+│   ├── 📄 +TD SMAI Programmation1 (Langage C) FST TETOUAN 2018.pdf
+│   ├── 📄 +TD SMAI Programmation1 (Langage C) FST TETOUAN 2018 V2.pdf
+│   ├── 📄 +TD SMAI Programmation1 (Langage C) FST TETOUAN 20 21.pdf
+│   ├── 📄 +TD SMAI Programmation1 (Langage C) FST TETOUAN 19 20.pdf
+│   ├── 📄 +TD SMAI Programmation1 (Langage C) FSO OUAJDA 20 21.pdf
+│   ├── 📄 +TD SMAI Programmation1 (Langage C) FSM MEKNES 20 21.pdf
+│   ├── 📄 +TD SMAI Programmation1 (Langage C) FSM MEKNES 19 20.pdf
+│   ├── 📄 +TD SMA3 Programmation1(Langage C) FPK KHOURIBGA 20 21.pdf
+│   ├── 📄 +TD SMA3 Programmation1 (Langage C) FSSM MARRAKECH 20 21.pdf
+│   ├── 📄 +TD SMA3 Programmation1 (Langage C) FSR RABAT 13 14.pdf
+│   ├── 📄 +TD SMA3 Programmation1 (Langage C) FSJ ELJADIDA 20 21.pdf
+│   ├── 📄 +TD SMA3 Programmation1 (Langage C) FSDM FES.pdf
+│   ├── 📄 +TD SMA3 Programmation1 (Langage C) FSDM FES 20 21.pdf
+│   ├── 📄 +TD SMA3 Programmation1 (Langage C) FSBM CASABLANCA 20 21.pdf
+│   ├── 📄 +TD SMA3 Programmation1 (Langage C) FSBM CASABLANCA 15 16.pdf
+│   ├── 📄 +TD MIPC Algorithmique et programmation 2 FST MARRAKECH 20 21.pdf
+│   ├── 📄 +TD MIPC Algorithmique et programmation 2 FST ERRACHIDIA.pdf
+│   ├── 📄 +TD CP2 Programmation1 (Langage C) ENSA SAFI.pdf
+│   ├── 📄 +TD CP2 Programmation1 (Langage C) ENSA MARRAKECH.pdf
+│   ├── 📄 +TD CP2 Programmation1 (Langage C) ENSA KENITRA.pdf
+│   ├── 📄 +TD CP2 Programmation C Avancee ENSA MARRAKECH.pdf
+│   ├── 📄 +EXAMENS SMP4 Programmation1 (Langage C) FSAC CASABLANCA.pdf
+│   ├── 📄 +EXAMENS SMAI Programmation1 (Langage C) FST TETOUAN.pdf
+│   ├── 📄 +EXAMENS SMAI Programmation1 (Langage C) FSSM MARRAKECH.pdf
+│   ├── 📄 +EXAMENS SMAI Programmation1 (Langage C) FSO OUAJDA.pdf
+│   ├── 📄 +EXAMENS SMAI Programmation1 (Langage C) FSM MEKNES.pdf
+│   ├── 📄 +EXAMENS SMAI Programmation1 (Langage C) FSK KENITRA.pdf
+│   ├── 📄 +EXAMENS SMAI Programmation1 (Langage C) FSDM FES.pdf
+│   ├── 📄 +EXAMENS SMAI Programmation1 (Langage C) FSBM CASABLANCA.pdf
+│   ├── 📄 +EXAMENS SMAI Programmation1 (Langage C) FSA AGADIR.pdf
+│   ├── 📄 +EXAMENS CP2 Programmation1 (Langage C) ENSAM MEKNES.pdf
+│   ├── 📄 +COURS SMI3 Programmation1(Langage C) FSSM MARRAKECH 19 20.pdf
+│   ├── 📄 +COURS SMI3 Programmation1(Langage C) FSJ ELJADIDA 2018-2019.pdf
+│   ├── 📄 +COURS SMI3 Programmation1(Langage C) FSDM FES 20 21.pdf
+│   ├── 📄 +COURS SMI3 Programmation1(Langage C) FPK KHOURIBGA 20 21.pdf
+│   ├── 📄 +COURS SMI3 Programmation1 (Langage C) FSA AGADIR.pdf
+│   ├── 📄 +COURS SMAI3 Programmation1 (Langage C) FSO OUAJDA 20 21.pdf
+│   ├── 📄 +COURS SMAI3 Programmation1 (Langage C) FSM MEKNES 20 21.pdf
+│   ├── 📄 +COURS SMAI3 Programmation1 (Langage C) FSM MEKNES 19 20.pdf
+│   ├── 📄 +COURS SMAI3 Programmation1 (Langage C) FSK KENITRA 11 12.pdf
+│   ├── 📄 +COURS SMAI3 Programmation1 (Langage C) FSDM FES 2015.pdf
+│   ├── 📄 +COURS SMAI3 Programmation1 (Langage C) FSBM CASABLANCA 15 16.pdf
+│   ├── 📄 +COURS SMAI Programmation1 (Langage C) FPT TAZA.pdf
+│   ├── 📄 +COURS SMAI Programmation1 (Langage C) FPO OUARZAZATE.pdf
+│   ├── 📄 +COURS SMA3 Programmation1(Langage C) FST TETOUAN 20 21.pdf
+│   ├── 📄 +COURS SMA3 Programmation1(Langage C) FSSM MARRAKECH 2008.pdf
+│   ├── 📄 +COURS SMA3 Programmation1(Langage C) FSDM FES 2016.pdf
+│   ├── 📄 +COURS SMA3 Programmation1(Langage C) FSDM FES 20 21.pdf
+│   ├── 📄 +COURS SMA3 Programmation1(Langage C) FPK KHOURIBGA 20 21.pdf
+│   ├── 📄 +COURS SMA3 Programmation1 (Langage C) FSR RABAT 13 14.pdf
+│   ├── 📄 +COURS MIPC Algorithmique et Programmation en langage FST Béni-Mellal.pdf
+│   ├── 📄 +COURS MIPC Algorithmique et programmation 2 FST MARRAKECH 20 21.pdf
+│   ├── 📄 +COURS MIPC Algorithmique et programmation 2 FST ERRACHIDIA.pdf
+│   ├── 📄 +COURS LPQL Programmation1 (Langage C) FSR RABAT.pdf
+│   ├── 📄 +COURS EST SAFI Programmation1 (Langage C).pdf
+│   ├── 📄 +COURS CP2 Programmation1 (Langage C) ENSA TETOUAN.pdf
+│   ├── 📄 +COURS CP2 Programmation1 (Langage C) ENSA TETOUAN V2.pdf
+│   ├── 📄 +COURS CP2 Programmation1 (Langage C) ENSA OUAJDA 20 21.pdf
+│   ├── 📄 +COURS CP2 Programmation1 (Langage C) ENSA MARRAKECH.pdf
+│   ├── 📄 +COURS CP2 Programmation1 (Langage C) ENSA HOCIEMA.pdf
+│   ├── 📄 +COURS CP2 Programmation1 (Langage C) ENSA ELJADIDA 20 21.pdf
+│   └── 📄 +COURS CP2 Programmation C Avancee ENSA MARRAKECH.pdf
+├── 🔗📁 +Programmation II SMI4/  (raccourci)
+│   ├── 📄 FST SETTET ALGORITHMIQUE & PROGRAMMATION EN C1&C2 TDS EXAMENS.pdf
+│   ├── 📄 +TP Programmation 2 (Langage C) FSR RABAT 19 20.pdf
+│   ├── 📄 +TD Programmation 2 (Langage C) FSR RABAT 19 20.pdf
+│   ├── 📄 °TD Programmation 2 (Langage C) FST TETOUAN.pdf
+│   ├── 📄 °TD Programmation 2 (Langage C) FSDM FES 21 22.pdf
+│   ├── 📄 °TD Programmation 2 (Langage C) FSDM FES 20 21.pdf
+│   ├── 📄 °TD Programmation 2 (Langage C) FSDM FES 19 20.pdf
+│   ├── 📄 °FSO TDs+TPS SMI4 PROGRAMMATION II 2020.pdf
+│   ├── 📄 °FSM TDS SMI4 PROGRAMMATION II 2020.pdf
+│   ├── 📄 °FSDM TDs &TPs SMI4 PROGRAMMATION II.pdf
+│   ├── 📄 °FPO SMI4 Programmation II TDS EXAMENS.pdf
+│   ├── 📄 °EXAMENS Programmation C ENSA KENITRA.pdf
+│   ├── 📄 °EXAMENS Programmation 2 (Langage C) FST TETOUAN.pdf
+│   ├── 📄 °EXAMENS Programmation 2 (Langage C) FSDM FES.pdf
+│   ├── 📄 °EXAMENS Programmation 2 (Langage C) FSAC CASABLANCA.pdf
+│   ├── 📄 ° FSJ TPs SMI4 PROGRAMMATION II.pdf
+│   ├── 📄 °COURS TP Programmation 2 (Langage C) FSSM MARRAKECH.pdf
+│   ├── 📄 °COURS EXAMENS Programmation 2 (Langage C) FSAC CASABLANCA.pdf
+│   ├── 📄 °Cours Programmation C SMI S4 FPO.PDF
+│   ├── 📄 °COURS Programmation II ENSA KENITRA.pdf
+│   ├── 📄 °TD COURS Programmation 2 (Langage C) FPS SAFI.pdf
+│   ├── 📄 °TD COURS Programmation 2 (Langage C) FPT TAZA.pdf
+│   └── 📄 °COURS Programmation II-1 FSK.pdf
+├── 🔗📁 +Informatique 3 & Programmation1 C  SABORPCMATH.COM/  (raccourci)
+│   └── ⚠️  [Référence circulaire ignorée]
+├── 🔗📁 °INFORMATIQUE SMA4/  (raccourci)
+│   ├── 📄 TD STRUCTURE DE DONNEES FSM MEKNES SMA4.pdf
+│   ├── 📄 TD STRUCTURE DE DONNEES FSBM CASA SMA4.pdf
+│   ├── 📄 TD STRUCTURE DE DONNEES FSA AGADIR 2020 SMA4.pdf
+│   ├── 📄 TD STRUCTURE DE DONNEES FSA AGADIR 2013 SMA4.pdf
+│   ├── 📄 TD STRUCTURE DE DONNEES FS-TETOUAN SMA4.pdf
+│   ├── 📄 TD PROGRAMMATION II FSSM MARRAKECH SMA4.pdf
+│   ├── 📄 TD PROGRAMMATION II FSO OUAJDA SMA4.pdf
+│   ├── 📄 S4 SMA FSJ TDS STRUCTURES DES DONNEES SMA4.pdf
+│   ├── 📄 S4 SMA FPT STRUCTURES DES DONNEES SMA4.pdf
+│   ├── 📄 EXAMENS ALGORITHMIQUE &STRUCTURE DE DONNEES FSA AGADIR SMA4.pdf
+│   ├── 📄 COURS STRUCTURES DE DONNEES FSBM CASA SMA4.pdf
+│   ├── 📄 COURS PROGRAMMATION II FSO OUAJDA SMA4.pdf
+│   ├── 📄 COURS PROGRAMMATION II FSM MEKNES SMA4.pdf
+│   └── 📄 2022 SABOR.PNG
+├── 📄 100 Exercices Corrigées en langage C .pdf
+├── 📄 Série 3_Correction.pdf
+├── 📄 Tableaux et pointeurs (corrigé) C.pdf
+├── 📄 Polys_C_Paris.pdf
+├── 📄 Ouverture et fermeture de fichier en c++.pdf
+├── 📄 Les algortihmes de tri Définition d’un algorithme de tri, Le tri par minimum successifs, Le tri a bulles, Le tri rapide..pdf
+├── 📄 Chapitre 9 : Les fichiers.pdf
+├── 📄 Programmation_Aide_Memoire_CPP.pdf
+├── 📄 Examen Programmation orientée objet en C++ 16 janvier 2009.pdf
+├── 📄 Chapitre 8 : Les types de variables complexes.pdf
+├── 📄 Laboratoire n°6 en C++  Héritage simple.pdf
+├── 📄 Chapitre 1 : Eléments de langage C.pdf
+├── 📄 Programmation_Aide_Memoire_C.pdf
+├── 📄 Chapitre 7 : Les fonctions.pdf
+├── 📄 Chapitre 4 : Utilisation d’une bibliothèque.pdf
+├── 📄 Chapitre 5 : Les pointeurs.pdf
+├── 📄 Cours sur Les algorithmes de tri.pdf
+├── 📄 Chapitre 2 : Saisie de nombres et de caractères au clavier.pdf
+├── 📄 COURS et TP DE LANGAGE C++ Chapitre 9 Les fichiers.pdf
+├── 📄 Chapitre 3 : Les boucles.pdf
+├── 📄 SERIE TP 1 ET TP 2.pdf
+├── 📄 Chapitre 6 : Les tableaux et les chaînes de caractères.pdf
+├── 📄 exm C. pdf
+├── 📄 examenlangageC.docx
+├── 📄 exm C.jpg
+├── 📄 exm info.jpg
+├── 📄 chap1 2 3 info 2.ppt
+├── 📄 Info 20  20Algo.rar
+├── 📄 suite exm C.jpg
+├── 📄 exercices corrigés en C.pdf
+├── 📄 exm C.pdf
+├── 📄 langage C.pdf
+├── 📄 TD C smia.pdf
+├── 📄 info smia.pdf
+├── 📄 Entrées solides en langage C.pdf
+├── 📄 PROGRAMMATION  AVANCEE  EN LANGAGE C.pdf
+├── 📄 Série N°4  1 TD et TP Programmation C.pdf
+├── 📄 C .pdf
+├── 📄 Programmation en C Exercices corrigés.pdf
+├── 📄 Séries des exercices.pdf
+├── 📄 TD et TP Programmation C.pdf
+├── 📄 les pointeurs C.pdf
+├── 📄 tp4bis C.pdf
+├── 📄 Cours et exercices corrigés langage C.pdf
+├── 📄 exo C FST.pdf
+├── 📄 tp C .pdf
+├── 📄 controle C 2012.pdf
+├── 📄 Copie de Le C en 20 heures.pdf
+├── 📁 cp2/
+│   ├── 📄 33178207_809749915886261_5847330835128123392_n.jpg
+│   ├── 📄 arbre binaire.cpp
+│   ├── 📄 colle.jpg
+│   ├── 📄 complexe.cpp
+│   ├── 📄 Date.cpp
+│   ├── 📄 cplll.jpg
+│   ├── 📄 file.cpp
+│   ├── 📄 prs 3 etoils.cpp
+│   ├── 📄 listenoeud.cpp
+│   ├── 📄 PersoDate.cpp
+│   ├── 📄 TP1-Structures-fonctions-pointeurs.pdf
+│   ├── 📄 serie 2 c.pdf
+│   ├── 📄 TP2-Listes-chainées.pdf
+│   ├── 📄 TP4 - Files.pdf
+│   └── 📁 TP C/
+│       ├── 📄 exercice 3(b) serie 2 (1).cpp
+│       ├── 📄 exercice 3(b) serie 2.cpp
+│       ├── 📄 exercice 5 serie 2 (a) (1).cpp
+│       ├── 📄 exercice 4 serie 1 (b).cpp
+│       ├── 📄 exercice 5 serie 2 (while) (1).cpp
+│       ├── 📄 exercice 5 serie 2 (while).cpp
+│       ├── 📄 exercice 5 serie 2 (do-while) (1).cpp
+│       ├── 📄 exercice 4 serie 1 (a).cpp
+│       ├── 📄 exercice 4 serie 1 (b) (1).cpp
+│       ├── 📄 exercice 5 serie 2 (do-while).cpp
+│       ├── 📄 exercice 4 serie 1 (a) (1).cpp
+│       ├── 📄 exercice 5 serie 2 (a).cpp
+│       ├── 📄 equation 2n.cpp
+│       ├── 📄 essay carre.cpp
+│       ├── 📄 exercice 1 serie 2.cpp
+│       ├── 📄 exercice 1 serie 1.cpp
+│       ├── 📄 exercice 10 serie 2.cpp
+│       ├── 📄 exercice 10 serie 1.cpp
+│       ├── 📄 exercice 2 serie 1.cpp
+│       ├── 📄 exercice 11 serie 2.cpp
+│       ├── 📄 exercice 2 serie 2.cpp
+│       ├── 📄 exercice 3 serie 1.cpp
+│       ├── 📄 exercice 3 serie 2.cpp
+│       ├── 📄 exercice 4 serie 2 A.cpp
+│       ├── 📄 exercice 5 serie 1.cpp
+│       ├── 📄 exercice 4 serie 2 B.cpp
+│       ├── 📄 exercice 6 serie 1.cpp
+│       ├── 📄 exercice 6 serie 2.cpp
+│       ├── 📄 exercice 7 serie 1.cpp
+│       ├── 📄 exercice 7 serie 2 (1).cpp
+│       ├── 📄 exercice 7 serie 2 (2).cpp
+│       ├── 📄 exercice 8 serie 1.cpp
+│       ├── 📄 exercice 8 serie 2 (2).cpp
+│       ├── 📄 exercice 8 serie 2.cpp
+│       ├── 📄 exercice 9 serie 1.cpp
+│       ├── 📄 exercice 9 serie 2.cpp
+│       ├── 📁 serie 3/
+│       │   ├── 📄 ex 1 part (1).cpp
+│       │   ├── 📄 ex 12.cpp
+│       │   ├── 📄 ex 3 part 1.cpp
+│       │   ├── 📄 ex 1 part 2.cpp
+│       │   ├── 📄 ex 11.cpp
+│       │   ├── 📄 ex 2.cpp
+│       │   ├── 📄 ex4 serie 3.cpp
+│       │   ├── 📄 ex10.cpp
+│       │   ├── 📄 ex 7.cpp
+│       │   ├── 📄 ex 8.cpp
+│       │   ├── 📄 ex 6.cpp
+│       │   ├── 📄 ex 4.cpp
+│       │   ├── 📄 ex5 serie 3.cpp
+│       │   ├── 📄 ex 5 parie 2.cpp
+│       │   ├── 📄 remplir ex13.cpp
+│       │   ├── 📄 ex6 serie 3.cpp
+│       │   ├── 📄 ex9.cpp
+│       │   ├── 📄 ex7 dichoto.cpp
+│       │   ├── 📄 ex8.cpp
+│       │   ├── 📄 transposé ex13.cpp
+│       │   └── 📄 produit ex13.cpp
+│       ├── 📁 notion C/
+│       │   ├── 📄 struct.PNG
+│       │   ├── 📄 pointeur2.PNG
+│       │   ├── 📄 pointeur.PNG
+│       │   ├── 📄 ex1 serie 4.PNG
+│       │   ├── 📄 ex6 serie 4.PNG
+│       │   ├── 📄 différence.cpp
+│       │   ├── 📄 ex7 serie 4.PNG
+│       │   └── 📄 ex7 serie4.PNG
+│       └── 📁 serie 4/
+│           ├── 📄 ex 2.cpp
+│           ├── 📄 ex 8.cpp
+│           ├── 📄 ex3.cpp
+│           ├── 📄 j.cpp
+│           ├── 📄 ex4.cpp
+│           ├── 📄 ex7.cpp
+│           ├── 📄 ex5.cpp
+│           ├── 📄 mays.cpp
+│           ├── 📄 ex6.cpp
+│           ├── 📄 s.cpp
+│           ├── 📄 ex6 222.cpp
+│           └── 📄 Untitled1.cpp
+├── 📁 1-programmation/
+│   ├── 📁 cours de programmation/
+│   │   ├── 📄 Cours GEGM_25 - Chap VI - langage C.pdf
+│   │   ├── 📄 Cours GEGM_25 - Chap V - langage C.pdf
+│   │   └── 📄 Notions_de_Base_du_Langage C_2017_2018_Etudiants.pdf
+│   └── 📁 tp de programmation/
+│       ├── 📁 tp1/
+│       │   ├── 📄 tp1 programmation.pdf
+│       │   └── 📄 TP1.pdf
+│       ├── 📁 tp2/
+│       │   ├── 📄 tp2 de programmation.pdf
+│       │   └── 📄 TP2.pdf
+│       ├── 📁 tp3/
+│       │   ├── 📄 tp3 de programmation.pdf
+│       │   └── 📄 TP3.pdf
+│       └── 📁 tp4/
+│           ├── 📄 tp4 de programmation.pdf
+│           └── 📄 tp4.pdf
+├── 📁 Tp/
+│   ├── 📄 main(6).c
+│   ├── 📄 main(6).c
+│   ├── 📄 main(1).c
+│   ├── 📄 main(4).c
+│   ├── 📄 main(4).c
+│   ├── 📄 main(5).c
+│   ├── 📄 main(1).c
+│   ├── 📄 main(2).c
+│   ├── 📄 main(3).c
+│   ├── 📄 main(5).c
+│   ├── 📄 corr_colle.c
+│   ├── 📄 exo.txt
+│   ├── 📄 exo3-tp3.txt
+│   ├── 📄 exo4-tp3.txt
+│   ├── 📄 LangageC.rar
+│   ├── 📄 main (1).txt
+│   ├── 📄 main (2).txt
+│   ├── 📄 main (3).txt
+│   ├── 📄 main (4).txt
+│   ├── 📄 main.c
+│   ├── 📄 main.txt
+│   └── 📄 Untitled1.txt
+└── 📁 Informatique 3/
+    ├── 📄 TD2.pdf
+    ├── 📄 TP_C_serie_6.pdf
+    ├── 📄 le_c.pdf
+    ├── 📄 sérieTP2.pdf
+    ├── 📄 chaine youtube.txt
+    ├── 📄 longuage c.pdf
+    ├── 📄 sérieTP6.doc
+    ├── 📄 FR_19980_apprenez-a-programmer-en-c_2.0_Downloadable+Summary.pdf
+    ├── 📄 TD 1 Algo Notions de Base.pdf
+    ├── 📄 TD 1-structures repetitives.pdf
+    ├── 📄 SÃ©️ances 2 Formation C.pdf
+    ├── 📄 TD3.pdf
+    ├── 📄 sérieTP4[670].pdf
+    ├── 📄 série1TP_C.pdf
+    ├── 📄 Correction_QCM_Langage_C.pdf
+    ├── 📄 TD1.pdf
+    ├── 📄 sérieTP7.pdf
+    ├── 📄 Programmation C_CP2_2_2020_2021 (1).pptx
+    ├── 📄 TP_Langage_C.pdf
+    ├── 📄 sérieTP5.pdf
+    ├── 📁 Programmation C (Cours+TP)/
+    │   ├── 📄 service CRUD.cpp
+    │   ├── 📄 tableau des lettres(1).gif
+    │   ├── 📄 desktop.ini
+    │   ├── 📄 toutes les fonctions.cpp
+    │   ├── 📄 tableau des lettres.gif
+    │   ├── 📄 Tout.cpp
+    │   ├── 📄 desktop(1).ini
+    │   ├── 📄 service CRUD(1).cpp
+    │   ├── 📄 Tout(1).cpp
+    │   ├── 📁 TP5 Dev C++/
+    │   │   ├── 📄 ex aide(1).cpp
+    │   │   ├── 📄 g2.txt
+    │   │   ├── 📄 g2(1).txt
+    │   │   ├── 📄 ex aide.cpp
+    │   │   ├── 📁 ex3/
+    │   │   ├── 📁 ex2/
+    │   │   ├── 📁 ex aide/
+    │   │   └── 📁 ex1/
+    │   ├── 📁 TP1 Dev C++/
+    │   │   ├── 📄 ex6.cpp
+    │   │   ├── 📄 ex8.cpp
+    │   │   ├── 📄 ex7.cpp
+    │   │   ├── 📄 ex3.cpp
+    │   │   ├── 📄 ex4 (a).cpp
+    │   │   ├── 📄 ex1.cpp
+    │   │   ├── 📄 ex10.cpp
+    │   │   ├── 📄 ex5.cpp
+    │   │   ├── 📄 ex9.cpp
+    │   │   ├── 📄 ex2.cpp
+    │   │   └── 📄 ex4 (b).cpp
+    │   ├── 📁 pprogrammation tp/
+    │   │   ├── 📄 ex2 caractaire.cpp
+    │   │   ├── 📄 ex1 tp3(1).cpp
+    │   │   ├── 📄 333(1).c
+    │   │   ├── 📄 444r(1).c
+    │   │   ├── 📄 e13.cpp
+    │   │   ├── 📄 5.dev
+    │   │   ├── 📄 a(2).cpp
+    │   │   ├── 📄 a(2).c
+    │   │   ├── 📄 ex 4.cpp
+    │   │   ├── 📄 333.c
+    │   │   ├── 📄 a.o
+    │   │   ├── 📄 a.layout
+    │   │   ├── 📄 4(1).cpp
+    │   │   ├── 📄 ex2 tp2.cpp
+    │   │   ├── 📄 ex 7.cpp
+    │   │   ├── 📄 a(1).cpp
+    │   │   ├── 📄 121.o
+    │   │   ├── 📄 3(1).c
+    │   │   ├── 📄 dff.c
+    │   │   ├── 📄 ex10 1(1).cpp
+    │   │   ├── 📄 121.layout
+    │   │   ├── 📄 2.c
+    │   │   ├── 📄 ex4.cpp
+    │   │   ├── 📄 do while.cpp
+    │   │   ├── 📄 a.dev
+    │   │   ├── 📄 -55.cpp
+    │   │   ├── 📄 ex1 tp43(1).cpp
+    │   │   ├── 📄 eprmitation.cpp
+    │   │   ├── 📄 4.o
+    │   │   ├── 📄 4.cpp
+    │   │   ├── 📄 5(1).cpp
+    │   │   ├── 📄 ex1 tp 2.cpp
+    │   │   ├── 📄 333(2).c
+    │   │   ├── 📄 a.cpp
+    │   │   ├── 📄 8(2).o
+    │   │   ├── 📄 ex1 tp4(1).cpp
+    │   │   ├── 📄 444r.c
+    │   │   ├── 📄 ex3.cpp
+    │   │   ├── 📄 1.o
+    │   │   ├── 📄 ex1 tp3.cpp
+    │   │   ├── 📄 ex1 tp43.cpp
+    │   │   ├── 📄 a(1).c
+    │   │   ├── 📄 ee.cpp
+    │   │   ├── 📄 ex10 1.cpp
+    │   │   ├── 📄 e.cpp
+    │   │   ├── 📄 ex4tp3.cpp
+    │   │   ├── 📄 conjegaison.cpp
+    │   │   ├── 📄 ex11.cpp
+    │   │   ├── 📄 22(2).cpp
+    │   │   ├── 📄 5(1).dev
+    │   │   ├── 📄 4(1).o
+    │   │   ├── 📄 111.c
+    │   │   ├── 📄 addition de deux chaine de deux caractaire.cpp
+    │   │   ├── 📄 5.c
+    │   │   ├── 📄 ex1 tp4.cpp
+    │   │   ├── 📄 ex1(1).cpp
+    │   │   ├── 📄 3.c
+    │   │   ├── 📄 eds.c
+    │   │   ├── 📄 8(1).o
+    │   │   ├── 📄 5.cpp
+    │   │   ├── 📄 a(1).dev
+    │   │   ├── 📄 22(1).cpp
+    │   │   ├── 📄 benaire.cpp
+    │   │   ├── 📄 1.layout
+    │   │   ├── 📄 22.cpp
+    │   │   ├── 📄 ex4.PNG
+    │   │   ├── 📄 4(1).c
+    │   │   ├── 📄 121.dev
+    │   │   ├── 📄 a.c
+    │   │   ├── 📄 1.cpp
+    │   │   ├── 📄 1.c
+    │   │   ├── 📄 8.o
+    │   │   ├── 📄 5(1).c
+    │   │   ├── 📄 ex3(1).cpp
+    │   │   ├── 📄 ex10.cpp
+    │   │   ├── 📄 121.c
+    │   │   ├── 📄 ex12.cpp
+    │   │   ├── 📄 ex1.cpp
+    │   │   ├── 📄 ex453.cpp
+    │   │   ├── 📄 ex41.cpp
+    │   │   ├── 📄 2.cpp
+    │   │   ├── 📄 ex2 1.cpp
+    │   │   ├── 📄 4.c
+    │   │   ├── 📄 3(2).c
+    │   │   ├── 📄 1234.PNG
+    │   │   ├── 📄 1.dev
+    │   │   ├── 📄 binair.cpp
+    │   │   ├── 📄 a(2).dev
+    │   │   ├── 📄 ed.cpp
+    │   │   ├── 📄 ex 5.cpp
+    │   │   ├── 📁 revission de colle de c/
+    │   │   │   └── 📁 brahim/
+    │   │   │       ├── 📁 moujoud revission colle tp c++/
+    │   │   │       └── 📁 Nouveau dossier/
+    │   │   ├── 📁 tableaux prorgammtion/
+    │   │   │   ├── 📄 tp3 2.c
+    │   │   │   ├── 📄 u(1).o
+    │   │   │   ├── 📄 tp 3 22.c
+    │   │   │   ├── 📄 u.c
+    │   │   │   ├── 📄 ex2 td.layout
+    │   │   │   ├── 📄 Project1.dev
+    │   │   │   ├── 📄 ex2 td.dev
+    │   │   │   ├── 📄 Makefile.win
+    │   │   │   ├── 📄 ex2 td 4.c
+    │   │   │   ├── 📄 r.o
+    │   │   │   ├── 📄 tp3 exq1.c
+    │   │   │   ├── 📄 2.c
+    │   │   │   ├── 📄 3.cpp
+    │   │   │   ├── 📄 tp 3 ex 2.c
+    │   │   │   ├── 📄 tp3.c
+    │   │   │   ├── 📄 tp3 ex4.c
+    │   │   │   ├── 📄 r.c
+    │   │   │   ├── 📄 tp 4 ex3.c
+    │   │   │   ├── 📄 tp3 exxx3.c
+    │   │   │   ├── 📄 u.o
+    │   │   │   ├── 📄 max tablea.c
+    │   │   │   ├── 📄 sum moy.c
+    │   │   │   ├── 📄 1.c
+    │   │   │   ├── 📄 tableau.c
+    │   │   │   ├── 📄 ex2 td 4.o
+    │   │   │   ├── 📄 Les tableaux_tp.docx
+    │   │   │   └── 📄 Project1.layout
+    │   │   ├── 📁 Les séries/
+    │   │   │   └── 📄 Série d’exercices.pdf
+    │   │   ├── 📁 tp3/
+    │   │   │   ├── 📄 12121212121212121212121212121212121(1).c
+    │   │   │   ├── 📄 pcgd ewewew.c
+    │   │   │   ├── 📄 12121212121212121212121212121212121.c
+    │   │   │   ├── 📄 rectangle.c
+    │   │   │   ├── 📄 pcgd ewewew(1).c
+    │   │   │   └── 📄 rectangle(1).c
+    │   │   └── 📁 tp2/
+    │   │       ├── 📄 TP 2 do EX1 WHILE.cpp
+    │   │       ├── 📄 TP 2 EX3.c
+    │   │       ├── 📄 TP 2 do EX1 WHILE(1).cpp
+    │   │       ├── 📄 TP EX2 FOR.c
+    │   │       └── 📄 TP2 EXE 2 FOR.c
+    │   ├── 📁 TP2 Dev C++/
+    │   │   ├── 📄 ex7(2).cpp
+    │   │   ├── 📄 ex5(while).cpp
+    │   │   ├── 📄 triangle (plein).cpp
+    │   │   ├── 📄 losange(plein).cpp
+    │   │   ├── 📄 ex5(do-while)(1).cpp
+    │   │   ├── 📄 ex5(do-while).cpp
+    │   │   ├── 📄 ex5(for).cpp
+    │   │   ├── 📄 ex4(1).cpp
+    │   │   ├── 📄 ex4(2).cpp
+    │   │   ├── 📄 losange vide(total).cpp
+    │   │   ├── 📄 triangle (vide).cpp
+    │   │   ├── 📄 losange (vide).cpp
+    │   │   ├── 📄 ex10.cpp
+    │   │   ├── 📄 ex6(1).cpp
+    │   │   ├── 📄 ex7(1).cpp
+    │   │   ├── 📄 ex6.cpp
+    │   │   ├── 📄 carré(n=m etoile).cpp
+    │   │   ├── 📄 ex3(for).cpp
+    │   │   ├── 📄 Ex8(1).cpp
+    │   │   ├── 📄 ex3(while).cpp
+    │   │   ├── 📄 ex2.cpp
+    │   │   ├── 📄 ex1.cpp
+    │   │   ├── 📄 ex5(while)(1).cpp
+    │   │   ├── 📄 ex4(2)(1).cpp
+    │   │   ├── 📄 ex9(samir).cpp
+    │   │   ├── 📄 ex11.cpp
+    │   │   ├── 📄 ex5(for)(1).cpp
+    │   │   ├── 📄 Ex8(2).cpp
+    │   │   └── 📄 ex9.cpp
+    │   ├── 📁 TD Abdelmoula/
+    │   │   ├── 📄 ex19.cpp
+    │   │   ├── 📄 ex15.cpp
+    │   │   ├── 📄 ex13.cpp
+    │   │   ├── 📄 ex21.cpp
+    │   │   ├── 📄 ex14.cpp
+    │   │   ├── 📄 ex18.cpp
+    │   │   ├── 📄 ex24.cpp
+    │   │   ├── 📄 ex17.cpp
+    │   │   ├── 📄 ex22.cpp
+    │   │   ├── 📄 ex16.cpp
+    │   │   ├── 📄 ex12.cpp
+    │   │   └── 📄 ex20.cpp
+    │   ├── 📁 TP4 Dev C++/
+    │   │   ├── 📄 ex7(2).cpp
+    │   │   ├── 📄 ex6.cpp
+    │   │   ├── 📄 ex3.cpp
+    │   │   ├── 📄 ex7.cpp
+    │   │   ├── 📄 ex8(2).cpp
+    │   │   ├── 📄 ex4(1).cpp
+    │   │   ├── 📄 ex2(1).cpp
+    │   │   ├── 📄 ex1.cpp
+    │   │   ├── 📄 ex3(1).cpp
+    │   │   ├── 📄 ex5.cpp
+    │   │   ├── 📄 ex4.cpp
+    │   │   ├── 📄 ex7(1).cpp
+    │   │   ├── 📄 ex1(1).cpp
+    │   │   ├── 📄 ex8(1).cpp
+    │   │   ├── 📄 ex2.cpp
+    │   │   └── 📄 ex8.cpp
+    │   ├── 📁 Examen 2017/
+    │   │   ├── 📄 5.jpg
+    │   │   ├── 📄 EX1.cpp
+    │   │   ├── 📄 EX4.cpp
+    │   │   ├── 📄 2.jpg
+    │   │   ├── 📄 8.jpg
+    │   │   ├── 📄 EX3.cpp
+    │   │   ├── 📄 EX2.cpp
+    │   │   ├── 📄 1.jpg
+    │   │   ├── 📄 7.jpg
+    │   │   ├── 📄 4.jpg
+    │   │   ├── 📄 6.jpg
+    │   │   └── 📄 3.jpg
+    │   ├── 📁 Examen 2016/
+    │   │   ├── 📄 Exam_C_2016 (correction).pdf
+    │   │   └── 📄 Examen C 2016.pdf
+    │   ├── 📁 Les séries/
+    │   │   ├── 📄 Série 4.pdf
+    │   │   ├── 📄 Série 2.pdf
+    │   │   ├── 📄 Série 1.pdf
+    │   │   ├── 📄 Série d’exercices.pdf
+    │   │   ├── 📄 Série 5.pdf
+    │   │   └── 📄 Série 3.pdf
+    │   ├── 📁 programmation en c/
+    │   │   ├── 📄 apprenez_a_programmer_en_c.pdf
+    │   │   └── 📁 TP/
+    │   │       ├── 📄 TP-C-Tableaux2.docx
+    │   │       ├── 📄 TP3-PROGRAMMATIONC.docx
+    │   │       ├── 📄 TP-C-Tableaux.docx
+    │   │       ├── 📄 TP-C-Tableaux3.docx
+    │   │       └── 📄 TP2-C.docx
+    │   ├── 📁 Colle C/
+    │   │   ├── 📄 exam.cpp
+    │   │   ├── 📄 2.JPG
+    │   │   ├── 📄 file.txt
+    │   │   ├── 📄 exam3.cpp
+    │   │   ├── 📄 exam4.cpp
+    │   │   ├── 📄 ex1.cpp
+    │   │   ├── 📄 exam6.cpp
+    │   │   ├── 📄 f1.txt
+    │   │   ├── 📄 exam5.cpp
+    │   │   ├── 📄 ex2.cpp
+    │   │   ├── 📄 exam7.cpp
+    │   │   ├── 📄 1.JPG
+    │   │   ├── 📄 exam2.cpp
+    │   │   └── 📄 exam1.cpp
+    │   └── 📁 TP3 Dev C++/
+    │       ├── 📄 ex6.cpp
+    │       ├── 📄 ex9.cpp
+    │       ├── 📄 ex11(1).cpp
+    │       ├── 📄 ex14.cpp
+    │       ├── 📄 ex3(1).cpp
+    │       ├── 📄 ex4.cpp
+    │       ├── 📄 ex8(1).cpp
+    │       ├── 📄 ex8.cpp
+    │       ├── 📄 ex3.cpp
+    │       ├── 📄 ex1(1).cpp
+    │       ├── 📄 ex12.cpp
+    │       ├── 📄 ex15.cpp
+    │       ├── 📄 ex1(2).cpp
+    │       ├── 📄 ex4(1).cpp
+    │       ├── 📄 ex7.cpp
+    │       ├── 📄 ex1.cpp
+    │       ├── 📄 ex10(1).cpp
+    │       ├── 📄 ex5(1).cpp
+    │       ├── 📄 ex10.cpp
+    │       ├── 📄 ex2.cpp
+    │       ├── 📄 ex13.cpp
+    │       ├── 📄 ex11.cpp
+    │       └── 📄 ex5.cpp
+    └── 📁 TP/
+        ├── 📄 TP-C-Tableaux4.docx
+        ├── 📄 TP1-C.docx
+        ├── 📄 TP-C-Tableaux.docx
+        ├── 📄 TP2-C.docx
+        ├── 📄 TP-C-Tableaux3.docx
+        ├── 📄 TP-C-Tableaux2.docx
+        └── 📄 TP3-PROGRAMMATIONC.docx
+
+═════════════════════════════════════
+  Fin du fichier · Programmation C
+═════════════════════════════════════

@@ -1,0 +1,22 @@
+📚 MODULE : Pfe                                       
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Pfe.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Pfe/
+├── 📄 Comment rediger rapport projet.pdf
+└── 📄 Guide_rapprt PFE.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Pfe
+═════════════════════════════════════

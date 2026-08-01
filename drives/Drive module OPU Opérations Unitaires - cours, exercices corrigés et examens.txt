@@ -1,0 +1,263 @@
+📚 MODULE : OPU Opérations Unitaires                  
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module OPU Opérations Unitaires.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 OPU Opérations Unitaires/
+├── 🔗📁 Operations Unitaires/  (raccourci)
+│   ├── 📁 3- Livres/
+│   │   ├── 📄 Genie-Des-Procedes-Tome-1 (Operation Unitaire).pdf
+│   │   └── 📄 Génie Chimique, Les opérations unitaires,Procédés industriels, Cours et exercices corrigés.pdf
+│   ├── 📁 2- Sujets/
+│   │   ├── 📄 320756832_530688769020024_2307667197354834040_n.jpg
+│   │   ├── 📄 Constantine - Exercise Extraction LL.jpg
+│   │   ├── 📄 El-Oued - Examen 2022 p2.jpg
+│   │   ├── 📄 El-Oued - Examen 2022 p1.jpg
+│   │   ├── 📄 USTO 2017 - Controle  p3 (Sol).jpg
+│   │   ├── 📄 USTO 2017 - Controle  p2 (Sol).jpg
+│   │   ├── 📄 USTO 2017 - Controle  p1(Sujet).jpg
+│   │   ├── 📄 USTO - Examen -2019.jpg
+│   │   ├── 📄 Correction dexamen Opérations Unitaires L3 Raff (2).pdf
+│   │   ├── 📄 USTO (2021) - Controle Continu.jpg
+│   │   ├── 📄 Adrar - Operations Unitaires p2.jpg
+│   │   ├── 📄 Adrar - Operations Unitaires p1.jpg
+│   │   ├── 📄 Devoir Maison - Extraction L-L.jpg
+│   │   ├── 📄 Devoir Distillation.pdf
+│   │   ├── 📄 Extraction Liquide-Liquide.jpg
+│   │   ├── 📄 El-Oued - 2019.jpg
+│   │   ├── 📄 USTO (2020) - Controle Continu.jpg
+│   │   ├── 📄 81321277_247344236229831_2442992992991051776_n.jpg
+│   │   ├── 📄 80112307_2522314584718242_943437086084562944_n.jpg
+│   │   ├── 📄 77353777_234453677539001_8010774993916919808_n.jpg
+│   │   ├── 📄 78713888_592443454896934_1422301999440855040_o.jpg
+│   │   ├── 📄 77002968_757905064682504_2642446206155882496_o.jpg
+│   │   ├── 📄 XYZ - examen 2017OU2.pdf
+│   │   ├── 📄 72266328_388354065439365_4902235397746065408_n.jpg
+│   │   └── 📄 30923767_1422251871253700_5857431283386132237_o.jpg
+│   └── 📁 1- Cours + TD/
+│       ├── 📄 Relizane - Procédés d’adsorption et séparation membranaire.pdf
+│       ├── 📄 Guelma - Extraction liquide-liquide.pdf
+│       ├── 📄 Annaba - td_ndeg7_methodes_separatives.pdf
+│       ├── 📄 Annaba - Extraction-liquide-liquide.pdf
+│       ├── 📄 Annaba - Applications-de-lextraction-liquide-liquide.pdf
+│       ├── 📄 Annaba - TD8-Corrigé.pdf
+│       ├── 📄 Annaba - TD ELL chimie analytique Dr DJAOU 2eme année pharmacie.pdf
+│       ├── 📄 Cristallisation.pdf
+│       ├── 📄 Guelma - Cristallographie.pdf
+│       ├── 📄 concours.docx
+│       ├── 📄 El-Oued - Distillation (TD) 18-19 .docx
+│       ├── 📄 El-Oued - Absorption.pdf
+│       ├── 📄 El-Oued - Distillation (TD) 17-18.docx
+│       ├── 📄 USTO - Operations Unitaires 2 (TD 1 + sol) .pdf
+│       ├── 📄 USTO - Operations Unitaires 2 (TD 2) .pdf
+│       ├── 📄 USTO - Operations Unitaires 2 (Cours).pdf
+│       ├── 📄 USTO - Operations Unitaires.pdf
+│       ├── 📄 Mascara - TD - Extraction L-L.jpg
+│       ├── 📄 Adrar - cours distillation.pdf
+│       ├── 📄 Setif - Operations Unitaires TD 1.pdf
+│       ├── 📄 Constantine - cours cristallisation.pdf
+│       ├── 📄 El-Oued - Intensification des Procédés.pdf
+│       ├── 📄 El-Oued - Cours TD absorption.pdf
+│       ├── 📄 Jijel - Cours-GP-M1matériaux-Opérations Unitaires 2.pdf
+│       ├── 📄 Etudiant - Opérations Unitaires  TD.pdf
+│       ├── 📄 Bejaia - DJOUDI Warda_Opérations Unitaires Cours et TD.pdf
+│       ├── 📄 Jijel - TD (Resolus)-GP-Licence-Opérations UnitairesL3.pdf
+│       ├── 📄 Jijel - Cours-GP-Licence-Opérations UnitairesL3.pdf
+│       ├── 📄 Exercice sur la distillation (Resolues).pdf
+│       ├── 📄 DistillationExtraction-V1.pdf
+│       ├── 📄 DistillationExtraction-V2 (Exercices Corriges).pdf
+│       ├── 📄 Constantine - cours cristallisation.doc
+│       ├── 📄 Tunis - Génie des Procédés Alimentaires.pdf
+│       ├── 📄 Adrar - TD-1 (+sol).pdf
+│       ├── 📄 Exo DistillationExtraction.pdf
+│       ├── 📄 Setif - Techniques d’extraction - benabdallah hassiba.pdf
+│       ├── 📄 Bejaia - Bilans_Matière_Thermique.pdf
+│       ├── 📄 Bejaia - Exos Distillation - Rectification.pdf
+│       ├── 📁 Relizane - Operations unitaires/
+│       │   ├── 📄 Chapitre II.pdf
+│       │   ├── 📄 Chapitre I absorption.pdf
+│       │   ├── 📄 Exercice n1.pdf
+│       │   ├── 📄 Exercice n2.pdf
+│       │   ├── 📄 chapitre extraction liq liq1.pdf
+│       │   ├── 📄 Chap_10.pptx
+│       │   └── 📁 Distillation/
+│       │       ├── 📄 Chapitre I les equilibres liquides vapeurs.pdf
+│       │       ├── 📄 Distillation dun mélange binaire.pdf
+│       │       ├── 📄 Chapitre II Distillation flash.pdf
+│       │       ├── 📄 Série dexercice 1.pdf
+│       │       ├── 📄 Série dexercice 2.pdf
+│       │       └── 📄 Serie dexercice 3.pdf
+│       ├── 📁 USTO - TD+Sol/
+│       │   ├── 📄 PAGE 14.pdf
+│       │   ├── 📄 PAGE 15.pdf
+│       │   ├── 📄 PAGE 13.pdf
+│       │   ├── 📄 PAGE 12.pdf
+│       │   ├── 📄 Page 11.pdf
+│       │   ├── 📄 PAGE 10.pdf
+│       │   ├── 📄 PAGE 9.pdf
+│       │   ├── 📄 PAGE 8.pdf
+│       │   ├── 📄 PAGE 7.pdf
+│       │   ├── 📄 PAGE 6.pdf
+│       │   ├── 📄 PAGE 5.pdf
+│       │   ├── 📄 PAGE 4.pdf
+│       │   ├── 📄 Page 3.pdf
+│       │   ├── 📄 Page 2.pdf
+│       │   ├── 📄 Page 1.pdf
+│       │   ├── 📁 Fiche TD 3/
+│       │   │   ├── 📄 FICHE TD OPU N 3 2019 2020 L3 GP final +corrigé.pdf
+│       │   │   ├── 📄 FICHE TD OPU N 3 2019 2020 L3 GP final +corrigé.doc
+│       │   │   ├── 📄 corrigé exo 3 SUITE PAGE5 JPG.JPG
+│       │   │   ├── 📄 corrigé exo 3 SUITE PAGE 4.JPG
+│       │   │   ├── 📄 corrigé exo 3 SUITE PAGE 3.JPG
+│       │   │   ├── 📄 corrigé exo 3 SUITE PAGE 2.JPG
+│       │   │   ├── 📄 corrigé exo3 PAGE 1.JPG
+│       │   │   └── 📄 SOLUTION EXO2 SUITE.JPG
+│       │   ├── 📁 Fiche TD 2 (Part 2)/
+│       │   │   ├── 📄 fiche de TDN°2 POU L3 GP 2017 2018.pdf
+│       │   │   ├── 📄 fiche de TDN°2 POU L3 GP 2017 2018.doc
+│       │   │   ├── 📄 CORRIGE 1 EXERCICE N 4.JPG
+│       │   │   ├── 📄 CORRIGE 2 EXERCOCE N4.JPG
+│       │   │   └── 📄 CORRIGE 3 EXERCICE N4.JPG
+│       │   └── 📁 Fiche TD 2/
+│       │       ├── 📄 TD N2.doc
+│       │       ├── 📄 fiche TD N2 ABSORPTION EXEPTIONELLE.pdf
+│       │       ├── 📄 PAGE 4.jpg
+│       │       ├── 📄 PAGE 3.jpg
+│       │       ├── 📄 PAGE 2.jpg
+│       │       └── 📄 PAGE 1.jpg
+│       ├── 📁 El Oued - distillation/
+│       │   ├── 📄 TD - Série n 4 du module  - Distillation .pdf
+│       │   ├── 📄 TD - Série n 3 du module  - Distillation .pdf
+│       │   ├── 📄 TD - Série n 2 du module  - Distillation .pdf
+│       │   ├── 📄 TD - Série n 1 du module  - Distillation .pdf
+│       │   ├── 📄 TD - Série n 1 du module  - Distillation (sol).pdf
+│       │   ├── 📄 Cours - Ch IV  distillation   discontinue.pdf
+│       │   ├── 📄 Cours - Ch III  Distillation des m_رlanges binaires.pdf
+│       │   ├── 📄 Cours - Ch II distillation flash.pdf
+│       │   ├── 📄 Cours - Ch I equilibre liquide vapeur.pdf
+│       │   └── 📁 Distillation 2021-2020 - Docx/
+│       │       ├── 📄 TD - Série n 1 du module  - Distillation (sol).docx
+│       │       ├── 📄 TD - Série n 1 du module  - Distillation .docx
+│       │       ├── 📄 Cours - Ch IV  distillation   discontinue.docx
+│       │       ├── 📄 Cours - Ch III  Distillation des m_رlanges binaires.docx
+│       │       ├── 📄 Cours - Ch II distillation flash.docx
+│       │       ├── 📄 Cours - Ch I equilibre liquide vapeur.docx
+│       │       ├── 📄 TD - Série n 4 du module  - Distillation .docx
+│       │       ├── 📄 TD - Série n 3 du module  - Distillation .docx
+│       │       └── 📄 TD - Série n 2 du module  - Distillation .docx
+│       ├── 📁 TD + Sols/
+│       │   ├── 📄 OPU.S1(suite).pdf
+│       │   ├── 📄 OPU.S3.pdf
+│       │   ├── 📄 OPU.S2.pdf
+│       │   └── 📄 OPU.S1.pdf
+│       ├── 📁 Jijel - Cours + TD (2019-2020)/
+│       │   ├── 📄 TD-GP- M1matériaux-Opérations unitaires 2.pdf
+│       │   ├── 📄 TD2-GP- M1matériaux-Opérations unitaires 2.pdf
+│       │   ├── 📄 Cours2-GP-M1matériaux-Opérations Unitaires.pdf
+│       │   ├── 📄 Cours-GP-M1matériaux-Opérations Unitaires.pdf
+│       │   ├── 📄 TD2-GP-Licence-Opérations Unitaires.pdf
+│       │   ├── 📄 TD-GP-Licence-Opérations UnitairesL3.pdf
+│       │   └── 📄 Cours-GP-Licence-Opérations UnitairesL3.pdf
+│       ├── 📁 USTHB - TD (2018-2019)/
+│       │   ├── 📄 Série4.pdf
+│       │   ├── 📄 Série3.pdf
+│       │   └── 📄 Série1.pdf
+│       ├── 📁 Constantine 3 - TD + sol/
+│       │   ├── 📄 Serie 2 (Sol) - page 3.jpg
+│       │   ├── 📄 Serie 2 (Sol) - page 2.jpg
+│       │   ├── 📄 Serie 2 (Sol) - page 1.jpg
+│       │   ├── 📄 Serie 2 - page 2.jpg
+│       │   ├── 📄 Serie 2 - page 1.jpg
+│       │   ├── 📄 Serie 1 (Sol) - page 4.jpg
+│       │   ├── 📄 Serie 1 (Sol) - page 3.jpg
+│       │   ├── 📄 Serie 1 (Sol) - page 2.jpg
+│       │   ├── 📄 Serie 1 (Sol) - page 1.jpg
+│       │   ├── 📄 Serie 1 - page 2.jpg
+│       │   └── 📄 Serie 1 - page 1.jpg
+│       └── 📁 Bouira - TD (corrige) - par (Amani.Zerari.5)/
+│           ├── 📄 sol 15.jpg
+│           ├── 📄 sol 16.jpg
+│           ├── 📄 sol 14.jpg
+│           ├── 📄 sol 13.jpg
+│           ├── 📄 sol 12.jpg
+│           ├── 📄 sol 11.jpg
+│           ├── 📄 sol 10.jpg
+│           ├── 📄 sol 9.jpg
+│           ├── 📄 sol 8.jpg
+│           ├── 📄 sol 7.jpg
+│           ├── 📄 sol 6.jpg
+│           ├── 📄 sol 5.jpg
+│           ├── 📄 sol 4.jpg
+│           ├── 📄 sol 3.jpg
+│           ├── 📄 sol 2.jpg
+│           ├── 📄 sol 1.jpg
+│           ├── 📄 fig 1.jpg
+│           ├── 📄 TD 6.jpg
+│           ├── 📄 TD 4.jpg
+│           ├── 📄 TD 5.jpg
+│           ├── 📄 TD 3.jpg
+│           ├── 📄 TD 2.jpg
+│           └── 📄 TD 1.jpg
+├── 📁 TDs corrigés/
+│   ├── 📄 Td opu vc crg.pdf
+│   ├── 📄 OPU.S1.pdf
+│   ├── 📄 OPU.S1.pdf
+│   ├── 📄 OPU.S2.pdf
+│   ├── 📄 OPU.S3.pdf
+│   ├── 📄 opus1.1.pdf
+│   ├── 📄 série.opu.pdf
+│   ├── 📄 problem1v1.pdf
+│   ├── 📄 problem1s3.jpg
+│   ├── 📄 problem1s3.pdf
+│   ├── 📄 Triangle.pdf
+│   ├── 📁 Série1/
+│   │   ├── 📄 problem4.pdf
+│   │   ├── 📄 Problem2.pdf
+│   │   ├── 📄 problem1.pdf
+│   │   ├── 📄 Série1.pdf
+│   │   └── 📄 ResumCh1.pdf
+│   ├── 📁 Série3/
+│   │   ├── 📄 Problem.pdf
+│   │   ├── 📄 Exercice.pdf
+│   │   └── 📄 Série3.pdf
+│   ├── 📁 Série4/
+│   │   └── 📄 Série4.pdf
+│   └── 📁 Série2/
+│       ├── 📄 Serie2.pdf
+│       ├── 📄 Problem4.pdf
+│       ├── 📄 Problem3.pdf
+│       ├── 📄 Problem1.pdf
+│       └── 📄 Problem2.pdf
+├── 📁 examens/
+│   ├── 📄 01.jpg
+│   ├── 📄 02.jpg
+│   ├── 📄 03.jpg
+│   ├── 📄 04.jpg
+│   ├── 📄 05.jpg
+│   └── 📄 06.jpg
+└── 📁 Cours/
+    ├── 📄 cour opu.pdf
+    ├── 📄 cour.opu.pdf
+    ├── 📄 rsm . opu_1.pdf
+    ├── 📄 ResumeOpu.pdf
+    ├── 📄 Ch3liqsol.pdf
+    ├── 📄 Ch1abs3.pdf
+    ├── 📄 Ch1abs2.pdf
+    ├── 📄 Ch1abs1.pdf
+    ├── 📄 Ch4melang.pdf
+    ├── 📄 Ch2LiqLiq2.pdf
+    └── 📄 Ch2LiqLiq1.pdf
+
+═════════════════════════════════════
+  Fin du fichier · OPU Opérations Unitaires
+═════════════════════════════════════

@@ -1,0 +1,138 @@
+📚 MODULE : Programmation linaire - Recherche opérationnelle
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Programmation linaire - Recherche opérationnelle.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Programmation linaire - Recherche opérationnelle/
+├── 🔗📁 ++ SMI5 crs exo et exams Recherche Opérationnelle/  (raccourci)
+│   ├── 📄 Précis de recherche opérationnelle.pdf
+│   ├── 📄 °TD Recherche opérationnelle SMI5 FST TETOUAN 2020.pdf
+│   ├── 📄 °TD Recherche opérationnelle SMI5 FST TETOUAN 2016.pdf
+│   ├── 📄 °TD Recherche opérationnelle SMI5 FSSM MARRAKECH.pdf
+│   ├── 📄 °TD Recherche opérationnelle SMI5 FSR RABAT 20 21.pdf
+│   ├── 📄 °TD Recherche opérationnelle SMI5 FSR RABAT 16 17.pdf
+│   ├── 📄 °TD Recherche opérationnelle SMI5 FSR RABAT 15 16.pdf
+│   ├── 📄 °TD Recherche opérationnelle SMI5 FSO OUAJDA 20 21.pdf
+│   ├── 📄 °TD Recherche opérationnelle SMI5 FSDM FES 20 21.pdf
+│   ├── 📄 °TD Recherche opérationnelle SMI5 FSBM CASABLANCA 20 21.pdf
+│   ├── 📄 °TD Recherche opérationnelle SMI5 FSAC CASABLANCA 20 21.pdf
+│   ├── 📄 °TD Recherche opérationnelle SMI5 FPO OUARZAZATE 20 21.pdf
+│   ├── 📄 °TD Recherche opérationnelle SMI5 FPO OUARZAZATE 18 19.pdf
+│   ├── 📄 °TD Recherche opérationnelle ENCG CASABLANCA.pdf
+│   ├── 📄 °EXAMENS Recherche opérationnelle SMI5 FSSM MARRAKECH.pdf
+│   ├── 📄 °EXAMENS Recherche opérationnelle SMI5 FSR RABAT.pdf
+│   ├── 📄 °Cours Recherche opérationnelle SMI5 FST TETOUAN 20 21.pdf
+│   ├── 📄 °Cours Recherche opérationnelle SMI5 FSSM MARRAKECH 20 21.pdf
+│   ├── 📄 °COURS Recherche opérationnelle SMI5 FSR RABAT 16 17.pdf
+│   ├── 📄 °COURS Recherche opérationnelle SMI5 FSR RABAT 15 16.pdf
+│   ├── 📄 °Cours Recherche opérationnelle SMI5 FSO OUAJDA 20 21.pdf
+│   ├── 📄 °COURS Recherche opérationnelle SMI5 FSBM CASABLANCA 18 19.pdf
+│   └── 📄 °Cours Recherche opérationnelle SMI5 FPK KHOURIBGA.pdf
+├── 📁 Cours/
+│   ├── 📄 Cours OPTIMISATION LINEAIRE
+│   ├── 📄 Optimisation lineaire avec la methode graphique
+│   ├── 📄 Optimisation premiere annee ingenieurs
+│   ├── 📄 M09 Programmation lineaire ENSEA Fès
+│   ├── 📄 Cours 5 Phase 1 et 2 LIP6
+│   ├── 📄 Chapitre 3 Methode du Simplexe
+│   ├── 📄 Support de cours d'optimisation linéaire L1
+│   ├── 📄 3eme Annee Finance ESSSEC Recherche Operationnelle Serie 1
+│   ├── 📄 3A Methode en deux phases
+│   ├── 📄 3.4.3-Methode des deux phases.pdf
+│   ├── 📄 Optimisation lineaire TDB.pdf
+│   └── 📄 Cours recherche operationnelle 2007 2008
+├── 📁 Examens/
+│   ├── 📄 Devoir 2010
+│   ├── 📄 Devoir surveillé nº 1 donné le 23-05-2013
+│   ├── 📄 Corrigé des exercices d'optimisation Inéaire
+│   ├── 📄 Corrigé des exercices d'optimisation linéaire
+│   ├── 📄 EMD Module: Programmation linéaire
+│   ├── 📄 Epreuve de Rattrapage Module: Programmation linéaire
+│   ├── 📄 Correction Examen RO Juin 2016
+│   ├── 📄 CORRECTION EXAMEN DE RECHERCHE OPÉRATIONNELLE (3ème EFB) Session principale (Mai 2014)
+│   ├── 📄 Correction Examen Recherche Opérationnelle (3ème EMFB) Session principale (Mai 2016
+│   ├── 📄 Controle
+│   ├── 📄 Examen 
+│   ├── 📄 Mini project 
+│   ├── 📄 Examen corrigé Recherche Operationnelle Juin 2012
+│   ├── 📄 Drive module Programmation linaire - Recherche opérationnelle - cours, exercices corrigés et examens.txt
+│   ├── 📄 examen recherche operationnelle juin 2016
+│   ├── 📄 Devoir de mathématiques Optimisation Linéaire
+│   ├── 📄 Examen de recherche operationnelle session de mai 2014
+│   ├── 📄 examen recherche operationnelle mai 2014.pdf
+│   ├── 📄 Examen recherche operationnelle session juin 2011.pdf
+│   ├── 📄 examen recherche operationnelle juin 2010.pdf
+│   ├── 📄 Examen L3 FSEG Tunis Mathematiques Juin 2017
+│   ├── 📄 Examen de recherche operationnelle Juin 2017
+│   ├── 📄 examen recherche operationnelle emfb mai 2016.pdf
+│   ├── 📄 examen recherche operationnelle session principale mai 2015.pdf
+│   ├── 📄 examen recherche operationnelle juin 2016.pdf
+│   ├── 📄 examen recherche operationnelle lff juin 2013.pdf
+│   ├── 📄 examen recherche operationnelle juin 2015.pdf
+│   ├── 📄 Examen RO 2015 M1.pdf
+│   └── 📄 Correction Examen Recherche Operationnelle 3eme EMFB Session principale Mai 2016.pdf
+└── 📁 TD et exercices corrigés/
+    ├── 📄 Exo révision 
+    ├── 📄 Recherche Opérationnelle Série n°2
+    ├── 📄 TD 2 Programmation linéaire et optimisation (Méthode du simplexe)
+    ├── 📄 Td ORDONNANCEMENT DE PROJET
+    ├── 📄 Exemple resolution Optimisation premiere annee ingenieurs
+    ├── 📄 Exemples méthode résolution 
+    ├── 📄 Td
+    ├── 📄 Tp Notice OpenSolver
+    ├── 📄 TD 3 Programmation linéaire et optimisation (Méthode du simplexe: cas particuliers et utilisation de solveurs)
+    ├── 📄 TD 4 Programmation linéaire et optimisation Méthode des 2 phases, Méthode de pénalités (ou Méthode du Grand M)
+    ├── 📄 CORRIGE du TD Nº1 : PROGRAMMATION LINÉAIRE
+    ├── 📄 Correction de quelques exercices de TD
+    ├── 📄 CORRIGE de TD N 4: ORDONNANCEMENT DE PROJET
+    ├── 📄 CORRIGE du TD N°4: ORDONNANCEMENT DE
+    ├── 📄 CORRIGE du TD N°3: PROGRAMMATION LINEAIRE
+    ├── 📄 Td THÉORIE DES GRAPHES ET APPLICATIONS
+    ├── 📄 Td PROGRAMMATION LINÉAIRE: SIMPLEXE ET DUALITÉ
+    ├── 📄 Td Chapitre 3 Programmation linéaire Exercices corrigés
+    ├── 📄 TD PROGRAMMATION LINÉAIRE: MODÉLISATION
+    ├── 📄 Chapitre 1 TD Yassine Hacha"ichi Theorie des graphes et applications
+    ├── 📄 TD1 
+    ├── 📄 Tp5 programmation linéaire et régression MAD
+    ├── 📄 Recherche Operationnelle Serie 3
+    ├── 📄 Serie exercices 3 Recherche Operationnelle Serie 3
+    ├── 📄 Serie exo 1 3eme Annee Finance Recherche Operationnelle Serie 1
+    ├── 📄 Exercices Optimisation Linéaire TD1
+    ├── 📄 Programmation linéaire TD1 énoncé
+    ├── 📄 Programmation linéaire TD1 énoncé
+    ├── 📄 Exercice programmation linéaire
+    ├── 📄 TD N°4 Ordonnancement de Projet
+    ├── 📄 TD5 Programmation linéaire et optimisation.pdf
+    ├── 📄 TD2 Recherche operationnelle et Optimisation 2eme annee ing mecatronique Yassine Hachaichi.pdf
+    ├── 📄 Exercices programmation linéaire
+    ├── 📄 TD5 Programmation linéaire et optimisation.pdf
+    ├── 📄 Exercices de TD - Modelisation
+    ├── 📄 TD6 Programmation linéaire en nombres entiers
+    ├── 📄 Optimisation linéaire TD1 EISI
+    ├── 📄 Exercices Optimisation Linéaire TD1.pdf
+    ├── 📄 TD1 optimisation programmation lineaire et optimisation.pdf
+    ├── 📄 exemple resolution d'un PL avec la methode des 2 phases
+    ├── 📄 Optimisation lineaire avec la methode graphique
+    ├── 📄 Optimisation linéaire TD3 énoncés.pdf
+    ├── 📄 Optimisation lineaire TD 5 - Probleme du jardinier
+    ├── 📄 Exercice programmation lineaire M09 G1 et G2
+    ├── 📄 Correction TD RO Analyse de donnees.pdf
+    ├── 📄 Exercices programmation lineaire G1 GSE G3.pdf
+    ├── 📄 Exercice de programmation linéaire Blida 05 09 2007.pdf
+    ├── 📄 Exercice programmation lineaire G1 GSE et GTR
+    ├── 📄 Exercices de programmation linéaire.pdf
+    └── 📄 Exercice programmation lineaire TD S1.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Programmation linaire - Recherche opérationnelle
+═════════════════════════════════════

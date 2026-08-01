@@ -1,0 +1,139 @@
+📚 MODULE : Sécurité des Réseaux (SERE)               
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Sécurité des Réseaux (SERE).
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Sécurité des Réseaux (SERE)/
+├── 🔗📁 Securiter Cours S35 + S36/  (raccourci)
+│   ├── 📁 Cours S35 (Sécurité)/
+│   │   ├── 📄 ~$S35_Ch5_Listes de contôles d'accès (1).pptx
+│   │   ├── 📄 ~$5_TD_ACL_1_Corrigé.docx
+│   │   ├── 📄 ~$5_TD_ACL_1.docx
+│   │   ├── 📄 COURS AAA.ppt
+│   │   ├── 📄 S35_Ch2_Sécurisation des routeurs Cisco.pptx
+│   │   ├── 📄 S35_Ch5_Listes de contôles d'accès (2).pptx
+│   │   ├── 📄 S35_Ch1_Les menaces sur les réseaux modernes de données - Copie (2).pptx
+│   │   ├── 📄 S35_Ch5_Listes de contôles d'accès (1).pptx
+│   │   ├── 📄 S35_Ch3_Sécurisation des services réseaux d'un routeur - Copie (2).pptx
+│   │   ├── 📄 S35_Ch2_PT_Act_Syslog_SSH_NTP_fr.docx
+│   │   ├── 📄 S35_Ch4_Gestion sécurisée des routeurs.pptx
+│   │   ├── 📄 S35_TD_Ch_1_2_3_4.docx
+│   │   ├── 📄 S35_TD_ACL_2_Corrigé.docx
+│   │   ├── 📄 S35_TD_ACL_2.docx
+│   │   ├── 📄 S35_TD_ACL_1.docx
+│   │   ├── 📄 S35_TD_ACL_1_Corrigé.docx
+│   │   ├── 📄 SDM-V25.zip
+│   │   ├── 📄 S35_Ch2_PT_Act_Syslog_SSH_NTP_fr.pdf
+│   │   ├── 📄 putty.exe
+│   │   ├── 📄 S35_Ch2_PT_Act_Syslog_SSH_NTP_en.pka
+│   │   ├── 📄 S35_Ch3_PT1_Configuration de l'authentification OSPF.pka
+│   │   ├── 📄 S35_Ch4_TP2_Intégration des compétences PT.pka
+│   │   ├── 📄 S35_Ch4_TP1_Utilisation d'un serveur TFTP pour mettre à niveau une image ISO Cisco.pka
+│   │   ├── 📄 S35_Ch5_PT5_Exercice d'intégration des compétences PT.pka
+│   │   ├── 📄 S35_Ch5_PT1_Configuration ACL Standard.pka
+│   │   ├── 📄 S35_Ch5_PT2_Configuration ACL étendue.pka
+│   │   ├── 📄 S35_Ch5_PT3_ACL de base.pka
+│   │   ├── 📄 S35_Ch5_PT4_Exercice sur les ACLs.pka
+│   │   └── 📁 CCNA Security/
+│   │       └── 📁 ccna security (frensh)/
+│   │           ├── 📄 CCNASv2_InstructorPPT_CH10.pdf
+│   │           ├── 📄 CCNASv2_InstructorPPT_CH6.fr-2.pdf
+│   │           ├── 📄 CCNASv2_InstructorPPT_CH7.fr-2.pdf
+│   │           ├── 📄 CCNASv2_InstructorPPT_CH4.fr-2.pdf
+│   │           ├── 📄 CCNASv2_InstructorPPT_CH1.fr-2.pdf
+│   │           ├── 📄 CCNASv2_InstructorPPT_CH3.fr-2.pdf
+│   │           ├── 📄 CCNASv2_InstructorPPT_CH5.fr-2.pdf
+│   │           ├── 📄 CCNASv2_InstructorPPT_CH8.fr-2.pdf
+│   │           ├── 📄 CCNASv2_InstructorPPT_CH11.fr-2.pdf
+│   │           ├── 📄 CCNASv2_InstructorPPT_CH2.fr-2.pdf
+│   │           └── 📄 CCNASv2_InstructorPPT_CH9.en.fr.pptx
+│   └── 📁 Cours S36 (Supervision)/
+│       ├── 📄 S36_DS2014_new.docx
+│       ├── 📄 snmp.ppt
+│       └── 📄 cours 1 INTERESSANT.ppt
+├── 🔗📁 SEC RES/  (raccourci)
+│   ├── 📄 SECU17.pdf
+│   ├── 📄 SECU2016.pdf
+│   ├── 📁 Videos/
+│   │   ├── 📄 Cours Sécurité réseau _ 11eme  séance 2020-05-17-12-16-19.mp4
+│   │   └── 📄 10eme seance cours SSI-sec reseau 13 mai 2020 part II.mp4
+│   ├── 📁 TP/
+│   │   ├── 📄 TP2.docx
+│   │   └── 📄 TP1.docx
+│   └── 📁 cours/
+│       ├── 📄 11 eme séance- Cours SSI-SEC-Reseau le 17Mai 2020.pdf
+│       ├── 📄 10 eme séance- Cours SSI-SEC-Reseau le 13 Mai 2020.pdf
+│       ├── 📄 9eme séance- Cours SSI-SEC- semain du  6 mai 2020..pdf
+│       ├── 📄 Cours 6eme Semaine SSI.pdf
+│       ├── 📄 Cours 5eme semaine SSI.pdf
+│       └── 📄 Cours4eme-semaine-M1-SSI.pdf
+├── 🔗📁 SERE/  (raccourci)
+│   ├── 📄 sere-slide-cours6-fr.pdf
+│   ├── 📄 sere-slide-cours12-fr.pdf
+│   ├── 📄 sere-slide-cours10-fr.pdf
+│   ├── 📄 sere-slide-cours13-fr.pdf
+│   ├── 📄 sere-slide-cours11-fr.pdf
+│   ├── 📄 sere-slide-cours9-fr.pdf
+│   ├── 📄 sere-slide-cours4-fr.pdf
+│   ├── 📄 sere-slide-cours5-fr.pdf
+│   ├── 📄 sere-slide-cours3-fr.pdf
+│   ├── 📄 sere-slide-cours2-fr.pdf
+│   ├── 📄 sere-slide-cours1-fr.pdf
+│   ├── 📄 TP7.pdf
+│   ├── 📄 TP4.pdf
+│   ├── 📄 sere-cours10-fr.pdf
+│   ├── 📄 Chapitre 04_Cours 01_DAW2_BOURAMOUL.pdf
+│   ├── 📄 TP1.pdf
+│   ├── 📄 sere-cours2-fr.pdf
+│   ├── 📄 sere-cours1-fr.pdf
+│   ├── 📁 Résumé-20220602T014122Z-001/
+│   │   └── 📁 Résumé/
+│   │       ├── 📄 Cour1.docx
+│   │       ├── 📄 Cour12.docx
+│   │       ├── 📄 Cour11.docx
+│   │       ├── 📄 Cour9.docx
+│   │       ├── 📄 Cour6.docx
+│   │       ├── 📄 Cour5.docx
+│   │       ├── 📄 Cour4.docx
+│   │       ├── 📄 Cour3.docx
+│   │       └── 📄 Cour2.docx
+│   └── 📁 tp6/
+│       └── 📄 TP6.pdf
+├── 🔗📁 SR | Sécurité des Réseaux/  (raccourci)
+│   ├── 📄 Chapitre 5 à 8.pdf
+│   ├── 📄 Chapitre 1 à 4.pdf
+│   ├── 📁 Questions/Réponses 2016/2017/
+│   │   ├── 📄 04.jpg
+│   │   ├── 📄 03.jpg
+│   │   ├── 📄 02.jpg
+│   │   └── 📄 01.jpg
+│   ├── 📁 Exams/
+│   │   └── 📁 (2020/2021) + Solution/
+│   │       ├── 📄 Solution_2.jpg
+│   │       ├── 📄 Solution_1.jpg
+│   │       └── 📄 Sujet.jpg
+│   └── 📁 TP/
+│       ├── 📄 SR-TP4.pdf
+│       ├── 📄 SR-TP3.pdf
+│       ├── 📄 SR-TP2.pdf
+│       └── 📄 SR-TP1.pdf
+└── 🔗📁 Sécurité Des Réseaux/  (raccourci)
+    ├── 📁 Travail a faire/
+    │   └── 📄 exposes-secur-m1rsd.pdf
+    └── 📁 Cours/
+        ├── 📄 Chapitre-2-
+        └── 📄 Chapitre-1-
+
+═════════════════════════════════════
+  Fin du fichier · Sécurité des Réseaux (SERE)
+═════════════════════════════════════

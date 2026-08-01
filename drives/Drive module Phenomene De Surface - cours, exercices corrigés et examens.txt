@@ -1,0 +1,88 @@
+📚 MODULE : Phenomene De Surface                      
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Phenomene De Surface.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Phenomene De Surface/
+├── 🔗📁 Phenomene De Surface/  (raccourci)
+│   ├── 📁 1- Cours + TD/
+│   │   ├── 📄 Mostaganem - Chimie des surfaces et Catalyse.pdf
+│   │   ├── 📄 Chlef - Phénomènes-de-surface-et-catalyse-hétérogène.pdf
+│   │   ├── 📄 120482170_170848444632395_3619522908412800844_n.jpg
+│   │   ├── 📄 Oran - Introduction à la chimie de surface.pdf
+│   │   ├── 📄 Biskra - TD - Chimie de Surface.zip
+│   │   ├── 📄 Biskra - Physico-chimie des surfaces et catalyse.pdf
+│   │   ├── 📁 Relizane -  Phenomenes de surface et catalyse heterogene/
+│   │   │   ├── 📄 Phénomènes de surface et catalyse hétérogène-chapitre I(1).pdf
+│   │   │   ├── 📄 TD1-phénomène de sur face et catalyse hétérogène.pdf
+│   │   │   ├── 📄 Chapitre II - Phénomènes de surface et catalyse hétérogène.pdf
+│   │   │   ├── 📄 Phénomènes de surface et Catalyse hétérogène -TDN°2.pdf
+│   │   │   ├── 📄 Phénomène de surface et catalyse hétérogéne-Chapitre III.pdf
+│   │   │   ├── 📄 TD3-Phénomènes de surface et Catalyse hétérogène.pdf
+│   │   │   ├── 📄 Chapitre IV-Introduction et généralités sur les catalyseurs.pdf
+│   │   │   ├── 📄 Chapitre V -Cinétique des réactions en catalyse hétérogène.pdf
+│   │   │   ├── 📄 Correction du TD N1.pdf
+│   │   │   └── 📄 Correction du TD N2 (2).pdf
+│   │   ├── 📁 USTO - Cours + TD (Sol) - 2019/
+│   │   │   ├── 📄 Exercices supplimentaires sur les tensionactifs et la CMC.pdf
+│   │   │   ├── 📄 Phénomène de surface _ cours.pdf
+│   │   │   ├── 📄 Ph Surfaces.pdf
+│   │   │   ├── 📄 Exercices supplementaires sur le chapitre 1.pdf
+│   │   │   ├── 📄 Fiche TD N 01 (Sol).pdf
+│   │   │   └── 📄 Fiche TD N 01.pdf
+│   │   ├── 📁 Adsorption TD + sol/
+│   │   │   ├── 📄 PA.S2.pdf
+│   │   │   ├── 📄 PA.S3.pdf
+│   │   │   ├── 📄 PA.S1(Suite).pdf
+│   │   │   └── 📄 PA.S1.pdf
+│   │   └── 📁 Tissemsilt - Cours + TD resolu/
+│   │       ├── 📄 Chap 3 - Tension Active.pdf
+│   │       ├── 📄 TD 2.pdf
+│   │       ├── 📄 Chap 2 - Tension de surface.pdf
+│   │       ├── 📄 TD 1..pdf
+│   │       └── 📄 Chap 3.5 - Mesure de la Tension Superficielle.pdf
+│   └── 📁 2- Sujets/
+│       ├── 📄 Jijel - 2021.jpg
+│       ├── 📄 187692329_1201730030271377_4488216215964892944_n.jpg
+│       ├── 📄 USTHB 2019 - p2.jpg
+│       └── 📄 USTHB 2019 - p1.jpg
+└── 🔗📁 (PSCH)Phénomènes de surface et catalyse hétérogènes/  (raccourci)
+    ├── 📄 rsm. psch.pdf
+    ├── 📄 démonstrations. psch.pdf
+    ├── 📁 exmn + crg/
+    │   ├── 📄 05.jpg
+    │   ├── 📄 04.jpg
+    │   ├── 📄 02.jpg
+    │   ├── 📄 03.jpg
+    │   └── 📄 01.jpg
+    ├── 📁 TD/
+    │   └── 📁 td psch/
+    │       ├── 📄 Solution des exercices 35 et 36.docx
+    │       ├── 📄 13.jpg
+    │       ├── 📄 12.jpg
+    │       ├── 📄 11.jpg
+    │       ├── 📄 10.jpg
+    │       ├── 📄 09.jpg
+    │       ├── 📄 08.jpg
+    │       ├── 📄 07.jpg
+    │       ├── 📄 06.jpg
+    │       ├── 📄 05.jpg
+    │       ├── 📄 04.jpg
+    │       ├── 📄 03.jpg
+    │       ├── 📄 02.jpg
+    │       └── 📄 01.jpg
+    └── 📁 Cours/
+
+═════════════════════════════════════
+  Fin du fichier · Phenomene De Surface
+═════════════════════════════════════

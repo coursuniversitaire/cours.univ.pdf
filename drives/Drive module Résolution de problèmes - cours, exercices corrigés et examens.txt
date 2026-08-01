@@ -1,0 +1,167 @@
+📚 MODULE : Résolution de problèmes                   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Résolution de problèmes.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Résolution de problèmes/
+├── 📄 Résolution de problèmes-20260608T185239Z-3-001.zip
+├── 🔗📁 Résolution de Problèmes/  (raccourci)
+│   ├── 📁 TDs/
+│   │   ├── 📄 serie 7 systeme expert solution.pdf
+│   │   ├── 📄 Serie 5 la robotique solution.pdf
+│   │   ├── 📄 chapitre 5 resolution de pb seance 12 12 2021.pdf
+│   │   ├── 📄 recherche A etoile.pdf
+│   │   ├── 📄 serie 4 chap 4 Strategies de recherche.pdf
+│   │   ├── 📄 serie 3 chap3 Resol Pb 21 22.pdf
+│   │   ├── 📄 serie 3 chap3 Resol Pb 21 22 solution.pdf
+│   │   ├── 📄 serie 2 refutation solution.pdf
+│   │   ├── 📄 serie 2 refutation.pdf
+│   │   ├── 📄 série 1 solution 1.pdf
+│   │   ├── 📄 série 1 solution 2.pdf
+│   │   └── 📄 serie 1 chap1.pdf
+│   └── 📁 Cours Capsules + PDFs/
+│       ├── 📄 chap7 Systemes-Experts2021.pdf
+│       ├── 📄 chap6 PROLOG 2021.pdf
+│       ├── 📄 CHAP5 robotique 2021.pdf
+│       ├── 📄 CHAP4 str rech sp 2021.pdf
+│       ├── 📄 exemples de stratégies aveugles.pdf
+│       ├── 📄 CHAP3 sp 2021.pdf
+│       ├── 📄 CHAP2 refutation 2021.pdf
+│       ├── 📄 Vidéo cours chap12 ResPb  2020 2021.mp4
+│       ├── 📄 Vidéo Cours chap11 Resol Pb 2020 2021.mp4
+│       └── 📄 CHAP1 Rappel de Logique  2021.pdf
+└── 🔗📁 Résolution de problèmes/  (raccourci)
+    ├── 📄 concours res_prob.zip
+    ├── 📁 cours/
+    │   ├── 📄 profondeur d abord.xps
+    │   ├── 📄 profondeur limite.xps
+    │   ├── 📄 chapitre 0 rappel sur les notions de base des SE.pdf
+    │   ├── 📄 procedure recursive.xps
+    │   ├── 📄 largeur d abord.xps
+    │   ├── 📄 desktop.ini
+    │   ├── 📄 cout.xps
+    │   ├── 📄 CHAP5 robotique 1617.pdf
+    │   ├── 📄 CHAP4 str rech sp 1617.pdf
+    │   ├── 📄 CHAP3 refutation 1213.pdf
+    │   ├── 📄 CHAP2 sp 1617.pdf
+    │   ├── 📄 CHAP1 calcul predicat 1617.pdf
+    │   └── 📄 algoA etoile.xps
+    ├── 📁 TD+solutions/
+    │   ├── 📁 solutions/
+    │   │   ├── 📄 Cahier TD.pdf
+    │   │   ├── 📄 page1bi.jpg
+    │   │   ├── 📄 page2.jpg
+    │   │   ├── 📄 page2bi.jpg
+    │   │   ├── 📄 page1 td 2.jpg
+    │   │   ├── 📄 td alg A etoile.jpg
+    │   │   ├── 📄 page1.jpg
+    │   │   ├── 📄 table triangulaire.pdf
+    │   │   ├── 📄 sol alg A etoile.jpg
+    │   │   ├── 📄 page1 td 3.jpg
+    │   │   ├── 📄 page4.jpg
+    │   │   ├── 📄 page3.jpg
+    │   │   ├── 📄 page2 td 3.jpg
+    │   │   ├── 📄 page2 td 2.jpg
+    │   │   ├── 📄 page3 td 3.jpg
+    │   │   └── 📄 page3 td 2.jpg
+    │   └── 📁 séries/
+    │       ├── 📄 TD serie 3.pdf
+    │       ├── 📄 Serie-5-la-robotique.pdf
+    │       ├── 📄 serie 4 chap 4 Strategies de recherche.pdf
+    │       ├── 📄 serie 2 chap2.pdf
+    │       └── 📄 serie 1 2016 2017.pdf
+    └── 📁 Examens/
+        ├── 📄 Examen 2018 Res Pb.pdf
+        ├── 📄 RESp 2017.jpg
+        ├── 📄 Rattrapage_ResPb_SII_2014_2015.pdf
+        ├── 📄 Exam_Corrig__ResPb_SII_2014_2015.pdf
+        ├── 📄 Examen_ResPb2014_2015.pdf
+        ├── 📄 examen  RES PB.JPG
+        ├── 📄 exam.rar
+        ├── 📄 Envoi de examen+corrig_+de+R_solution+de+probl_mes(1)_2.pdf
+        ├── 📄 Envoi de correctResPb.pdf
+        ├── 📄 EMD2011.JPG
+        ├── 📄 MIL EMD2009.jpg
+        ├── 📄 Corrigé_examen_ResPb_14_15.pdf
+        ├── 📄 exemple strategie.ZIP
+        ├── 📄 Controle continu2011.JPG
+        ├── 📄 exemplestategie_pdf.rar
+        ├── 📄 solution pb emd sii 0910.doc
+        ├── 📄 Envoi de Transformation_fbf_clauses.pdf
+        ├── 📁 ex/
+        │   ├── 📄 Resolution probleme examen corrigé 2013_2014.pdf
+        │   ├── 📄 Rattrapage_ResPb_SII_2014_2015.pdf
+        │   ├── 📄 Exam_Corrig__ResPb_SII_2014_2015.pdf
+        │   ├── 📄 examen  RES PB.JPG
+        │   ├── 📄 examen 2009.2010.jpg
+        │   ├── 📄 382834_150829465025333_100002948406653_220471_105985883_n.jpg
+        │   ├── 📄 15871717_2062163280676735_8631170224387395653_n.jpg
+        │   ├── 📄 15870714_260787817673753_753451207_n.jpg
+        │   ├── 📄 15844494_1694245940865301_9195239366466385518_o.jpg
+        │   ├── 📄 15844269_1694245994198629_7001917466401876807_o.jpg
+        │   ├── 📄 15747743_2062163824010014_4085130187023621103_n.jpg
+        │   ├── 📄 15774883_1694245894198639_132636629611573741_o.jpg
+        │   ├── 📄 15841077_10212315706273315_1894254187_n.jpg
+        │   ├── 📄 15774690_1694245900865305_5948127584298875715_o.jpg
+        │   ├── 📄 15747834_2062163377343392_1659239449429220706_n.jpg
+        │   ├── 📄 15826769_2062163227343407_7858080263149432529_n.jpg
+        │   ├── 📄 15676287_1694245880865307_4760085354073175886_o.jpg
+        │   ├── 📄 15800194_1694245944198634_7556111028005938395_o.jpg
+        │   ├── 📄 15822405_10212315705753302_408689677_n.jpg
+        │   ├── 📄 15822290_260787811007087_1760502018_n.jpg
+        │   ├── 📄 15822172_260788241007044_1503651538_n.jpg
+        │   ├── 📄 15697907_2062163177343412_427038720572587164_n.jpg
+        │   └── 📄 15800421_1694245957531966_85562860614191872_o.jpg
+        ├── 📁 2006/
+        │   ├── 📄 DSC04832.JPG
+        │   ├── 📄 DSC04831.JPG
+        │   └── 📁 correction/
+        │       ├── 📄 DSC04860.JPG
+        │       ├── 📄 DSC04856.JPG
+        │       ├── 📄 DSC04855.JPG
+        │       ├── 📄 DSC04854.JPG
+        │       └── 📄 DSC04853.JPG
+        ├── 📁 2010-2011/
+        │   ├── 📄 Sujet SII.jpg
+        │   ├── 📄 5.jpg
+        │   ├── 📄 4.jpg
+        │   ├── 📄 3.jpg
+        │   ├── 📄 2.jpg
+        │   └── 📄 1.jpg
+        ├── 📁 2009-2010/
+        │   └── 📄 382834_150829465025333_100002948406653_220471_105985883_n.jpg
+        ├── 📁 2005/
+        │   ├── 📄 2.JPG
+        │   ├── 📄 1.JPG
+        │   └── 📁 correction/
+        │       ├── 📄 DSC04842.JPG
+        │       └── 📄 DSC04840.JPG
+        ├── 📁 2008/
+        │   └── 📄 img053.jpg
+        ├── 📁 Examen+corrigé 2010.2011/
+        │   ├── 📄 examen.JPG
+        │   └── 📁 Corrigé/
+        │       ├── 📄 photo093.jpg
+        │       ├── 📄 photo092.jpg
+        │       ├── 📄 photo091.jpg
+        │       ├── 📄 photo090.jpg
+        │       ├── 📄 photo089.jpg
+        │       ├── 📄 photo088.jpg
+        │       ├── 📄 photo087.jpg
+        │       └── 📄 photo086.jpg
+        └── 📁 2007/
+            └── 📄 sujetsysexpert.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Résolution de problèmes
+═════════════════════════════════════

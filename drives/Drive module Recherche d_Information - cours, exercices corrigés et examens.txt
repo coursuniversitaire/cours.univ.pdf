@@ -1,0 +1,94 @@
+📚 MODULE : Recherche d'Information                   
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Recherche d'Information.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Recherche d'Information/
+├── 🔗📁 RI/  (raccourci)
+│   ├── 📁 EXO SUPP/
+│   │   ├── 📄 TD 3 Evaluation des SRI.docx
+│   │   ├── 📄 TD 2 Les modèle de RI (1).pdf
+│   │   └── 📄 TD 1 Indexation (1).pdf
+│   ├── 📁 EXAMS/
+│   │   ├── 📄 Test_Rapp_Prec (1).pdf
+│   │   ├── 📄 Test_TF_IDF (1).pdf
+│   │   ├── 📄 Test_Bool (1).pdf
+│   │   ├── 📄 TD (2).pdf
+│   │   └── 📄 BOUIRA _ Examen_ Recherche d'information _ 2018-corrigé (1).pdf
+│   ├── 📁 SOLUTION TD/
+│   │   ├── 📄 Solution-Série3-EvaluationSRI-OL (2).pdf
+│   │   ├── 📄 Solution-Série2-RI-OL (1).pdf
+│   │   ├── 📄 Révision-04-10-20-OUKIDL (2).pdf
+│   │   └── 📁 SOLUTION TD1/
+│   │       ├── 📄 RI6.png
+│   │       ├── 📄 RI5.png
+│   │       ├── 📄 RI4.png
+│   │       ├── 📄 RI3.png
+│   │       ├── 📄 RI2.png
+│   │       └── 📄 RI1.png
+│   ├── 📁 TD/
+│   │   ├── 📄 Serie3.pdf
+│   │   ├── 📄 Serie2-RI-Model-OL.pdf
+│   │   └── 📄 Serie1-RI-Indexation-OL (1).pdf
+│   └── 📁 COURS/
+│       ├── 📄 résumé RI (2).pdf
+│       ├── 📄 résumé 2 RI (1).pdf
+│       ├── 📄 Chap4-ModeleVectoriel-OL (2).pdf
+│       ├── 📄 Chap5-Evaluation_des_SRI-OL.pdf
+│       ├── 📄 Chap3-Modeles_ensemblistes_RI-OL.pdf
+│       ├── 📄 Chap2-Indexation-OL_1.pdf
+│       └── 📄 Chapt_1_IntroductionRI-OL.pdf
+├── 📁 TPs/
+│   ├── 📄 Projet Recherche d'information (Décembre 2022).pdf
+│   ├── 📄 Séance TP n°1 (Représentation de l'Information - Indexation).pdf
+│   ├── 📄 Séance TP n°7 (Evaluation).pdf
+│   ├── 📄 Séance-TP-n1-Représentation-de-lInformation-Indexation.pdf
+│   ├── 📄 Séance-TP-n1-Représentation-de-lInformation-Indexation.pdf
+│   └── 📄 Séance-TP-n5-Appariement.pdf
+├── 📁 EXAMS/
+│   ├── 📄 Test_Rapp_Prec (1).pdf
+│   ├── 📄 Test_TF_IDF (1).pdf
+│   ├── 📄 Test_Bool (1).pdf
+│   ├── 📄 TD (2).pdf
+│   └── 📄 BOUIRA _ Examen_ Recherche d_information _ 2018-corrigé (1).pdf
+├── 📁 TD/
+│   ├── 📄 Serie3.pdf
+│   ├── 📄 Serie2-RI-Model-OL.pdf
+│   ├── 📄 Serie1-RI-Indexation-OL (1).pdf
+│   ├── 📁 EXO SUPP/
+│   │   ├── 📄 TD 3 Evaluation des SRI.docx
+│   │   ├── 📄 TD 2 Les modèle de RI (1).pdf
+│   │   └── 📄 TD 1 Indexation (1).pdf
+│   └── 📁 SOLUTION TD/
+│       ├── 📄 Solution-Série3-EvaluationSRI-OL (2).pdf
+│       ├── 📄 Révision-04-10-20-OUKIDL (2).pdf
+│       ├── 📄 Solution-Série2-RI-OL (1).pdf
+│       └── 📁 SOLUTION TD1/
+│           ├── 📄 RI6.png
+│           ├── 📄 RI5.png
+│           ├── 📄 RI4.png
+│           ├── 📄 RI3.png
+│           ├── 📄 RI2.png
+│           └── 📄 RI1.png
+└── 📁 COURS/
+    ├── 📄 résumé RI (2).pdf
+    ├── 📄 résumé 2 RI (1).pdf
+    ├── 📄 Chap4-ModeleVectoriel-OL (2).pdf
+    ├── 📄 Chap5-Evaluation_des_SRI-OL.pdf
+    ├── 📄 Chap3-Modeles_ensemblistes_RI-OL.pdf
+    ├── 📄 Chap2-Indexation-OL_1.pdf
+    └── 📄 Chapt_1_IntroductionRI-OL.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Recherche d'Information
+═════════════════════════════════════

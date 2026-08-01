@@ -1,0 +1,1248 @@
+📚 MODULE : Python                                    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Python.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Python/
+├── 🔗📁 200 solved problems in Python /  (raccourci)
+│   ├── 📁 datetime/
+│   │   ├── 📄 millisecond_solution.ipynb
+│   │   ├── 📄 millisecond.ipynb
+│   │   ├── 📄 convert_solution.ipynb
+│   │   ├── 📄 convert.ipynb
+│   │   ├── 📄 subtract_days_solution.ipynb
+│   │   ├── 📄 current_time_solution.ipynb
+│   │   ├── 📄 subtract_days.ipynb
+│   │   ├── 📄 current_time.ipynb
+│   │   ├── 📄 date_time_format_solution.ipynb
+│   │   └── 📄 date_time_format.ipynb
+│   ├── 📁 array/
+│   │   ├── 📄 array_merge_intervals_solution.ipynb
+│   │   ├── 📄 array_longest_non_repeat_solution.ipynb
+│   │   ├── 📄 array_longest_non_repeat.ipynb
+│   │   ├── 📄 array_merge_intervals.ipynb
+│   │   ├── 📄 array_rotate_solution.ipynb
+│   │   ├── 📄 array_summary_ranges_solution.ipynb
+│   │   ├── 📄 array_rotate.ipynb
+│   │   ├── 📄 array_summary_ranges.ipynb
+│   │   ├── 📄 array_two_sum_solution.ipynb
+│   │   ├── 📄 array_two_sum.ipynb
+│   │   ├── 📄 array_missing_element_challenge.ipynb
+│   │   ├── 📄 array_missing_element_solution.ipynb
+│   │   └── 📁 .ipynb_checkpoints/
+│   │       ├── 📄 array_merge_intervals_solution-checkpoint.ipynb
+│   │       ├── 📄 array_merge_intervals-checkpoint.ipynb
+│   │       ├── 📄 array_longest_non_repeat_solution-checkpoint.ipynb
+│   │       └── 📄 array_longest_non_repeat-checkpoint.ipynb
+│   ├── 📁 basic/
+│   │   ├── 📄 print_string_solution.ipynb
+│   │   ├── 📄 print_string.ipynb
+│   │   ├── 📄 input_age_solution.ipynb
+│   │   ├── 📄 input_age.ipynb
+│   │   ├── 📄 calculate_with_input_solution.ipynb
+│   │   ├── 📄 calculate_with_input.ipynb
+│   │   └── 📁 .ipynb_checkpoints/
+│   │       ├── 📄 print_string_solution-checkpoint.ipynb
+│   │       ├── 📄 print_string-checkpoint.ipynb
+│   │       ├── 📄 input_age_solution-checkpoint.ipynb
+│   │       ├── 📄 input_age-checkpoint.ipynb
+│   │       ├── 📄 calculate_with_input_solution-checkpoint.ipynb
+│   │       └── 📄 calculate_with_input-checkpoint.ipynb
+│   ├── 📁 class/
+│   │   ├── 📄 check_parentheses.ipynb
+│   │   ├── 📄 check_parentheses_solution.ipynb
+│   │   ├── 📄 revert_word.ipynb
+│   │   ├── 📄 circle_solution.ipynb
+│   │   ├── 📄 circle.ipynb
+│   │   ├── 📄 rectange_solution.ipynb
+│   │   ├── 📄 rectange.ipynb
+│   │   ├── 📄 get_and_print_solution.ipynb
+│   │   ├── 📄 get_and_print.ipynb
+│   │   ├── 📄 revert_word_solution.ipynb
+│   │   ├── 📄 sum_zero_solution.ipynb
+│   │   ├── 📄 sum_zero.ipynb
+│   │   ├── 📄 convert_to_int_solution.ipynb
+│   │   ├── 📄 convert_to_int.ipynb
+│   │   ├── 📄 convert_to_roman_solution.ipynb
+│   │   ├── 📄 convert_to_roman.ipynb
+│   │   └── 📁 .ipynb_checkpoints/
+│   │       ├── 📄 check_parentheses-checkpoint.ipynb
+│   │       ├── 📄 check_parentheses_solution-checkpoint.ipynb
+│   │       └── 📄 revert_word-checkpoint.ipynb
+│   ├── 📁 condition and loop/
+│   │   ├── 📄 count_digit_letter_solution.ipynb
+│   │   ├── 📄 count_digit_letter.ipynb
+│   │   ├── 📄 construct_parttern_solution.ipynb
+│   │   ├── 📄 construct_parttern.ipynb
+│   │   ├── 📄 construct_number_partern_solution.ipynb
+│   │   ├── 📄 construct_number_partern.ipynb
+│   │   ├── 📄 check_triange_solution.ipynb
+│   │   ├── 📄 check_triange.ipynb
+│   │   ├── 📄 2_dimensional_array_solution.ipynb
+│   │   ├── 📄 2_dimensional_array.ipynb
+│   │   ├── 📄 triangle_types.ipynb
+│   │   ├── 📄 triangle_types_solution.ipynb
+│   │   ├── 📄 vowel_or_consonal_solution.ipynb
+│   │   ├── 📄 vowel_or_consonal.ipynb
+│   │   ├── 📄 password_validation_solution.ipynb
+│   │   ├── 📄 password_validation.ipynb
+│   │   ├── 📄 fibonaci_generator_solution.ipynb
+│   │   ├── 📄 fibonaci_generator.ipynb
+│   │   ├── 📄 count_even_odd_solution.ipynb
+│   │   ├── 📄 count_even_odd.ipynb
+│   │   ├── 📄 guess_game_solution.ipynb
+│   │   ├── 📄 guess_game.ipynb
+│   │   ├── 📄 find_number_solution.ipynb
+│   │   ├── 📄 find_number.ipynb
+│   │   └── 📁 .ipynb_checkpoints/
+│   │       ├── 📄 count_digit_letter_solution-checkpoint.ipynb
+│   │       ├── 📄 count_digit_letter-checkpoint.ipynb
+│   │       ├── 📄 construct_parttern_solution-checkpoint.ipynb
+│   │       ├── 📄 construct_parttern-checkpoint.ipynb
+│   │       ├── 📄 construct_number_partern_solution-checkpoint.ipynb
+│   │       ├── 📄 construct_number_partern-checkpoint.ipynb
+│   │       ├── 📄 check_triange_solution-checkpoint.ipynb
+│   │       ├── 📄 check_triange-checkpoint.ipynb
+│   │       ├── 📄 2_dimensional_array_solution-checkpoint.ipynb
+│   │       └── 📄 2_dimensional_array-checkpoint.ipynb
+│   ├── 📁 dictionary/
+│   │   ├── 📄 check_key_exist_solution.ipynb
+│   │   ├── 📄 check_key_exist.ipynb
+│   │   ├── 📄 sum_all_items_solution.ipynb
+│   │   ├── 📄 sum_all_items.ipynb
+│   │   ├── 📄 iterate_over_dictionary_solution.ipynb
+│   │   ├── 📄 square_solution.ipynb
+│   │   ├── 📄 square.ipynb
+│   │   ├── 📄 iterate_over_dictionary.ipynb
+│   │   ├── 📄 concatenate_solution.ipynb
+│   │   ├── 📄 concatenate.ipynb
+│   │   ├── 📄 sort_solution.ipynb
+│   │   ├── 📄 sort.ipynb
+│   │   └── 📁 .ipynb_checkpoints/
+│   │       ├── 📄 check_key_exist_solution-checkpoint.ipynb
+│   │       └── 📄 check_key_exist-checkpoint.ipynb
+│   ├── 📁 file/
+│   │   ├── 📄 file_size_solution.ipynb
+│   │   ├── 📄 file_size.ipynb
+│   │   ├── 📄 first_n_lines_solution.ipynb
+│   │   ├── 📄 first_n_lines.ipynb
+│   │   ├── 📄 random_line_solution.ipynb
+│   │   ├── 📄 random_line.ipynb
+│   │   ├── 📄 longest_word_solution.ipynb
+│   │   ├── 📄 longest_word.ipynb
+│   │   ├── 📄 test.txt
+│   │   └── 📁 .ipynb_checkpoints/
+│   │       ├── 📄 file_size_solution-checkpoint.ipynb
+│   │       └── 📄 file_size-checkpoint.ipynb
+│   ├── 📁 search/
+│   │   ├── 📄 binary_search_implement_solution.ipynb
+│   │   ├── 📄 sequential search_solution.ipynb
+│   │   ├── 📄 sequential search.ipynb
+│   │   ├── 📄 binary_search_implement.ipynb
+│   │   └── 📁 .ipynb_checkpoints/
+│   │       └── 📄 binary_search_implement_solution-checkpoint.ipynb
+│   ├── 📁 pandas/
+│   │   ├── 📁 02_Filtering_&_Sorting/
+│   │   │   ├── 📁 Chipotle/
+│   │   │   │   ├── 📄 Exercises.ipynb
+│   │   │   │   ├── 📄 Solutions.ipynb
+│   │   │   │   ├── 📄 Exercises_with_solutions.ipynb
+│   │   │   │   └── 📁 .ipynb_checkpoints/
+│   │   │   │       └── 📄 Exercises-checkpoint.ipynb
+│   │   │   ├── 📁 Fictional Army/
+│   │   │   │   ├── 📄 Exercise_with_solutions.ipynb
+│   │   │   │   ├── 📄 Exercise.ipynb
+│   │   │   │   └── 📄 Solutions.ipynb
+│   │   │   └── 📁 Euro12/
+│   │   │       ├── 📄 Solutions.ipynb
+│   │   │       ├── 📄 Exercises.ipynb
+│   │   │       └── 📄 Exercises_with_Solutions.ipynb
+│   │   ├── 📁 01_Getting_&_Knowing_Your_Data/
+│   │   │   ├── 📁 World Food Facts/
+│   │   │   │   ├── 📄 Solutions.ipynb
+│   │   │   │   ├── 📄 Exercises_with_solutions.ipynb
+│   │   │   │   └── 📄 Exercises.ipynb
+│   │   │   ├── 📁 Chipotle/
+│   │   │   │   ├── 📄 Exercise_with_Solutions.ipynb
+│   │   │   │   ├── 📄 Solutions.ipynb
+│   │   │   │   ├── 📄 Exercises.ipynb
+│   │   │   │   └── 📁 .ipynb_checkpoints/
+│   │   │   │       └── 📄 Exercise_with_Solutions-checkpoint.ipynb
+│   │   │   └── 📁 Occupation/
+│   │   │       ├── 📄 Solutions.ipynb
+│   │   │       ├── 📄 Exercise_with_Solution.ipynb
+│   │   │       └── 📄 Exercises.ipynb
+│   │   ├── 📁 03_Grouping/
+│   │   │   ├── 📁 Regiment/
+│   │   │   │   ├── 📄 Exercises_solutions.ipynb
+│   │   │   │   ├── 📄 Exercises.ipynb
+│   │   │   │   └── 📄 Solutions.ipynb
+│   │   │   ├── 📁 Occupation/
+│   │   │   │   ├── 📄 Exercises_with_solutions.ipynb
+│   │   │   │   ├── 📄 Solutions.ipynb
+│   │   │   │   └── 📄 Exercise.ipynb
+│   │   │   └── 📁 Alcohol_Consumption/
+│   │   │       ├── 📄 Solutions.ipynb
+│   │   │       ├── 📄 Exercise_with_solutions.ipynb
+│   │   │       └── 📄 Exercise.ipynb
+│   │   ├── 📁 08_Creating_Series_and_DataFrames/
+│   │   │   └── 📁 Pokemon/
+│   │   │       ├── 📄 Exercises-with-solutions-and-code.ipynb
+│   │   │       ├── 📄 Exercises.ipynb
+│   │   │       └── 📄 Solutions.ipynb
+│   │   ├── 📁 07_Visualization/
+│   │   │   ├── 📁 Scores/
+│   │   │   │   ├── 📄 Solutions.ipynb
+│   │   │   │   ├── 📄 Exercises.ipynb
+│   │   │   │   └── 📄 Exercises_with_solutions_code.ipynb
+│   │   │   ├── 📁 Chipotle/
+│   │   │   │   ├── 📄 Exercise_with_Solutions.ipynb
+│   │   │   │   ├── 📄 Exercises.ipynb
+│   │   │   │   └── 📄 Solutions.ipynb
+│   │   │   ├── 📁 Online_Retail/
+│   │   │   │   ├── 📄 Online_Retail.csv
+│   │   │   │   ├── 📄 Exercises.ipynb
+│   │   │   │   ├── 📄 Exercises_with_solutions_code.ipynb
+│   │   │   │   └── 📄 Solutions.ipynb
+│   │   │   ├── 📁 Tips/
+│   │   │   │   ├── 📄 Solutions.ipynb
+│   │   │   │   ├── 📄 tips.csv
+│   │   │   │   ├── 📄 Exercises_with_code_and_solutions.ipynb
+│   │   │   │   └── 📄 Exercises.ipynb
+│   │   │   └── 📁 Titanic_Desaster/
+│   │   │       ├── 📄 Exercises.ipynb
+│   │   │       ├── 📄 train.csv
+│   │   │       ├── 📄 Solutions.ipynb
+│   │   │       └── 📄 Exercises_code_with_solutions.ipynb
+│   │   ├── 📁 04_Apply/
+│   │   │   ├── 📁 US_Crime_Rates/
+│   │   │   │   ├── 📄 Exercises.ipynb
+│   │   │   │   ├── 📄 Solutions.ipynb
+│   │   │   │   ├── 📄 Exercises_with_solutions.ipynb
+│   │   │   │   └── 📄 US_Crime_Rates_1960_2014.csv
+│   │   │   └── 📁 Students_Alcohol_Consumption/
+│   │   │       ├── 📄 Exercises_with_solutions.ipynb
+│   │   │       ├── 📄 student-mat.csv
+│   │   │       ├── 📄 Exercises.ipynb
+│   │   │       └── 📄 Solutions.ipynb
+│   │   ├── 📁 06_Stats/
+│   │   │   ├── 📁 US_Baby_Names/
+│   │   │   │   ├── 📄 US_Baby_Names_right.csv
+│   │   │   │   ├── 📄 Solutions.ipynb
+│   │   │   │   ├── 📄 Exercises.ipynb
+│   │   │   │   └── 📄 Exercises_with_solutions.ipynb
+│   │   │   └── 📁 Wind_Stats/
+│   │   │       ├── 📄 Exercises.ipynb
+│   │   │       ├── 📄 Exercises_with_solutions.ipynb
+│   │   │       ├── 📄 wind.data
+│   │   │       ├── 📄 Solutions.ipynb
+│   │   │       └── 📄 wind.desc
+│   │   ├── 📁 05_Merge/
+│   │   │   ├── 📁 Auto_MPG/
+│   │   │   │   ├── 📄 Exercises.ipynb
+│   │   │   │   ├── 📄 Exercises_with_solutions.ipynb
+│   │   │   │   ├── 📄 cars2.csv
+│   │   │   │   ├── 📄 cars1.csv
+│   │   │   │   └── 📄 Solutions.ipynb
+│   │   │   ├── 📁 Housing Market/
+│   │   │   │   ├── 📄 Exercises.ipynb
+│   │   │   │   ├── 📄 Solutions.ipynb
+│   │   │   │   └── 📄 Exercises_with_solutions.ipynb
+│   │   │   └── 📁 Fictitous Names/
+│   │   │       ├── 📄 Exercises.ipynb
+│   │   │       ├── 📄 Solutions.ipynb
+│   │   │       └── 📄 Exercises_with_solutions.ipynb
+│   │   ├── 📁 09_Time_Series/
+│   │   │   ├── 📁 Apple_Stock/
+│   │   │   │   ├── 📄 appl_1980_2014.csv
+│   │   │   │   ├── 📄 Solutions.ipynb
+│   │   │   │   ├── 📄 Exercises.ipynb
+│   │   │   │   └── 📄 Exercises-with-solutions-code.ipynb
+│   │   │   ├── 📁 Investor_Flow_of_Funds_US/
+│   │   │   │   ├── 📄 Solutions.ipynb
+│   │   │   │   ├── 📄 Exercises.ipynb
+│   │   │   │   └── 📄 Exercises_with_code_and_solutions.ipynb
+│   │   │   └── 📁 Getting_Financial_Data/
+│   │   │       ├── 📄 Exercises.ipynb
+│   │   │       ├── 📄 Exercises_with_solutions_and_code.ipynb
+│   │   │       └── 📄 Solutions.ipynb
+│   │   └── 📁 10_Deleting/
+│   │       ├── 📁 Iris/
+│   │       │   ├── 📄 Exercises.ipynb
+│   │       │   ├── 📄 Exercises_with_solutions_and_code.ipynb
+│   │       │   └── 📄 Solutions.ipynb
+│   │       └── 📁 Wine/
+│   │           ├── 📄 Exercises.ipynb
+│   │           ├── 📄 Exercises_code_and_solutions.ipynb
+│   │           └── 📄 Solutions.ipynb
+│   ├── 📁 string/
+│   │   ├── 📄 caesar_encryption.ipynb
+│   │   ├── 📄 caesar_encryption_solution.ipynb
+│   │   ├── 📄 count_character_solution.ipynb
+│   │   ├── 📄 count_character.ipynb
+│   │   ├── 📄 revert_word_in_string_solution.ipynb
+│   │   ├── 📄 revert_word_in_string.ipynb
+│   │   ├── 📄 html tag_solution.ipynb
+│   │   ├── 📄 html tag.ipynb
+│   │   ├── 📄 remove nth character_solution.ipynb
+│   │   ├── 📄 remove nth character.ipynb
+│   │   ├── 📄 unique_word.ipynb
+│   │   ├── 📄 unique_word_solution.ipynb
+│   │   ├── 📄 word_count_solution.ipynb
+│   │   ├── 📄 character_exchange_solution.ipynb
+│   │   ├── 📄 word_count.ipynb
+│   │   ├── 📄 character_exchange.ipynb
+│   │   ├── 📄 longest_word_solution.ipynb
+│   │   ├── 📄 longest_word.ipynb
+│   │   ├── 📄 string_length_solution.ipynb
+│   │   ├── 📄 string_length.ipynb
+│   │   └── 📁 .ipynb_checkpoints/
+│   │       ├── 📄 caesar_encryption-checkpoint.ipynb
+│   │       ├── 📄 caesar_encryption_solution-checkpoint.ipynb
+│   │       ├── 📄 count_character_solution-checkpoint.ipynb
+│   │       └── 📄 count_character-checkpoint.ipynb
+│   ├── 📁 math/
+│   │   ├── 📄 binary_to_decimal_solution.ipynb
+│   │   ├── 📄 binary_to_decimal.ipynb
+│   │   ├── 📄 flip_a_coin_solution.ipynb
+│   │   ├── 📄 flip_a_coin.ipynb
+│   │   ├── 📄 standard_deviation_solution.ipynb
+│   │   ├── 📄 standard_deviation.ipynb
+│   │   ├── 📄 round_up_solution.ipynb
+│   │   ├── 📄 round_up.ipynb
+│   │   ├── 📄 random_solution.ipynb
+│   │   └── 📄 random.ipynb
+│   ├── 📁 numpy/
+│   │   ├── 📄 100 Numpy exercises.ipynb
+│   │   ├── 📄 100 Numpy exercises_solution.ipynb
+│   │   └── 📁 .ipynb_checkpoints/
+│   │       ├── 📄 100 Numpy exercises-checkpoint.ipynb
+│   │       └── 📄 100 Numpy exercises_solution-checkpoint.ipynb
+│   ├── 📁 recursion/
+│   │   ├── 📄 a_power_by_b_solution.ipynb
+│   │   ├── 📄 a_power_by_b.ipynb
+│   │   ├── 📄 greatest_gcd_solution.ipynb
+│   │   ├── 📄 greatest_gcd.ipynb
+│   │   ├── 📄 fibonaci_solution.ipynb
+│   │   ├── 📄 fractorial_solution.ipynb
+│   │   ├── 📄 fibonaci.ipynb
+│   │   ├── 📄 fractorial.ipynb
+│   │   ├── 📄 sum_of_list_solution.ipynb
+│   │   └── 📄 sum_of_list.ipynb
+│   ├── 📁 list/
+│   │   ├── 📄 characters_to_string_solution.ipynb
+│   │   ├── 📄 characters_to_string.ipynb
+│   │   ├── 📄 common_items_solution.ipynb
+│   │   ├── 📄 common_items.ipynb
+│   │   ├── 📄 check_a_list_contains_sublist_solution.ipynb
+│   │   ├── 📄 check_a_list_contains_sublist.ipynb
+│   │   ├── 📄 frequency_of_elements_solution.ipynb
+│   │   ├── 📄 frequency_of_elements.ipynb
+│   │   ├── 📄 second_smallest_solution.ipynb
+│   │   ├── 📄 second_smallest.ipynb
+│   │   ├── 📄 diff_between_2_solution.ipynb
+│   │   ├── 📄 diff_between_2.ipynb
+│   │   ├── 📄 permutations_solution.ipynb
+│   │   ├── 📄 permutations.ipynb
+│   │   ├── 📄 remove_duplicate_solution.ipynb
+│   │   ├── 📄 remove_duplicate.ipynb
+│   │   ├── 📄 find_max_solution.ipynb
+│   │   ├── 📄 find_max.ipynb
+│   │   ├── 📄 sum_list_solution.ipynb
+│   │   ├── 📄 sum_list.ipynb
+│   │   └── 📁 .ipynb_checkpoints/
+│   │       ├── 📄 characters_to_string_solution-checkpoint.ipynb
+│   │       └── 📄 characters_to_string-checkpoint.ipynb
+│   ├── 📁 regex/
+│   │   ├── 📄 check_string_solution.ipynb
+│   │   ├── 📄 check_string.ipynb
+│   │   ├── 📄 remove_zero_solution.ipynb
+│   │   ├── 📄 remove_zero.ipynb
+│   │   ├── 📄 all_word_contain_5_chracters_solution.ipynb
+│   │   ├── 📄 all_word_contain_5_chracters.ipynb
+│   │   ├── 📄 remove_white_space_solution.ipynb
+│   │   ├── 📄 remove_white_space.ipynb
+│   │   ├── 📄 keep_alphanumeric_only_solution.ipynb
+│   │   ├── 📄 keep_alphanumeric_only.ipynb
+│   │   ├── 📄 find_url_solution.ipynb
+│   │   ├── 📄 find_url.ipynb
+│   │   ├── 📄 remove_parenthesis_solution.ipynb
+│   │   ├── 📄 remove_parenthesis.ipynb
+│   │   ├── 📄 find_substring_solution.ipynb
+│   │   └── 📄 find_substring.ipynb
+│   └── 📁 sort/
+│       ├── 📄 insertion_sort_implement_solution.ipynb
+│       ├── 📄 insertion_sort_implement.ipynb
+│       ├── 📄 shell_sort_implement_solution.ipynb
+│       ├── 📄 merge_sort_implement_solution.ipynb
+│       ├── 📄 shell_sort_implement.ipynb
+│       ├── 📄 merge_sort_implement.ipynb
+│       ├── 📄 quick_sort_implement_solution.ipynb
+│       ├── 📄 quick_sort_implement.ipynb
+│       ├── 📄 selection_sort_implement_solution.ipynb
+│       ├── 📄 selection_sort_implement.ipynb
+│       ├── 📄 buble_sort_implement.ipynb
+│       └── 📄 buble_sort_implement_solution.ipynb
+├── 🔗📁 course python (videos)/  (raccourci)
+│   ├── 📁 Making Games with Python - W.T.E. Official Community/
+│   │   ├── 📄 Tree_Ugly.png
+│   │   ├── 📄 wormy.py
+│   │   ├── 📄 Tree_Tall.png
+│   │   ├── 📄 Wood_Block_Tall.png
+│   │   ├── 📄 Wall_Block_Tall.png
+│   │   ├── 📄 tetrominoforidiots.py
+│   │   ├── 📄 Tree_Short.png
+│   │   ├── 📄 tetromino.py
+│   │   ├── 📄 tetrisc.mid
+│   │   ├── 📄 tetrisb.mid
+│   │   ├── 📄 star_title.png
+│   │   ├── 📄 star_solved.png
+│   │   ├── 📄 starPusherLevels.txt
+│   │   ├── 📄 squirrel.png
+│   │   ├── 📄 starpusher.py
+│   │   ├── 📄 squirrel.py
+│   │   ├── 📄 Star.png
+│   │   ├── 📄 slidepuzzle.py
+│   │   ├── 📄 Plain_Block.png
+│   │   ├── 📄 simulate.py
+│   │   ├── 📄 Rock.png
+│   │   ├── 📄 Selector.png
+│   │   ├── 📄 RedSelector.png
+│   │   ├── 📄 princess.png
+│   │   ├── 📄 pinkgirl.png
+│   │   ├── 📄 memorypuzzle_obfuscated.py
+│   │   ├── 📄 pentomino.py
+│   │   ├── 📄 memorypuzzle.py
+│   │   ├── 📄 match5.wav
+│   │   ├── 📄 match4.wav
+│   │   ├── 📄 match3.wav
+│   │   ├── 📄 match2.wav
+│   │   ├── 📄 match1.wav
+│   │   ├── 📄 inkspillspot.png
+│   │   ├── 📄 match0.wav
+│   │   ├── 📄 inkspillsettingsbutton.png
+│   │   ├── 📄 inkspillsettings.png
+│   │   ├── 📄 inkspillresetbutton.png
+│   │   ├── 📄 inkspilllogo.png
+│   │   ├── 📄 inkspill.py
+│   │   ├── 📄 grass2.png
+│   │   ├── 📄 grass3.png
+│   │   ├── 📄 gemgem.py
+│   │   ├── 📄 grass4.png
+│   │   ├── 📄 Grass_Block.png
+│   │   ├── 📄 grass1.png
+│   │   ├── 📄 horngirl.png
+│   │   ├── 📄 gem7.png
+│   │   ├── 📄 gem4.png
+│   │   ├── 📄 gem6.png
+│   │   ├── 📄 gem5.png
+│   │   ├── 📄 gem2.png
+│   │   ├── 📄 gem3.png
+│   │   ├── 📄 gem1.png
+│   │   ├── 📄 gameicon.png
+│   │   ├── 📄 freesansbold.ttf
+│   │   ├── 📄 fourinarow.py
+│   │   ├── 📄 flippyboard.png
+│   │   ├── 📄 flippybackground.png
+│   │   ├── 📄 flippy.py
+│   │   ├── 📄 drawing.py
+│   │   ├── 📄 catgirl.png
+│   │   ├── 📄 cat.png
+│   │   ├── 📄 catanimation.py
+│   │   ├── 📄 boy.png
+│   │   ├── 📄 blankpygame.py
+│   │   ├── 📄 beep4.ogg
+│   │   ├── 📄 beep3.ogg
+│   │   ├── 📄 beep2.ogg
+│   │   ├── 📄 beep1.ogg
+│   │   ├── 📄 badswap.wav
+│   │   ├── 📄 4row_tie.png
+│   │   ├── 📄 4row_board.png
+│   │   ├── 📄 4row_computerwinner.png
+│   │   ├── 📄 4row_red.png
+│   │   ├── 📄 4row_humanwinner.png
+│   │   ├── 📄 4row_black.png
+│   │   ├── 📄 4row_arrow.png
+│   │   └── 📁 E-book/
+│   │       └── 📄 MakingGames.pdf
+│   ├── 📁 12. Asynchronous Python Development/
+│   │   ├── 📄 8. Using Python concurrent.futures the ThreadPoolExecutor.mp4
+│   │   ├── 📄 7. Example threads in Python.mp4
+│   │   ├── 📄 6. The Python GIL.mp4
+│   │   ├── 📄 26. Conclusion of this section.mp4
+│   │   ├── 📄 25. A note on HTTPS with Python and Mac OS X.mp4
+│   │   ├── 📄 4. The Dining Philosophers Problem.mp4
+│   │   ├── 📄 24. Turning our book scraping project async.mp4
+│   │   ├── 📄 22. Getting multiple pages efficiently.mp4
+│   │   ├── 📄 23. Using async_timeout for security.mp4
+│   │   ├── 📄 21. Making our first async request in Python.mp4
+│   │   ├── 📄 20. Our asynchronous scraper.mp4
+│   │   ├── 📄 19. Watch these talks for more explanations and examples!.mp4
+│   │   ├── 📄 18. The async and await keywords.mp4
+│   │   ├── 📄 17. Receiving data through yield.mp4
+│   │   ├── 📄 15. Our first single-threaded task scheduler in Python.mp4
+│   │   ├── 📄 16. Yielding from another iterator in Python.mp4
+│   │   ├── 📄 13. Queuing in threads with shared state.mp4
+│   │   ├── 📄 14. Using Python generators instead of threads.mp4
+│   │   ├── 📄 11. Using Python concurrent.futures the ProcessPoolExecutor.mp4
+│   │   ├── 📄 12. Dealing with shared state in threads.mp4
+│   │   ├── 📄 10. Multiprocessing in Python.mp4
+│   │   └── 📄 21.2 0_first_async_request.py.py
+│   ├── 📁 10. Advanced Python Development/
+│   │   ├── 📄 8. Some interesting Python collections.mp4
+│   │   ├── 📄 6. Argument unpacking in Python.mp4
+│   │   ├── 📄 7. Queues in Python.mp4
+│   │   ├── 📄 5. Mutable default arguments (bad idea).mp4
+│   │   ├── 📄 4. Default values for parameters.mp4
+│   │   ├── 📄 20. Conclusion of this section.mp4
+│   │   ├── 📄 3. Argument mutability in Python.mp4
+│   │   ├── 📄 19. Logging to a file and other features.mp4
+│   │   ├── 📄 2. Mutability in Python.mp4
+│   │   ├── 📄 18. Introduction to logging in Python.mp4
+│   │   ├── 📄 15. Regex examples.mp4
+│   │   ├── 📄 14. Regular expressions.mp4
+│   │   ├── 📄 13. Timing your code with Python.mp4
+│   │   ├── 📄 11. Timezones.mp4
+│   │   ├── 📄 12. Dates and time in Python.mp4
+│   │   ├── 📄 1. Introduction to this section.mp4
+│   │   └── 📄 12.2 Datetime cheatsheet.pdf.pdf
+│   ├── 📁 11. Web Scraping with Python/
+│   │   ├── 📄 9. Milestone Project 3 A Quote Scraper.mp4
+│   │   ├── 📄 8. Scraping our first website with Python.mp4
+│   │   ├── 📄 7. Understanding HTML with the browser.mp4
+│   │   ├── 📄 6. Splitting HTML locators out of our Python class.mp4
+│   │   ├── 📄 5. Structuring our parsing program better.mp4
+│   │   ├── 📄 4. More complex HTML parsing.mp4
+│   │   ├── 📄 30. Conclusion of this section.mp4
+│   │   ├── 📄 3. Understanding HTML with BeautifulSoup.mp4
+│   │   ├── 📄 28. A word on scraping pages with JavaScript.mp4
+│   │   ├── 📄 27. Books Project 12 Adding logging to our Python project.mp4
+│   │   ├── 📄 25. Books Project 10 Multiple pages in Python.mp4
+│   │   ├── 📄 26. Books Project 11 Getting the page count in Python.mp4
+│   │   ├── 📄 24. Books Project 9 Getting multiple pages.mp4
+│   │   ├── 📄 23. ASIDE The best way to write user menus.mp4
+│   │   ├── 📄 22. Books Project 8 Constructing our menu.mp4
+│   │   ├── 📄 21. Books Project 7 Sorting the books.mp4
+│   │   ├── 📄 20. Books Project 6 Writing our app file.mp4
+│   │   ├── 📄 18. Books Project 4 Creating our page.mp4
+│   │   ├── 📄 19. Books Project 5 Creating our book parser.mp4
+│   │   ├── 📄 17. Books Project 3 Creating locators in Python.mp4
+│   │   ├── 📄 16. Books Project 2 Recap of HTML locators.mp4
+│   │   ├── 📄 15. Milestone Project 4 A Book Scraper + application.mp4
+│   │   ├── 📄 14. Quotes Project 6 Recap of the project.mp4
+│   │   ├── 📄 13. Quotes Project 5 The quotes page.mp4
+│   │   ├── 📄 12. Quotes Project 4 Crafting our quote parser.mp4
+│   │   ├── 📄 11. Quotes Project 3 Getting our locators.mp4
+│   │   ├── 📄 10. Quotes Project 2 Structuring a scraping app in Python.mp4
+│   │   └── 📄 1. Introduction to this section.mp4
+│   ├── 📁 1. Intro to Python/
+│   │   ├── 📄 4. Our Python coding environment.mp4
+│   │   ├── 📄 27. Conclusion of this section.mp4
+│   │   ├── 📄 3. Introduction to this section.mp4
+│   │   └── 📄 24. Calculating the length of lists.mp4
+│   ├── 📁 6. Files in Python/
+│   │   ├── 📄 8. JSON files with Python.mp4
+│   │   ├── 📄 7. CSV files with Python.mp4
+│   │   ├── 📄 4. Python Exercise copying files.mp4
+│   │   ├── 📄 3. Files in Python.mp4
+│   │   ├── 📄 19. Conclusion of this section.mp4
+│   │   ├── 📄 17. Import errors and running as a Python script.mp4
+│   │   ├── 📄 16. Python relative imports parents.mp4
+│   │   ├── 📄 12. Importing our own files.mp4
+│   │   ├── 📄 13. Python relative imports children.mp4
+│   │   ├── 📄 11. Using the with syntax in Python.mp4
+│   │   └── 📄 1. Introduction to this section.mp4
+│   ├── 📁 8. Type hinting in Python/
+│   │   ├── 📄 4. Conclusion of this section.mp4
+│   │   ├── 📄 3. Further reading.mp4
+│   │   ├── 📄 2. Typing in Python.mp4
+│   │   └── 📄 1. Introduction to this section.mp4
+│   ├── 📁 13. Python on the console and managing project dependencies/
+│   │   ├── 📄 9. Conclusion of this section.mp4
+│   │   ├── 📄 7. Terminal video Pipenv and virtualenv.mp4
+│   │   ├── 📄 6. Terminal video using Pipenv.mp4
+│   │   ├── 📄 5. Terminal video navigating the terminal and using virtualenv.mp4
+│   │   ├── 📄 3. Terminal video running Python.mp4
+│   │   ├── 📄 4. Terminal video what is a virtualenv.mp4
+│   │   ├── 📄 1. Intro to this section.mp4
+│   │   ├── 📄 2. Running Python in the console.mp4
+│   │   └── 📄 8.1 using_pipenv.pdf.pdf
+│   ├── 📁 2. Functions and loops in Python/
+│   │   ├── 📄 8. Two important loop keywords + finding prime numbers.mp4
+│   │   ├── 📄 7. For loops, range(), and tuple destructuring in Python.mp4
+│   │   ├── 📄 23. Conclusion of this section.mp4
+│   │   ├── 📄 21. Lambda, first-class, and higher order functions in Python.mp4
+│   │   ├── 📄 4. While loops in Python.mp4
+│   │   ├── 📄 2. If statements in Python.mp4
+│   │   ├── 📄 18. Functions, arguments, and parameters in Python.mp4
+│   │   ├── 📄 19. Functions and return values in Python.mp4
+│   │   ├── 📄 13. List comprehension in Python.mp4
+│   │   ├── 📄 14. Set and dictionary comprehensions.mp4
+│   │   ├── 📄 1. Introduction to this section.mp4
+│   │   └── 📄 12. List slicing in Python.mp4
+│   ├── 📁 7. Databases in Python _ Milestone Project 2/
+│   │   ├── 📄 9. Using SQLite in Python.mp4
+│   │   ├── 📄 8. Intro to databases with Python.mp4
+│   │   ├── 📄 6. Storing books in files.mp4
+│   │   ├── 📄 3. Intro to Milestone Project 2.mp4
+│   │   ├── 📄 22. Conclusion of this section.mp4
+│   │   ├── 📄 20. Errors in context managers.mp4
+│   │   ├── 📄 3.1 milestone_project_2_brief.pdf.pdf
+│   │   └── 📄 4.1 milestone_project_2_brief.pdf.pdf
+│   ├── 📁 5. Errors in Python/
+│   │   ├── 📄 9. Creating our own errors in Python.mp4
+│   │   ├── 📄 6. Raising errors in Python.mp4
+│   │   ├── 📄 4. Built in errors in Python.mp4
+│   │   ├── 📄 3. Intro to errors in Python.mp4
+│   │   ├── 📄 22. Conclusion of this section.mp4
+│   │   ├── 📄 16. Handling those pesky user errors!.mp4
+│   │   ├── 📄 12. Dealing with Python errors.mp4
+│   │   └── 📄 1. Introduction to this section.mp4
+│   ├── 📁 16. Advanced Object-Oriented Programming/
+│   │   ├── 📄 7. The relationship between ABCs and interfaces.mp4
+│   │   ├── 📄 6. The usefulness of ABCs.mp4
+│   │   ├── 📄 5. Intro to ABCs in Python.mp4
+│   │   ├── 📄 12. Conclusion of this section.mp4
+│   │   ├── 📄 1. Introduction to this section.mp4
+│   │   └── 📄 10. The property setter in Python.mp4
+│   ├── 📁 18. Python libraries/
+│   │   ├── 📄 9. Conclusion of this section.mp4
+│   │   ├── 📄 7. Creating a re-usable Mailgun library.mp4
+│   │   ├── 📄 2. Python libraries overview.mp4
+│   │   └── 📄 1. Introduction to this section.mp4
+│   ├── 📁 15. Decorators in Python/
+│   │   ├── 📄 9. Functions that accept multiple arguments.mp4
+│   │   ├── 📄 7. Decorating functions with parameters.mp4
+│   │   ├── 📄 8. Decorators with parameters.mp4
+│   │   ├── 📄 5. Using a @syntax.mp4
+│   │   ├── 📄 6. Functools wraps in Python.mp4
+│   │   ├── 📄 2. A simple decorator in Python.mp4
+│   │   ├── 📄 13. Conclusion of this section.mp4
+│   │   ├── 📄 10. Generic decorators for any function.mp4
+│   │   └── 📄 1. Introduction to this section.mp4
+│   └── 📁 3. Milestone Project 1/
+│       └── 📄 7.1 milestone_project_brief.pdf.pdf
+├── 📄 Résumé et exercices 
+├── 🔗📁 Cours et exo par chapitre/  (raccourci)
+│   ├── 📄 INFO SUP.rar
+│   ├── 📄 Apprendre à programmer avec Python  Avec plus de 40 pages d’exercices corrigés !.pdf
+│   ├── 📁 1- Algorithmique & Programmation/
+│   │   ├── 📁 TD/
+│   │   │   ├── 📁 Série1/
+│   │   │   │   ├── 📄 Série1.doc
+│   │   │   │   ├── 📄 Ex5.doc
+│   │   │   │   ├── 📄 EX9.py
+│   │   │   │   ├── 📄 EX6.py
+│   │   │   │   ├── 📄 EX7.py
+│   │   │   │   ├── 📄 EX8.py
+│   │   │   │   ├── 📄 EX5.py
+│   │   │   │   ├── 📄 EX5 V2.py
+│   │   │   │   ├── 📄 EX4.py
+│   │   │   │   ├── 📄 EX3.py
+│   │   │   │   ├── 📄 EX2.py
+│   │   │   │   ├── 📄 EX11.py
+│   │   │   │   ├── 📄 EX10.py
+│   │   │   │   ├── 📄 EX1 V3.py
+│   │   │   │   ├── 📄 EX1 V2.py
+│   │   │   │   └── 📄 EX1 V1.py
+│   │   │   ├── 📁 TD1/
+│   │   │   │   ├── 📄 TD1.doc
+│   │   │   │   ├── 📄 EX5.py
+│   │   │   │   ├── 📄 EX6.py
+│   │   │   │   ├── 📄 EX4.py
+│   │   │   │   ├── 📄 EX3.py
+│   │   │   │   ├── 📄 EX2 V2.py
+│   │   │   │   ├── 📄 EX2 V1.py
+│   │   │   │   └── 📄 EX1.py
+│   │   │   └── 📁 TD2/
+│   │   │       ├── 📄 TD2.doc
+│   │   │       ├── 📄 EX9 V2.py
+│   │   │       ├── 📄 EX9 V1.py
+│   │   │       ├── 📄 EX8.py
+│   │   │       ├── 📄 fibonacci.py
+│   │   │       ├── 📄 EX7.py
+│   │   │       ├── 📄 EX5.py
+│   │   │       ├── 📄 EX6.py
+│   │   │       ├── 📄 EX4 V2.py
+│   │   │       ├── 📄 EX4 V1.py
+│   │   │       ├── 📄 EX10.py
+│   │   │       ├── 📄 EX2.py
+│   │   │       ├── 📄 EX1 V2.py
+│   │   │       ├── 📄 EX3.py
+│   │   │       └── 📄 EX1 V1.py
+│   │   └── 📁 Cours/
+│   │       └── 📄 ALGORITHMIQUE ET PROGRAMMATION.doc
+│   ├── 📁 0-Généralités/
+│   │   ├── 📄 SYSTEME DE NUMERATION CPGE.ppt
+│   │   └── 📄 Genetalites.ppt
+│   ├── 📁 4-Pile file/
+│   │   ├── 📄 Pile_File.doc
+│   │   └── 📁 Exercices/
+│   │       ├── 📄 sda-td3-piles-files.pdf
+│   │       ├── 📄 PilesFiles_TD_SUJET.pdf
+│   │       ├── 📄 PilesFiles_TD_CORRIGE.pdf
+│   │       ├── 📄 TP (Expression polonaise).py
+│   │       └── 📄 exercices Piles Files.docx
+│   ├── 📁 2-Programmation Modulaire/
+│   │   ├── 📄 Fonctions.doc
+│   │   └── 📁 Execices/
+│   │       ├── 📄 TD.py
+│   │       ├── 📄 Exercices (Enoncé).doc
+│   │       └── 📄 Ex1.py
+│   ├── 📁 3-Tableaux/
+│   │   ├── 📁 TD-Tableaux/
+│   │   │   ├── 📄 TD (enoncé).doc
+│   │   │   └── 📁 Correction/
+│   │   │       ├── 📄 Serie2.py
+│   │   │       ├── 📄 Exercice9.py
+│   │   │       ├── 📄 Exercice7.py
+│   │   │       ├── 📄 Exercice8.py
+│   │   │       ├── 📄 Exercice6.py
+│   │   │       ├── 📄 Exercice5.py
+│   │   │       ├── 📄 Exercice4.py
+│   │   │       ├── 📄 Exercice3.py
+│   │   │       ├── 📄 Exercice2.py
+│   │   │       └── 📄 Exercice1.py
+│   │   ├── 📁 Cours/
+│   │   │   ├── 📄 Tableaux.doc
+│   │   │   └── 📄 Listes.doc
+│   │   ├── 📁 Series/
+│   │   │   ├── 📁 Série1/
+│   │   │   │   ├── 📄 Série1.doc
+│   │   │   │   └── 📁 Correction/
+│   │   │   │       ├── 📄 Exercice1.py
+│   │   │   │       └── 📄 Exercice2-7.py
+│   │   │   ├── 📁 Série2/
+│   │   │   │   ├── 📄 Serie2.doc
+│   │   │   │   └── 📁 Correction/
+│   │   │   │       ├── 📄 EX5.py
+│   │   │   │       ├── 📄 EX4.py
+│   │   │   │       ├── 📄 EX3.py
+│   │   │   │       ├── 📄 EX2.py
+│   │   │   │       └── 📄 EX1.py
+│   │   │   └── 📁 Série3/
+│   │   │       ├── 📄 Serie3.doc
+│   │   │       └── 📁 Correction/
+│   │   │           └── 📄 Serie3.py
+│   │   └── 📁 DS/
+│   │       ├── 📄 DS 1.pdf
+│   │       ├── 📄 DS.doc
+│   │       └── 📁 DS2-2015/
+│   │           ├── 📄 Devoir Surveillé 2.doc
+│   │           └── 📄 Correction Devoir Surveillé 2.doc
+│   ├── 📁 6-Types Composés/
+│   │   ├── 📄 Types composés en python.docx
+│   │   └── 📁 TD/
+│   │       ├── 📄 TD.py
+│   │       └── 📄 TD.doc
+│   ├── 📁 7-Fichiers/
+│   │   ├── 📁 TP_TDFichiers/
+│   │   │   ├── 📄 TP_TD_Fichiers.doc
+│   │   │   ├── 📄 ex3operFichiers.py
+│   │   │   ├── 📄 ex2Fichier.py
+│   │   │   ├── 📄 ex12Fichier.py
+│   │   │   ├── 📄 applic4.py
+│   │   │   ├── 📄 ex11Fichier.py
+│   │   │   └── 📄 appli5.py
+│   │   ├── 📁 cours/
+│   │   │   ├── 📄 Fichiers.doc
+│   │   │   ├── 📄 Fichiers.doc
+│   │   │   ├── 📄 Fichiers.doc
+│   │   │   └── 📄 ~$chiers.doc
+│   │   └── 📁 Serie2/
+│   │       ├── 📄 ~$Serie2.doc
+│   │       ├── 📄 ~$Serie2.doc
+│   │       ├── 📄 ~$Serie2.doc
+│   │       ├── 📄 serie2.py
+│   │       ├── 📄 ~$Serie2.doc
+│   │       ├── 📄 serie2.py
+│   │       ├── 📄 Serie2.doc
+│   │       └── 📄 Monfichier.txt
+│   ├── 📁 5-Chaines/
+│   │   ├── 📄 Chaînes.doc
+│   │   ├── 📁 TD1/
+│   │   │   ├── 📄 TD1_CHAINES.py
+│   │   │   └── 📄 TD1_Chaines.doc
+│   │   ├── 📁 TD2/
+│   │   │   ├── 📄 TD2_CHAINES.py
+│   │   │   └── 📄 TD2_Chaines.doc
+│   │   └── 📁 Exercices/
+│   │       ├── 📄 DS_1_MPSI.pdf
+│   │       ├── 📄 tp_cesar_vigenere.pdf
+│   │       ├── 📄 Majuscules.py
+│   │       ├── 📄 Majuscules.doc
+│   │       ├── 📄 Exercice Dates.doc
+│   │       ├── 📄 DateValide.py
+│   │       ├── 📄 corrige_DS_1_MPSI.pdf
+│   │       └── 📄 Chiffrement.py
+│   ├── 📁 Info/
+│   │   ├── 📄 1st class.py
+│   │   ├── 📄 poly_python.pdf
+│   │   ├── 📄 exos_corriges.pdf
+│   │   ├── 📄 223267-apprenez-a-programmer-en-python.pdf
+│   │   ├── 📄 programme_info_mpsi2013 (1).pdf
+│   │   ├── 📄 TD2-python.pdf
+│   │   ├── 📄 TD1-python.pdf
+│   │   ├── 📁 Boucles/
+│   │   │   ├── 📄 ex5.2.py
+│   │   │   ├── 📄 ex4.py
+│   │   │   ├── 📄 ex16.py
+│   │   │   ├── 📄 ex13.py
+│   │   │   ├── 📄 ex12.py
+│   │   │   ├── 📄 ex1.py
+│   │   │   ├── 📄 EX1.2.py
+│   │   │   ├── 📄 ex 13.py
+│   │   │   ├── 📄 ex 12.py
+│   │   │   └── 📄 ex 14.py
+│   │   └── 📁 Projets Python/
+│   │       ├── 📄 ZCasino.py
+│   │       ├── 📄 turtle.py
+│   │       └── 📄 ex2.py
+│   ├── 📁 8-Ingénierie Numérique/
+│   │   ├── 📁 1-Généralités/
+│   │   │   ├── 📄 INGENIENIE NUMERIQUE.doc
+│   │   │   ├── 📄 trace_cos_sin.py
+│   │   │   ├── 📄 TP26.py
+│   │   │   ├── 📄 Plot3DPython.py
+│   │   │   ├── 📄 DervivéFormel.py
+│   │   │   └── 📄 calcul integrale.py
+│   │   ├── 📁 4-Equations diff/
+│   │   │   ├── 📄 support.pdf
+│   │   │   ├── 📄 2-Système Equation Diff.docx
+│   │   │   ├── 📄 3-Equations différentielles(correction).docx
+│   │   │   ├── 📄 ~$Equations diff.docx
+│   │   │   ├── 📄 4-Système Equation Diff(correction).docx
+│   │   │   ├── 📄 1-Equations diff.docx
+│   │   │   ├── 📄 recapitulatif.pdf
+│   │   │   └── 📁 Codes/
+│   │   │       ├── 📄 plot_simple_pendulum.py
+│   │   │       ├── 📄 plot_chaos.py
+│   │   │       ├── 📄 PenduleSimple.py
+│   │   │       ├── 📄 Modele_animation_002_Pesanteur.py
+│   │   │       ├── 📄 euler2.py
+│   │   │       └── 📄 Difusiondelachaleurlelongd'unebarre.py
+│   │   ├── 📁 3-Integration/
+│   │   │   ├── 📄 Integrations.py
+│   │   │   ├── 📄 Integrations.docx
+│   │   │   └── 📄 calcul integrale.py
+│   │   ├── 📁 2-Equations/
+│   │   │   ├── 📄 tp11-pivot gauss.pdf
+│   │   │   ├── 📄 Resolution equations.py
+│   │   │   ├── 📄 Resolution Equations.docx
+│   │   │   ├── 📄 ch_zeros.pdf
+│   │   │   ├── 📄 Newton.py
+│   │   │   ├── 📄 bisect.py
+│   │   │   ├── 📄 Derive.py
+│   │   │   ├── 📄 Euler.py
+│   │   │   └── 📄 dichotomie.py
+│   │   └── 📁 Exercices/
+│   │       ├── 📄 Ds3.doc
+│   │       ├── 📄 Ds3.doc
+│   │       ├── 📄 Ds3.doc
+│   │       ├── 📄 Ds3.doc
+│   │       ├── 📄 ds4_3.doc
+│   │       ├── 📄 Ds3.doc
+│   │       ├── 📄 ds4_3.doc
+│   │       ├── 📄 y_seconde_-y.py
+│   │       ├── 📄 RLC2.py
+│   │       ├── 📄 PendulePythonAmorti.py
+│   │       ├── 📄 RLC.py
+│   │       ├── 📄 parachute.py
+│   │       ├── 📄 pendule.py
+│   │       ├── 📄 lamda_omega.py
+│   │       ├── 📄 ds4_3cor.doc
+│   │       ├── 📄 Ex1.py
+│   │       ├── 📄 euler2.py
+│   │       ├── 📄 DS 2.pdf
+│   │       ├── 📄 Ds3 correction.doc
+│   │       ├── 📄 Circuit RC.py
+│   │       ├── 📁 TP 1-33 (Très important)/
+│   │       │   ├── 📄 tp1-33(tres important).pdf
+│   │       │   ├── 📁 TP26/
+│   │       │   │   ├── 📄 TP26.py
+│   │       │   │   └── 📄 TP26.docx
+│   │       │   └── 📁 TP24/
+│   │       │       └── 📄 tp24.pdf
+│   │       └── 📁 TD- IPT- Ingénierie Numérique/
+│   │           ├── 📁 td5-Systèmes Linéaires-Matrices/
+│   │           │   ├── 📄 IPT-TD5-InversionSystLin_PontCheviré_v2013-14.pdf
+│   │           │   ├── 📄 IPT-TD5-InversionSystLin_PontCheviré_v2013-14.doc
+│   │           │   └── 📄 IPT-TD5-Matrices_ElèveMPSI.py
+│   │           ├── 📁 td3-integrationnumerique-euler/
+│   │           │   ├── 📄 IPT-TD3-IntégrationNumérique-Euler_v2013-14.doc
+│   │           │   ├── 📄 IPT-TD3-IntNum-E-Chauffage_vProf.py
+│   │           │   ├── 📄 IPT-TD3-IntégrationNumérique-Euler_v2013-14.pdf
+│   │           │   ├── 📄 IPT-TD3-IntégrationNumérique-Euler_v2013-14.pdf
+│   │           │   ├── 📄 IPT-TD3-IntNum-E-Chauffage_vProf.py
+│   │           │   ├── 📄 IPT-TD3-IntNum-E-Chauffage_vEleve.py
+│   │           │   ├── 📄 IPT-TD3-IntNum-D-AudiMultitronic_vProf.py
+│   │           │   ├── 📄 IPT-TD3-IntNum-C_vProf.py
+│   │           │   ├── 📄 IPT-TD3-IntNum-D-AudiMultitronic_vEleve.py
+│   │           │   └── 📄 IPT-TD3-IntNum-C_vEleve.py
+│   │           └── 📁 td2-dichotomie-newton/
+│   │               ├── 📄 IPT-TD2-Dichotomie-Newton_v2013-14(correction).docx
+│   │               ├── 📄 IPT-TD2-Dichotomie-Newton_v2013-14(correction).docx
+│   │               ├── 📄 IPT-TD2-Dichotomie-Newton_v2013-14.doc
+│   │               ├── 📄 IPT-TD2-Dichotomie-Newton_v2013-14.doc
+│   │               ├── 📄 IPT-TD2-Dichotomie-Newton_v2013-14(correction).docx
+│   │               ├── 📄 IPT-TD2-Dichotomie-Newton_v2013-14(correction).docx
+│   │               ├── 📄 IPT-TD2-Dichotomie-Newton_v2013-14.doc
+│   │               ├── 📄 IPT-TD2-Dichotomie-Newton_v2013-14.pdf
+│   │               └── 📄 IPT-TD2-NewtonDichotomie_v3.py
+│   └── 📁 DS/
+│       ├── 📄 Exercices.pdf
+│       ├── 📄 DS_N_5_SM2_TSI.pdf
+│       ├── 📄 DS_cnc2012.pdf
+│       ├── 📄 DS_1_MPSI.pdf
+│       ├── 📄 DS(cnc2012).pdf
+│       ├── 📄 DS Python 26_03-2014.pdf
+│       ├── 📄 DS Python 29_03-2014.pdf
+│       ├── 📄 tp_cesar_vigenere.pdf
+│       ├── 📄 DSmatrice.docx
+│       ├── 📄 TD DICTIONNAIRE.doc
+│       ├── 📄 numpy-quickref_fr.pdf
+│       ├── 📄 SUP DS2.docx
+│       ├── 📄 DS N_4 MPSI 2014-Listes.pdf
+│       ├── 📄 DS N2 TR2.doc
+│       ├── 📄 DS LAAYOUN MPSI.pdf
+│       ├── 📄 DS 2.pdf
+│       ├── 📄 DS fonction python.pdf
+│       ├── 📄 DS2_Sup_MPSI3_prof_zbakh.pdf
+│       ├── 📄 DS1_Tr3.doc
+│       ├── 📄 DS1ereAnnee.doc
+│       ├── 📄 DS-Python-Mohammedia.doc
+│       ├── 📄 DS N_4 MPSI 2014-Listes.docx
+│       ├── 📄 DS LAAYOUN MPSI.pdf
+│       ├── 📄 corrige_DS_1_MPSI.pdf
+│       ├── 📄 DS 1.pdf
+│       ├── 📄 chiffrement Cesar.py
+│       ├── 📄 CNC 2013 Python.doc
+│       ├── 📄 Codage Reed Solomon.pdf
+│       ├── 📄 CNC Blanc.docx
+│       ├── 📁 DS1&2-2014/
+│       │   ├── 📄 Devoir Surveillé 2.doc
+│       │   ├── 📄 Devoir Surveillé 1.doc
+│       │   ├── 📄 Correction du Devoir Surveillé 1.doc
+│       │   └── 📄 Correction Devoir Surveillé 2.doc
+│       ├── 📁 DS-TELECHAGES/
+│       │   ├── 📄 DST-2013-corrige.pdf
+│       │   ├── 📄 DST-2013-corrige.pdf
+│       │   ├── 📄 DST-2013-sujet.pdf
+│       │   ├── 📄 DST-2013-corrige.pdf
+│       │   ├── 📄 DST-2013-sujet.pdf
+│       │   ├── 📄 DST-2013-corrige.pdf
+│       │   ├── 📄 DST-2013-sujet.pdf
+│       │   ├── 📄 DST-2013-sujet.pdf
+│       │   ├── 📄 DST-2013-corrige.pdf
+│       │   ├── 📄 DS2-2011-corrige.pdf
+│       │   ├── 📄 DST-2013-corrige.pdf
+│       │   ├── 📄 DS1-2014-corrige.pdf
+│       │   ├── 📄 DS1-2014-sujet.pdf
+│       │   ├── 📄 INF152-0809-S1-corrige.pdf
+│       │   ├── 📄 DST-2014-sujet.pdf
+│       │   ├── 📄 DST-2014-corrige.pdf
+│       │   ├── 📄 DS2-2011-corrige.pdf
+│       │   ├── 📄 INF152-DS-2007-2008.pdf
+│       │   ├── 📄 DST-2013-sujet.pdf
+│       │   ├── 📄 INF152-2007-2008-session2.pdf
+│       │   ├── 📄 INF152-2007-2008-session1.pdf
+│       │   ├── 📄 DST-2012-sujet.pdf
+│       │   ├── 📄 DS1-2012-corrige.pdf
+│       │   ├── 📄 DS1-2014-sujet.pdf
+│       │   ├── 📄 DS1-2013-corrige.pdf
+│       │   ├── 📄 DS1-2014-corrige.pdf
+│       │   ├── 📄 DS1-2013-sujet.pdf
+│       │   ├── 📄 DS1-2010.pdf
+│       │   ├── 📄 DS1-2010-corrige.pdf
+│       │   └── 📄 Correction-INF152-DS-2007-2008.py
+│       └── 📁 DS2-2015/
+│           ├── 📄 Devoir Surveillé 2.doc
+│           └── 📄 Correction Devoir Surveillé 2.doc
+├── 📁 autres drives/
+│   ├── 🔗📁 Python/  (raccourci)
+│   │   ├── 📄 Python Cour Master 1 GE GDD Phi 25-26.pdf
+│   │   ├── 📄 Python cour master 1 GE GDD Phi.pdf
+│   │   ├── 📄 Chapter 2 (1).pdf
+│   │   ├── 📄 chapter 1.pdf
+│   │   ├── 📄 PW 2.pdf
+│   │   ├── 📄 PW 2_solution.pdf
+│   │   ├── 📄 Python  course_010906.pdf
+│   │   ├── 📄 PW1 .pdf
+│   │   ├── 📄 PW1 python.pdf
+│   │   ├── 📄 chapter 1 pyton.pdf
+│   │   ├── 📄 TP8.pdf
+│   │   ├── 📄 TP7.pdf
+│   │   ├── 📄 TP6.pdf
+│   │   ├── 📄 TP4.pdf
+│   │   ├── 📄 TP5.pdf
+│   │   ├── 📄 TP3.pdf
+│   │   ├── 📄 TP2.pdf
+│   │   ├── 📄 TP1.pdf
+│   │   ├── 📄 Cours Python-20251019.zip
+│   │   ├── 📄 CTD_partie1_intro_bases_python.pdf
+│   │   ├── 📄 Cours3.pdf
+│   │   ├── 📄 Cours1.pdf
+│   │   ├── 📄 Cours2.pdf
+│   │   └── 📁 Homework /
+│   │       ├── 📁 2/
+│   │       └── 📁 1/
+│   │           ├── 📄 Homework B3_124326.pdf
+│   │           ├── 📄 Homework A5_124325.pdf
+│   │           ├── 📄 Homework A3_124323.pdf
+│   │           ├── 📄 Homework A2_124327.pdf
+│   │           └── 📄 Homework A1_124327.pdf
+│   ├── 🔗📁 Python Programmation/  (raccourci)
+│   │   ├── 📁 Tp/
+│   │   │   ├── 📁 Tp7/
+│   │   │   │   └── 📄 TP7 
+│   │   │   ├── 📁 TP6/
+│   │   │   │   └── 📄 TP6 
+│   │   │   ├── 📁 TP5/
+│   │   │   │   ├── 📄 Correction.pdf
+│   │   │   │   ├── 📄 Ex6
+│   │   │   │   └── 📄 TP5 : Les fonctions
+│   │   │   ├── 📁 Tp4/
+│   │   │   │   └── 📄 TP4
+│   │   │   ├── 📁 TP3/
+│   │   │   │   ├── 📄 Correction tp3
+│   │   │   │   ├── 📄 1
+│   │   │   │   └── 📄 2
+│   │   │   ├── 📁 TP2/
+│   │   │   │   └── 📄 TP2 : Liste et Chaîne
+│   │   │   └── 📁 TP1/
+│   │   │       ├── 📄 2
+│   │   │       └── 📄 1
+│   │   └── 📁 Cours/
+│   │       ├── 📁 Cours 2021/
+│   │       │   ├── 📄 Ch1
+│   │       │   ├── 📄 Ch2
+│   │       │   └── 📄 Ch3
+│   │       └── 📁 Cours (mme nassima) 2021/
+│   │           ├── 📄 Ch4
+│   │           ├── 📄 Ch3
+│   │           ├── 📄 Ch2
+│   │           └── 📄 Ch1
+│   ├── 🔗📁 Python/  (raccourci)
+│   │   ├── 📁 cours/
+│   │   │   ├── 📄 Python___chapter_1 (2).pdf
+│   │   │   ├── 📄 estsblib.zip
+│   │   │   ├── 📄 Python___chapter_2.pdf
+│   │   │   └── 📄 Python___chapter3 (1).pdf
+│   │   └── 📁 TPS/
+│   │       ├── 📄 Python___TP5 (1).pdf
+│   │       ├── 📄 Python___TP4 (1).pdf
+│   │       ├── 📄 Python___TP3_ (1).pdf
+│   │       ├── 📄 Python___TP2 (1).pdf
+│   │       └── 📄 Python___TP1.pdf
+│   ├── 🔗📁 PYTHON/  (raccourci)
+│   │   ├── 📄 untitled0.py
+│   │   ├── 📄 chatbot.py
+│   │   ├── 📄 untitled10.py
+│   │   ├── 📄 untitled9.py
+│   │   ├── 📄 untitled8.py
+│   │   ├── 📄 untitled7.py
+│   │   ├── 📄 untitled6.py
+│   │   ├── 📄 untitled5.py
+│   │   ├── 📄 untitled4.py
+│   │   ├── 📄 untitled3.py
+│   │   ├── 📄 untitled2.py
+│   │   ├── 📄 turtlee.py
+│   │   ├── 📄 Exemple1.py
+│   │   ├── 📄 ml example.py
+│   │   ├── 📄 testex2.py
+│   │   ├── 📄 EX4ese.py
+│   │   ├── 📄 EX3ese.py
+│   │   ├── 📄 EX2ese.py
+│   │   ├── 📄 EX1eseVS.py
+│   │   ├── 📄 EX1ese.py
+│   │   ├── 📄 325325727_5922938684412093_4959658835980900335_n.jpg
+│   │   ├── 📄 turtletest.py
+│   │   ├── 📄 exo9.py
+│   │   ├── 📄 exo8.py
+│   │   ├── 📄 exo7.py
+│   │   ├── 📄 exo6.py
+│   │   ├── 📄 exo5.py
+│   │   ├── 📄 exo4.py
+│   │   ├── 📄 exo3.py
+│   │   ├── 📄 exo2.py
+│   │   ├── 📄 exo1.py
+│   │   ├── 📄 TP3_Dessiner.pdf
+│   │   ├── 📄 TP2_POO.pdf
+│   │   ├── 📄 TP_N1_NotionsDeBase.pdf
+│   │   ├── 📄 Exercice_Python.pdf
+│   │   ├── 📄 MonCours_Programmation_avec_Python_Pour_les_M1_Instrumentation.pdf
+│   │   ├── 📄 Resume_Turtle.pdf
+│   │   ├── 📄 Chapite2_Cours_Programmation_avec_Python_Pour_les_M1_Instrumentation.pdf
+│   │   ├── 📁 TP2 Aero/
+│   │   │   ├── 📄 TP 2.pdf
+│   │   │   ├── 📄 TP 2.docx
+│   │   │   ├── 📄 manip3.py
+│   │   │   ├── 📄 manip2.py
+│   │   │   ├── 📄 manip1.py
+│   │   │   └── 📄 TP02_manipulation[2582].pdf
+│   │   ├── 📁 .vscode/
+│   │   │   ├── 📄 c_cpp_properties.json
+│   │   │   ├── 📄 settings.json
+│   │   │   └── 📄 launch.json
+│   │   └── 📁 TP1 Aero/
+│   │       ├── 📄 TP1.pdf
+│   │       ├── 📄 TP1.docx
+│   │       ├── 📄 sol1c.py
+│   │       ├── 📄 sol1b.py
+│   │       ├── 📄 sol1a.py
+│   │       └── 📄 TP01_manipulation.pdf
+│   ├── 🔗📁 PYTHON/  (raccourci)
+│   │   ├── 📄 VIDEOS COURS PYTHON
+│   │   ├── 📁 Cours N°7/
+│   │   │   ├── 📄 cooc.pdf
+│   │   │   ├── 📄 verbes.txt
+│   │   │   ├── 📄 text-b.txt
+│   │   │   └── 📄 python-7.pdf
+│   │   ├── 📁 Cours N°6/
+│   │   │   ├── 📄 text-b.txt
+│   │   │   ├── 📄 python-6.pdf
+│   │   │   └── 📄 flags.txt
+│   │   ├── 📁 Cours N°5/
+│   │   │   ├── 📄 t11-s25.py
+│   │   │   ├── 📄 t6-s15.py
+│   │   │   ├── 📄 t15-s37.py
+│   │   │   ├── 📄 t1-s5_s6.py
+│   │   │   ├── 📄 t5-s14.py
+│   │   │   ├── 📄 t10-s21.py
+│   │   │   ├── 📄 t8-s18.py
+│   │   │   ├── 📄 t3-s12.py
+│   │   │   ├── 📄 python-5.pdf
+│   │   │   ├── 📄 t14-s35.py
+│   │   │   ├── 📄 t16-s39.py
+│   │   │   ├── 📄 homme.txt
+│   │   │   ├── 📄 t4-s13.py
+│   │   │   ├── 📄 t18-s44.py
+│   │   │   ├── 📄 t2-s8_s9.py
+│   │   │   ├── 📄 t12-s26_s28.py
+│   │   │   ├── 📄 t13-s30_s31.py
+│   │   │   ├── 📄 text-b.txt
+│   │   │   ├── 📄 t17-s42.py
+│   │   │   ├── 📄 t7-s16.py
+│   │   │   └── 📄 t9-s19.py
+│   │   ├── 📁 Cours N°4/
+│   │   │   ├── 📄 python-4.pdf
+│   │   │   ├── 📄 TEST.zip
+│   │   │   ├── 📄 scripts.zip
+│   │   │   └── 📄 COURS4.zip
+│   │   ├── 📁 cours N°3/
+│   │   │   ├── 📄 python-3.pdf
+│   │   │   ├── 📄 lambda_s55.py
+│   │   │   ├── 📄 lambda_s53.py
+│   │   │   ├── 📄 def_packing_s45.py
+│   │   │   ├── 📄 enum_s30.py
+│   │   │   ├── 📄 get_s13.py
+│   │   │   ├── 📄 rstrip_s25.py
+│   │   │   ├── 📄 unpacking_packing_s49.py
+│   │   │   ├── 📄 lambda_s51.py
+│   │   │   └── 📄 get_s12.py
+│   │   ├── 📁 Cours N°2/
+│   │   │   ├── 📄 test14_s35.py
+│   │   │   ├── 📄 test13_s34.py
+│   │   │   ├── 📄 test12_s32.py
+│   │   │   ├── 📄 test11_s25_31.py
+│   │   │   ├── 📄 test10_s24.py
+│   │   │   ├── 📄 test9_s18-19.py
+│   │   │   ├── 📄 test6_s11.py
+│   │   │   ├── 📄 test7_s13.py
+│   │   │   ├── 📄 test4_s7.py
+│   │   │   ├── 📄 test5_s9.py
+│   │   │   ├── 📄 test8_s15.py
+│   │   │   ├── 📄 test3_s6.py
+│   │   │   ├── 📄 test1_s4.py
+│   │   │   ├── 📄 test2_s5.py
+│   │   │   ├── 📄 test16_s39.py
+│   │   │   ├── 📄 python-2.pdf
+│   │   │   └── 📄 test15_s36.py
+│   │   └── 📁 Cours N°1/
+│   │       ├── 📄 test1.py
+│   │       ├── 📄 python-1.pdf
+│   │       ├── 📄 fichier.txt
+│   │       ├── 📄 test10.py
+│   │       ├── 📄 test9.py
+│   │       ├── 📄 test8.py
+│   │       ├── 📄 test7.py
+│   │       ├── 📄 test6.py
+│   │       ├── 📄 test5.py
+│   │       ├── 📄 test4.py
+│   │       ├── 📄 test3.py
+│   │       └── 📄 test2.py
+│   └── 📁 Autre/
+│       ├── 📄 Cours_Python.pdf
+│       ├── 📄 Cours_Python(1)(1).pdf
+│       ├── 📄 exercice 1 et 2 page13.pdf
+│       ├── 📄 exo 3 page 14.pdf
+│       ├── 📄 python-cheatsheets.pdf
+│       ├── 📄 Python.pptx
+│       ├── 📄 Python(1) (1).pdf
+│       ├── 📄 Python(2).pdf
+│       └── 📄 TpSimulationVa.pdf
+├── 📁 Cours/
+│   ├── 📄 Cours python Lassoued 2020.pdf
+│   ├── 📄 Cours Python Introduction
+│   ├── 📄 Cours Gestion des Fichiers en Programmation
+│   ├── 📄 Cours Structure de donnees les piles et les files
+│   └── 📄 Cours Les Listes en Python
+├── 📁 Examens/
+│   ├── 📄 Examen PCSI 2013-2014
+│   ├── 📄 Examen Programmation Python
+│   ├── 📄 Examen PCSI 2013-2014
+│   ├── 📄 Examen Informatique Carre Magique
+│   ├── 📄 DevoirSurveilleInformatiqueTSIPCSI20132014
+│   ├── 📄 Examen PCSI Physique Chimie et sciences de l’ingénieur
+│   ├── 📄 Examen PCSI 2013-2014 DS N 1
+│   ├── 📄 DS LAAYOUN MPSI.pdf
+│   ├── 📄 DS LAAYOUN MPSI.pdf
+│   └── 📄 DS N_4 MPSI 2014-Listes.pdf
+└── 📁 Tds et exercices corrigés /
+    ├── 📄 Exercices corrigés py
+    ├── 📄 seriesExercices.pdf
+    ├── 📄 TD1python.pdf
+    ├── 📄 02_TDP_Python_API2.pdf
+    ├── 📄 01_TDP_Python_API2.pdf
+    ├── 📄 02_TDP_Python_API2.ipynb.txt
+    ├── 📄 01_TDP_Python_API2.ipynb.txt
+    ├── 📄 TD1python.pdf
+    ├── 📄 Exercices TD Python
+    ├── 📄 Exercices TD Informatique
+    ├── 📄 Exercices TD Informatique
+    ├── 📄 Exercices TD Fonctions en Python
+    ├── 📄 TD1python
+    ├── 📄 Exercices TD Python
+    ├── 📄 Exercices TD Programmation Python
+    ├── 📄 Exercices TD Numération et Cryptographie
+    ├── 📄 Exercices TD Gestion des appels téléphoniques
+    ├── 📄 Exercices TD MPSI831 Lycée Masséna DS 1 Corrigé
+    ├── 📄 Exercices TD Structures Linéaires Piles et Files
+    ├── 📄 Exercices TD Piles et files
+    ├── 📄 Exercices TD Piles et files
+    ├── 📄 Exercices TD Chaines de caracteres
+    ├── 📄 Exercices TD Chaines de caracteres
+    ├── 📄 Exercices TD Les Dictionnaires
+    ├── 📄 Exercices TD Programmation Fichiers
+    ├── 📄 Exercices TP Manipulations de fichiers Python
+    ├── 📄 Exercices TD Python Tableaux
+    ├── 📄 Exercices TD Programmation Python
+    ├── 📄 Exercices TD Programmation Tableaux
+    ├── 📄 Exercices TD Programmation
+    ├── 📄 Exercices TD Tableaux
+    ├── 📄 Exercices TD Chaines de caracteres
+    └── 📄 Exercices TP Manipulations de fichiers Python
+
+═════════════════════════════════════
+  Fin du fichier · Python
+═════════════════════════════════════

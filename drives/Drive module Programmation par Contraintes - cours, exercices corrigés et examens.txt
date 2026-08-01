@@ -1,0 +1,84 @@
+📚 MODULE : Programmation par Contraintes             
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Programmation par Contraintes.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Programmation par Contraintes/
+├── 📄 Programmation par Contraintes-20260608T192031Z-3-001.zip
+└── 🔗📁 Programmation par Contraintes/  (raccourci)
+    ├── 📁 Séries du TD _ TP/
+    │   ├── 📁 Séries du TP/
+    │   │   ├── 📁 Corr Série TP 02 (PPC)/
+    │   │   │   ├── 📄 Job Shop.pl
+    │   │   │   ├── 📄 Sudoku.pl
+    │   │   │   └── 📄 Reines.pl
+    │   │   └── 📁 Série TP 01 + Corr (PPC)/
+    │   │       ├── 📄 PPC - Corr TP 01.pl
+    │   │       └── 📄 PPC - TP 01.pdf
+    │   └── 📁 Séries du TD/
+    │       ├── 📄 Solutions TD - PPC [A. MOUSSAOUI].pdf
+    │       ├── 📁 Série TD 03 + Corr (PPC)/
+    │       │   ├── 📄 PPC - Corr TD 03.pdf
+    │       │   └── 📄 PPC - TD 03.pdf
+    │       ├── 📁 Série TD 01 + Corr (PPC)/
+    │       │   ├── 📄 PPC - Corr TD 01.pdf
+    │       │   └── 📄 PPC - TD 01.pdf
+    │       └── 📁 Série TD 02 + Corr (PPC)/
+    │           ├── 📄 PPC - Corr TD 02 (Exercice 3).pdf
+    │           └── 📄 PPC - TD 02.pdf
+    ├── 📁 Cours/
+    │   ├── 📄 Chapitre 00.pdf
+    │   ├── 📄 Annexe 01.pdf
+    │   ├── 📄 Annexe 03.pdf
+    │   ├── 📄 Chapitre 05.pdf
+    │   ├── 📄 Annexe 04.pdf
+    │   ├── 📄 Annexe 02.pdf
+    │   ├── 📄 Chapitre 04.pdf
+    │   ├── 📄 Chapitre 03.pdf
+    │   ├── 📄 Chapitre 02.pdf
+    │   ├── 📄 Chapitre 01.pdf
+    │   └── 📄 Annexe 05.pdf
+    ├── 📁 Interrogations et examens/
+    │   ├── 📄 Examen PPC + Corr (SII, 2019-20).pdf
+    │   ├── 📄 Interrogation PPC + Corr (SII, 2019-20).pdf
+    │   ├── 📄 Examen PPC + Corr (SII, 2018-19).pdf
+    │   ├── 📄 Interrogation PPC + Corr (SII, 2018-19).pdf
+    │   ├── 📄 Examen PPC + Corr (SII, 2013-14).pdf
+    │   ├── 📄 Examen PPC + Corr (SII, 2015-16).pdf
+    │   ├── 📄 Rattrapage PPC + Corr (SII, 2014-15).pdf
+    │   ├── 📄 Interrogation PPC + Corr (SII, 2011-12).pdf
+    │   ├── 📄 Interrogation PPC + Corr (SII, 2016-17).pdf
+    │   ├── 📄 Rattrapage PPC + Corr (SII, 2012-13).pdf
+    │   ├── 📄 Interrogation PPC + Corr (SII, 2017-18).pdf
+    │   ├── 📄 Examen PPC + Corr (SII, 2016-17).pdf
+    │   ├── 📄 Rattrapage PPC + Corr (SII, 2011-12).pdf
+    │   ├── 📄 Interrogation PPC + Corr (SII, 2015-16).pdf
+    │   ├── 📄 Interrogation PPC + Corr (SII, 2010-11).pdf
+    │   ├── 📄 Examen PPC + Corr (SII, 2017-18).pdf
+    │   ├── 📄 Interrogation PPC + Corr (SII, 2012-13).pdf
+    │   ├── 📄 Examen PPC + Corr (SII, 2012-13).pdf
+    │   ├── 📄 Interrogation PPC + Corr (SII, 2014-15).pdf
+    │   ├── 📄 Interrogation PPC + Corr (SII, 2013-14).pdf
+    │   ├── 📄 Examen PPC + Corr (SII, 2010-11).pdf
+    │   ├── 📄 Examen PPC + Corr (SII, 2011-12).pdf
+    │   ├── 📄 Examen PPC + Corr (SII, 2014-15).pdf
+    │   ├── 📄 Rattrapage PPC + Corr (SII, 2016-17).pdf
+    │   └── 📄 Rattrapage PPC + Corr (SII, 2015-16).pdf
+    └── 📁 Projets/
+        ├── 📄 PPC - Mini-Projet (2019-20).pdf
+        ├── 📄 Projet PPC - Job Shop (2017-18) [1].rar
+        └── 📄 Projet PPC - Job Shop (2017-18) [2].zip
+
+═════════════════════════════════════
+  Fin du fichier · Programmation par Contraintes
+═════════════════════════════════════

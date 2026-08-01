@@ -1,0 +1,287 @@
+📚 MODULE : STRM Structure Machine                    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module STRM Structure Machine.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 STRM Structure Machine/
+├── 📄 STRM-20260508T203331Z-3-001.zip
+├── 🔗📁 STR M/  (raccourci)
+│   ├── 📄 Corrigé-EMD-S2-2020.pdf
+│   ├── 📄 Answers2.pdf
+│   ├── 📄 Questions2.pdf
+│   ├── 📄 Revision 1 (Q&A).pdf
+│   ├── 📄 Revision 2 (Rattrapage 2015-emd2014).pdf
+│   ├── 📁 Videos/
+│   │   └── 📄 TD STRM Questions des étudiants-2020-08-30 12-38-1.mp4
+│   ├── 📁 Sujets d'examens/
+│   │   ├── 📄 rattr S2 2017-2018.pdf
+│   │   ├── 📄 rattr S2 2016-2017.pdf
+│   │   ├── 📄 EMD S2 2016-2017.pdf
+│   │   ├── 📄 EMD S2 2017-2018.pdf
+│   │   ├── 📄 examens.rar
+│   │   ├── 📄 EMD S2 2018-2019.pdf
+│   │   ├── 📄 rattr S2 2018-2019.pdf
+│   │   ├── 📄 EMD S2 2014-2015.pdf
+│   │   └── 📄 rattr S2 2015-2016.pdf
+│   ├── 📁 La Machine Pédagogique /
+│   │   ├── 📄 Jeu d'instructions machine pédagogique
+│   │   ├── 📄 Jeu d'instructions machine pédagogique.pdf
+│   │   ├── 📄 Resumé Machine Pedagogique(décompresser et ouvrir le fichier index-html).zip
+│   │   ├── 📄 Machine Pédagogique.pdf
+│   │   └── 📁 Série 6 /
+│   │       ├── 📄 STR M (TD 28_06_2020 06) Section 1 (USTHB).mp4
+│   │       ├── 📄 exo3 serie 6.pdf
+│   │       ├── 📄 exo2 serie 6.pptx
+│   │       ├── 📄 exo1 serie 6.pptx
+│   │       └── 📄 serie 6_2018_2019.pdf
+│   ├── 📁 Les Mémoires/
+│   │   ├── 📄 Mémoires(Partie1-décompresser et ouvrir le fichier index-html).zip
+│   │   ├── 📄 Les mémoires.pdf
+│   │   └── 📁 Série 5 /
+│   │       ├── 📄 exo6 serie 5-presentation.pptx
+│   │       ├── 📄 exo4 serie 5-presentation.pdf
+│   │       ├── 📄 exo3 serie 5-presentation.pptx
+│   │       ├── 📄 exo2 serie 5-presentation.pdf
+│   │       ├── 📄 TD-STRM 2020-06-07-13-38-12.mp4
+│   │       ├── 📄 TD-STRM 2020-05-31-13-26-34.mp4
+│   │       ├── 📄 Corrige serie n°5 2017.2018.pdf
+│   │       ├── 📄 Série n°5 2017.2018.pdf
+│   │       └── 📄 serie 5_2018_2019.pdf
+│   └── 📁 Les circuits séquentiels /
+│       ├── 📄 Les circuits sequentiels.pdf
+│       └── 📁 Série 4 /
+│           ├── 📄 exo9-serie4.mov
+│           ├── 📄 exo8-serie4.mov
+│           ├── 📄 Solution_Exo_8.pdf
+│           ├── 📄 Solution_Exo_6.pdf
+│           ├── 📄 Solution_Exo_4.pdf
+│           ├── 📄 Serie n°4 corrige-19-20-1.pdf
+│           ├── 📄 SérieTD1-Corrigé (14/03/2020).pdf
+│           └── 📄 SérieTD1.pdf
+├── 🔗📁 STRM/  (raccourci)
+│   ├── 📁 Sujets/
+│   │   ├── 📄 Corrigé ratt-2019.pdf
+│   │   ├── 📄 Sujet-8-rattrapage S2_2017-2018.pdf
+│   │   ├── 📄 Sujet-7-rattrapage S2_2016-2017.pdf
+│   │   ├── 📄 Sujet-6-rattr S2 2015-2016.pdf
+│   │   ├── 📄 Sujet-5-EMD_S2 2017-2018.pdf
+│   │   ├── 📄 Sujet-4-EMD2_2016_2017.pdf
+│   │   ├── 📄 Sujet-3 -EMD S2 2014-2015.pdf
+│   │   ├── 📄 sujet-2.pdf
+│   │   ├── 📄 sujet-1.pdf
+│   │   └── 📄 Exam_S2 19.pdf
+│   ├── 📁 TD/
+│   │   ├── 📁 Série 5/
+│   │   │   ├── 📄 Série n°5 corrigé.pdf
+│   │   │   └── 📄 serie 5_2019_2020.docx
+│   │   ├── 📁 Série 6/
+│   │   │   ├── 📄 Serie n°6 corrigé-final-18.06.pdf
+│   │   │   └── 📄 serie 6_2019_2020.docx
+│   │   ├── 📁 Série 4/
+│   │   │   ├── 📄 Serie n°4 corrige-final-19-20.pdf
+│   │   │   └── 📁 série 4/
+│   │   │       ├── 📄 IMG_20200605_092200.jpg
+│   │   │       ├── 📄 IMG_20200605_092319.jpg
+│   │   │       ├── 📄 IMG_20200605_092252.jpg
+│   │   │       └── 📄 IMG_20200605_092237.jpg
+│   │   ├── 📁 Exo8 (les compteurs) /
+│   │   │   ├── 📄 20200417_194912.jpg
+│   │   │   └── 📄 20200417_194827.jpg
+│   │   └── 📁 Devoirs/
+│   │       ├── 📁 Devoir2/
+│   │       │   ├── 📄 Corrigé du devoir 2.pdf
+│   │       │   └── 📄 Devoir 2.docx
+│   │       └── 📁 Devoir 1/
+│   │           ├── 📄 received_539541240269021.png
+│   │           ├── 📄 received_2981492191906898.png
+│   │           └── 📄 exo-test.docx
+│   └── 📁 Cours /
+│       ├── 📄 chapitre6-version-finale-machinepédagogique.pdf
+│       ├── 📄 Chapitre 5-Mémoire(final).pdf
+│       ├── 📄 Les registres-final.pdf
+│       └── 📁 Les compteurs/
+│           ├── 📄 les compteurs.pdf
+│           ├── 📄 FB_IMG_15846473859713383.jpg
+│           ├── 📄 FB_IMG_15846473711483432.jpg
+│           ├── 📄 FB_IMG_15846473808184854.jpg
+│           └── 📄 FB_IMG_15846473641296036.jpg
+├── 🔗📁 strm/  (raccourci)
+│   ├── 📄 Serie n°4 corrige-19-20-1.pdf
+│   └── 📄 hadji-circuits-sequentiels.pdf
+├── 🔗📁 STRM/  (raccourci)
+│   ├── 📄 EMD2-2014-2015.pdf
+│   ├── 📁 Sujets/
+│   │   ├── 📄 ETLD2 Structure machine + corrigé.pdf
+│   │   └── 📄 ETLD_MI_S2_STRM_2015_2016_corrige_.pdf
+│   ├── 📁 Structure Machine/
+│   │   ├── 📄 m.ini
+│   │   ├── 📄 Desktop.ini
+│   │   ├── 📁 book/
+│   │   │   ├── 📄 Thumbs.db
+│   │   │   ├── 📄 Desktop.ini
+│   │   │   ├── 📄 m.ini
+│   │   │   └── 📁 algebre de boole & fonction logique/
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-048.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-044.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-042.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-041.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-040.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-039.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-038.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-037.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-036.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-035.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-034.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-033.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-032.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-031.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-030.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-029.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-028.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-027.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-026.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-025.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-024.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-023.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-022.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-021.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-020.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-019.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-018.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-017.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-016.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-015.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-014.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-013.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-012.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-011.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-010.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-009.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-008.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-007.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-006.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-005.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-003.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-002.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-043.jpg
+│   │   │       ├── 📄 Alg-Boole''PageBleues''-001.jpg
+│   │   │       └── 📄 Thumbs.db
+│   │   ├── 📁 solutions/
+│   │   ├── 📁 exercice/
+│   │   │   ├── 📄 Desktop.ini
+│   │   │   └── 📄 m.ini
+│   │   └── 📁 solutions strm/
+│   │       ├── 📄 9.jpg
+│   │       ├── 📄 7.jpg
+│   │       ├── 📄 4.jpg
+│   │       ├── 📄 3.jpg
+│   │       ├── 📄 20160323_195143.jpg
+│   │       ├── 📄 20160323_195133.jpg
+│   │       ├── 📄 20160323_195125.jpg
+│   │       ├── 📄 20160323_195116.jpg
+│   │       ├── 📄 20160323_195105.jpg
+│   │       ├── 📄 20160323_195046.jpg
+│   │       ├── 📄 20160323_195040.jpg
+│   │       ├── 📄 20160323_195021.jpg
+│   │       └── 📄 2.jpg
+│   ├── 📁 TD-ALGER1/
+│   │   ├── 📄 série1-circuits-combinatoire.pdf
+│   │   ├── 📄 corrigé_controlMI_S2_2015_2016.pdf
+│   │   ├── 📄 serie2-strm.pdf
+│   │   ├── 📄 corrige-serie3-compteurs.pdf
+│   │   ├── 📄 serie 3 compteur_registre.pdf
+│   │   └── 📁 Sol STRM Serie 1/
+│   │       ├── 📁 Partie1/
+│   │       │   ├── 📄 6.jpg
+│   │       │   ├── 📄 5.jpg
+│   │       │   ├── 📄 4.jpg
+│   │       │   ├── 📄 3.jpg
+│   │       │   ├── 📄 2.jpg
+│   │       │   └── 📄 1.jpg
+│   │       └── 📁 Partie2/
+│   │           ├── 📄 4.jpg
+│   │           ├── 📄 3.jpg
+│   │           ├── 📄 2.jpg
+│   │           └── 📄 1.jpg
+│   ├── 📁 COURS/
+│   │   ├── 📄 structure machine V3.pdf
+│   │   ├── 📄 archi-ordinateur.ppt
+│   │   ├── 📄 Circuits combinatoires.pdf
+│   │   ├── 📁 MME TOUIL/
+│   │   │   ├── 📄 chapitre4-5-strm.pdf
+│   │   │   ├── 📄 Archi_ordinateurs_MI_2015_2016.pdf
+│   │   │   └── 📄 Circuits combinatoires - Mme TOUIL.pdf
+│   │   └── 📁 Cours/
+│   │       ├── 📁 2/
+│   │       │   ├── 📄 Rappels d'algèbre de Boole.pdf
+│   │       │   ├── 📄 pdf_BOOLE.pdf
+│   │       │   ├── 📄 Initiation au Systeme Binaire.pdf
+│   │       │   ├── 📄 CIRCUITS COMBINATOIRES_1.pdf
+│   │       │   ├── 📄 circuit combinatoire.pdf
+│   │       │   ├── 📄 ALGEBRE DE BOOLE BINAIRE.pdf
+│   │       │   └── 📄 Algèbre de Boolel.pdf
+│   │       └── 📁 1/
+│   │           ├── 📄 ch4_2004V1.ppt
+│   │           ├── 📄 ch1_systemenumeration.ppt
+│   │           ├── 📄 ch9_miasm.ppt
+│   │           ├── 📄 ch7_memoires.ppt
+│   │           ├── 📄 ch3_algebreboole.ppt
+│   │           ├── 📄 ch8_architecture.ppt
+│   │           ├── 📄 ch6_pal_fpla.ppt
+│   │           ├── 📄 ch4_circuitscombinatoires.ppt
+│   │           └── 📄 ch2_representation.ppt
+│   └── 📁 EXERCICES/
+│       ├── 📄 EMD9899.pdf
+│       └── 📄 EMD0405.pdf
+├── 🔗📁 Structure machine /  (raccourci)
+│   ├── 📁 cours/
+│   └── 📁 TD/
+│       ├── 📄 série 1.pdf
+│       ├── 📄 serie 3.pdf
+│       └── 📄 serie 2.pdf
+├── 🔗📁 Structure machine 2/  (raccourci)
+│   ├── 📄 Soluce-Serie-1
+│   ├── 📄 UFAS structure  Chapitre-1.pdf
+│   ├── 📄 UFAS structure Chapitre-2.pdf
+│   ├── 📄 Chapitre 3 Algèbre de Boole.pdf
+│   ├── 📄 circuit combinatoire.pdf
+│   └── 📄 Sm2_Gzl.pdf
+├── 🔗📁 Structure machine 1/  (raccourci)
+│   ├── 📄 reels.pdf
+│   ├── 📄 polycopie_SM_chap1_2019.pdf
+│   ├── 📄 chap2_14_10_2019.pdf
+│   ├── 📄 polycopie_SM_mod.pdf
+│   ├── 📄 Examen Structure Machine univ Bouira 2017.pdf
+│   ├── 📄 algebreBoole.pdf
+│   ├── 📄 ALGEBRE DE BOOLE BINAIRE.pdf
+│   ├── 📄 Algèbre de Boole-Eric Cariou.pdf
+│   ├── 📄 Algèbre de Boolel.pdf
+│   ├── 📄 serie_4TD.pdf
+│   ├── 📄 serie_3_TD.pdf
+│   ├── 📄 chap4_2019.pdf
+│   ├── 📄 chapitre1_SM.pdf
+│   ├── 📄 chap_3.pdf
+│   └── 📄 chapitre_2_SM.pdf
+├── 🔗📁 Structure machine/  (raccourci)
+│   ├── 📄 Chapitre 01.pdf
+│   ├── 📄 Chapitre 02.pdf
+│   ├── 📄 Chapite02.pdf
+│   ├── 📄 Chapite03.pdf
+│   ├── 📄 Chapite04.pdf
+│   └── 📄 Chapite01.pdf
+└── 🔗📁 Structure Machine/  (raccourci)
+    └── ⚠️  [Référence circulaire ignorée]
+
+═════════════════════════════════════
+  Fin du fichier · STRM Structure Machine
+═════════════════════════════════════

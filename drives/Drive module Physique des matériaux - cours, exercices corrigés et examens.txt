@@ -1,0 +1,260 @@
+📚 MODULE : Physique des matériaux                    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Physique des matériaux.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Physique des matériaux/
+├── 📁 Exams/
+│   ├── 📄 ratt2022+correct.pdf
+│   ├── 📄 rattmars+correc2021.pdf
+│   ├── 📄 Exa_SciMat1_2021_SN.pdf
+│   ├── 📄 ExaScMat2021-2022+correct.pdf
+│   ├── 📄 correctexam2022-2023.pdf
+│   └── 📄 Examen-20230107.zip
+├── 📁 TD/
+│   ├── 📄 Serie5_2022-2023.pdf
+│   ├── 📄 Serie4+_2022-2023.pdf
+│   ├── 📄 Serie3_2022-2023.pdf
+│   ├── 📄 Serie2_2022-2023.pdf
+│   ├── 📄 Serie1_2022-2023.pdf
+│   ├── 📄 TD_SciMat1_n4_2021.pdf
+│   ├── 📄 TD_SciMat1_n3_2021.pdf
+│   ├── 📄 TD_SciMat1_n2.pdf
+│   ├── 📄 TD_SciMat1_n1_2021.pdf
+│   ├── 📄 correction serie5.pdf
+│   ├── 📄 serie5.pdf
+│   ├── 📄 correction-serie4.pdf
+│   ├── 📄 serie4.pdf
+│   ├── 📄 correction-serie3.pdf
+│   ├── 📄 serie3.pdf
+│   ├── 📄 correction Série 2_2020-2021.pdf
+│   ├── 📄 Série 2_2020-2021.pdf
+│   ├── 📄 Correction Série 1-2020-2021 .pdf
+│   └── 📄 serie 1-2020-2021.pdf
+├── 📁 Cours/
+│   ├── 📄 2022diapoChapitre 7.pdf
+│   ├── 📄 2022diapoChapitre 6.pdf
+│   ├── 📄 Chapitre 5_Modèle de Sommerfeld .pdf
+│   ├── 📄 2022diapoChapitre 5.pdf
+│   ├── 📄 Chapitre 4_Propriétés thermiques des solides.pdf
+│   ├── 📄 2022dapoChapitre 4.pdf
+│   ├── 📄 Chapitre 3_La dynamique du réseau cristallin.pdf
+│   ├── 📄 2022 diapoChapitre 3.pdf
+│   ├── 📄 2022diapoChapitre 2.pdf
+│   ├── 📄 Chapitre 2_Réseau réciproque et diffraction.pdf
+│   ├── 📄 2022diapoChapitre 1.pdf
+│   └── 📄 Chapitre1-Le solide cristallin.pdf
+└── 📁 Physique des matériaux/
+    ├── 📄 fiche-mesure_chiff_sign.pdf
+    ├── 📁 TD/
+    │   ├── 📄 série 9.pdf
+    │   ├── 📄 série 8.pdf
+    │   ├── 📄 série 7.pdf
+    │   ├── 📄 série 6.pdf
+    │   ├── 📄 série 5.pdf
+    │   ├── 📄 série 4.pdf
+    │   ├── 📄 série 3.pdf
+    │   ├── 📄 série 2.pdf
+    │   ├── 📄 série 1.pdf
+    │   ├── 📄 série 10.pdf
+    │   ├── 📁 8/
+    │   │   ├── 📄 IMG_0936.JPG
+    │   │   ├── 📄 IMG_0935.JPG
+    │   │   ├── 📄 9a.jpg
+    │   │   ├── 📄 9.jpg
+    │   │   ├── 📄 8.jpg
+    │   │   ├── 📄 5.jpg
+    │   │   ├── 📄 3.jpg
+    │   │   ├── 📄 16.jpg
+    │   │   ├── 📄 1.jpg
+    │   │   ├── 📄 15.jpg
+    │   │   ├── 📄 11.jpg
+    │   │   └── 📄 10.jpg
+    │   ├── 📁 6/
+    │   │   ├── 📄 IMG_0932.JPG
+    │   │   ├── 📄 IMG_0931.JPG
+    │   │   ├── 📄 22.jpg
+    │   │   ├── 📄 9.jpg
+    │   │   ├── 📄 7.jpg
+    │   │   ├── 📄 6.jpg
+    │   │   ├── 📄 3.jpg
+    │   │   ├── 📄 21.jpg
+    │   │   ├── 📄 20.jpg
+    │   │   ├── 📄 19.jpg
+    │   │   ├── 📄 18.jpg
+    │   │   ├── 📄 17.jpg
+    │   │   ├── 📄 13.jpg
+    │   │   ├── 📄 11.jpg
+    │   │   ├── 📄 1.jpg
+    │   │   └── 📁 devoir/
+    │   │       ├── 📄 4.jpg
+    │   │       ├── 📄 3.jpg
+    │   │       ├── 📄 2.jpg
+    │   │       ├── 📄 1.jpg
+    │   │       └── 📄 5.jpg
+    │   ├── 📁 5/
+    │   │   ├── 📄 IMG_0706.JPG
+    │   │   ├── 📄 IMG_0705.JPG
+    │   │   ├── 📄 IMG_0704.JPG
+    │   │   ├── 📄 IMG_0703.JPG
+    │   │   ├── 📄 16.jpg
+    │   │   ├── 📄 15.jpg
+    │   │   ├── 📄 14.jpg
+    │   │   ├── 📄 9.jpg
+    │   │   ├── 📄 7.jpg
+    │   │   ├── 📄 6.jpg
+    │   │   ├── 📄 8.jpg
+    │   │   ├── 📄 5.jpg
+    │   │   ├── 📄 4.jpg
+    │   │   ├── 📄 3.jpg
+    │   │   ├── 📄 13.jpg
+    │   │   ├── 📄 2.jpg
+    │   │   ├── 📄 10.jpg
+    │   │   ├── 📄 12.jpg
+    │   │   ├── 📄 1.jpg
+    │   │   └── 📄 11.jpg
+    │   ├── 📁 4/
+    │   │   ├── 📄 IMG_0188.JPG
+    │   │   ├── 📄 IMG_0187.JPG
+    │   │   ├── 📄 IMG_0186.JPG
+    │   │   ├── 📄 IMG_0185.JPG
+    │   │   ├── 📄 EX1_TDn_4.pdf
+    │   │   ├── 📄 EX2_TD_n_4.pdf
+    │   │   ├── 📄 9.jpg
+    │   │   ├── 📄 6.jpg
+    │   │   ├── 📄 8.jpg
+    │   │   ├── 📄 7.jpg
+    │   │   ├── 📄 5.jpg
+    │   │   ├── 📄 4.jpg
+    │   │   ├── 📄 3.jpg
+    │   │   ├── 📄 2.jpg
+    │   │   ├── 📄 19.jpg
+    │   │   ├── 📄 18.jpg
+    │   │   ├── 📄 17.jpg
+    │   │   ├── 📄 16.jpg
+    │   │   ├── 📄 15.jpg
+    │   │   ├── 📄 14.jpg
+    │   │   ├── 📄 13.jpg
+    │   │   ├── 📄 12.jpg
+    │   │   ├── 📄 11.jpg
+    │   │   ├── 📄 10.jpg
+    │   │   └── 📄 1.jpg
+    │   ├── 📁 3/
+    │   │   ├── 📄 IMG_0188.jpg
+    │   │   ├── 📄 IMG_0187.jpg
+    │   │   ├── 📄 IMG_0186.jpg
+    │   │   ├── 📄 IMG_0184.JPG
+    │   │   ├── 📄 IMG_0183.JPG
+    │   │   ├── 📄 IMG_0189.jpg
+    │   │   ├── 📄 IMG_0192.jpg
+    │   │   ├── 📄 IMG_0191.jpg
+    │   │   ├── 📄 IMG_0193.jpg
+    │   │   ├── 📄 IMG_0190.jpg
+    │   │   └── 📄 IMG_0185.jpg
+    │   ├── 📁 2/
+    │   │   ├── 📄 IMG_0182.JPG
+    │   │   ├── 📄 IMG_0181.JPG
+    │   │   ├── 📄 IMG_0180.JPG
+    │   │   ├── 📄 IMG_0179.JPG
+    │   │   ├── 📄 IMG_0178.JPG
+    │   │   ├── 📄 IMG_0177.JPG
+    │   │   ├── 📄 IMG_0176.JPG
+    │   │   ├── 📄 IMG_0175.JPG
+    │   │   ├── 📄 IMG_0184.jpg
+    │   │   └── 📄 IMG_0183.jpg
+    │   ├── 📁 1/
+    │   │   ├── 📄 IMG_0174.JPG
+    │   │   ├── 📄 IMG_0173.JPG
+    │   │   ├── 📄 IMG_0172.JPG
+    │   │   ├── 📄 IMG_0171.JPG
+    │   │   ├── 📄 IMG_0170.JPG
+    │   │   ├── 📄 IMG_0169.JPG
+    │   │   ├── 📄 IMG_0168.JPG
+    │   │   ├── 📄 IMG_0167.JPG
+    │   │   ├── 📄 IMG_0166.JPG
+    │   │   ├── 📄 IMG_0175.jpg
+    │   │   └── 📄 IMG_0176.jpg
+    │   ├── 📁 9/
+    │   │   ├── 📄 IMG_0938.JPG
+    │   │   ├── 📄 IMG_0937.JPG
+    │   │   ├── 📄 8.jpg
+    │   │   ├── 📄 9.jpg
+    │   │   ├── 📄 7.jpg
+    │   │   ├── 📄 6.jpg
+    │   │   ├── 📄 5.jpg
+    │   │   ├── 📄 2.jpg
+    │   │   ├── 📄 11.jpg
+    │   │   ├── 📄 17.jpg
+    │   │   ├── 📄 15.jpg
+    │   │   ├── 📄 14.jpg
+    │   │   ├── 📄 13.jpg
+    │   │   ├── 📄 10.jpg
+    │   │   └── 📄 1.jpg
+    │   ├── 📁 7/
+    │   │   ├── 📄 IMG_0934.JPG
+    │   │   ├── 📄 IMG_0933.JPG
+    │   │   ├── 📄 31.jpg
+    │   │   ├── 📄 8.jpg
+    │   │   ├── 📄 6.jpg
+    │   │   ├── 📄 5.jpg
+    │   │   ├── 📄 30.jpg
+    │   │   ├── 📄 4.jpg
+    │   │   ├── 📄 17.jpg
+    │   │   ├── 📄 28.jpg
+    │   │   ├── 📄 23.jpg
+    │   │   ├── 📄 24.jpg
+    │   │   ├── 📄 25.jpg
+    │   │   ├── 📄 27.jpg
+    │   │   ├── 📄 20.jpg
+    │   │   ├── 📄 29.jpg
+    │   │   ├── 📄 18.jpg
+    │   │   ├── 📄 16a.jpg
+    │   │   ├── 📄 16.jpg
+    │   │   ├── 📄 15.jpg
+    │   │   ├── 📄 10.jpg
+    │   │   ├── 📄 12.jpg
+    │   │   └── 📄 1.jpg
+    │   └── 📁 10/
+    │       ├── 📄 IMG_0940.JPG
+    │       ├── 📄 IMG_0939.JPG
+    │       ├── 📄 5.jpg
+    │       ├── 📄 9.jpg
+    │       ├── 📄 15.jpg
+    │       ├── 📄 3.jpg
+    │       ├── 📄 14.jpg
+    │       ├── 📄 13.jpg
+    │       ├── 📄 12.jpg
+    │       ├── 📄 10.jpg
+    │       └── 📄 1.jpg
+    ├── 📁 examens/
+    │   └── 📁 2016-2017/
+    │       ├── 📄 cf.pdf
+    │       └── 📄 correction.pdf
+    ├── 📁 QCM/
+    │   ├── 📄 22894232_1423096677836997_797850735687113545_n.jpg
+    │   ├── 📄 22885753_1423096781170320_877749351847735240_n.jpg
+    │   ├── 📄 15349565_10207746662883847_8456118864806654749_n.jpg
+    │   ├── 📄 15267995_592654514267292_215583637691264317_n.jpg
+    │   ├── 📄 22852091_1423096717836993_5668326056969118425_n.jpg
+    │   ├── 📄 15267791_334801450238889_1130106835907325669_n.jpg
+    │   ├── 📄 15253487_1415209548506547_3092516570586677302_n.jpg
+    │   ├── 📄 15232338_334801073572260_1554279086963655744_n.jpg
+    │   ├── 📄 15202679_1246215792105298_5379828870481358257_n.jpg
+    │   └── 📄 15178185_721958584625786_6994620598742885718_n.jpg
+    └── 📁 TP/
+        ├── 📄 structures.zip
+        └── 📄 réseaux.zip
+
+═════════════════════════════════════
+  Fin du fichier · Physique des matériaux
+═════════════════════════════════════

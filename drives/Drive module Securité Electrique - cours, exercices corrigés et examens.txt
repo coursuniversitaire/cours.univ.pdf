@@ -1,0 +1,137 @@
+📚 MODULE : Securité Electrique                       
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Securité Electrique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Securité Electrique/
+├── 🔗📁 7-Sécurité électrique /  (raccourci)
+│   ├── 📁 sent by teacher /
+│   │   ├── 📄 20230527_175842.jpg
+│   │   ├── 📄 20230527_175818.jpg
+│   │   ├── 📄 20230527_175755.jpg
+│   │   ├── 📄 20230527_175736.jpg
+│   │   ├── 📄 20230527_175714.jpg
+│   │   ├── 📄 20230527_175654.jpg
+│   │   ├── 📄 20230527_175636.jpg
+│   │   ├── 📄 20230527_175615.jpg
+│   │   ├── 📄 20230527_175503.jpg
+│   │   ├── 📄 20230527_175511.jpg
+│   │   ├── 📄 20230527_175520.jpg
+│   │   ├── 📄 20230527_175453.jpg
+│   │   ├── 📄 20230527_175444.jpg
+│   │   ├── 📄 20230527_175433.jpg
+│   │   ├── 📄 20230527_175424.jpg
+│   │   ├── 📄 20230527_175834.jpg
+│   │   ├── 📄 20230527_175826.jpg
+│   │   ├── 📄 20230527_175804.jpg
+│   │   ├── 📄 20230527_175745.jpg
+│   │   ├── 📄 20230527_175722.jpg
+│   │   ├── 📄 20230527_175701.jpg
+│   │   ├── 📄 20230527_175645.jpg
+│   │   ├── 📄 20230527_175627.jpg
+│   │   ├── 📄 20230527_175344.jpg
+│   │   ├── 📄 20230527_175337.jpg
+│   │   └── 📄 5.jpg
+│   ├── 📁 old exam/
+│   │   ├── 📄 349195118_1229032121079743_7557120094627906075_n (1).jpg
+│   │   ├── 📄 349027365_1662267804198460_5451453265324055298_n.jpg
+│   │   ├── 📄 346143794_596898975873744_8055366109779409933_n.jpg
+│   │   ├── 📄 349195118_1229032121079743_7557120094627906075_n.jpg
+│   │   ├── 📄 348357792_815641566597889_3531641301189310630_n.jpg
+│   │   ├── 📄 346140578_794711138870138_5732354257281424996_n.jpg
+│   │   ├── 📄 349027838_605841631516337_6279386045734419399_n.jpg
+│   │   ├── 📄 348948589_1006654963660479_3574662323488484539_n (1).jpg
+│   │   └── 📄 348948589_1006654963660479_3574662323488484539_n.jpg
+│   └── 📁 COURS/
+├── 🔗📁 Sécurité électrique ⚡/  (raccourci)
+│   ├── 📁 Supplément /
+│   │   ├── 📄 résumé
+│   │   └── 📄 Questions réponses 
+│   ├── 📁 Examen /
+│   │   ├── 📁 2023/2024/
+│   │   │   └── 📄 auto corrigé 
+│   │   └── 📁 Divers /
+│   │       ├── 📄 Msila 2020
+│   │       ├── 📄 skikda 2020
+│   │       ├── 📄 SETIF 2016
+│   │       ├── 📄 Laghouat 2015
+│   │       └── 📄 Mascara 2020
+│   └── 📁 Cours /
+│       ├── 📁 2023/2024/
+│       │   ├── 📄 cours sécurité 
+│       │   ├── 📄 chapitre 2
+│       │   └── 📄 chapitre 1 
+│       └── 📁 Divers /
+│           ├── 📄 Cours sécu 
+│           └── 📄 Cours 
+├── 🔗📁 6_Sécurité électrique /  (raccourci)
+│   ├── 📁 2_Cntrl/
+│   │   ├── 📄 Cntrl 2022.pdf
+│   │   ├── 📄 Cntrl 2025.pdf
+│   │   ├── 📄 Ratt 2.pdf
+│   │   ├── 📄 Ratt.pdf
+│   │   ├── 📄 Cntrl 3.pdf
+│   │   ├── 📄 Cntrl 2.pdf
+│   │   └── 📄 Cntrl 1.pdf
+│   └── 📁 1_Cours/
+│       └── 📄 Sécurité_électrique_L2Auto_2024.pdf
+├── 🔗📁 Securité Electrique/  (raccourci)
+│   ├── 📄 resume complet ducours securité electrique (page 01 à la page 26) 2021-2022.docx
+│   └── 📄 resume-complet-ducours-securité-electrique-page-01-à-la-page-26-2021-2022.pdf
+├── 🔗📁 Protection des réseaux Electriques/  (raccourci)
+│   ├── 📄 Etude de réglage d’un relais différentiel.pptx
+│   ├── 📄 projet protection.docx
+│   ├── 📄 support_de_cours_protection_Chapitre2.pdf
+│   └── 📄 support de cours protection capitre1.pdf
+├── 🔗📁 Sécurité électrique/  (raccourci)
+│   ├── 📁 cours/
+│   │   ├── 📄 Résumé du cours 6 SE 43  47.docx
+│   │   ├── 📄 Résumé du cours 5 SE 36  43.docx
+│   │   ├── 📄 Résumé du cours 4 SE 25  35.docx
+│   │   ├── 📄 Résumé du cours 3 SE 19 24.docx
+│   │   ├── 📄 Résumé du cours 1 SE 1   14.docx
+│   │   ├── 📄 Résumé du cours 2 SE   15   18.docx
+│   │   ├── 📄 cours53.tif
+│   │   ├── 📄 cours51.tif
+│   │   ├── 📄 cours52.tif
+│   │   ├── 📄 cours50.tif
+│   │   ├── 📄 cours49.tif
+│   │   ├── 📄 cours47.tif
+│   │   ├── 📄 cours48.tif
+│   │   ├── 📄 cours46.tif
+│   │   ├── 📁 mini projet/
+│   │   │   ├── 📄 cours53.tif
+│   │   │   ├── 📄 cours52.tif
+│   │   │   ├── 📄 Mini-projets.docx
+│   │   │   ├── 📄 cours51.tif
+│   │   │   ├── 📄 cours48.tif
+│   │   │   ├── 📄 cours50.tif
+│   │   │   ├── 📄 cours47.tif
+│   │   │   ├── 📄 cours49.tif
+│   │   │   └── 📄 cours46.tif
+│   │   └── 📁 2/
+│   │       └── 📄 sécurié éléctrique.rar
+│   └── 📁 Examen/
+│       └── 📄 2015.jpg
+└── 📁 examens/
+    ├── 📄 Cntrl 2022.pdf
+    ├── 📄 Cntrl 2025.pdf
+    ├── 📄 Ratt 2.pdf
+    ├── 📄 Ratt.pdf
+    ├── 📄 Cntrl 3.pdf
+    ├── 📄 Cntrl 2.pdf
+    └── 📄 Cntrl 1.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Securité Electrique
+═════════════════════════════════════

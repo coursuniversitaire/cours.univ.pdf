@@ -1,0 +1,53 @@
+📚 MODULE : Reseasux electriques                      
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Reseasux electriques.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Reseasux electriques/
+├── 🔗📁 Réseaux Électriques.rar/  (raccourci)
+├── 📄 Cours_5_L3ELT_Slides_2.pdf
+├── 📄 Cours_L3_ELT_6_Slides_2.pdf
+├── 📄 Cours_L3ELT_7_Slides.pdf
+├── 📄 TD5_2.pdf
+├── 📄 TD4.pdf
+├── 📄 TD3.pdf
+├── 📄 TD2_2.pdf
+├── 📄 Cours_4_L3ELT_Slides.pdf
+├── 📄 Cours_3_L3ELT_Slides.pdf
+├── 📄 TP1.pdf
+├── 📄 Cours_2_L3ELT_Slides.pdf
+├── 📄 TD1.pdf
+├── 📄 TD0.pdf
+├── 📄 Introduction_reseaux_electriques.pdf
+├── 📄 Cour_1_L3ELT_Slides.pdf
+├── 📄 Cours_L3ELT_support_cours.pdf
+├── 📄 TP réseaux électriques.pdf
+├── 📁 TD/
+│   ├── 📄 15 exercices corrigés sur la machine à courant continu -www.exoco-lmd.com.pdf
+│   ├── 📄 td4 RE crg Fonctionnement des lignes.pdf
+│   ├── 📄 td4 RE enc Fonctionnement des lignes.pdf
+│   ├── 📄 td3 RE crg Transformateur.pdf
+│   ├── 📄 td3 RE enc Transformateur.pdf
+│   ├── 📄 td2 RE enc.pdf
+│   └── 📄 td1 Rappel enc.pdf
+└── 📁 Cours/
+    ├── 📄 L3-TLC-Réseaux.pdf
+    ├── 📄 Chap_4_ Modélisation des transformateurs électriques.pdf
+    ├── 📄 Chap_3 Calcul des réseaux électriques.pdf
+    ├── 📄 Chap_2_ Modes de transport, répartition et distribution de l’énergie electrique.pdf
+    ├── 📄 Chap_1_ Généralités sur les réseaux électriques.pdf
+    └── 📄 Cours _LAHAÇANI Narimen_RESEAUX ELECTRIQUES.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Reseasux electriques
+═════════════════════════════════════

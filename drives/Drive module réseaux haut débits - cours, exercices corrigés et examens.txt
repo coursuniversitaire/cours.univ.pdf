@@ -1,0 +1,387 @@
+📚 MODULE : réseaux haut débits                       
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module réseaux haut débits.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 réseaux haut débits/
+├── 📄 RESEAUX HAUT DEBIT-20260621T004138Z-3-001.zip
+├── 🔗📁 RESEAUX HAUT DEBIT/  (raccourci)
+│   ├── 📁 TP RHD/
+│   │   ├── 📁 TP01/
+│   │   │   ├── 📄 007.jpg
+│   │   │   ├── 📄 005.jpg
+│   │   │   ├── 📄 002.jpg
+│   │   │   ├── 📄 003.jpg
+│   │   │   ├── 📄 006.jpg
+│   │   │   ├── 📄 008.jpg
+│   │   │   ├── 📄 001.jpg
+│   │   │   ├── 📄 004.jpg
+│   │   │   └── 📁 TP RHD1/
+│   │   │       ├── 📄 TP2_Cisco_Packet_Tracer_corrige.pdf
+│   │   │       ├── 📄 Serial Cable Connection Guide - Cisco.html
+│   │   │       ├── 📄 creation-d-un-cable-rj45-croise-304-nolfsa.pdf
+│   │   │       ├── 📄 t.pkt
+│   │   │       ├── 📄 RS-232.html
+│   │   │       ├── 📄 TP.pkt
+│   │   │       ├── 📁 TP RHD/
+│   │   │       │   ├── 📄 002.jpg
+│   │   │       │   ├── 📄 003.jpg
+│   │   │       │   ├── 📄 007.jpg
+│   │   │       │   ├── 📄 005.jpg
+│   │   │       │   ├── 📄 004.jpg
+│   │   │       │   ├── 📄 008.jpg
+│   │   │       │   ├── 📄 006.jpg
+│   │   │       │   └── 📄 001.jpg
+│   │   │       ├── 📁 RS-232_files/
+│   │   │       │   ├── 📄 200px-serial_port.jpg
+│   │   │       │   ├── 📄 access-handicap.gif
+│   │   │       │   ├── 📄 imprime.gif
+│   │   │       │   ├── 📄 composelec-logo.jpg
+│   │   │       │   ├── 📄 recherche.gif
+│   │   │       │   ├── 📄 css_menus.css
+│   │   │       │   ├── 📄 cm(1).html
+│   │   │       │   ├── 📄 cm.html
+│   │   │       │   ├── 📄 redim_functions.js.download
+│   │   │       │   ├── 📄 pub-humanis.jpg
+│   │   │       │   ├── 📄 accueil.gif
+│   │   │       │   ├── 📄 empty.gif
+│   │   │       │   ├── 📄 css_imprimante.css
+│   │   │       │   ├── 📄 css_layout.css
+│   │   │       │   ├── 📄 OQFX3TmU_f-rtM_.jpg
+│   │   │       │   ├── 📄 enveloppe.gif
+│   │   │       │   ├── 📄 magnify-clip.png
+│   │   │       │   ├── 📄 200px-rs-232.jpeg
+│   │   │       │   ├── 📄 haut.gif
+│   │   │       │   ├── 📄 wiki_extract.css
+│   │   │       │   └── 📄 log.php
+│   │   │       └── 📁 Serial Cable Connection Guide - Cisco_files/
+│   │   │           ├── 📄 utag.js.download
+│   │   │           ├── 📄 Bro_Cable_2500_X21MT.gif
+│   │   │           ├── 📄 icon_lock_small.png
+│   │   │           ├── 📄 masthead.js.download
+│   │   │           ├── 📄 Bro_Cable_4000_NPV35TV2.gif
+│   │   │           ├── 📄 Bro_Cable_7000_HSI1.gif
+│   │   │           ├── 📄 eot_metricsrule.js.download
+│   │   │           ├── 📄 seot-mbox.js.download
+│   │   │           ├── 📄 Bro_Cable_4000_232MT.gif
+│   │   │           ├── 📄 granite.min.js.download
+│   │   │           ├── 📄 Bro_Cable_3000_3CX21.gif
+│   │   │           ├── 📄 eot_ie8logoinsert.js.download
+│   │   │           ├── 📄 Bro_Cable_3000_3C232.gif
+│   │   │           ├── 📄 jqmodal.js.download
+│   │   │           ├── 📄 pdficon_small.png
+│   │   │           ├── 📄 Bro_Cable_7000_V35FC.gif
+│   │   │           ├── 📄 Bro_Cable_7000_449MT.gif
+│   │   │           ├── 📄 Bro_Cable_7000_V35MC.gif
+│   │   │           ├── 📄 id30v4.js.download
+│   │   │           ├── 📄 Bro_Cable_2500_V35FT.gif
+│   │   │           ├── 📄 Guest
+│   │   │           ├── 📄 parseXml.js.download
+│   │   │           ├── 📄 Bro_Cable_4000_NPX21C.gif
+│   │   │           ├── 📄 Bro_Cable_500CS_500DCF.gif
+│   │   │           ├── 📄 sh.d663e43787b663d5491cf753.html
+│   │   │           ├── 📄 Bro_Cable_AGS_VTM.gif
+│   │   │           ├── 📄 Bro_Cable_4000_X21MT.gif
+│   │   │           ├── 📄 Bro_Cable_4000_V35MC.gif
+│   │   │           ├── 📄 Bro_Cable_7000_7KCT1DB15.gif
+│   │   │           ├── 📄 cisco-sans.min.css
+│   │   │           ├── 📄 Bro_Cable_HRgrn3.gif
+│   │   │           ├── 📄 Bro_Cable_2500_X21FC.gif
+│   │   │           ├── 📄 print.png
+│   │   │           ├── 📄 custom-elements-es5-adapter.js.download
+│   │   │           ├── 📄 Bro_Cable_AGS_R44.gif
+│   │   │           ├── 📄 Bro_Cable_3000_3C449.gif
+│   │   │           ├── 📄 Bro_Cable_4000_530MT.gif
+│   │   │           ├── 📄 mbox.js.download
+│   │   │           ├── 📄 Bro_Cable_AGS_R23.gif
+│   │   │           ├── 📄 Bro_Cable_3000_3C232C.gif
+│   │   │           ├── 📄 Bro_Cable_3000_3C530.gif
+│   │   │           ├── 📄 Bro_Cable_500CS_5MODCM.gif
+│   │   │           ├── 📄 Bro_Cable_7000_232FC.gif
+│   │   │           ├── 📄 Bro_Cable_7000_X21FC.gif
+│   │   │           ├── 📄 psa_typeahead_common.js.download
+│   │   │           ├── 📄 Bro_Cable_4000_449MT.gif
+│   │   │           ├── 📄 Bro_Cable_AGS_HSI1.gif
+│   │   │           ├── 📄 c37v1.js.download
+│   │   │           ├── 📄 standard
+│   │   │           ├── 📄 utag.67.js.download
+│   │   │           ├── 📄 Bro_Cable_4000_NP449C.gif
+│   │   │           ├── 📄 Bro_Cable_7000_530MT.gif
+│   │   │           ├── 📄 support-docs.css
+│   │   │           ├── 📄 Bro_Cable_500CS_500DCM.gif
+│   │   │           ├── 📄 index.html
+│   │   │           ├── 📄 Bro_Cable_3000_3CX21C.gif
+│   │   │           ├── 📄 megamenu.min.js.download
+│   │   │           ├── 📄 addthis_widget.js.download
+│   │   │           ├── 📄 Bro_Cable_4000_NP530.gif
+│   │   │           ├── 📄 relatedProducts.js.download
+│   │   │           ├── 📄 Bro_Cable_7000_232MT.gif
+│   │   │           ├── 📄 cdcvalid.js(1).download
+│   │   │           ├── 📄 Bro_Cable_4000_NP449T.gif
+│   │   │           ├── 📄 plugin_vp.js.download
+│   │   │           ├── 📄 Bro_Cable_3000_3C449C.gif
+│   │   │           ├── 📄 Bro_Cable_AGS_X21CF.gif
+│   │   │           ├── 📄 config.js.download
+│   │   │           ├── 📄 mbox.min.js.download
+│   │   │           ├── 📄 support-responsive.css
+│   │   │           ├── 📄 shared.min.js.download
+│   │   │           ├── 📄 Bro_Cable_HRred.gif
+│   │   │           ├── 📄 config.js(1).download
+│   │   │           ├── 📄 Bro_Cable_AGS_VCF.gif
+│   │   │           ├── 📄 utag.76.js.download
+│   │   │           ├── 📄 ctm.js.download
+│   │   │           ├── 📄 Bro_Cable_2500_530MT.gif
+│   │   │           ├── 📄 Bro_Cable_500CS_500DTF.gif
+│   │   │           ├── 📄 Bro_Cable_7000_HNUL.gif
+│   │   │           ├── 📄 Bro_Cable_2500_V35MT.gif
+│   │   │           ├── 📄 Bro_Cable_HRgreen.gif
+│   │   │           ├── 📄 Bro_Cable_2500_V35FC.gif
+│   │   │           ├── 📄 adrum.js.download
+│   │   │           ├── 📄 Bro_Cable_4000_V35MT.gif
+│   │   │           ├── 📄 Bro_Cable_AGS_VCM.gif
+│   │   │           ├── 📄 utag.215.js.download
+│   │   │           ├── 📄 recommendation.js.download
+│   │   │           ├── 📄 megamenu.min.css
+│   │   │           ├── 📄 Bro_Cable_7000_V35FT.gif
+│   │   │           ├── 📄 Bro_Cable_AGS_HNUL.gif
+│   │   │           ├── 📄 utils.min.js.download
+│   │   │           ├── 📄 jquery.min.js(1).download
+│   │   │           ├── 📄 utag.64.js.download
+│   │   │           ├── 📄 Bro_Cable_4000_V35FC.gif
+│   │   │           ├── 📄 dest_pg_metricsrule.js.download
+│   │   │           ├── 📄 utag.180.js.download
+│   │   │           ├── 📄 Bro_Cable_7000_7KCT1NULL.gif
+│   │   │           ├── 📄 Bro_Cable_3000_3CV35V2.gif
+│   │   │           ├── 📄 masterbrand.min.js.download
+│   │   │           ├── 📄 cl.min.css
+│   │   │           ├── 📄 sm_0000EE_oo1.gif
+│   │   │           ├── 📄 cdcPreview.css
+│   │   │           ├── 📄 Bro_Cable_2500_232FC.gif
+│   │   │           ├── 📄 Bro_Cable_3000_3CV35V2C.gif
+│   │   │           ├── 📄 Bro_Cable_4000_NPX21T.gif
+│   │   │           ├── 📄 utag.65.js.download
+│   │   │           ├── 📄 Bro_Cable_HRgrn2.gif
+│   │   │           ├── 📄 masterbrand.min.css
+│   │   │           ├── 📄 Bro_Cable_2500_232MT.gif
+│   │   │           ├── 📄 Bro_Cable_HRred2.gif
+│   │   │           ├── 📄 Bro_Cable_500CS_500DTM.gif
+│   │   │           ├── 📄 Bro_Cable_7000_449FC.gif
+│   │   │           ├── 📄 mm-spinner.gif
+│   │   │           ├── 📄 Bro_Cable_4000_X21FC.gif
+│   │   │           ├── 📄 jquery.min.js.download
+│   │   │           ├── 📄 300lo.json
+│   │   │           ├── 📄 Bro_Cable_2500_449FC.gif
+│   │   │           ├── 📄 Bro_Cable_4000_V35FT.gif
+│   │   │           ├── 📄 Bro_Cable_7000_X21MT.gif
+│   │   │           ├── 📄 cdcvalid.js.download
+│   │   │           ├── 📄 utag.58.js.download
+│   │   │           ├── 📄 Bro_Cable_4000_232FC.gif
+│   │   │           ├── 📄 Bro_Cable_4000_NPV35CV2.gif
+│   │   │           ├── 📄 responsive.min.css
+│   │   │           ├── 📄 foundation.min.js.download
+│   │   │           ├── 📄 Bro_Cable_2500_449MT.gif
+│   │   │           ├── 📄 responsive.min.js.download
+│   │   │           ├── 📄 webcomponents-loader.js.download
+│   │   │           ├── 📄 Bro_Cable_2500_V35MC.gif
+│   │   │           ├── 📄 Bro_Cable_4000_449FC.gif
+│   │   │           ├── 📄 Bro_Cable_Connect.gif
+│   │   │           ├── 📄 Bro_Cable_500CS_500RJ.gif
+│   │   │           ├── 📄 _ate.track.config_resp
+│   │   │           ├── 📄 utag.75.js.download
+│   │   │           ├── 📄 utag.63.js.download
+│   │   │           ├── 📄 Bro_Cable_4000_NP232T.gif
+│   │   │           ├── 📄 kernel.min.js.download
+│   │   │           ├── 📄 utag.213.js.download
+│   │   │           ├── 📄 Bro_Cable_7000_V35MT.gif
+│   │   │           ├── 📄 global-icon.svg
+│   │   │           ├── 📄 underscore.min.js.download
+│   │   │           ├── 📄 utag.27.js.download
+│   │   │           ├── 📄 Bro_Cable_AGS_VTF.gif
+│   │   │           ├── 📄 conversion_async.js.download
+│   │   │           ├── 📄 Bro_Cable_4000_NP232C.gif
+│   │   │           ├── 📄 utag.225.js.download
+│   │   │           ├── 📄 utag.83.js.download
+│   │   │           └── 📄 lockblue.gif
+│   │   ├── 📁 all/
+│   │   │   ├── 📄 4.jpg
+│   │   │   ├── 📄 33923785_1368948839905272_4147470860560629760_n.jpg
+│   │   │   ├── 📄 33848364_110321929857830_7815317058115076096_n.jpg
+│   │   │   ├── 📄 33922826_1368949366571886_4448228793026347008_n.jpg
+│   │   │   ├── 📄 34017512_1368948653238624_2275803866211549184_n.jpg
+│   │   │   ├── 📄 34010385_1368949946571828_2279643150362345472_n.jpg
+│   │   │   ├── 📄 3.jpg
+│   │   │   ├── 📄 33891714_110321736524516_3445866452152745984_n.jpg
+│   │   │   ├── 📄 33833403_1368948646571958_2463138507028168704_n.jpg
+│   │   │   ├── 📄 2.jpg
+│   │   │   ├── 📄 1.jpg
+│   │   │   ├── 📄 5.jpg
+│   │   │   ├── 📄 33902952_1368949393238550_575634538034626560_n.jpg
+│   │   │   ├── 📄 34075941_1368949893238500_2267988614870728704_n.jpg
+│   │   │   ├── 📄 34048460_110321789857844_1589395640507432960_n.jpg
+│   │   │   ├── 📄 33992631_1368949593238530_5973587334438846464_n.jpg
+│   │   │   ├── 📄 33875339_1368949223238567_520204420256890880_n.jpg
+│   │   │   ├── 📄 33923607_1368949013238588_3383922969225986048_n.jpg
+│   │   │   ├── 📄 33823377_1368949863238503_1640725249928462336_n.jpg
+│   │   │   ├── 📄 33980212_1368949226571900_6319930512186015744_n.jpg
+│   │   │   ├── 📄 33992769_1368948789905277_4189900812413042688_n.jpg
+│   │   │   ├── 📄 33815919_1368949049905251_6400870510908932096_n.jpg
+│   │   │   ├── 📄 33920309_1368949719905184_8339414715901935616_n.jpg
+│   │   │   ├── 📄 33901217_1368949576571865_3821813684125040640_n.jpg
+│   │   │   ├── 📄 33990855_110321499857873_2480275568273129472_n.jpg
+│   │   │   └── 📄 33990799_1368949713238518_1617497821978558464_n.jpg
+│   │   ├── 📁 TP02/
+│   │   │   └── 📄 TP02.docx
+│   │   ├── 📁 TP03/
+│   │   │   ├── 📄 TP3-Préparation.pdf
+│   │   │   ├── 📄 x07.jpg
+│   │   │   ├── 📄 003.jpg
+│   │   │   ├── 📄 x01.jpg
+│   │   │   ├── 📄 x05.jpg
+│   │   │   ├── 📄 002-3.jpg
+│   │   │   ├── 📄 x03.jpg
+│   │   │   ├── 📄 x06.jpg
+│   │   │   ├── 📄 002-2.jpg
+│   │   │   ├── 📄 001.jpg
+│   │   │   ├── 📄 x02.jpg
+│   │   │   ├── 📄 002-1.jpg
+│   │   │   ├── 📄 x04.jpg
+│   │   │   └── 📄 004.jpg
+│   │   └── 📁 TP04/
+│   │       ├── 📄 TP4  RHD.docx
+│   │       ├── 📄 Site-to-Site IPsec VPN _ CISCOMADESIMPLE.BE.html
+│   │       └── 📁 Site-to-Site IPsec VPN _ CISCOMADESIMPLE.BE_files/
+│   │           ├── 📄 printfriendly-pdf-button-nobg.png
+│   │           ├── 📄 jquery.js.download
+│   │           ├── 📄 responsive-scripts.min.js.download
+│   │           ├── 📄 wp-emoji-release.min.js(1).download
+│   │           ├── 📄 saved_resource(2)
+│   │           ├── 📄 f8a4c8fc4f4e2d266897c1848677f31c.png
+│   │           ├── 📄 4f4777074b947546c0fa0f177d967edc.jpeg
+│   │           ├── 📄 twitter-timeline.min.js.download
+│   │           ├── 📄 3eea4fa323ee70326a6b6f44ea135d1e.png
+│   │           ├── 📄 widget_iframe.08b626208bff56b0ed982833346043ef.html
+│   │           ├── 📄 comment-reply.min.js.download
+│   │           ├── 📄 twitter.png
+│   │           ├── 📄 form.js.download
+│   │           ├── 📄 jquery-migrate.min.js.download
+│   │           ├── 📄 4aa8bb61e9d64e78ccb10291e43f1884.png
+│   │           ├── 📄 printfriendly.js.download
+│   │           ├── 📄 font-awesome.min.css
+│   │           ├── 📄 style(1).css
+│   │           ├── 📄 saved_resource(6).html
+│   │           ├── 📄 saved_resource(7).html
+│   │           ├── 📄 linkedin.png
+│   │           ├── 📄 hovercard(1).css
+│   │           ├── 📄 postmessage.min.js.download
+│   │           ├── 📄 services(1).css
+│   │           ├── 📄 vpn-capt.png
+│   │           ├── 📄 wpgroho.js(1).download
+│   │           ├── 📄 89f5b3e31820013218d8230380e94bbb.png
+│   │           ├── 📄 saved_resource(8).html
+│   │           ├── 📄 wp-embed.min.js.download
+│   │           ├── 📄 jetpack.css
+│   │           ├── 📄 dashicons.min.css
+│   │           ├── 📄 g.gif
+│   │           ├── 📄 youtube-icon.png
+│   │           ├── 📄 style.css
+│   │           ├── 📄 a
+│   │           ├── 📄 cropped-cropped-logo-cmsbe-012.png
+│   │           ├── 📄 f47851bd241e77fee4509edbeddfe65c.png
+│   │           ├── 📄 facebook.png
+│   │           ├── 📄 googleplus-icon.png
+│   │           ├── 📄 widgets.js.download
+│   │           ├── 📄 90a1e22f3628b1b4f391379e0d45d2ae.png
+│   │           ├── 📄 saved_resource(5).html
+│   │           ├── 📄 timeline.e7653a8bc8be5342f5ecf22ae2e65c92.js.download
+│   │           ├── 📄 feed.png
+│   │           ├── 📄 style(3).css
+│   │           ├── 📄 jquery.jetpack-resize.min.js.download
+│   │           ├── 📄 master.html
+│   │           ├── 📄 wpgroho.js.download
+│   │           ├── 📄 services.css
+│   │           ├── 📄 googleplus-sign-in.js.download
+│   │           ├── 📄 darkblue.css
+│   │           ├── 📄 4f4777074b947546c0fa0f177d967edc(1).jpeg
+│   │           ├── 📄 1f609.svg
+│   │           ├── 📄 responsive.css
+│   │           ├── 📄 wp-emoji-release.min.js.download
+│   │           ├── 📄 facebook-icon.png
+│   │           ├── 📄 gdsr.js.download
+│   │           ├── 📄 youtube.png
+│   │           ├── 📄 social-icons.css
+│   │           ├── 📄 rating.css
+│   │           ├── 📄 saved_resource(3)
+│   │           ├── 📄 jquery.placeholder.min.js.download
+│   │           ├── 📄 social-logos.min.css
+│   │           ├── 📄 desktop_style.css
+│   │           ├── 📄 queuehandler.min.js.download
+│   │           ├── 📄 249d0a67854fe4db641f169e682df784.png
+│   │           ├── 📄 hovercard.css
+│   │           ├── 📄 googleplus.png
+│   │           ├── 📄 gprofiles.js.download
+│   │           ├── 📄 twitter-icon.png
+│   │           ├── 📄 responsive-modernizr.min.js.download
+│   │           ├── 📄 gdsr.css.php
+│   │           ├── 📄 style(2).css
+│   │           ├── 📄 saved_resource.html
+│   │           ├── 📄 ad516503a11cd5ca435acc9bb6523536.png
+│   │           ├── 📄 gprofiles.js(1).download
+│   │           ├── 📄 saved_resource(4)
+│   │           ├── 📄 jquery.t-countdown.js.download
+│   │           ├── 📄 e-201822.js.download
+│   │           ├── 📄 6042f7dcfdf4d1a0909ddcdb471b7580.png
+│   │           ├── 📄 68528596ca33447fe6f7a4d83e0f2341.png
+│   │           ├── 📄 saved_resource
+│   │           ├── 📄 sharing.min.js.download
+│   │           ├── 📄 devicepx-jetpack.js.download
+│   │           ├── 📄 saved_resource(1)
+│   │           ├── 📄 front_end_style.css
+│   │           └── 📄 vpn.png
+│   └── 📁 COURS RHD/
+│       ├── 📄 COUR-06.pdf
+│       ├── 📄 COUR-04.pdf
+│       ├── 📄 COUR-01.pdf
+│       ├── 📄 COUR-05.pdf
+│       ├── 📄 COUR-03.pdf
+│       └── 📄 COUR-02.pdf
+├── 🔗📁 réseaux haut débits/  (raccourci)
+│   ├── 📄 FrameRelay-X25.pdf
+│   ├── 📄 ATM-Cours-1.pdf
+│   ├── 📄 Réseaux à hauts débits.pdf
+│   ├── 📄 Architecture OSI.pdf
+│   ├── 📁 tp/
+│   │   └── 📄 Lab2.pdf
+│   ├── 📁 terminologie/
+│   │   ├── 📄 Annexe Terminologie_2.pdf
+│   │   └── 📄 Annexe Terminologie_1.pdf
+│   ├── 📁 GNS3/
+│   │   ├── 📄 resFDDI.pdf
+│   │   ├── 📄 Frame-Relay-Understanding-it.pdf
+│   │   ├── 📄 Cours ATM-2009.pdf
+│   │   ├── 📄 TD-GNS3-Routeurs.pdf
+│   │   ├── 📄 c3745-advipservicesk9-mz.124-19.bin
+│   │   ├── 📄 c3745-advipservicesk9-mz.124-19.image
+│   │   └── 📄 c7200-advipservicesk9-mz.124-24.T1.bin (2).bin
+│   └── 📁 introduction/
+│       ├── 📄 Introduction_Partie_2.pdf
+│       └── 📄 Introduction_Partie_3.pdf
+└── 🔗📁 Les réseaux hauts débit/  (raccourci)
+    ├── 📁 TD/
+    ├── 📁 Cours/
+    ├── 📁 Exercices/
+    ├── 📁 Résumés/
+    └── 📁 Examens Corrigés/
+
+═════════════════════════════════════
+  Fin du fichier · réseaux haut débits
+═════════════════════════════════════

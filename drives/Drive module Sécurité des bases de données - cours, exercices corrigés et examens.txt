@@ -1,0 +1,21 @@
+📚 MODULE : Sécurité des bases de données             
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Sécurité des bases de données.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Sécurité des bases de données/
+└── 🔗📁 SEC DB  (raccourci)
+
+═════════════════════════════════════
+  Fin du fichier · Sécurité des bases de données
+═════════════════════════════════════

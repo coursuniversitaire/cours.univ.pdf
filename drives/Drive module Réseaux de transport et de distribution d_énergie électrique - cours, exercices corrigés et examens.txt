@@ -1,0 +1,76 @@
+📚 MODULE : Réseaux de transport et de distribution d'énergie électrique
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Réseaux de transport et de distribution d'énergie électrique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Réseaux de transport et de distribution d'énergie électrique/
+├── 📄 Reseaux-20260610T211239Z-3-001.zip
+└── 🔗📁 Reseaux/  (raccourci)
+    ├── 📁 Tp/
+    │   ├── 📄 Test Tp reseaux.png
+    │   ├── 📁 Tp court circuit/
+    │   │   ├── 📄 Travail Demandé TP3 et TP4.docx
+    │   │   ├── 📄 TP2_CC_2021-2022-Master-ME-EI.pdf
+    │   │   ├── 📁 Scripts/
+    │   │   │   ├── 📁 Tp3/
+    │   │   │   │   └── 📄 ScriptTp3.m
+    │   │   │   └── 📁 Tp 4/
+    │   │   │       └── 📄 CC3ph.m
+    │   │   └── 📁 Comptes rendu/
+    │   │       └── 📄 Compte rendu tp 3_tp4 reseaux.docx
+    │   └── 📁 Tp ecoulement de puissance/
+    │       ├── 📄 Travail Demandé TP1 et TP2.docx
+    │       ├── 📄 Script du programme LF.docx
+    │       ├── 📄 TP1_LF_2021-2022-Master-ME-EI.pdf
+    │       ├── 📁 Scripts/
+    │       │   ├── 📁 Tp1/
+    │       │   │   ├── 📄 Script_Tp1.m
+    │       │   │   ├── 📄 travail.m
+    │       │   │   └── 📄 Calculs.m
+    │       │   └── 📁 Tp2/
+    │       │       └── 📄 Tp2.m
+    │       └── 📁 Compte rendu/
+    │           ├── 📄 CompteRenduTp2.docx
+    │           ├── 📄 Compte rendu Tp 1.docx
+    │           ├── 📄 Diagramme reseaux 9 noeuds.docx
+    │           └── 📄 Diagramme reseaux 4 noeuds.docx
+    ├── 📁 Examens/
+    │   └── 📄 ExamenRTDEE_5Avril2021+Solution (1).pdf
+    ├── 📁 Td/
+    │   ├── 📄 TD N°4 Compensation de la puissance réactive et régulation de tension corrigé.pdf
+    │   ├── 📄 TD _LF-_2.pdf
+    │   ├── 📄 TD _LF-.pdf
+    │   ├── 📄 Formulation EP– Methode GS.pdf
+    │   ├── 📄 explication Td1 reseaux.pdf
+    │   ├── 📄 TD N°1_LF_2021-2022-Master-ME-EI.pdf
+    │   ├── 📄 TD N°2 Machine Synchrone Solutionné.pdf
+    │   ├── 📄 TD N°4 Compensation de la puissance réactive et régulation de tension.pdf
+    │   ├── 📄 TD N°2 Machine Synchrone.pdf
+    │   ├── 📄 TD N°3 Calcul des courts circuits.pdf
+    │   ├── 📄 Admittances séries et Ybus.docx
+    │   ├── 📄 TD N°3 Calcul des courts circuits&Solution_V-Dec2021.pdf
+    │   ├── 📄 TD N°3 Calcul des courts circuits&Solution_V-Dec2021.pdf
+    │   ├── 📄 TD N°2 Machine Synchrone (2).pdf
+    │   ├── 📄 TD N°1_LF_2021-2022-Master-ME-EI_EXO1-Corrigé&Devoir Maison.pdf
+    │   └── 📄 TD N°1_LF_2021-2022-Master-ME-EI_EXO1-Corrigé&Devoir Maison.pdf
+    └── 📁 Cours/
+        ├── 📄 Cours N°5 Introduction à la compensation de la puissance reactive (partie 1).pdf
+        ├── 📄 Cours N°5 Compensation de la puissance reactive et régulation de tension.pdf
+        ├── 📄 Cours N°3 Calculs des courts circuits.pdf
+        ├── 📄 Cours N°2  Modélisation de la Machine Synchrone.pdf
+        ├── 📄 Cours N°1 Ecoulement de puissance 2021-2022.pdf
+        └── 📄 Cours N°0 Introduction aux réseaux électriques.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Réseaux de transport et de distribution d'énergie électrique
+═════════════════════════════════════

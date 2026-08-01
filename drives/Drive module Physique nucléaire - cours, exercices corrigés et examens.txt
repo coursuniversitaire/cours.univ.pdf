@@ -1,0 +1,58 @@
+📚 MODULE : Physique nucléaire                        
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Physique nucléaire.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Physique nucléaire/
+├── 📄 MANIP 2_2021docx.pdf
+├── 📄 Serie_1_corrigé.pdf
+├── 📄 Série_2_Corrigé.pdf
+├── 📄 Série_3_Cor.pdf
+├── 📄 Cours + Tds.pdf
+├── 🔗📁 + PHYSIQUE NUCLEAIRE 2021 SABORPCMATH.COM/  (raccourci)
+│   ├── 📄 °TD PHYSIQUE NUCLEAIRE FSSM MARRAKECH 22 23 SMP5.pdf
+│   ├── 📄 °EXAMENS PHYSIQUE NUCLEAIRE FSDM FES SMP5.pdf
+│   ├── 📄 °TD PHYSIQUE NUCLEAIRE FST TETOUAN 20 21 SMP5.pdf
+│   ├── 📄 °TD PHYSIQUE NUCLEAIRE FST TETOUAN 16 17 SMP5.pdf
+│   ├── 📄 °TD PHYSIQUE NUCLEAIRE FST TETOUAN 15 16 SMP5.pdf
+│   ├── 📄 °TD PHYSIQUE NUCLEAIRE FSSM MARRAKECH 20 21 SMP5.pdf
+│   ├── 📄 °TD PHYSIQUE NUCLEAIRE FSR RABAT 2017 SMP5.pdf
+│   ├── 📄 °TD PHYSIQUE NUCLEAIRE FSR RABAT 20 21 SMP5.pdf
+│   ├── 📄 °TD PHYSIQUE NUCLEAIRE FSO OUAJDA SMP.pdf
+│   ├── 📄 °TD PHYSIQUE NUCLEAIRE FSM MEKNES 20 21 SMP5.pdf
+│   ├── 📄 °TD PHYSIQUE NUCLEAIRE FSDM FES 20 21 SMP5.pdf
+│   ├── 📄 °TD PHYSIQUE NUCLEAIRE FSAC CASABLANCA 20 21 SMP5.pdf
+│   ├── 📄 °TD PHYSIQUE NUCLEAIRE FSA AGADIR 20 21 SMP5.pdf
+│   ├── 📄 °TD PHYSIQUE NUCLEAIRE FPL LARACH SMP5.pdf
+│   ├── 📄 °TD PHYSIQUE NUCLEAIRE FPK KHOURIBGA SMP5.pdf
+│   ├── 📄 °EXAMENS PHYSIQUE NUCLEAIRE FST TETOUAN SMP5.pdf
+│   ├── 📄 °EXAMENS PHYSIQUE NUCLEAIRE FSAC CASABLANCA SMP5.pdf
+│   ├── 📄 °EXAMENS PHYSIQUE NUCLEAIRE FSA AGADIR SMP5.pdf
+│   ├── 📄 °COURS PHYSIQUE NUCLEAIRE FSSM MARRAKECH 20 21 SMP5.pdf
+│   ├── 📄 °COURS PHYSIQUE NUCLEAIRE FSR RABAT 20 21 SMP5.pdf
+│   ├── 📄 °COURS PHYSIQUE NUCLEAIRE FSM MEKNES 20 21 SMP5.pdf
+│   ├── 📄 °COURS PHYSIQUE NUCLEAIRE FSDM FES 20 21 SMP5.pdf
+│   ├── 📄 °COURS PHYSIQUE NUCLEAIRE FSAC CASABLANCA SMP5.pdf
+│   ├── 📄 °COURS PHYSIQUE NUCLEAIRE FSA AGADIR 20 21 SMP5.pdf
+│   ├── 📄 °COURS PHYSIQUE NUCLEAIRE FSA AGADIR 14 15 SMP5.pdf
+│   ├── 📄 °COURS PHYSIQUE NUCLEAIRE FSA AGADIR 12 13 14 SMP5.pdf
+│   ├── 📄 °COURS PHYSIQUE NUCLEAIRE FPL LARACH SMP5.pdf
+│   └── 📄 °COURS PHYSIQUE NUCLEAIRE FPK KHOURIBGA SMP5.pdf
+└── 📁 Cours/
+    ├── 📄 Bind_Ener.pdf
+    ├── 📄 Radioactivité_2022-23.pdf
+    └── 📄 Section_Efficace_2023.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Physique nucléaire
+═════════════════════════════════════

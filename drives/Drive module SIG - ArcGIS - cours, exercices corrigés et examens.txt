@@ -1,0 +1,222 @@
+📚 MODULE : SIG - ArcGIS                              
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module SIG - ArcGIS.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 SIG - ArcGIS/
+├── 🔗📁 SIG ET EDG/  (raccourci)
+│   ├── 📄 ModelisationUML rappel de cours.pdf
+│   ├── 📁 HOUCINE/
+│   │   ├── 📄 rapport1sig_mahni_hocine-2.pdf
+│   │   ├── 📄 Rapport-tp-2-sig.pdf
+│   │   ├── 📄 tp-sig-suite-tp-1.pdf
+│   │   └── 📄 tp-03sig_final.pdf
+│   ├── 📁 TDS/
+│   │   ├── 📄 TP3_SIG2021envoye.pdf
+│   │   ├── 📄 TP2cartethématique.pdf
+│   │   ├── 📄 Relation intercouche.docx
+│   │   ├── 📄 SIGEXO2.mdj
+│   │   ├── 📄 Entité.docx
+│   │   ├── 📄 TP1_arcMap_sansActivité.pdf
+│   │   ├── 📄 TP1_SIG_2021_avecactivitéfinal.pdf
+│   │   ├── 📄 exo 1+2.png
+│   │   ├── 📄 modelisationOO2021.pdf
+│   │   └── 📁 LOG/
+│   │       ├── 📄 Le ARCGIS10
+│   │       ├── 🔗📁 How to Install ArcGIS 10.6 Crack Software- English Audio - YouTube.rar  (raccourci)
+│   │       ├── 🔗📁 ArcGIS_License_Manager_Windows_106_161708.rar  (raccourci)
+│   │       └── 🔗📁 ArcGIS_Desktop_106_161544.rar  (raccourci)
+│   └── 📁 COURS/
+│       └── 📁 PDFS/
+│           ├── 📄 solution-etude de cas _BDG_EDS.pdf
+│           ├── 📄 etude_de_cas_eds.pdf
+│           ├── 📄 eds2021.pdf
+│           ├── 📄 cours SIG_2021.pdf
+│           ├── 📄 support de coursIG_2021..pdf
+│           └── 📄 programme thématiqueMind2021.pdf
+├── 📄 TP N°3 Sélections requêtes et géotraitements -SIG - ArcGIS
+├── 📄 Exercices TP Manipulation de données -SIG - ArcGIS
+├── 📄 TP3_SIG2021envoye
+├── 📄 Exercices TP Système d'Information Géographique -SIG - ArcGIS
+├── 📄 Exercices TP Exploration d'ArcMap -SIG - ArcGIS
+├── 📄 Exercices TP Mahni Hocine MIND M1 -SIG - ArcGIS
+├── 📄 Exercices TP Activité d'apprentissage -SIG - ArcGIS
+├── 📄 Exercices TP Découverte ArcGIS Desktop 10.2 -SIG - ArcGIS
+├── 📄 Exercices TP Carte thematique Algerie -SIG - ArcGIS
+├── 📄 Cours Information Géographique et Système d’Information Géographique
+├── 📄 Cours SIG et EDG MIND -SIG - ArcGIS
+├── 📄 Cours SIG EDG Objectifs -SIG - ArcGIS
+├── 📄 Cours Entrepot de donnees spatiales et SOLAP -SIG - ArcGIS
+├── 📄 Cours SIG et EDG pour Master MIND -SIG - ArcGIS
+├── 📄 Exercices TP Exploration des composants de l outil SIG ArcGIS 10.2.2
+├── 📄 Exercices TP Exploration des composants de l outil SIG ArcGIS 10 2 2
+├── 📄 Exercices TD Modélisation Orientée Objet -SIG - ArcGIS
+├── 📄 Cours Modélisation orientée objets avec UML -SIG - ArcGIS
+├── 📄 Exercices TD Information Geographique -SIG - ArcGIS
+├── 📄 Entrepot de donnees spatiales et SOLAP -SIG - ArcGIS
+├── 📄 Cours SIG Introduction et Définitions -SIG - ArcGIS
+├── 📄 Exercices TP Exploration des composants de l outil SIG ArcGIS 10 2 2
+├── 📄 Cours Introduction à la géomatique -SIG - ArcGIS
+├── 📄 Exercices TD Diagramme des cas d'utilisation -SIG - ArcGIS
+├── 📄 Exercices TD Conception Diagramme Classes -SIG - ArcGIS
+├── 📄 TD1correctionEXO1EtEXO2.pdf
+├── 🔗📁 SIG/  (raccourci)
+│   ├── 📄 ConceptionEDS.pdf
+│   ├── 📄 coursEDS2020.pdf
+│   ├── 📄 BDGCrime de vol.pdf
+│   ├── 📄 TP3_SIG_2019-2020.pdf
+│   ├── 📄 cours SIG_2020.pdf
+│   ├── 📄 TP2cartethématique.pdf
+│   ├── 📄 complément _partie2du tp1.pdf
+│   ├── 📄 SIGrapportMus.docx
+│   ├── 📄 coursIG2020.pdf
+│   ├── 📄 Suite_TP1_SIG_partie2.pdf
+│   ├── 📄 Tp1SIG_MIND_2020.pdf
+│   ├── 📄 TD1correctionEXO1EtEXO2.pdf
+│   ├── 📄 CasDutilisationmind.pdf
+│   ├── 📄 coursModelisationUML.pdf
+│   ├── 📄 modélisation_UML_Mind_2020.pdf
+│   ├── 📄 chapI_intgeoma2020M1.pdf
+│   └── 📁 Projet/
+│       ├── 🔗📁 présentation_19-05-2020 14.17.22.xesc  (raccourci)
+│       ├── 📄 Projet.rar
+│       └── 📄 USTHB4.tif
+└── 🔗📁 SIG/  (raccourci)
+    ├── 📄 map.osm
+    ├── 📄 coordenier.txt
+    ├── 📄 15182549_10207805125992789_380969155_o (1).jpg
+    ├── 📄 coord alger.txt
+    ├── 📄 .DS_Store
+    ├── 📁 ages/
+    │   ├── 📄 Algeria_demography.png
+    │   ├── 📄 DensitÇ_de_la_population,_AlgÇrie_du_Nord.gif
+    │   └── 📄 15027566_1122378904495017_1942363843596240035_n.jpg
+    ├── 📁 area point ligne/
+    │   ├── 📄 ligne.dbf
+    │   ├── 📄 area.dbf
+    │   ├── 📄 summary.xlsx
+    │   ├── 📄 populaion wilaya.xlsx
+    │   ├── 📄 point.dbf
+    │   ├── 📄 point.shx
+    │   ├── 📄 ligne.shx
+    │   ├── 📄 point.prj
+    │   ├── 📄 ligne.shp
+    │   ├── 📄 ligne.prj
+    │   ├── 📄 area.shx
+    │   ├── 📄 area.shp
+    │   ├── 📄 point.shp
+    │   └── 📄 area.prj
+    ├── 📁 population/
+    │   ├── 📄 mise en page.mxd
+    │   ├── 📄 Sans nom.mxd
+    │   ├── 📄 Sans nom (2).mxd
+    │   └── 📄 densitÇ.mxd
+    ├── 📁 SIG/
+    │   ├── 📄 Sig_Tp1_Homework.zip
+    │   ├── 📄 installation_arcgis1022.docx
+    │   ├── 📄 Travailler avec OpenStreetMap dans ArcGIS 10 - 2_2 - arcOrama.pdf
+    │   ├── 📄 sig opm.JPG
+    │   ├── 📄 osm22.JPG
+    │   ├── 📄 osm2.JPG
+    │   ├── 📄 Extraire et transformer des donnÇes OpenStreetMap au format shapefile.pdf
+    │   ├── 📄 coord_alger.JPG
+    │   └── 📄 linda_osm.JPG
+    ├── 📁 captureTP SIG/
+    │   ├── 📄 table apres les jointure linda.PNG
+    │   ├── 📄 symbologie selon les cause (exemple alcool telephone distance de securitÇ).PNG
+    │   ├── 📄 9 apres le filtrage voila notre nouvelle couche(276 route principal).PNG
+    │   ├── 📄 7 ajouter les fichier .SHP dans arcatalog et ouvrir en arcMAP voila resultat (encemble de tout les routes de bab ezzouar ) on besoin des ligne.PNG
+    │   ├── 📄 6 conversion une par une (area,point et ligne).PNG
+    │   ├── 📄 6 1 conversion une par une (area,point et ligne).PNG
+    │   ├── 📄 5 exportÇ en fichier  SHP(conversion).PNG
+    │   ├── 📄 table apres les jointure tout les fichier la suite.PNG
+    │   ├── 📄 4 voila afficharge et la conversion a l'aide Global mappeur.PNG
+    │   ├── 📄 3 choisir OpenStreetMap(OSM).PNG
+    │   ├── 📄 table apres les jointure tout les fichier 1.PNG
+    │   ├── 📄 2 ouvrir le fichiier telecharger par global mappeur.PNG
+    │   ├── 📄 1 telecharger fichier  .OSM.PNG
+    │   ├── 📄 13 symbologie avec 1 exmple.PNG
+    │   ├── 📄 12 symbologie selon les cause (exemple alcool telephone distance de securitÇ).PNG
+    │   ├── 📄 .DS_Store
+    │   ├── 📄 11 symbologie aprs jointure bien sur nbr blesse et de mort pour chaque trancon.PNG
+    │   ├── 📄 10 apres la collection des donnÇ(nbr accidemnt par route) en rouge c les route plus d accideent.PNG
+    │   └── 📁 donne/
+    │       ├── 📄 type de vehicule.PNG
+    │       ├── 📄 conducteur par ages.PNG
+    │       ├── 📄 type de conducteurs.PNG
+    │       ├── 📄 donne par accidents nbr mort et nbr blessÇs.PNG
+    │       ├── 📄 stat jour et nuit des accidents.PNG
+    │       └── 📄 causes d'accidents.PNG
+    ├── 📁 PROJET/
+    │   ├── 📄 Kouache_Larbi_ProjetSig.docx
+    │   ├── 📄 Kouache_Larbi_ProjetSig (1).docx
+    │   ├── 📄 BAB.osm
+    │   ├── 📄 BAB.dbf
+    │   ├── 📄 bab ezzouar OSM.osm
+    │   ├── 📄 bab ezouar.mxd
+    │   ├── 📄 victime.jpg
+    │   ├── 📄 TAMAN.osm
+    │   ├── 📄 Qgis.qgs
+    │   ├── 📄 ppp.shx
+    │   ├── 📄 ppp.dbf
+    │   ├── 📄 ppp.shp
+    │   ├── 📄 ppp.qix
+    │   ├── 📄 ppp.qpj
+    │   ├── 📄 nbr blesse par route - Copie.png
+    │   ├── 📄 nombre de victime par route.png
+    │   ├── 📄 ppp.prj
+    │   ├── 📄 nbr blesse par route.png
+    │   ├── 📄 ppp.cpg
+    │   ├── 📄 les cause.txt
+    │   ├── 📄 diagramme classe sig.JPG
+    │   ├── 📄 diagramme classe sig.edg
+    │   ├── 📄 bab ezouar1.mxd
+    │   ├── 📄 BAB.shx
+    │   ├── 📄 BAB.shp
+    │   ├── 📄 BAB.qpj
+    │   ├── 📄 BAB.prj
+    │   ├── 📄 2.png
+    │   ├── 📄 3.png
+    │   ├── 📄 15356823_1792867874289098_1493054399_n.jpg
+    │   ├── 📄 15301264_1792867877622431_2034973320_n.jpg
+    │   └── 📄 1.png
+    ├── 📁 capture SIG/
+    │   ├── 📄 mise en page.png
+    │   ├── 📄 9 somme de surface pour chaque wilaya.PNG
+    │   ├── 📄 8 apres symbologie et les label.PNG
+    │   ├── 📄 5 jointure Excel et SHP.PNG
+    │   ├── 📄 7.1 Label.PNG
+    │   ├── 📄 4 fchier excel population de chaque wilaya.PNG
+    │   ├── 📄 3 table attribut.PNG
+    │   ├── 📄 2 carte algerie par wilaya.PNG
+    │   ├── 📄 15 resultat final apres calcule de la dansitÇ.PNG
+    │   ├── 📄 7 Symbologie.PNG
+    │   ├── 📄 14 calcule de la densitÇ.PNG
+    │   ├── 📄 13 ajoute le champs densite.PNG
+    │   ├── 📄 6 Table .shp apres la jointure.PNG
+    │   ├── 📄 12 apres la jointure shp et out put.PNG
+    │   ├── 📄 11 pour recuperer la populations de chaque wilaya.PNG
+    │   ├── 📄 10 apres la somme.PNG
+    │   ├── 📄 1 connex arc MAP.PNG
+    │   └── 📄 0 connex arc catalog.PNG
+    └── 📁 TP/
+        ├── 📄 koubaOSM.osm.db
+        ├── 📄 koubaOSM.osm
+        ├── 📄 OSM.osm
+        ├── 📄 wil.xlsx
+        ├── 📄 diagramme classe sig.edg
+        └── 📄 base.xlsx
+
+═════════════════════════════════════
+  Fin du fichier · SIG - ArcGIS
+═════════════════════════════════════

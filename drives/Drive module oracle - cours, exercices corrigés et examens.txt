@@ -1,0 +1,119 @@
+📚 MODULE : oracle                                    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module oracle.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 oracle/
+├── 📄 A1-1_2-Manuel_TPsCorriges_SQL-PLSQL.pdf
+├── 📄 oracle n1.lnk
+├── 📄 partie1 Oracle ytb AR.txt
+├── 📄 exec de DML uodate procedure.png
+├── 📄 _cours chap2 prof.pdf
+├── 📄 _cours profile roles privilege ENSAF2020.pdf
+├── 📄 cours - folders id.json
+├── 📁 +oracle/
+│   ├── 📄 tp DBA.pdf
+│   ├── 📄 cours1 +ex.pdf
+│   └── 📄 TD_BD_Oracle_adm_cours.pdf
+├── 📁 Oracle 11g Administration prof[www.worldmediafiles.com] (1)/
+│   ├── 📄 mypdf.pdf
+│   ├── 📄 mypdf_2.pdf
+│   ├── 📄 mypdf_3.pdf
+│   ├── 📄 mypdf_4.pdf
+│   ├── 📄 mypdf_5.pdf
+│   ├── 📄 mypdf_6.pdf
+│   ├── 📄 mypdf_7.pdf
+│   ├── 📄 mypdf_8.pdf
+│   ├── 📄 mypdf_9.pdf
+│   ├── 📄 mypdf_11.pdf
+│   ├── 📄 mypdf_10.pdf
+│   ├── 📄 mypdf_12.pdf
+│   ├── 📄 mypdf_13.pdf
+│   ├── 📄 mypdf_14.pdf
+│   ├── 📄 mypdf_15.pdf
+│   ├── 📄 mypdf_16.pdf
+│   ├── 📄 mypdf_17.pdf
+│   ├── 📄 mypdf_18.pdf
+│   ├── 📄 mypdf_20.pdf
+│   ├── 📄 mypdf_19.pdf
+│   ├── 📄 mypdf_21.pdf
+│   ├── 📄 mypdf_22.pdf
+│   ├── 📄 mypdf_23.pdf
+│   ├── 📄 mypdf_24.pdf
+│   ├── 📄 mypdf_25.pdf
+│   ├── 📄 mypdf_26.pdf
+│   ├── 📄 mypdf_27.pdf
+│   ├── 📄 mypdf_28.pdf
+│   ├── 📄 mypdf_29.pdf
+│   ├── 📄 mypdf_30.pdf
+│   ├── 📄 mypdf_31.pdf
+│   ├── 📄 mypdf_32.pdf
+│   ├── 📄 mypdf_33.pdf
+│   ├── 📄 mypdf_34.pdf
+│   ├── 📄 mypdf_35.pdf
+│   ├── 📄 mypdf_36.pdf
+│   ├── 📄 mypdf_37.pdf
+│   ├── 📄 mypdf_38.pdf
+│   ├── 📄 mypdf_39.pdf
+│   ├── 📄 mypdf_40.pdf
+│   ├── 📄 mypdf_41.pdf
+│   ├── 📄 mypdf_42.pdf
+│   ├── 📄 mypdf_43.pdf
+│   ├── 📄 mypdf_44.pdf
+│   ├── 📄 mypdf_45.pdf
+│   ├── 📄 mypdf_46.pdf
+│   ├── 📄 mypdf_47.pdf
+│   ├── 📄 mypdf_48.pdf
+│   ├── 📄 mypdf_49.pdf
+│   ├── 📄 mypdf_50.pdf
+│   ├── 📄 mypdf_51.pdf
+│   ├── 📄 mypdf_52.pdf
+│   ├── 📄 mypdf_53.pdf
+│   ├── 📄 mypdf_54.pdf
+│   ├── 📄 mypdf_55.pdf
+│   ├── 📄 mypdf_56.pdf
+│   ├── 📄 mypdf_57.pdf
+│   ├── 📄 mypdf_58.pdf
+│   ├── 📄 mypdf_60.pdf
+│   ├── 📄 mypdf_59.pdf
+│   ├── 📄 mypdf_61.pdf
+│   ├── 📄 mypdf_62.pdf
+│   ├── 📄 mypdf_63.pdf
+│   ├── 📄 mypdf_64.pdf
+│   ├── 📄 mypdf_65.pdf
+│   ├── 📄 mypdf_66.pdf
+│   ├── 📄 mypdf_67.pdf
+│   ├── 📄 mypdf_69.pdf
+│   ├── 📄 mypdf_70.pdf
+│   ├── 📄 mypdf_68.pdf
+│   ├── 📄 mypdf_71.pdf
+│   ├── 📄 mypdf_72.pdf
+│   └── 📄 mypdf_73.pdf
+├── 📁 fsAgadir/
+│   ├── 📄 gestion instance ENSA AGA  DRAFTDBA-MODULE-1-.pdf
+│   ├── 📄 6 Architecture Oracle.pdf
+│   ├── 📄 cours oracle complet AGADIR.pdf
+│   ├── 📄 7 Programmation PL-SQL Oracle.pdf
+│   ├── 📄 2. Administration du système Oracle 10g.pdf
+│   ├── 📄 Exercices Corrigés Initaition aux BDD.pdf
+│   └── 📄 1444475672309.pdf
+└── 📁 RESUME new tn cours/
+    ├── 📄 ABD Chapitre 4 gestion user 1.pdf
+    ├── 📄 ABD Chapitre 3 tablespace 2.pdf
+    ├── 📄 ABD Chapitre 3 tablespace 1.pdf
+    ├── 📄 ABD Chapitre 2 arch_3.pdf
+    └── 📄 ABD Chapitre 1 intro.pdf
+
+═════════════════════════════════════
+  Fin du fichier · oracle
+═════════════════════════════════════

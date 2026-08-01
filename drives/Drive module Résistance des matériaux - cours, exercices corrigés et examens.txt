@@ -1,0 +1,336 @@
+📚 MODULE : Résistance des matériaux                  
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Résistance des matériaux.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Résistance des matériaux/
+├── 🔗📁 RDM/  (raccourci)
+│   ├── 📄 aide mémoire résistance des matériaux dunod pdf.pdf
+│   ├── 📄 Correction du TD_Sollicitations composées.pdf
+│   ├── 📄 TD_Sollicitations composées.pdf
+│   ├── 📄 Sollicitations Composées.mp4
+│   ├── 📄 Sollicitations Composées (1).pdf
+│   ├── 📄 Sollicitations Composées (2).pdf
+│   ├── 📄 Cours RDM2_V1.pdf
+│   ├── 📄 TD.4.pdf
+│   ├── 📄 Correction TD.4.pdf
+│   ├── 📄 correction DS rdm 2-2025.pdf
+│   ├── 📄 DS RDM2_ 2025_S2.pdf
+│   ├── 📄 chapitre  Systèmes Hyperstatiques.pdf
+│   ├── 📄 Correction TD.1.pdf
+│   ├── 📄 chapitre.1 Flambement-des-poutres.pdf
+│   ├── 📄 TD.1 Flambement.pdf
+│   ├── 📄 Correction du DS 2023.pdf
+│   ├── 📄 Correction TD.2.pdf
+│   ├── 📄 Correction TD.3.pdf
+│   ├── 📄 DS RDM 2023 sem2 v2.pdf
+│   ├── 📄 Flexion Simple.pdf
+│   ├── 📄 Introduction à la méthode des éléments finis (élement poutre).pdf
+│   ├── 📄 TD.2 Chapitre. 2.pdf
+│   └── 📄 TD.3.pdf
+├── 🔗📁 TP RDM/  (raccourci)
+│   ├── 📄 TP N°5 Essai de Torsion.pdf
+│   ├── 📄 TP N°4 ABAQUS.pdf
+│   ├── 📄 TP N°2 Flambement des poutres.pdf
+│   ├── 📄 TP N°1 Essai de flexion.pdf
+│   └── 📄 TP N°3 RDM6.pdf
+├── 🔗📁 RDM / Outil Matlab/  (raccourci)
+│   ├── 📁 Outil Matlab/
+│   │   └── 📁 Prof Tahir/
+│   │       ├── 📄 Matlab Examen final2.pdf
+│   │       ├── 📄 Matlab Examen final Juin 2023.pdf
+│   │       └── 📁 Tps/
+│   │           ├── 📄 Matlab_TP9_Structures de données.pdf
+│   │           ├── 📄 Matlab_TP12_Traitement de signal.pdf
+│   │           ├── 📄 Matlab_TP11_Traitement d’image.pdf
+│   │           ├── 📄 Matlab_TP9_Interfaces graphiques.pdf
+│   │           ├── 📄 Matlab_TP8_Polynômes, fractions rationnelles.docx.pdf
+│   │           ├── 📄 Matlab_TP7_Résolution des équations différentielles.pdf
+│   │           ├── 📄 Matlab_TP5_Les fonctions.pdf
+│   │           ├── 📄 Matlab_TP4_Outils de développement.pdf
+│   │           ├── 📄 Matlab_TP6_Résolution système Linéaire.pdf
+│   │           ├── 📄 Matlab_TP3_Représentation graphique.pdf
+│   │           ├── 📄 Matlab_TP2_Vercteurs et Matrices.pdf
+│   │           └── 📄 Matlab_TP1_Initiation à Matlab.pdf
+│   └── 📁 RDM/
+│       └── 📁 Prof Kissi/
+│           ├── 📄 CC RDM 2024.pdf
+│           ├── 📄 Exam RDM 22-23.pdf
+│           └── 📁 Cours/
+│               └── 📄 SUPPORT COURS RDM Pr KISSI.pdf
+├── 🔗📁 Mecanique_Appliquee_-_Resistance_des_Materiaux__Mecanique_des_Fluides__Thermodynamique_2.pdf/  (raccourci)
+├── 🔗📁 RDM/  (raccourci)
+│   ├── 📄 Liens enregistrements RDM2.docx
+│   ├── 📄 Feuille de réponses_corrigée_RDM2
+│   ├── 📄 Feuille de réponses_corrigée_RDM2.pdf
+│   ├── 🔗📁 Enregistrement TD RDM/  (raccourci)
+│   │   ├── 🔗📁 TD RDM2 demi-section A2 (2022-01-05 at 23:03 GMT-8)/  (raccourci)
+│   │   ├── 🔗📁 TD RDM2 demi-section A2 (2021-12-15 at 23:05 GMT-8)/  (raccourci)
+│   │   ├── 🔗📁 TD RDM2 demi-section A2 (2021-12-01 at 23:00 GMT-8)/  (raccourci)
+│   │   ├── 🔗📁 TD RDM2 demi-section A2 (2021-11-24 at 23:02 GMT-8)/  (raccourci)
+│   │   ├── 🔗📁 TD RDM2 demi-section A2 (2021-11-10 at 23:02 GMT-8)/  (raccourci)
+│   │   └── 🔗📁 TD RDM2 demi-section A2 (2021-11-04 at 00:01 GMT-7)/  (raccourci)
+│   ├── 📁 Td/
+│   │   ├── 📄 TD9_RDM2_MÃ©thodes Ã©nergÃ©tiques
+│   │   ├── 📄 TD1 RDM2_Rappel_Statique et gÃ©nÃ©ralitÃ©s RDM
+│   │   ├── 📄 TD1 RDM2_Rappel_Statique et gÃ©nÃ©ralitÃ©s RDM
+│   │   ├── 📄 TD8_RDM2_MÃ©thodes Ã©nergÃ©tiques.pdf
+│   │   ├── 📄 TD1 RDM2_Rappel_Statique et gÃ©nÃ©ralitÃ©s RDM
+│   │   ├── 📄 TD10_RDM2_MÃ©thodes Ã©nergÃ©tiques.pdf
+│   │   ├── 📄 TD9_RDM2_MÃ©thodes Ã©nergÃ©tiques.pdf
+│   │   ├── 📄 TD7_RDM2.pdf
+│   │   ├── 📄 TD6_RDM2.pdf
+│   │   ├── 📄 TD5_RDM2.pdf
+│   │   ├── 📄 TD4_RDM2.pdf
+│   │   ├── 📄 TD3_RDM2.pdf
+│   │   ├── 📄 TD1-2_RDM2.pdf
+│   │   ├── 📄 Exo 3_EnnoncÃ©_RDM2.pdf
+│   │   ├── 📄 TD1 RDM2_Rappel_Statique et gÃ©nÃ©ralitÃ©s RDM.pdf
+│   │   ├── 📄 TD1 RDM2_Rappel_Statique et gÃ©nÃ©ralitÃ©s RDM.pdf
+│   │   └── 📁 rdm m d aires/
+│   └── 📁 Cours/
+│       ├── 📄 Cours9_RDM2_Chapitre 3_MÃ©thodes Ã©nergÃ©tiques.pdf
+│       ├── 📄 Cours10_RDM2_Chapitre 3_MÃ©thodes Ã©nergÃ©tiques.pdf
+│       ├── 📄 Cours8_RDM2_Chapitre 3_MÃ©thodes Ã©nergÃ©tiques.pdf
+│       ├── 📄 Cours7_RDM2_Chapitre 3_MÃ©thodes Ã©nergÃ©tiques.pdf
+│       ├── 📄 Cours6 RDM2_Chapitre 2_Differentes methodes de determination de la deformee.pdf
+│       ├── 📄 Cours5-6_RDM2_Chapitre 2_Differentes methodes de determination de la deformee.pdf
+│       ├── 📄 Cours4 RDM2_Chapitre 1_Flexion plane et simple (Rappel).pdf
+│       ├── 📄 Cours2 RDM2_Chapitre 1_Flexion plane et simple (Rappel).pdf
+│       ├── 📄 Cours3 RDM2_Chapitre 1_Flexion plane et simple (Rappel).pdf
+│       ├── 📄 RDM_Analyse des contraintes_Cercle de Mohr.pdf
+│       └── 📄 Cours1 RDM2_Rappel_Statique et gÃ©nÃ©ralitÃ©s RDM.pdf
+├── 📄 Examen Final Corrigé Résistance des Matériaux 1 janvier 2020 Résistance des matériaux
+├── 📄 TD Statique RDM L2 Exercices Série 1 USTHB FGM&GP Résistance des matériaux
+├── 📄 RDM TD N4 Caractéristiques géométriques sections droites Résistance des matériaux
+├── 📄 Chapitre 4 Caractéristiques géométriques des sections planes 
+├── 📄 Série d'exercices corrigés RDM: Cisaillement
+├── 📄 EPREUVE DE MOYENNE DUREE N°2 - RDM.pdf
+├── 📄 Examen RDM.pdf
+├── 📄 Exercices RDM flexion 
+├── 📄 Exercices RDM cisaillement
+├── 📄 Exercices Problèmes Matériaux Essais Appuis Charges Chapitre 2 Résistance des matériaux
+├── 📄 cours Caractéristiques géométriques des sections planes Résistance des matériaux
+├── 📄 Exercices Caractéristiques géométriques sections planes sup Résistance des matériaux
+├── 📄 TD RDM S4 Caractéristiques Géométriques Sections Droites Résistance des matériaux
+├── 📄 Cours RDM Torsion Chapitre 6 Définitions Calcul Applications Résistance des matériaux
+├── 📄 Exercices Chapitre 6 Théorie Générale Sections Non Circulaires Résistance des matériaux
+├── 📄 Cours Traction Compression Calculs Mécanique des Matériaux Résistance des matériaux
+├── 📄 exercices chapitre 3 problèmes théorie et applications Résistance des matériaux
+├── 📄 Examen Final Résistance des Matériaux 2019 Corrigé Traction Résistance des matériaux
+├── 📄 Examen Résistance Matériaux Rattrapage 2ème ST corrigé Résistance des matériaux
+├── 📄 Cours Resistance des Materiaux Nouredine BOURAHLA Résistance des matériaux
+├── 📄 Examen final RDM1 Corrigé USTHB 2ST GM Janvier 2020 Résistance des matériaux
+├── 📄 cours RDM Chapitre 1 Intro Généralités Statique Forces Résistance des matériaux
+├── 📄 Exercices corrigés de Résistance des Matériaux Statique Torsion Résistance des matériaux
+├── 📄 TD Statique RDM L2 Exercices Série 1 USTHB FGM&GP Résistance des matériaux
+├── 📄 Exercices de Resistance des Materiaux Effort Normal Serie 2 Résistance des matériaux
+├── 📄 Licence 2 ST GM RDM Exercices de Cisaillement USTHB FGMET GP Résistance des matériaux
+├── 📄 TD Résistance Matériaux Torsion Exercices 2ème Année ST GM Résistance des matériaux
+├── 📄 RDM TD N4 Caractéristiques géométriques sections droites Résistance des matériaux
+├── 📄 RDM exercices Serie 4 Caractéristiques géométriques sections Résistance des matériaux
+├── 📄 RDM Exercices 1 Introduction Statique USTHB FGMGP 2019 2020 Résistance des matériaux
+├── 📄 TD RDM S2 Exo 1 2 Materiaux Efforts Normaux Contraintes Résistance des matériaux
+├── 📄 Chapitre 3 Cisaillement simple.pdf
+├── 📄 Chapitre 4 Caractéristiques géométriques des sections planes .pdf
+├── 📄 Chapitre-1-Généralité-en-RDM.pptx
+├── 📄 Chapitre-2-traction-et-compression.pptx
+├── 📄 Chapitre-6-Flexion-pure (1).pptx
+├── 📄 Cours - Caractéristiques géométriques des sections planes (1).pdf
+├── 📄 RDM cisaillement
+├── 📄 RDM flexion
+├── 📄 RDM introduction
+├── 📄 RDM-chapire-4.ppt
+├── 📄 +3 Corrigé EMD-RDM-mai05.doc
+├── 📄 0FDD5196-CB2E-4AFB-929A-CD003DFB30E5.jpeg
+└── 📁 Autres exercices/
+    ├── 📄 EFM TSGC RDM 2019-2020 Groupe 103 - Copie.pdf
+    ├── 📄 EFM TSGC RDM 2019-2020 Groupe 103.docx
+    ├── 📄 EFM TSGC RDM 2019-2020 Groupe 103.pdf
+    ├── 📄 EFM109 TSGC 1 -(22-23)-(RDM) -V1 - Enoncé.pdf
+    ├── 📄 EX  RDM  Corrigé.pdf
+    ├── 📄 Ex Passage TCC 2019.pdf
+    ├── 📄 Exam RDM III 02-012020.pdf
+    ├── 📄 Examen de RDM+corr.pdf
+    ├── 📄 Exercice RDM FSTS.pdf
+    ├── 📄 exercice rdm-1.pdf
+    ├── 📄 exercice rdm.pdf
+    ├── 📄 Exercice RDM12- énoncé-pdf.pdf
+    ├── 📄 Exercices RDM 3-1.pdf
+    ├── 📄 Exercices RDM OFPPT (25 exercices).pdf
+    ├── 📄 exercices RDM.pdf
+    ├── 📄 exercices RDM1.pdf
+    ├── 📄 Exercices RDM2.pdf
+    ├── 📄 Exercices_Corrigé_de_RDM_(Ex_N°2).pdf
+    ├── 📄 Exercices_Corrigé_de_RDM_(Ex_N°4).pdf
+    ├── 📄 exercices-rdm-1_compress (1).pdf
+    ├── 📄 exercises RDM  6.pdf
+    ├── 📄 exercises RDM  7.pdf
+    ├── 📄 exercises_RDM__3.pdf
+    ├── 📄 Exrcice RDM .pdf
+    ├── 📄 Formulaire-RdM-Poutres-simples (1)-1.pdf
+    ├── 📄 Formulaire-RdM-Poutres-simples.pdf
+    ├── 📄 Formulaire-RdM-Poutres(0).pdf
+    ├── 📄 Guide RDM.pdf
+    ├── 📄 les Unités RDM.pdf
+    ├── 📄 les Unités RDM.xlsx
+    ├── 📄 M07-Exercices d'application RDM.pdf
+    ├── 📄 M108 RDM_MANUEL DE COURS-1.pdf
+    ├── 📄 MecaAnnexe3(G et Momentsd_inertieParticuliers).pdf
+    ├── 📄 Module RDM.pdf
+    ├── 📄 Moments_d_inerties_et_produit_dinertie_d.pdf
+    ├── 📄 OUVRAGE RDM ELKHADARY 2020-1_240614_094235.pdf
+    ├── 📄 OUVRAGE RDM ELKHADARY 2020.pdf
+    ├── 📄 Pages à partir de 'RDM TERMO F4 OK '.pdf
+    ├── 📄 PROPOSITION EFM REGIONAL RDM 2023-2024.pdf
+    ├── 📄 RDM -CV-.pdf
+    ├── 📄 RDM & B.A - Réaliser par  EL-MAJDOUB AZIZ_000499.pdf
+    ├── 📄 RDM 1ère année ENTPE Résistance des matériaux – partie 2 Corrections des exercices.pdf
+    ├── 📄 RDM CC2 CT V1.doc
+    ├── 📄 RDM CC2 CT V1.pdf
+    ├── 📄 RDM CC2 CT V2.doc
+    ├── 📄 RDM CC2 CT V2.pdf
+    ├── 📄 RDM CC2 CT.doc
+    ├── 📄 RDM CC2 CT.pdf
+    ├── 📄 RDM fatimazahra.pdf
+    ├── 📄 RDM TSCTTP 2017.pdf
+    ├── 📄 [Rdm][TD]Moments_quadratiques-Prof - نسخ .pdf
+    ├── 📄 1-TD RDM Série N°2.pdf
+    ├── 📄 1-TD RDM Série N°3.pdf
+    ├── 📄 1-TD RDM Série N°5.pdf
+    ├── 📄 1-TD RDM Série N°6.pdf
+    ├── 📄 1-TD RDM Série N°7.pdf
+    ├── 📄 447285019-Exe  rcices-Corr  ige-de-R  DM_watermark.pdf
+    ├── 📄 1698857351924_OUVRAGE RDM ELKHADARY 2020.pdf
+    ├── 📄 EFM Régional M108 RDM Variante 2.pdf
+    ├── 📄 EFM RÉGIONAL RDM .pdf
+    ├── 📄 EFM Régional RDM.pdf
+    ├── 📄 EFM TSGC RDM 2019-2020 Groupe 101.pdf
+    ├── 📄 EFM TSGC RDM 2019-2020 Groupe 102.pdf
+    ├── 📄 EFM TSGC RDM 2019-2020 Groupe 103 - Copie.docx
+    ├── 📄 M07-Exercices d'application RDM.pdf
+    ├── 📄 RDM TSGO 2018.pdf
+    ├── 📄 RDM TSGO 2018.pdf
+    ├── 📄 rdm_compress (1).pdf
+    ├── 📄 RDM-1.pdf
+    ├── 📄 rdm-2-Chlef.pdf
+    ├── 📄 RDM-2.pdf
+    ├── 📄 RDM-3.pdf
+    ├── 📄 Rdm.pdf
+    ├── 📄 Résumé RDM.pdf
+    ├── 📄 td 4 chapitre 4 la flexion simple .pdf
+    ├── 📄 TD DE RDM CARACT2RISTIQUES  GEOMETRIQUES.pdf
+    ├── 📄 TD-RDM-FLEXION-CISAILLEMENT- 2023.pdf
+    ├── 📄 WhatsApp Image 2023-06-26 at 12.41.51.jpeg
+    ├── 📄 EFM TSGC RDM 2019-2020 Groupe 103 - Copie.pdf
+    ├── 📄 EFM TSGC RDM 2019-2020 Groupe 103.docx
+    ├── 📄 EFM TSGC RDM 2019-2020 Groupe 103.pdf
+    ├── 📄 EFM109 TSGC 1 -(22-23)-(RDM) -V1 - Enoncé.pdf
+    ├── 📄 EX  RDM  Corrigé.pdf
+    ├── 📄 Ex Passage TCC 2019.pdf
+    ├── 📄 Exam RDM III 02-012020.pdf
+    ├── 📄 Examen de RDM+corr.pdf
+    ├── 📄 Exercice RDM FSTS.pdf
+    ├── 📄 exercice rdm-1.pdf
+    ├── 📄 exercice rdm.pdf
+    ├── 📄 Exercice RDM12- énoncé-pdf.pdf
+    ├── 📄 Exercices RDM 3-1.pdf
+    ├── 📄 Exercices RDM OFPPT (25 exercices).pdf
+    ├── 📄 exercices RDM.pdf
+    ├── 📄 exercices RDM1.pdf
+    ├── 📄 Exercices RDM2.pdf
+    ├── 📄 Exercices_Corrigé_de_RDM_(Ex_N°2).pdf
+    ├── 📄 Exercices_Corrigé_de_RDM_(Ex_N°4).pdf
+    ├── 📄 exercices-rdm-1_compress (1).pdf
+    ├── 📄 exercises RDM  6.pdf
+    ├── 📄 exercises RDM  7.pdf
+    ├── 📄 exercises_RDM__3.pdf
+    ├── 📄 Exrcice RDM .pdf
+    ├── 📄 Formulaire-RdM-Poutres-simples (1)-1.pdf
+    ├── 📄 Formulaire-RdM-Poutres-simples.pdf
+    ├── 📄 Formulaire-RdM-Poutres(0).pdf
+    ├── 📄 Guide RDM.pdf
+    ├── 📄 les Unités RDM.pdf
+    ├── 📄 les Unités RDM.xlsx
+    ├── 📄 M07-Exercices d'application RDM.pdf
+    ├── 📄 M108 RDM_MANUEL DE COURS-1.pdf
+    ├── 📄 MecaAnnexe3(G et Momentsd_inertieParticuliers).pdf
+    ├── 📄 Module RDM.pdf
+    ├── 📄 Moments_d_inerties_et_produit_dinertie_d.pdf
+    ├── 📄 OUVRAGE RDM ELKHADARY 2020-1_240614_094235.pdf
+    ├── 📄 OUVRAGE RDM ELKHADARY 2020.pdf
+    ├── 📄 Pages à partir de 'RDM TERMO F4 OK '.pdf
+    ├── 📄 PROPOSITION EFM REGIONAL RDM 2023-2024.pdf
+    ├── 📄 RDM -CV-.pdf
+    ├── 📄 RDM 1ère année ENTPE Résistance des matériaux – partie 2 Corrections des exercices.pdf
+    ├── 📄 RDM CC2 CT V1.doc
+    ├── 📄 RDM CC2 CT V1.pdf
+    ├── 📄 RDM CC2 CT V2.doc
+    ├── 📄 RDM CC2 CT V2.pdf
+    ├── 📄 RDM CC2 CT.doc
+    ├── 📄 RDM CC2 CT.pdf
+    ├── 📄 RDM fatimazahra.pdf
+    ├── 📄 RDM TSCTTP 2017.pdf
+    ├── 📄 [Rdm][TD]Moments_quadratiques-Prof - نسخ .pdf
+    ├── 📄 1-TD RDM Série N°2.pdf
+    ├── 📄 1-TD RDM Série N°3.pdf
+    ├── 📄 1-TD RDM Série N°5.pdf
+    ├── 📄 1-TD RDM Série N°6.pdf
+    ├── 📄 1-TD RDM Série N°7.pdf
+    ├── 📄 447285019-Exe  rcices-Corr  ige-de-R  DM_watermark.pdf
+    ├── 📄 1698857351924_OUVRAGE RDM ELKHADARY 2020.pdf
+    ├── 📄 c   ours-20  17---rdm2.pdf
+    ├── 📄 centr graviti.pdf
+    ├── 📄 chap8.pdf
+    ├── 📄 CONTROLE 1 RDM 1   variante 2  CT1.doc
+    ├── 📄 CONTROLE 1 RDM 1   variante CT1.doc
+    ├── 📄 CONTROLE 1 RDM variante  1 CT2.doc
+    ├── 📄 CONTROLE 2 RDM 1 GC  V2.doc
+    ├── 📄 CONTROLE 2 RDM 1 GC 2 V1 (1).pdf
+    ├── 📄 CONTROLE 2 RDM 1 GO 1.doc
+    ├── 📄 CONTROLE 2 RDM 1 GO 2.doc
+    ├── 📄 CONTROLE 3 RDM 1 GO 1 variante 1.doc
+    ├── 📄 CONTROLE 3 RDM 1 GO 1 variante 2.doc
+    ├── 📄 CONTROLE 3 RDM 1 GO 2 variante 1.doc
+    ├── 📄 CONTROLE 3 RDM 1 GO 2 variante 2.doc
+    ├── 📄 CONTROLE N1 RDM GC.pdf
+    ├── 📄 CONTROLE N2 RDM GC.pdf
+    ├── 📄 CONTROLE N3 RDM.pdf
+    ├── 📄 CORR RDM TSCTTP 2019.pdf
+    ├── 📄 docdownloader.com_rdm-for   mulairesp  df_watermark (1).pdf
+    ├── 📄 EFF BOP2024.pdf
+    ├── 📄 EFM M04 RDM 1 CC.doc
+    ├── 📄 EFM M04 RDM 1 CC.pdf
+    ├── 📄 EFM M10 RDM 1 TDB.doc
+    ├── 📄 EFM RDM 1 CC.doc
+    ├── 📄 EFM RDM 1 CT.doc
+    ├── 📄 EFM RDM 1 CT.pdf
+    ├── 📄 EFM RDM 1 GO.doc
+    ├── 📄 EFM RDM 1 GO.pdf
+    ├── 📄 EFM RDM 1 TDB.doc
+    ├── 📄 EFM RDM 1 TDB.pdf
+    ├── 📄 EFM RDM CC V1.pdf
+    ├── 📄 EFM RDM TSGC 2017-2018 V2_250214_233024.pdf
+    ├── 📄 EFM RDM TSGC 2017-2018 V2.pdf
+    ├── 📄 EFM RDM TSGC 2018-2019 V1.pdf
+    ├── 📄 EFM Régional M108 RDM Variante 1.pdf
+    ├── 📄 EFM Régional M108 RDM Variante 2.pdf
+    ├── 📄 EFM RÉGIONAL RDM .pdf
+    ├── 📄 EFM Régional RDM.pdf
+    ├── 📄 EFM TSGC RDM 2019-2020 Groupe 101.pdf
+    ├── 📄 EFM TSGC RDM 2019-2020 Groupe 102.pdf
+    └── 📄 EFM TSGC RDM 2019-2020 Groupe 103 - Copie.docx
+
+═════════════════════════════════════
+  Fin du fichier · Résistance des matériaux
+═════════════════════════════════════

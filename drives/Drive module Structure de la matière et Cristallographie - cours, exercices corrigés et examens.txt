@@ -1,0 +1,90 @@
+📚 MODULE : Structure de la matière et Cristallographie
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Structure de la matière et Cristallographie.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Structure de la matière et Cristallographie/
+├── 📄 TD Mineral-20251213T115845Z-3-001.zip
+├── 🔗📁 TD Mineral/  (raccourci)
+│   ├── 📄 4 structure hexagonale ZNs Wurtzite.jpg
+│   ├── 📄 3 antifluorine+ NiAs.jpg
+│   ├── 📄 2 fluorine.jpg
+│   ├── 📄 ionique 1.jpg
+│   ├── 📄 2.jpeg
+│   ├── 📄 2.jpeg
+│   ├── 📄 1.jpeg
+│   ├── 📄 1.jpeg
+│   └── 📄 WhatsApp Image 2020-08-17 at 19.36.28.jpeg
+├── 🔗📁 Cristallographie/  (raccourci)
+│   ├── 📄 4)Correction des séries de Cristallographie.pdf
+│   ├── 📄 44734525.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 Exercices-résolus-de-Cristallographie-géométrique-et-cristallochimie-1.pdf
+│   │   ├── 📄 cristallo_05.pdf
+│   │   ├── 📄 Correction_exam_Cristal._S3_2013.pdf
+│   │   ├── 📄 CRISTALL TP STM.pdf
+│   │   ├── 📄 TD_SMC4_Structures Ioniques.pdf
+│   │   ├── 📄 TD_SMC4_Structures Ioniques_CORRIGE.pdf
+│   │   ├── 📄 TD.pdf
+│   │   └── 📄 TDs-Cristal..._2022~2023.pdf
+│   ├── 📁 EXAMEN/
+│   │   ├── 📄 examens cristallochimie s4.pdf
+│   │   ├── 📄 Examen cristalographe...-SR-2021.pdf
+│   │   ├── 📄 Examen cristalographe...-SN-2021.pdf
+│   │   ├── 📄 Examen cristallographie géométrique et cristallochimie SR2017-FSA.smp4.pdf
+│   │   ├── 📄 CamScanner 04-15-2023 18.57.pdf
+│   │   └── 📄 Correction-Cristallo-examen-SN-SMP4-2022.pdf
+│   └── 📁 cours/
+│       ├── 📄 Chapitre1-Le solide cristallin.pdf
+│       ├── 📄 Résume cristal.pdf
+│       ├── 📄 Chapitre 3_La dynamique du réseau cristallin.pdf
+│       ├── 📄 Notions de Cristallographie Géométrique.pdf
+│       ├── 📄 Notions de Symetrie et de  Radiocristallographie.pdf
+│       ├── 📄 Empilements Compacts.pdf
+│       ├── 📄 STRUCTURE METALLIQUE.pdf
+│       ├── 📄 STRUCTURES IONIQUES.pdf
+│       ├── 📄 Cristallographie_geometrique_Cristallochimie_PC4.pdf
+│       └── 📄 Cristallo_SMP3.pdf
+└── 📁 Cristallographie - Chimie minirale/
+    ├── 📄 4)Correction des séries de Cristallographie.pdf
+    ├── 📁 TD/
+    │   ├── 📄 Correction TD SMC4 Cristallochimie Structures Ioniques-Cristallographie-chimie minirale
+    │   ├── 📄 Cristallographie Etude des Structures Metalliques-Cristallographie-chimie minirale
+    │   ├── 📄 TD Cristallographie Geometrique et Cristallochimie SMP4-Cristallographie-chimie minirale
+    │   ├── 📄 TD Cristallographie géométrique et cristallochimie SMP4-Cristallographie-chimie minirale
+    │   ├── 📄 Corrige Exercice Cristallographie Diamant Silicium Graphite-Cristallographie-chimie minirale
+    │   ├── 📄 Exercices Chimie Cristallographie Structures Etain et Fer-Cristallographie-chimie minirale
+    │   ├── 📄 Examen Chimie Minerale 1 Cristallochimie Agadir Janvier 2013-Cristallographie-chimie minirale
+    │   └── 📄 TD Structures Ioniques Cristallochimie Cristallographie SMC4-Cristallographie-chimie minirale
+    ├── 📁 EXAMEN/
+    │   ├── 📄 Examens corrigés 
+    │   ├── 📄 examens cristallochimie s4.pdf
+    │   ├── 📄 Examen cristalographe...-SN-2021.pdf
+    │   ├── 📄 Examen cristalographe...-SR-2021.pdf
+    │   ├── 📄 Examen cristallographie géométrique et cristallochimie SR2017-FSA.smp4.pdf
+    │   └── 📄 Correction-Cristallo-examen-SN-SMP4-2022.pdf
+    └── 📁 cours/
+        ├── 📄 Chapitre1-Le solide cristallin.pdf
+        ├── 📄 Résume cristal.pdf
+        ├── 📄 Chapitre 3_La dynamique du réseau cristallin.pdf
+        ├── 📄 Notions de Cristallographie Géométrique.pdf
+        ├── 📄 Notions de Symetrie et de  Radiocristallographie.pdf
+        ├── 📄 Empilements Compacts.pdf
+        ├── 📄 STRUCTURE METALLIQUE.pdf
+        ├── 📄 Cristallographie_geometrique_Cristallochimie_PC4.pdf
+        ├── 📄 STRUCTURES IONIQUES.pdf
+        └── 📄 Cristallo_SMP3.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Structure de la matière et Cristallographie
+═════════════════════════════════════

@@ -1,0 +1,51 @@
+📚 MODULE : Sécurité réseaux Sans Fil                 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Sécurité réseaux Sans Fil.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Sécurité réseaux Sans Fil/
+└── 🔗📁 SEC RES S.F/  (raccourci)
+    ├── 📄 Examen SRSF corrigé type.pdf
+    ├── 📄 hack-01.cap
+    ├── 📄 Cours Sec Reseaux sans fil.rar
+    ├── 📁 TP/
+    │   ├── 📄 TP6-TP7.rar
+    │   ├── 📄 TP7.pdf
+    │   ├── 📄 TP6.pdf
+    │   ├── 📄 TP 5 ppt.pdf
+    │   ├── 📄 TP5.pdf
+    │   ├── 📄 M1SSI TP5.rar
+    │   ├── 📄 TP4.pdf
+    │   ├── 📄 MIMA for TP3(1).pdf
+    │   └── 📄 TP3.pdf
+    └── 📁 cours/
+        ├── 📄 M1SSI SRSF chap5.rar
+        ├── 📄 chap5ppt.pdf
+        ├── 📄 Chap5.PDF
+        ├── 📄 M1SSI Chap4 partie1.rar
+        ├── 📄 M1 SSI Chap3 partie3.rar
+        ├── 📄 Cours M1SSI.rar
+        ├── 📄 chap4ppt.pdf
+        ├── 📄 Chap4.PDF
+        ├── 📄 M1SSI Chap4 partie2.rar
+        ├── 📄 M1SSI_ Cours SRSF chap3 partie2.rar
+        ├── 📄 Chap3 ppt.pdf
+        ├── 📄 1587984389894_Chap3.pdf
+        ├── 📄 1586711198744_Chap2.pdf
+        ├── 📄 chap2 ppt.pdf
+        ├── 📄 1584367507418_Chap1.PDF
+        └── 📄 chap1_ppt.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Sécurité réseaux Sans Fil
+═════════════════════════════════════

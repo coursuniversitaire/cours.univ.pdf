@@ -1,0 +1,81 @@
+📚 MODULE : Structures Métalliques                    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Structures Métalliques.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Structures Métalliques/
+├── 📄 Chapitre1.pdf
+├── 📄 Chapitre2.pdf
+├── 📄 Chapitre3.pdf
+├── 📄 Chapitre4.pdf
+├── 📄 IPE.pdf
+├── 📄 L.pdf
+├── 📄 CM-20260514T174116Z-3-001.zip
+├── 🔗📁 CM/  (raccourci)
+│   ├── 📄 Serie de TD + Solution.pdf
+│   ├── 📁 les cours avec les TD/
+│   │   ├── 📄 IPE.pdf
+│   │   ├── 📄 TD3_Exo1_Corrigé.pdf
+│   │   ├── 📄 TD3_Flexion.pdf
+│   │   ├── 📄 Chapitre4.pdf
+│   │   ├── 📄 L.pdf
+│   │   ├── 📄 UAP.pdf
+│   │   ├── 📄 TD2_Exo2_Corrigé.pdf
+│   │   ├── 📄 TD2_traction.pdf
+│   │   ├── 📄 Chapitre3.pdf
+│   │   ├── 📄 TD1_Exo2_Corrigé.pdf
+│   │   ├── 📄 TD1_Combinaisons.pdf
+│   │   ├── 📄 Chapitre2.pdf
+│   │   └── 📄 Chapitre1.pdf
+│   └── 📁 exam/
+│       ├── 📄 EMD_2019-2020.pdf
+│       ├── 📄 84876465_576552129566209_613525714477514752_n.jpg
+│       ├── 📄 84325992_599214727569139_4357666358163406848_n.jpg
+│       ├── 📄 84044974_204570533925788_7519573929464168448_n.jpg
+│       ├── 📄 83949017_182878982927788_6364649243520532480_n.jpg
+│       ├── 📄 84753772_174547707218823_2476506670046380032_n.jpg
+│       ├── 📄 83674925_1079956165679616_8336795889657970688_n.jpg
+│       ├── 📄 84521149_194404128416930_3514560627236405248_n.jpg
+│       ├── 📄 83989274_166876811276043_8020657576226062336_n.jpg
+│       ├── 📄 84710842_562854917645461_6418129501980459008_n.jpg
+│       ├── 📄 84263110_1625567337583696_2623049824609501184_n.jpg
+│       ├── 📄 84358272_121241295881252_8936783132779085824_n.jpg
+│       ├── 📄 84580844_618960601982867_3839199514170753024_n.jpg
+│       ├── 📄 84754165_607349903143204_3888412967435239424_n.jpg
+│       ├── 📄 84042425_823608918471046_7373979395737780224_n.jpg
+│       ├── 📄 84329521_210110956833147_5716397468619374592_n.jpg
+│       └── 📄 84219038_601962653933506_5050317915832713216_n.jpg
+└── 🔗📁 CM/  (raccourci)
+    ├── 📄 TD7_Corrigé.pdf
+    ├── 📄 TD7_Plancher-Mixte.pdf
+    ├── 📄 CHAPITRE3.pdf
+    ├── 📄 CHAPITRE2.pdf
+    ├── 📄 TD3_Exo1-Détail2_Corrigé.pdf
+    ├── 📄 TD6_Corrigé.pdf
+    ├── 📄 TD5_Corrigé.pdf
+    ├── 📄 EMD_2020.pdf
+    ├── 📄 TD3_Exo1-Détail1_Corrigé.pdf
+    ├── 📄 TD2_Exo1_Corrigé.pdf
+    ├── 📄 TD6_base-encast.pdf
+    ├── 📄 TD5_base-art.pdf
+    ├── 📄 TD4_Boulons-HR.pdf
+    ├── 📄 TD3_Boulons-ordinaires.pdf
+    ├── 📄 TD2_Soudure.pdf
+    ├── 📄 TD1_Exo2_corrigé.pdf
+    ├── 📄 TD1_Exo1_Corrigé.pdf
+    ├── 📄 TD1_Deversement.pdf
+    └── 📄 CHAPITRE1.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Structures Métalliques
+═════════════════════════════════════

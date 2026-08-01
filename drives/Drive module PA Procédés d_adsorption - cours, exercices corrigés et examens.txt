@@ -1,0 +1,33 @@
+📚 MODULE : PA Procédés d'adsorption                  
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module PA Procédés d'adsorption.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 PA Procédés d'adsorption/
+├── 📄 PAkindares.pdf
+├── 📄 PAresum.pdf
+├── 📄 Série1PA.pdf
+├── 📁 TD PA/
+│   ├── 📄 PA.S3.pdf
+│   ├── 📄 PA.S2.pdf
+│   └── 📄 PA.S1.pdf
+└── 📁 Cours PA/
+    ├── 📄 PAcourm.pdf
+    ├── 📄 PAch4.pdf
+    ├── 📄 PAch3.pdf
+    ├── 📄 PAch2.pdf
+    └── 📄 PAch1.pdf
+
+═════════════════════════════════════
+  Fin du fichier · PA Procédés d'adsorption
+═════════════════════════════════════

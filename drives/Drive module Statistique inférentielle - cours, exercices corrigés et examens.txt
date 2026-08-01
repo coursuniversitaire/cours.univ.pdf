@@ -1,0 +1,30 @@
+📚 MODULE : Statistique inférentielle                 
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Statistique inférentielle.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Statistique inférentielle/
+├── 📄 cours video.pdf
+├── 📄 Statistiques Inferentielles TD2 corrections.pdf
+├── 📄 Statistiques Inferentielles TD1 Corrections.pdf
+├── 📄 Statistiques Inferentielles TD3 corrections.pdf
+├── 📄 lois_probabilit-s.pdf
+├── 📄 chap1 statistique inférentielle.pdf
+├── 📄 Chap2 ICTH.pdf
+├── 📄 Statistique inférentielle TD1.pdf
+├── 📄 Statistique inférentielle TD2 .pdf
+└── 🔗📁 Statistiques inférentielles (Olivier Marchal).pdf/  (raccourci)
+
+═════════════════════════════════════
+  Fin du fichier · Statistique inférentielle
+═════════════════════════════════════

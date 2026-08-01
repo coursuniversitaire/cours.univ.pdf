@@ -1,0 +1,107 @@
+📚 MODULE : Processus stochastique                    
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Processus stochastique.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Processus stochastique/
+├── 🔗📁 PSFA/  (raccourci)
+│   ├── 📁 Annales/
+│   │   ├── 📄 2013-2014 - Sujet Session 2 partie 1.jpg
+│   │   ├── 📄 2013-2014 - Sujet Session 2 partie 2.jpg
+│   │   ├── 📄 2012-2013 - Sujet.pdf
+│   │   ├── 📄 2012-2013 - Correction (S1).pdf
+│   │   ├── 📄 2010-2011 - Correction partie 2.pdf
+│   │   ├── 📄 2010-2011 - Correction partie 1.pdf
+│   │   ├── 📄 2010-2011 - Sujet.pdf
+│   │   ├── 📄 2011-2012 - Correction.pdf
+│   │   └── 📄 2011-2012 - Sujet.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 TD_4_exo_2_3.pdf
+│   │   ├── 📄 TD_4_exo_2_1.pdf
+│   │   ├── 📄 TD_4_exo_2_4.pdf
+│   │   ├── 📄 TD_4_exo_2_2.pdf
+│   │   ├── 📄 TD_4_exo_2_6.pdf
+│   │   ├── 📄 TD_4_exo_2_5.pdf
+│   │   └── 📄 3MICTD.pdf
+│   └── 📁 Supports de cours/
+│       ├── 📄 polyconcatene.pdf
+│       ├── 📄 PSFA-Chaine-Marcov.pdf
+│       └── 📄 PSFA_Poisson.pdf
+├── 🔗📁 Processus Stochastique-20260620T233248Z-3-001.zip/  (raccourci)
+├── 📄 Correction.jpg
+├── 📄 IMG_20200102_105544.jpg
+├── 📄 IMG_20200102_105557.jpg
+├── 📄 Processus aléatoires 2.pdf
+├── 📄 Processus aléatoires_chapitre1.pdf
+├── 📄 Processus aléatoires.pdf
+├── 📄 Processus stochastiques livre complet.pdf
+├── 🔗📁 Processus stochastique/  (raccourci)
+│   ├── 📄 Correction.jpg
+│   ├── 📄 IMG_20200102_105557.jpg
+│   ├── 📄 IMG_20200102_105544.jpg
+│   ├── 📄 Processus aléatoires.pdf
+│   ├── 📄 Processus aléatoires_chapitre1.pdf
+│   ├── 📄 Processus aléatoires 2.pdf
+│   ├── 📄 Processus stochastiques livre complet.pdf
+│   └── 📁 TP1/
+│       └── 📄 y.m
+└── 🔗📁 Processus Stochastique/  (raccourci)
+    ├── 📁 Examens/
+    │   ├── 📄 Corrige_Exam 1718.pdf
+    │   ├── 📄 Exam 1718.pdf
+    │   ├── 📄 Corrige_Exam 1718(1).pdf
+    │   └── 📄 stock.jpg
+    └── 📁 Cours/
+        ├── 📄 Loi de Bernouilli, binomiale et géométrique.pdf
+        ├── 📄 lois.jpg
+        ├── 📄 Rappel_probabilités_4.ppt
+        ├── 📄 Résumé dernière séance.pdf
+        ├── 📄 Rappel_probabilit_s_3.ppt
+        ├── 📄 Rappel_probabilit_s_2.ppt
+        ├── 📄 Processus Stochastique.pdf
+        ├── 📄 Rappel_probabilit_s_1.ppt
+        └── 📁 2017-2018/
+            ├── 📄 stocha.pdf
+            └── 📁 Cours/
+                ├── 📄 20180510_110820.jpg
+                ├── 📄 20180510_110809.jpg
+                ├── 📄 20180510_110938.jpg
+                ├── 📄 20180510_110936.jpg
+                ├── 📄 20180510_110929.jpg
+                ├── 📄 20180510_110921.jpg
+                ├── 📄 20180510_110915.jpg
+                ├── 📄 20180510_110912.jpg
+                ├── 📄 20180510_110900.jpg
+                ├── 📄 20180510_110857.jpg
+                ├── 📄 20180510_110848.jpg
+                ├── 📄 20180510_110845.jpg
+                ├── 📄 20180510_110837.jpg
+                ├── 📄 20180510_110834.jpg
+                ├── 📄 20180510_110826.jpg
+                ├── 📁 Exercices + Solution/
+                │   ├── 📄 IMG_20180517_172420.jpg
+                │   └── 📄 IMG_20180517_172505.jpg
+                └── 📁 Autre version/
+                    ├── 📄 7.jpg
+                    ├── 📄 6.jpg
+                    ├── 📄 5.jpg
+                    ├── 📄 4.jpg
+                    ├── 📄 3.jpg
+                    ├── 📄 2.jpg
+                    ├── 📄 1.jpg
+                    ├── 📄 seriepartie2.jpg
+                    └── 📄 seriepartie1.jpg
+
+═════════════════════════════════════
+  Fin du fichier · Processus stochastique
+═════════════════════════════════════

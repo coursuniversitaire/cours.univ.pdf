@@ -1,0 +1,263 @@
+📚 MODULE : Représentation et raisonnement 1          
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module Représentation et raisonnement 1.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 Représentation et raisonnement 1/
+├── 🔗📁 Représentation des connaissances et raisonnement 1/  (raccourci)
+│   ├── 📄 NOTES-RCR1 M1 SII 21-22.pdf
+│   ├── 📄 REVISION.pdf
+│   ├── 📁 Corrigé Examen/
+│   │   ├── 📄 Numérisation_20220622.jpg
+│   │   ├── 📄 Numérisation_20220622 (2).jpg
+│   │   ├── 📄 Numérisation_20220622 (3).jpg
+│   │   ├── 📄 Numérisation_20220622 (4).jpg
+│   │   └── 📄 Numérisation_20220622 (5).jpg
+│   ├── 📁 TP/
+│   │   ├── 📄 Liste2.xlsx
+│   │   ├── 📄 Liste1.xlsx
+│   │   ├── 📄 TP4.pdf
+│   │   ├── 📄 TP1 20-21.pdf
+│   │   └── 📄 TP1.pdf
+│   ├── 📁 TD/
+│   │   ├── 📄 TD6-TP5-21-22.pdf
+│   │   ├── 📄 corrigé TD6-TP5-21-22.pdf
+│   │   ├── 📄 TD5SII 21-22.pdf
+│   │   ├── 📄 corrigé-td4.pdf
+│   │   ├── 📄 TD4-21-22.pdf
+│   │   ├── 📄 corrigé-TD2.pdf
+│   │   ├── 📄 corrigé-TD3-20-21.pdf
+│   │   ├── 📄 TD3-20-21.pdf
+│   │   ├── 📄 Corrigé TD3-21-22 .pdf
+│   │   ├── 📄 TD3-20-21.pdf
+│   │   ├── 📄 TD2.pdf
+│   │   └── 📄 TD1.pdf
+│   └── 📁 Cours/
+│       ├── 📄 Les logiques de description-Représentation et Inference.pdf
+│       ├── 📄 COURS- Les réseaux sémantiques.pdf
+│       ├── 📄 LOGIQUE DES DEFAUTS.pdf
+│       ├── 📄 logique modale.pdf
+│       ├── 📄 cours3-RC-MO.pdf
+│       ├── 📄 EXEMPLES MODALITES.pdf
+│       ├── 📄 Compléments du cours sur les logiques modales (3).pdf
+│       ├── 📄 COURS-LOGIQUE PREMIER ORDRE.pdf
+│       ├── 📄 Cours Logique Propositionnelle.pdf
+│       └── 📄 Introduction générale.pdf
+├── 🔗📁 Représentation des connaissances et raisonnement  (raccourci)
+└── 🔗📁 Knowledge Representation and Reasoning/  (raccourci)
+    ├── 📄 REP CONN RCR2-20220211T124909Z-001.zip
+    ├── 📄 _PANOR~1.PDF
+    ├── 📁 Interrogations - Examens/
+    │   ├── 📄 Interrogation RCR2 (SII, 2019-20).pdf
+    │   ├── 📄 Examen RCR2 (SII, 2019-20).pdf
+    │   ├── 📄 Examen RCR2 + Corr (SII, 2015-16).pdf
+    │   ├── 📄 Examen RCR2 + Corr (SII, 2017-18).pdf
+    │   ├── 📄 Examen RCR2 (SII, 2014-15).pdf
+    │   ├── 📄 Examen RCR2 + Corr (SII, 2016-17).pdf
+    │   ├── 📄 Rattrapage RCR2 (SII, 2014-15).pdf
+    │   ├── 📄 Interrogation RCR2 (SII, 2015-16).pdf
+    │   ├── 📄 Examen RCR2 + Corr (SII, 2012-13).pdf
+    │   ├── 📄 Examen RCR2 + Corr (SII, 2010-11).pdf
+    │   ├── 📄 Examen RCR2 (SII, 2011-12).pdf
+    │   ├── 📄 Rattrapage RCR2 (SII, 2010-11).pdf
+    │   ├── 📄 Examen RCR2 + Corr (SII, 2013-14).pdf
+    │   ├── 📄 Rattrapage RCR2 (SII, 2012-13).pdf
+    │   ├── 📄 Rattrapage RCR2 (SII, 2011-12).pdf
+    │   ├── 📄 rc.pdf
+    │   ├── 📄 corrigé+control+rep-con+2010-2011.pdf
+    │   ├── 📄 examen2011.doc
+    │   ├── 📄 rattr-2010.doc
+    │   ├── 📄 correction-ratt-2010.doc
+    │   ├── 📄 corr-exam2010.doc
+    │   ├── 📄 examen2012.doc
+    │   ├── 📄 ratt2011.doc
+    │   ├── 📄 examen2010.doc
+    │   ├── 📄 interro2015.docx
+    │   ├── 📁 2011-2012/
+    │   │   ├── 📄 EMD.pdf
+    │   │   └── 📄 rattrapage.pdf
+    │   ├── 📁 2013-2014/
+    │   │   └── 📁 exam/
+    │   │       └── 📄 sujet 2013-2014+ correction.pdf
+    │   ├── 📁 2010-2011/
+    │   │   ├── 📁 EMD/
+    │   │   │   ├── 📄 exam+corrigé.pdf
+    │   │   │   ├── 📁 correction/
+    │   │   │   │   ├── 📄 img217.jpg
+    │   │   │   │   ├── 📄 img214.jpg
+    │   │   │   │   ├── 📄 img216.jpg
+    │   │   │   │   ├── 📄 img215.jpg
+    │   │   │   │   ├── 📄 img218.jpg
+    │   │   │   │   └── 📄 img213.jpg
+    │   │   │   └── 📁 sujet/
+    │   │   │       ├── 📄 img223.jpg
+    │   │   │       └── 📄 img224.jpg
+    │   │   └── 📁 Ratt/
+    │   │       └── 📄 siiexam.pdf
+    │   └── 📁 2012-2013/
+    │       ├── 📄 RATTRAPAGE2012-2013.pdf
+    │       └── 📁 EMD/
+    │           ├── 📄 EMD.pdf
+    │           └── 📄 EMD + correction.pdf
+    ├── 📁 TD/
+    │   ├── 📄 TD 06.mp4
+    │   ├── 📄 TD 05.mp4
+    │   ├── 📄 TD 04.mp4
+    │   ├── 📄 corrigé-TD5.pdf
+    │   ├── 📄 TD 5.pdf
+    │   ├── 📄 corrigé-td4.pdf
+    │   ├── 📄 TD 4-20-21.pdf
+    │   ├── 📄 TD 03.mp4
+    │   ├── 📄 corrigé TD3.pdf
+    │   ├── 📄 corrigé-TD2.pdf
+    │   ├── 📄 TD 2.mp4
+    │   ├── 📄 TD 3.pdf
+    │   ├── 📄 TD 01 partie 1.mkv
+    │   ├── 📄 TD 01 partie 2.mkv
+    │   ├── 📄 TD 2.pdf
+    │   ├── 📄 TD 1.pdf
+    │   ├── 📁 Séries du TP (+ Rapports)/
+    │   │   ├── 📄 Série TP 04 - BNT.pdf
+    │   │   ├── 📄 Série TP 05 - PNT.pdf
+    │   │   ├── 📄 Série TP 03 - Logique Possibiliste Qualitative.pdf
+    │   │   └── 📁 Rapports/
+    │   │       ├── 📁 Version 2 [Mial _ Nait Amar] (2016-17)/
+    │   │       │   ├── 📁 TP 05/
+    │   │       │   │   ├── 📄 Rapport (TP 05).pdf
+    │   │       │   │   ├── 📄 ~WRL2844.tmp
+    │   │       │   │   ├── 📄 ~WRL1393.tmp
+    │   │       │   │   ├── 📄 ~WRL3131.tmp
+    │   │       │   │   ├── 📄 ~WRL0558.tmp
+    │   │       │   │   ├── 📄 ~WRL1790.tmp
+    │   │       │   │   ├── 📄 ~WRL2276.tmp
+    │   │       │   │   ├── 📄 ~WRL3996.tmp
+    │   │       │   │   ├── 📄 ~WRL2582.tmp
+    │   │       │   │   └── 📄 ~$pport_TP5_MIAL_NAITAMAR.docx
+    │   │       │   ├── 📁 TP 04/
+    │   │       │   │   ├── 📄 Rapport (Exercice5).pdf
+    │   │       │   │   ├── 📄 BNT1_Polyarbre.m
+    │   │       │   │   ├── 📄 ~$pport_Exercice5_MIAL_NAITAMAR.docx
+    │   │       │   │   ├── 📄 Rapport (TP 04).pdf
+    │   │       │   │   ├── 📄 BNT2_multiconnected.m
+    │   │       │   │   ├── 📄 ~WRL3266.tmp
+    │   │       │   │   ├── 📄 ~WRL3673.tmp
+    │   │       │   │   ├── 📄 ~WRL1453.tmp
+    │   │       │   │   ├── 📄 ~WRL4069.tmp
+    │   │       │   │   ├── 📄 ~WRL3052.tmp
+    │   │       │   │   ├── 📄 ~WRL4090.tmp
+    │   │       │   │   ├── 📄 ~WRL2649.tmp
+    │   │       │   │   ├── 📄 ~WRL3936.tmp
+    │   │       │   │   └── 📄 ~$pport_TP4_MIAL_NAITAMAR.docx
+    │   │       │   ├── 📁 TP 03/
+    │   │       │   │   ├── 📄 Rapport (TP 03).pdf
+    │   │       │   │   └── 📄 TP3.fis
+    │   │       │   └── 📁 TP 01/
+    │   │       │       ├── 📄 Rapport (TP 1).pdf
+    │   │       │       ├── 📄 ~$pport_TP1_MIAL_NAITAMAR.docx
+    │   │       │       └── 📄 TPLogiquePossibiliste.c
+    │   │       └── 📁 Version 1 [Bouchouia _ Boumahdi] (2016-17)/
+    │   │           ├── 📁 TP - PNT TOOLBOX/
+    │   │           │   └── 📁 BouchouiaBoumahdi/
+    │   │           │       ├── 📄 BouchouiaBoumahdi.pdf
+    │   │           │       └── 📁 Script/
+    │   │           │           ├── 📄 myFile.txt
+    │   │           │           ├── 📄 main.m
+    │   │           │           └── 📄 script2.m
+    │   │           ├── 📁 TP - Fuzzy Logic/
+    │   │           │   ├── 📄 Rapport.pdf
+    │   │           │   ├── 📄 BouchouiaBoumahdiEx2.fis
+    │   │           │   ├── 📄 scriptFuzzy.m
+    │   │           │   ├── 📄 Eval.fis
+    │   │           │   ├── 📄 Artificial Intelligence - Fuzzy Logic (Matlab).pdf
+    │   │           │   ├── 📄 exo1.fis
+    │   │           │   └── 📄 exo3.fis
+    │   │           ├── 📁 TP - Dampster and Shafer/
+    │   │           │   └── 📄 Rapport.pdf
+    │   │           ├── 📁 TP - BNT TOOLBOX/
+    │   │           │   ├── 📄 Rapport.pdf
+    │   │           │   └── 📄 script.m
+    │   │           ├── 📁 TP - BNT EXO 5/
+    │   │           │   ├── 📄 Rapport.pdf
+    │   │           │   └── 📄 exo5.m
+    │   │           └── 📁 Logique Possibiliste Qualitative/
+    │   │               ├── 📄 Rapport.pdf
+    │   │               └── 📁 Code Source/
+    │   │                   ├── 📄 sigma.py
+    │   │                   ├── 📄 generate.py
+    │   │                   ├── 📄 program.py
+    │   │                   ├── 📄 file.wcnf
+    │   │                   ├── 📄 generate.pyc
+    │   │                   └── 📄 sigma.pyc
+    │   └── 📁 Séries du TD (+ Corr)/
+    │       ├── 📄 Série TD 06 - Diagrammes d_Influence.pdf
+    │       ├── 📄 Série TD 03 - Th. des Possibilités.pdf
+    │       ├── 📄 Série TD 02 _ TP 01 - Th. des Fonctions de Croyance.pdf
+    │       ├── 📄 Série TD 01 - Th. des Probabilités.pdf
+    │       ├── 📄 Corr TD RCR2 (Cahier).pdf
+    │       ├── 📄 Série TD 05 - RB et RP.pdf
+    │       └── 📄 Série TD 04 _ TP 02 - Contrôleurs Flous.pdf
+    └── 📁 cours/
+        ├── 📄 Cours 08.mp4
+        ├── 📄 Cours 07.mp4
+        ├── 📄 Cours 06.mp4
+        ├── 📄 Cours 05.mp4
+        ├── 📄 Cours 04 (2).mp4
+        ├── 📄 Cours 04 (1).mp4
+        ├── 📄 Cours 03 RCR1.mkv
+        ├── 📄 Cours 02 RCR1.m4v
+        ├── 📄 Cours 01 RCR1.m4v
+        ├── 📄 (4901) TD DIAGRAMME D'INFLUENCE - YouTube.mkv
+        ├── 📄 (4901) COURS DIAGRAMME D'INFLUENCE - YouTube.mkv
+        ├── 📄 (5) M2 SII COURS RESEAUX BAYESIENS - YouTube.mkv
+        ├── 📄 (6.2) M2 SII LOGIQUE POSSIBILISTE PRODUIT - YouTube.mkv
+        ├── 📄 (5) M2 SII TD RESEAUX BAYESIENS - YouTube.mkv
+        ├── 📄 (6.3) modèles logiques possibilistes min et produit& réseaux possibilistes produit - YouTube.mkv
+        ├── 📄 (6.1) M2 SII COURS Réseaux Possibilistes - YouTube.mkv
+        ├── 📄 (4) REVISION PARTIE 2 G3 - YouTube.mkv
+        ├── 📄 (1) M2SII TD LFLOUE - YouTube.mkv
+        ├── 📄 (1) COURS LFLOUE M2 SII - YouTube.mkv
+        ├── 📄 (3) M2 SII COURS POSSIBILITY - YouTube.mkv
+        ├── 📄 (4) SEANCE REVISON logique modal - YouTube.mkv
+        ├── 📄 (2) TD2 CROYANCES Partie 1 M2 SII - YouTube.mkv
+        ├── 📄 (2) M2SII COURS CROYANCES - YouTube.mkv
+        └── 📁 pdf/
+            ├── 📄 a.pdf
+            ├── 📄 S2ICOURSE.pdf
+            └── 📁 Cours/
+                ├── 📄 Fusion de Données.pdf
+                ├── 📄 Réseaux Bayésiens (Définition - Inférence).pdf
+                ├── 📄 Introduction aux Réseaux Bayésiens.pdf
+                ├── 📄 Réseaux Bayésiens (Philippe Leray).pdf
+                └── 📁 KHELLAF/
+                    ├── 📄 Théorie des Fonctions de Croyances.pdf
+                    ├── 📄 Résumé RCR2 (Cahier).pdf
+                    ├── 📄 Cours RCR2 (KHELLAF, 2012-13).pdf
+                    ├── 📄 Possibilités Quantitative.pdf
+                    ├── 📁 Contrôleurs Flous/
+                    │   ├── 📄 Introduction Logique Floue.pdf
+                    │   ├── 📄 Fuzzy Controller.pdf
+                    │   ├── 📄 Applications (Log. Floue).pdf
+                    │   ├── 📄 Cours - Logique Floue.pdf
+                    │   ├── 📄 Logique Floue (2).pdf
+                    │   └── 📄 Logique Floue.pdf
+                    ├── 📁 Diagrammes d_influence/
+                    │   ├── 📄 Décision sous incertitude.pdf
+                    │   └── 📄 Chapitre 2 - Prise de Décisions.pdf
+                    ├── 📁 Logique Possibiliste/
+                    │   └── 📄 Logique Possibiliste (Cours).pdf
+                    └── 📁 Fonctions de Croyance/
+                        └── 📄 Cours - Fonctions de Croyance.pdf
+
+═════════════════════════════════════
+  Fin du fichier · Représentation et raisonnement 1
+═════════════════════════════════════

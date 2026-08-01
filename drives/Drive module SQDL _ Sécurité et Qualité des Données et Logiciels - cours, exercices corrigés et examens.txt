@@ -1,0 +1,44 @@
+📚 MODULE : SQDL _ Sécurité et Qualité des Données et Logiciels
+
+📝 DESCRIPTION: 
+══════════════
+  Téléchargez des cours, TD et exercices corrigés, TP,
+  examens corrigés et ressources du module SQDL _ Sécurité et Qualité des Données et Logiciels.
+
+🔗 LIEN DE TÉLÉCHARGEMENT:
+════════════════════════
+  https://forms.gle/uHWL3NCtPNnJ1Yzi7
+
+
+🗂️ STRUCTURE DU DRIVE:                               
+════════════════════
+
+📁 SQDL _ Sécurité et Qualité des Données et Logiciels/
+├── 📁 TD/
+│   ├── 📄 TD openSSL.pdf
+│   ├── 📄 TD3 .pdf
+│   ├── 📄 TD.pdf
+│   ├── 📄 TD2.pdf
+│   └── 📄 TD1.pdf
+├── 📁 Examen/
+│   ├── 📄 examen_2.jpg
+│   ├── 📄 examen_1.jpg
+│   ├── 📄 Examen_2016-2017_page1.jpg
+│   └── 📄 Examen_2016-2017_page2.jpg
+└── 📁 Cours/
+    ├── 📄 SQDL_Resume.pdf
+    ├── 📄 Les schémas Module SQDL cours.docx
+    ├── 📄 Cour_.pdf
+    └── 📁 cours_moodle/
+        ├── 📄 certificat X509 .pdf
+        ├── 📄 la sécurité des documents XML .pdf
+        ├── 📄 le protocole PGP.pdf
+        ├── 📄 RSA_signature.pdf
+        ├── 📄 EL GAMAL_signature.pdf
+        ├── 📄 DSS_signature.pdf
+        ├── 📄 fonction de hachage part1.pdf
+        └── 📄 fonction de hachage part2.pdf
+
+═════════════════════════════════════
+  Fin du fichier · SQDL _ Sécurité et Qualité des Données et Logiciels
+═════════════════════════════════════
