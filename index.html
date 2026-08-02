@@ -142,6 +142,7 @@ nav {
 .hero-mini-trust { display:flex; flex-wrap:wrap; gap:10px 18px; background:var(--accent-light); border-radius:12px; padding:14px 18px; margin-bottom:22px; }
 .hero-mini-trust .hmt-item { display:flex; align-items:center; gap:7px; font-size:0.82rem; color:var(--ink); font-weight:500; }
 .hero-mini-trust .hmt-item strong { color:var(--accent); }
+.hero-mini-trust .hmt-anchor { color:var(--muted); font-weight:400; text-decoration:line-through; font-size:0.85em; }
 
 /* FLOATING CTA — visible tant qu'aucun module n'est sélectionné */
 .float-cta { position:fixed; bottom:22px; left:50%; transform:translateX(-50%) translateY(20px); z-index:150; opacity:0; pointer-events:none; transition:opacity .25s ease, transform .25s ease; }
@@ -210,6 +211,10 @@ hr.div { border: none; border-top: 1px solid var(--border); margin: 0 5%; }
 .step-badge { display:inline-flex; align-items:center; gap:7px; background:var(--accent); color:#fff; font-size:0.75rem; font-weight:700; padding:4px 13px; border-radius:999px; margin-bottom:18px; letter-spacing:.04em; }
 .step-badge .step-num { background:#fff; color:var(--accent); border-radius:50%; width:18px; height:18px; display:flex; align-items:center; justify-content:center; font-size:0.72rem; font-weight:800; }
 .form-wrap { background:var(--card); border:1px solid var(--border); border-radius:20px; padding:32px; max-width:680px; margin:0 auto 40px; }
+.risk-reversal { max-width:680px; margin:0 auto 20px; display:flex; flex-wrap:wrap; gap:10px; }
+.risk-reversal .rr-item { flex:1 1 160px; background:#f0fdf8; border:1px solid #a7f3d0; border-radius:11px; padding:12px 14px; font-size:0.8rem; color:#065f46; display:flex; flex-direction:column; gap:2px; }
+.risk-reversal .rr-item strong { font-size:0.85rem; }
+.risk-reversal .rr-item span { color:#0d7a5f; opacity:.85; font-weight:400; }
 .form-wrap h2 { font-family:'Syne',sans-serif; font-size:1.55rem; font-weight:700; margin-bottom:6px; }
 .form-sub { color:var(--muted); font-size:0.88rem; margin-bottom:20px; }
 .sel-preview { background:var(--accent-light); border:1.5px solid var(--accent); border-radius:11px; padding:14px 18px; margin-bottom:18px; display:none; }
@@ -321,6 +326,7 @@ footer a { color:var(--muted); }
 <nav>
   <a class="nav-logo" href="#">📚 Cours<span>Uni</span></a>
   <div class="nav-links">
+    <a href="#temoignages">Avis</a>
     <a href="#contenu">Ce que tu reçois</a>
     <a href="#catalogue">Catalogue</a>
     <a href="#faq">FAQ</a>
@@ -337,7 +343,7 @@ footer a { color:var(--muted); }
 
   <div class="hero-mini-trust">
     <div class="hmt-item">📚 <strong>290+</strong> modules disponibles</div>
-    <div class="hmt-item">💰 <strong>0,5$</strong> seulement par module</div>
+    <div class="hmt-item">💰 <strong>0,5$</strong> seulement par module <span class="hmt-anchor">(~10$ en version imprimée)</span></div>
     <div class="hmt-item">⚡ Accès <strong>immédiat</strong> sur Google Drive</div>
     <div class="hmt-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
   </div>
@@ -363,6 +369,19 @@ footer a { color:var(--muted); }
 <div class="float-cta" id="float-cta">
   <a class="btn" href="#catalogue">Accéder aux modules →</a>
 </div>
+
+<hr class="div">
+
+<!-- TÉMOIGNAGES — preuve sociale placée tôt : rassure avant même de détailler le produit -->
+<section class="section testimonials-section" id="temoignages" aria-labelledby="temoignages-titre">
+  <div class="sec-label">Témoignages</div>
+  <h2 class="sec-h2" id="temoignages-titre">Ils ont déjà commandé — <span>leurs retours réels</span></h2>
+  <div class="wtsp-proof">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEcwiFXTuSij4K2yFHGGLryBFLwuohwRP1SXMZ4fp3afzupszbZPtaT2JFZZXpgzOs0JAiRMnRsX0tkITG_YmweMEuC4_Ee2nOJGPEH4I_6AJ3q4fWK0lStgGsh9D_GqArWghaRSxmOHPqVwIByhEXCodPlBUPNqPwWLNcZrJAqqYU06I7qk4dctw5JRmQ/s1600/1000107506.png"
+         alt="Discussions WhatsApp réelles — clients satisfaits après achat" loading="lazy">
+    <div class="wtsp-caption">💬 Conversations WhatsApp réelles — clients ayant reçu leur Drive</div>
+  </div>
+</section>
 
 <hr class="div">
 
@@ -525,20 +544,6 @@ footer a { color:var(--muted); }
 
 <hr class="div">
 
-<!-- TÉMOIGNAGES -->
-<section class="section testimonials-section" id="temoignages" aria-labelledby="temoignages-titre">
-  <div class="sec-label">Témoignages</div>
-  <h2 class="sec-h2" id="temoignages-titre">Ils ont déjà commandé — <span>leurs retours réels</span></h2>
-  <div class="wtsp-proof">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEcwiFXTuSij4K2yFHGGLryBFLwuohwRP1SXMZ4fp3afzupszbZPtaT2JFZZXpgzOs0JAiRMnRsX0tkITG_YmweMEuC4_Ee2nOJGPEH4I_6AJ3q4fWK0lStgGsh9D_GqArWghaRSxmOHPqVwIByhEXCodPlBUPNqPwWLNcZrJAqqYU06I7qk4dctw5JRmQ/s1600/1000107506.png"
-         alt="Discussions WhatsApp réelles — clients satisfaits après achat" loading="lazy">
-    <div class="wtsp-caption">💬 Conversations WhatsApp réelles — clients ayant reçu leur Drive</div>
-  </div>
-
-</section>
-
-<hr class="div">
-
 <!-- CATALOGUE -->
 <!-- Contenu riche indexable par Google : 290 noms de modules = mots-clés longue traîne -->
 <section class="section" id="catalogue" aria-labelledby="catalogue-titre">
@@ -576,6 +581,11 @@ footer a { color:var(--muted); }
 
 <!-- COMMANDER -->
 <section class="section" id="commander" aria-labelledby="order-titre">
+  <div class="risk-reversal">
+    <div class="rr-item">🛡️ <strong>Satisfait ou remboursé</strong><span>Sans conditions</span></div>
+    <div class="rr-item">🔒 <strong>Paiement sécurisé</strong><span>PayPal · Carte bancaire</span></div>
+    <div class="rr-item">⚡ <strong>Livraison immédiate</strong><span>Lien Drive en -5 min</span></div>
+  </div>
   <div class="form-wrap">
     <div id="form-view">
       <div class="step-badge"><span class="step-num">2</span> Finaliser ma commande</div>
@@ -673,6 +683,33 @@ footer a { color:var(--muted); }
   <div class="faq-list" itemscope itemtype="https://schema.org/FAQPage">
     <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
       <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">
+        <span itemprop="name">Et si le contenu ne correspond pas ? Y a-t-il un remboursement ?</span>
+        <span class="arrow">▼</span>
+      </button>
+      <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemprop="text">Oui, satisfait ou remboursé. Si le contenu d'un module ne correspond pas à ce qui est présenté, tu es remboursé intégralement, sans conditions et sans délai. Contacte-nous sur WhatsApp et on règle ça immédiatement.</div>
+      </div>
+    </div>
+    <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">
+        <span itemprop="name">Comment payer ? Faut-il un compte PayPal ?</span>
+        <span class="arrow">▼</span>
+      </button>
+      <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemprop="text">Non, aucun compte PayPal n'est nécessaire. Tu peux payer directement avec ta carte bancaire (Visa, Mastercard) via l'interface sécurisée PayPal. Aucune donnée bancaire n'est conservée.</div>
+      </div>
+    </div>
+    <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">
+        <span itemprop="name">Comment reçois-je mes cours après le paiement ?</span>
+        <span class="arrow">▼</span>
+      </button>
+      <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemprop="text">Dès confirmation du paiement PayPal, tu reçois un lien Google Drive directement dans ta boîte mail, en moins de 5 minutes. L'accès est permanent — tu peux télécharger ou consulter tes modules à n'importe quel moment depuis n'importe quel appareil.</div>
+      </div>
+    </div>
+    <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">
         <span itemprop="name">Que contient exactement un module universitaire ?</span>
         <span class="arrow">▼</span>
       </button>
@@ -691,33 +728,6 @@ footer a { color:var(--muted); }
     </div>
     <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
       <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">
-        <span itemprop="name">Comment reçois-je mes cours après le paiement ?</span>
-        <span class="arrow">▼</span>
-      </button>
-      <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-        <div itemprop="text">Dès confirmation du paiement PayPal, tu reçois un lien Google Drive directement dans ta boîte mail, en moins de 5 minutes. L'accès est permanent — tu peux télécharger ou consulter tes modules à n'importe quel moment depuis n'importe quel appareil.</div>
-      </div>
-    </div>
-    <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-      <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">
-        <span itemprop="name">Comment payer ? Faut-il un compte PayPal ?</span>
-        <span class="arrow">▼</span>
-      </button>
-      <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-        <div itemprop="text">Non, aucun compte PayPal n'est nécessaire. Tu peux payer directement avec ta carte bancaire (Visa, Mastercard) via l'interface sécurisée PayPal. Aucune donnée bancaire n'est conservée.</div>
-      </div>
-    </div>
-    <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-      <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">
-        <span itemprop="name">Et si le contenu ne correspond pas ? Y a-t-il un remboursement ?</span>
-        <span class="arrow">▼</span>
-      </button>
-      <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-        <div itemprop="text">Oui, satisfait ou remboursé. Si le contenu d'un module ne correspond pas à ce qui est présenté, tu es remboursé intégralement, sans conditions et sans délai. Contacte-nous sur WhatsApp et on règle ça immédiatement.</div>
-      </div>
-    </div>
-    <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-      <button class="faq-q" onclick="toggleFaq(this)" aria-expanded="false">
         <span itemprop="name">Mon module n'est pas dans la liste, que faire ?</span>
         <span class="arrow">▼</span>
       </button>
@@ -730,6 +740,7 @@ footer a { color:var(--muted); }
 
 <!-- FOOTER -->
 <footer>
+  <p style="font-weight:600;color:var(--ink);margin-bottom:6px;">🔒 Paiement sécurisé PayPal · 🛡️ Satisfait ou remboursé · ⚡ Livraison en moins de 5 min</p>
   <p>Des questions ? <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contacte-nous sur WhatsApp</a> · Réponse rapide garantie</p>
   <p style="margin-top:7px">© 2025 Cours Universitaires en Ligne · Tous droits réservés</p>
 </footer>
