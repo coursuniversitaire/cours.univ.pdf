@@ -128,7 +128,7 @@ nav {
 /* HERO */
 .hero { max-width: 1140px; margin: 0 auto; padding: 44px 5% 32px; display: flex; flex-direction: column; }
 .hero-eyebrow { display: inline-flex; align-items: center; gap: 7px; background: var(--accent-light); color: var(--accent); font-size: 0.77rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; padding: 5px 13px; border-radius: 999px; margin-bottom: 16px; }
-.hero h1 { max-width: 700px; font-family: 'Syne',sans-serif; font-size: clamp(1.6rem,3vw,2.15rem); font-weight: 800; line-height: 1.2; margin-bottom: 14px; }
+.hero h1 { max-width: 700px; font-family: 'Inter',sans-serif; font-size: clamp(1.7rem,4vw,2.5rem); font-weight: 800; letter-spacing: -0.015em; line-height: 1.28; margin-bottom: 16px; }
 .hero h1 mark { background: none; color: var(--accent); }
 .hero-lead { color: var(--muted); font-size: 1rem; max-width: 560px; margin-bottom: 18px; }
 .hero-pills { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
@@ -140,7 +140,7 @@ nav {
 
 /* HERO MINI TRUST — remplace la hero-card + la trust-bar noire, une seule fois, toujours visible */
 .hero-mini-trust { display:flex; flex-wrap:wrap; gap:10px 18px; background:var(--accent-light); border-radius:12px; padding:14px 18px; margin-bottom:22px; }
-.hero-mini-trust .hmt-item { display:flex; align-items:center; gap:7px; font-size:0.82rem; color:var(--ink); font-weight:500; }
+.hero-mini-trust .hmt-item { display:block; flex:none; font-size:0.82rem; color:var(--ink); font-weight:500; line-height:1.5; }
 .hero-mini-trust .hmt-item strong { color:var(--accent); }
 .hero-mini-trust .hmt-anchor { color:var(--muted); font-weight:400; text-decoration:line-through; font-size:0.85em; }
 
@@ -318,9 +318,50 @@ footer a { color:var(--muted); }
 .stars span { font-size:1.6rem; color:#FFB800; line-height:1; }
 .stars-sub { font-size:0.74rem; color:var(--muted); margin-top:5px; }
 
+/* POURQUOI ACHETER — avant/après */
+.why-grid { display:grid; grid-template-columns:1fr 1fr; gap:16px; }
+.why-col { border-radius:16px; padding:22px 24px; }
+.why-col.bad { background:#fdf2f2; border:1.5px solid #f6c9c9; }
+.why-col.good { background:#f0fdf8; border:1.5px solid #a7f3d0; }
+.why-col h3 { font-family:'Syne',sans-serif; font-size:1.05rem; margin-bottom:14px; }
+.why-col.bad h3 { color:#c0392b; }
+.why-col.good h3 { color:#0d7a5f; }
+.why-col ul { list-style:none; display:flex; flex-direction:column; gap:10px; }
+.why-col li { font-size:0.9rem; display:flex; align-items:flex-start; gap:9px; line-height:1.4; }
+.why-col.bad li::before { content:'✕'; color:#c0392b; font-weight:800; flex-shrink:0; }
+.why-col.good li::before { content:'✓'; color:#0d7a5f; font-weight:800; flex-shrink:0; }
+.pain-line { font-size:1.02rem; color:var(--ink); font-weight:600; max-width:640px; margin:0 auto 26px; text-align:center; line-height:1.5; }
+
+/* SOCIAL PROOF NUMBER */
+.social-count { text-align:center; font-family:'Syne',sans-serif; font-weight:700; font-size:1.05rem; color:var(--accent); margin-bottom:16px; }
+
+/* DOWNLOAD BADGE on content cards */
+.dl-badge { display:inline-flex; align-items:center; gap:5px; background:var(--accent-light); color:var(--accent); font-size:0.74rem; font-weight:700; padding:3px 9px; border-radius:999px; margin:0 6px 8px; }
+
+@media(max-width:700px){
+  .why-grid { grid-template-columns:1fr; }
+}
+
+/* LIGHTBOX — cliquer une image pour l'agrandir et zoomer (comme les articles Blogger) */
+img.zoomable { cursor: zoom-in; transition: opacity .2s; }
+img.zoomable:hover { opacity: .92; }
+.lightbox-overlay { display:none; position:fixed; inset:0; background:rgba(10,10,14,0.94); z-index:9999; align-items:center; justify-content:center; padding:26px; cursor:zoom-out; }
+.lightbox-overlay.open { display:flex; }
+.lightbox-overlay img { max-width:95vw; max-height:88vh; border-radius:8px; box-shadow:0 20px 60px rgba(0,0,0,0.5); cursor:default; touch-action:pinch-zoom; }
+.lightbox-close { position:absolute; top:18px; right:20px; background:rgba(255,255,255,0.14); color:#fff; border:none; width:42px; height:42px; border-radius:50%; font-size:1.3rem; cursor:pointer; display:flex; align-items:center; justify-content:center; }
+.lightbox-close:hover { background:rgba(255,255,255,0.24); }
+.lightbox-hint { position:absolute; bottom:16px; left:50%; transform:translateX(-50%); color:rgba(255,255,255,0.55); font-size:0.76rem; }
+
 </style>
 </head>
 <body>
+
+<!-- LIGHTBOX — clic sur une image = agrandissement plein écran, comme sur un article Blogger -->
+<div class="lightbox-overlay" id="lightbox" onclick="closeLightbox()">
+  <button class="lightbox-close" onclick="event.stopPropagation();closeLightbox()" aria-label="Fermer">✕</button>
+  <img id="lightbox-img" src="" alt="Aperçu agrandi">
+  <div class="lightbox-hint">Cliquez n'importe où pour fermer</div>
+</div>
 
 <!-- NAV -->
 <nav>
@@ -338,13 +379,13 @@ footer a { color:var(--muted); }
 <!-- H1 ciblé : "cours universitaires PDF" + "modules" + "TD corrigés" -->
 <header class="hero">
   <div class="hero-eyebrow">🎓 Disponible pour tous les étudiants francophones</div>
-  <h1>Cours universitaires PDF, <mark>TD & examens corrigés</mark> à portée de main</h1>
-  <p class="hero-lead">Plus de 290 modules universitaires organisés — cours complets, travaux dirigés corrigés, examens des années précédentes. Accès immédiat sur Google Drive dès paiement.</p>
+  <h1>Réussis tes examens avec des <mark>cours, TD & examens corrigés</mark> déjà organisés pour toi</h1>
+  <p class="hero-lead">Arrête de perdre des heures à chercher des PDF incomplets sur Internet. Plus de 290 modules universitaires prêts à l'emploi — cours complets, TD corrigés, examens des années précédentes — livrés et téléchargeables sur ton Google Drive en moins de 5 minutes.</p>
 
   <div class="hero-mini-trust">
     <div class="hmt-item">📚 <strong>290+</strong> modules disponibles</div>
-    <div class="hmt-item">💰 <strong>0,5$</strong> seulement par module <span class="hmt-anchor">(~10$ en version imprimée)</span></div>
-    <div class="hmt-item">⚡ Accès <strong>immédiat</strong> sur Google Drive</div>
+    <div class="hmt-item">💰 Des centaines de pages pour <strong>0,5$</strong> seulement <span class="hmt-anchor">(~10$ en version imprimée)</span></div>
+    <div class="hmt-item">⚡ Accès <strong>immédiat</strong>, fichiers <strong>téléchargeables</strong></div>
     <div class="hmt-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
   </div>
 
@@ -362,13 +403,26 @@ footer a { color:var(--muted); }
     
     <a href="#catalogue" class="pill">Et autre</a>
   </div>
-  <a class="btn" id="hero-cta" href="#catalogue">Accéder aux modules →</a>
+  <a class="btn" id="hero-cta" href="#catalogue">Voir les modules disponibles →</a>
 </header>
 
 <!-- FLOATING CTA : visible tant qu'aucun module n'est sélectionné -->
 <div class="float-cta" id="float-cta">
-  <a class="btn" href="#catalogue">Accéder aux modules →</a>
+  <a class="btn" href="#catalogue">Voir les modules disponibles →</a>
 </div>
+
+<hr class="div">
+
+<!-- APERÇU IMMÉDIAT — montre le produit concret avant les témoignages : l'utilisateur comprend en 2 secondes ce qu'il achète -->
+<section class="section" id="apercu-rapide" aria-labelledby="apercu-rapide-titre">
+  <div class="sec-label">Aperçu rapide</div>
+  <h2 class="sec-h2" id="apercu-rapide-titre">Voici <span>exactement ce que tu reçois</span></h2>
+  <div class="drive-preview">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYUU6m1gaZjKTzCVARv848nLKxFqypQuooUdCXvaYKya86f8rr7qL3iv2YLM__LhL4JkhnmA1WUcGKrPGEmC0OgN0KZvgHY2e4OIKy4XgQy05ZmgxLPpIK9iGXXBxErsyXINaS4NNkyUwLooh2C1ZZKLcrikVySSr46wYW7id9h0VRI19wf8wKyTs7qW0_/s1200/1000108223.png"
+         alt="Aperçu du Drive Google organisé — dossiers Cours, TD, Examens, TP" class="zoomable" loading="lazy">
+    <div class="drive-preview-caption">📂 Un Google Drive déjà organisé, prêt à l'emploi et 100% téléchargeable — dossiers Cours / TD / Examens / TP séparés <span style="opacity:.8;font-weight:500;">(clique pour agrandir)</span></div>
+  </div>
+</section>
 
 <hr class="div">
 
@@ -376,10 +430,14 @@ footer a { color:var(--muted); }
 <section class="section testimonials-section" id="temoignages" aria-labelledby="temoignages-titre">
   <div class="sec-label">Témoignages</div>
   <h2 class="sec-h2" id="temoignages-titre">Ils ont déjà commandé — <span>leurs retours réels</span></h2>
+  <div class="stars-block" style="margin-top:0;">
+    <div class="stars"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>
+    <div class="social-count">Plus de 1 000 étudiants ont déjà reçu leurs modules</div>
+  </div>
   <div class="wtsp-proof">
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEcwiFXTuSij4K2yFHGGLryBFLwuohwRP1SXMZ4fp3afzupszbZPtaT2JFZZXpgzOs0JAiRMnRsX0tkITG_YmweMEuC4_Ee2nOJGPEH4I_6AJ3q4fWK0lStgGsh9D_GqArWghaRSxmOHPqVwIByhEXCodPlBUPNqPwWLNcZrJAqqYU06I7qk4dctw5JRmQ/s1600/1000107506.png"
-         alt="Discussions WhatsApp réelles — clients satisfaits après achat" loading="lazy">
-    <div class="wtsp-caption">💬 Conversations WhatsApp réelles — clients ayant reçu leur Drive</div>
+         alt="Discussions WhatsApp réelles — clients satisfaits après achat" class="zoomable" loading="lazy">
+    <div class="wtsp-caption">💬 Conversations WhatsApp réelles — clients ayant reçu leur Drive <span style="opacity:.8;font-weight:500;">(clique pour agrandir)</span></div>
   </div>
 </section>
 
@@ -392,27 +450,54 @@ footer a { color:var(--muted); }
   <h2 class="sec-h2" id="contenu-titre">Ce que contient <span>chaque module universitaire</span></h2>
   <div class="inside-grid">
     <article class="inside-card">
-      <div class="inside-icon"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfjOXY8gEDMKwL3bq9_OPeZFMmPXf8KYeX5l38h_MCj1Nu-HgFejDzfmwewd3K5P33bGM3BMBkos3jBqiz-l24Ek3uiJyMMCU00A1YNgpYW7RtyaUtoyLd1M8CYWkvbkVhCa5Tq_uYcK4WuF42DrEI7twXpXryWmPx1SrOvcvr5UvJ_csSaE3wvdEDyxdj/s1600/1000115008.jpg" alt="Aperçu d'un cours complet en PDF" loading="lazy"></div>
+      <div class="inside-icon"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfjOXY8gEDMKwL3bq9_OPeZFMmPXf8KYeX5l38h_MCj1Nu-HgFejDzfmwewd3K5P33bGM3BMBkos3jBqiz-l24Ek3uiJyMMCU00A1YNgpYW7RtyaUtoyLd1M8CYWkvbkVhCa5Tq_uYcK4WuF42DrEI7twXpXryWmPx1SrOvcvr5UvJ_csSaE3wvdEDyxdj/s1600/1000115008.jpg" alt="Aperçu d'un cours complet en PDF" class="zoomable" loading="lazy"></div>
       <h3>Cours complet PDF</h3>
       <p>Le cours magistral complet, proprement structuré en chapitres. Idéal pour réviser ou combler les lacunes de cours manqués.</p>
     </article>
     <article class="inside-card">
-      <div class="inside-icon"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr2FIMayjp8uXPGKUt-qNG23JKNQ-7IdNgLltpKPWPNzXJ6PG_KKKqK6DiZMGRHYqZDtEKwFwQyHoen6R3L684M1cBB5Ldsvy7vlcx7p6o1eeKCh8fFvAiTn8CS2yQmQAzmEYwPyr9Z1qIoXANd22mu3_83pn4CXd0aZ2t0HDnFOo6_2PU8cl7JP6A9VC9/s1600/1000115004.jpg" alt="Aperçu d'un TD avec exercices corrigés" loading="lazy"></div>
+      <div class="inside-icon"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr2FIMayjp8uXPGKUt-qNG23JKNQ-7IdNgLltpKPWPNzXJ6PG_KKKqK6DiZMGRHYqZDtEKwFwQyHoen6R3L684M1cBB5Ldsvy7vlcx7p6o1eeKCh8fFvAiTn8CS2yQmQAzmEYwPyr9Z1qIoXANd22mu3_83pn4CXd0aZ2t0HDnFOo6_2PU8cl7JP6A9VC9/s1600/1000115004.jpg" alt="Aperçu d'un TD avec exercices corrigés" class="zoomable" loading="lazy"></div>
       <h3>TD & exercices corrigés</h3>
       <p>Travaux dirigés avec corrigés détaillés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
     </article>
     <article class="inside-card">
-      <div class="inside-icon"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIXX8i25zgWEH10TrbQZwAkFrbIW2m8RYM_yIduFOq4ot5wpmCo_Lstbe5i5nJXIaZ_0tkerZ-y1K9yBcqH_EkolOYikHmOInWrH3xvsYwutFVvzY7SUaUvj3ptXyEYNX7WLmH_WHgJ-rZmm29dCSMx3CBAqls9Bm03N1ULGQK6b5lkhfdqlT5x9b3eAJs/s1600/1000115011.jpg" alt="Aperçu d'un examen corrigé des années précédentes" loading="lazy"></div>
+      <div class="inside-icon"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIXX8i25zgWEH10TrbQZwAkFrbIW2m8RYM_yIduFOq4ot5wpmCo_Lstbe5i5nJXIaZ_0tkerZ-y1K9yBcqH_EkolOYikHmOInWrH3xvsYwutFVvzY7SUaUvj3ptXyEYNX7WLmH_WHgJ-rZmm29dCSMx3CBAqls9Bm03N1ULGQK6b5lkhfdqlT5x9b3eAJs/s1600/1000115011.jpg" alt="Aperçu d'un examen corrigé des années précédentes" class="zoomable" loading="lazy"></div>
       <h3>Examens des années précédentes</h3>
       <p>Examens réels des sessions passées, avec corrections complètes. Le meilleur entraînement possible avant les partiels.</p>
     </article>
     <article class="inside-card">
-      <div class="inside-icon"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXqQzhy5FrGSLcoIOeI0Mne9L65DJmIDbIem6IGsPQheh-iLWmkve3Nt0-7yVMEUxu43VBV8wu9VlwX8laXbJcUT5hCF7H6zOc0kKHQBZk8uliOkwBW8pZlZstezUPlRTr6e-PQbphPN7WCk5bFIjrw6792im2Uc1_4r0PWcmpHjQkGNx_nsR9VWvd78tP/s1600/1000115014.jpg" alt="Aperçu du Drive Google organisé" loading="lazy"></div>
+      <div class="inside-icon"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXqQzhy5FrGSLcoIOeI0Mne9L65DJmIDbIem6IGsPQheh-iLWmkve3Nt0-7yVMEUxu43VBV8wu9VlwX8laXbJcUT5hCF7H6zOc0kKHQBZk8uliOkwBW8pZlZstezUPlRTr6e-PQbphPN7WCk5bFIjrw6792im2Uc1_4r0PWcmpHjQkGNx_nsR9VWvd78tP/s1600/1000115014.jpg" alt="Aperçu du Drive Google organisé" class="zoomable" loading="lazy"></div>
       <h3>Drive Google organisé</h3>
       <p>Tous tes fichiers rangés dans des dossiers clairs : Cours / TD / Examens / TP. Accès permanent depuis n'importe quel appareil.</p>
     </article>
   </div>
-  
+  <p style="text-align:center; margin-top:18px; color:var(--muted); font-size:0.86rem;">📥 <strong style="color:var(--ink);">Tous les fichiers sont téléchargeables</strong> — garde-les hors ligne, sur ton PC ou ton téléphone, pas seulement en ligne.</p>
+
+  <section class="section" id="pourquoi" aria-labelledby="pourquoi-titre" style="padding-top:36px;">
+    <div class="sec-label">Pourquoi CoursUni</div>
+    <h2 class="sec-h2" id="pourquoi-titre">Pourquoi <span>des centaines d'étudiants</span> nous font confiance</h2>
+    <p class="pain-line">Ne perds plus des heures à chercher des PDF incomplets, des scans illisibles ou des sites qui te redirigent vers des pubs.</p>
+    <div class="why-grid">
+      <div class="why-col bad">
+        <h3>❌ Avant, sans CoursUni</h3>
+        <ul>
+          <li>Tu cherches pendant des heures sur des dizaines de sites</li>
+          <li>Des PDF incomplets, mal scannés ou introuvables</li>
+          <li>Aucun corrigé pour vérifier ta méthode</li>
+          <li>Des fichiers éparpillés, impossibles à retrouver avant l'examen</li>
+        </ul>
+      </div>
+      <div class="why-col good">
+        <h3>✅ Avec CoursUni</h3>
+        <ul>
+          <li>Tout est déjà organisé, prêt en moins de 5 minutes</li>
+          <li>Cours, TD et examens corrigés, propres et complets</li>
+          <li>Corrigés détaillés étape par étape pour comprendre la méthode</li>
+          <li>Téléchargeable, accessible hors ligne, sur mobile et PC</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
   <section class="section" id="preview-drive" aria-labelledby="preview-drive-titre">
 
   <hr class="cu-divider">
@@ -499,7 +584,7 @@ footer a { color:var(--muted); }
   <!-- Drive screenshot -->
   <div class="drive-preview">
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYUU6m1gaZjKTzCVARv848nLKxFqypQuooUdCXvaYKya86f8rr7qL3iv2YLM__LhL4JkhnmA1WUcGKrPGEmC0OgN0KZvgHY2e4OIKy4XgQy05ZmgxLPpIK9iGXXBxErsyXINaS4NNkyUwLooh2C1ZZKLcrikVySSr46wYW7id9h0VRI19wf8wKyTs7qW0_/s1200/1000108223.png"
-         alt="Aperçu du Drive Google organisé — dossiers Cours, TD, Examens, TP" loading="lazy">
+         alt="Aperçu du Drive Google organisé — dossiers Cours, TD, Examens, TP" class="zoomable" loading="lazy">
     <div class="drive-preview-caption">📂 Voici à quoi ressemble ton Drive après livraison — Cours · TD · Examens · TP bien séparés</div>
   </div>
 
@@ -539,6 +624,9 @@ footer a { color:var(--muted); }
     <a href="https://youtube.com/shorts/VjL8ar92QBw" class="demo-label">🎬 Voir démo contenu</a>
     <br/><br/>
         <a href="https://www.google.com/url?q=https://drive.google.com/file/d/1RH1m_q7-lHxvk7OcFCnST2AAqKFSw0EG/view?usp%3Ddrivesdk&sa=D&source=editors&ust=1785543534844127&usg=AOvVaw2pku0rq-Cna-KPldHDZ2ov" class="demo-label">🎬 Voir une démonstration d'un achat réel (paiement + réception du lien d'accès)</a>
+    <br/><br/>
+    <!-- TODO : remplace # par le vrai lien de ta chaîne YouTube -->
+    <a href="#" target="_blank" rel="noopener" class="demo-label">📺 On publie une démo du contenu de chaque Drive sur notre chaîne YouTube</a>
   </div>
     </section>
 
@@ -585,6 +673,8 @@ footer a { color:var(--muted); }
     <div class="rr-item">🛡️ <strong>Satisfait ou remboursé</strong><span>Sans conditions</span></div>
     <div class="rr-item">🔒 <strong>Paiement sécurisé</strong><span>PayPal · Carte bancaire</span></div>
     <div class="rr-item">⚡ <strong>Livraison immédiate</strong><span>Lien Drive en -5 min</span></div>
+    <div class="rr-item">📱 <strong>Compatible mobile & PC</strong><span>Fichiers téléchargeables</span></div>
+    <div class="rr-item">💬 <strong>Support disponible</strong><span>Réponse rapide sur WhatsApp</span></div>
   </div>
   <div class="form-wrap">
     <div id="form-view">
@@ -1049,6 +1139,25 @@ window.addEventListener('resize', updateFloatCta);
 
 renderMods();
 updateFloatCta();
+
+// ── LIGHTBOX (zoom image plein écran, style Blogger) ──
+function openLightbox(src, alt){
+  const ov = document.getElementById('lightbox');
+  const img = document.getElementById('lightbox-img');
+  img.src = src;
+  img.alt = alt || 'Aperçu agrandi';
+  ov.classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+function closeLightbox(){
+  document.getElementById('lightbox').classList.remove('open');
+  document.getElementById('lightbox-img').src = '';
+  document.body.style.overflow = '';
+}
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeLightbox(); });
+document.querySelectorAll('img.zoomable').forEach(img => {
+  img.addEventListener('click', () => openLightbox(img.currentSrc || img.src, img.alt));
+});
 </script>
 </body>
 </html>
