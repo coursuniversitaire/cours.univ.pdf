@@ -930,11 +930,12 @@ async function doSubmit() {
     if (data.success) {
       // ── Succès : affiche l'écran de confirmation avec le lien PayPal ──
       document.getElementById('form-view').style.display   = 'none';
-      document.getElementById('success-view').style.display = 'block';
+      const successEl = document.getElementById('success-view');
+      successEl.style.display = 'block';
 
       // Optionnel : afficher le lien PayPal directement dans la page
       if (data.paypalLink) {
-        document.getElementById('success-view').innerHTML = `
+        successEl.innerHTML = `
           <div class="big">✅</div>
           <h3>Commande reçue !</h3>
           <p>Un email avec ton lien de paiement personnalisé vient d'être envoyé.<br><br>
@@ -949,6 +950,12 @@ async function doSubmit() {
             Dès confirmation du paiement, tu reçois l'accès à ton Google Drive.
           </p>`;
       }
+
+      // Remonter jusqu'à l'écran de confirmation pour que le bouton
+      // "Payer maintenant" soit visible sans avoir à scroller manuellement.
+      requestAnimationFrame(() => {
+        successEl.scrollIntoView({behavior:'smooth', block:'start'});
+      });
     } else {
       // ── Erreur côté serveur ──
       alert("Une erreur est survenue : " + (data.error || "Réessaie dans quelques instants."));
@@ -969,7 +976,11 @@ function doSubmit2(){
   const email=document.getElementById('f-email').value.trim();
   if(!email||sel.size===0)return;
   document.getElementById('form-view').style.display='none';
-  document.getElementById('success-view').style.display='block';
+  const successEl=document.getElementById('success-view');
+  successEl.style.display='block';
+  requestAnimationFrame(() => {
+    successEl.scrollIntoView({behavior:'smooth', block:'start'});
+  });
   startCountdown();
 }
 
