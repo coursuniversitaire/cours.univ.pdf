@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- ═══ SEO Primary ═══ -->
+  <title>Corrosion — Cours PDF, TD & Examens Corrigés | CoursUni</title>
+  <meta name="description" content="Téléchargez le module Corrosion : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta name="keywords"    content="Corrosion, cours Corrosion pdf, td corrigés Corrosion, examen corrigé Corrosion, module Corrosion université, polycopié Corrosion, exercices corrigés Corrosion, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/corrosion.html" />
+
+  <!-- ═══ Open Graph ═══ -->
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Corrosion — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta property="og:description" content="Téléchargez le module Corrosion : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/corrosion.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <!-- ═══ Twitter Card ═══ -->
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Corrosion — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta name="twitter:description" content="Téléchargez le module Corrosion : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+
+  <!-- ═══ Robots ═══ -->
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-05" />
+
+  <!-- ═══ Schema.org JSON-LD ═══ -->
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Corrosion","item":"https://coursuniversitaire.github.io/cours.univ.pdf/corrosion.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Corrosion ?","acceptedAnswer":{"@type":"Answer","text":"Le module Corrosion contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Corrosion ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Corrosion correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    /* ═══════════════════════════════════════
+       Design tokens — matches CoursUni site
+       ═══════════════════════════════════════ */
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ── */
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    /* ── Nav ── */
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* ── Breadcrumb ── */
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    /* ── Hero ── */
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.55rem; font-weight: 700; margin-bottom: 28px;
+    }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    /* ── Cards grid ── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    /* ── Drive tree ── */
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    /* ── Steps ── */
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    /* ── FAQ ── */
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    /* ── Trust bar ── */
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    /* ── CTA section ── */
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    /* ── Footer ── */
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════
+     NAV
+════════════════════════════════════════ -->
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ════════════════════════════════════════
+     HERO
+════════════════════════════════════════ -->
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Corrosion</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Corrosion</em><br />
+      Cours, TD et exercices corrigés Corrosion pdf &amp; Examens Corripdf
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Corrosion</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.
+      Accès immédiat.
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">1</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     WHAT YOU GET
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Corrosion</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Corrosion</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     DRIVE TREE
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Corrosion</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Corrosion">
+<div class="tree-folder">├── 🔗📁 corrosion-20260606T200214Z-3-001 (1).zip/  (raccourci)</div>
+<div class="tree-file">├── 📄 Drive module Corrosion - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 corrosion-20260606T200214Z-3-001.zip  (raccourci)</div>
+<div class="tree-folder">├── 🔗📁 Electrochimie + Corrosion/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 3- Livres/</div>
+<div class="tree-file">│   │   ├── 📄 lectrochimie – Des concept (Z-Library).pdf</div>
+<div class="tree-file">│   │   ├── 📄 Traité des matériaux - Volume 12 - Chimie et corrosion de surfaces des métaux.pdf</div>
+<div class="tree-file">│   │   └── 📄 Electrochimie - Resumes de cours et exercices corrige.pdf</div>
+<div class="tree-folder">│   ├── 📁 2- Sujets/</div>
+<div class="tree-file">│   │   ├── 📄 322467774_715414490190551_4009299782210082865_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 Tebessa - Controle 2018.jpg</div>
+<div class="tree-file">│   │   ├── 📄 Setif 2020 - Electrochimie.jpg</div>
+<div class="tree-file">│   │   ├── 📄 Laghouat - Electrochimie - Corrosion.jpg</div>
+<div class="tree-file">│   │   ├── 📄 Z - Electrochimie 2018 p2.jpg</div>
+<div class="tree-file">│   │   ├── 📄 Z - Electrochimie 2018 p1.jpg</div>
+<div class="tree-file">│   │   ├── 📄 Setif - Examen Corrosion 2019.jpg</div>
+<div class="tree-file">│   │   ├── 📄 87903422_2617474208506421_1723230137165545472_o.jpg</div>
+<div class="tree-file">│   │   ├── 📄 82070639_2837764826307106_6645732751142027264_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 83154076_2837764576307131_2564166828003688448_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 72390037_738934693199604_6062560047286714368_o.jpg</div>
+<div class="tree-file">│   │   ├── 📄 zzzzzzzzzzz.jpg</div>
+<div class="tree-file">│   │   ├── 📄 zzzzzzzzzz.jpg</div>
+<div class="tree-file">│   │   ├── 📄 zzzzzzzz.jpg</div>
+<div class="tree-file">│   │   ├── 📄 zzzzzzz.jpg</div>
+<div class="tree-file">│   │   ├── 📄 zzzzzz.jpg</div>
+<div class="tree-file">│   │   ├── 📄 zzzzz.jpg</div>
+<div class="tree-file">│   │   ├── 📄 zzzz.jpg</div>
+<div class="tree-file">│   │   ├── 📄 zzz.jpg</div>
+<div class="tree-file">│   │   ├── 📄 zz.jpg</div>
+<div class="tree-file">│   │   ├── 📄 z.jpg</div>
+<div class="tree-file">│   │   ├── 📄 EMD - p2 .jpg</div>
+<div class="tree-file">│   │   ├── 📄 EMD - p1 .jpg</div>
+<div class="tree-file">│   │   ├── 📄 Examen -Electrochimie - 2018.jpg</div>
+<div class="tree-file">│   │   ├── 📄 Controle -Electrochimie - 2018.jpg</div>
+<div class="tree-file">│   │   ├── 📄 sujet b.jpg</div>
+<div class="tree-file">│   │   ├── 📄 sujet a.jpg</div>
+<div class="tree-file">│   │   ├── 📄 Synthese.jpg</div>
+<div class="tree-file">│   │   ├── 📄 UKM -Synthese.jpg</div>
+<div class="tree-file">│   │   ├── 📄 UKM - Examen 2.jpg</div>
+<div class="tree-file">│   │   ├── 📄 UKM - Examen - Traveau Diriges.jpg</div>
+<div class="tree-file">│   │   └── 📄 UKM - Examen 1.jpg</div>
+<div class="tree-folder">│   └── 📁 1- Cours + TD/</div>
+<div class="tree-file">│       ├── 📄 Biskta - corrosion.pdf</div>
+<div class="tree-file">│       ├── 📄 Electrolyse - Exo corrige.pdf</div>
+<div class="tree-file">│       ├── 📄 Ouargla - Corrosion.pdf</div>
+<div class="tree-file">│       ├── 📄 ENSSMAL - Cours-corrosion-2020-LABBACE_.pdf</div>
+<div class="tree-file">│       ├── 📄 Jijel - Corrosion.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours d'Electrochimie L3.pdf</div>
+<div class="tree-file">│       ├── 📄 Resume,Electrochimie.pdf</div>
+<div class="tree-file">│       ├── 📄 SMPC - TD(Corrige) .pdf</div>
+<div class="tree-file">│       ├── 📄 Jijel - Cours Hakim Bensabra (CPM).pdf</div>
+<div class="tree-file">│       ├── 📄 79646502_117140136437608_5125386230405529600_n.jpg</div>
+<div class="tree-file">│       ├── 📄 TD (Corrige) - application de l équation de nernst 2018.pdf</div>
+<div class="tree-file">│       ├── 📄 El-Oued - Cours-delectrochimie-3-annee-GP.pdf</div>
+<div class="tree-file">│       ├── 📄 USTHB - TD - Corrosion.pdf</div>
+<div class="tree-file">│       ├── 📄 UMMTO - TD corrige_serie 3.pdf</div>
+<div class="tree-file">│       ├── 📄 USTHB - Cours d’électrochimie.pdf</div>
+<div class="tree-file">│       ├── 📄 Electrochimie - Berarma.pdf</div>
+<div class="tree-file">│       ├── 📄 Biskra - corrosion.docx</div>
+<div class="tree-file">│       ├── 📄 Classification des couples RÉDOX.pdf</div>
+<div class="tree-file">│       ├── 📄 Oxydo-reduction et Piles electrochimiques (Exo corrige).pdf</div>
+<div class="tree-file">│       ├── 📄 Z- Exo.JPG</div>
+<div class="tree-file">│       ├── 📄 Ouargla - Electrochimie_Corrosion.pdf</div>
+<div class="tree-folder">│       ├── 📁 Medea/</div>
+<div class="tree-file">│       │   ├── 📄 les electrodes en electrochimie.pdf</div>
+<div class="tree-file">│       │   ├── 📄 NEDJHIOUI.pdf</div>
+<div class="tree-file">│       │   ├── 📄 solution serie 2.pdf</div>
+<div class="tree-file">│       │   ├── 📄 SERIES 1et 2 et EFS avec corriges.pdf</div>
+<div class="tree-file">│       │   ├── 📄 cours d_electrochimie L3_GP.pdf</div>
+<div class="tree-file">│       │   └── 📄 Medea - Electrochimie.pdf</div>
+<div class="tree-folder">│       ├── 📁 Relizane  - Corrosion/</div>
+<div class="tree-file">│       │   ├── 📄 chapitreI généralité sur la corrosion.pdf</div>
+<div class="tree-file">│       │   ├── 📄 CHapitre II E-pH.pdf</div>
+<div class="tree-file">│       │   └── 📄 chapitre IVprévention de la corrosion.pdf</div>
+<div class="tree-folder">│       ├── 📁 Relizane - Cours + TD/</div>
+<div class="tree-file">│       │   ├── 📄 Chapitre I  Rappels sur les solution éléctrolytiques-converti.pdf</div>
+<div class="tree-file">│       │   ├── 📄 Chapitre II propriétés et grandeurs physiques des électrolytes-converti.pdf</div>
+<div class="tree-file">│       │   ├── 📄 Chapitre III Thermodynamique des réactions électrochimiques-converti.pdf</div>
+<div class="tree-file">│       │   ├── 📄 Chapitre IV cinétique des réaction électrochimique-converti.pdf</div>
+<div class="tree-file">│       │   └── 📄 TD + Sols.pdf</div>
+<div class="tree-folder">│       ├── 📁 Skikda - TD Électrochimie 2021/</div>
+<div class="tree-file">│       │   ├── 📄 Série N°1.pdf</div>
+<div class="tree-file">│       │   ├── 📄 Solution de la série d’exercices N° 1.pdf</div>
+<div class="tree-file">│       │   ├── 📄 Solution de la serie d_exercice N°3.pdf</div>
+<div class="tree-file">│       │   ├── 📄 Solution de la serie d_exercice N°2.pdf</div>
+<div class="tree-file">│       │   ├── 📄 serie N°3.pdf</div>
+<div class="tree-file">│       │   └── 📄 serie N°2.pdf</div>
+<div class="tree-folder">│       ├── 📁 DBKM - Series/</div>
+<div class="tree-file">│       │   ├── 📄 Serie 2.jpg</div>
+<div class="tree-file">│       │   ├── 📄 Serie 1.jpg</div>
+<div class="tree-file">│       │   ├── 📄 Serie 7.jpg</div>
+<div class="tree-file">│       │   ├── 📄 Serie 6.jpg</div>
+<div class="tree-file">│       │   ├── 📄 Serie 3.jpg</div>
+<div class="tree-file">│       │   ├── 📄 Serie 4.jpg</div>
+<div class="tree-file">│       │   ├── 📄 Serie 5 - p2.jpg</div>
+<div class="tree-file">│       │   └── 📄 Serie 5 - p1.jpg</div>
+<div class="tree-folder">│       ├── 📁 Z - TD/</div>
+<div class="tree-file">│       │   ├── 📄 41416251_678946852477978_6369623635988054016_n.jpg</div>
+<div class="tree-file">│       │   ├── 📄 41466046_678946775811319_4477432049493344256_n.jpg</div>
+<div class="tree-file">│       │   ├── 📄 41456127_678946639144666_2502103588503814144_n.jpg</div>
+<div class="tree-file">│       │   └── 📄 41581851_678946532478010_9054733229763854336_n.jpg</div>
+<div class="tree-folder">│       └── 📁 USTHB - TD (Corrige)/</div>
+<div class="tree-file">│           ├── 📄 Serie01Ecc+Crg.pdf</div>
+<div class="tree-file">│           ├── 📄 serie04[1].pdf</div>
+<div class="tree-file">│           ├── 📄 Serie02Ecc+Crg.pdf</div>
+<div class="tree-file">│           └── 📄 serie03[1].pdf</div>
+<div class="tree-folder">├── 🔗📁 CORROSION/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 26553301_326763587808090_2120779252_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26553244_326763584474757_780675392_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26551931_326763527808096_1768397180_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26551633_326763604474755_311324380_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26551578_326763571141425_1353694238_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26235333_326763757808073_1646329076_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26241950_326763671141415_773015756_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26235249_326763621141420_1400555309_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26235076_326763747808074_784861992_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26234877_326763551141427_1514360902_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26234443_326763524474763_1646536108_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26234295_326763601141422_1924795069_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26197492_326763644474751_1652336322_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26234057_326763564474759_1113104662_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26197436_326763544474761_2078784519_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26197109_326763597808089_1278117516_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26196881_326763617808087_1118384789_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26233840_326763647808084_1548698933_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26176133_326763624474753_1353621027_n.jpg</div>
+<div class="tree-file">│   ├── 📄 26197499_326763634474752_402131863_n.jpg</div>
+<div class="tree-folder">│   ├── 📁 corrosion suite/</div>
+<div class="tree-file">│   │   ├── 📄 emdEMD CORROSION.pdf</div>
+<div class="tree-file">│   │   └── 📄 emd.pdf</div>
+<div class="tree-folder">│   └── 📁 EMD CORROSION AVEC CORRIGE/</div>
+<div class="tree-file">│       ├── 📄 26113710_895654293928356_4053089426022401746_n.jpg</div>
+<div class="tree-file">│       ├── 📄 26167597_895654203928365_2208928937094433345_n.jpg</div>
+<div class="tree-file">│       └── 📄 26166615_895654250595027_6240642146627481739_n.jpg</div>
+<div class="tree-folder">├── 🔗📁 Corrosion /  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 rattra. coroo_1.pdf</div>
+<div class="tree-folder">│   ├── 📁 exmn + crg/</div>
+<div class="tree-file">│   │   └── 📄 71113580_657195528135034_3178282104051990528_n.jpg</div>
+<div class="tree-folder">│   └── 📁 Cours/</div>
+<div class="tree-file">│       └── 📄 Cour corrosion Section E (2018,2019).pdf</div>
+<div class="tree-folder">├── 🔗📁 Corrosion/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 04 cours corrosion séche.pdf</div>
+<div class="tree-file">│   ├── 📄 03 cours partie thermodynamique.pdf</div>
+<div class="tree-file">│   ├── 📄 02 COUR Cinétique de corrosion.pdf</div>
+<div class="tree-file">│   ├── 📄 01 Corrosion CHAP1.pdf</div>
+<div class="tree-file">│   └── 📄 td corrosion.pdf</div>
+<div class="tree-folder">└── 🔗📁 corrosion/  (raccourci)</div>
+<div class="tree-file">    ├── 📄 img004-1.jpg</div>
+<div class="tree-file">    ├── 📄 Cours Hakim Bensabra (CPM).pdf</div>
+<div class="tree-file">    ├── 📄 cours.pdf</div>
+<div class="tree-file">    ├── 📄 23722757_10212927299090263_3262062410301490753_n.jpg</div>
+<div class="tree-file">    ├── 📄 23754957_10212927299490273_1995358205993737709_n.jpg</div>
+<div class="tree-folder">    ├── 📁 sujets/</div>
+<div class="tree-file">    │   ├── 📄 EMD corrosion Janvier 2011.pdf</div>
+<div class="tree-file">    │   ├── 📄 emd 2015.pdf</div>
+<div class="tree-file">    │   ├── 📄 8.jpg</div>
+<div class="tree-file">    │   ├── 📄 7.jpg</div>
+<div class="tree-file">    │   ├── 📄 6.jpg</div>
+<div class="tree-file">    │   ├── 📄 5.jpg</div>
+<div class="tree-file">    │   ├── 📄 3.jpg</div>
+<div class="tree-file">    │   ├── 📄 4.jpg</div>
+<div class="tree-file">    │   ├── 📄 2.jpg</div>
+<div class="tree-file">    │   ├── 📄 1.jpg</div>
+<div class="tree-folder">    │   ├── 📁 question de cours/</div>
+<div class="tree-file">    │   │   ├── 📄 3.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">    │   │   └── 📄 1.jpg</div>
+<div class="tree-folder">    │   ├── 📁 RP 2018/</div>
+<div class="tree-file">    │   │   ├── 📄 7.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 9.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 5.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 1.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 4.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 8.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 3.jpg</div>
+<div class="tree-file">    │   │   └── 📄 6.jpg</div>
+<div class="tree-folder">    │   └── 📁 GE 2017/</div>
+<div class="tree-file">    │       ├── 📄 1.jpg</div>
+<div class="tree-file">    │       ├── 📄 27067764_827105327492885_8362996156448668824_n.jpg</div>
+<div class="tree-file">    │       └── 📄 2.jpg</div>
+<div class="tree-folder">    ├── 📁 TD/</div>
+<div class="tree-file">    │   ├── 📄 3.jpg</div>
+<div class="tree-file">    │   ├── 📄 2.jpg</div>
+<div class="tree-file">    │   ├── 📄 4.jpg</div>
+<div class="tree-file">    │   ├── 📄 1.jpg</div>
+<div class="tree-folder">    │   ├── 📁 diagramme de pourbaix/</div>
+<div class="tree-file">    │   │   ├── 📄 6.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 9.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 8.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 3.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 4.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 10.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 7.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 5.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 1.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 12.jpg</div>
+<div class="tree-file">    │   │   └── 📄 11.jpg</div>
+<div class="tree-folder">    │   ├── 📁 rappels/</div>
+<div class="tree-file">    │   │   ├── 📄 1.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 23316336_10210766843234871_7770013907112890793_n.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 2.jpg</div>
+<div class="tree-folder">    │   │   ├── 📁 chwiya/</div>
+<div class="tree-file">    │   │   │   ├── 📄 3.jpg</div>
+<div class="tree-file">    │   │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">    │   │   │   └── 📄 1.jpg</div>
+<div class="tree-folder">    │   │   └── 📁 jouji/</div>
+<div class="tree-file">    │   │       ├── 📄 4.jpg</div>
+<div class="tree-file">    │   │       ├── 📄 2.jpg</div>
+<div class="tree-file">    │   │       ├── 📄 1.jpg</div>
+<div class="tree-file">    │   │       ├── 📄 6.jpg</div>
+<div class="tree-file">    │   │       ├── 📄 7.jpg</div>
+<div class="tree-file">    │   │       ├── 📄 5.jpg</div>
+<div class="tree-file">    │   │       └── 📄 3.jpg</div>
+<div class="tree-folder">    │   ├── 📁 zina/</div>
+<div class="tree-file">    │   │   ├── 📄 9.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 8.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 7.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 6.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 5.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 4.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 3.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 24.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 23.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 22.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 21.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 20.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 19.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 18.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 17.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 16.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 15.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 14.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 13.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 12.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 11.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 10.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 1.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 26.jpg</div>
+<div class="tree-file">    │   │   └── 📄 25.jpg</div>
+<div class="tree-folder">    │   ├── 📁 série 02 yasmine/</div>
+<div class="tree-file">    │   │   ├── 📄 9.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 8.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 7.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 6.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 5.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 4.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 3.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 16.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 15.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 14.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 13.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 12.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 11.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 10.jpg</div>
+<div class="tree-file">    │   │   └── 📄 1.jpg</div>
+<div class="tree-folder">    │   ├── 📁 sabah/</div>
+<div class="tree-file">    │   │   ├── 📄 7.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 5.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 9.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 8.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 6.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 14.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 3.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 4.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 15.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 13.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 10.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 12.jpg</div>
+<div class="tree-file">    │   │   └── 📄 1.jpg</div>
+<div class="tree-folder">    │   ├── 📁 série 03/</div>
+<div class="tree-file">    │   │   ├── 📄 1.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">    │   │   └── 📄 3.jpg</div>
+<div class="tree-folder">    │   ├── 📁 exo 2 série 02/</div>
+<div class="tree-file">    │   │   ├── 📄 5.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 1.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 4.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">    │   │   └── 📄 3.jpg</div>
+<div class="tree-folder">    │   └── 📁 série 01/</div>
+<div class="tree-file">    │       ├── 📄 2.jpg</div>
+<div class="tree-file">    │       ├── 📄 1.jpg</div>
+<div class="tree-folder">    │       └── 📁 exo 3/</div>
+<div class="tree-file">    │           ├── 📄 7.jpg</div>
+<div class="tree-file">    │           ├── 📄 4.jpg</div>
+<div class="tree-file">    │           ├── 📄 6.jpg</div>
+<div class="tree-file">    │           ├── 📄 3.jpg</div>
+<div class="tree-file">    │           ├── 📄 5.jpg</div>
+<div class="tree-file">    │           ├── 📄 1.jpg</div>
+<div class="tree-file">    │           └── 📄 2.jpg</div>
+<div class="tree-folder">    └── 📁 cours/</div>
+<div class="tree-file">        ├── 📄 Séance4corrosion.pptx</div>
+<div class="tree-file">        ├── 📄 cours1.pdf</div>
+<div class="tree-file">        ├── 📄 cours corrosion 222-rotated.pdf</div>
+<div class="tree-file">        ├── 📄 cour2.pdf</div>
+<div class="tree-file">        ├── 📄 exsm14_03.pdf</div>
+<div class="tree-file">        └── 📄 Exposécours3.pptx</div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     HOW TO ORDER
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Corrosion</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FAQ
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Corrosion</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Corrosion ?</summary>
+      <p>
+        Le module <strong>Corrosion</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Corrosion ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Corrosion</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Corrosion correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     CTA FINAL
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Corrosion</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════ -->
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>

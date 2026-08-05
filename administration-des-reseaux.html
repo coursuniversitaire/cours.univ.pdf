@@ -1,0 +1,741 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- ═══ SEO Primary ═══ -->
+  <title>Administration des réseaux — Cours PDF, TD & Examens Corrigés | CoursUni</title>
+  <meta name="description" content="Téléchargez le module Administration des réseaux : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta name="keywords"    content="Administration des réseaux, cours Administration des réseaux pdf, td corrigés Administration des réseaux, examen corrigé Administration des réseaux, module Administration des réseaux université, polycopié Administration des réseaux, exercices corrigés Administration des réseaux, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/administration-des-reseaux.html" />
+
+  <!-- ═══ Open Graph ═══ -->
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Administration des réseaux — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta property="og:description" content="Téléchargez le module Administration des réseaux : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/administration-des-reseaux.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <!-- ═══ Twitter Card ═══ -->
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Administration des réseaux — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta name="twitter:description" content="Téléchargez le module Administration des réseaux : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+
+  <!-- ═══ Robots ═══ -->
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-05" />
+
+  <!-- ═══ Schema.org JSON-LD ═══ -->
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Administration des réseaux","item":"https://coursuniversitaire.github.io/cours.univ.pdf/administration-des-reseaux.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Administration des réseaux ?","acceptedAnswer":{"@type":"Answer","text":"Le module Administration des réseaux contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Administration des réseaux ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Administration des réseaux correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    /* ═══════════════════════════════════════
+       Design tokens — matches CoursUni site
+       ═══════════════════════════════════════ */
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ── */
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    /* ── Nav ── */
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* ── Breadcrumb ── */
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    /* ── Hero ── */
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.55rem; font-weight: 700; margin-bottom: 28px;
+    }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    /* ── Cards grid ── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    /* ── Drive tree ── */
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    /* ── Steps ── */
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    /* ── FAQ ── */
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    /* ── Trust bar ── */
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    /* ── CTA section ── */
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    /* ── Footer ── */
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════
+     NAV
+════════════════════════════════════════ -->
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ════════════════════════════════════════
+     HERO
+════════════════════════════════════════ -->
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Administration des réseaux</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Administration des réseaux</em><br />
+      Cours, TD et exercices corrigés Administration des réseaux pdf &amp; Examens Corripdf
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Administration des réseaux</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.
+      Accès immédiat.
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">1</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">10</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">1</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">9</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     WHAT YOU GET
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Administration des réseaux</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Administration des réseaux</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     DRIVE TREE
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Administration des réseaux</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Administration des réseaux">
+<div class="tree-file">├── 📄 Drive module Administration des réseaux - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 ADMINISTRATION RESEAU/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 EXAM/</div>
+<div class="tree-file">│   │   ├── 📄 adminQCM_2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20160107_110753.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20160107_111608.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20160107_111624.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20160107_111631.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20160107_111617.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20160107_110817.jpg</div>
+<div class="tree-file">│   │   ├── 📄 RDS-CSF-_COR.pdf</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20160107_111657.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20160107_110716.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20160107_110723.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20160107_111649.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20160107_111703.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20160107_111641.jpg</div>
+<div class="tree-file">│   │   ├── 📄 2013-09-01-0207.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20160107_110829.jpg</div>
+<div class="tree-file">│   │   ├── 📄 2013-09-01-0208.jpg</div>
+<div class="tree-file">│   │   ├── 📄 33656924_1926891770655299_8093623719055851520_n (3).jpg</div>
+<div class="tree-file">│   │   ├── 📄 33774731_1926892610655215_3303148640276578304_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 33621341_1926892153988594_9138648442527023104_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 ETUDE-DE-CAS-QCM.pdf</div>
+<div class="tree-file">│   │   ├── 📄 résumé-corr-examen-Admin-S2-2013.docx</div>
+<div class="tree-file">│   │   ├── 📄 33614520_1926892547321888_3936075976160575488_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 33653595_1926892627321880_2081978202665779200_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 33656924_1926891770655299_8093623719055851520_n (2).jpg</div>
+<div class="tree-file">│   │   ├── 📄 AdminCS2014_EMD+Corr.pdf</div>
+<div class="tree-file">│   │   ├── 📄 AdminCS2014_EMDCorr-1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 AdminCS2013_EMD+Corr.pdf</div>
+<div class="tree-file">│   │   ├── 📄 33892886_1926891540655322_770139330399174656_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 15978564_1518446848167261_776122439_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 33672235_1926891837321959_3673587782850183168_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 33615826_1926892630655213_7981355434306961408_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 33745581_1926892540655222_7856458648627707904_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 1624234_616460515093821_702951990_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 1558449_579840292097239_816160371_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 33509562_1926891850655291_7042858647239524352_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 33656924_1926891770655299_8093623719055851520_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 33624393_1926891553988654_3547893151161122816_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 33600803_1926892660655210_4695400162296594432_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 33649372_1926891777321965_4074552177119461376_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 33597976_1926891600655316_5859959258749075456_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 33412114_1926892690655207_455428973334102016_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 33775978_1926892183988591_7502067668535476224_n.jpg</div>
+<div class="tree-file">│   │   └── 📄 33656924_1926891770655299_8093623719055851520_n (1).jpg</div>
+<div class="tree-folder">│   ├── 📁 ALL TP/</div>
+<div class="tree-file">│   │   ├── 📄 TP01 Installation de VMware, Windows server, contrôleur de domaine, DNS.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP07 messagerie Exchange.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP05 approbation bidirectionnelle.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP03 Accès Bureau à distance (Remote Desktop).pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP06 Virtual Private Network (VPN) et Bureau à distance.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP04 Installation d’un domaine fils.pdf</div>
+<div class="tree-file">│   │   └── 📄 TP02 Création et gestion des stratégies de groupe (GPO).pdf</div>
+<div class="tree-folder">│   ├── 📁 cours Zeraoulia/</div>
+<div class="tree-file">│   │   ├── 📄 protocles couches applications.pdf</div>
+<div class="tree-file">│   │   ├── 📄 xpose_ldap.pdf</div>
+<div class="tree-file">│   │   ├── 📄 essentiel 2003.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Cours_DHCP.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 001 Introduction/</div>
+<div class="tree-folder">│   │   │   └── 📁 Introduction/</div>
+<div class="tree-file">│   │   │       ├── 📄 2189_2278_1_A_MCSE.SWF</div>
+<div class="tree-file">│   │   │       ├── 📄 2189_2278_1_A_MCSE.XML</div>
+<div class="tree-file">│   │   │       └── 📄 2189_2278_1_A_MCSE.HTM</div>
+<div class="tree-folder">│   │   ├── 📁 007 Gestion des Groupes/</div>
+<div class="tree-file">│   │   │   └── 📄 Gestion des groupes.pps</div>
+<div class="tree-folder">│   │   ├── 📁 003 Active Directory 1/</div>
+<div class="tree-folder">│   │   │   └── 📁 003 Active Directory 1/</div>
+<div class="tree-file">│   │   │       ├── 📄 Active Directory 1.rar</div>
+<div class="tree-file">│   │   │       ├── 📄 Active directory 1.pps</div>
+<div class="tree-file">│   │   │       ├── 📄 2194A_2279A_1_A_SSO.SWF</div>
+<div class="tree-file">│   │   │       ├── 📄 2194A_2279A_02_A_DNS.SWF</div>
+<div class="tree-file">│   │   │       ├── 📄 2194A_2279A_1_A_SSO.XML</div>
+<div class="tree-file">│   │   │       ├── 📄 2194A_2279A_02_A_DNS.XML</div>
+<div class="tree-file">│   │   │       ├── 📄 2194A_2279A_02_A_DNS.HTML</div>
+<div class="tree-file">│   │   │       └── 📄 2194A_2279A_1_A_SSO.HTML</div>
+<div class="tree-folder">│   │   ├── 📁 006 Gestion des comptes d'utilisateurs et d'ordinateurs/</div>
+<div class="tree-file">│   │   │   └── 📄 Gestion des comptes d'utilisateurs et d'ordinateurs.pps</div>
+<div class="tree-folder">│   │   ├── 📁 004 Conception d'une infrastructure de site/</div>
+<div class="tree-folder">│   │   │   └── 📁 004 Conception d'une infrastructure de site/</div>
+<div class="tree-file">│   │   │       └── 📄 Conception d'une infrastructure de site.pps</div>
+<div class="tree-folder">│   │   ├── 📁 002 Conception d'AD/</div>
+<div class="tree-folder">│   │   │   └── 📁 002 Conception d'AD/</div>
+<div class="tree-file">│   │   │       ├── 📄 Introduction a une conception AD.pps</div>
+<div class="tree-file">│   │   │       ├── 📄 2194A_2279A_01_A_LOGICAL.SWF</div>
+<div class="tree-file">│   │   │       ├── 📄 2194A_2279A_01_A_PHYSICAL.SWF</div>
+<div class="tree-file">│   │   │       ├── 📄 2194A_2279A_01_A_PHYSICAL.HTML</div>
+<div class="tree-file">│   │   │       ├── 📄 2194A_2279A_01_A_LOGICAL.XML</div>
+<div class="tree-file">│   │   │       ├── 📄 2194A_2279A_01_A_LOGICAL.HTML</div>
+<div class="tree-file">│   │   │       └── 📄 2194A_2279A_01_A_PHYSICAL.XML</div>
+<div class="tree-folder">│   │   ├── 📁 005 Conception de la structure administrative/</div>
+<div class="tree-folder">│   │   │   └── 📁 005 Conception de la structure administrative/</div>
+<div class="tree-file">│   │   │       └── 📄 Conception de la structure administrative.pps</div>
+<div class="tree-folder">│   │   ├── 📁 008 GPO/</div>
+<div class="tree-file">│   │   │   ├── 📄 Introduction aux stratègies de groupes.swf</div>
+<div class="tree-file">│   │   │   ├── 📄 gpo.pps</div>
+<div class="tree-file">│   │   │   ├── 📄 2144A_2274_6_I_GP.swf</div>
+<div class="tree-file">│   │   │   ├── 📄 2144A_2274_6_I_GP.HTML</div>
+<div class="tree-file">│   │   │   └── 📄 Introduction aux stratègies de groupes.xml</div>
+<div class="tree-folder">│   │   └── 📁 009 Implémentation de modèles d'administration et d'une stratégie d'audit/</div>
+<div class="tree-file">│   │       └── 📄 Implémentation de modèles d'administration et d'une stratégie d'audit.pps</div>
+<div class="tree-folder">│   ├── 📁 New folder (2)/</div>
+<div class="tree-file">│   │   ├── 📄 UNIX1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 AD2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SNMP1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 ADMIN1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 ADMIN3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 AD1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 DNS.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SNMP.pdf</div>
+<div class="tree-file">│   │   ├── 📄 DHCP.pdf</div>
+<div class="tree-file">│   │   ├── 📄 ADMIN2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 ADMIN5.pdf</div>
+<div class="tree-file">│   │   ├── 📄 ADMIN4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 UNIX2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 NIS.pdf</div>
+<div class="tree-folder">│   │   └── 📁 admin/</div>
+<div class="tree-folder">│   │       └── 📁 cours-trm/</div>
+<div class="tree-folder">│   │           └── 📁 cours csf/</div>
+<div class="tree-file">│   │               ├── 📄 wlan- wpan planif (2).pptx</div>
+<div class="tree-file">│   │               ├── 📄 cellulaire.pdf</div>
+<div class="tree-file">│   │               └── 📄 ~$wlan- wpan planif (2).pptx</div>
+<div class="tree-folder">│   └── 📁 RESUME/</div>
+<div class="tree-file">│       ├── 📄 o10.jpg</div>
+<div class="tree-file">│       ├── 📄 o8.jpg</div>
+<div class="tree-file">│       ├── 📄 o11.jpg</div>
+<div class="tree-file">│       ├── 📄 o16.jpg</div>
+<div class="tree-file">│       ├── 📄 o6.jpg</div>
+<div class="tree-file">│       ├── 📄 o13.jpg</div>
+<div class="tree-file">│       ├── 📄 o9.jpg</div>
+<div class="tree-file">│       ├── 📄 o17.jpg</div>
+<div class="tree-file">│       ├── 📄 o15.jpg</div>
+<div class="tree-file">│       ├── 📄 o7.jpg</div>
+<div class="tree-file">│       ├── 📄 o2.jpg</div>
+<div class="tree-file">│       ├── 📄 o3.jpg</div>
+<div class="tree-file">│       ├── 📄 o4.jpg</div>
+<div class="tree-file">│       ├── 📄 o14.jpg</div>
+<div class="tree-file">│       ├── 📄 o1.jpg</div>
+<div class="tree-file">│       ├── 📄 o5.jpg</div>
+<div class="tree-file">│       └── 📄 o12.jpg</div>
+<div class="tree-folder">├── 🔗📁 cour administration reseaux/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 TP 5 AR.pkt</div>
+<div class="tree-file">│   ├── 📄 TP 5 AR.pkt</div>
+<div class="tree-file">│   ├── 📄 TP 5 AR.pkt</div>
+<div class="tree-file">│   ├── 📄 TP 4.pkt</div>
+<div class="tree-file">│   ├── 📄 TP 4.pkt</div>
+<div class="tree-file">│   ├── 📄 TP 4.pkt</div>
+<div class="tree-file">│   ├── 📄 Exemple de Poster.ppt</div>
+<div class="tree-file">│   ├── 📄 TP 4 AR (1).pkt</div>
+<div class="tree-file">│   ├── 📄 TP 4 AR (1).pkt</div>
+<div class="tree-file">│   ├── 📄 TP 4 AR (1).pkt</div>
+<div class="tree-file">│   ├── 📄 Cours 4 CISCO - Protocoles CDP et TFTP.pdf</div>
+<div class="tree-file">│   ├── 📄 Cours 3 CISCO - Routage et Tests de Connectivité.pdf</div>
+<div class="tree-file">│   ├── 📄 Cours 2 CISCO - Configuration et Gestion des Routeurs.pdf</div>
+<div class="tree-file">│   ├── 📄 Cours 1 CISCO - Configuration et Gestion des Switch.pdf</div>
+<div class="tree-file">│   ├── 📄 Mini-Projets AR M2 ASR.pdf</div>
+<div class="tree-file">│   ├── 📄 Mini-Projets AR M2 ASR.pdf</div>
+<div class="tree-file">│   └── 📄 Cours et TPs - AR M2 ASR.pdf</div>
+<div class="tree-folder">├── 🔗📁 Admin-Rx/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 EMDs/</div>
+<div class="tree-file">│   │   ├── 📄 Corrigé-Examen-AR_2020-2021.pdf</div>
+<div class="tree-file">│   │   ├── 📄 1636469235808_Corrigé-Examen-AR_2019-2020.pdf</div>
+<div class="tree-file">│   │   ├── 📄 1636469226962_Examen-AR_2019-2020.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Examen-AR_2018-2019.pdf</div>
+<div class="tree-file">│   │   └── 📄 1645957425799_Examen-AR_2017-2018.pdf</div>
+<div class="tree-folder">│   └── 📁 Cours/</div>
+<div class="tree-file">│       ├── 📄 Cour Yazid.pdf</div>
+<div class="tree-file">│       ├── 📄 P2 - Routage et Tests de Connectivité.pdf</div>
+<div class="tree-file">│       ├── 📄 T1 - Réseaux et Leurs Caractéristiques.pdf</div>
+<div class="tree-file">│       ├── 📄 P1 - Configuration de Base et Outils dAccès à Distance.pdf</div>
+<div class="tree-file">│       ├── 📄 T2 - Domaines Fonctionnels de lAdministration des Réseaux.pdf</div>
+<div class="tree-file">│       ├── 📄 T3 - Environnements dAdministration des Réseaux.pdf</div>
+<div class="tree-file">│       ├── 📄 P3- Protocoles CDP et TFTP.pdf</div>
+<div class="tree-file">│       └── 📄 T4 - Environnement dAdministration SNMP.pdf</div>
+<div class="tree-folder">├── 🔗📁 Administration réseaux et Qualité de Service/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Cours M2 AR et QoS 2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre 2 AR et QoS 2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre 3 AR et QoS 2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre 4 AR et QoS 2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Fiche TP 1 AD QOS 2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Fiche TP 2 AD QOS 2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Fiche TP 3 AD QOS 2020-2021.pdf</div>
+<div class="tree-file">│   └── 📄 Fiche TP 4 AD QOS 2020-2021.pdf</div>
+<div class="tree-folder">├── 🔗📁 Administration Réseau/  (raccourci)</div>
+<div class="tree-folder">│   └── 📁 Cours/</div>
+<div class="tree-file">│       ├── 📄 cm5_snmp_netconf.pdf</div>
+<div class="tree-file">│       ├── 📄 cm4_nis_nfs.pdf</div>
+<div class="tree-file">│       ├── 📄 cm3_dns (1).pdf</div>
+<div class="tree-file">│       ├── 📄 cm2_dhcp.pdf</div>
+<div class="tree-file">│       └── 📄 cm1_routage_ipv4.pdf</div>
+<div class="tree-folder">├── 🔗📁 M35 Administration Des Réseaux Informatiques FSR RABAT/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-file">│   │   ├── 📄 TD2-Admin-SMI6.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD1-Admin-SMI6.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD3-Admin-SMI6.pdf</div>
+<div class="tree-file">│   │   └── 📄 TD4-Admin-SMI6.pdf</div>
+<div class="tree-folder">│   └── 📁 Cours/</div>
+<div class="tree-file">│       ├── 📄 Cours4-SNMP-AdminRéseaux.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours1-Protocoles-AdminRéseaux.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours3-VLAN-AdminRéseaux.pdf</div>
+<div class="tree-file">│       └── 📄 Cours2-STP-AdminRéseaux.pdf</div>
+<div class="tree-folder">├── 📁 Administration des services réseaux/</div>
+<div class="tree-folder">│   ├── 📁 prof Zerrouki Hadj/</div>
+<div class="tree-folder">│   │   ├── 📁 TD/</div>
+<div class="tree-file">│   │   │   ├── 📄 TD5.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD4.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD3.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD2.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 TD1.pdf</div>
+<div class="tree-folder">│   │   └── 📁 Cours/</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre 4 partie 2 Le service de transfert de fichiers (FTP).pdf</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre 4 partie 1 Le service de messagerie (SMTP).pdf</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre 3 partie 2  Les services annuaires (DHCP).pdf</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre 3 partie 1  Les services annuaires (DNS).pdf</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre 2 Le service SNMP.pdf</div>
+<div class="tree-file">│   │       └── 📄 Chapitre 1  Présentation de l’administration réseau.pdf</div>
+<div class="tree-folder">│   └── 📁 prof Berkat abdellatif/</div>
+<div class="tree-folder">│       └── 📁 cours/</div>
+<div class="tree-file">│           ├── 📄 Admin des services reseaux_ chapitre 5.pdf</div>
+<div class="tree-file">│           ├── 📄 Admin des services reseaux_ chapitre 4 .pdf</div>
+<div class="tree-file">│           ├── 📄 Admin des services reseaux_ Partie-2 de chap3 .pdf</div>
+<div class="tree-file">│           ├── 📄 Admin des services reseaux_ chapitre 6.pdf</div>
+<div class="tree-file">│           └── 📄 Admin des services reseaux_chap1-chap2 et Partie-1 de chap3 .pdf</div>
+<div class="tree-folder">└── 📁 Administration des réseaux/</div>
+<div class="tree-folder">    ├── 📁 TD/</div>
+<div class="tree-file">    │   ├── 📄 TD_ACL_VLANCorrection.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD2 _ VLANs.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD2 _ VLANs (corrigé).pdf</div>
+<div class="tree-file">    │   ├── 📄 TD3 _ SNMP (corrigé).pdf</div>
+<div class="tree-file">    │   └── 📄 TD1 _ DHCP et DNS (Corrigé).pdf</div>
+<div class="tree-folder">    ├── 📁 TP/</div>
+<div class="tree-file">    │   ├── 📄 TP6 _ SNMP.pdf</div>
+<div class="tree-file">    │   ├── 📄 TP4 _ VLAN.pdf</div>
+<div class="tree-file">    │   ├── 📄 TP5 _ ACL.pdf</div>
+<div class="tree-file">    │   ├── 📄 TP1 (idem).pdf</div>
+<div class="tree-file">    │   ├── 📄 TP3 _ Routage dynamique.pdf</div>
+<div class="tree-file">    │   ├── 📄 TP2 _ Routage statique.pdf</div>
+<div class="tree-file">    │   └── 📄 TP1 _ DHCP et DNS (corrigé).pdf</div>
+<div class="tree-folder">    └── 📁 Cours/</div>
+<div class="tree-file">        ├── 📄 Chapitre 4 _ VLAN.pdf</div>
+<div class="tree-file">        ├── 📄 Chapitre 4 _ ACL.pdf</div>
+<div class="tree-file">        ├── 📄 Chapitre 5 _ SNMP.pdf</div>
+<div class="tree-file">        ├── 📄 Chapitre 4 _ ACL et contrôle d’accès.pdf</div>
+<div class="tree-file">        ├── 📄 Chapitre 3 _ Routage.pdf</div>
+<div class="tree-file">        ├── 📄 Chapitre 2 _ DHCP et DNS.pdf</div>
+<div class="tree-file">        └── 📄 Chapitre 1 _ Introduction.pdf</div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     HOW TO ORDER
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Administration des réseaux</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FAQ
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Administration des réseaux</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Administration des réseaux ?</summary>
+      <p>
+        Le module <strong>Administration des réseaux</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Administration des réseaux ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Administration des réseaux</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Administration des réseaux correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     CTA FINAL
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Administration des réseaux</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════ -->
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>

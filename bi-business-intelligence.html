@@ -1,0 +1,862 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- ═══ SEO Primary ═══ -->
+  <title>BI - business intelligence — Cours PDF, TD & Examens Corrigés | CoursUni</title>
+  <meta name="description" content="Téléchargez le module BI - business intelligence : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta name="keywords"    content="BI - business intelligence, cours BI - business intelligence pdf, td corrigés BI - business intelligence, examen corrigé BI - business intelligence, module BI - business intelligence université, polycopié BI - business intelligence, exercices corrigés BI - business intelligence, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/bi-business-intelligence.html" />
+
+  <!-- ═══ Open Graph ═══ -->
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="BI - business intelligence — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta property="og:description" content="Téléchargez le module BI - business intelligence : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/bi-business-intelligence.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <!-- ═══ Twitter Card ═══ -->
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="BI - business intelligence — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta name="twitter:description" content="Téléchargez le module BI - business intelligence : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+
+  <!-- ═══ Robots ═══ -->
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-05" />
+
+  <!-- ═══ Schema.org JSON-LD ═══ -->
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"BI - business intelligence","item":"https://coursuniversitaire.github.io/cours.univ.pdf/bi-business-intelligence.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module BI - business intelligence ?","acceptedAnswer":{"@type":"Answer","text":"Le module BI - business intelligence contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module BI - business intelligence ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module BI - business intelligence correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    /* ═══════════════════════════════════════
+       Design tokens — matches CoursUni site
+       ═══════════════════════════════════════ */
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ── */
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    /* ── Nav ── */
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* ── Breadcrumb ── */
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    /* ── Hero ── */
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.55rem; font-weight: 700; margin-bottom: 28px;
+    }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    /* ── Cards grid ── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    /* ── Drive tree ── */
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    /* ── Steps ── */
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    /* ── FAQ ── */
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    /* ── Trust bar ── */
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    /* ── CTA section ── */
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    /* ── Footer ── */
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════
+     NAV
+════════════════════════════════════════ -->
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ════════════════════════════════════════
+     HERO
+════════════════════════════════════════ -->
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>BI - business intelligence</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>BI - business intelligence</em><br />
+      Cours, TD et exercices corrigés BI - business intelligence pdf &amp; Examens Corripdf
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>BI - business intelligence</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.
+      Accès immédiat.
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">3</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">24</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">14</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">2</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     WHAT YOU GET
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">BI - business intelligence</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés BI - business intelligence</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     DRIVE TREE
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">BI - business intelligence</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module BI - business intelligence">
+<div class="tree-file">├── 📄 Drive module BI - business intelligence - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 BI/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 interro/</div>
+<div class="tree-file">│   │   ├── 📄 Corrige_TD2-bis.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Examen_BI_2022-2023.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EMD_SID_2022_2023.pdf</div>
+<div class="tree-file">│   │   ├── 📄 CORRIGE-EXAMEN-SID-2022-2023 (1).pdf</div>
+<div class="tree-file">│   │   ├── 📄 NOM_PRENOM_GROUPE_DEVOIR_TD2_TD3.docx</div>
+<div class="tree-file">│   │   └── 📄 Copie de nom_prenom_G1_DEVOIR_TD2_TD3 – 19 avril à 18_19.docx</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-file">│   │   ├── 📄 TD1 (2).docx</div>
+<div class="tree-file">│   │   ├── 📄 Corrige_TD2-bis (1).pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD4 (2).docx</div>
+<div class="tree-file">│   │   ├── 📄 TD3_1 (3).docx</div>
+<div class="tree-file">│   │   ├── 📄 TD2_1 (2).docx</div>
+<div class="tree-file">│   │   └── 📄 Corrige_TD1 (1).pdf</div>
+<div class="tree-folder">│   └── 📁 COURS/</div>
+<div class="tree-file">│       ├── 📄 IV_OLAP.pptx</div>
+<div class="tree-file">│       ├── 📄 II_Modelisation_dimensionnelle_1.pptx</div>
+<div class="tree-file">│       └── 📄 I_-La_Business_Intelligence.pptx</div>
+<div class="tree-folder">├── 🔗📁 BDMED |  Base de Données Multidimensionnelles et Entrepôts de Données/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 SQL Etendu pour de l’OLAP.pdf</div>
+<div class="tree-file">│   ├── 📄 Cours_BDMED.pdf</div>
+<div class="tree-folder">│   ├── 📁 Examens / Tests /</div>
+<div class="tree-file">│   │   ├── 📄 BDMED examen 2021-2022</div>
+<div class="tree-file">│   │   ├── 📄 BDMED Test  2021-2022</div>
+<div class="tree-file">│   │   ├── 📄 BDMED 18-19 avec solution.pdf</div>
+<div class="tree-file">│   │   ├── 📄 BDMED 18-19</div>
+<div class="tree-file">│   │   └── 📄 Test 2017-2018.pdf</div>
+<div class="tree-folder">│   ├── 📁 Fiches TP/</div>
+<div class="tree-file">│   │   ├── 📄 TP4_Historisation.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP5_IntegrationED.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP3_BonnesPratiques.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP2_JointureSelection.pdf</div>
+<div class="tree-file">│   │   └── 📄 TP1_Initiation.pdf</div>
+<div class="tree-folder">│   └── 📁 Fiche TD/</div>
+<div class="tree-folder">│       ├── 📁 TD 1/</div>
+<div class="tree-file">│       │   └── 📄 TD1_Analyse_des_besoins.pdf</div>
+<div class="tree-folder">│       ├── 📁 TD 3/</div>
+<div class="tree-file">│       │   ├── 📄 TD3_CORRIGE.pdf</div>
+<div class="tree-file">│       │   └── 📄 TD3_interrogation.pdf</div>
+<div class="tree-folder">│       └── 📁 TD 2/</div>
+<div class="tree-file">│           ├── 📄 TD 2 avec corréction.pdf</div>
+<div class="tree-file">│           └── 📄 TD2 Conception ED.pdf</div>
+<div class="tree-folder">├── 🔗📁 ENDO/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 examens/</div>
+<div class="tree-file">│   │   ├── 📄 EDMIND2016.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EDMIND2019.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EDMIND2020.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EDMIND2017.pdf</div>
+<div class="tree-file">│   │   └── 📄 EDMIND2015.pdf</div>
+<div class="tree-folder">│   ├── 📁 TPS/</div>
+<div class="tree-file">│   │   ├── 📄 corrigé.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP6.pdf</div>
+<div class="tree-folder">│   │   ├── 🔗📁 TP5.pdf/  (raccourci)</div>
+<div class="tree-folder">│   │   ├── 🔗📁 TD Conception Multidimensionnelle  (raccourci)</div>
+<div class="tree-file">│   │   ├── 📄 TD Conception Multidimensionnelle(1).pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TPED1Suite.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TPED1.pdf</div>
+<div class="tree-folder">│   │   └── 📁 VIDEOS/</div>
+<div class="tree-folder">│   │       ├── 🔗📁 TD-TP-10/06/2021/  (raccourci)</div>
+<div class="tree-folder">│   │       ├── 🔗📁 TD_ED_03/06/2021/  (raccourci)</div>
+<div class="tree-folder">│   │       ├── 🔗📁 TD-ED-27/05/2021/  (raccourci)</div>
+<div class="tree-folder">│   │       ├── 🔗📁 TP-ED-20/02/2021/  (raccourci)</div>
+<div class="tree-folder">│   │       ├── 🔗📁 TP-3-06/05/2021/  (raccourci)</div>
+<div class="tree-folder">│   │       └── 🔗📁 TP_2_29/04/2021/  (raccourci)</div>
+<div class="tree-folder">│   └── 📁 COURS/</div>
+<div class="tree-folder">│       └── 📁 PDFS/</div>
+<div class="tree-file">│           ├── 📄 EDChap5.pdf</div>
+<div class="tree-file">│           ├── 📄 EDChap4.pdf</div>
+<div class="tree-file">│           ├── 📄 EDChap3.pdf</div>
+<div class="tree-file">│           ├── 📄 EDChap2.pdf</div>
+<div class="tree-file">│           ├── 📄 EDChap1.pdf</div>
+<div class="tree-file">│           └── 📄 Syllabus.pdf</div>
+<div class="tree-folder">├── 🔗📁 BI/  (raccourci)</div>
+<div class="tree-file">│   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">├── 🔗📁 Entrepôts de données (ENDO)/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 RAPPORTS TP 2019/</div>
+<div class="tree-folder">│   │   ├── 📁 TP8/</div>
+<div class="tree-file">│   │   │   ├── 📄 TP8_ENDO_ALL.sql</div>
+<div class="tree-file">│   │   │   └── 📄 TP8.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TP7/</div>
+<div class="tree-file">│   │   │   ├── 📄 rapport7_endo_MATA_ELKEFIF.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP7_ENDO.sql</div>
+<div class="tree-file">│   │   │   └── 📄 TP7.jpg</div>
+<div class="tree-folder">│   │   ├── 📁 TP6/</div>
+<div class="tree-file">│   │   │   ├── 📄 TP6_ENDO.sql</div>
+<div class="tree-file">│   │   │   ├── 📄 rapport6_endo_MATA_ELKEFIF.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 TP6.jpg</div>
+<div class="tree-folder">│   │   ├── 📁 TP5/</div>
+<div class="tree-file">│   │   │   ├── 📄 rapport5_endo_MATA_ELKEFIF.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP5_ENDO_MATA_ELK.sql</div>
+<div class="tree-file">│   │   │   └── 📄 TP5.jpg</div>
+<div class="tree-folder">│   │   ├── 📁 TP4/</div>
+<div class="tree-file">│   │   │   ├── 📄 rapport4_endo_MATA_ELKEFIF.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP4_ENDO.sql</div>
+<div class="tree-file">│   │   │   └── 📄 TP4.jpg</div>
+<div class="tree-folder">│   │   ├── 📁 TP3/</div>
+<div class="tree-file">│   │   │   ├── 📄 rapport3_endo_MATA_ELKEFIF.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 TP3.jpg</div>
+<div class="tree-folder">│   │   └── 📁 TP1-2/</div>
+<div class="tree-file">│   │       ├── 📄 TP1-2_ENDO_MATA_NASSIM.sql</div>
+<div class="tree-file">│   │       ├── 📄 rapport1-2_endo_MATA_ELKEFIF.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TP1.jpg</div>
+<div class="tree-file">│   │       └── 📄 TP2.jpg</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-file">│   │   ├── 📄 TD2-ENDO.jpg</div>
+<div class="tree-file">│   │   ├── 📄 TD_ENDO.txt</div>
+<div class="tree-file">│   │   └── 📄 TD-ENDO.pdf</div>
+<div class="tree-folder">│   ├── 📁 TP-19/</div>
+<div class="tree-file">│   │   └── 📄 TP8-ENDO - Page 1.pdf</div>
+<div class="tree-folder">│   ├── 📁 TP/</div>
+<div class="tree-file">│   │   ├── 📄 tp2edd.sql</div>
+<div class="tree-file">│   │   ├── 📄 tp3_e_dd.sql</div>
+<div class="tree-file">│   │   ├── 📄 tp1edd.sql</div>
+<div class="tree-file">│   │   ├── 📄 tp4_edd.sql</div>
+<div class="tree-file">│   │   ├── 📄 tp5_edd.sql</div>
+<div class="tree-file">│   │   ├── 📄 tp6_edd.sql</div>
+<div class="tree-file">│   │   ├── 📄 tp7.sql</div>
+<div class="tree-file">│   │   ├── 📄 tp8.sql</div>
+<div class="tree-file">│   │   ├── 📄 TP_09.txt</div>
+<div class="tree-file">│   │   └── 📄 tp9_edd.sql</div>
+<div class="tree-folder">│   ├── 📁 COURS_SELMOUNE/</div>
+<div class="tree-file">│   │   ├── 📄 COURS_ENDO_ALL.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EDChap1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EDChap5.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EDChap2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EDChap3.pdf</div>
+<div class="tree-file">│   │   └── 📄 EDChap4.pdf</div>
+<div class="tree-folder">│   ├── 📁 EXAMENS_CORRIGÉS/</div>
+<div class="tree-file">│   │   ├── 📄 EDMIND2015.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EDMIND-2016.pdf</div>
+<div class="tree-file">│   │   └── 📄 EDMIND2017.pdf</div>
+<div class="tree-folder">│   ├── 📁 SUJETS/</div>
+<div class="tree-file">│   │   ├── 📄 exam SDED 2010-2011.pdf</div>
+<div class="tree-file">│   │   ├── 📄 examSDED2012cor (4).docx</div>
+<div class="tree-file">│   │   ├── 📄 examSDED2014-3.docx</div>
+<div class="tree-file">│   │   ├── 📄 examSDED2013cor-5.docx</div>
+<div class="tree-file">│   │   ├── 📄 Rattrapage SDED 2011.doc</div>
+<div class="tree-file">│   │   ├── 📄 Rattrapage-SDED-2011.doc</div>
+<div class="tree-file">│   │   ├── 📄 sded-td2.docx</div>
+<div class="tree-file">│   │   ├── 📄 EDMIND2015(1).pdf</div>
+<div class="tree-file">│   │   ├── 📄 Examen 2012-2013.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Serie TD enterpot de donnée.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Examen 2011-2012.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Examen enterpot 2009.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 tests enterpot de donnée/</div>
+<div class="tree-file">│   │   │   ├── 📄 img042.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 img039.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 img038.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 img043.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 Thumbs.db</div>
+<div class="tree-file">│   │   │   ├── 📄 img040.jpg</div>
+<div class="tree-file">│   │   │   └── 📄 img041.jpg</div>
+<div class="tree-folder">│   │   └── 📁 correction entrepot examen 2009/</div>
+<div class="tree-file">│   │       ├── 📄 A lire.txt</div>
+<div class="tree-file">│   │       ├── 📄 Correction entrepot examen 2009 (p1).jpg</div>
+<div class="tree-file">│   │       └── 📄 Correction entrepot examen 2009 (p2).jpg</div>
+<div class="tree-folder">│   └── 📁 RAPPORTS TP/</div>
+<div class="tree-folder">│       ├── 📁 rapport_4edd/</div>
+<div class="tree-file">│       │   ├── 📄 10.png</div>
+<div class="tree-file">│       │   ├── 📄 1.png</div>
+<div class="tree-file">│       │   ├── 📄 12.png</div>
+<div class="tree-file">│       │   ├── 📄 11.png</div>
+<div class="tree-file">│       │   ├── 📄 15.png</div>
+<div class="tree-file">│       │   ├── 📄 14.png</div>
+<div class="tree-file">│       │   ├── 📄 16.png</div>
+<div class="tree-file">│       │   ├── 📄 13.png</div>
+<div class="tree-file">│       │   ├── 📄 17.png</div>
+<div class="tree-file">│       │   ├── 📄 2.png</div>
+<div class="tree-file">│       │   ├── 📄 6.png</div>
+<div class="tree-file">│       │   ├── 📄 5.png</div>
+<div class="tree-file">│       │   ├── 📄 4.png</div>
+<div class="tree-file">│       │   ├── 📄 3.png</div>
+<div class="tree-file">│       │   ├── 📄 7.png</div>
+<div class="tree-file">│       │   ├── 📄 8.png</div>
+<div class="tree-file">│       │   ├── 📄 9.png</div>
+<div class="tree-file">│       │   ├── 📄 rapport_tp4.docx</div>
+<div class="tree-file">│       │   ├── 📄 rapport_tp4.pdf</div>
+<div class="tree-file">│       │   └── 📄 tp4_edd.sql</div>
+<div class="tree-folder">│       ├── 📁 rapport_3_e_dd/</div>
+<div class="tree-file">│       │   ├── 📄 1.png</div>
+<div class="tree-file">│       │   ├── 📄 10.png</div>
+<div class="tree-file">│       │   ├── 📄 11.png</div>
+<div class="tree-file">│       │   ├── 📄 12.png</div>
+<div class="tree-file">│       │   ├── 📄 13.png</div>
+<div class="tree-file">│       │   ├── 📄 14.png</div>
+<div class="tree-file">│       │   ├── 📄 16.png</div>
+<div class="tree-file">│       │   ├── 📄 15.png</div>
+<div class="tree-file">│       │   ├── 📄 17.png</div>
+<div class="tree-file">│       │   ├── 📄 18.png</div>
+<div class="tree-file">│       │   ├── 📄 2.png</div>
+<div class="tree-file">│       │   ├── 📄 4_1.png</div>
+<div class="tree-file">│       │   ├── 📄 3.png</div>
+<div class="tree-file">│       │   ├── 📄 glt.png</div>
+<div class="tree-file">│       │   ├── 📄 9.png</div>
+<div class="tree-file">│       │   ├── 📄 rapport_tp3.docx</div>
+<div class="tree-file">│       │   ├── 📄 tp3_e_dd.sql</div>
+<div class="tree-file">│       │   ├── 📄 tp3_edd.txt</div>
+<div class="tree-file">│       │   └── 📄 rapport_tp3.output.pdf</div>
+<div class="tree-folder">│       ├── 📁 rapport8_edd/</div>
+<div class="tree-file">│       │   ├── 📄 1.png</div>
+<div class="tree-file">│       │   ├── 📄 10.png</div>
+<div class="tree-file">│       │   ├── 📄 11.png</div>
+<div class="tree-file">│       │   ├── 📄 12.png</div>
+<div class="tree-file">│       │   ├── 📄 13.png</div>
+<div class="tree-file">│       │   ├── 📄 14.png</div>
+<div class="tree-file">│       │   ├── 📄 15.png</div>
+<div class="tree-file">│       │   ├── 📄 8.png</div>
+<div class="tree-file">│       │   ├── 📄 7.png</div>
+<div class="tree-file">│       │   ├── 📄 3.png</div>
+<div class="tree-file">│       │   ├── 📄 16.png</div>
+<div class="tree-file">│       │   ├── 📄 17.png</div>
+<div class="tree-file">│       │   ├── 📄 2.png</div>
+<div class="tree-file">│       │   ├── 📄 4.png</div>
+<div class="tree-file">│       │   ├── 📄 6.png</div>
+<div class="tree-file">│       │   ├── 📄 5.png</div>
+<div class="tree-file">│       │   ├── 📄 9.png</div>
+<div class="tree-file">│       │   ├── 📄 rapport_tp8.docx</div>
+<div class="tree-file">│       │   ├── 📄 tp8.sql</div>
+<div class="tree-file">│       │   └── 📄 rapport_tp8.output.pdf</div>
+<div class="tree-folder">│       ├── 📁 rapport_1e_et 2_dd/</div>
+<div class="tree-file">│       │   ├── 📄 passageMCDMR.pdf</div>
+<div class="tree-file">│       │   ├── 📄 rapport_1.docx</div>
+<div class="tree-file">│       │   ├── 📄 rapport_1.pdf</div>
+<div class="tree-file">│       │   └── 📄 tp1_tp2.txt</div>
+<div class="tree-folder">│       ├── 📁 rapport6_edd/</div>
+<div class="tree-file">│       │   ├── 📄 1.png</div>
+<div class="tree-file">│       │   ├── 📄 10.png</div>
+<div class="tree-file">│       │   ├── 📄 12.png</div>
+<div class="tree-file">│       │   ├── 📄 11.png</div>
+<div class="tree-file">│       │   ├── 📄 2.png</div>
+<div class="tree-file">│       │   ├── 📄 5.png</div>
+<div class="tree-file">│       │   ├── 📄 4.png</div>
+<div class="tree-file">│       │   ├── 📄 3.png</div>
+<div class="tree-file">│       │   ├── 📄 8.png</div>
+<div class="tree-file">│       │   ├── 📄 6.png</div>
+<div class="tree-file">│       │   ├── 📄 7.png</div>
+<div class="tree-file">│       │   ├── 📄 9.png</div>
+<div class="tree-file">│       │   ├── 📄 rapport_tp6.docx</div>
+<div class="tree-file">│       │   ├── 📄 rapport_tp6.output.pdf</div>
+<div class="tree-file">│       │   └── 📄 tp6_edd.sql</div>
+<div class="tree-folder">│       ├── 📁 rapport7_edd/</div>
+<div class="tree-file">│       │   ├── 📄 1.png</div>
+<div class="tree-file">│       │   ├── 📄 12.png</div>
+<div class="tree-file">│       │   ├── 📄 11.png</div>
+<div class="tree-file">│       │   ├── 📄 10.png</div>
+<div class="tree-file">│       │   ├── 📄 13.png</div>
+<div class="tree-file">│       │   ├── 📄 14.png</div>
+<div class="tree-file">│       │   ├── 📄 17.png</div>
+<div class="tree-file">│       │   ├── 📄 15.png</div>
+<div class="tree-file">│       │   ├── 📄 19.png</div>
+<div class="tree-file">│       │   ├── 📄 16.png</div>
+<div class="tree-file">│       │   ├── 📄 4.png</div>
+<div class="tree-file">│       │   ├── 📄 18.png</div>
+<div class="tree-file">│       │   ├── 📄 2.png</div>
+<div class="tree-file">│       │   ├── 📄 3.png</div>
+<div class="tree-file">│       │   ├── 📄 5.png</div>
+<div class="tree-file">│       │   ├── 📄 6.png</div>
+<div class="tree-file">│       │   ├── 📄 7.png</div>
+<div class="tree-file">│       │   ├── 📄 8.png</div>
+<div class="tree-file">│       │   ├── 📄 9.png</div>
+<div class="tree-file">│       │   ├── 📄 rapport_tp7.docx</div>
+<div class="tree-file">│       │   ├── 📄 tp7.sql</div>
+<div class="tree-file">│       │   └── 📄 rapport_tp7edd.pdf</div>
+<div class="tree-folder">│       └── 📁 rapport5_edd/</div>
+<div class="tree-file">│           ├── 📄 5.png</div>
+<div class="tree-file">│           ├── 📄 1.png</div>
+<div class="tree-file">│           ├── 📄 2.png</div>
+<div class="tree-file">│           ├── 📄 4.png</div>
+<div class="tree-file">│           ├── 📄 6.png</div>
+<div class="tree-file">│           ├── 📄 a.png</div>
+<div class="tree-file">│           ├── 📄 7.png</div>
+<div class="tree-file">│           ├── 📄 b.png</div>
+<div class="tree-file">│           ├── 📄 c.png</div>
+<div class="tree-file">│           ├── 📄 d.7.png</div>
+<div class="tree-file">│           ├── 📄 e.png</div>
+<div class="tree-file">│           ├── 📄 g.png</div>
+<div class="tree-file">│           ├── 📄 f.png</div>
+<div class="tree-file">│           ├── 📄 h.png</div>
+<div class="tree-file">│           ├── 📄 i.png</div>
+<div class="tree-file">│           ├── 📄 j.png</div>
+<div class="tree-file">│           ├── 📄 k.png</div>
+<div class="tree-file">│           ├── 📄 m.png</div>
+<div class="tree-file">│           ├── 📄 l.png</div>
+<div class="tree-file">│           ├── 📄 rapport_tp5_edd.docx</div>
+<div class="tree-file">│           ├── 📄 tp5_edd.sql</div>
+<div class="tree-file">│           └── 📄 rapport_tp5_edd.pdf</div>
+<div class="tree-folder">├── 🔗📁 Outils BI (OBI)/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 TP/</div>
+<div class="tree-file">│   │   └── 📄 sql-server-integration-services-ssis-step-by-step-sample-chapters.pdf</div>
+<div class="tree-folder">│   ├── 📁 EXAMENS_CORRIGÉS/</div>
+<div class="tree-file">│   │   ├── 📄 31967890_10212892242845719_1406019585148190720_n (1).jpg</div>
+<div class="tree-file">│   │   ├── 📄 31956226_10212892247925846_3027099203693182976_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 32104967_1381501441995100_5467268174082736128_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 31967890_10212892242845719_1406019585148190720_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 32084536_10212892255006023_3812418417395236864_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 32085091_10212892248245854_1141008424968912896_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 32089893_10212892244325756_1393636919555915776_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 32105014_10212892243965747_136926207391301632_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 32151062_10212892256126051_7227683854629208064_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 32160849_10212892244645764_3719646410837065728_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 32089794_10212892255486035_47409120323567616_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 32186948_10212892245125776_8939082963212042240_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 32116986_10212892243165727_7412143530237231104_n.jpg</div>
+<div class="tree-file">│   │   ├── 📄 32104682_10212892254246004_8382455734226386944_n.jpg</div>
+<div class="tree-file">│   │   └── 📄 32104682_10212892254246004_8382455734226386944_n (1).jpg</div>
+<div class="tree-folder">│   └── 📁 COURS/</div>
+<div class="tree-file">│       ├── 📄 OBI_ALL_compressed.pdf</div>
+<div class="tree-file">│       ├── 📄 Outils BI (Chapitre 3).pdf</div>
+<div class="tree-file">│       ├── 📄 Outils BI (Chapitre 1).pdf</div>
+<div class="tree-file">│       ├── 📄 Outils BI (Chapitre 2).pdf</div>
+<div class="tree-file">│       └── 📄 révision.output.pdf</div>
+<div class="tree-folder">├── 📁 Examens corrigés/</div>
+<div class="tree-file">│   ├── 📄 Examen SID Université Blida 1 2022 2023 -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 Examen SID Université Blida 1 2022 2023 -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 Exercices TD Modélisation Flocons de Neige -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 Examen BI Université Blida 1 -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 Examen Entrepots de Donnes -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 Examen Entrepots de Donnes -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 Examen Entrepots de Donnes -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 Examen Systèmes décisionnels et entrepôts de données</div>
+<div class="tree-file">│   ├── 📄 Examen SDED M2 IL USTHB 2012 2013 -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 Examen Module SDED M2 IL -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 Examen SDED M2 IL -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 Examen Module SDED M2 IL -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 Examen SDED M2 IL -BI - business intelligence</div>
+<div class="tree-folder">│   └── 🔗📁 SUJETS/  (raccourci)</div>
+<div class="tree-file">│       └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">├── 📁 TDs et TPs/</div>
+<div class="tree-file">│   ├── 📄 Corrige_TD2-bis.pdf</div>
+<div class="tree-file">│   ├── 📄 CORRIGE-EXAMEN-SID-2022-2023 (1).pdf</div>
+<div class="tree-file">│   ├── 📄 EMD_SID_2022_2023.pdf</div>
+<div class="tree-file">│   ├── 📄 Examen_BI_2022-2023.pdf</div>
+<div class="tree-file">│   ├── 📄 Corrige_TD1 (1).pdf</div>
+<div class="tree-file">│   ├── 📄 Corrige_TD2-bis (1).pdf</div>
+<div class="tree-file">│   ├── 📄 TD1 (2).docx</div>
+<div class="tree-file">│   ├── 📄 TD2_1 (2).docx</div>
+<div class="tree-file">│   ├── 📄 TD3_1 (3).docx</div>
+<div class="tree-file">│   ├── 📄 TD4 (2).docx</div>
+<div class="tree-file">│   ├── 📄 Exercices TD Entrepots de Donnees -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 Exercices TP Entrepots de Donnees -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 Exercices TD Bases de données -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 Exercices TP Optimisation des requêtes Oracle -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 Exercices TP Travaux Pratiques SQL -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 Cours PL SQL Exemple de Code -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 TP2.PDF</div>
+<div class="tree-file">│   ├── 📄 Exercices TD Bases de Données -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 Exercices TD Bases de Données -BI - business intelligence</div>
+<div class="tree-file">│   ├── 📄 Exercices TD Systèmes décisionnels et Entrepôts de données</div>
+<div class="tree-file">│   ├── 📄 Exercices TD Conception Multidimensionnelle -BI - business intelligence</div>
+<div class="tree-folder">│   ├── 🔗📁 RAPPORTS TP 2019/  (raccourci)</div>
+<div class="tree-file">│   │   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-file">│   ├── 📄 TD_ENDO.txt</div>
+<div class="tree-file">│   ├── 📄 TD2-ENDO.jpg</div>
+<div class="tree-folder">│   └── 📁 TD/</div>
+<div class="tree-file">│       ├── 📄 Exercices TD Base de Données -BI - business intelligence</div>
+<div class="tree-file">│       ├── 📄 Exercices TD BI -BI - business intelligence</div>
+<div class="tree-file">│       ├── 📄 Exercices TD BI L3 ISIL 2023 2024 -BI - business intelligence</div>
+<div class="tree-file">│       └── 📄 Exercices TD Base de Données -BI - business intelligence</div>
+<div class="tree-folder">└── 📁 COURS/</div>
+<div class="tree-file">    ├── 📄 Exercices TD ERP vs BI -BI - business intelligence</div>
+<div class="tree-file">    ├── 📄 Modélisation dimensionnelle Faits et table de faits</div>
+<div class="tree-file">    ├── 📄 Cours OLAP Analyse des données en ligne -BI - business intelligence</div>
+<div class="tree-file">    └── 📄 Introduction aux Systemes d'Aide a la Decision -BI - business intelligence</div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     HOW TO ORDER
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>BI - business intelligence</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FAQ
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">BI - business intelligence</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module BI - business intelligence ?</summary>
+      <p>
+        Le module <strong>BI - business intelligence</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module BI - business intelligence ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>BI - business intelligence</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module BI - business intelligence correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     CTA FINAL
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">BI - business intelligence</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════ -->
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>

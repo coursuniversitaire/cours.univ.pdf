@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Architecture des ordinateurs — Cours PDF, TD & Examens Corrigés | CoursUni</title>
+  <meta name="description" content="Téléchargez le module Architecture des ordinateurs : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta name="keywords"    content="Architecture des ordinateurs, cours Architecture des ordinateurs pdf, td corrigés Architecture des ordinateurs, examen corrigé Architecture des ordinateurs, module Architecture des ordinateurs université, polycopié Architecture des ordinateurs, exercices corrigés Architecture des ordinateurs, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/architecture-des-ordinateurs.html" />
+
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Architecture des ordinateurs — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta property="og:description" content="Téléchargez le module Architecture des ordinateurs : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/architecture-des-ordinateurs.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Architecture des ordinateurs — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta name="twitter:description" content="Téléchargez le module Architecture des ordinateurs : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-05" />
+
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Architecture des ordinateurs","item":"https://coursuniversitaire.github.io/cours.univ.pdf/architecture-des-ordinateurs.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Architecture des ordinateurs ?","acceptedAnswer":{"@type":"Answer","text":"Le module Architecture des ordinateurs contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Architecture des ordinateurs ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Architecture des ordinateurs correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    h2 { font-size: 1.55rem; font-weight: 700; margin-bottom: 28px; }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Architecture des ordinateurs</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Architecture des ordinateurs</em><br />
+      Cours, TD et exercices corrigés Architecture des ordinateurs pdf &amp; Examens Corripdf
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Architecture des ordinateurs</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.
+      Accès immédiat.
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">9</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">5</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">3</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">1</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Architecture des ordinateurs</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Architecture des ordinateurs</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Architecture des ordinateurs</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Architecture des ordinateurs">
+<div class="tree-folder">├── 🔗📁 Architecture des ordinateurs (Mustapha MELHAOUI/Rachid ED-DAOUDI)/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 COURS AVANCEE CYCLE IRISI/</div>
+<div class="tree-folder">│   │   └── 📁 Microprocesseur et prog assembleur/</div>
+<div class="tree-file">│   │       ├── 📄 Exposé_Chapitre 1.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre 1.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Base_sequentielle.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD_Assembleur.rar</div>
+<div class="tree-file">│   │       ├── 📄 Les bascules.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Les registres.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Avengers....Assembly.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Base_combinatoire.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre 2_Microprecesseur 8086(1).pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD_Mémoires.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre 2_Microprecesseur 8086.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre 1_Architecture uP.pdf</div>
+<div class="tree-folder">│   │       └── 📁 TP/</div>
+<div class="tree-file">│   │           ├── 📄 Cas1_affiche.asm</div>
+<div class="tree-file">│   │           ├── 📄 Comparaison_exemple_mod.asm</div>
+<div class="tree-file">│   │           ├── 📄 saisi_nombre.asm</div>
+<div class="tree-file">│   │           ├── 📄 Comparaison_exemple_mod2.asm</div>
+<div class="tree-file">│   │           ├── 📄 ConvMaj_2.asm</div>
+<div class="tree-file">│   │           ├── 📄 Affichage.asm</div>
+<div class="tree-file">│   │           ├── 📄 Cas2_binaire.asm</div>
+<div class="tree-file">│   │           ├── 📄 ConvMaj_2.com.debug</div>
+<div class="tree-file">│   │           ├── 📄 ConvMaj_1.asm</div>
+<div class="tree-file">│   │           ├── 📄 ConvMaj_2.com.symbol</div>
+<div class="tree-file">│   │           ├── 📄 Comparaison_exemple.asm</div>
+<div class="tree-file">│   │           ├── 📄 Somme_exemple_mod.asm</div>
+<div class="tree-file">│   │           ├── 📄 ConvMaj_2.com</div>
+<div class="tree-file">│   │           ├── 📄 Facto_2.asm</div>
+<div class="tree-file">│   │           ├── 📄 read_digit.asm</div>
+<div class="tree-file">│   │           ├── 📄 ConvMaj_2.com.~asm</div>
+<div class="tree-file">│   │           ├── 📄 ConvMaj_2.com.list</div>
+<div class="tree-file">│   │           ├── 📄 PGCD.asm</div>
+<div class="tree-file">│   │           └── 📄 Facto_3.asm</div>
+<div class="tree-folder">│   ├── 📁 EXAMENS/</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-30 at 02.13.08.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-30 at 02.12.54.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-30 at 02.13.08 (1).jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-30 at 02.13.07.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-30 at 02.12.49.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-30 at 02.12.33.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-28 at 22.44.40 (1).jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-28 at 22.44.43 (1).jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-28 at 22.44.40 (2).jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-28 at 22.44.41.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-28 at 22.44.42.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-28 at 22.44.40 (3).jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-28 at 22.44.43 (2).jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-28 at 22.44.41 (3).jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-28 at 22.44.43.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 Examen_final_CorrigÃ©_2025_2026.pdf</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-05 at 18.44.51.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-05 at 18.40.40.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-05 at 18.43.02.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-05 at 18.41.55.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 Énoncé de l'Examen _ Architecture des Ordinateurs - Partie 2.pdf</div>
+<div class="tree-file">│   │   └── 📄 Liste_architecture_des_ordinateurs.pdf</div>
+<div class="tree-folder">│   ├── 📁 RÉSUMER/</div>
+<div class="tree-file">│   │   ├── 📄 Microprocessor_Architecture_and_Assembly_Language.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Memory_System_Design_Mastery.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Architecture_Ordinateurs_Les_Fondations_du_Numérique.pdf</div>
+<div class="tree-file">│   │   └── 📄 The_Language_of_Computation.pdf</div>
+<div class="tree-folder">│   ├── 📁 TDs/</div>
+<div class="tree-file">│   │   ├── 📄 TD corrigé – Microprocesseurs et langage Assembleur.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD_2_Mémoires_Corrigé.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD_2_Mémoires.pdf</div>
+<div class="tree-file">│   │   └── 📄 TD 1.pdf</div>
+<div class="tree-folder">│   └── 📁 COURS/</div>
+<div class="tree-folder">│       ├── 📁 Mémoires/</div>
+<div class="tree-file">│       │   ├── 📄 Architecture_des_ordinateurs_Chapitre 1.pdf</div>
+<div class="tree-folder">│       │   └── 📁 Captures/</div>
+<div class="tree-file">│       │       ├── 📄 CE0320EE-D46D-4531-BF0D-588A995FB444.jpg</div>
+<div class="tree-file">│       │       ├── 📄 cb979fb1863c4c5488edb1f24d19e44f.jpg</div>
+<div class="tree-file">│       │       ├── 📄 819bbe4485f2433a9657851211c1bf94.jpg</div>
+<div class="tree-file">│       │       ├── 📄 e5b8eb8f930244e1b028a0a34b778e52.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251128-WA0061.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251128-WA0060.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251128-WA0059.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251128-WA0057.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251128-WA0055.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251128-WA0054.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251128-WA0052.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251128-WA0049.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251128-WA0046.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251128-WA0045.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251128-WA0043.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251128-WA0041.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251128-WA0038.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251128-WA0039.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251128-WA0037.jpg</div>
+<div class="tree-file">│       │       ├── 📄 WhatsApp Image 2025-12-02 à 17.41.53_726dc698.jpg</div>
+<div class="tree-file">│       │       ├── 📄 WhatsApp Image 2025-12-02 à 17.41.53_f9045293.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251128-WA0014.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251125-WA0019.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251125-WA0018.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251125-WA0017.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251125-WA0016.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251125-WA0013.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251125-WA0014.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251125-WA0015.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251123-WA0053.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251123-WA0046.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251123-WA0044.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251123-WA0043.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251123-WA0045.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251123-WA0041.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251123-WA0042.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251123-WA0040.jpg</div>
+<div class="tree-file">│       │       ├── 📄 IMG-20251123-WA0039.jpg</div>
+<div class="tree-file">│       │       └── 📄 IMG-20251123-WA0038.jpg</div>
+<div class="tree-folder">│       └── 📁 Assembleur/</div>
+<div class="tree-file">│           ├── 📄 Architecture ordinateurs vf.pdf</div>
+<div class="tree-file">│           ├── 📄 Microprocesseur_GI_S3 - 2025_26.pdf</div>
+<div class="tree-file">│           └── 📄 Microproc_Assembleur - Support de cours au 19_12_2025.pdf</div>
+<div class="tree-folder">├── 🔗📁 Architecture des Ordinateurs/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Résumés/</div>
+<div class="tree-file">│   │   ├── 📄 2- Langage Assembleur (Intel 8086)</div>
+<div class="tree-file">│   │   └── 📄 1- Microprocesseur Intel 8086</div>
+<div class="tree-folder">│   ├── 📁 Examens /</div>
+<div class="tree-folder">│   │   ├── 📁 ACAD A 2016-2017/</div>
+<div class="tree-file">│   │   │   └── 📄 Solution + Sujet</div>
+<div class="tree-folder">│   │   ├── 📁 ACAD B 2018-2019/</div>
+<div class="tree-file">│   │   │   ├── 📄 Sujet</div>
+<div class="tree-folder">│   │   │   └── 📁 Correction/</div>
+<div class="tree-file">│   │   │       ├── 📄 3</div>
+<div class="tree-file">│   │   │       ├── 📄 2</div>
+<div class="tree-file">│   │   │       └── 📄 1</div>
+<div class="tree-folder">│   │   └── 📁 ACAD A 2018-2019/</div>
+<div class="tree-file">│   │       ├── 📄 Sujet</div>
+<div class="tree-folder">│   │       └── 📁 Correction/</div>
+<div class="tree-file">│   │           ├── 📄 Correction 1.2</div>
+<div class="tree-file">│   │           └── 📄 Correction 1.1</div>
+<div class="tree-folder">│   ├── 📁 Supports supplémentaires/</div>
+<div class="tree-file">│   │   ├── 📄 Assembleur.pdf</div>
+<div class="tree-file">│   │   ├── 📄 readMe</div>
+<div class="tree-file">│   │   ├── 📄 Jeux d’instruction Microprocessor Intel 8086</div>
+<div class="tree-file">│   │   ├── 📄 Code Machine Microprocessor Intel 8086</div>
+<div class="tree-file">│   │   └── 📄 Chap2-Microprocesseur.pdf</div>
+<div class="tree-folder">│   ├── 📁 Travaux Dirigés (TD)/</div>
+<div class="tree-folder">│   │   ├── 📁 Série N° 02/</div>
+<div class="tree-file">│   │   │   ├── 📄 Série N° 02</div>
+<div class="tree-folder">│   │   │   └── 📁 Solution Série N° 2/</div>
+<div class="tree-file">│   │   │       └── 📄 Exercice N° k / k ∈ {01, 03, 04, 07}</div>
+<div class="tree-folder">│   │   └── 📁 Série N° 01/</div>
+<div class="tree-file">│   │       ├── 📄 Serie N° 01.pdf</div>
+<div class="tree-folder">│   │       └── 📁 Solution Série N° 01/</div>
+<div class="tree-file">│   │           ├── 📄 Exercice N° 08</div>
+<div class="tree-file">│   │           ├── 📄 Exercice N° 07</div>
+<div class="tree-file">│   │           ├── 📄 Exercice N° 06</div>
+<div class="tree-file">│   │           ├── 📄 Exercice N° 05</div>
+<div class="tree-file">│   │           ├── 📄 Exercice N° 04</div>
+<div class="tree-file">│   │           ├── 📄 Exercice N° 03</div>
+<div class="tree-file">│   │           ├── 📄 Exercice N° 02</div>
+<div class="tree-file">│   │           └── 📄 Exercice N° 01</div>
+<div class="tree-folder">│   └── 📁 Cours/</div>
+<div class="tree-file">│       ├── 📄 2- Les Microprocesseurs (Cas Intel 8086) </div>
+<div class="tree-file">│       ├── 📄 3- Langage Assembleur et Langage Machine (Cas Intel 8086)</div>
+<div class="tree-file">│       └── 📄 1- Introduction Générale. </div>
+<div class="tree-file">├── 📄 Drive module Architecture des ordinateurs - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 ARCHI/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 SUJETS/</div>
+<div class="tree-folder">│   │   ├── 📁 Examens/</div>
+<div class="tree-folder">│   │   │   ├── 📁 Examens Sans Corrigés/</div>
+<div class="tree-file">│   │   │   │   ├── 📄 Examen 2008-2009.doc</div>
+<div class="tree-file">│   │   │   │   ├── 📄 Examen 2010-2011.doc</div>
+<div class="tree-file">│   │   │   │   ├── 📄 Examen Page (2).jpg</div>
+<div class="tree-file">│   │   │   │   ├── 📄 Examen Page (1).jpg</div>
+<div class="tree-file">│   │   │   │   └── 📄 12012012058.JPG</div>
+<div class="tree-folder">│   │   │   └── 📁 Examens + Corrigés/</div>
+<div class="tree-file">│   │   │       └── 📄 Examen 2012-2013 + Corrigé.docx</div>
+<div class="tree-folder">│   │   └── 📁 Devoirs/</div>
+<div class="tree-file">│   │       ├── 📄 Controle n°1 2012-2013.docx</div>
+<div class="tree-file">│   │       ├── 📄 controle n°1 2011-2012.docx</div>
+<div class="tree-file">│   │       ├── 📄 Controle n°1 2012-2013(1).docx</div>
+<div class="tree-file">│   │       └── 📄 controle n°1 2011-2012(1).docx</div>
+<div class="tree-folder">│   ├── 📁 EXERCICES/</div>
+<div class="tree-file">│   │   ├── 📄 EXO MIPS.pdf</div>
+<div class="tree-file">│   │   └── 📄 Exercices ARCHI.pdf</div>
+<div class="tree-folder">│   ├── 📁 SÉRIES/</div>
+<div class="tree-folder">│   │   └── 📁 2011-2012/</div>
+<div class="tree-file">│   │       ├── 📄 TD n°4.docx</div>
+<div class="tree-file">│   │       ├── 📄 TD n°1.doc</div>
+<div class="tree-file">│   │       └── 📄 TD n°3.doc</div>
+<div class="tree-folder">│   ├── 📁 COURS/</div>
+<div class="tree-file">│   │   ├── 📄 Cours Architecture des Ordinateurs.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 USTHB/</div>
+<div class="tree-file">│   │   │   ├── 📄 Architecture des ordinateurs - Emmanuel Viennet.PDF</div>
+<div class="tree-file">│   │   │   ├── 📄 Le processeur 8086 .docx</div>
+<div class="tree-file">│   │   │   ├── 📄 architecture des ordinateurs.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Chapitre 3 - Système d'interruption.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Generalite Sur Les Microprocesseurs.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Chap2-Microprocesseur.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Chapitre I - Définitions Et Generalités.docx</div>
+<div class="tree-file">│   │   │   ├── 📄 chap6-archiii-pic.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 cours 6 - GIF1001.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Suppot n°1 Architecture des ordinateurs.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Support n°2 Architecture des ordinateurs - T.Dumartin.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 CHAPITRE III - LE PIC 8259.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Chapitre 4 - Gestion de Processus.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 chap 4.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Assembleur_INTEL.pdf</div>
+<div class="tree-folder">│   │   │   └── 📁 Chapitre 2 - Microprocesseurs/</div>
+<div class="tree-file">│   │   │       ├── 📄 Page 9.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Page 14.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Page 13.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Page 12.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Page 10.jpg</div>
+<div class="tree-file">│   │   │       └── 📄 Page 11.jpg</div>
+<div class="tree-folder">│   │   └── 📁 UNIVERSITÉ DE TLEMCEN/</div>
+<div class="tree-file">│   │       ├── 📄 mi-2an13-exfin-archi13.pdf</div>
+<div class="tree-file">│   │       ├── 📄 mi-2an13-ctrl_con1-archi16.pdf</div>
+<div class="tree-file">│   │       ├── 📄 mi-2an13-exfin-archi12.pdf</div>
+<div class="tree-file">│   │       ├── 📄 mi-2an13-exfin-archi15.pdf</div>
+<div class="tree-file">│   │       └── 📄 mi-2an13-exfin-archi14.pdf</div>
+<div class="tree-folder">│   └── 📁 EXAMENS/</div>
+<div class="tree-file">│       ├── 📄 mi-2an-ratr-arch_ord1.jpg</div>
+<div class="tree-file">│       ├── 📄 mi-2an-exam-arch_ord2.jpg</div>
+<div class="tree-file">│       ├── 📄 mi-2an-exam-arch_ord1.jpg</div>
+<div class="tree-file">│       └── 📄 Sujet+corrigé Archi (Alger1 - 2017).pdf</div>
+<div class="tree-folder">├── 🔗📁 °Architecture des Ordinateurs SMA SMI SABORPCMATH.COM/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 °EXAMENS Architecture des ordinateurs FPO OUARZAZATE.pdf</div>
+<div class="tree-file">│   ├── 📄 °EXAMENS Architecture des ordinateurs FSAC.pdf</div>
+<div class="tree-file">│   ├── 📄 °EXAMENS Architecture des ordinateurs FSO OUAJDA.pdf</div>
+<div class="tree-file">│   ├── 📄 °EXAMENS Architecture des ordinateurs FST TETOUAN.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD Architecture des ordinateurs FPS SAFI.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD &amp; TP Architecture des ordinateurs FSO OUAJDA.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD &amp; TP Architecture des ordinateurs FSR RABAT.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD Architecture des ordinateurs FSAC.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD Architecture des ordinateurs FSBM CASABLANCA.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD Architecture des ordinateurs FST TETOUAN 12 13.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD Architecture des ordinateurs FST TETOUAN 19 20.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD TP ARCHITECTURE DES ORDINATEURS FPO OUARZAZATE.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD &amp; TP+COURS Architecture des ordinateurs FSR RABAT.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD + COURS Architecture des ordinateurs FST FES.pdf</div>
+<div class="tree-file">│   ├── 📄 ° COURS  Architecture des ordinateurs FPK KHOURIBGA.pdf</div>
+<div class="tree-file">│   ├── 📄 °Polycopie Circuits logique et microprocesseur2 EST MEKNES.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD COURS Architecture des ordinateurs FSM MEKNES.pdf</div>
+<div class="tree-file">│   ├── 📄 °Cours 1 Architecture Des Ordinateurs SMI4 FSO OUAJDA.pdf</div>
+<div class="tree-file">│   ├── 📄 °Cours Architecture des ordinateurs Assembleur FSAC.pdf</div>
+<div class="tree-file">│   ├── 📄 °Cours Architecture des ordinateurs FPT TAZA.pdf</div>
+<div class="tree-file">│   └── 📄 °Cours_architecture_ordinateurs elargi FPN NADOR.pdf</div>
+<div class="tree-file">├── 📄 driveClone.json</div>
+<div class="tree-file">├── 📄 TP Architecture des ordinateurs.docx</div>
+<div class="tree-folder">├── 📁 cours/</div>
+<div class="tree-folder">│   ├── 🔗📁 COURS/  (raccourci)</div>
+<div class="tree-file">│   │   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-file">│   ├── 📄 °Polycopie Circuits logique et microprocesseur2 EST MEKNES.pdf</div>
+<div class="tree-file">│   ├── 📄 °Cours 1 Architecture Des Ordinateurs SMI4 FSO OUAJDA.pdf</div>
+<div class="tree-file">│   ├── 📄 °Polycopie Circuits logique et microprocesseur2 EST MEKNES.pdf</div>
+<div class="tree-file">│   └── 📄 ch4_circuitscombinatoires.pdf</div>
+<div class="tree-folder">├── 📁 examens corrigés /</div>
+<div class="tree-folder">│   ├── 🔗📁 EXAMENS/  (raccourci)</div>
+<div class="tree-file">│   │   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">│   ├── 🔗📁 Examens /  (raccourci)</div>
+<div class="tree-file">│   │   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">│   └── 🔗📁 EXAMENS/  (raccourci)</div>
+<div class="tree-file">│       └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">└── 📁 tds et exercices corrigés/</div>
+<div class="tree-folder">    ├── 🔗📁 SÉRIES/  (raccourci)</div>
+<div class="tree-file">    │   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">    ├── 🔗📁 EXERCICES/  (raccourci)</div>
+<div class="tree-file">    │   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">    ├── 🔗📁 Travaux Dirigés (TD)/  (raccourci)</div>
+<div class="tree-file">    │   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">    ├── 🔗📁 TDs/  (raccourci)</div>
+<div class="tree-file">    │   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">    ├── 🔗📁 TDs et examens corrigés /  (raccourci)</div>
+<div class="tree-file">    │   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-file">    ├── 📄 Boole.pdf</div>
+<div class="tree-folder">    └── 📁 drive1/</div>
+<div class="tree-file">        ├── 📄 +TD COURS Architecture des ordinateurs FSM MEKNES.pdf</div>
+<div class="tree-file">        ├── 📄 +TD + COURS Architecture des ordinateurs FST FES.pdf</div>
+<div class="tree-file">        ├── 📄 +TD &amp; TP+COURS Architecture des ordinateurs FSR RABAT.pdf</div>
+<div class="tree-file">        ├── 📄 +TD + COURS Architecture des ordinateurs FST FES.pdf</div>
+<div class="tree-file">        ├── 📄 +TD COURS Architecture des ordinateurs FSM MEKNES.pdf</div>
+<div class="tree-file">        ├── 📄 +TD &amp; TP+COURS Architecture des ordinateurs FSR RABAT.pdf</div>
+<div class="tree-file">        ├── 📄 TD02.pdf</div>
+<div class="tree-file">        └── 📄 travaux-diriges-1-2.pdf</div>
+
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Architecture des ordinateurs</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Architecture des ordinateurs</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Architecture des ordinateurs ?</summary>
+      <p>
+        Le module <strong>Architecture des ordinateurs</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Architecture des ordinateurs ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Architecture des ordinateurs</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Architecture des ordinateurs correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Architecture des ordinateurs</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>

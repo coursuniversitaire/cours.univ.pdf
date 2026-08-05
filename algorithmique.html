@@ -1,0 +1,836 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- ═══ SEO Primary ═══ -->
+  <title>Algorithmique — Cours PDF, TD & Examens Corrigés | CoursUni</title>
+  <meta name="description" content="Téléchargez le module Algorithmique : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta name="keywords"    content="Algorithmique, cours Algorithmique pdf, td corrigés Algorithmique, examen corrigé Algorithmique, module Algorithmique université, polycopié Algorithmique, exercices corrigés Algorithmique, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/algorithmique.html" />
+
+  <!-- ═══ Open Graph ═══ -->
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Algorithmique — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta property="og:description" content="Téléchargez le module Algorithmique : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/algorithmique.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <!-- ═══ Twitter Card ═══ -->
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Algorithmique — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta name="twitter:description" content="Téléchargez le module Algorithmique : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+
+  <!-- ═══ Robots ═══ -->
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-05" />
+
+  <!-- ═══ Schema.org JSON-LD ═══ -->
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Algorithmique","item":"https://coursuniversitaire.github.io/cours.univ.pdf/algorithmique.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Algorithmique ?","acceptedAnswer":{"@type":"Answer","text":"Le module Algorithmique contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Algorithmique ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Algorithmique correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    /* ═══════════════════════════════════════
+       Design tokens — matches CoursUni site
+       ═══════════════════════════════════════ */
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ── */
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    /* ── Nav ── */
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* ── Breadcrumb ── */
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    /* ── Hero ── */
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.55rem; font-weight: 700; margin-bottom: 28px;
+    }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    /* ── Cards grid ── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    /* ── Drive tree ── */
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    /* ── Steps ── */
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    /* ── FAQ ── */
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    /* ── Trust bar ── */
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    /* ── CTA section ── */
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    /* ── Footer ── */
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════
+     NAV
+════════════════════════════════════════ -->
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ════════════════════════════════════════
+     HERO
+════════════════════════════════════════ -->
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Algorithmique</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Algorithmique</em><br />
+      Cours, TD et exercices corrigés Algorithmique pdf &amp; Examens Corripdf
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Algorithmique</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.
+      Accès immédiat.
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">16</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">56</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">5</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">9</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     WHAT YOU GET
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Algorithmique</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Algorithmique</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     DRIVE TREE
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Algorithmique</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Algorithmique">
+<div class="tree-folder">├── 🔗📁 Algorithmique et programmation 2 (BANOUAR OUMAYMA)/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Examens/</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-07 at 18.51.54.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-07 at 18.51.49.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-07 at 18.51.50.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-07 at 18.51.51.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-07 at 18.51.52.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 langage_c_2016_annales-1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SDD[1].pdf</div>
+<div class="tree-file">│   │   └── 📄 Contrôle Langage C N 1 QCM CORRECTION (1).pdf</div>
+<div class="tree-folder">│   ├── 📁 TDs.TPs/</div>
+<div class="tree-file">│   │   ├── 📄 mainTP6_commente.o</div>
+<div class="tree-file">│   │   ├── 📄 mainTP6_commente.c</div>
+<div class="tree-file">│   │   ├── 📄 mainTP6_commente.exe</div>
+<div class="tree-file">│   │   ├── 📄 mainTP5_commente.exe</div>
+<div class="tree-file">│   │   ├── 📄 mainTP5_commente.o</div>
+<div class="tree-file">│   │   ├── 📄 mainTP5_commente.c</div>
+<div class="tree-file">│   │   ├── 📄 TP5 EXERCICE 3.exe</div>
+<div class="tree-file">│   │   ├── 📄 TP5 EXERCICE 3.o</div>
+<div class="tree-file">│   │   ├── 📄 TP5 EXERCICE 3.c</div>
+<div class="tree-file">│   │   ├── 📄 TP5 EXERCICE 2.o</div>
+<div class="tree-file">│   │   ├── 📄 TP5 EXERCICE 2.exe</div>
+<div class="tree-file">│   │   ├── 📄 TP5 EXERCICE 2.c</div>
+<div class="tree-file">│   │   ├── 📄 TDTP 2 Manipulation d’une matrice (déclaration statique).rtf</div>
+<div class="tree-file">│   │   ├── 📄 main (1).c</div>
+<div class="tree-file">│   │   ├── 📄 mainTP4_commente.o</div>
+<div class="tree-file">│   │   ├── 📄 mainTP4_commente.exe</div>
+<div class="tree-file">│   │   ├── 📄 mainTP4.exe</div>
+<div class="tree-file">│   │   ├── 📄 mainTP4.o</div>
+<div class="tree-file">│   │   ├── 📄 exercicSOMME,MATRICE.exe</div>
+<div class="tree-file">│   │   ├── 📄 exercicSOMME,MATRICE.o</div>
+<div class="tree-file">│   │   ├── 📄 exercicSOMME,MATRICE.c</div>
+<div class="tree-file">│   │   ├── 📄 mainTP4_commente.c</div>
+<div class="tree-file">│   │   ├── 📄 mainTP4.c</div>
+<div class="tree-file">│   │   ├── 📄 TDTP 2 Manipulation d’une matrice (déclaration statique).c</div>
+<div class="tree-file">│   │   ├── 📄 exerciceApplication.exe</div>
+<div class="tree-file">│   │   ├── 📄 exerciceApplication.o</div>
+<div class="tree-file">│   │   ├── 📄 exerciceApplication.c</div>
+<div class="tree-file">│   │   ├── 📄 TP1 main et mainMenu.o</div>
+<div class="tree-file">│   │   ├── 📄 TP1 main et mainMenu.exe</div>
+<div class="tree-file">│   │   ├── 📄 mainMenu.o</div>
+<div class="tree-file">│   │   ├── 📄 mainMenu.exe</div>
+<div class="tree-file">│   │   ├── 📄 main.exe</div>
+<div class="tree-file">│   │   ├── 📄 main.o</div>
+<div class="tree-file">│   │   ├── 📄 TDTP 2 Manipulation d’une matrice (déclaration statique).pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TPs/</div>
+<div class="tree-file">│   │   │   ├── 📄 TP n°5  Chaines de caractère.c</div>
+<div class="tree-file">│   │   │   ├── 📄 TP n°6 Fonctions.c</div>
+<div class="tree-file">│   │   │   ├── 📄 correction de TP6 Fonctions.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP_Fonctions.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP_Algo_Procg_C_S3.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TDTP 2  Manipulation d’une matrice (déclaration statique).pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3_Pointeurs_Arithmetique_C.c</div>
+<div class="tree-file">│   │   │   ├── 📄 TP1 main et mainMenu.c</div>
+<div class="tree-file">│   │   │   ├── 📄 TDTP 1 Manipulation avancée d’un tableau.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP4 Allocation dynamique de variables simples en C.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3_Exo_3.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3_Exo_2.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3_Exo_1.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 mainTP2.c</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3_Exo_2.c</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3_Exo_1.c</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3_Exo_3.c</div>
+<div class="tree-file">│   │   │   ├── 📄 mainTP2_(1)[1].pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP_Pointeurs_Arithmetique_C_a402167fd04cf8b238ad788a4baaa253.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 mainMenu.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 main.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 mainMenu.c</div>
+<div class="tree-file">│   │   │   ├── 📄 main.c</div>
+<div class="tree-file">│   │   │   └── 📄 TP_ProgC_S3.pdf</div>
+<div class="tree-folder">│   │   └── 📁 PROJET TP1234/</div>
+<div class="tree-file">│   │       ├── 📄 TP n°6 Fonctions.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TP n°5  Chaines de caractère.pdf</div>
+<div class="tree-file">│   │       ├── 📄 mainTP4_Allocation dynamique de variables simples en C.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TP6 AboutahirOmar_GI.rtf</div>
+<div class="tree-file">│   │       ├── 📄 mainTP5_commente.rtf</div>
+<div class="tree-file">│   │       ├── 📄 TP1 AboutahirOmar_GI.docx</div>
+<div class="tree-file">│   │       ├── 📄 TP4 AboutahirOmar_GI.docx</div>
+<div class="tree-file">│   │       ├── 📄 mainTP4_Allocation dynamique de variables simples en C.rtf</div>
+<div class="tree-file">│   │       ├── 📄 TP3 AboutahirOmar_GI.docx</div>
+<div class="tree-file">│   │       ├── 📄 TP3_Pointeurs_Arithmetique_C.rtf</div>
+<div class="tree-file">│   │       ├── 📄 TP2 AboutahirOmar_GI.docx</div>
+<div class="tree-file">│   │       ├── 📄 TDTP 2 Manipulation d’une matrice (déclaration statique) (2).exe</div>
+<div class="tree-file">│   │       ├── 📄 TDTP 2 Manipulation d’une matrice (déclaration statique) (2).o</div>
+<div class="tree-file">│   │       ├── 📄 TP2 AboutahirOmar_GI.rtf</div>
+<div class="tree-file">│   │       ├── 📄 TP1 main et mainMenu.rtf</div>
+<div class="tree-file">│   │       ├── 📄 PROJET TP1,TP2,TP3,TP4.zip</div>
+<div class="tree-file">│   │       ├── 📄 TDTP 2 Manipulation d’une matrice (déclaration statique).c</div>
+<div class="tree-file">│   │       ├── 📄 TDTP 2 Manipulation d’une matrice (déclaration statique).exe</div>
+<div class="tree-file">│   │       ├── 📄 TDTP 2 Manipulation d’une matrice (déclaration statique).o</div>
+<div class="tree-file">│   │       ├── 📄 mainTP4_commente.o</div>
+<div class="tree-file">│   │       ├── 📄 mainTP4_commente.exe</div>
+<div class="tree-file">│   │       ├── 📄 TP3_Pointeurs_Arithmetique_C.o</div>
+<div class="tree-file">│   │       ├── 📄 TP3_Pointeurs_Arithmetique_C.exe</div>
+<div class="tree-file">│   │       ├── 📄 TP3_Pointeurs_Arithmetique_C.c</div>
+<div class="tree-file">│   │       ├── 📄 TP1 main et mainMenu.exe</div>
+<div class="tree-file">│   │       ├── 📄 TP1 main et mainMenu.o</div>
+<div class="tree-file">│   │       ├── 📄 TP1 main et mainMenu.c</div>
+<div class="tree-file">│   │       ├── 📄 mainTP4_commente.c</div>
+<div class="tree-folder">│   │       └── 📁 PROJET TP1,TP2,TP3,TP4/</div>
+<div class="tree-file">│   │           ├── 📄 TP n°6 Fonctions.zip</div>
+<div class="tree-file">│   │           ├── 📄 TP6 AboutahirOmar_GI.pdf</div>
+<div class="tree-file">│   │           ├── 📄 TP n°6 Fonctions.c</div>
+<div class="tree-file">│   │           ├── 📄 TP n°5  Chaines de caractère.zip</div>
+<div class="tree-file">│   │           ├── 📄 TP5 AboutahirOmar_GI.pdf</div>
+<div class="tree-file">│   │           ├── 📄 TP n°5  Chaines de caractère.c</div>
+<div class="tree-file">│   │           ├── 📄 TP1,TP2,TP3,TP4_AboutahirOmar_GI.zip</div>
+<div class="tree-file">│   │           ├── 📄 TP1 AboutahirOmar_GI.pdf</div>
+<div class="tree-file">│   │           ├── 📄 TP4 AboutahirOmar_GI.pdf</div>
+<div class="tree-file">│   │           ├── 📄 TP3 AboutahirOmar_GI.pdf</div>
+<div class="tree-file">│   │           ├── 📄 TP2 AboutahirOmar_GI.pdf</div>
+<div class="tree-file">│   │           ├── 📄 TDTP 2 Manipulation d’une matrice (déclaration statique).c</div>
+<div class="tree-file">│   │           ├── 📄 TP1 main et mainMenu.c</div>
+<div class="tree-file">│   │           ├── 📄 TP3_Pointeurs_Arithmetique_C.c</div>
+<div class="tree-file">│   │           └── 📄 mainTP4_Allocation dynamique de variables simples en C.c</div>
+<div class="tree-folder">│   └── 📁 COURS/</div>
+<div class="tree-file">│       ├── 📄 Cous_Algo_Prog_C_S3_CH_3.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_Algo_C_TC_S3_CH2_P1 (1).pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_Algo_C_TC_S3_CH2_P1.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_Algo_C_TC_S3_CH2_P2.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_Algo_C_TC_S3_CH3.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_Algo_C_TC_S3_CH2_P1.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_Algo_C_TC_S3_CH0_1.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_MIPC_S3_Algo_C_CH4.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_MIPC_S3_Algo_C_CH3_P1.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_MIPC_S3_Algo_C_CH2_P3.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_MIPC_S3_Algo_C_CH2_P2.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_MIPC_S3_Algo_C_CH2_P1.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_MIPC_S3_Algo_C_CH1.pdf</div>
+<div class="tree-folder">│       └── 📁 capture de cours et révision/</div>
+<div class="tree-file">│           ├── 📄 WhatsApp Image 2026-01-07 at 18.51.00.jpeg</div>
+<div class="tree-file">│           ├── 📄 WhatsApp Image 2026-01-07 at 18.51.03.jpeg</div>
+<div class="tree-file">│           ├── 📄 WhatsApp Image 2026-01-07 at 18.51.01.jpeg</div>
+<div class="tree-file">│           ├── 📄 WhatsApp Image 2026-01-07 at 18.50.59.jpeg</div>
+<div class="tree-file">│           ├── 📄 WhatsApp Image 2026-01-07 at 18.51.04.jpeg</div>
+<div class="tree-file">│           ├── 📄 WhatsApp Image 2026-01-07 at 18.50.58.jpeg</div>
+<div class="tree-file">│           ├── 📄 WhatsApp Image 2025-12-01 à 12.33.34_ba801fe4.jpg</div>
+<div class="tree-file">│           └── 📄 WhatsApp Image 2025-12-01 à 12.33.34_ec45a126.jpg</div>
+<div class="tree-file">├── 📄 Drive module Algorithmique - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 Algorithmique et progra 2/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 [I132] Bonus/</div>
+<div class="tree-folder">│   │   └── 📁 TP/</div>
+<div class="tree-file">│   │       ├── 📄 redaction.colle4.pdf</div>
+<div class="tree-file">│   │       ├── 📄 colle6-i2.jpg</div>
+<div class="tree-file">│   │       ├── 📄 colle5-i2.jpg</div>
+<div class="tree-file">│   │       ├── 📄 colle4-i2_.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Colle1-i2.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Idee-de-corr-colle1-i2.pdf</div>
+<div class="tree-file">│   │       ├── 📄 idee-de-corr-colle3-i2.pdf</div>
+<div class="tree-file">│   │       └── 📄 colle3-i2.pdf</div>
+<div class="tree-folder">│   ├── 📁 [I132] TP/</div>
+<div class="tree-file">│   │   ├── 📄 I132 - TP 4 (Solution).pdf</div>
+<div class="tree-file">│   │   ├── 📄 I132 - TP 3 (Solution).pdf</div>
+<div class="tree-file">│   │   ├── 📄 I132 - TP 2 (Solution).pdf</div>
+<div class="tree-file">│   │   ├── 📄 I132 - TP 1 (Solution).pdf</div>
+<div class="tree-file">│   │   ├── 📄 I132 - TP 4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 I132 - TP 3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 I132 - TP 2.pdf</div>
+<div class="tree-file">│   │   └── 📄 I132 - TP 1.pdf</div>
+<div class="tree-folder">│   ├── 📁 [I132] TD/</div>
+<div class="tree-file">│   │   ├── 📄 I132 - TD 4 (Solution).pdf</div>
+<div class="tree-file">│   │   ├── 📄 I132 - TD 3 (Solution).pdf</div>
+<div class="tree-file">│   │   ├── 📄 I132 - TD 2 (Solution).pdf</div>
+<div class="tree-file">│   │   ├── 📄 I132 - TD 1 (Solution).pdf</div>
+<div class="tree-file">│   │   ├── 📄 I132 - TD 4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 I132 - TD 3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 I132 - TD 2.pdf</div>
+<div class="tree-file">│   │   └── 📄 I132 - TD 1.pdf</div>
+<div class="tree-folder">│   ├── 📁 [I132] Cours/</div>
+<div class="tree-file">│   │   └── 📄 Cours-Pr.Oussous.pdf</div>
+<div class="tree-folder">│   └── 📁 [I132] Archive/</div>
+<div class="tree-file">│       ├── 📄 Copy of exam-2023-i2.pdf</div>
+<div class="tree-file">│       ├── 📄 corr.2023</div>
+<div class="tree-file">│       ├── 📄 I132  I133 exam 2022.pdf</div>
+<div class="tree-file">│       ├── 📄 I132 - Archive.pdf</div>
+<div class="tree-file">│       ├── 📄 exam-2023-i2.pdf</div>
+<div class="tree-file">│       └── 📄 archives de l'Info2.pdf</div>
+<div class="tree-folder">├── 🔗📁 °Algorithmique2/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSSM MARRAKECH SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSDM FES SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSBM CASABLANCA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSAC CASABLANCA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSA AGADIR SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS2 ALGORITHMIQUE II FSBM CASABLANCA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS1 ALGORITHMIQUE II FSBM CASABLANCA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS ALGORITHMIQUE II FSSM MARRAKECH SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS ALGORITHMIQUE II FSM MEKNES SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS ALGORITHMIQUE II FSDM FES SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS ALGORITHMIQUE II FPL LARACH SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS ALGORITHMIQUE II 20 21 FST TETOUAN SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS ALGORITHMIQUE II 20 21 FSAC CASABLANCA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS ALGORITHMIQUE II 20 21 FPK KHOURIBGHA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS ALGORITHMIQUE II 18 19 FSA AGADIR SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FSSM MARRAKECH SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FSR RABAT 16 17 SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FSR RABAT 14 15 SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FSM MEKNES SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FSK KENITRA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FSJ ELJADIDA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FSDM FES SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FSBM CASABLANCA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FSAC CASABLANCA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FPL LARACH SMI3.pdf</div>
+<div class="tree-file">│   └── 📄 °°TDs ALGORITHMIQUE II 18 19FSA AGADIR SMI3.pdf</div>
+<div class="tree-folder">├── 🔗📁 ° SMAI ALGORITHME/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 °TD EXAMENS ALGORITHMIQUE SMAI2 FPM 19-20.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD ALGORITHMIQUE SMAI2 FSSM 19-20.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD ALGORITHMIQUE SMAI2 FSR 19-20.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD ALGORITHMIQUE SMAI2 FSJ 19-20.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD ALGORITHMIQUE SMAI2 FSDM 19-20.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD ALGORITHMIQUE SMAI2 FSBM 19-20.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD ALGORITHMIQUE SMAI2 FSA-AGADIR 19-20.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD ALGORITHMIQUE SMAI2 FPT-TAZA 19-20.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD ALGORITHMIQUE SMAI2 FPO 19-20.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD ALGORITHMIQUE SMAI2 FPK 19-20.pdf</div>
+<div class="tree-file">│   ├── 📄 ++ EXAMENS ALGORITHMIQUE SMAI2 FPO 19-20.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS ALGORITHMIQUE SMAI2 FSA 19-20.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS ALGORITHMIQUE SMAI2 FSAC 19-20.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS ALGORITHMIQUE SMAI2 FSBM 19-20.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS ALGORITHMIQUE SMAI2 FSDM 19-20.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS ALGORITHMIQUE SMAI2 FSJ 19-20.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS ALGORITHMIQUE SMAI2 FSO 19-20.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS ALGORITHMIQUE SMAI2 FSR 19-20.pdf</div>
+<div class="tree-file">│   └── 📄 +COURS ALGORITHMIQUE SMAI2 FSSM 19-20.pdf</div>
+<div class="tree-folder">├── 📁 Algorithmique I/</div>
+<div class="tree-file">│   ├── 📄 liens utiles info.txt</div>
+<div class="tree-folder">│   ├── 📁 devoirs et examens/</div>
+<div class="tree-file">│   │   ├── 📄 Correction Examen ASD1 MPI Janvier 2016 Fonctions et Gestion Fichiers C Algorithmique</div>
+<div class="tree-file">│   │   ├── 📄 Devoir surveillé Algorithmique et structures de données</div>
+<div class="tree-file">│   │   ├── 📄 Examen Algorithmique et structures de données</div>
+<div class="tree-file">│   │   ├── 📄 Correction Examen ASD1 MPI Janvier 2016 Fonctions et Gestion Fichiers C Algorithmique</div>
+<div class="tree-file">│   │   ├── 📄 Examen Module I132 Parcours MIP S3 2021 2022 Structures Employes et Pointeurs C Algorithmique</div>
+<div class="tree-file">│   │   ├── 📄 Examen Module Informatique III I133 MIP S3 2021 2022 Traite Nombres Rationnels Algorithmique</div>
+<div class="tree-file">│   │   └── 📄 Examen Module I Structures Employes et Pointeurs en C Algorithmique</div>
+<div class="tree-folder">│   ├── 📁 cours/</div>
+<div class="tree-file">│   │   ├── 📄 Cours Algorithmes Structures Iteratives et Traduction en C Algorithmique</div>
+<div class="tree-file">│   │   ├── 📄 Cours Informatique Concepts Algorithmes et Variables Fondamentales Algorithmique</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 8 gestion fichiers texte et binaires en langage C pour débutants Algorithmique</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 7 Tableaux et Enregistrements Algorithmique et structures de données</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 8 gestion fichiers texte et binaires en langage C pour débutants Algorithmique</div>
+<div class="tree-file">│   │   ├── 📄 Cours Informatique Concepts Algorithmes et Variables Fondamentales Algorithmique</div>
+<div class="tree-file">│   │   ├── 📄 Cours Algorithmes Structures Iteratives et Traduction en C Algorithmique</div>
+<div class="tree-file">│   │   ├── 📄 Cours Structures conditionnelles en Algorithmique et langage C</div>
+<div class="tree-file">│   │   ├── 📄 Cours Fonctions Procedures et Decomposition en Algorithmique et C</div>
+<div class="tree-file">│   │   ├── 📄 Cours Programmation Tableaux Monodimensionnels et Dichotomiques en C Algorithmique</div>
+<div class="tree-file">│   │   ├── 📄 Cours Chaines Caractères en C et Algorithme Comparaison ASCII Fonctions scanf Algorithmique</div>
+<div class="tree-file">│   │   └── 📄 Chapitre 4 Fonctions et procédures.pdf</div>
+<div class="tree-folder">│   └── 📁 TD/</div>
+<div class="tree-file">│       ├── 📄 td 1 et 2 ( avec correction).pdf</div>
+<div class="tree-file">│       ├── 📄 td 3 et 4 (avec correction).pdf</div>
+<div class="tree-file">│       ├── 📄 Exercices corrigés TD5: Les chaines de caractères </div>
+<div class="tree-file">│       ├── 📄 Exercices corrigés TD 3: Fonctions et procédures - Algorithmique et structures de données</div>
+<div class="tree-file">│       ├── 📄 Exercices corrigés TD 7: Les fichiers - Algorithmique et structures de données</div>
+<div class="tree-file">│       ├── 📄 Exercices corrigés TD2: Structures conditionnelles et itératives Algorithmique et structures de données</div>
+<div class="tree-file">│       ├── 📄 Exercices corrigés TD 4: Les tableaux Algorithmique et structures de données</div>
+<div class="tree-file">│       ├── 📄 Exercices corrigés TD1: Concepts de base des algorithmes</div>
+<div class="tree-file">│       ├── 📄 Exercices corrigés TD5: Les chaines de caractères </div>
+<div class="tree-file">│       ├── 📄 Exercices corrigés TD 6: Les enregistrements Algorithmique et structures de données</div>
+<div class="tree-file">│       ├── 📄 Exercices TD Algorithmique Recherche et Traitement dans les Tableaux</div>
+<div class="tree-file">│       ├── 📄 Exercices TD Algorithmique et Programmation Basique Correction Exemples Fonctions et Procedures</div>
+<div class="tree-folder">│       ├── 📁 TDs corrigés fst/</div>
+<div class="tree-file">│       │   ├── 📄 Exercices corrigés TD 2 Algorithmique et programmation 2 avec pointeurs et tableaux</div>
+<div class="tree-file">│       │   ├── 📄 Exercices corrigés TD1 Algorithmique et programmation 2 nombres parfaits puissance suite recursive Fibonacci pgcd</div>
+<div class="tree-file">│       │   ├── 📄 Exercices corrigés TD4 Algorithmique et Programmation 2 Gestion Tableau Etudiants avec Structures</div>
+<div class="tree-file">│       │   ├── 📄 Exercices corrigés TD3 Algorithmique et programmation 2 gestion des rationnels et fichiers texte</div>
+<div class="tree-file">│       │   └── 📄 Exercices corrigés TD 2 Algorithmique et programmation 2 avec pointeurs et tableaux</div>
+<div class="tree-folder">│       └── 📁 Exercices /</div>
+<div class="tree-file">│           ├── 📄 CORRECTION EXERCICES ALGORITHME 1 pdf</div>
+<div class="tree-file">│           ├── 📄 Exercices corrigés TD Algorithme et Boucles</div>
+<div class="tree-file">│           └── 📄 Exercices TD Algorithmique Structures Controle Conditionnelles et Repetitives GIM</div>
+<div class="tree-folder">├── 📁 1-algorithme/</div>
+<div class="tree-folder">│   ├── 📁 les resumes/</div>
+<div class="tree-folder">│   └── 📁 des exo d'algorithme/</div>
+<div class="tree-file">│       ├── 📄 4-correction td2 de tableau.pdf</div>
+<div class="tree-file">│       ├── 📄 Exercices (Partie 1).pdf</div>
+<div class="tree-file">│       └── 📄 Exercices corrigés (Partie 1).pdf</div>
+<div class="tree-folder">└── 📁 Algorithmique/</div>
+<div class="tree-file">    ├── 📄 tp1  algo et C sol.pdf</div>
+<div class="tree-file">    ├── 📄 Cours Langage C - TD-TP.pdf</div>
+<div class="tree-file">    ├── 📄 cours-tp-c.pdf</div>
+<div class="tree-file">    ├── 📄 Cours d_Informatique 1 algo ENSAF et prog.pdf</div>
+<div class="tree-folder">    ├── 📁 TDs et exercices corrigés /</div>
+<div class="tree-folder">    │   ├── 📁 algo 2/</div>
+<div class="tree-file">    │   │   ├── 📄 I132 - TD 1.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 I132 - TD 2.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 I132 - TD 3.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 I132 - TD 4.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 I132 - TD 1 (Solution).pdf</div>
+<div class="tree-file">    │   │   ├── 📄 I132 - TD 2 (Solution).pdf</div>
+<div class="tree-file">    │   │   ├── 📄 I132 - TD 3 (Solution).pdf</div>
+<div class="tree-file">    │   │   └── 📄 I132 - TD 4 (Solution).pdf</div>
+<div class="tree-folder">    │   ├── 📁 td d'algorithme/</div>
+<div class="tree-file">    │   │   ├── 📄 td2 exo2 ;Q2.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 td2 exo2 ;Q1.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 td2 exo2 ;Q3.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 td2 exo2 ;Q4.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 td2 exo3 ;Q1.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 TD2-Exercice – 4 - question_1_ corrigé.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 td2 exo3 ;Q2.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 td 2 corrigé ex1.pdf</div>
+<div class="tree-file">    │   │   └── 📄  algo td2.pdf</div>
+<div class="tree-folder">    │   ├── 📁 Exercices/</div>
+<div class="tree-file">    │   │   ├── 📄 Copie de Correction TD1 algorithme_expo.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 Copie de exercices corrigés algorithme.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 Copie de TD1 Algorithme.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 Copie de travaux-diriges-en-algorithmique-exercices-corriges.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 EXERCICE.doc</div>
+<div class="tree-file">    │   │   ├── 📄 Plus d'ex avec corigé.pdf</div>
+<div class="tree-file">    │   │   └── 📄 TD informatique.pdf</div>
+<div class="tree-folder">    │   ├── 📁 des exo d'algorithme/</div>
+<div class="tree-file">    │   │   ├── 📄 algorithme des exercices 3.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 algorithme des exercices 2.pdf</div>
+<div class="tree-file">    │   │   ├── 📄  algorithme des exercices 1.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 1-td1.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 2-correction de td1.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 3-td2 des tableaux.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 4-correction td2 de tableau.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 Exercices (Partie 1).pdf</div>
+<div class="tree-file">    │   │   └── 📄 Exercices corrigés (Partie 1).pdf</div>
+<div class="tree-folder">    │   └── 📁 TD/</div>
+<div class="tree-file">    │       └── 📄 travaux-diriges-en-algorithmique-exercices-corriges.pdf</div>
+<div class="tree-folder">    ├── 📁 Cours/</div>
+<div class="tree-file">    │   ├── 📄 Cours-Pr.Oussous.pdf</div>
+<div class="tree-file">    │   ├── 📄 Cours 2.pdf</div>
+<div class="tree-file">    │   └── 📄 Cours 1.pdf</div>
+<div class="tree-folder">    └── 📁 TPs/</div>
+<div class="tree-file">        ├── 📄 I132 - TP 1.pdf</div>
+<div class="tree-file">        ├── 📄 I132 - TP 2.pdf</div>
+<div class="tree-file">        ├── 📄 I132 - TP 3.pdf</div>
+<div class="tree-file">        ├── 📄 I132 - TP 4.pdf</div>
+<div class="tree-file">        ├── 📄 I132 - TP 1 (Solution).pdf</div>
+<div class="tree-file">        ├── 📄 I132 - TP 2 (Solution).pdf</div>
+<div class="tree-file">        ├── 📄 I132 - TP 3 (Solution).pdf</div>
+<div class="tree-file">        ├── 📄 I132 - TP 4 (Solution).pdf</div>
+<div class="tree-folder">        └── 📁 Colle tp/</div>
+<div class="tree-folder">            └── 📁 TP/</div>
+<div class="tree-file">                ├── 📄 colle3-i2.pdf</div>
+<div class="tree-file">                ├── 📄 idee-de-corr-colle3-i2.pdf</div>
+<div class="tree-file">                ├── 📄 Idee-de-corr-colle1-i2.pdf</div>
+<div class="tree-file">                ├── 📄 Colle1-i2.pdf</div>
+<div class="tree-file">                ├── 📄 colle4-i2_.pdf</div>
+<div class="tree-file">                └── 📄 redaction.colle4.pdf</div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     HOW TO ORDER
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Algorithmique</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FAQ
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Algorithmique</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Algorithmique ?</summary>
+      <p>
+        Le module <strong>Algorithmique</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Algorithmique ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Algorithmique</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Algorithmique correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     CTA FINAL
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Algorithmique</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════ -->
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>
