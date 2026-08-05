@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Sitemap: https://coursuniversitaire.github.io/cours.univ.pdf/sitemap.xml
+
