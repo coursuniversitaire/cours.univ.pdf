@@ -52,7 +52,7 @@
       "name": "Comment recevoir mes modules après paiement ?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Après confirmation du paiement PayPal, tu reçois un lien Google Drive dans ta boîte mail en moins de 5 minutes. L'accès est immédiat et permanent."
+        "text": "Après confirmation du paiement PayPal, tu es automatiquement redirigé vers ton Google Drive. Le lien t'est également envoyé par email pour y accéder à tout moment. L'accès est permanent."
       }
     },
     {
@@ -380,12 +380,12 @@ img.zoomable:hover { opacity: .92; }
 <header class="hero">
   <div class="hero-eyebrow">🎓 Disponible pour tous les étudiants francophones</div>
   <h1>Réussis tes examens avec des <mark>cours, TD & examens corrigés</mark> déjà organisés pour toi</h1>
-  <p class="hero-lead">Arrête de perdre des heures à chercher des PDF incomplets sur Internet. Plus de 290 modules universitaires prêts à l'emploi — cours complets, TD corrigés, examens des années précédentes — livrés et téléchargeables sur ton Google Drive en moins de 5 minutes.</p>
+  <p class="hero-lead">Arrête de perdre des heures à chercher des PDF incomplets sur Internet. Plus de 290 modules universitaires prêts à l'emploi — cours complets, TD corrigés, examens des années précédentes — accessibles sur ton Google Drive dès la confirmation du paiement.</p>
 
   <div class="hero-mini-trust">
     <div class="hmt-item">📚 <strong>290+</strong> modules disponibles</div>
     <div class="hmt-item">💰 Des centaines de pages pour <strong>0,5$</strong> seulement <span class="hmt-anchor">(~10$ en version imprimée)</span></div>
-    <div class="hmt-item">⚡ Accès <strong>immédiat</strong>, fichiers <strong>téléchargeables</strong></div>
+    <div class="hmt-item">⚡ Accès <strong>immédiat au Drive</strong> dès le paiement + lien envoyé par <strong>email</strong></div>
     <div class="hmt-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
   </div>
 
@@ -489,7 +489,7 @@ img.zoomable:hover { opacity: .92; }
       <div class="why-col good">
         <h3>✅ Avec CoursUni</h3>
         <ul>
-          <li>Tout est déjà organisé, prêt en moins de 5 minutes</li>
+          <li>Accès immédiat au Drive dès le paiement — lien aussi envoyé par email</li>
           <li>Cours, TD et examens corrigés, propres et complets</li>
           <li>Corrigés détaillés étape par étape pour comprendre la méthode</li>
           <li>Téléchargeable, accessible hors ligne, sur mobile et PC</li>
@@ -607,8 +607,8 @@ img.zoomable:hover { opacity: .92; }
     </div>
     <div class="step">
       <div class="step-dot green">4</div>
-      <h3>Accès Drive immédiat</h3>
-      <p>Lien Google Drive dans ton email en moins de 5 minutes. Accès permanent à tes modules.</p>
+      <h3>Accès Drive instantané</h3>
+      <p>Dès la confirmation du paiement, tu es redirigé directement vers ton Google Drive. Le lien t'est aussi envoyé par email pour le retrouver à tout moment.</p>
     </div>
   </div>
 
@@ -665,7 +665,7 @@ img.zoomable:hover { opacity: .92; }
   <div class="risk-reversal">
     <div class="rr-item">🛡️ <strong>Satisfait ou remboursé</strong><span>Sans conditions</span></div>
     <div class="rr-item">🔒 <strong>Paiement sécurisé</strong><span>PayPal · Carte bancaire</span></div>
-    <div class="rr-item">⚡ <strong>Livraison immédiate</strong><span>Lien Drive en -5 min</span></div>
+    <div class="rr-item">⚡ <strong>Accès Drive instantané</strong><span>Redirection dès le paiement</span></div>
     <div class="rr-item">📱 <strong>Compatible mobile & PC</strong><span>Fichiers téléchargeables</span></div>
     <div class="rr-item">💬 <strong>Support disponible</strong><span>Réponse rapide sur WhatsApp</span></div>
   </div>
@@ -673,7 +673,7 @@ img.zoomable:hover { opacity: .92; }
     <div id="form-view">
       <div class="step-badge"><span class="step-num">2</span> Finaliser ma commande</div>
       <h2 id="order-titre">Tes coordonnées &amp; paiement</h2>
-      <p class="form-sub">Remplis tes coordonnées et reçois le lien de paiement personnalisé directement par email.</p>
+      <p class="form-sub">Remplis ton email, paye en sécurité via PayPal, et accède instantanément à ton Google Drive.</p>
 
       <div class="sel-preview" id="sel-preview" aria-live="polite">
         <div class="sel-preview-title">✅ Modules dans ta commande</div>
@@ -726,15 +726,16 @@ img.zoomable:hover { opacity: .92; }
       </div>
 
       <button class="btn-submit" id="submit-btn" onclick="doSubmit()" disabled>
-        Envoyer ma commande — recevoir le lien de paiement →
+        💳 Payer maintenant &amp; accéder à mon Drive →
       </button>
-      <div class="guar-line">🛡️ Satisfait ou remboursé si le contenu ne correspond pas</div>
+      <div class="guar-line">🛡️ Satisfait ou remboursé · Paiement sécurisé PayPal · Accès immédiat après paiement</div>
     </div>
 
     <div id="success-view">
-      <div class="big">✅</div>
-      <h3>Commande reçue !</h3>
-      <p>Tu vas être redirigé vers le lien de paiement dans quelques secondes.<br>Un email de confirmation t'a également été envoyé.</p>
+      <div class="big">🎉</div>
+      <h3>Paiement confirmé — ton Drive t'attend !</h3>
+      <p style="margin-bottom:6px;">Tu vas être redirigé automatiquement vers ton <strong style="color:var(--accent);">Google Drive</strong> dans quelques secondes.</p>
+      <p style="font-size:0.82rem;color:var(--muted);margin-bottom:4px;">Le lien a également été envoyé à ton adresse email — garde-le précieusement.</p>
 
       <div class="countdown-ring" aria-label="Compte à rebours avant redirection">
         <svg width="110" height="110" viewBox="0 0 110 110">
@@ -744,14 +745,14 @@ img.zoomable:hover { opacity: .92; }
         <div class="countdown-num" id="countdown-num">7</div>
       </div>
 
-      <p class="redirect-msg">Redirection automatique vers <strong>PayPal</strong> dans <strong id="cd-txt">7</strong> seconde(s)…</p>
+      <p class="redirect-msg">Redirection automatique vers ton <strong>Google Drive</strong> dans <strong id="cd-txt">7</strong> seconde(s)…</p>
 
       <button class="btn-direct" id="btn-pay-now" onclick="redirectNow()">
-        Accéder au paiement maintenant →
+        📂 Accéder à mon Drive maintenant →
       </button>
 
       <div class="email-sent">
-        📧 Un lien de paiement a aussi été envoyé à ton adresse email
+        📧 Le lien de ton Drive a aussi été envoyé à ton adresse email — vérifie tes spams si tu ne le reçois pas
       </div>
     </div>
   </div>
@@ -788,7 +789,7 @@ img.zoomable:hover { opacity: .92; }
         <span class="arrow">▼</span>
       </button>
       <div class="faq-a" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-        <div itemprop="text">Dès confirmation du paiement PayPal, tu reçois un lien Google Drive directement dans ta boîte mail, en moins de 5 minutes. L'accès est permanent — tu peux télécharger ou consulter tes modules à n'importe quel moment depuis n'importe quel appareil.</div>
+        <div itemprop="text">Dès confirmation du paiement PayPal, tu es automatiquement redirigé vers ton Google Drive. Le lien t'est également envoyé à ton adresse email pour que tu puisses y accéder à tout moment, même depuis un autre appareil. L'accès est permanent — télécharge tes modules sur PC, tablette ou mobile, en ligne ou hors ligne.</div>
       </div>
     </div>
     <div class="faq-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
@@ -824,7 +825,7 @@ img.zoomable:hover { opacity: .92; }
 
 <!-- FOOTER -->
 <footer>
-  <p style="font-weight:600;color:var(--ink);margin-bottom:6px;">🔒 Paiement sécurisé PayPal · 🛡️ Satisfait ou remboursé · ⚡ Livraison en moins de 5 min</p>
+  <p style="font-weight:600;color:var(--ink);margin-bottom:6px;">🔒 Paiement sécurisé PayPal · 🛡️ Satisfait ou remboursé · ⚡ Accès Drive instantané · 📧 Lien envoyé par email</p>
   <p>Des questions ? <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contacte-nous sur WhatsApp</a> · Réponse rapide garantie</p>
   <p style="margin-top:7px">© 2025 Cours Universitaires en Ligne · Tous droits réservés</p>
 </footer>
