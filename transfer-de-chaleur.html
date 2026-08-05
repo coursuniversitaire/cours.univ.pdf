@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- ═══ SEO Primary ═══ -->
+  <title>Transfer de Chaleur — Cours PDF, TD & Examens Corrigés | CoursUni</title>
+  <meta name="description" content="Téléchargez le module Transfer de Chaleur : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta name="keywords"    content="Transfer de Chaleur, cours Transfer de Chaleur pdf, td corrigés Transfer de Chaleur, examen corrigé Transfer de Chaleur, module Transfer de Chaleur université, polycopié Transfer de Chaleur, exercices corrigés Transfer de Chaleur, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/transfer-de-chaleur.html" />
+
+  <!-- ═══ Open Graph ═══ -->
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Transfer de Chaleur — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta property="og:description" content="Téléchargez le module Transfer de Chaleur : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/transfer-de-chaleur.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <!-- ═══ Twitter Card ═══ -->
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Transfer de Chaleur — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta name="twitter:description" content="Téléchargez le module Transfer de Chaleur : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+
+  <!-- ═══ Robots ═══ -->
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-05" />
+
+  <!-- ═══ Schema.org JSON-LD ═══ -->
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Transfer de Chaleur","item":"https://coursuniversitaire.github.io/cours.univ.pdf/transfer-de-chaleur.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Transfer de Chaleur ?","acceptedAnswer":{"@type":"Answer","text":"Le module Transfer de Chaleur contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Transfer de Chaleur ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Transfer de Chaleur correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    /* ═══════════════════════════════════════
+       Design tokens — matches CoursUni site
+       ═══════════════════════════════════════ */
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ── */
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    /* ── Nav ── */
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* ── Breadcrumb ── */
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    /* ── Hero ── */
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.55rem; font-weight: 700; margin-bottom: 28px;
+    }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    /* ── Cards grid ── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    /* ── Drive tree ── */
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    /* ── Steps ── */
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    /* ── FAQ ── */
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    /* ── Trust bar ── */
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    /* ── CTA section ── */
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    /* ── Footer ── */
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════
+     NAV
+════════════════════════════════════════ -->
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ════════════════════════════════════════
+     HERO
+════════════════════════════════════════ -->
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Transfer de Chaleur</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Transfer de Chaleur</em><br />
+      Cours, TD et exercices corrigés Transfer de Chaleur pdf &amp; Examens Corripdf
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Transfer de Chaleur</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.
+      Accès immédiat.
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">2</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">15</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">11</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">4</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     WHAT YOU GET
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Transfer de Chaleur</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Transfer de Chaleur</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     DRIVE TREE
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Transfer de Chaleur</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Transfer de Chaleur">
+<div class="tree-file">├── 📄 Drive module Transfer de Chaleur - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 TC/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Resumé.pdf</div>
+<div class="tree-file">│   ├── 📄 Demo1.pdf</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-file">│   │   ├── 📄 TCS4.2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TCS4.1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TCS1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TCS3.2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TCS3.1.pdf</div>
+<div class="tree-file">│   │   └── 📄 TCS2.pdf</div>
+<div class="tree-folder">│   └── 📁 Cours/</div>
+<div class="tree-file">│       ├── 📄 TCch2.pdf</div>
+<div class="tree-file">│       ├── 📄 TCch4*.pdf</div>
+<div class="tree-file">│       ├── 📄 TCpreCh4.pdf</div>
+<div class="tree-file">│       ├── 📄 TCch4.pdf</div>
+<div class="tree-file">│       ├── 📄 TcCh3.pdf</div>
+<div class="tree-file">│       └── 📄 TCch1.pdf</div>
+<div class="tree-folder">├── 🔗📁 TD Transfer de Chaleur SAOULI/  (raccourci)</div>
+<div class="tree-folder">├── 🔗📁 Transfer de Chaleur/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 ~$-tdc-convection.docx</div>
+<div class="tree-file">│   ├── 📄 received_1862367187419425.jpeg</div>
+<div class="tree-file">│   ├── 📄 received_1862367184086092.jpeg</div>
+<div class="tree-file">│   ├── 📄 received_1862367180752759.jpeg</div>
+<div class="tree-file">│   ├── 📄 IMG_20170609_203814.jpg</div>
+<div class="tree-file">│   ├── 📄 IMG_20170609_203802.jpg</div>
+<div class="tree-file">│   ├── 📄 tp-tdc-convection.docx</div>
+<div class="tree-file">│   ├── 📄 correction121.pdf</div>
+<div class="tree-file">│   ├── 📄 srie exo transfert.pdf</div>
+<div class="tree-file">│   ├── 📄 TD5-0809-Corrige.pdf</div>
+<div class="tree-file">│   ├── 📄 Transfert de chaleur - Exercices.htm</div>
+<div class="tree-file">│   ├── 📄 Feuilletage.pdf</div>
+<div class="tree-file">│   ├── 📄 donnee_exos_chaleur_masse.2011.pdf</div>
+<div class="tree-file">│   ├── 📄 Chap0.pdf</div>
+<div class="tree-folder">│   ├── 📁 TD TT calix/</div>
+<div class="tree-folder">│   ├── 📁 TD TT Ikram/</div>
+<div class="tree-folder">│   ├── 📁 devoire/</div>
+<div class="tree-folder">│   ├── 📁 Cour chapitre 3 et 4/</div>
+<div class="tree-folder">│   └── 📁 TD Transfer de Chaleur SAOULI/</div>
+<div class="tree-file">│       └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">├── 🔗📁 Transfert de chaleur /  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 resume + td/</div>
+<div class="tree-folder">│   │   ├── 📁 cds/</div>
+<div class="tree-file">│   │   │   └── 📄 CamScanner 12-11-2024 13.39.pdf</div>
+<div class="tree-folder">│   │   └── 📁 cd/</div>
+<div class="tree-file">│   │       ├── 📄 photo_2024-12-11_18-22-17.jpg</div>
+<div class="tree-file">│   │       ├── 📄 photo_2024-12-11_18-22-16.jpg</div>
+<div class="tree-file">│   │       ├── 📄 photo_2024-12-11_18-22-14.jpg</div>
+<div class="tree-file">│   │       ├── 📄 photo_2024-12-11_18-22-13.jpg</div>
+<div class="tree-file">│   │       ├── 📄 photo_2024-12-11_18-22-11.jpg</div>
+<div class="tree-file">│   │       ├── 📄 photo_2024-12-11_18-22-10.jpg</div>
+<div class="tree-file">│   │       ├── 📄 photo_2024-12-11_18-22-08.jpg</div>
+<div class="tree-file">│   │       ├── 📄 photo_2024-12-11_18-22-07.jpg</div>
+<div class="tree-file">│   │       ├── 📄 photo_2024-12-11_18-22-05.jpg</div>
+<div class="tree-file">│   │       ├── 📄 photo_2024-12-11_18-22-02.jpg</div>
+<div class="tree-file">│   │       ├── 📄 photo_2024-12-11_18-22-00.jpg</div>
+<div class="tree-file">│   │       ├── 📄 photo_2024-12-11_18-21-59.jpg</div>
+<div class="tree-file">│   │       ├── 📄 photo_2024-12-11_18-21-57.jpg</div>
+<div class="tree-file">│   │       ├── 📄 photo_2024-12-11_18-21-56.jpg</div>
+<div class="tree-file">│   │       └── 📄 photo_2024-12-11_18-21-53.jpg</div>
+<div class="tree-folder">│   ├── 📁 corrige td/</div>
+<div class="tree-folder">│   │   ├── 📁 echangeurs/</div>
+<div class="tree-file">│   │   │   ├── 📄 TD TC série 4 by Melly .pdf</div>
+<div class="tree-file">│   │   │   └── 📄 échangeur + et 1 ,et 2.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 rayonnement/</div>
+<div class="tree-file">│   │   │   └── 📄 serie corrigée rayonnement_étudiants.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 cds/</div>
+<div class="tree-file">│   │   │   └── 📄 série cds de tc.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 cd/</div>
+<div class="tree-file">│   │   │   ├── 📄 correction de CD 6 jusqu'à CD 9 modifier .pdf</div>
+<div class="tree-file">│   │   │   └── 📄 correction de TD tc CD 1 jusqu'à CD 5.pdf</div>
+<div class="tree-folder">│   │   └── 📁 cv/</div>
+<div class="tree-file">│   │       ├── 📄 4.jpg</div>
+<div class="tree-file">│   │       ├── 📄 3.jpg</div>
+<div class="tree-file">│   │       ├── 📄 2.jpg</div>
+<div class="tree-file">│   │       └── 📄 1.jpg</div>
+<div class="tree-folder">│   ├── 📁 COUR/</div>
+<div class="tree-file">│   │   ├── 📄 Polycopié Cours TT I_Labsi_2022-2023.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TC 2024-2025_Expressions à apprendre.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 ecahngeurs thermique/</div>
+<div class="tree-file">│   │   │   ├── 📄 462584281_2132767627126140_516127883066871381_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462584800_1122693042882187_4258771873432669471_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462573178_889438426639578_7165707713761988055_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462576012_948436813829823_7606675507687358291_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 46.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462575441_1851841128957039_5253831305900605420_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462572708_1153908832938555_5883947734274394431_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462572034_1631079244111194_5577133498541752945_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462570208_876559180961756_4941018184279460817_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462581423_905303611695834_8336357000706073233_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462566346_883050973989459_272332251697780002_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462574233_890639026564266_4402603639793888697_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462581561_960031052640683_3608711833535143140_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462570449_1090231415652881_3683824088449731898_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 36.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462573148_882800530580162_2615436139632712584_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462574218_1660051451579827_2984563180251189411_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 467583926_1130195458471800_8302377074431451842_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462572074_3862209514027878_202171797404112997_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462575842_3819912231554542_8190246926088095490_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462569525_587285063677644_7218526973648334139_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462576788_544947345019669_3683887784927946542_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462572101_879979657636855_7188590400151613561_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462570209_1108782370952860_1222708452921792383_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462565521_793258652926931_108560934133574738_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462583148_915596620526280_4948831388376971906_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 467471686_987964633377953_3059206853521731850_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462744277_577602838238722_917167448405416893_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462572096_583167144262509_3895773783675473878_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462578131_1136095175184790_3221512553857367688_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462574779_1072669101268245_8328915297314771125_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 467811516_1114244343685790_6665232854581763454_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462575491_591504716706195_5235296796357141513_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462562861_1589600562436327_932863025021517664_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462574653_457430107390664_429574395370943887_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 466981323_3532677180365412_3412853118351781251_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 467471163_434130929742629_8007992340915864263_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462572708_1330096048345819_3053452028392997294_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462562033_568556075907747_5278457984741064706_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462575835_1358096511824956_2945519713326375221_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462570299_1505513996715016_5523404716209883237_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 467477957_1407916510181245_6391618859122256272_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462575566_1129901188557365_7660317678257284739_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462575476_3130159150455388_1774843136081670370_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462735414_1287177909084503_1510271471064865418_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462584288_914193514022892_2683667616968986920_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462570435_591732926732463_4361242834503540614_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462582828_929605928686838_8746557228710970451_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462564976_945076427535923_3788238064017721918_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462565504_1308397513817732_3362614728325719813_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462570378_602122835832175_2906963452484674571_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462583162_559106873745206_8420500343627745134_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 462575404_596638106044562_6861910151026195273_n.jpg</div>
+<div class="tree-file">│   │   │   └── 📄 462573134_945264654200781_168476019669624436_n.jpg</div>
+<div class="tree-folder">│   │   └── 📁 transfert thermique avec source de chaleur/</div>
+<div class="tree-file">│   │       ├── 📄 462566380_1123248409410663_5273779890591462023_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462566380_1123248409410663_5273779890591462023_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462562194_1580514105900689_8492805066564980980_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462565004_544191665189398_5321157809247020115_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 467479321_935511084678929_6511647767765462188_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462576689_466269396086356_2083875402494054040_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462583453_544346761808608_7073677704912521183_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462578442_952021320126485_7098561641406100645_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462570240_1657918514787219_4477084138983083067_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462570240_1657918514787219_4477084138983083067_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462578194_3844614712473645_3417879455220693599_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462578371_932133935004200_6034171022850067565_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462578409_1639945586944701_2095070750955446300_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462567508_8721640544598362_848560357100628768_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462567508_8721640544598362_848560357100628768_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462565175_568811902527093_9031203520371536389_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462582686_1762438607863817_908253539938649210_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462551576_1314896416539049_1135061875262214452_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462564953_1781172615968194_4164778176039826090_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462575662_575404264894255_9109959605200903950_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462566383_1100444721811054_231087847946326205_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462566383_1100444721811054_231087847946326205_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462582286_596531426174885_4288719610291093689_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462564993_1552704195609658_4848680972138753897_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462564970_876267371350608_6803060649383428506_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462565002_1711368256089645_6560742195965526688_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462572698_1610234836238608_5955065455332274751_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462572698_1610234836238608_5955065455332274751_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462579109_1517473168953622_722735859189306981_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462745077_1380380326542279_8866639314351899131_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462582286_537993992400845_8625557174375379243_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462583486_2074575896330874_2309669699508625311_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462575106_2581051112285980_6292825445054801343_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462560144_470488999394365_6366040758331818527_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462567418_3757853067878641_6289344792593604433_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462567418_3757853067878641_6289344792593604433_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462562889_1468053813863134_4380146394956180881_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462570211_985129846971283_4189041529030132869_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462570211_985129846971283_4189041529030132869_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462569505_1078150347392554_458701960439476418_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462569505_1078150347392554_458701960439476418_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462572008_3985293055023967_7044558028021367839_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462572008_3985293055023967_7044558028021367839_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462570428_1209876483411877_6558502987456734104_n.jpg</div>
+<div class="tree-file">│   │       ├── 📄 462570428_1209876483411877_6558502987456734104_n.jpg</div>
+<div class="tree-file">│   │       └── 📄 462582744_1778698299568708_377198569943719627_n.jpg</div>
+<div class="tree-folder">│   └── 📁 resume/</div>
+<div class="tree-file">│       ├── 📄 rayonnement .pdf</div>
+<div class="tree-file">│       ├── 📄 resumé cv.pdf</div>
+<div class="tree-file">│       ├── 📄 les intégrales pour module TC et tm.pdf</div>
+<div class="tree-file">│       ├── 📄 profile de température avec source.pdf</div>
+<div class="tree-file">│       ├── 📄 profile de température corrigé .pdf</div>
+<div class="tree-file">│       └── 📄 résumé chapitre 1 et 2.pdf</div>
+<div class="tree-folder">├── 🔗📁 Transfert de chaleur/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 ray-IUT-poly.pdf</div>
+<div class="tree-file">│   ├── 📄 cour+exo+réponses.pdf</div>
+<div class="tree-file">│   ├── 📄 (A) Cour Transfert De Chaleur.pdf</div>
+<div class="tree-file">│   ├── 📄 Série N°3-TD de transfert thermique.pdf</div>
+<div class="tree-file">│   ├── 📄 Série N°2-TD de transfert thermique.pdf</div>
+<div class="tree-file">│   ├── 📄 Série N°1-TD de Transfert de Chaleur-Généralités.pdf</div>
+<div class="tree-file">│   ├── 📄 exercices_d_application_transfert_thermique-2.pdf</div>
+<div class="tree-file">│   ├── 📄 Exercices de phénomène de transfert-EPFL-Corrigés.pdf</div>
+<div class="tree-file">│   ├── 📄 Exercices de phénomène de transfert-EPFL-Corrigés (1).pdf</div>
+<div class="tree-file">│   ├── 📄 Exercices de phénomène de transfert-EPFL (2).pdf</div>
+<div class="tree-file">│   ├── 📄 Cours_Transfert_de_chaleur (applications).pdf</div>
+<div class="tree-file">│   ├── 📄 PhenomenesTransfert.Chapter-8.pdf</div>
+<div class="tree-file">│   └── 📄 COUR TRANSFER DE CHALEUR.pdf</div>
+<div class="tree-folder">└── 📁 Tdc/</div>
+<div class="tree-folder">    ├── 📁 Cours/</div>
+<div class="tree-file">    │   ├── 📄 Chapter 5 Free Convection.pdf</div>
+<div class="tree-file">    │   ├── 📄 Suite Chapitre 03.pdf</div>
+<div class="tree-file">    │   ├── 📄 Chapter 5 -Forced convection-(1).pdf</div>
+<div class="tree-file">    │   ├── 📄 Chapitre 2 Transfert de chaleur (1).pdf</div>
+<div class="tree-file">    │   ├── 📄 Chapitre 01 Cours TDC.pdf</div>
+<div class="tree-file">    │   ├── 📄 Chapter 01 Heat transfert.pdf</div>
+<div class="tree-folder">    │   └── 📁 Abaques /</div>
+<div class="tree-file">    │       ├── 📄 abaque Plane.pdf</div>
+<div class="tree-file">    │       ├── 📄 abaque Sphère.pdf</div>
+<div class="tree-file">    │       └── 📄 abaque Cylindre.pdf</div>
+<div class="tree-folder">    ├── 📁 TD/</div>
+<div class="tree-file">    │   ├── 📄 TDC TD_.pdf</div>
+<div class="tree-file">    │   ├── 📄 CamScanner 20-05-2025 23.47.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD 4  2023-2024.pdf</div>
+<div class="tree-file">    │   ├── 📄 corrigés exos.pdf</div>
+<div class="tree-file">    │   ├── 📄 donnee_exos_chaleur.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD 02 Transfert de chaleur 2025.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD N° 02 Transfert de Chaleur.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD N°02 Heat Transfer.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD N°01 Heat Transfer 2024-2025.pdf</div>
+<div class="tree-file">    │   └── 📄 TD N° 01 Transfert de chaleur.pdf</div>
+<div class="tree-folder">    ├── 📁 Ccs+exams/</div>
+<div class="tree-file">    │   ├── 📄 CC 02 TDC 2025.pdf</div>
+<div class="tree-file">    │   ├── 📄 CC 01 TDC 2025.pdf</div>
+<div class="tree-file">    │   ├── 📄 Examen TDC Corrigé.pdf</div>
+<div class="tree-file">    │   ├── 📄 Correction CC 01 TDC 2025.pdf</div>
+<div class="tree-folder">    │   ├── 📁 Rattrapage /</div>
+<div class="tree-file">    │   │   ├── 📄 sujet d_examen .pdf</div>
+<div class="tree-file">    │   │   └── 📄 Corrigé du rattrapage de TDC 2025.pdf</div>
+<div class="tree-folder">    │   ├── 📁 Anciens ccs/</div>
+<div class="tree-file">    │   │   ├── 📄 5.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 4.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 3.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">    │   │   └── 📄 1.jpg</div>
+<div class="tree-folder">    │   └── 📁 Old exams /</div>
+<div class="tree-file">    │       ├── 📄 Heat Transfer - Exercises-Ventus Publishing (2010).pdf</div>
+<div class="tree-file">    │       ├── 📄 Examen TDC.pdf</div>
+<div class="tree-file">    │       ├── 📄 Examen 2017.pdf</div>
+<div class="tree-file">    │       ├── 📄 Examen 2018 corrigé.pdf</div>
+<div class="tree-file">    │       ├── 📄 Examen 2023 corrigé.pdf</div>
+<div class="tree-file">    │       ├── 📄 Examen rattrapage 2024 corrigé.pdf</div>
+<div class="tree-file">    │       ├── 📄 Examen 2024 corrigé.pdf</div>
+<div class="tree-file">    │       ├── 📄 cc.jpg</div>
+<div class="tree-file">    │       ├── 📄 cc(1).jpg</div>
+<div class="tree-file">    │       ├── 📄 examen 3.pdf</div>
+<div class="tree-folder">    │       ├── 📁 Examen 2/</div>
+<div class="tree-file">    │       │   ├── 📄 corrigé type .pdf</div>
+<div class="tree-file">    │       │   ├── 📄 Sujet d_examen-suite.jpg</div>
+<div class="tree-file">    │       │   └── 📄 sujet d_examen_.jpg</div>
+<div class="tree-folder">    │       └── 📁 Examen 1/</div>
+<div class="tree-file">    │           ├── 📄 corrigé type .pdf</div>
+<div class="tree-file">    │           └── 📄 sujet d_examen_.jpg</div>
+<div class="tree-folder">    └── 📁 Tp/</div>
+<div class="tree-file">        ├── 📄 Compte rendu TP N°01.pdf</div>
+<div class="tree-file">        ├── 📄 compte rendu tp convection.pdf</div>
+<div class="tree-file">        ├── 📄 TP 2 convection thermique.pdf</div>
+<div class="tree-file">        ├── 📄 HEAT LINEAR CONDUCTION.pdf</div>
+<div class="tree-file">        ├── 📄 TP 1 TRANSFERT DE CHALEUR PAR CONDUCTION.pdf</div>
+<div class="tree-folder">        └── 📁 Examen tp/</div>
+<div class="tree-folder">            ├── 📁 Examen tp/</div>
+<div class="tree-file">            │   ├── 📄 Examen TP tdc corrigé.pdf</div>
+<div class="tree-file">            │   ├── 📄 corrigé type-suite-2.jpg</div>
+<div class="tree-file">            │   ├── 📄 corrigé type-suite.jpg</div>
+<div class="tree-file">            │   └── 📄 corrigé type.jpg</div>
+<div class="tree-folder">            └── 📁 Old tp exams/</div>
+<div class="tree-file">                ├── 📄 2.jpg</div>
+<div class="tree-folder">                ├── 📁 3/</div>
+<div class="tree-file">                │   ├── 📄 suite_.jpg</div>
+<div class="tree-file">                │   ├── 📄 sujet d_examen_.jpg</div>
+<div class="tree-file">                │   └── 📄 corrigé type. pdf</div>
+<div class="tree-folder">                └── 📁 1/</div>
+<div class="tree-file">                    ├── 📄 2.jpg</div>
+<div class="tree-file">                    └── 📄 1.jpg</div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     HOW TO ORDER
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Transfer de Chaleur</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FAQ
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Transfer de Chaleur</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Transfer de Chaleur ?</summary>
+      <p>
+        Le module <strong>Transfer de Chaleur</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Transfer de Chaleur ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Transfer de Chaleur</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Transfer de Chaleur correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     CTA FINAL
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Transfer de Chaleur</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════ -->
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>

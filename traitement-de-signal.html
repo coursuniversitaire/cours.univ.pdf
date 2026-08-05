@@ -1,0 +1,1146 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- ═══ SEO Primary ═══ -->
+  <title>Traitement de signal  — Cours PDF, TD & Examens Corrigés | CoursUni</title>
+  <meta name="description" content="Téléchargez le module Traitement de signal  : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta name="keywords"    content="Traitement de signal , cours Traitement de signal  pdf, td corrigés Traitement de signal , examen corrigé Traitement de signal , module Traitement de signal  université, polycopié Traitement de signal , exercices corrigés Traitement de signal , cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/traitement-de-signal.html" />
+
+  <!-- ═══ Open Graph ═══ -->
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Traitement de signal  — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta property="og:description" content="Téléchargez le module Traitement de signal  : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/traitement-de-signal.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <!-- ═══ Twitter Card ═══ -->
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Traitement de signal  — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta name="twitter:description" content="Téléchargez le module Traitement de signal  : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+
+  <!-- ═══ Robots ═══ -->
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-05" />
+
+  <!-- ═══ Schema.org JSON-LD ═══ -->
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Traitement de signal ","item":"https://coursuniversitaire.github.io/cours.univ.pdf/traitement-de-signal.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Traitement de signal  ?","acceptedAnswer":{"@type":"Answer","text":"Le module Traitement de signal  contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Traitement de signal  ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Traitement de signal  correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    /* ═══════════════════════════════════════
+       Design tokens — matches CoursUni site
+       ═══════════════════════════════════════ */
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ── */
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    /* ── Nav ── */
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* ── Breadcrumb ── */
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    /* ── Hero ── */
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.55rem; font-weight: 700; margin-bottom: 28px;
+    }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    /* ── Cards grid ── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    /* ── Drive tree ── */
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    /* ── Steps ── */
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    /* ── FAQ ── */
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    /* ── Trust bar ── */
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    /* ── CTA section ── */
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    /* ── Footer ── */
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════
+     NAV
+════════════════════════════════════════ -->
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ════════════════════════════════════════
+     HERO
+════════════════════════════════════════ -->
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Traitement de signal </span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Traitement de signal </em><br />
+      Cours, TD et exercices corrigés Traitement de signal  pdf &amp; Examens Corripdf
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Traitement de signal </strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.
+      Accès immédiat.
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">59</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">79</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">15</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">25</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     WHAT YOU GET
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Traitement de signal </span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Traitement de signal </h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     DRIVE TREE
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Traitement de signal </span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Traitement de signal ">
+<div class="tree-folder">├── 🔗📁 traitement de signal/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Chap I Systèmes monophasé et triphasé Puissances électriques.pdf</div>
+<div class="tree-file">│   ├── 📄 Traitement-du-signal-exercices-04.pdf</div>
+<div class="tree-file">│   ├── 📄 Traitement_de_Signal_TS_Corrige_des_exer.pdf</div>
+<div class="tree-file">│   ├── 📄 corrige_exam_nov2007.pdf</div>
+<div class="tree-file">│   ├── 📄 WhatsApp Image 2023-08-05 at 06.08.10 (2).jpeg</div>
+<div class="tree-file">│   ├── 📄 WhatsApp Image 2023-08-05 at 06.08.10 (1).jpeg</div>
+<div class="tree-file">│   ├── 📄 WhatsApp Image 2023-08-05 at 06.08.10.jpeg</div>
+<div class="tree-file">│   ├── 📄 WhatsApp Image 2023-08-05 at 06.08.09 (2).jpeg</div>
+<div class="tree-file">│   ├── 📄 WhatsApp Image 2023-08-05 at 06.08.09 (1).jpeg</div>
+<div class="tree-file">│   ├── 📄 WhatsApp Image 2023-08-05 at 06.08.09.jpeg</div>
+<div class="tree-file">│   ├── 📄 WhatsApp Image 2023-08-05 at 06.08.08 (2).jpeg</div>
+<div class="tree-file">│   ├── 📄 WhatsApp Image 2023-08-05 at 06.08.08 (1).jpeg</div>
+<div class="tree-file">│   ├── 📄 WhatsApp Image 2023-08-05 at 06.08.08.jpeg</div>
+<div class="tree-file">│   ├── 📄 les examens de TS.pdf</div>
+<div class="tree-file">│   ├── 📄 exam.pdf</div>
+<div class="tree-file">│   ├── 📄 td3.pdf</div>
+<div class="tree-file">│   ├── 📄 td4.pdf</div>
+<div class="tree-file">│   ├── 📄 td1.pdf</div>
+<div class="tree-file">│   ├── 📄 td2.pdf</div>
+<div class="tree-file">│   ├── 📄 cours matlab.pdf</div>
+<div class="tree-file">│   ├── 📄 CHAPITRE 3.pdf</div>
+<div class="tree-file">│   ├── 📄 CHAPITRE 4_5 (1).pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre 2.pdf</div>
+<div class="tree-file">│   ├── 📄 chapitre 1_ traitement du signal 2022-2023.pdf</div>
+<div class="tree-folder">│   └── 📁 Regulation Automatique/</div>
+<div class="tree-file">│       ├── 📄 Automatique - Contrôle et régulation _ Cours, exercices et -- Prouvost, Patrick -- 2010 -- Dunod -- 9782100555697 -- ccdb491f393dc3f0d93940a7f2a9dbb5 -- Anna’s Archive.pdf</div>
+<div class="tree-file">│       ├── 📄 regulation ensa.pdf</div>
+<div class="tree-file">│       ├── 📄 -WhatsApp Image 2023-08-05 at 04.07.24 (1).jpeg</div>
+<div class="tree-file">│       ├── 📄 -WhatsApp Image 2023-08-05 at 04.07.24.jpeg</div>
+<div class="tree-file">│       ├── 📄 -WhatsApp Image 2023-08-05 at 04.07.23.jpeg</div>
+<div class="tree-file">│       ├── 📄 Examen_Régulation.docx</div>
+<div class="tree-file">│       ├── 📄 Examen_Final_Régulation.pdf</div>
+<div class="tree-file">│       ├── 📄 Exercices_ELAKCHIOUI.pdf</div>
+<div class="tree-file">│       ├── 📄 Régulation_TD1 SA (1).doc</div>
+<div class="tree-file">│       ├── 📄 Régulation_AutomatiqueTD.docx</div>
+<div class="tree-file">│       ├── 📄 TD.docx</div>
+<div class="tree-file">│       ├── 📄 Régulation_TD3 SA.doc</div>
+<div class="tree-file">│       ├── 📄 3-Chapitre_3__Performances_des_systèmes_asservis (1).ppt [Mode de compatibilité] [Réparé].ppt</div>
+<div class="tree-file">│       ├── 📄 2-Chapitre_2__Analyse_des_systèmes_de_base (1).ppt</div>
+<div class="tree-file">│       ├── 📄 1-Chapitre_1__Représentation_des_systèmes_linéaires (1) - Copie (1).ppt</div>
+<div class="tree-file">│       ├── 📄 null (29).pdf</div>
+<div class="tree-file">│       ├── 📄 cours td (2).pdf</div>
+<div class="tree-file">│       └── 📄 cours td.pdf</div>
+<div class="tree-folder">├── 🔗📁 Traitement de signal/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 YouTube.txt</div>
+<div class="tree-file">│   ├── 📄 Table-Tfourier.pdf</div>
+<div class="tree-file">│   ├── 📄 Table illustrée de quelques transformées de Fourier.pdf</div>
+<div class="tree-folder">│   ├── 📁 TP/</div>
+<div class="tree-file">│   │   ├── 📄 TP2 Hamane ahmed + Ezzroug Elhaithem .docx</div>
+<div class="tree-file">│   │   ├── 📄 TP1 Hamane ahmed + Ezzroug Elhaithem.docx</div>
+<div class="tree-file">│   │   ├── 📄 TP3 Hamane ahmed + Ezzroug Elhaithem - Copie.doc</div>
+<div class="tree-file">│   │   └── 📄 TP3 Hamane ahmed + Ezzroug Elhaithem.doc</div>
+<div class="tree-folder">│   ├── 📁 Cours/</div>
+<div class="tree-file">│   │   ├── 📄 Cours_TSignal-2018-2019.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chap7_TSig2016-2017.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chap3_TSig2016-2017.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chap6_TSig2016-2017.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chap5_TSig2016-2017.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chap4_TSig2016-2017.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chap1_TSig2016-2017.pdf</div>
+<div class="tree-file">│   │   └── 📄 Chap2_TSig2016-2017.pdf</div>
+<div class="tree-folder">│   ├── 📁 Examen/</div>
+<div class="tree-file">│   │   ├── 📄 EMD1-3LMDTsig_-22-01-2015.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EMD1-3LMDTsig_-31-01-2013.pdf</div>
+<div class="tree-file">│   │   └── 📄 EMD1-3LMDTsig_-25-01-2014.pdf</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-file">│   │   └── 📄 TD-SérieTSignal2018-2019.pdf</div>
+<div class="tree-folder">│   └── 📁 Aide Matlab/</div>
+<div class="tree-file">│       ├── 📄 resume_commandes_matlab.pdf</div>
+<div class="tree-file">│       ├── 📄 TABLES.pdf</div>
+<div class="tree-file">│       ├── 📄 Table-Tfourier.pdf</div>
+<div class="tree-file">│       ├── 📄 Fonctions principales de Matlab.pdf</div>
+<div class="tree-file">│       ├── 📄 Formulaire-trigo.pdf</div>
+<div class="tree-file">│       ├── 📄 Table illustrée de quelques transformées de Fourier.pdf</div>
+<div class="tree-file">│       └── 📄 Aide-Matlab.pdf</div>
+<div class="tree-file">├── 📄 TD-SérieTSignal2018-2019.pdf</div>
+<div class="tree-folder">├── 🔗📁 سينيال/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 TD-signal.docx</div>
+<div class="tree-file">│   ├── 📄 TD-signal.pdf</div>
+<div class="tree-file">│   ├── 📄 Transformation_de_Laplace_Table.pdf</div>
+<div class="tree-folder">│   ├── 📁 tp/</div>
+<div class="tree-file">│   │   ├── 📄 tp3.docx</div>
+<div class="tree-file">│   │   ├── 📄 tp04.docx</div>
+<div class="tree-file">│   │   ├── 📄 tp02 sign.docx</div>
+<div class="tree-file">│   │   ├── 📄 tp-dlassi-04.docx</div>
+<div class="tree-file">│   │   ├── 📄 ha tp sign1.rar</div>
+<div class="tree-file">│   │   ├── 📄 ha tp sign1.docx</div>
+<div class="tree-folder">│   │   └── 📁 tp3/</div>
+<div class="tree-file">│   │       ├── 📄 tp3.docx</div>
+<div class="tree-file">│   │       ├── 📄 6.jpg</div>
+<div class="tree-file">│   │       ├── 📄 5.jpg</div>
+<div class="tree-file">│   │       ├── 📄 3.jpg</div>
+<div class="tree-file">│   │       ├── 📄 4.jpg</div>
+<div class="tree-file">│   │       ├── 📄 2.jpg</div>
+<div class="tree-file">│   │       └── 📄 1.jpg</div>
+<div class="tree-folder">│   ├── 📁 كورات 2019/</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20190109_144735.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20190109_144733.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20190109_144718.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20190109_144708.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20190109_144659.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20190109_144650.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_20190109_144644.jpg</div>
+<div class="tree-file">│   │   ├── 📄 chp4 signal.pdf</div>
+<div class="tree-file">│   │   ├── 📄 0 (9).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (8).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (7).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (6).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (5).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (4).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (37).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (36).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (35).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (34).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (32).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (31).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (30).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (3).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (29).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (28).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (27).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (26).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (25).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (24).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (23).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (22).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (21).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (20).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (2).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (19).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (18).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (17).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (16).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (15).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (14).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (13).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (12).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (11).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (10).jpg</div>
+<div class="tree-file">│   │   ├── 📄 0 (1).jpg</div>
+<div class="tree-file">│   │   ├── 📄 FB_IMG_1542375208893.jpg</div>
+<div class="tree-folder">│   │   └── 📁 tp/</div>
+<div class="tree-file">│   │       ├── 📄 tp3.docx</div>
+<div class="tree-file">│   │       ├── 📄 tp04.docx</div>
+<div class="tree-file">│   │       ├── 📄 tp02 sign.docx</div>
+<div class="tree-file">│   │       ├── 📄 tp-dlassi-04.docx</div>
+<div class="tree-file">│   │       ├── 📄 ha tp sign1.rar</div>
+<div class="tree-file">│   │       ├── 📄 ha tp sign1.docx</div>
+<div class="tree-folder">│   │       └── 📁 tp3/</div>
+<div class="tree-file">│   │           ├── 📄 tp3.docx</div>
+<div class="tree-file">│   │           ├── 📄 6.jpg</div>
+<div class="tree-file">│   │           ├── 📄 5.jpg</div>
+<div class="tree-file">│   │           ├── 📄 3.jpg</div>
+<div class="tree-file">│   │           ├── 📄 4.jpg</div>
+<div class="tree-file">│   │           ├── 📄 1.jpg</div>
+<div class="tree-file">│   │           └── 📄 2.jpg</div>
+<div class="tree-folder">│   ├── 📁 تيدي/</div>
+<div class="tree-file">│   │   ├── 📄 FB_IMG_1542376628880.jpg</div>
+<div class="tree-file">│   │   ├── 📄 FB_IMG_1542376625081.jpg</div>
+<div class="tree-file">│   │   ├── 📄 FB_IMG_1542373377905.jpg</div>
+<div class="tree-file">│   │   ├── 📄 7.jpg</div>
+<div class="tree-file">│   │   ├── 📄 8.jpg</div>
+<div class="tree-file">│   │   ├── 📄 9.jpg</div>
+<div class="tree-file">│   │   ├── 📄 6.jpg</div>
+<div class="tree-file">│   │   ├── 📄 FB_IMG_1542373373958.jpg</div>
+<div class="tree-file">│   │   ├── 📄 FB_IMG_1542373335058.jpg</div>
+<div class="tree-file">│   │   ├── 📄 FB_IMG_1542373330191.jpg</div>
+<div class="tree-file">│   │   ├── 📄 5.jpg</div>
+<div class="tree-file">│   │   ├── 📄 FB_IMG_1542376622165.jpg</div>
+<div class="tree-file">│   │   ├── 📄 4.jpg</div>
+<div class="tree-file">│   │   ├── 📄 25.jpg</div>
+<div class="tree-file">│   │   ├── 📄 24.jpg</div>
+<div class="tree-file">│   │   ├── 📄 3.jpg</div>
+<div class="tree-file">│   │   ├── 📄 23.jpg</div>
+<div class="tree-file">│   │   ├── 📄 2.jpg</div>
+<div class="tree-file">│   │   ├── 📄 19.jpg</div>
+<div class="tree-file">│   │   ├── 📄 20.jpg</div>
+<div class="tree-file">│   │   ├── 📄 22.jpg</div>
+<div class="tree-file">│   │   ├── 📄 21.jpg</div>
+<div class="tree-file">│   │   ├── 📄 26.jpg</div>
+<div class="tree-file">│   │   ├── 📄 18.jpg</div>
+<div class="tree-file">│   │   ├── 📄 17.jpg</div>
+<div class="tree-file">│   │   ├── 📄 16.jpg</div>
+<div class="tree-file">│   │   ├── 📄 15.jpg</div>
+<div class="tree-file">│   │   ├── 📄 14.jpg</div>
+<div class="tree-file">│   │   ├── 📄 10.jpg</div>
+<div class="tree-file">│   │   ├── 📄 11.jpg</div>
+<div class="tree-file">│   │   ├── 📄 13.jpg</div>
+<div class="tree-file">│   │   └── 📄 12.jpg</div>
+<div class="tree-folder">│   ├── 📁 كور/</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Ch6-Convolution-discrete.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Ch7-Transformee-de-Fourier-discrete.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Ch8-Transformee-en-Z.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Ch5-Signaux-et-systemes-discrets.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Ch4-Transformee-de-Fourier.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Ch3-Serie-de-Fourier.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Ch2-Transformee-de-Laplace.pdf</div>
+<div class="tree-file">│   │   └── 📄 GELE2511_Ch1-Signaux-et-systemes.pdf</div>
+<div class="tree-folder">│   ├── 📁 حل تاست/</div>
+<div class="tree-file">│   │   └── 📄 IMG_20181205_153201.jpg</div>
+<div class="tree-folder">│   ├── 📁 Théorie de Signal 3ème annèe/</div>
+<div class="tree-file">│   │   ├── 📄 laplace.jpg</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Chapitre7-Transformee-de-Fourier-discrete.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Chapitre5-Signaux-et-systemes-discrets.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Chapitre1-Signaux-et-systemes.pdf</div>
+<div class="tree-file">│   │   ├── 📄 coursign+ele.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Chapitre8-Transformee-en-Z.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Chapitre2-Transformee-de-Laplace.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Chapitre6-Convolution-discrete.pdf</div>
+<div class="tree-file">│   │   ├── 📄 UTBM_Analyse-et-traitement-du-signal_2006_GI.pdf</div>
+<div class="tree-file">│   │   ├── 📄 IMG_0029.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Ch7-Transformee-de-Fourier-discrete.pdf</div>
+<div class="tree-file">│   │   ├── 📄 IMG_0027.pdf</div>
+<div class="tree-file">│   │   ├── 📄 IMG_0028.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Chapitre4-Transformee-de-Fourier.pdf</div>
+<div class="tree-file">│   │   ├── 📄 IMG_0025.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Chapitre3-Serie-de-Fourier.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Ch6-Convolution-discrete.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Ch1-Signaux-et-systemes.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Ch8-Transformee-en-Z.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Ch5-Signaux-et-systemes-discrets.pdf</div>
+<div class="tree-file">│   │   ├── 📄 2_TDCours_Decomposition_signal_serie_Fourier.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Ch3-Serie-de-Fourier.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Ch4-Transformee-de-Fourier.pdf</div>
+<div class="tree-file">│   │   ├── 📄 GELE2511_Ch2-Transformee-de-Laplace.pdf</div>
+<div class="tree-file">│   │   ├── 📄 1.jpg</div>
+<div class="tree-file">│   │   ├── 📄 2.jpg</div>
+<div class="tree-folder">│   │   ├── 📁 crg test signal/</div>
+<div class="tree-file">│   │   │   ├── 📄 15591874_174929679648436_271162867_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 15591704_174929696315101_1431588109_n.jpg</div>
+<div class="tree-file">│   │   │   └── 📄 15571047_174929706315100_562154911_n.jpg</div>
+<div class="tree-folder">│   │   ├── 📁 signal/</div>
+<div class="tree-file">│   │   │   ├── 📄 30.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 29.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 28.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 27.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 26.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 25.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 24.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 23.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 22.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 21.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 20.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 19.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 18.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 17.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 16.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 15.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 14.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 13.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 12.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 11.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 1.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 7.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 3.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 9.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 6.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 2.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 8.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 5.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 10.jpeg</div>
+<div class="tree-file">│   │   │   └── 📄 4.jpeg</div>
+<div class="tree-folder">│   │   └── 📁 Nouveau dossier (2)/</div>
+<div class="tree-file">│   │       ├── 📄 UTBM_Traitement-du-signal-pour-le-mecanicien_2006_IMAP.pdf</div>
+<div class="tree-file">│   │       ├── 📄 UTBM_Traitement-du-signal-pour-le-mecanicien_2007_IMAP.pdf</div>
+<div class="tree-file">│   │       ├── 📄 corrige_UTBM_Traitement-du-signal-pour-le-mecanicien_2007_IMAP.pdf</div>
+<div class="tree-file">│   │       └── 📄 corrige_UTBM_Traitement-du-signal-pour-le-mecanicien_2006_IMAP.pdf</div>
+<div class="tree-folder">│   └── 📁 examen/</div>
+<div class="tree-file">│       ├── 📄 IMG_20181218_111936.jpg</div>
+<div class="tree-file">│       ├── 📄 IMG_20181218_111930.jpg</div>
+<div class="tree-file">│       ├── 📄 IMG_20181218_111905.jpg</div>
+<div class="tree-file">│       ├── 📄 16900013_1184961974935633_114888237_n.jpg</div>
+<div class="tree-file">│       ├── 📄 FB_IMG_1542375138642.jpg</div>
+<div class="tree-file">│       ├── 📄 16839766_1184961734935657_870463021_n.jpg</div>
+<div class="tree-file">│       ├── 📄 15319188_214847348924566_4010712987986624785_n.jpg</div>
+<div class="tree-folder">│       ├── 📁 2017/</div>
+<div class="tree-file">│       │   ├── 📄 4.jpg</div>
+<div class="tree-file">│       │   ├── 📄 3.jpg</div>
+<div class="tree-file">│       │   ├── 📄 2.jpg</div>
+<div class="tree-file">│       │   └── 📄 1.jpg</div>
+<div class="tree-folder">│       ├── 📁 2019/</div>
+<div class="tree-file">│       │   ├── 📄 4.jpg</div>
+<div class="tree-file">│       │   ├── 📄 3.jpg</div>
+<div class="tree-file">│       │   ├── 📄 2.jpg</div>
+<div class="tree-file">│       │   └── 📄 1.jpg</div>
+<div class="tree-folder">│       └── 📁 2019 ratt/</div>
+<div class="tree-file">│           ├── 📄 4.jpg</div>
+<div class="tree-file">│           ├── 📄 2.jpg</div>
+<div class="tree-file">│           ├── 📄 3.jpg</div>
+<div class="tree-file">│           └── 📄 1.jpg</div>
+<div class="tree-folder">├── 🔗📁 TTS/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Chap2_TTS2_TZ_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Chap2_TTS2_TZ_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Chap2_TTS2_TZ_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Chap2_TTS2_TZ_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Série3_TTS1_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Solution_Série3_TTS1_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Solution_Série2_TTS1_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Solution_Série2_TTS1_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Série2_TTS1_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Série2_TTS1_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Série2_TTS1_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 TP1_TTS1_Initiation_Matlab_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 TP1_TTS1_Initiation_Matlab_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 TP1_TTS1_Initiation_Matlab_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Help2_INITIATION_A_MATLAB.PDF</div>
+<div class="tree-file">│   ├── 📄 Help2_INITIATION_A_MATLAB.PDF</div>
+<div class="tree-file">│   ├── 📄 Help2_INITIATION_A_MATLAB.PDF</div>
+<div class="tree-file">│   ├── 📄 Help2_INITIATION_A_MATLAB.PDF</div>
+<div class="tree-file">│   ├── 📄 Help1_Quelques_fonctions_Matlab.pdf</div>
+<div class="tree-file">│   ├── 📄 Solution_Série1_TTS1_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 NotesCours_ChapII_TTS1_SignauxElémentaires_Part1_2020-2021 .pdf</div>
+<div class="tree-file">│   ├── 📄 Série1_TTS1_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Série1_TTS1_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Série1_TTS1_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 NotesCours_ChapI_TTS1_Generalités_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 NotesCours_ChapI_TTS1_Generalités_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 NotesCours_ChapI_TTS1_Generalités_2020-2021.pdf</div>
+<div class="tree-folder">│   └── 📁 Traitement de Signal/</div>
+<div class="tree-file">│       ├── 📄 11 .Traitement de signal - Exercice 5 Produit de Convolution (6 cas).mp4</div>
+<div class="tree-file">│       ├── 📄 10 .Traitement de signal - Exercice 4 Transformée de Fourier à partir d'une fonction dérivées.mp4</div>
+<div class="tree-file">│       ├── 📄 9 .Traitement de signal - Exercice 3  Convolution.mp4</div>
+<div class="tree-file">│       ├── 📄 8 .Traitement de signal - Exercice 2 Échantillonnage.mp4</div>
+<div class="tree-file">│       ├── 📄 7 .Traitement de signal - Exercice 1 - Échantillonnage.mp4</div>
+<div class="tree-file">│       ├── 📄 6 . Traitement de Signal - Chapitre 4 - Échantillonnage + Exercice.mp4</div>
+<div class="tree-file">│       ├── 📄 5 . Traitement de signal - Les Transformée de Fourier + des exercices.mp4</div>
+<div class="tree-file">│       ├── 📄 4 . Traitement de signal - série de Fourier.mp4</div>
+<div class="tree-file">│       ├── 📄 3 . Traitement de signal - corrélation _ convolution.mp4</div>
+<div class="tree-file">│       ├── 📄 1 . Traitement de Signal chapitre 1 - Généralités.mp4</div>
+<div class="tree-file">│       └── 📄 2 . Traitement de signal des exercices de l’énergie et de puissance.mp4</div>
+<div class="tree-file">├── 📄 Drive module Traitement de signal  - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 Théorie du signal/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Cours/</div>
+<div class="tree-file">│   │   ├── 📄 Théorie de Signal.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Theorie du signal - www.espace-etudiant.net.pdf</div>
+<div class="tree-folder">│   │   └── 📁 Résumé/</div>
+<div class="tree-file">│   │       ├── 📄 4.jpg</div>
+<div class="tree-file">│   │       ├── 📄 3.jpg</div>
+<div class="tree-file">│   │       ├── 📄 2.jpg</div>
+<div class="tree-file">│   │       └── 📄 1.jpg</div>
+<div class="tree-folder">│   ├── 📁 Examens Test/</div>
+<div class="tree-folder">│   │   ├── 📁 Lagh 2017/</div>
+<div class="tree-file">│   │   │   ├── 📄 Examen Signal 2017.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 5.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 4.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 1.jpg</div>
+<div class="tree-file">│   │   │   └── 📄 3.jpg</div>
+<div class="tree-folder">│   │   └── 📁 Test Lagh 2017/</div>
+<div class="tree-file">│   │       ├── 📄 Test Théorie de signal 2017.pdf</div>
+<div class="tree-file">│   │       ├── 📄 5.jpg</div>
+<div class="tree-file">│   │       ├── 📄 4.jpg</div>
+<div class="tree-file">│   │       ├── 📄 3.jpg</div>
+<div class="tree-file">│   │       ├── 📄 1.jpg</div>
+<div class="tree-file">│   │       └── 📄 2.jpg</div>
+<div class="tree-folder">│   └── 📁 TD/</div>
+<div class="tree-folder">│       └── 📁 Lagh2017/</div>
+<div class="tree-file">│           ├── 📄 theorie de signal.pdf</div>
+<div class="tree-file">│           ├── 📄 9.jpg</div>
+<div class="tree-file">│           ├── 📄 8.jpg</div>
+<div class="tree-file">│           ├── 📄 7.jpg</div>
+<div class="tree-file">│           ├── 📄 6.jpg</div>
+<div class="tree-file">│           ├── 📄 3.jpg</div>
+<div class="tree-file">│           ├── 📄 29.jpg</div>
+<div class="tree-file">│           ├── 📄 28.jpg</div>
+<div class="tree-file">│           ├── 📄 27.jpg</div>
+<div class="tree-file">│           ├── 📄 26.jpg</div>
+<div class="tree-file">│           ├── 📄 25.jpg</div>
+<div class="tree-file">│           ├── 📄 24.jpg</div>
+<div class="tree-file">│           ├── 📄 23.jpg</div>
+<div class="tree-file">│           ├── 📄 22.jpg</div>
+<div class="tree-file">│           ├── 📄 21.jpg</div>
+<div class="tree-file">│           ├── 📄 20.jpg</div>
+<div class="tree-file">│           ├── 📄 19.jpg</div>
+<div class="tree-file">│           ├── 📄 18.jpg</div>
+<div class="tree-file">│           ├── 📄 17.jpg</div>
+<div class="tree-file">│           ├── 📄 16.jpg</div>
+<div class="tree-file">│           ├── 📄 15.jpg</div>
+<div class="tree-file">│           ├── 📄 14.jpg</div>
+<div class="tree-file">│           ├── 📄 13.jpg</div>
+<div class="tree-file">│           ├── 📄 12.jpg</div>
+<div class="tree-file">│           ├── 📄 11.jpg</div>
+<div class="tree-file">│           ├── 📄 10.jpg</div>
+<div class="tree-file">│           ├── 📄 4.jpg</div>
+<div class="tree-file">│           ├── 📄 2.jpg</div>
+<div class="tree-file">│           ├── 📄 1.jpg</div>
+<div class="tree-file">│           └── 📄 5.jpg</div>
+<div class="tree-folder">├── 🔗📁 Traitement du signal /  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Résumé de formule incomplet/</div>
+<div class="tree-file">│   │   └── 📄 Formule.pdf</div>
+<div class="tree-folder">│   ├── 📁 Série révision &amp; Correction /</div>
+<div class="tree-file">│   │   ├── 📄 Correction Revision_TNS-S2.pdf</div>
+<div class="tree-file">│   │   └── 📄 Revision_TNS-S2.pdf</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-file">│   │   ├── 📄 Serie TD5 -TS.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Serie TD4 -TS.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Serie TD3 - TS.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Serie TD2 - TS.pdf</div>
+<div class="tree-file">│   │   └── 📄 Serie TD1 - TS.pdf</div>
+<div class="tree-folder">│   └── 📁 Cour /</div>
+<div class="tree-file">│       └── 📄 Traitement du signal - Chapitres 1, 2, 3, 4 et 5 - IA - 2023-2024.pdf</div>
+<div class="tree-folder">├── 🔗📁 Traitement de signal VVV/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 EXAMEN FINAL.pdf</div>
+<div class="tree-file">│   ├── 📄 controlle TT.pdf</div>
+<div class="tree-file">│   ├── 📄 controle 21.jpeg</div>
+<div class="tree-file">│   ├── 📄 remarque.txt</div>
+<div class="tree-file">│   ├── 📄 controle 1.jpeg</div>
+<div class="tree-folder">│   ├── 📁 TP/</div>
+<div class="tree-file">│   │   ├── 📄 TP.pdf</div>
+<div class="tree-folder">│   │   └── 📁 CR HABBI/</div>
+<div class="tree-file">│   │       ├── 📄 CR_manip4.docx</div>
+<div class="tree-file">│   │       ├── 📄 CR_manip3.docx</div>
+<div class="tree-file">│   │       ├── 📄 CR_manip1.docx</div>
+<div class="tree-file">│   │       ├── 📄 CR_manip5.docx</div>
+<div class="tree-file">│   │       └── 📄 CR_manip2.docx</div>
+<div class="tree-folder">│   ├── 📁 Traitement analogique/</div>
+<div class="tree-file">│   │   ├── 📄 desktop.ini</div>
+<div class="tree-folder">│   │   ├── 📁 TD/</div>
+<div class="tree-file">│   │   │   ├── 📄 2019_11_05_21_12_IMG_0903.JPG</div>
+<div class="tree-file">│   │   │   ├── 📄 TD5.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD Dé-Modulation AM.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD FM1.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD6.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD4(1).pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD1.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 TD AM FM.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 PDF/</div>
+<div class="tree-file">│   │   │   └── 📄 Aide-mÃ©moire - Traitement du signal.pdf</div>
+<div class="tree-folder">│   │   └── 📁 Examens/</div>
+<div class="tree-file">│   │       ├── 📄 desktop.ini</div>
+<div class="tree-file">│   │       ├── 📄 Exm _ TD.pdf</div>
+<div class="tree-file">│   │       ├── 📄 2019_12_19_14_39_IMG_1230.JPG</div>
+<div class="tree-file">│   │       ├── 📄 271220103028.jpg</div>
+<div class="tree-file">│   │       ├── 📄 271220103024.jpg</div>
+<div class="tree-file">│   │       ├── 📄 271220103023.jpg</div>
+<div class="tree-file">│   │       ├── 📄 271220103022.jpg</div>
+<div class="tree-file">│   │       ├── 📄 271220103021.jpg</div>
+<div class="tree-file">│   │       ├── 📄 261220103019.jpg</div>
+<div class="tree-file">│   │       ├── 📄 261220103018.jpg</div>
+<div class="tree-file">│   │       ├── 📄 261220103017.jpg</div>
+<div class="tree-file">│   │       ├── 📄 261220103016.jpg</div>
+<div class="tree-file">│   │       ├── 📄 261220103011.jpg</div>
+<div class="tree-file">│   │       ├── 📄 261220103009.jpg</div>
+<div class="tree-file">│   │       ├── 📄 261220103002.jpg</div>
+<div class="tree-file">│   │       └── 📄 261220103001.jpg</div>
+<div class="tree-folder">│   ├── 📁 Traitement numerique/</div>
+<div class="tree-file">│   │   ├── 📄 desktop.ini</div>
+<div class="tree-folder">│   │   ├── 📁 Exms/</div>
+<div class="tree-file">│   │   │   ├── 📄 2019_11_05_21_13_IMG_0904.JPG</div>
+<div class="tree-file">│   │   │   ├── 📄 Exms _ TD.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 20161104_214417.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 2019_12_24_21_23_IMG_1249.JPG</div>
+<div class="tree-file">│   │   │   ├── 📄 14915617_1462815703733519_6496783948859920664_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 14906834_1462815663733523_4193204343622307564_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 20161104_214354.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 20161104_214317.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 20161104_214219.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 20131201_202412.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 20131201_202440.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 6.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 4.jpg</div>
+<div class="tree-file">│   │   │   └── 📄 5.jpg</div>
+<div class="tree-folder">│   │   └── 📁 TD/</div>
+<div class="tree-file">│   │       ├── 📄 2019_12_26_21_38_IMG_1258.JPG</div>
+<div class="tree-file">│   │       └── 📄 20161104_214229.jpg</div>
+<div class="tree-folder">│   ├── 📁 Exam Final (analogique _ numerique)/</div>
+<div class="tree-file">│   │   ├── 📄 desktop.ini</div>
+<div class="tree-file">│   │   └── 📄 Exms fin de module.pdf</div>
+<div class="tree-folder">│   └── 📁 cours/</div>
+<div class="tree-file">│       ├── 📄 cours de technique de transmission 21/22.pdf</div>
+<div class="tree-file">│       ├── 📄 cours.pdf</div>
+<div class="tree-file">│       ├── 📄 cours partie 3.pdf</div>
+<div class="tree-file">│       ├── 📄 cours partie 2.pdf</div>
+<div class="tree-file">│       └── 📄 cours partie 1.pdf</div>
+<div class="tree-file">├── 📄 TD 2 Traitement du Signal</div>
+<div class="tree-file">├── 📄 TD  Traitement du Signal</div>
+<div class="tree-file">├── 📄 Examen TDS QCM</div>
+<div class="tree-file">├── 📄 Exercices Systèmes  Communication Traitement Information</div>
+<div class="tree-file">├── 📄 TP 1 Theorie du signal</div>
+<div class="tree-file">├── 📄 Exercices Convolution Chapter 5</div>
+<div class="tree-file">├── 📄 TD Traitement du signal</div>
+<div class="tree-file">├── 📄 TD  Traitement du signal  RT14  -  Pr.  Kamel Belloullata</div>
+<div class="tree-file">├── 📄 Exercices  Convolution et Autocorrélation</div>
+<div class="tree-file">├── 📄 Exercices  Convolution et Autocorrélation</div>
+<div class="tree-file">├── 📄 TP 2 Signal Numerique Echantillonnage Quantification</div>
+<div class="tree-file">├── 📄 TP 2 Signal Numerique Echantillonnage Quantification</div>
+<div class="tree-file">├── 📄 TD 1 Convolution Transformée Fourier</div>
+<div class="tree-file">├── 📄 TP  N°1  Génération et affichage des signaux continus</div>
+<div class="tree-file">├── 📄 TD  Traitement du signal  RT14  -  Pr.  Kamel Belloullata</div>
+<div class="tree-file">├── 📄 Cours Traitement du signal et applications</div>
+<div class="tree-file">├── 📄 TD  Fading Relay Channels Performance Limits and Space Time Signal Design</div>
+<div class="tree-file">├── 📄 TD 1 Traitement Numerique Signal</div>
+<div class="tree-file">├── 📄 TD  Traitement du signal TD  et Corrections de TD en Traitement du signal</div>
+<div class="tree-file">├── 📄 Examen Signal Traitement</div>
+<div class="tree-file">├── 📄 Examen Traitement du Signal</div>
+<div class="tree-file">├── 📄 Examen Traitement du signal</div>
+<div class="tree-file">├── 📄 TD  Traitement du Signal SMP S6</div>
+<div class="tree-file">├── 📄 Examen traitement du signal</div>
+<div class="tree-file">├── 📄 Exercices Traitement du signal AS13</div>
+<div class="tree-file">├── 📄 Exercices Traitement de Signal HEIG-Vd</div>
+<div class="tree-file">├── 📄 TD Traitement du signal</div>
+<div class="tree-file">├── 📄 TD 1 Theorie du signal EZN et TLC</div>
+<div class="tree-file">├── 📄 TD 1 Traitement du signal</div>
+<div class="tree-file">├── 📄 Cours SMP S6 P Electronique Traitement du signal</div>
+<div class="tree-file">├── 📄 Cours Traitement du signal  Pr Imad Ez-zazi ENSA Fes</div>
+<div class="tree-file">├── 📄 TP 2 Signal numerique Echantillonnage et Quantification</div>
+<div class="tree-file">├── 📄 Cours Rappels Traitement du Signal</div>
+<div class="tree-file">├── 📄 Exercices  Discrete Time Signals Sampling and Quantization</div>
+<div class="tree-file">├── 📄 TD 3 Exercices</div>
+<div class="tree-file">├── 📄 Exercices Correlation</div>
+<div class="tree-file">├── 📄 Cours Transformée de Fourier</div>
+<div class="tree-file">├── 📄 Exercices Convolution Chapter 5</div>
+<div class="tree-file">├── 📄 Cours  FIR et IIR Digital Filters</div>
+<div class="tree-file">├── 📄 Cours MATLAB Programming</div>
+<div class="tree-file">├── 📄 Cours  Z Transform</div>
+<div class="tree-file">├── 📄 Cours Discrete Time Systems</div>
+<div class="tree-file">├── 📄 TP 2 Signal numerique Echantillonnage et Quantification</div>
+<div class="tree-file">├── 📄 TP 5 Echantillonnage</div>
+<div class="tree-file">├── 📄 TP 4 Echantillonnage  Signal</div>
+<div class="tree-file">├── 📄 Cours Signal Theorie  Correlations et Densite Spectrale</div>
+<div class="tree-file">├── 📄 Cours Continuous Time Fourier Transform</div>
+<div class="tree-file">├── 📄 Cours Discrete Fourier Transform FFT</div>
+<div class="tree-file">├── 📄 TD 2 Theorie du signal</div>
+<div class="tree-file">├── 📄 TD Théorie du signal 1</div>
+<div class="tree-file">├── 📄 Cours L3 Théorie du signal Distributions</div>
+<div class="tree-file">├── 📄 cours Theorie du signal</div>
+<div class="tree-file">├── 📄 Cours Probabilités et processus éléments</div>
+<div class="tree-file">├── 📄 Cours Signal Theorie Hilbert Transform Analytic Signals</div>
+<div class="tree-file">├── 📄 Cours Traitement du Signal 1 Maxime Ossonce</div>
+<div class="tree-file">├── 📄 TD Théorie du signal Convolution et Fourier</div>
+<div class="tree-file">├── 📄 TD 1 Serie de Fourier</div>
+<div class="tree-file">├── 📄 Controle L3 L3 Theorie du signal  </div>
+<div class="tree-file">Cours</div>
+<div class="tree-file">├── 📄 TD 1 Convolution Transformée Fourier</div>
+<div class="tree-file">├── 📄 Exercices  Convolution et Autocorrélation</div>
+<div class="tree-file">├── 📄 TD Theorie du Signal</div>
+<div class="tree-file">├── 📄 TP Theorie du signal L3</div>
+<div class="tree-file">├── 📄 TP 1 Theorie du signal</div>
+<div class="tree-file">├── 📄 TP 3 Analyse Spectrale Analyse temps frequence par spectrogramme</div>
+<div class="tree-file">├── 📄 TP 2 Signal Numerique Echantillonnage Quantification</div>
+<div class="tree-file">├── 📄 Exercices Traitement du signal</div>
+<div class="tree-file">├── 📄 TP 3 Analyse Frequentielle Analyse Temps Frequence Par Spectrogramme Limites De L Analyse De Fourier</div>
+<div class="tree-file">├── 📄 TP Analyse Spectrale Numerique</div>
+<div class="tree-file">├── 📄 TD 533 Analyse spectrale signaux et systèmes</div>
+<div class="tree-file">├── 📄 TD 1 Signaux Serie de Fourier</div>
+<div class="tree-file">├── 📄 Exercices Traitement de Signal HEIG-Vd</div>
+<div class="tree-file">├── 📄 TD 1 Généralités sur les signaux</div>
+<div class="tree-file">├── 📄 TD 2 Représentation des signaux</div>
+<div class="tree-file">├── 📄 TD Traitement de Signal</div>
+<div class="tree-file">├── 📄 TD 3 Signaux Aleatoires</div>
+<div class="tree-file">├── 📄 TD 03 Transformation en Z et Filtre Numerique</div>
+<div class="tree-file">├── 📄 TD 1 Rappels sur les signaux discrets</div>
+<div class="tree-file">├── 📄 TD 1 Transformée de Fourier Discrete</div>
+<div class="tree-file">├── 📄 Cours Traitement des Signaux</div>
+<div class="tree-file">├── 📄 TD 3 Traitement du Signal DESA SCTI</div>
+<div class="tree-file">├── 📄 Exercices Traitement du Signal</div>
+<div class="tree-file">├── 📄 TD 2 Traitement du Signal</div>
+<div class="tree-file">├── 📄 TD 2 Traitement du Signal</div>
+<div class="tree-file">├── 📄 Exercices  Traitement du Signal  Université Ibn Tofail</div>
+<div class="tree-file">├── 📄 Exercices Systèmes  Communication Traitement Information</div>
+<div class="tree-file">├── 📄 TD M136 Suites et séries de fonctions</div>
+<div class="tree-file">├── 📄 TD M136 Suites et séries de fonctions</div>
+<div class="tree-file">├── 📄 Cours Signaux et systemes representation frequentielle</div>
+<div class="tree-file">├── 📄 Cours Traitement de Signal analogique et numerique</div>
+<div class="tree-file">├── 📄 Cours Traitement du Signal</div>
+<div class="tree-file">├── 📄 Cours Detection et filtrage des signaux bruites</div>
+<div class="tree-file">├── 📄 Exercices Signal et Images Formulaire</div>
+<div class="tree-file">├── 📄 Cours Traitement du signal Chapitre 1 Généralités sur les signaux</div>
+<div class="tree-file">├── 📄 Cours Traitement de Signal Analogique et Numérique</div>
+<div class="tree-file">├── 📄 Cours Traitement du signal Chapitre 3 Echantillonnage</div>
+<div class="tree-file">├── 📄 Cours Traitement du signal Chapitre 2 Transformations de Fourier</div>
+<div class="tree-file">├── 📄 Cours Traitement du signal Numérisation des Signaux</div>
+<div class="tree-file">├── 📄 Cours Traitement de Signal analogique et numerique</div>
+<div class="tree-file">├── 📄 Cours Traitement du Signal numerique</div>
+<div class="tree-file">├── 📄 Examen  Traitement du Signal  Telecommunications et Reseaux</div>
+<div class="tree-file">├── 📄 TD  Représentation Graphique</div>
+<div class="tree-file">├── 📄 TD 1 Serie de Fourier</div>
+<div class="tree-file">├── 📄 TP 2 Transformation de Fourier et Filtrage</div>
+<div class="tree-file">├── 📄 TP Traitement de Signal</div>
+<div class="tree-file">├── 📄 Cours Traitement de Signal Master Instrumentation Chebbara Fouad</div>
+<div class="tree-file">├── 📄 TP Traitement du signal FFT Matlab</div>
+<div class="tree-file">├── 📄 Cours Traitement du signal Filtrage Analogique</div>
+<div class="tree-file">├── 📄 Cours Filtre Actif 1er ordre</div>
+<div class="tree-file">├── 📄 TD Traitement du signal Matlab</div>
+<div class="tree-file">├── 📄 Examen TDS QCM</div>
+<div class="tree-file">├── 📄 Cours Traitement Du Signal Filtrage Lineaire</div>
+<div class="tree-file">├── 📄 Cours Traitement Du Signal Convolution Correlation</div>
+<div class="tree-file">├── 📄 Examen Traitement du Signal TDS</div>
+<div class="tree-file">├── 📄 Examen Traitement du Signal TDS</div>
+<div class="tree-file">├── 📄 Cours Traitement du Signal Filtrage numerique</div>
+<div class="tree-file">├── 📄 Cours Traitement Du Signal Introduction</div>
+<div class="tree-file">├── 📄 Cours Traitement du Signal Signaux numeriques 1 12</div>
+<div class="tree-file">├── 📄 Cours Traitement Du Signal Transformées Discrètes</div>
+<div class="tree-file">├── 📄 Cours Traitement Du Signal Series De Fourier</div>
+<div class="tree-file">├── 📄 Cours Traitement Signal Transformee Fourier</div>
+<div class="tree-file">├── 📄 Examen Traitement du signal ESTACA 3eme année</div>
+<div class="tree-file">├── 📄 TD 2 Traitement du Signal</div>
+<div class="tree-file">├── 📄 TD  Traitement du Signal</div>
+<div class="tree-file">├── 📄 Examen M1 Informatique Bases du Traitement du Signal session 2e</div>
+<div class="tree-file">├── 📄 Exercices  Travail Dirige  4  avec correction  Signal</div>
+<div class="tree-file">├── 📄 Examen Traitement du Signal ESTACA</div>
+<div class="tree-file">├── 📄 Examen Traitement du Signal 1</div>
+<div class="tree-file">├── 📄 TD 2 Traitement du Signal</div>
+<div class="tree-file">├── 📄 Cours Traitement Du Signal Transformée En Z</div>
+<div class="tree-file">├── 📄 Examen Traitement du Signal TDS</div>
+<div class="tree-file">├── 📄 Controle TD Electronique Traitement du signal</div>
+<div class="tree-file">├── 📄 TP 1 Generation et Affichage des Signaux Continus</div>
+<div class="tree-file">├── 📄 Cours Traitement avance du signal radars</div>
+<div class="tree-file">├── 📄 Exercices Tableaux de correspondance entre transformée en z et de Laplace</div>
+<div class="tree-file">├── 📄 Cours Transformée de Laplace</div>
+<div class="tree-file">├── 📄 Cours Transformations en z</div>
+<div class="tree-file">├── 📄 TD  Le Filtrage Numerique</div>
+<div class="tree-file">├── 📄 Cours  Chapitre 2 Filtrage</div>
+<div class="tree-file">├── 📄 Cours Initiation a MATLAB Prevost</div>
+<div class="tree-file">├── 📄 Cours Theorie du Signal</div>
+<div class="tree-file">├── 📄 Examen  S6  Traitement de l information et systemes electroniques</div>
+<div class="tree-file">├── 📄 Examen Theorie et traitement du signal</div>
+<div class="tree-file">├── 📄 Examen ELT 405 Traitement du signal</div>
+<div class="tree-file">├── 📄 Examen S5 Traitement de  Signaux</div>
+<div class="tree-file">├── 📄 TP 1  Génération Correlation et Representation Frequentielle des signaux</div>
+<div class="tree-file">├── 📄 Cours UV Traitement du signal Cours 4 Systèmes linéaires continus</div>
+<div class="tree-file">├── 📄 TP 2 Correlation et convolution</div>
+<div class="tree-file">├── 📄 TD Traitement du Signal</div>
+<div class="tree-file">├── 📄 TP 7 Quantification</div>
+<div class="tree-file">├── 📄 TD ASI 3 Représentation Fréquentielle des Signaux</div>
+<div class="tree-file">├── 📄 Cours ASI 3 Transformée de Fourier Discrète</div>
+<div class="tree-file">├── 📄 Cours UV Traitement du signal ASI 3</div>
+<div class="tree-file">├── 📄 TD 1 Traitement du signal  Median</div>
+<div class="tree-file">├── 📄 Examen Traitement du signal AS13</div>
+<div class="tree-file">├── 📄 TP 3 Corrélation et Convolution</div>
+<div class="tree-file">├── 📄 Exercices AS13 Traitement du signal</div>
+<div class="tree-file">├── 📄 TP 4 Transformation de Fourier et Echantillonnage des signaux analogiques</div>
+<div class="tree-file">├── 📄 TD 5 Analyse de Fourier des Signaux Discrets</div>
+<div class="tree-file">├── 📄 TD 1  Traitement de signal Analogique</div>
+<div class="tree-file">├── 📄 TP Simulink Traitement Signal Analogique</div>
+<div class="tree-file">├── 📄 Cours  Numerisation des Signaux et des Systemes de CN</div>
+<div class="tree-file">├── 📄 Cours Traitement du signal Module</div>
+<div class="tree-file">├── 📄 Cours Transformées de Fourier discrète DFT et rapide FFT</div>
+<div class="tree-file">├── 📄 Cours Echantillonnage des signaux</div>
+<div class="tree-file">├── 📄 Exercices Traitement avance du signal</div>
+<div class="tree-file">├── 📄 Exercices  Etude des signaux analogiques  (Fourier)</div>
+<div class="tree-file">├── 📄 TD 1 Traitement avancé du signal</div>
+<div class="tree-file">├── 📄 Cours Synthese des filtres analogiques d ordre superieur</div>
+<div class="tree-file">├── 📄 Cours Transformée de Laplace</div>
+<div class="tree-file">├── 📄 Cours Introduction  a la Numerisation des Signaux et des Systemes de CN</div>
+<div class="tree-file">├── 📄 Examen Bases du Traitement du Signal</div>
+<div class="tree-file">├── 📄 TD 3 Traitement du Signal</div>
+<div class="tree-file">├── 📄 Examen Traitement du Signal TDS</div>
+<div class="tree-file">├── 📄 Exercices  Traitement du signal Serie de Fourier</div>
+<div class="tree-file">├── 📄 TD 4 Traitement du signal</div>
+<div class="tree-file">└── 📄 TP 2 Analyse et traitement de signal sous Matlab</div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     HOW TO ORDER
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Traitement de signal </strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FAQ
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Traitement de signal </span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Traitement de signal  ?</summary>
+      <p>
+        Le module <strong>Traitement de signal </strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Traitement de signal  ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Traitement de signal </strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Traitement de signal  correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     CTA FINAL
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Traitement de signal </em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════ -->
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>
