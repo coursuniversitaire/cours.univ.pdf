@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- ═══ SEO Primary ═══ -->
+  <title>Physique des matériaux — Cours PDF, TD & Examens Corrigés | CoursUni</title>
+  <meta name="description" content="Téléchargez le module Physique des matériaux : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta name="keywords"    content="Physique des matériaux, cours Physique des matériaux pdf, td corrigés Physique des matériaux, examen corrigé Physique des matériaux, module Physique des matériaux université, polycopié Physique des matériaux, exercices corrigés Physique des matériaux, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/physique-des-materiaux.html" />
+
+  <!-- ═══ Open Graph ═══ -->
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Physique des matériaux — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta property="og:description" content="Téléchargez le module Physique des matériaux : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/physique-des-materiaux.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <!-- ═══ Twitter Card ═══ -->
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Physique des matériaux — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta name="twitter:description" content="Téléchargez le module Physique des matériaux : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+
+  <!-- ═══ Robots ═══ -->
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-05" />
+
+  <!-- ═══ Schema.org JSON-LD ═══ -->
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Physique des matériaux","item":"https://coursuniversitaire.github.io/cours.univ.pdf/physique-des-materiaux.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Physique des matériaux ?","acceptedAnswer":{"@type":"Answer","text":"Le module Physique des matériaux contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Physique des matériaux ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Physique des matériaux correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    /* ═══════════════════════════════════════
+       Design tokens — matches CoursUni site
+       ═══════════════════════════════════════ */
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ── */
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    /* ── Nav ── */
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* ── Breadcrumb ── */
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    /* ── Hero ── */
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.55rem; font-weight: 700; margin-bottom: 28px;
+    }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    /* ── Cards grid ── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    /* ── Drive tree ── */
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    /* ── Steps ── */
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    /* ── FAQ ── */
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    /* ── Trust bar ── */
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    /* ── CTA section ── */
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    /* ── Footer ── */
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════
+     NAV
+════════════════════════════════════════ -->
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ════════════════════════════════════════
+     HERO
+════════════════════════════════════════ -->
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Physique des matériaux</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Physique des matériaux</em><br />
+      Cours, TD et exercices corrigés Physique des matériaux pdf &amp; Examens Corripdf
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Physique des matériaux</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.
+      Accès immédiat.
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">1</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">6</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">2</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     WHAT YOU GET
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Physique des matériaux</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Physique des matériaux</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     DRIVE TREE
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Physique des matériaux</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Physique des matériaux">
+<div class="tree-file">├── 📄 Drive module Physique des matériaux - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 📁 Exams/</div>
+<div class="tree-file">│   ├── 📄 ratt2022+correct.pdf</div>
+<div class="tree-file">│   ├── 📄 rattmars+correc2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Exa_SciMat1_2021_SN.pdf</div>
+<div class="tree-file">│   ├── 📄 ExaScMat2021-2022+correct.pdf</div>
+<div class="tree-file">│   ├── 📄 correctexam2022-2023.pdf</div>
+<div class="tree-file">│   └── 📄 Examen-20230107.zip</div>
+<div class="tree-folder">├── 📁 TD/</div>
+<div class="tree-file">│   ├── 📄 Serie5_2022-2023.pdf</div>
+<div class="tree-file">│   ├── 📄 Serie4+_2022-2023.pdf</div>
+<div class="tree-file">│   ├── 📄 Serie3_2022-2023.pdf</div>
+<div class="tree-file">│   ├── 📄 Serie2_2022-2023.pdf</div>
+<div class="tree-file">│   ├── 📄 Serie1_2022-2023.pdf</div>
+<div class="tree-file">│   ├── 📄 TD_SciMat1_n4_2021.pdf</div>
+<div class="tree-file">│   ├── 📄 TD_SciMat1_n3_2021.pdf</div>
+<div class="tree-file">│   ├── 📄 TD_SciMat1_n2.pdf</div>
+<div class="tree-file">│   ├── 📄 TD_SciMat1_n1_2021.pdf</div>
+<div class="tree-file">│   ├── 📄 correction serie5.pdf</div>
+<div class="tree-file">│   ├── 📄 serie5.pdf</div>
+<div class="tree-file">│   ├── 📄 correction-serie4.pdf</div>
+<div class="tree-file">│   ├── 📄 serie4.pdf</div>
+<div class="tree-file">│   ├── 📄 correction-serie3.pdf</div>
+<div class="tree-file">│   ├── 📄 serie3.pdf</div>
+<div class="tree-file">│   ├── 📄 correction Série 2_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Série 2_2020-2021.pdf</div>
+<div class="tree-file">│   ├── 📄 Correction Série 1-2020-2021 .pdf</div>
+<div class="tree-file">│   └── 📄 serie 1-2020-2021.pdf</div>
+<div class="tree-folder">├── 📁 Cours/</div>
+<div class="tree-file">│   ├── 📄 2022diapoChapitre 7.pdf</div>
+<div class="tree-file">│   ├── 📄 2022diapoChapitre 6.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre 5_Modèle de Sommerfeld .pdf</div>
+<div class="tree-file">│   ├── 📄 2022diapoChapitre 5.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre 4_Propriétés thermiques des solides.pdf</div>
+<div class="tree-file">│   ├── 📄 2022dapoChapitre 4.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre 3_La dynamique du réseau cristallin.pdf</div>
+<div class="tree-file">│   ├── 📄 2022 diapoChapitre 3.pdf</div>
+<div class="tree-file">│   ├── 📄 2022diapoChapitre 2.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre 2_Réseau réciproque et diffraction.pdf</div>
+<div class="tree-file">│   ├── 📄 2022diapoChapitre 1.pdf</div>
+<div class="tree-file">│   └── 📄 Chapitre1-Le solide cristallin.pdf</div>
+<div class="tree-folder">└── 📁 Physique des matériaux/</div>
+<div class="tree-file">    ├── 📄 fiche-mesure_chiff_sign.pdf</div>
+<div class="tree-folder">    ├── 📁 TD/</div>
+<div class="tree-file">    │   ├── 📄 série 9.pdf</div>
+<div class="tree-file">    │   ├── 📄 série 8.pdf</div>
+<div class="tree-file">    │   ├── 📄 série 7.pdf</div>
+<div class="tree-file">    │   ├── 📄 série 6.pdf</div>
+<div class="tree-file">    │   ├── 📄 série 5.pdf</div>
+<div class="tree-file">    │   ├── 📄 série 4.pdf</div>
+<div class="tree-file">    │   ├── 📄 série 3.pdf</div>
+<div class="tree-file">    │   ├── 📄 série 2.pdf</div>
+<div class="tree-file">    │   ├── 📄 série 1.pdf</div>
+<div class="tree-file">    │   ├── 📄 série 10.pdf</div>
+<div class="tree-folder">    │   ├── 📁 8/</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0936.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0935.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 9a.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 9.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 8.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 5.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 3.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 16.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 1.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 15.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 11.jpg</div>
+<div class="tree-file">    │   │   └── 📄 10.jpg</div>
+<div class="tree-folder">    │   ├── 📁 6/</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0932.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0931.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 22.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 9.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 7.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 6.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 3.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 21.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 20.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 19.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 18.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 17.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 13.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 11.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 1.jpg</div>
+<div class="tree-folder">    │   │   └── 📁 devoir/</div>
+<div class="tree-file">    │   │       ├── 📄 4.jpg</div>
+<div class="tree-file">    │   │       ├── 📄 3.jpg</div>
+<div class="tree-file">    │   │       ├── 📄 2.jpg</div>
+<div class="tree-file">    │   │       ├── 📄 1.jpg</div>
+<div class="tree-file">    │   │       └── 📄 5.jpg</div>
+<div class="tree-folder">    │   ├── 📁 5/</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0706.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0705.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0704.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0703.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 16.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 15.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 14.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 9.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 7.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 6.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 8.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 5.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 4.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 3.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 13.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 10.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 12.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 1.jpg</div>
+<div class="tree-file">    │   │   └── 📄 11.jpg</div>
+<div class="tree-folder">    │   ├── 📁 4/</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0188.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0187.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0186.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0185.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 EX1_TDn_4.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 EX2_TD_n_4.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 9.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 6.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 8.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 7.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 5.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 4.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 3.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 19.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 18.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 17.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 16.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 15.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 14.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 13.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 12.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 11.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 10.jpg</div>
+<div class="tree-file">    │   │   └── 📄 1.jpg</div>
+<div class="tree-folder">    │   ├── 📁 3/</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0188.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0187.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0186.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0184.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0183.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0189.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0192.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0191.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0193.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0190.jpg</div>
+<div class="tree-file">    │   │   └── 📄 IMG_0185.jpg</div>
+<div class="tree-folder">    │   ├── 📁 2/</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0182.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0181.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0180.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0179.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0178.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0177.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0176.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0175.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0184.jpg</div>
+<div class="tree-file">    │   │   └── 📄 IMG_0183.jpg</div>
+<div class="tree-folder">    │   ├── 📁 1/</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0174.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0173.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0172.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0171.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0170.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0169.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0168.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0167.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0166.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0175.jpg</div>
+<div class="tree-file">    │   │   └── 📄 IMG_0176.jpg</div>
+<div class="tree-folder">    │   ├── 📁 9/</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0938.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0937.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 8.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 9.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 7.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 6.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 5.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 11.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 17.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 15.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 14.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 13.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 10.jpg</div>
+<div class="tree-file">    │   │   └── 📄 1.jpg</div>
+<div class="tree-folder">    │   ├── 📁 7/</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0934.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 IMG_0933.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 31.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 8.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 6.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 5.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 30.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 4.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 17.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 28.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 23.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 24.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 25.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 27.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 20.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 29.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 18.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 16a.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 16.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 15.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 10.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 12.jpg</div>
+<div class="tree-file">    │   │   └── 📄 1.jpg</div>
+<div class="tree-folder">    │   └── 📁 10/</div>
+<div class="tree-file">    │       ├── 📄 IMG_0940.JPG</div>
+<div class="tree-file">    │       ├── 📄 IMG_0939.JPG</div>
+<div class="tree-file">    │       ├── 📄 5.jpg</div>
+<div class="tree-file">    │       ├── 📄 9.jpg</div>
+<div class="tree-file">    │       ├── 📄 15.jpg</div>
+<div class="tree-file">    │       ├── 📄 3.jpg</div>
+<div class="tree-file">    │       ├── 📄 14.jpg</div>
+<div class="tree-file">    │       ├── 📄 13.jpg</div>
+<div class="tree-file">    │       ├── 📄 12.jpg</div>
+<div class="tree-file">    │       ├── 📄 10.jpg</div>
+<div class="tree-file">    │       └── 📄 1.jpg</div>
+<div class="tree-folder">    ├── 📁 examens/</div>
+<div class="tree-folder">    │   └── 📁 2016-2017/</div>
+<div class="tree-file">    │       ├── 📄 cf.pdf</div>
+<div class="tree-file">    │       └── 📄 correction.pdf</div>
+<div class="tree-folder">    ├── 📁 QCM/</div>
+<div class="tree-file">    │   ├── 📄 22894232_1423096677836997_797850735687113545_n.jpg</div>
+<div class="tree-file">    │   ├── 📄 22885753_1423096781170320_877749351847735240_n.jpg</div>
+<div class="tree-file">    │   ├── 📄 15349565_10207746662883847_8456118864806654749_n.jpg</div>
+<div class="tree-file">    │   ├── 📄 15267995_592654514267292_215583637691264317_n.jpg</div>
+<div class="tree-file">    │   ├── 📄 22852091_1423096717836993_5668326056969118425_n.jpg</div>
+<div class="tree-file">    │   ├── 📄 15267791_334801450238889_1130106835907325669_n.jpg</div>
+<div class="tree-file">    │   ├── 📄 15253487_1415209548506547_3092516570586677302_n.jpg</div>
+<div class="tree-file">    │   ├── 📄 15232338_334801073572260_1554279086963655744_n.jpg</div>
+<div class="tree-file">    │   ├── 📄 15202679_1246215792105298_5379828870481358257_n.jpg</div>
+<div class="tree-file">    │   └── 📄 15178185_721958584625786_6994620598742885718_n.jpg</div>
+<div class="tree-folder">    └── 📁 TP/</div>
+<div class="tree-file">        ├── 📄 structures.zip</div>
+<div class="tree-file">        └── 📄 réseaux.zip</div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     HOW TO ORDER
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Physique des matériaux</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FAQ
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Physique des matériaux</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Physique des matériaux ?</summary>
+      <p>
+        Le module <strong>Physique des matériaux</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Physique des matériaux ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Physique des matériaux</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Physique des matériaux correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     CTA FINAL
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Physique des matériaux</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════ -->
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>

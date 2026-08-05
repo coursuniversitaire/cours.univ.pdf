@@ -1,0 +1,927 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- ═══ SEO Primary ═══ -->
+  <title>Recherche opérationnelle — Cours PDF, TD & Examens Corrigés | CoursUni</title>
+  <meta name="description" content="Téléchargez le module Recherche opérationnelle : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta name="keywords"    content="Recherche opérationnelle, cours Recherche opérationnelle pdf, td corrigés Recherche opérationnelle, examen corrigé Recherche opérationnelle, module Recherche opérationnelle université, polycopié Recherche opérationnelle, exercices corrigés Recherche opérationnelle, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/recherche-operationnelle.html" />
+
+  <!-- ═══ Open Graph ═══ -->
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Recherche opérationnelle — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta property="og:description" content="Téléchargez le module Recherche opérationnelle : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/recherche-operationnelle.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <!-- ═══ Twitter Card ═══ -->
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Recherche opérationnelle — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta name="twitter:description" content="Téléchargez le module Recherche opérationnelle : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+
+  <!-- ═══ Robots ═══ -->
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-05" />
+
+  <!-- ═══ Schema.org JSON-LD ═══ -->
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Recherche opérationnelle","item":"https://coursuniversitaire.github.io/cours.univ.pdf/recherche-operationnelle.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Recherche opérationnelle ?","acceptedAnswer":{"@type":"Answer","text":"Le module Recherche opérationnelle contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Recherche opérationnelle ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Recherche opérationnelle correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    /* ═══════════════════════════════════════
+       Design tokens — matches CoursUni site
+       ═══════════════════════════════════════ */
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ── */
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    /* ── Nav ── */
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* ── Breadcrumb ── */
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    /* ── Hero ── */
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.55rem; font-weight: 700; margin-bottom: 28px;
+    }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    /* ── Cards grid ── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    /* ── Drive tree ── */
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    /* ── Steps ── */
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    /* ── FAQ ── */
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    /* ── Trust bar ── */
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    /* ── CTA section ── */
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    /* ── Footer ── */
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════
+     NAV
+════════════════════════════════════════ -->
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ════════════════════════════════════════
+     HERO
+════════════════════════════════════════ -->
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Recherche opérationnelle</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Recherche opérationnelle</em><br />
+      Cours, TD et exercices corrigés Recherche opérationnelle pdf &amp; Examens Corripdf
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Recherche opérationnelle</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.
+      Accès immédiat.
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">1</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     WHAT YOU GET
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Recherche opérationnelle</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Recherche opérationnelle</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     DRIVE TREE
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Recherche opérationnelle</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Recherche opérationnelle">
+<div class="tree-folder">├── 🔗📁 Recherche Opérationnelle Fst/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Autre(RO2)/</div>
+<div class="tree-file">│   │   ├── 📄 Recherche Opérationnelle Pr. Khalid ISKAFI.pdf</div>
+<div class="tree-file">│   │   ├── 📄 K. ISKAFI R.O.2 GI S4 FPK 2013-2014.pdf</div>
+<div class="tree-file">│   │   ├── 📄 K. ISKAFI R.O1 GI S3 FPK 2013-2014.pdf</div>
+<div class="tree-file">│   │   └── 📄 R.O. Pr. Khalid ISKAFI.pdf</div>
+<div class="tree-folder">│   ├── 📁 EXAMS/</div>
+<div class="tree-file">│   │   ├── 📄 Ratt RO 2026.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Contrôle 1.pdf</div>
+<div class="tree-folder">│   │   └── 📁 CC et EF BLANC/</div>
+<div class="tree-file">│   │       ├── 📄 Examen ratt Blanc issue de l’examen final.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Examen Blanc RO.pdf</div>
+<div class="tree-file">│   │       ├── 📄 ChatGPT Image 29 mai 2026, 01_48_52.jpg</div>
+<div class="tree-file">│   │       ├── 📄 ChatGPT Image 29 mai 2026, 01_48_52.jpg</div>
+<div class="tree-file">│   │       ├── 📄 ChatGPT Image 29 mai 2026, 01_48_52.png</div>
+<div class="tree-file">│   │       ├── 📄 ChatGPT Image 29 mai 2026, 01_48_52.png</div>
+<div class="tree-file">│   │       └── 📄 EXAMEN FINAL BLANC 2026.pdf</div>
+<div class="tree-folder">│   ├── 📁 TDs/</div>
+<div class="tree-file">│   │   ├── 📄 IMG_4928.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_4927.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 IMG_4925.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 830EB867-2EA5-4EEB-9CC0-84587DD9A385.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 567B6477-F760-4F84-A1CE-95D83D74E0A9.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 TD5-FST 2026_2a3bd80d40f843b6859b3686d8851c0f.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD4-FST-2026_fad4ca2dbd99b7d8e69a2558bde44a26.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD3-FST-2026_8ee5f086601d7880e9438b1a37dab2b7.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD2-FST-2026.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD1-FSTM-RO-2026.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TD3 TD4 Grp1/</div>
+<div class="tree-file">│   │   │   ├── 📄 WhatsApp Image 2026-05-02 at 20.57.02.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 WhatsApp Image 2026-05-02 at 20.55.56 (2).jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 WhatsApp Image 2026-05-02 at 20.55.56.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 WhatsApp Image 2026-05-02 at 20.55.57.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 WhatsApp Image 2026-05-02 at 20.55.56 (1).jpeg</div>
+<div class="tree-file">│   │   │   └── 📄 WhatsApp Image 2026-05-02 at 20.55.58.jpeg</div>
+<div class="tree-folder">│   │   ├── 📁 TD 4 Grp2/</div>
+<div class="tree-file">│   │   │   ├── 📄 WhatsApp Image 2026-05-03 at 16.08.23 (2).jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 WhatsApp Image 2026-05-03 at 16.08.23 (4).jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 WhatsApp Image 2026-05-03 at 16.08.23 (3).jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 WhatsApp Image 2026-05-03 at 16.08.22.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 WhatsApp Image 2026-05-03 at 16.08.23.jpeg</div>
+<div class="tree-file">│   │   │   └── 📄 WhatsApp Image 2026-05-03 at 16.08.23 (1).jpeg</div>
+<div class="tree-folder">│   │   └── 📁 TD3 Grp3/</div>
+<div class="tree-file">│   │       ├── 📄 WhatsApp Image 2026-04-20 at 11.22.53.jpeg</div>
+<div class="tree-file">│   │       ├── 📄 WhatsApp Image 2026-04-20 at 11.03.20.jpeg</div>
+<div class="tree-file">│   │       ├── 📄 WhatsApp Image 2026-04-20 at 11.51.17.jpeg</div>
+<div class="tree-file">│   │       ├── 📄 WhatsApp Image 2026-04-20 at 11.05.23.jpeg</div>
+<div class="tree-file">│   │       ├── 📄 WhatsApp Image 2026-04-20 at 11.44.00.jpeg</div>
+<div class="tree-file">│   │       └── 📄 WhatsApp Image 2026-04-20 at 11.02.54.jpeg</div>
+<div class="tree-folder">│   └── 📁 COURS/</div>
+<div class="tree-file">│       ├── 📄 theorie-graphes-FST2026_5b3785c9ad4f8d85e2d643922eebf4c6.pdf</div>
+<div class="tree-file">│       ├── 📄 Simplexe-post-optimale-FST2026_868111b4a6284848f13cbd19db092710.pdf</div>
+<div class="tree-file">│       ├── 📄 dualite-chap5-FST-2026_7a36dd3d8317493a51a8a19ccc507a21.pdf</div>
+<div class="tree-file">│       ├── 📄 Simplexe-Phase2_bc3528614e188fe7eab10a9bd1e27af5.pdf</div>
+<div class="tree-file">│       ├── 📄 Chapitre3-FST2026_003d587c48c94d668d647e4df63e4c39.pdf</div>
+<div class="tree-file">│       ├── 📄 Chapitre2.pdf</div>
+<div class="tree-file">│       └── 📄 Chapitre1.pdf</div>
+<div class="tree-file">├── 📄 Drive module Recherche opérationnelle - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 Recherche opérationnelle /  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 TDs/</div>
+<div class="tree-file">│   │   ├── 📄 Travaux diriges-RO_chapitre 1-2022-2023_avec solution (1).pdf</div>
+<div class="tree-file">│   │   ├── 📄 Travaux diriges-RO_chapitre 1-2022-2023_avec solution.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Travaux diriges-RO_chapitre 2-2022-2023_avec solution.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Travaux diriges-RO_chapitre 2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 RO_Analyse de Sensibilité- exemple TD-English.pptx</div>
+<div class="tree-file">│   │   ├── 📄 Travaux diriges-RO_chapitre 1_avec solution.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Travaux diriges-RO_chapitre 1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD -RO- Chapitre 2 avec solution.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD -RO- Chapitre 2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Travaux diriges-RO_chapitre 3-solution.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD -RO - Chapitre 2 avec solution.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD -RO - Chapitre 2.pdf</div>
+<div class="tree-file">│   │   └── 📄 TD -RO - Chapitre 1 avec solution.pdf</div>
+<div class="tree-folder">│   ├── 📁 COURS EN FRNCAIS/</div>
+<div class="tree-file">│   │   ├── 📄 RO_Dualite_chap 4-1 - programmation linéaire - forme matricielle_suite.pptx</div>
+<div class="tree-file">│   │   ├── 📄 RO_Dualite_chap 4-1 - programmation linéaire - forme matricielle.pptx</div>
+<div class="tree-file">│   │   ├── 📄 Recherche Opérationnelle_simplexe-Rappel.pptx</div>
+<div class="tree-file">│   │   ├── 📄 RO_Dualite_chap 4-2 - Apperçu fondamental.pptx</div>
+<div class="tree-file">│   │   ├── 📄 Recherche Opérationnelle_autres formes du modèle mathématique.pptx</div>
+<div class="tree-file">│   │   ├── 📄 RO_Dualite_chap 4-3.pptx</div>
+<div class="tree-file">│   │   └── 📄 Introduction.pptx</div>
+<div class="tree-folder">│   └── 📁 COURS EN ANGALIS/</div>
+<div class="tree-file">│       ├── 📄 RO -4.2- Analyse de Sensibilité.pptx</div>
+<div class="tree-file">│       ├── 📄 RO -4.1- Dualité.pptx</div>
+<div class="tree-file">│       ├── 📄 RO -2- Programmation linéaire - Forme matricielle.pptx</div>
+<div class="tree-file">│       ├── 📄 RO -2- Introduction à la programmation Lineaire.pptx</div>
+<div class="tree-file">│       ├── 📄 RO -1- Introduction.pptx</div>
+<div class="tree-file">│       └── 📄 RO -3- Programmation Lineaire - Méthode de Simplexe.pptx</div>
+<div class="tree-folder">├── 🔗📁 RO - Theo graphes + prog linaire/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Drive module RO - Theo graphes + prog linaire - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">│   ├── 🔗📁 Théorie de Graphes /  (raccourci)</div>
+<div class="tree-file">│   │   ├── 📄 Drive module Théorie de Graphes  - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">│   │   ├── 🔗📁 Graphe et optimisation/  (raccourci)</div>
+<div class="tree-file">│   │   │   ├── 📄 TG-L2CS-L2IRS-Chapitre1-2020.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 130738909_134219768282687_1882831996443819953_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 Application à la methode du simplexe.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Resolution par la methode du simplexe.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD 4- Modelisation de programmes lineaires a plusieurs variables.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 PL-L2CS-L2IRS-TD6-2020.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 PL-L2CS-L2IRS-TD5-2020.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Introduction a la programmation lineare.pdf</div>
+<div class="tree-folder">│   │   │   └── 📁 examens/</div>
+<div class="tree-file">│   │   │       ├── 📄 RO-L2FSI-ExPa19.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 RO-L2SIL-ExPa20.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 RO-L2FSI-ExPr20.pdf</div>
+<div class="tree-folder">│   │   │       └── 📁 examen principal FSI2019/</div>
+<div class="tree-file">│   │   │           └── 📄 RO-L2FSI-ExPr19.pdf</div>
+<div class="tree-folder">│   │   ├── 🔗📁 GRAPH/  (raccourci)</div>
+<div class="tree-file">│   │   │   ├── 📄 ex.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 MINI PROJET GRAPHE.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 theorie des graphes.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 EXAMENS DE THERIE DES GRAPHES.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 rapport-mini-projet-thgraphe 2.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 res thr graph.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Mini projet.pptx</div>
+<div class="tree-file">│   │   │   ├── 📄 TG 2017_2018.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TG 2018_2019.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Cours-TG-LSTI.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 correction ex.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Petri-Cours-de-Base.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TG 2015.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TG 2016.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 I514-Graph-EXPO.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 cours theorie de graphe-2.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Reseau de Petri youssef qarai.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 covgraph.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 cours Petri1.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Nouveau Microsoft Office Word Document.docx</div>
+<div class="tree-file">│   │   │   ├── 📄 introduction-a-la-th-des-graphes.ppt</div>
+<div class="tree-file">│   │   │   ├── 📄 Projet_TheorieGraphe.zip</div>
+<div class="tree-file">│   │   │   ├── 📄 graphes-semaine6.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TES_graphes_COLORATION.pps</div>
+<div class="tree-file">│   │   │   ├── 📄 ENSM - Graphes - Correction Feuille TD2.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 ENSM-Cours Graphes - Partie-B.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Gondran-20120404.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 semindoc.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 graph-coloring-slide.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 vertex coloring algorithm.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Rdp-S5-I514.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Graphes exos corrigés 2.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Théorie%20des%20graphes.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 graphes.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 corriges.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 exo_graphes_sopena_tout.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 graphes-Gelineau-Lyon1.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Transp21.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 cours1.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 main_graphes.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Graphes_COLORATION.pps</div>
+<div class="tree-folder">│   │   ├── 🔗📁 Graphes, Programmation linéaire et optimisation /  (raccourci)</div>
+<div class="tree-file">│   │   │   ├── 📄 programmation .pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Examen libre optimisation 23-24.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD OPTIMISATION S6.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 CHELIHI RACHID By ExoSup.com.pdf</div>
+<div class="tree-file">│   │   ├── 📄 mi-3an-exam-theor_grap1.jpg</div>
+<div class="tree-file">│   │   ├── 📄 exo_graphes .doc</div>
+<div class="tree-file">│   │   ├── 📄 Exercices Algorithme de Dijkstra</div>
+<div class="tree-file">│   │   ├── 📄 graphes relations binaires matrices d'adjacence</div>
+<div class="tree-file">│   │   ├── 📄 Analyse et conception d'un programme de gestion des étudiants</div>
+<div class="tree-file">│   │   ├── 📄 graphes niveaux et coloria ge DUT informatique sem2</div>
+<div class="tree-file">│   │   ├── 📄 graphes langages et automates TD1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Correction TD 5 graphe s1 s5.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD ordonnancement DUT Informatique Mathematiques</div>
+<div class="tree-file">│   │   ├── 📄 parcours en profondeur et en largeur.pdf</div>
+<div class="tree-file">│   │   ├── 📄 graphes-cheminements-d-un-graphe-fermeture-transitive.pdf</div>
+<div class="tree-file">│   │   ├── 📄 graphes et modelisation exercices corriges</div>
+<div class="tree-file">│   │   ├── 📄 graphes-theorie-des-graphes-representation-des-graphes-exercice-1</div>
+<div class="tree-file">│   │   ├── 📄 graphes arbres couvrants énoncés corrigés DUT informatique</div>
+<div class="tree-file">│   │   ├── 📄 Master Mathematiques TD2 graphes connexitè.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Master Mathematiques Introduction a la theorie des graphes TD 3 Connexite Graphes Euleriens Graphes Hamiltoniens</div>
+<div class="tree-file">│   │   ├── 📄 Structure de donnees avancee en C - TD3 énoncés</div>
+<div class="tree-file">│   │   ├── 📄 TD2 TP2 Pile Université Cadi Ayyad</div>
+<div class="tree-file">│   │   ├── 📄 Exercice 0 Profil etudiant v1</div>
+<div class="tree-file">│   │   ├── 📄 Exercice Championnat BDA.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Master Mathematiques 2018 2019 Introduction a la theorie des graphes TD N 1 Les bases de la theorie des graphes</div>
+<div class="tree-file">│   │   ├── 📄 graphes representations algorithmique m1</div>
+<div class="tree-file">│   │   ├── 📄 Cours de Theorie des graphes</div>
+<div class="tree-file">│   │   ├── 📄 Exercice graphe tramway Casa</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 7 Solutions des problèmes</div>
+<div class="tree-file">│   │   ├── 📄 TP1GraphesCalculPlusCourtChemin.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD2_Chemins optimaux dans les graphes</div>
+<div class="tree-file">│   │   ├── 📄 DS Devoir surveille Algorithme de Dijkstra 45 min</div>
+<div class="tree-file">│   │   ├── 📄 INTRODUCTION A LA RECHERCHE OPERATIONNELLE ET A L'OPTIMISATION COMBINATOIRE 2012 2013</div>
+<div class="tree-file">EXAMEN du 22 mai 2013 Duree 3h 2 pages numerotees</div>
+<div class="tree-file">Documents manuscrits ou polycopies autorisees Aucun livre</div>
+<div class="tree-file">│   │   ├── 📄 Master Sciences Technologies Sante Mathematiquesenseignement des mathematiques Algorithmiquegraphes themes du second degre Feuille TD n 2 Exercicesgraphes</div>
+<div class="tree-file">│   │   ├── 📄 graphes TD1 énoncés</div>
+<div class="tree-file">│   │   ├── 📄 graphes representations algorithmique m1</div>
+<div class="tree-file">│   │   ├── 📄 graphes exercices corriges bac tes.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Graphes Nadia Brauner UGA</div>
+<div class="tree-file">│   │   ├── 📄 examen final theorie des graphes M2 info 2019</div>
+<div class="tree-file">│   │   ├── 📄 serie d exercices rop universite paris 8</div>
+<div class="tree-file">│   │   ├── 📄 examen graphes 13 2h sans documents</div>
+<div class="tree-file">│   │   ├── 📄 TD3 Theorie des graphes coloriage chemins</div>
+<div class="tree-file">│   │   ├── 📄 Exercices d'examen sur les graphes niveau L3 avec corriges</div>
+<div class="tree-file">│   │   ├── 📄 TD1 Theorie des graphes M2 IUP MIAGE F12-FE2</div>
+<div class="tree-file">│   │   ├── 📄 Corrigé de l'examen de théorie des graphes L3 2010 2011</div>
+<div class="tree-file">│   │   ├── 📄 Theorie des graphes - Introduction</div>
+<div class="tree-file">│   │   ├── 📄 EPITA L3 informatique graphes TD1 énoncé</div>
+<div class="tree-file">│   │   ├── 📄 examen theorie des graphes EPITA 2016.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Examen Theorie des graphes EPITA ING1 S2 2015 BAARIR</div>
+<div class="tree-file">│   │   ├── 📄 examen theorie des graphes epita 2014 s2</div>
+<div class="tree-file">│   │   ├── 📄 examen theorie des graphes epita 2014.pdf</div>
+<div class="tree-file">│   │   ├── 📄 examen theorie des graphes EPITA 2010.pdf</div>
+<div class="tree-file">│   │   ├── 📄 examen theorie des graphes EPITA 2010.pdf</div>
+<div class="tree-file">│   │   ├── 📄 examen theorie des graphes EPITA 2010.pdf</div>
+<div class="tree-file">│   │   ├── 📄 examen theorie des graphes EPITA 2010.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Exercice et corrigé Diagramme GANTT PERT Préparer un repas</div>
+<div class="tree-file">│   │   ├── 📄 ordonnancement exercices</div>
+<div class="tree-file">│   │   ├── 📄 Correction exercices flot maximum.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Methode Simplexe - Exemples Corriges</div>
+<div class="tree-file">│   │   ├── 📄 Serie d exercices PERT MPM</div>
+<div class="tree-file">│   │   ├── 📄 Methodes d optimisation logistique SMOCH</div>
+<div class="tree-file">│   │   ├── 📄 ORDONNANCEMENT Exercices</div>
+<div class="tree-file">│   │   ├── 📄 Exercice graphe sommets A B C D E F G H I degre 1 2 3 4 5 3 2 1 2</div>
+<div class="tree-file">│   │   ├── 📄 TD n3 - Terminale ES Spe - Les Graphes au Bac.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD01-Terminale-ES-Spe-Graphes-1</div>
+<div class="tree-file">│   │   ├── 📄 TD n2 Terminale ES Spe LesGraphes.pdf</div>
+<div class="tree-file">│   │   ├── 📄 graphes etiquetes exemples</div>
+<div class="tree-file">│   │   ├── 📄 TD n2 Terminale ES Spe LesGraphes.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Exercices Informatique Théorique Théorie des langages</div>
+<div class="tree-file">│   │   ├── 📄 Le problème du plus court chemin - exercices corrigé</div>
+<div class="tree-file">│   │   ├── 📄 TD1 graphe G Inf 1 et GSEII 1</div>
+<div class="tree-file">│   │   ├── 📄 Travaux Dirigés RO03</div>
+<div class="tree-file">│   │   ├── 📄 examen theorie des graphes 2eme annee licence info.pdf</div>
+<div class="tree-file">│   │   ├── 📄 examen theorie des graphes</div>
+<div class="tree-file">│   │   ├── 📄 serie d exercices graphes L2 universite Blida fevrier 2019.pdf</div>
+<div class="tree-file">│   │   ├── 📄 exercice graphe oriente</div>
+<div class="tree-file">│   │   ├── 📄 exercice graphe oriente</div>
+<div class="tree-file">│   │   ├── 📄 exercice graphe oriente</div>
+<div class="tree-file">│   │   ├── 📄 exercice graphe oriente 1ere L</div>
+<div class="tree-file">│   │   ├── 📄 serie exercices graphes théorie graphes</div>
+<div class="tree-file">│   │   ├── 📄 serie d exercices graphes theorie graphes</div>
+<div class="tree-file">│   │   ├── 📄 serie d exercices graphes theorie</div>
+<div class="tree-file">│   │   ├── 📄 Cours theorie des graphes Fès 2019 2020</div>
+<div class="tree-file">│   │   ├── 📄 correction examen theorie des graphes elements de correction</div>
+<div class="tree-file">│   │   ├── 📄 correction theorie des graphes L3 2011 2012.pdf</div>
+<div class="tree-file">│   │   ├── 📄 correction exercice 1 graphe L3 2013.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Devoir de Theorie desGraphes L3 2009.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Exercice Graphe L3 Efrei 2014 2015.pdf</div>
+<div class="tree-file">│   │   ├── 📄 correction examen theorie des graphes L3 2012 2013</div>
+<div class="tree-file">│   │   ├── 📄 Correction de l'examen de théorie des graphes de l'EFREI de 2013</div>
+<div class="tree-file">│   │   ├── 📄 Exercice graphe TD L3 Janvier 2011.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Devoir de Janvier 2010 - L3 Theorie desGraphes</div>
+<div class="tree-file">│   │   ├── 📄 Devoir de Theorie desGraphes L3 2009.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Devoir de Theorie desGraphes L3 2008 2009.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Devoir surveillé écrit Theorie des graphes L3 2008 2009</div>
+<div class="tree-file">│   │   ├── 📄 correction énoncé et résultats tp graphe L3</div>
+<div class="tree-file">│   │   ├── 📄 Devoir de Theorie desGraphes L3 Janvier 2009.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Devoir de Theorie desGraphes L3 2006 2007.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Exercices de Theorie desGraphes L3 2008 2009.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Exercices de Theorie desGraphes L3 2008 2009.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Theorie des graphes non orientes</div>
+<div class="tree-file">│   │   ├── 📄 Analyse etat initial graphe.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Exercices de Theorie desGraphes Efrei Annee 2015 2016.pdf</div>
+<div class="tree-file">│   │   ├── 📄 flot maximal et flot Edmond Karp.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Second Chance énoncés des exercices</div>
+<div class="tree-file">│   │   ├── 📄 Facture-2023-03-08</div>
+<div class="tree-file">│   │   ├── 📄 graphes TD1 énoncés.pdf</div>
+<div class="tree-file">│   │   ├── 📄 ordonnancement recherche plus long chemin</div>
+<div class="tree-file">│   │   ├── 📄 graphes et applications 2011 2012 serie 3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 graphes et applications TD1 énoncés</div>
+<div class="tree-file">│   │   ├── 📄 Graphes et Applications 2011 2012 Exercice 1 et 2.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 sujets/</div>
+<div class="tree-file">│   │   │   ├── 📄 2009-2010 - Sujet.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 2010-2011 - Sujet.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 2012-2013 - Corrigé (non officiel).pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 2012-2013 - Sujet.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 2015-2016 - Sujet.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 2016-2017 - Sujet Session 2.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 2016-2017 - Sujet.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 les annotations sur le document sont possibles.png</div>
+<div class="tree-folder">│   │   └── 📁 img/</div>
+<div class="tree-file">│   │       ├── 📄 Exercices graphe theorie ENSA Fès TD1</div>
+<div class="tree-file">│   │       ├── 📄 exercice graphe simple degre sommets</div>
+<div class="tree-file">│   │       ├── 📄 Université Blida 1 - Interrogation de Théorie des graphes L2</div>
+<div class="tree-file">│   │       ├── 📄 examen theorie des graphes</div>
+<div class="tree-file">│   │       ├── 📄 rattrapage theorie des graphes exercices corriges</div>
+<div class="tree-file">│   │       ├── 📄 Devoir de TD L3 Theorie desGraphes 2015.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Devoir de controle L3 Theorie des graphes Efrei 2015.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Analyse de l'ordonnancement des tâches avec le chemin de valeur minimale</div>
+<div class="tree-file">│   │       ├── 📄 Devoir de Theorie des graphes Janvier 2012.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Devoir de Theorie desGraphes L3 2006 2007.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Devoir de Theorie desGraphes L3 2008.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Theorie des graphes TD1 Exercice 1</div>
+<div class="tree-file">│   │       ├── 📄 Correction d'un TD de mathématiques</div>
+<div class="tree-file">│   │       └── 📄 Analyse de la page de garde d'un document PDF.</div>
+<div class="tree-folder">│   ├── 🔗📁 Programmation linaire - Recherche opérationnelle/  (raccourci)</div>
+<div class="tree-folder">│   │   ├── 🔗📁 Programmation Linéaire/  (raccourci)</div>
+<div class="tree-folder">│   │   │   ├── 📁 TP (2014-2015)/</div>
+<div class="tree-file">│   │   │   │   ├── 📄 TP1.mod</div>
+<div class="tree-file">│   │   │   │   ├── 📄 TP1.run</div>
+<div class="tree-file">│   │   │   │   ├── 📄 TP1.dat</div>
+<div class="tree-folder">│   │   │   │   └── 📁 Question 1 - Partie I/</div>
+<div class="tree-file">│   │   │   │       ├── 📄 TP1.mod</div>
+<div class="tree-file">│   │   │   │       ├── 📄 TP1.dat</div>
+<div class="tree-file">│   │   │   │       └── 📄 TP1.run</div>
+<div class="tree-folder">│   │   │   ├── 📁 TD/</div>
+<div class="tree-file">│   │   │   │   ├── 📄 TD2 - Sujet + Correction.pdf</div>
+<div class="tree-file">│   │   │   │   └── 📄 TD1 - Sujet + Correction.pdf</div>
+<div class="tree-folder">│   │   │   └── 📁 Annales/</div>
+<div class="tree-file">│   │   │       ├── 📄 2013-2014 - Sujet.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 2016-2017 - Sujet.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 2011-2012 - Sujet (UL1, 2012).pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 20##-20## - Sujet.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 2011-2012 - Sujet (UL1, 2011).pdf</div>
+<div class="tree-file">│   │   │       └── 📄 ReadMe.txt</div>
+<div class="tree-folder">│   │   ├── 🔗📁 Programmation Linéaire/  (raccourci)</div>
+<div class="tree-file">│   │   │   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-file">│   │   ├── 📄 Drive module Programmation linaire - Recherche opérationnelle - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">│   │   ├── 🔗📁 ++ SMI5 crs exo et exams Recherche Opérationnelle/  (raccourci)</div>
+<div class="tree-file">│   │   │   ├── 📄 Précis de recherche opérationnelle.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °TD Recherche opérationnelle SMI5 FST TETOUAN 2020.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °TD Recherche opérationnelle SMI5 FST TETOUAN 2016.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °TD Recherche opérationnelle SMI5 FSSM MARRAKECH.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °TD Recherche opérationnelle SMI5 FSR RABAT 20 21.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °TD Recherche opérationnelle SMI5 FSR RABAT 16 17.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °TD Recherche opérationnelle SMI5 FSR RABAT 15 16.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °TD Recherche opérationnelle SMI5 FSO OUAJDA 20 21.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °TD Recherche opérationnelle SMI5 FSDM FES 20 21.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °TD Recherche opérationnelle SMI5 FSBM CASABLANCA 20 21.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °TD Recherche opérationnelle SMI5 FSAC CASABLANCA 20 21.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °TD Recherche opérationnelle SMI5 FPO OUARZAZATE 20 21.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °TD Recherche opérationnelle SMI5 FPO OUARZAZATE 18 19.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °TD Recherche opérationnelle ENCG CASABLANCA.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °EXAMENS Recherche opérationnelle SMI5 FSSM MARRAKECH.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °EXAMENS Recherche opérationnelle SMI5 FSR RABAT.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °Cours Recherche opérationnelle SMI5 FST TETOUAN 20 21.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °Cours Recherche opérationnelle SMI5 FSSM MARRAKECH 20 21.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °COURS Recherche opérationnelle SMI5 FSR RABAT 16 17.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °COURS Recherche opérationnelle SMI5 FSR RABAT 15 16.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °Cours Recherche opérationnelle SMI5 FSO OUAJDA 20 21.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 °COURS Recherche opérationnelle SMI5 FSBM CASABLANCA 18 19.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 °Cours Recherche opérationnelle SMI5 FPK KHOURIBGA.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Cours/</div>
+<div class="tree-file">│   │   │   ├── 📄 Cours OPTIMISATION LINEAIRE</div>
+<div class="tree-file">│   │   │   ├── 📄 Optimisation lineaire avec la methode graphique</div>
+<div class="tree-file">│   │   │   ├── 📄 Optimisation premiere annee ingenieurs</div>
+<div class="tree-file">│   │   │   ├── 📄 M09 Programmation lineaire ENSEA Fès</div>
+<div class="tree-file">│   │   │   ├── 📄 Cours 5 Phase 1 et 2 LIP6</div>
+<div class="tree-file">│   │   │   ├── 📄 Chapitre 3 Methode du Simplexe</div>
+<div class="tree-file">│   │   │   ├── 📄 Support de cours d'optimisation linéaire L1</div>
+<div class="tree-file">│   │   │   ├── 📄 3eme Annee Finance ESSSEC Recherche Operationnelle Serie 1</div>
+<div class="tree-file">│   │   │   ├── 📄 3A Methode en deux phases</div>
+<div class="tree-file">│   │   │   ├── 📄 3.4.3-Methode des deux phases.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Optimisation lineaire TDB.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Cours recherche operationnelle 2007 2008</div>
+<div class="tree-folder">│   │   ├── 📁 Examens/</div>
+<div class="tree-file">│   │   │   ├── 📄 Devoir 2010</div>
+<div class="tree-file">│   │   │   ├── 📄 Devoir surveillé nº 1 donné le 23-05-2013</div>
+<div class="tree-file">│   │   │   ├── 📄 Corrigé des exercices d'optimisation Inéaire</div>
+<div class="tree-file">│   │   │   ├── 📄 Corrigé des exercices d'optimisation linéaire</div>
+<div class="tree-file">│   │   │   ├── 📄 EMD Module: Programmation linéaire</div>
+<div class="tree-file">│   │   │   ├── 📄 Epreuve de Rattrapage Module: Programmation linéaire</div>
+<div class="tree-file">│   │   │   ├── 📄 Correction Examen RO Juin 2016</div>
+<div class="tree-file">│   │   │   ├── 📄 CORRECTION EXAMEN DE RECHERCHE OPÉRATIONNELLE (3ème EFB) Session principale (Mai 2014)</div>
+<div class="tree-file">│   │   │   ├── 📄 Correction Examen Recherche Opérationnelle (3ème EMFB) Session principale (Mai 2016</div>
+<div class="tree-file">│   │   │   ├── 📄 Controle</div>
+<div class="tree-file">│   │   │   ├── 📄 Examen </div>
+<div class="tree-file">│   │   │   ├── 📄 Mini project </div>
+<div class="tree-file">│   │   │   ├── 📄 Examen corrigé Recherche Operationnelle Juin 2012</div>
+<div class="tree-file">│   │   │   ├── 📄 Drive module Programmation linaire - Recherche opérationnelle - cours, exercices corrigés et examens.txt</div>
+<div class="tree-file">│   │   │   ├── 📄 examen recherche operationnelle juin 2016</div>
+<div class="tree-file">│   │   │   ├── 📄 Devoir de mathématiques Optimisation Linéaire</div>
+<div class="tree-file">│   │   │   ├── 📄 Examen de recherche operationnelle session de mai 2014</div>
+<div class="tree-file">│   │   │   ├── 📄 examen recherche operationnelle mai 2014.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Examen recherche operationnelle session juin 2011.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 examen recherche operationnelle juin 2010.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Examen L3 FSEG Tunis Mathematiques Juin 2017</div>
+<div class="tree-file">│   │   │   ├── 📄 Examen de recherche operationnelle Juin 2017</div>
+<div class="tree-file">│   │   │   ├── 📄 examen recherche operationnelle emfb mai 2016.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 examen recherche operationnelle session principale mai 2015.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 examen recherche operationnelle juin 2016.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 examen recherche operationnelle lff juin 2013.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 examen recherche operationnelle juin 2015.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Examen RO 2015 M1.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Correction Examen Recherche Operationnelle 3eme EMFB Session principale Mai 2016.pdf</div>
+<div class="tree-folder">│   │   └── 📁 TD et exercices corrigés/</div>
+<div class="tree-file">│   │       ├── 📄 Exo révision </div>
+<div class="tree-file">│   │       ├── 📄 Recherche Opérationnelle Série n°2</div>
+<div class="tree-file">│   │       ├── 📄 TD 2 Programmation linéaire et optimisation (Méthode du simplexe)</div>
+<div class="tree-file">│   │       ├── 📄 Td ORDONNANCEMENT DE PROJET</div>
+<div class="tree-file">│   │       ├── 📄 Exemple resolution Optimisation premiere annee ingenieurs</div>
+<div class="tree-file">│   │       ├── 📄 Exemples méthode résolution </div>
+<div class="tree-file">│   │       ├── 📄 Td</div>
+<div class="tree-file">│   │       ├── 📄 Tp Notice OpenSolver</div>
+<div class="tree-file">│   │       ├── 📄 TD 3 Programmation linéaire et optimisation (Méthode du simplexe: cas particuliers et utilisation de solveurs)</div>
+<div class="tree-file">│   │       ├── 📄 TD 4 Programmation linéaire et optimisation Méthode des 2 phases, Méthode de pénalités (ou Méthode du Grand M)</div>
+<div class="tree-file">│   │       ├── 📄 CORRIGE du TD Nº1 : PROGRAMMATION LINÉAIRE</div>
+<div class="tree-file">│   │       ├── 📄 Correction de quelques exercices de TD</div>
+<div class="tree-file">│   │       ├── 📄 CORRIGE de TD N 4: ORDONNANCEMENT DE PROJET</div>
+<div class="tree-file">│   │       ├── 📄 CORRIGE du TD N°4: ORDONNANCEMENT DE</div>
+<div class="tree-file">│   │       ├── 📄 CORRIGE du TD N°3: PROGRAMMATION LINEAIRE</div>
+<div class="tree-file">│   │       ├── 📄 Td THÉORIE DES GRAPHES ET APPLICATIONS</div>
+<div class="tree-file">│   │       ├── 📄 Td PROGRAMMATION LINÉAIRE: SIMPLEXE ET DUALITÉ</div>
+<div class="tree-file">│   │       ├── 📄 Td Chapitre 3 Programmation linéaire Exercices corrigés</div>
+<div class="tree-file">│   │       ├── 📄 TD PROGRAMMATION LINÉAIRE: MODÉLISATION</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre 1 TD Yassine Hacha"ichi Theorie des graphes et applications</div>
+<div class="tree-file">│   │       ├── 📄 TD1 </div>
+<div class="tree-file">│   │       ├── 📄 Tp5 programmation linéaire et régression MAD</div>
+<div class="tree-file">│   │       ├── 📄 Recherche Operationnelle Serie 3</div>
+<div class="tree-file">│   │       ├── 📄 Serie exercices 3 Recherche Operationnelle Serie 3</div>
+<div class="tree-file">│   │       ├── 📄 Serie exo 1 3eme Annee Finance Recherche Operationnelle Serie 1</div>
+<div class="tree-file">│   │       ├── 📄 Exercices Optimisation Linéaire TD1</div>
+<div class="tree-file">│   │       ├── 📄 Programmation linéaire TD1 énoncé</div>
+<div class="tree-file">│   │       ├── 📄 Programmation linéaire TD1 énoncé</div>
+<div class="tree-file">│   │       ├── 📄 Exercice programmation linéaire</div>
+<div class="tree-file">│   │       ├── 📄 TD N°4 Ordonnancement de Projet</div>
+<div class="tree-file">│   │       ├── 📄 TD5 Programmation linéaire et optimisation.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD2 Recherche operationnelle et Optimisation 2eme annee ing mecatronique Yassine Hachaichi.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Exercices programmation linéaire</div>
+<div class="tree-file">│   │       ├── 📄 TD5 Programmation linéaire et optimisation.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Exercices de TD - Modelisation</div>
+<div class="tree-file">│   │       ├── 📄 TD6 Programmation linéaire en nombres entiers</div>
+<div class="tree-file">│   │       ├── 📄 Optimisation linéaire TD1 EISI</div>
+<div class="tree-file">│   │       ├── 📄 Exercices Optimisation Linéaire TD1.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD1 optimisation programmation lineaire et optimisation.pdf</div>
+<div class="tree-file">│   │       ├── 📄 exemple resolution d'un PL avec la methode des 2 phases</div>
+<div class="tree-file">│   │       ├── 📄 Optimisation lineaire avec la methode graphique</div>
+<div class="tree-file">│   │       ├── 📄 Optimisation linéaire TD3 énoncés.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Optimisation lineaire TD 5 - Probleme du jardinier</div>
+<div class="tree-file">│   │       ├── 📄 Exercice programmation lineaire M09 G1 et G2</div>
+<div class="tree-file">│   │       ├── 📄 Correction TD RO Analyse de donnees.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Exercices programmation lineaire G1 GSE G3.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Exercice de programmation linéaire Blida 05 09 2007.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Exercice programmation lineaire G1 GSE et GTR</div>
+<div class="tree-file">│   │       ├── 📄 Exercices de programmation linéaire.pdf</div>
+<div class="tree-file">│   │       └── 📄 Exercice programmation lineaire TD S1.pdf</div>
+<div class="tree-folder">│   ├── 🔗📁 °TD Recherche opérationnelle SMI5 FPO OUARZAZATE 18 19.pdf/  (raccourci)</div>
+<div class="tree-folder">│   ├── 🔗📁 °TD Recherche opérationnelle ENCG CASABLANCA.pdf/  (raccourci)</div>
+<div class="tree-folder">│   └── 🔗📁 °EXAMENS Recherche opérationnelle SMI5 FSR RABAT.pdf/  (raccourci)</div>
+<div class="tree-folder">└── 🔗📁 ++ SMI5 Recherche Opérationnelle SABORPCMATH.COM/  (raccourci)</div>
+<div class="tree-file">    └── ⚠️  [Référence circulaire ignorée]</div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     HOW TO ORDER
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Recherche opérationnelle</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FAQ
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Recherche opérationnelle</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Recherche opérationnelle ?</summary>
+      <p>
+        Le module <strong>Recherche opérationnelle</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Recherche opérationnelle ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Recherche opérationnelle</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Recherche opérationnelle correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     CTA FINAL
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Recherche opérationnelle</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════ -->
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>

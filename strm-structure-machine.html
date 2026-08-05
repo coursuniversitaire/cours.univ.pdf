@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- ═══ SEO Primary ═══ -->
+  <title>STRM Structure Machine — Cours PDF, TD & Examens Corrigés | CoursUni</title>
+  <meta name="description" content="Téléchargez le module STRM Structure Machine : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta name="keywords"    content="STRM Structure Machine, cours STRM Structure Machine pdf, td corrigés STRM Structure Machine, examen corrigé STRM Structure Machine, module STRM Structure Machine université, polycopié STRM Structure Machine, exercices corrigés STRM Structure Machine, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/strm-structure-machine.html" />
+
+  <!-- ═══ Open Graph ═══ -->
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="STRM Structure Machine — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta property="og:description" content="Téléchargez le module STRM Structure Machine : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/strm-structure-machine.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <!-- ═══ Twitter Card ═══ -->
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="STRM Structure Machine — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta name="twitter:description" content="Téléchargez le module STRM Structure Machine : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+
+  <!-- ═══ Robots ═══ -->
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-05" />
+
+  <!-- ═══ Schema.org JSON-LD ═══ -->
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"STRM Structure Machine","item":"https://coursuniversitaire.github.io/cours.univ.pdf/strm-structure-machine.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module STRM Structure Machine ?","acceptedAnswer":{"@type":"Answer","text":"Le module STRM Structure Machine contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module STRM Structure Machine ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module STRM Structure Machine correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    /* ═══════════════════════════════════════
+       Design tokens — matches CoursUni site
+       ═══════════════════════════════════════ */
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ── */
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    /* ── Nav ── */
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* ── Breadcrumb ── */
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    /* ── Hero ── */
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.55rem; font-weight: 700; margin-bottom: 28px;
+    }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    /* ── Cards grid ── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    /* ── Drive tree ── */
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    /* ── Steps ── */
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    /* ── FAQ ── */
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    /* ── Trust bar ── */
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    /* ── CTA section ── */
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    /* ── Footer ── */
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════
+     NAV
+════════════════════════════════════════ -->
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ════════════════════════════════════════
+     HERO
+════════════════════════════════════════ -->
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>STRM Structure Machine</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>STRM Structure Machine</em><br />
+      Cours, TD et exercices corrigés STRM Structure Machine pdf &amp; Examens Corripdf
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>STRM Structure Machine</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.
+      Accès immédiat.
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">1</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     WHAT YOU GET
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">STRM Structure Machine</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés STRM Structure Machine</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     DRIVE TREE
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">STRM Structure Machine</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module STRM Structure Machine">
+<div class="tree-file">├── 📄 Drive module STRM Structure Machine - cours, exercices corrigés et examens.txt</div>
+<div class="tree-file">├── 📄 STRM-20260508T203331Z-3-001.zip</div>
+<div class="tree-folder">├── 🔗📁 STR M/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Corrigé-EMD-S2-2020.pdf</div>
+<div class="tree-file">│   ├── 📄 Answers2.pdf</div>
+<div class="tree-file">│   ├── 📄 Questions2.pdf</div>
+<div class="tree-file">│   ├── 📄 Revision 1 (Q&amp;A).pdf</div>
+<div class="tree-file">│   ├── 📄 Revision 2 (Rattrapage 2015-emd2014).pdf</div>
+<div class="tree-folder">│   ├── 📁 Videos/</div>
+<div class="tree-file">│   │   └── 📄 TD STRM Questions des étudiants-2020-08-30 12-38-1.mp4</div>
+<div class="tree-folder">│   ├── 📁 Sujets d'examens/</div>
+<div class="tree-file">│   │   ├── 📄 rattr S2 2017-2018.pdf</div>
+<div class="tree-file">│   │   ├── 📄 rattr S2 2016-2017.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EMD S2 2016-2017.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EMD S2 2017-2018.pdf</div>
+<div class="tree-file">│   │   ├── 📄 examens.rar</div>
+<div class="tree-file">│   │   ├── 📄 EMD S2 2018-2019.pdf</div>
+<div class="tree-file">│   │   ├── 📄 rattr S2 2018-2019.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EMD S2 2014-2015.pdf</div>
+<div class="tree-file">│   │   └── 📄 rattr S2 2015-2016.pdf</div>
+<div class="tree-folder">│   ├── 📁 La Machine Pédagogique /</div>
+<div class="tree-file">│   │   ├── 📄 Jeu d'instructions machine pédagogique</div>
+<div class="tree-file">│   │   ├── 📄 Jeu d'instructions machine pédagogique.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Resumé Machine Pedagogique(décompresser et ouvrir le fichier index-html).zip</div>
+<div class="tree-file">│   │   ├── 📄 Machine Pédagogique.pdf</div>
+<div class="tree-folder">│   │   └── 📁 Série 6 /</div>
+<div class="tree-file">│   │       ├── 📄 STR M (TD 28_06_2020 06) Section 1 (USTHB).mp4</div>
+<div class="tree-file">│   │       ├── 📄 exo3 serie 6.pdf</div>
+<div class="tree-file">│   │       ├── 📄 exo2 serie 6.pptx</div>
+<div class="tree-file">│   │       ├── 📄 exo1 serie 6.pptx</div>
+<div class="tree-file">│   │       └── 📄 serie 6_2018_2019.pdf</div>
+<div class="tree-folder">│   ├── 📁 Les Mémoires/</div>
+<div class="tree-file">│   │   ├── 📄 Mémoires(Partie1-décompresser et ouvrir le fichier index-html).zip</div>
+<div class="tree-file">│   │   ├── 📄 Les mémoires.pdf</div>
+<div class="tree-folder">│   │   └── 📁 Série 5 /</div>
+<div class="tree-file">│   │       ├── 📄 exo6 serie 5-presentation.pptx</div>
+<div class="tree-file">│   │       ├── 📄 exo4 serie 5-presentation.pdf</div>
+<div class="tree-file">│   │       ├── 📄 exo3 serie 5-presentation.pptx</div>
+<div class="tree-file">│   │       ├── 📄 exo2 serie 5-presentation.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD-STRM 2020-06-07-13-38-12.mp4</div>
+<div class="tree-file">│   │       ├── 📄 TD-STRM 2020-05-31-13-26-34.mp4</div>
+<div class="tree-file">│   │       ├── 📄 Corrige serie n°5 2017.2018.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Série n°5 2017.2018.pdf</div>
+<div class="tree-file">│   │       └── 📄 serie 5_2018_2019.pdf</div>
+<div class="tree-folder">│   └── 📁 Les circuits séquentiels /</div>
+<div class="tree-file">│       ├── 📄 Les circuits sequentiels.pdf</div>
+<div class="tree-folder">│       └── 📁 Série 4 /</div>
+<div class="tree-file">│           ├── 📄 exo9-serie4.mov</div>
+<div class="tree-file">│           ├── 📄 exo8-serie4.mov</div>
+<div class="tree-file">│           ├── 📄 Solution_Exo_8.pdf</div>
+<div class="tree-file">│           ├── 📄 Solution_Exo_6.pdf</div>
+<div class="tree-file">│           ├── 📄 Solution_Exo_4.pdf</div>
+<div class="tree-file">│           ├── 📄 Serie n°4 corrige-19-20-1.pdf</div>
+<div class="tree-file">│           ├── 📄 SérieTD1-Corrigé (14/03/2020).pdf</div>
+<div class="tree-file">│           └── 📄 SérieTD1.pdf</div>
+<div class="tree-folder">├── 🔗📁 STRM/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Sujets/</div>
+<div class="tree-file">│   │   ├── 📄 Corrigé ratt-2019.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Sujet-8-rattrapage S2_2017-2018.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Sujet-7-rattrapage S2_2016-2017.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Sujet-6-rattr S2 2015-2016.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Sujet-5-EMD_S2 2017-2018.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Sujet-4-EMD2_2016_2017.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Sujet-3 -EMD S2 2014-2015.pdf</div>
+<div class="tree-file">│   │   ├── 📄 sujet-2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 sujet-1.pdf</div>
+<div class="tree-file">│   │   └── 📄 Exam_S2 19.pdf</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-folder">│   │   ├── 📁 Série 5/</div>
+<div class="tree-file">│   │   │   ├── 📄 Série n°5 corrigé.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 serie 5_2019_2020.docx</div>
+<div class="tree-folder">│   │   ├── 📁 Série 6/</div>
+<div class="tree-file">│   │   │   ├── 📄 Serie n°6 corrigé-final-18.06.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 serie 6_2019_2020.docx</div>
+<div class="tree-folder">│   │   ├── 📁 Série 4/</div>
+<div class="tree-file">│   │   │   ├── 📄 Serie n°4 corrige-final-19-20.pdf</div>
+<div class="tree-folder">│   │   │   └── 📁 série 4/</div>
+<div class="tree-file">│   │   │       ├── 📄 IMG_20200605_092200.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 IMG_20200605_092319.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 IMG_20200605_092252.jpg</div>
+<div class="tree-file">│   │   │       └── 📄 IMG_20200605_092237.jpg</div>
+<div class="tree-folder">│   │   ├── 📁 Exo8 (les compteurs) /</div>
+<div class="tree-file">│   │   │   ├── 📄 20200417_194912.jpg</div>
+<div class="tree-file">│   │   │   └── 📄 20200417_194827.jpg</div>
+<div class="tree-folder">│   │   └── 📁 Devoirs/</div>
+<div class="tree-folder">│   │       ├── 📁 Devoir2/</div>
+<div class="tree-file">│   │       │   ├── 📄 Corrigé du devoir 2.pdf</div>
+<div class="tree-file">│   │       │   └── 📄 Devoir 2.docx</div>
+<div class="tree-folder">│   │       └── 📁 Devoir 1/</div>
+<div class="tree-file">│   │           ├── 📄 received_539541240269021.png</div>
+<div class="tree-file">│   │           ├── 📄 received_2981492191906898.png</div>
+<div class="tree-file">│   │           └── 📄 exo-test.docx</div>
+<div class="tree-folder">│   └── 📁 Cours /</div>
+<div class="tree-file">│       ├── 📄 chapitre6-version-finale-machinepédagogique.pdf</div>
+<div class="tree-file">│       ├── 📄 Chapitre 5-Mémoire(final).pdf</div>
+<div class="tree-file">│       ├── 📄 Les registres-final.pdf</div>
+<div class="tree-folder">│       └── 📁 Les compteurs/</div>
+<div class="tree-file">│           ├── 📄 les compteurs.pdf</div>
+<div class="tree-file">│           ├── 📄 FB_IMG_15846473859713383.jpg</div>
+<div class="tree-file">│           ├── 📄 FB_IMG_15846473711483432.jpg</div>
+<div class="tree-file">│           ├── 📄 FB_IMG_15846473808184854.jpg</div>
+<div class="tree-file">│           └── 📄 FB_IMG_15846473641296036.jpg</div>
+<div class="tree-folder">├── 🔗📁 strm/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Serie n°4 corrige-19-20-1.pdf</div>
+<div class="tree-file">│   └── 📄 hadji-circuits-sequentiels.pdf</div>
+<div class="tree-folder">├── 🔗📁 STRM/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 EMD2-2014-2015.pdf</div>
+<div class="tree-folder">│   ├── 📁 Sujets/</div>
+<div class="tree-file">│   │   ├── 📄 ETLD2 Structure machine + corrigé.pdf</div>
+<div class="tree-file">│   │   └── 📄 ETLD_MI_S2_STRM_2015_2016_corrige_.pdf</div>
+<div class="tree-folder">│   ├── 📁 Structure Machine/</div>
+<div class="tree-file">│   │   ├── 📄 m.ini</div>
+<div class="tree-file">│   │   ├── 📄 Desktop.ini</div>
+<div class="tree-folder">│   │   ├── 📁 book/</div>
+<div class="tree-file">│   │   │   ├── 📄 Thumbs.db</div>
+<div class="tree-file">│   │   │   ├── 📄 Desktop.ini</div>
+<div class="tree-file">│   │   │   ├── 📄 m.ini</div>
+<div class="tree-folder">│   │   │   └── 📁 algebre de boole &amp; fonction logique/</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-048.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-044.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-042.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-041.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-040.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-039.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-038.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-037.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-036.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-035.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-034.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-033.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-032.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-031.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-030.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-029.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-028.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-027.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-026.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-025.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-024.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-023.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-022.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-021.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-020.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-019.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-018.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-017.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-016.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-015.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-014.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-013.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-012.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-011.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-010.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-009.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-008.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-007.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-006.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-005.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-003.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-002.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-043.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 Alg-Boole''PageBleues''-001.jpg</div>
+<div class="tree-file">│   │   │       └── 📄 Thumbs.db</div>
+<div class="tree-folder">│   │   ├── 📁 solutions/</div>
+<div class="tree-folder">│   │   ├── 📁 exercice/</div>
+<div class="tree-file">│   │   │   ├── 📄 Desktop.ini</div>
+<div class="tree-file">│   │   │   └── 📄 m.ini</div>
+<div class="tree-folder">│   │   └── 📁 solutions strm/</div>
+<div class="tree-file">│   │       ├── 📄 9.jpg</div>
+<div class="tree-file">│   │       ├── 📄 7.jpg</div>
+<div class="tree-file">│   │       ├── 📄 4.jpg</div>
+<div class="tree-file">│   │       ├── 📄 3.jpg</div>
+<div class="tree-file">│   │       ├── 📄 20160323_195143.jpg</div>
+<div class="tree-file">│   │       ├── 📄 20160323_195133.jpg</div>
+<div class="tree-file">│   │       ├── 📄 20160323_195125.jpg</div>
+<div class="tree-file">│   │       ├── 📄 20160323_195116.jpg</div>
+<div class="tree-file">│   │       ├── 📄 20160323_195105.jpg</div>
+<div class="tree-file">│   │       ├── 📄 20160323_195046.jpg</div>
+<div class="tree-file">│   │       ├── 📄 20160323_195040.jpg</div>
+<div class="tree-file">│   │       ├── 📄 20160323_195021.jpg</div>
+<div class="tree-file">│   │       └── 📄 2.jpg</div>
+<div class="tree-folder">│   ├── 📁 TD-ALGER1/</div>
+<div class="tree-file">│   │   ├── 📄 série1-circuits-combinatoire.pdf</div>
+<div class="tree-file">│   │   ├── 📄 corrigé_controlMI_S2_2015_2016.pdf</div>
+<div class="tree-file">│   │   ├── 📄 serie2-strm.pdf</div>
+<div class="tree-file">│   │   ├── 📄 corrige-serie3-compteurs.pdf</div>
+<div class="tree-file">│   │   ├── 📄 serie 3 compteur_registre.pdf</div>
+<div class="tree-folder">│   │   └── 📁 Sol STRM Serie 1/</div>
+<div class="tree-folder">│   │       ├── 📁 Partie1/</div>
+<div class="tree-file">│   │       │   ├── 📄 6.jpg</div>
+<div class="tree-file">│   │       │   ├── 📄 5.jpg</div>
+<div class="tree-file">│   │       │   ├── 📄 4.jpg</div>
+<div class="tree-file">│   │       │   ├── 📄 3.jpg</div>
+<div class="tree-file">│   │       │   ├── 📄 2.jpg</div>
+<div class="tree-file">│   │       │   └── 📄 1.jpg</div>
+<div class="tree-folder">│   │       └── 📁 Partie2/</div>
+<div class="tree-file">│   │           ├── 📄 4.jpg</div>
+<div class="tree-file">│   │           ├── 📄 3.jpg</div>
+<div class="tree-file">│   │           ├── 📄 2.jpg</div>
+<div class="tree-file">│   │           └── 📄 1.jpg</div>
+<div class="tree-folder">│   ├── 📁 COURS/</div>
+<div class="tree-file">│   │   ├── 📄 structure machine V3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 archi-ordinateur.ppt</div>
+<div class="tree-file">│   │   ├── 📄 Circuits combinatoires.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 MME TOUIL/</div>
+<div class="tree-file">│   │   │   ├── 📄 chapitre4-5-strm.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Archi_ordinateurs_MI_2015_2016.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Circuits combinatoires - Mme TOUIL.pdf</div>
+<div class="tree-folder">│   │   └── 📁 Cours/</div>
+<div class="tree-folder">│   │       ├── 📁 2/</div>
+<div class="tree-file">│   │       │   ├── 📄 Rappels d'algèbre de Boole.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 pdf_BOOLE.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 Initiation au Systeme Binaire.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 CIRCUITS COMBINATOIRES_1.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 circuit combinatoire.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 ALGEBRE DE BOOLE BINAIRE.pdf</div>
+<div class="tree-file">│   │       │   └── 📄 Algèbre de Boolel.pdf</div>
+<div class="tree-folder">│   │       └── 📁 1/</div>
+<div class="tree-file">│   │           ├── 📄 ch4_2004V1.ppt</div>
+<div class="tree-file">│   │           ├── 📄 ch1_systemenumeration.ppt</div>
+<div class="tree-file">│   │           ├── 📄 ch9_miasm.ppt</div>
+<div class="tree-file">│   │           ├── 📄 ch7_memoires.ppt</div>
+<div class="tree-file">│   │           ├── 📄 ch3_algebreboole.ppt</div>
+<div class="tree-file">│   │           ├── 📄 ch8_architecture.ppt</div>
+<div class="tree-file">│   │           ├── 📄 ch6_pal_fpla.ppt</div>
+<div class="tree-file">│   │           ├── 📄 ch4_circuitscombinatoires.ppt</div>
+<div class="tree-file">│   │           └── 📄 ch2_representation.ppt</div>
+<div class="tree-folder">│   └── 📁 EXERCICES/</div>
+<div class="tree-file">│       ├── 📄 EMD9899.pdf</div>
+<div class="tree-file">│       └── 📄 EMD0405.pdf</div>
+<div class="tree-folder">├── 🔗📁 Structure machine /  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 cours/</div>
+<div class="tree-folder">│   └── 📁 TD/</div>
+<div class="tree-file">│       ├── 📄 série 1.pdf</div>
+<div class="tree-file">│       ├── 📄 serie 3.pdf</div>
+<div class="tree-file">│       └── 📄 serie 2.pdf</div>
+<div class="tree-folder">├── 🔗📁 Structure machine 2/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Soluce-Serie-1</div>
+<div class="tree-file">│   ├── 📄 UFAS structure  Chapitre-1.pdf</div>
+<div class="tree-file">│   ├── 📄 UFAS structure Chapitre-2.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre 3 Algèbre de Boole.pdf</div>
+<div class="tree-file">│   ├── 📄 circuit combinatoire.pdf</div>
+<div class="tree-file">│   └── 📄 Sm2_Gzl.pdf</div>
+<div class="tree-folder">├── 🔗📁 Structure machine 1/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 reels.pdf</div>
+<div class="tree-file">│   ├── 📄 polycopie_SM_chap1_2019.pdf</div>
+<div class="tree-file">│   ├── 📄 chap2_14_10_2019.pdf</div>
+<div class="tree-file">│   ├── 📄 polycopie_SM_mod.pdf</div>
+<div class="tree-file">│   ├── 📄 Examen Structure Machine univ Bouira 2017.pdf</div>
+<div class="tree-file">│   ├── 📄 algebreBoole.pdf</div>
+<div class="tree-file">│   ├── 📄 ALGEBRE DE BOOLE BINAIRE.pdf</div>
+<div class="tree-file">│   ├── 📄 Algèbre de Boole-Eric Cariou.pdf</div>
+<div class="tree-file">│   ├── 📄 Algèbre de Boolel.pdf</div>
+<div class="tree-file">│   ├── 📄 serie_4TD.pdf</div>
+<div class="tree-file">│   ├── 📄 serie_3_TD.pdf</div>
+<div class="tree-file">│   ├── 📄 chap4_2019.pdf</div>
+<div class="tree-file">│   ├── 📄 chapitre1_SM.pdf</div>
+<div class="tree-file">│   ├── 📄 chap_3.pdf</div>
+<div class="tree-file">│   └── 📄 chapitre_2_SM.pdf</div>
+<div class="tree-folder">├── 🔗📁 Structure machine/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Chapitre 01.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre 02.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapite02.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapite03.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapite04.pdf</div>
+<div class="tree-file">│   └── 📄 Chapite01.pdf</div>
+<div class="tree-folder">└── 🔗📁 Structure Machine/  (raccourci)</div>
+<div class="tree-file">    └── ⚠️  [Référence circulaire ignorée]</div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     HOW TO ORDER
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>STRM Structure Machine</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FAQ
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">STRM Structure Machine</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module STRM Structure Machine ?</summary>
+      <p>
+        Le module <strong>STRM Structure Machine</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module STRM Structure Machine ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>STRM Structure Machine</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module STRM Structure Machine correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     CTA FINAL
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">STRM Structure Machine</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════ -->
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>

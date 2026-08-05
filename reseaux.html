@@ -1,0 +1,1534 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- ═══ SEO Primary ═══ -->
+  <title>RESEAUX — Cours PDF, TD & Examens Corrigés | CoursUni</title>
+  <meta name="description" content="Téléchargez le module RESEAUX : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta name="keywords"    content="RESEAUX, cours RESEAUX pdf, td corrigés RESEAUX, examen corrigé RESEAUX, module RESEAUX université, polycopié RESEAUX, exercices corrigés RESEAUX, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/reseaux.html" />
+
+  <!-- ═══ Open Graph ═══ -->
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="RESEAUX — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta property="og:description" content="Téléchargez le module RESEAUX : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/reseaux.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <!-- ═══ Twitter Card ═══ -->
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="RESEAUX — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta name="twitter:description" content="Téléchargez le module RESEAUX : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+
+  <!-- ═══ Robots ═══ -->
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-05" />
+
+  <!-- ═══ Schema.org JSON-LD ═══ -->
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"RESEAUX","item":"https://coursuniversitaire.github.io/cours.univ.pdf/reseaux.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module RESEAUX ?","acceptedAnswer":{"@type":"Answer","text":"Le module RESEAUX contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module RESEAUX ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module RESEAUX correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    /* ═══════════════════════════════════════
+       Design tokens — matches CoursUni site
+       ═══════════════════════════════════════ */
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ── */
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    /* ── Nav ── */
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* ── Breadcrumb ── */
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    /* ── Hero ── */
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.55rem; font-weight: 700; margin-bottom: 28px;
+    }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    /* ── Cards grid ── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    /* ── Drive tree ── */
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    /* ── Steps ── */
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    /* ── FAQ ── */
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    /* ── Trust bar ── */
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    /* ── CTA section ── */
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    /* ── Footer ── */
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════
+     NAV
+════════════════════════════════════════ -->
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ════════════════════════════════════════
+     HERO
+════════════════════════════════════════ -->
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>RESEAUX</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>RESEAUX</em><br />
+      Cours, TD et exercices corrigés RESEAUX pdf &amp; Examens Corripdf
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>RESEAUX</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.
+      Accès immédiat.
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">28</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">26</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">23</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">31</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     WHAT YOU GET
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">RESEAUX</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés RESEAUX</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     DRIVE TREE
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">RESEAUX</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module RESEAUX">
+<div class="tree-folder">├── 🔗📁 Réseaux/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Fiches/</div>
+<div class="tree-file">│   │   ├── 📄 Fiches Thomas 4-IR.pdf</div>
+<div class="tree-file">│   │   └── 📄 Fiche Reseau Leo.pdf</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-file">│   │   ├── 📄 Correction TD IMACS Réseaux (merci mystérieuse IMACS).pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TD3-4/</div>
+<div class="tree-file">│   │   │   ├── 📄 TD3 - Correction étudiant.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD3_4 Corrigé.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 TD3_4.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TD1/</div>
+<div class="tree-file">│   │   │   ├── 📄 TD1 - Correction étudiant.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD1 Corrigé.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 TD1.pdf</div>
+<div class="tree-folder">│   │   └── 📁 TD2/</div>
+<div class="tree-file">│   │       ├── 📄 TD2 - Correction étudiant.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD2 Corrigé.pdf</div>
+<div class="tree-file">│   │       └── 📄 TD2.pdf</div>
+<div class="tree-folder">│   ├── 📁 TP (2014-2015)/</div>
+<div class="tree-file">│   │   ├── 📄 Sujet-TP-Intro-aux-Réseaux.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP_Intro_Reseaux_3A_MIC_D2_PANNAUD_SOUALEM.odt</div>
+<div class="tree-file">│   │   └── 📄 CR_TP_RZO_ORFILA_MARCHISET.odt</div>
+<div class="tree-folder">│   ├── 📁 Annales/</div>
+<div class="tree-file">│   │   ├── 📄 2004-2005 Sujet.pdf</div>
+<div class="tree-file">│   │   ├── 📄 2005-2006 Sujet.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Reseaux-2017.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Reseaux-2016.pdf</div>
+<div class="tree-file">│   │   └── 📄 2013-2014 - Correction.pdf</div>
+<div class="tree-folder">│   └── 📁 Cours/</div>
+<div class="tree-file">│       ├── 📄 Corrigé Exos Poly.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours.pdf</div>
+<div class="tree-folder">│       └── 📁 Questions Cours/</div>
+<div class="tree-file">│           ├── 📄 Préparation partiel Intro réseaux 3MIC.pdf</div>
+<div class="tree-file">│           └── 📄 Reseaux-Questions-Annales.pdf</div>
+<div class="tree-folder">├── 🔗📁 Réseaux/  (raccourci)</div>
+<div class="tree-file">│   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">├── 🔗📁 Réseaux/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-file">│   │   ├── 📄 04-Série_d'éxercices_4-_Version_3-Chapit (3).docx</div>
+<div class="tree-file">│   │   ├── 📄 Série4_corrigé.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Série 2-Réseau-Solution.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 subnetting-Solution.pdf</div>
+<div class="tree-file">│   │   └── 📄 TD3.pdf</div>
+<div class="tree-folder">│   ├── 📁 TP/</div>
+<div class="tree-file">│   │   ├── 📄 TP3-Initiationréseau.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP5-Configuration de VLANs Dans Packet Tracer.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP4-Routage statique et Routage dynamique (1).pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP2-Initiation réseau(protocoles couche applicatif.pdf</div>
+<div class="tree-file">│   │   └── 📄 TP1-Série de premier contact avec Packet tracer.pdf</div>
+<div class="tree-folder">│   ├── 📁 examen/</div>
+<div class="tree-file">│   │   ├── 📄 Corrigé ExamenRéseau 19-20.pdf</div>
+<div class="tree-file">│   │   ├── 📄 examen réseau 19_20.pdf</div>
+<div class="tree-file">│   │   └── 📄 examen corrige.pdf</div>
+<div class="tree-folder">│   └── 📁 cours/</div>
+<div class="tree-file">│       ├── 📄 CH3-La couche Physique.pdf</div>
+<div class="tree-file">│       ├── 📄 CH4-La couche Liaison de Données.pdf</div>
+<div class="tree-file">│       └── 📄 4c1e9f_e8cec6d4e31845aea882447e6dd6e5b2.pdf</div>
+<div class="tree-file">├── 📄 Drive module RESEAUX - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 RÉSEAUX/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 TP-RÉSEAUX AOUDIA-ABBAS/</div>
+<div class="tree-file">│   │   ├── 📄 TEST_TP_G04</div>
+<div class="tree-folder">│   │   ├── 📁 TP Aoudia/</div>
+<div class="tree-file">│   │   │   ├── 📄 Série 2 de tp routage stat et dyn- partie2-b.pkt</div>
+<div class="tree-file">│   │   │   ├── 📄 TP1.pkt</div>
+<div class="tree-file">│   │   │   ├── 📄 Série 2 de tp routage stat et dyn- partie3.pkt</div>
+<div class="tree-file">│   │   │   ├── 📄 TP2.pkt</div>
+<div class="tree-file">│   │   │   ├── 📄 Série 2 de tp routage stat et dyn- partie2-a.pkt</div>
+<div class="tree-file">│   │   │   └── 📄 Série 2 de tp routage stat et dyn- partie 1.pkt</div>
+<div class="tree-folder">│   │   └── 📁 TP Abbas/</div>
+<div class="tree-file">│   │       ├── 📄 TP4-RÉSEAUX.pkt</div>
+<div class="tree-file">│   │       ├── 📄 TP5-RÉSEAUX-DYNAMIQUE.pkt</div>
+<div class="tree-file">│   │       ├── 📄 TP5-RÉSEAUX-STATIQUE.pkt</div>
+<div class="tree-file">│   │       ├── 📄 LAST TP ABBAS.pkt</div>
+<div class="tree-file">│   │       └── 📄 TESTTP.pkt</div>
+<div class="tree-folder">│   ├── 📁 TEST + EXAMENS/</div>
+<div class="tree-file">│   │   ├── 📄 Examens Réseaux - Msila.pdf</div>
+<div class="tree-file">│   │   └── 📄 test de td commun reseau 6 mai 2017- Version Finale- Solution2.pdf</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-file">│   │   ├── 📄 Série4_corrigé.pdf</div>
+<div class="tree-file">│   │   └── 📄 series_td_reseaux.pdf</div>
+<div class="tree-folder">│   ├── 📁 Examen RÉSEAUX 2017/</div>
+<div class="tree-file">│   │   ├── 📄 5.jpg</div>
+<div class="tree-file">│   │   ├── 📄 1.jpg</div>
+<div class="tree-file">│   │   ├── 📄 3.jpg</div>
+<div class="tree-file">│   │   ├── 📄 2.jpg</div>
+<div class="tree-file">│   │   └── 📄 4.jpg</div>
+<div class="tree-folder">│   └── 📁 COURS/</div>
+<div class="tree-file">│       └── 📄 reseaux_all.pdf</div>
+<div class="tree-folder">├── 🔗📁 RÉSEAUX/  (raccourci)</div>
+<div class="tree-file">│   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">├── 🔗📁 Administration des réseaux/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 TP/</div>
+<div class="tree-file">│   │   ├── 📄 TP6 : SNMP.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP4 : VLAN.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP5 : ACL.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP1 (idem).pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP3 : Routage dynamique.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP2 : Routage statique.pdf</div>
+<div class="tree-file">│   │   └── 📄 TP1 : DHCP et DNS (corrigé).pdf</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-file">│   │   ├── 📄 TD_ACL_VLANCorrection.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD2 : VLANs.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD2 : VLANs (corrigé).pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD3 : SNMP (corrigé).pdf</div>
+<div class="tree-file">│   │   └── 📄 TD1 : DHCP et DNS (Corrigé).pdf</div>
+<div class="tree-folder">│   └── 📁 Cours/</div>
+<div class="tree-file">│       ├── 📄 Chapitre 4 : VLAN.pdf</div>
+<div class="tree-file">│       ├── 📄 Chapitre 4 : ACL.pdf</div>
+<div class="tree-file">│       ├── 📄 Chapitre 5 : SNMP.pdf</div>
+<div class="tree-file">│       ├── 📄 Chapitre 4 : ACL et contrôle d’accès.pdf</div>
+<div class="tree-file">│       ├── 📄 Chapitre 3 : Routage.pdf</div>
+<div class="tree-file">│       ├── 📄 Chapitre 2 : DHCP et DNS.pdf</div>
+<div class="tree-file">│       └── 📄 Chapitre 1 : Introduction.pdf</div>
+<div class="tree-folder">├── 🔗📁 RÉSEAUX/  (raccourci)</div>
+<div class="tree-file">│   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">├── 🔗📁 000 RESEAUX/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-folder">│   ├── 📁 FSDM Prog RS/</div>
+<div class="tree-file">│   │   ├── 📄 chap6.ppt</div>
+<div class="tree-file">│   │   ├── 📄 chap5.ppt</div>
+<div class="tree-file">│   │   ├── 📄 chap4.ppt</div>
+<div class="tree-file">│   │   ├── 📄 chap3.ppt</div>
+<div class="tree-file">│   │   ├── 📄 chap2.pptx</div>
+<div class="tree-file">│   │   ├── 📄 chap1.ppt</div>
+<div class="tree-file">│   │   ├── 📄 chap7.ppt</div>
+<div class="tree-file">│   │   ├── 📄 r1.jpg</div>
+<div class="tree-file">│   │   ├── 📄 r2.jpg</div>
+<div class="tree-folder">│   │   ├── 📁 TP/</div>
+<div class="tree-folder">│   │   │   ├── 📁 TP4/</div>
+<div class="tree-file">│   │   │   │   ├── 📄 TP 4.pdf</div>
+<div class="tree-file">│   │   │   │   ├── 📄 serv_sig.c</div>
+<div class="tree-file">│   │   │   │   └── 📄 server.c</div>
+<div class="tree-folder">│   │   │   ├── 📁 TP3/</div>
+<div class="tree-folder">│   │   │   │   ├── 📁 socklab source/</div>
+<div class="tree-file">│   │   │   │   │   ├── 📄 readline-devel-6.0-3.fc12.i686.rpm</div>
+<div class="tree-file">│   │   │   │   │   └── 📄 ncurses-devel-5.7-3.20090207.fc12.i686.rpm</div>
+<div class="tree-folder">│   │   │   │   └── 📁 Docs/</div>
+<div class="tree-file">│   │   │   │       ├── 📄 Commandes systeme.pdf</div>
+<div class="tree-file">│   │   │   │       ├── 📄 socklab.pdf</div>
+<div class="tree-file">│   │   │   │       ├── 📄 TCP et UDP.pdf</div>
+<div class="tree-file">│   │   │   │       └── 📄 outils.pdf</div>
+<div class="tree-folder">│   │   │   ├── 📁 TP2/</div>
+<div class="tree-file">│   │   │   │   ├── 📄 TP.apache.doc</div>
+<div class="tree-folder">│   │   │   │   └── 📁 doc/</div>
+<div class="tree-file">│   │   │   │       ├── 📄 Poly-Cours.pdf</div>
+<div class="tree-file">│   │   │   │       ├── 📄 NIS migration.pdf</div>
+<div class="tree-file">│   │   │   │       ├── 📄 NIS configuration Client-Serveur.pdf</div>
+<div class="tree-file">│   │   │   │       ├── 📄 Introduction au service NFS.pdf</div>
+<div class="tree-file">│   │   │   │       ├── 📄 Systemes de fichiers reseau.pdf</div>
+<div class="tree-file">│   │   │   │       ├── 📄 TP NIS-NFS.pdf</div>
+<div class="tree-file">│   │   │   │       ├── 📄 Linux NFS.pdf</div>
+<div class="tree-folder">│   │   │   │       ├── 📁 HOWTO PDF fr/</div>
+<div class="tree-file">│   │   │   │       │   ├── 📄 Concepts du reseau sous Linux.pdf</div>
+<div class="tree-file">│   │   │   │       │   ├── 📄 Possibilites reseau de Linux.pdf</div>
+<div class="tree-file">│   │   │   │       │   ├── 📄 Shadow Password.pdf</div>
+<div class="tree-file">│   │   │   │       │   ├── 📄 Partages SMB.pdf</div>
+<div class="tree-file">│   │   │   │       │   ├── 📄 Sous-reeseaux IP.pdf</div>
+<div class="tree-file">│   │   │   │       │   ├── 📄 Client et serveur NIS.pdf</div>
+<div class="tree-file">│   │   │   │       │   └── 📄 Client et serveur de partages NFS.pdf</div>
+<div class="tree-folder">│   │   │   │       └── 📁 HOWTO PDF en/</div>
+<div class="tree-file">│   │   │   │           ├── 📄 SMB.pdf</div>
+<div class="tree-file">│   │   │   │           ├── 📄 Networking-Overview.pdf</div>
+<div class="tree-file">│   │   │   │           └── 📄 NFS.pdf</div>
+<div class="tree-folder">│   │   │   ├── 📁 TP1/</div>
+<div class="tree-file">│   │   │   │   ├── 📄 LB-virtualisationEntrepriseBearstech(1).pdf</div>
+<div class="tree-file">│   │   │   │   └── 📄 TPvirtualisation.docx</div>
+<div class="tree-folder">│   │   │   └── 📁 aa/</div>
+<div class="tree-file">│   │   │       ├── 📄 javax.mail.jar</div>
+<div class="tree-folder">│   │   │       ├── 📁 url-examples/</div>
+<div class="tree-file">│   │   │       │   ├── 📄 HttpURLConnection.java</div>
+<div class="tree-file">│   │   │       │   └── 📄 URLConnection-cookies-2.java</div>
+<div class="tree-folder">│   │   │       ├── 📁 TP4/</div>
+<div class="tree-folder">│   │   │       │   ├── 📁 JavaMail API – Sending email via Gmail SMTP example_fichiers/</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 xd_arbiter_002.htm</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 xd_arbiter.htm</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 pubads_impl_83.js</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 sdk.js</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 style.css</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 prism.js</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 embed.js</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 jquery.js</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 default.css</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 count.js</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 gpt.js</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 brand</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 a_011.htm</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 bootstrap.js</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 a_009.htm</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 a_006.htm</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 adsbygoogle.js</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 a.htm</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 analytics.js</div>
+<div class="tree-file">│   │   │       │   │   ├── 📄 a.js</div>
+<div class="tree-folder">│   │   │       │   │   ├── 📁 a_data_011/</div>
+<div class="tree-file">│   │   │       │   │   │   ├── 📄 show_ads_impl.js</div>
+<div class="tree-file">│   │   │       │   │   │   ├── 📄 ads.htm</div>
+<div class="tree-file">│   │   │       │   │   │   ├── 📄 expansion_embed.js</div>
+<div class="tree-folder">│   │   │       │   │   │   └── 📁 ads_data/</div>
+<div class="tree-file">│   │   │       │   │   │       ├── 📄 googlelogo_color_112x36dp.png</div>
+<div class="tree-file">│   │   │       │   │   │       ├── 📄 m_js_controller.js</div>
+<div class="tree-file">│   │   │       │   │   │       ├── 📄 abg.js</div>
+<div class="tree-file">│   │   │       │   │   │       ├── 📄 7799634520991778171.jpg</div>
+<div class="tree-folder">│   │   │       │   │   │       └── 📁 ads_data/</div>
+<div class="tree-file">│   │   │       │   │   │           └── 📄 F5EcQNuXvzCwnROrenDy46C3KsouVqfn29hTt0MreZk.js</div>
+<div class="tree-folder">│   │   │       │   │   ├── 📁 a_data_010/</div>
+<div class="tree-file">│   │   │       │   │   │   └── 📄 ads</div>
+<div class="tree-folder">│   │   │       │   │   ├── 📁 a_data_009/</div>
+<div class="tree-file">│   │   │       │   │   │   ├── 📄 B9333836.htm</div>
+<div class="tree-file">│   │   │       │   │   │   ├── 📄 impl_v26.js</div>
+<div class="tree-folder">│   │   │       │   │   │   └── 📁 B9333836_data/</div>
+<div class="tree-file">│   │   │       │   │   │       ├── 📄 sbhK2lTE.js</div>
+<div class="tree-file">│   │   │       │   │   │       ├── 📄 lidar.js</div>
+<div class="tree-file">│   │   │       │   │   │       └── 📄 6-Breaking_Boundaries__White__-_English_-_300x250_-JPG.jpg</div>
+<div class="tree-folder">│   │   │       │   │   ├── 📁 a_data_008/</div>
+<div class="tree-file">│   │   │       │   │   │   ├── 📄 ads.htm</div>
+<div class="tree-folder">│   │   │       │   │   │   └── 📁 ads_data/</div>
+<div class="tree-file">│   │   │       │   │   │       └── 📄 10422586985525664956.gif</div>
+<div class="tree-folder">│   │   │       │   │   ├── 📁 a_data_007/</div>
+<div class="tree-file">│   │   │       │   │   │   ├── 📄 ads.htm</div>
+<div class="tree-folder">│   │   │       │   │   │   └── 📁 ads_data/</div>
+<div class="tree-file">│   │   │       │   │   │       └── 📄 1837995328059036364.jpg</div>
+<div class="tree-folder">│   │   │       │   │   ├── 📁 a_data_006/</div>
+<div class="tree-file">│   │   │       │   │   │   ├── 📄 lounge.js</div>
+<div class="tree-file">│   │   │       │   │   │   ├── 📄 noavatar92.png</div>
+<div class="tree-file">│   │   │       │   │   │   ├── 📄 lounge_002.js</div>
+<div class="tree-file">│   │   │       │   │   │   ├── 📄 ga.js</div>
+<div class="tree-file">│   │   │       │   │   │   ├── 📄 lounge.css</div>
+<div class="tree-file">│   │   │       │   │   │   ├── 📄 config.js</div>
+<div class="tree-file">│   │   │       │   │   │   ├── 📄 discovery.js</div>
+<div class="tree-file">│   │   │       │   │   │   └── 📄 common.js</div>
+<div class="tree-folder">│   │   │       │   │   ├── 📁 a_data_005/</div>
+<div class="tree-file">│   │   │       │   │   │   ├── 📄 ads.htm</div>
+<div class="tree-folder">│   │   │       │   │   │   └── 📁 ads_data/</div>
+<div class="tree-file">│   │   │       │   │   │       └── 📄 css.css</div>
+<div class="tree-folder">│   │   │       │   │   ├── 📁 a_data_004/</div>
+<div class="tree-file">│   │   │       │   │   │   ├── 📄 ads.htm</div>
+<div class="tree-folder">│   │   │       │   │   │   └── 📁 ads_data/</div>
+<div class="tree-file">│   │   │       │   │   │       ├── 📄 blank_V1_300x250.htm</div>
+<div class="tree-folder">│   │   │       │   │   │       └── 📁 blank_V1_300x250_data/</div>
+<div class="tree-file">│   │   │       │   │   │           ├── 📄 css_003.css</div>
+<div class="tree-file">│   │   │       │   │   │           ├── 📄 templatecontainer.js</div>
+<div class="tree-file">│   │   │       │   │   │           ├── 📄 1424164217012737380.jpg</div>
+<div class="tree-file">│   │   │       │   │   │           ├── 📄 7580047107517688066.png</div>
+<div class="tree-file">│   │   │       │   │   │           ├── 📄 css.css</div>
+<div class="tree-file">│   │   │       │   │   │           ├── 📄 addata.js</div>
+<div class="tree-file">│   │   │       │   │   │           └── 📄 css_002.css</div>
+<div class="tree-folder">│   │   │       │   │   ├── 📁 a_data_003/</div>
+<div class="tree-file">│   │   │       │   │   │   ├── 📄 osd.js</div>
+<div class="tree-file">│   │   │       │   │   │   ├── 📄 ads.htm</div>
+<div class="tree-folder">│   │   │       │   │   │   └── 📁 ads_data/</div>
+<div class="tree-file">│   │   │       │   │   │       └── 📄 15764176442573507276.jpg</div>
+<div class="tree-folder">│   │   │       │   │   ├── 📁 a_data_002/</div>
+<div class="tree-file">│   │   │       │   │   │   └── 📄 ads</div>
+<div class="tree-folder">│   │   │       │   │   └── 📁 a_data/</div>
+<div class="tree-file">│   │   │       │   │       ├── 📄 B9333836.htm</div>
+<div class="tree-folder">│   │   │       │   │       └── 📁 B9333836_data/</div>
+<div class="tree-file">│   │   │       │   │           └── 📄 20-500BUILD---728x90---White-12.jpg</div>
+<div class="tree-folder">│   │   │       │   └── 📁 Get the Mime Type from a File - Real_s Java How-to_fichiers/</div>
+<div class="tree-file">│   │   │       │       ├── 📄 sh.htm</div>
+<div class="tree-file">│   │   │       │       ├── 📄 materialize.js</div>
+<div class="tree-file">│   │   │       │       ├── 📄 materialize.css</div>
+<div class="tree-file">│   │   │       │       ├── 📄 layers.js</div>
+<div class="tree-file">│   │   │       │       ├── 📄 embed.js</div>
+<div class="tree-file">│   │   │       │       ├── 📄 icon.css</div>
+<div class="tree-file">│   │   │       │       ├── 📄 fr.js</div>
+<div class="tree-file">│   │   │       │       ├── 📄 fql</div>
+<div class="tree-file">│   │   │       │       ├── 📄 java-0487.htm</div>
+<div class="tree-file">│   │   │       │       ├── 📄 jquery-2.js</div>
+<div class="tree-file">│   │   │       │       ├── 📄 howto.css</div>
+<div class="tree-file">│   │   │       │       ├── 📄 java-0487_002.htm</div>
+<div class="tree-file">│   │   │       │       ├── 📄 css.css</div>
+<div class="tree-file">│   │   │       │       ├── 📄 addthis_widget.js</div>
+<div class="tree-file">│   │   │       │       ├── 📄 analytics.js</div>
+<div class="tree-file">│   │   │       │       ├── 📄 300lo.json</div>
+<div class="tree-file">│   │   │       │       ├── 📄 alfie.js</div>
+<div class="tree-file">│   │   │       │       ├── 📄 adsbygoogle.js</div>
+<div class="tree-file">│   │   │       │       ├── 📄 a.htm</div>
+<div class="tree-file">│   │   │       │       ├── 📄 a_002.htm</div>
+<div class="tree-file">│   │   │       │       ├── 📄 counter.js</div>
+<div class="tree-folder">│   │   │       │       ├── 📁 java-0487_data_003/</div>
+<div class="tree-file">│   │   │       │       │   ├── 📄 ads.htm</div>
+<div class="tree-file">│   │   │       │       │   ├── 📄 show_ads_impl.js</div>
+<div class="tree-file">│   │   │       │       │   ├── 📄 expansion_embed.js</div>
+<div class="tree-folder">│   │   │       │       │   └── 📁 ads_data/</div>
+<div class="tree-folder">│   │   │       │       │       └── 📁 ads_data/</div>
+<div class="tree-file">│   │   │       │       │           └── 📄 F5EcQNuXvzCwnROrenDy46C3KsouVqfn29hTt0MreZk.js</div>
+<div class="tree-folder">│   │   │       │       ├── 📁 java-0487_data_002/</div>
+<div class="tree-file">│   │   │       │       │   ├── 📄 ads.htm</div>
+<div class="tree-folder">│   │   │       │       │   └── 📁 ads_data/</div>
+<div class="tree-file">│   │   │       │       │       └── 📄 ads.htm</div>
+<div class="tree-folder">│   │   │       │       └── 📁 java-0487_data/</div>
+<div class="tree-file">│   │   │       │           ├── 📄 osd.js</div>
+<div class="tree-file">│   │   │       │           ├── 📄 ads.htm</div>
+<div class="tree-file">│   │   │       │           └── 📄 zrt_lookup.htm</div>
+<div class="tree-folder">│   │   │       ├── 📁 TP3/</div>
+<div class="tree-file">│   │   │       │   └── 📄 IP-M1-20132014.pdf</div>
+<div class="tree-folder">│   │   │       ├── 📁 socket-examples/</div>
+<div class="tree-file">│   │   │       │   ├── 📄 Serveur.java</div>
+<div class="tree-file">│   │   │       │   ├── 📄 test.java</div>
+<div class="tree-file">│   │   │       │   ├── 📄 Reception.java</div>
+<div class="tree-file">│   │   │       │   ├── 📄 Emission.java</div>
+<div class="tree-file">│   │   │       │   ├── 📄 server_thread.java</div>
+<div class="tree-file">│   │   │       │   ├── 📄 server_tcp.java</div>
+<div class="tree-file">│   │   │       │   ├── 📄 inetaddress.java</div>
+<div class="tree-file">│   │   │       │   ├── 📄 server_run.java</div>
+<div class="tree-file">│   │   │       │   └── 📄 connexion.java</div>
+<div class="tree-folder">│   │   │       └── 📁 jar/</div>
+<div class="tree-file">│   │   │           ├── 📄 javax.mail.jar</div>
+<div class="tree-folder">│   │   │           ├── 📁 Ping/</div>
+<div class="tree-file">│   │   │           │   ├── 📄 javax.mail.jar</div>
+<div class="tree-folder">│   │   │           │   ├── 📁 src/</div>
+<div class="tree-file">│   │   │           │   │   ├── 📄 javax.mail.jar</div>
+<div class="tree-file">│   │   │           │   │   ├── 📄 Lookup.java</div>
+<div class="tree-file">│   │   │           │   │   └── 📄 mail.java</div>
+<div class="tree-folder">│   │   │           │   ├── 📁 bin/</div>
+<div class="tree-file">│   │   │           │   │   ├── 📄 Test.class</div>
+<div class="tree-file">│   │   │           │   │   └── 📄 javax.mail.jar</div>
+<div class="tree-folder">│   │   │           │   └── 📁 .settings/</div>
+<div class="tree-file">│   │   │           │       └── 📄 javax.mail.jar</div>
+<div class="tree-folder">│   │   │           ├── 📁 .recommenders/</div>
+<div class="tree-folder">│   │   │           │   ├── 📁 index/</div>
+<div class="tree-folder">│   │   │           │   │   └── 📁 http___download_eclipse_org_recommenders_models_mars_/</div>
+<div class="tree-file">│   │   │           │   │       ├── 📄 _1.fdt</div>
+<div class="tree-file">│   │   │           │   │       ├── 📄 _1.tis</div>
+<div class="tree-file">│   │   │           │   │       ├── 📄 _1.tii</div>
+<div class="tree-file">│   │   │           │   │       ├── 📄 _1.fdx</div>
+<div class="tree-file">│   │   │           │   │       ├── 📄 _1.frq</div>
+<div class="tree-file">│   │   │           │   │       ├── 📄 _1.prx</div>
+<div class="tree-file">│   │   │           │   │       └── 📄 _1.nrm</div>
+<div class="tree-folder">│   │   │           │   └── 📁 caches/</div>
+<div class="tree-file">│   │   │           │       └── 📄 manual-mappings.json</div>
+<div class="tree-folder">│   │   │           └── 📁 .metadata/</div>
+<div class="tree-file">│   │   │               ├── 📄 _log.txt</div>
+<div class="tree-folder">│   │   │               └── 📁 .plugins/</div>
+<div class="tree-folder">│   │   │                   ├── 📁 org.eclipse.wst.jsdt.ui/</div>
+<div class="tree-file">│   │   │                   │   └── 📄 OpenTypeHistory.xml</div>
+<div class="tree-folder">│   │   │                   ├── 📁 org.eclipse.rse.core/</div>
+<div class="tree-folder">│   │   │                   │   └── 📁 profiles/</div>
+<div class="tree-folder">│   │   │                   │       └── 📁 PRF.hp-pc_3/</div>
+<div class="tree-file">│   │   │                   │           ├── 📄 node.properties</div>
+<div class="tree-folder">│   │   │                   │           └── 📁 H.local_16/</div>
+<div class="tree-file">│   │   │                   │               └── 📄 node.properties</div>
+<div class="tree-folder">│   │   │                   ├── 📁 org.eclipse.m2e.logback.configuration/</div>
+<div class="tree-file">│   │   │                   │   └── 📄 logback.1.6.0.20150526-2032.xml</div>
+<div class="tree-folder">│   │   │                   ├── 📁 org.eclipse.ltk.core.refactoring/</div>
+<div class="tree-folder">│   │   │                   │   └── 📁 .refactorings/</div>
+<div class="tree-folder">│   │   │                   │       └── 📁 Ping/</div>
+<div class="tree-folder">│   │   │                   │           └── 📁 2016/</div>
+<div class="tree-folder">│   │   │                   │               └── 📁 5/</div>
+<div class="tree-folder">│   │   │                   │                   └── 📁 20/</div>
+<div class="tree-file">│   │   │                   │                       └── 📄 refactorings.history.xml</div>
+<div class="tree-folder">│   │   │                   ├── 📁 org.eclipse.jdt.ui/</div>
+<div class="tree-file">│   │   │                   │   └── 📄 dialog_settings.xml</div>
+<div class="tree-folder">│   │   │                   ├── 📁 org.eclipse.jdt.core/</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 2529425352.index</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 1204721684.index</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 variablesAndContainers.dat</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 assumedExternalFilesCache</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 nonChainingJarsCache</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 savedIndexNames.txt</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 756906832.index</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 4060735715.index</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 708171384.index</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 3844972067.index</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 732305971.index</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 2752043539.index</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 2464996709.index</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 362144405.index</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 2674038792.index</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 3793610375.index</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 2564428345.index</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 1773079057.index</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 1730167810.index</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 1567023110.index</div>
+<div class="tree-file">│   │   │                   │   ├── 📄 1412568314.index</div>
+<div class="tree-file">│   │   │                   │   └── 📄 2105838259.index</div>
+<div class="tree-folder">│   │   │                   ├── 📁 org.eclipse.epp.logging.aeri.ui/</div>
+<div class="tree-folder">│   │   │                   │   ├── 📁 remote-index/</div>
+<div class="tree-file">│   │   │                   │   │   ├── 📄 _1.tis</div>
+<div class="tree-file">│   │   │                   │   │   ├── 📄 _1.fdt</div>
+<div class="tree-file">│   │   │                   │   │   ├── 📄 _1.fdx</div>
+<div class="tree-file">│   │   │                   │   │   ├── 📄 _1.frq</div>
+<div class="tree-file">│   │   │                   │   │   ├── 📄 _1.nrm</div>
+<div class="tree-file">│   │   │                   │   │   └── 📄 _1.prx</div>
+<div class="tree-folder">│   │   │                   │   └── 📁 history/</div>
+<div class="tree-file">│   │   │                   │       ├── 📄 _0.fnm</div>
+<div class="tree-file">│   │   │                   │       └── 📄 _0.fdt</div>
+<div class="tree-folder">│   │   │                   ├── 📁 org.eclipse.e4.workbench/</div>
+<div class="tree-file">│   │   │                   │   └── 📄 workbench.xmi</div>
+<div class="tree-folder">│   │   │                   ├── 📁 org.eclipse.debug.ui/</div>
+<div class="tree-file">│   │   │                   │   └── 📄 launchConfigurationHistory.xml</div>
+<div class="tree-folder">│   │   │                   ├── 📁 org.eclipse.debug.core/</div>
+<div class="tree-folder">│   │   │                   │   └── 📁 .launches/</div>
+<div class="tree-file">│   │   │                   │       └── 📄 FileUtils.launch</div>
+<div class="tree-folder">│   │   │                   ├── 📁 org.eclipse.core.runtime/</div>
+<div class="tree-folder">│   │   │                   │   └── 📁 .settings/</div>
+<div class="tree-file">│   │   │                   │       └── 📄 org.eclipse.ui.workbench.prefs</div>
+<div class="tree-folder">│   │   │                   └── 📁 org.eclipse.core.resources/</div>
+<div class="tree-folder">│   │   │                       ├── 📁 .projects/</div>
+<div class="tree-folder">│   │   │                       │   └── 📁 Ping/</div>
+<div class="tree-file">│   │   │                       │       ├── 📄 _markers</div>
+<div class="tree-folder">│   │   │                       │       ├── 📁 org.eclipse.jdt.core/</div>
+<div class="tree-file">│   │   │                       │       │   └── 📄 state.dat</div>
+<div class="tree-folder">│   │   │                       │       └── 📁 .indexes/</div>
+<div class="tree-folder">│   │   │                       │           └── 📁 e4/</div>
+<div class="tree-file">│   │   │                       │               └── 📄 history.index</div>
+<div class="tree-folder">│   │   │                       └── 📁 .history/</div>
+<div class="tree-folder">│   │   │                           ├── 📁 ea/</div>
+<div class="tree-file">│   │   │                           │   └── 📄 80bb862fa61600161357afc769082f91</div>
+<div class="tree-folder">│   │   │                           ├── 📁 e6/</div>
+<div class="tree-file">│   │   │                           │   └── 📄 a0824af7a11600161357afc769082f91</div>
+<div class="tree-folder">│   │   │                           ├── 📁 e2/</div>
+<div class="tree-file">│   │   │                           │   ├── 📄 d00c82b6a51600161357afc769082f91</div>
+<div class="tree-file">│   │   │                           │   └── 📄 a0a3ab97a21600161357afc769082f91</div>
+<div class="tree-folder">│   │   │                           ├── 📁 e/</div>
+<div class="tree-file">│   │   │                           │   └── 📄 a044ca97a11600161357afc769082f91</div>
+<div class="tree-folder">│   │   │                           ├── 📁 d/</div>
+<div class="tree-file">│   │   │                           │   └── 📄 f00956caa51600161357afc769082f91</div>
+<div class="tree-folder">│   │   │                           ├── 📁 ca/</div>
+<div class="tree-file">│   │   │                           │   └── 📄 105d765da21600161357afc769082f91</div>
+<div class="tree-folder">│   │   │                           ├── 📁 ad/</div>
+<div class="tree-file">│   │   │                           │   └── 📄 802becb7a21600161357afc769082f91</div>
+<div class="tree-folder">│   │   │                           ├── 📁 a9/</div>
+<div class="tree-file">│   │   │                           │   └── 📄 307bec9ea21600161357afc769082f91</div>
+<div class="tree-folder">│   │   │                           ├── 📁 a0/</div>
+<div class="tree-file">│   │   │                           │   └── 📄 f00d2829a31600161357afc769082f91</div>
+<div class="tree-folder">│   │   │                           ├── 📁 70/</div>
+<div class="tree-file">│   │   │                           │   └── 📄 c0980910a81600161347d2e2074627d1</div>
+<div class="tree-folder">│   │   │                           ├── 📁 6a/</div>
+<div class="tree-file">│   │   │                           │   └── 📄 a03f7b62a81600161347d2e2074627d1</div>
+<div class="tree-folder">│   │   │                           ├── 📁 69/</div>
+<div class="tree-file">│   │   │                           │   └── 📄 d00f2e0aa31600161357afc769082f91</div>
+<div class="tree-folder">│   │   │                           ├── 📁 57/</div>
+<div class="tree-file">│   │   │                           │   └── 📄 60449f5ba81600161347d2e2074627d1</div>
+<div class="tree-folder">│   │   │                           ├── 📁 47/</div>
+<div class="tree-file">│   │   │                           │   └── 📄 0034f3e7a11600161357afc769082f91</div>
+<div class="tree-folder">│   │   │                           ├── 📁 34/</div>
+<div class="tree-file">│   │   │                           │   ├── 📄 b0732722a31600161357afc769082f91</div>
+<div class="tree-file">│   │   │                           │   └── 📄 80313f8ca71600161347d2e2074627d1</div>
+<div class="tree-folder">│   │   │                           ├── 📁 2c/</div>
+<div class="tree-file">│   │   │                           │   └── 📄 f017f890a21600161357afc769082f91</div>
+<div class="tree-folder">│   │   │                           ├── 📁 2a/</div>
+<div class="tree-file">│   │   │                           │   └── 📄 90fb77169c1600161357afc769082f91</div>
+<div class="tree-folder">│   │   │                           ├── 📁 22/</div>
+<div class="tree-file">│   │   │                           │   └── 📄 c02b73fca51600161357afc769082f91</div>
+<div class="tree-folder">│   │   │                           └── 📁 21/</div>
+<div class="tree-file">│   │   │                               └── 📄 b02ff5d6a01600161357afc769082f91</div>
+<div class="tree-folder">│   │   └── 📁 2015-2016/</div>
+<div class="tree-file">│   │       ├── 📄 chap5.pdf</div>
+<div class="tree-file">│   │       ├── 📄 chap4.pdf</div>
+<div class="tree-file">│   │       ├── 📄 chap3.pdf</div>
+<div class="tree-file">│   │       ├── 📄 chap0.pdf</div>
+<div class="tree-file">│   │       └── 📄 chap6.pdf</div>
+<div class="tree-folder">│   ├── 📁 FSDM Network/</div>
+<div class="tree-folder">│   │   ├── 📁 TD/</div>
+<div class="tree-file">│   │   │   ├── 📄 corrige TD2 avec complement SMI S6 satori.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD2 SMI S6 07032020.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 corrige TD1 SMI S6 25022020.pdf</div>
+<div class="tree-folder">│   │   └── 📁 Complement Cours/</div>
+<div class="tree-file">│   │       ├── 📄 QuCoursReseaux.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre 1 Prgrammation reseaux SMI S6.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre 3 Prgrammation reseaux SMI S6.pdf</div>
+<div class="tree-file">│   │       ├── 📄 cours chap II_Prgrammation reseaux_S6_satori_16_02_2020.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre 2 (half of it) Prgrammation reseaux SMI S6.pdf</div>
+<div class="tree-file">│   │       └── 📄 Complement cours_langage C_SMIS6Satori1802020.pdf</div>
+<div class="tree-folder">│   ├── 📁 FSAC TCP-IP/</div>
+<div class="tree-folder">│   │   └── 📁 TCP-IP/</div>
+<div class="tree-folder">│   │       ├── 📁 TCP/</div>
+<div class="tree-file">│   │       │   ├── 📄 Clienttcp.sublime-workspace</div>
+<div class="tree-file">│   │       │   ├── 📄 Clienttcp.class</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoClientSimple.class</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoServerMultiple.class</div>
+<div class="tree-file">│   │       │   ├── 📄 ServerThread.class</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoClient.class</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoServer.class</div>
+<div class="tree-file">│   │       │   ├── 📄 facto2.java</div>
+<div class="tree-file">│   │       │   ├── 📄 facto.java</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoServerSimple.java</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoServerMultiple.java</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoServer1.java</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoServer.java</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoClientSimple.java</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoClient.java</div>
+<div class="tree-file">│   │       │   ├── 📄 Serveurtcp.java</div>
+<div class="tree-file">│   │       │   ├── 📄 Clienttcp.java</div>
+<div class="tree-file">│   │       │   ├── 📄 Serveurtcp.class</div>
+<div class="tree-folder">│   │       │   └── 📁 Sock/</div>
+<div class="tree-file">│   │       │       ├── 📄 facto2.java</div>
+<div class="tree-file">│   │       │       ├── 📄 serveurtcp.java</div>
+<div class="tree-file">│   │       │       ├── 📄 serveurtcp.class</div>
+<div class="tree-file">│   │       │       ├── 📄 Serveur.class</div>
+<div class="tree-file">│   │       │       ├── 📄 ServerThread.class</div>
+<div class="tree-file">│   │       │       ├── 📄 facto.class</div>
+<div class="tree-file">│   │       │       ├── 📄 Serveur.java</div>
+<div class="tree-file">│   │       │       ├── 📄 facto.java</div>
+<div class="tree-file">│   │       │       ├── 📄 EchoServerSimple.class</div>
+<div class="tree-file">│   │       │       ├── 📄 EchoServerMultiple.class</div>
+<div class="tree-file">│   │       │       ├── 📄 EchoServer1.java</div>
+<div class="tree-file">│   │       │       ├── 📄 EchoServerMultiple.java</div>
+<div class="tree-file">│   │       │       ├── 📄 EchoServerSimple.java</div>
+<div class="tree-file">│   │       │       ├── 📄 EchoServer.java</div>
+<div class="tree-file">│   │       │       ├── 📄 clienttcp.class</div>
+<div class="tree-file">│   │       │       ├── 📄 clienttcp.java</div>
+<div class="tree-file">│   │       │       ├── 📄 EchoClient.java</div>
+<div class="tree-file">│   │       │       ├── 📄 EchoServer.class</div>
+<div class="tree-file">│   │       │       ├── 📄 EchoClientSimple.java</div>
+<div class="tree-file">│   │       │       ├── 📄 EchoClientSimple.class</div>
+<div class="tree-file">│   │       │       ├── 📄 EchoClient.class</div>
+<div class="tree-file">│   │       │       ├── 📄 ._serveurtcp.java</div>
+<div class="tree-file">│   │       │       ├── 📄 Client.class</div>
+<div class="tree-file">│   │       │       ├── 📄 ._facto.java</div>
+<div class="tree-file">│   │       │       ├── 📄 ._EchoServerMultiple.java</div>
+<div class="tree-file">│   │       │       ├── 📄 ._EchoServerSimple.java</div>
+<div class="tree-file">│   │       │       ├── 📄 ._EchoClientSimple.java</div>
+<div class="tree-file">│   │       │       ├── 📄 ._EchoServer.java</div>
+<div class="tree-file">│   │       │       ├── 📄 Client.java</div>
+<div class="tree-file">│   │       │       ├── 📄 ._Serveur.java</div>
+<div class="tree-file">│   │       │       ├── 📄 ._EchoClient.java</div>
+<div class="tree-file">│   │       │       ├── 📄 .DS_Store</div>
+<div class="tree-file">│   │       │       ├── 📄 ._Client.java</div>
+<div class="tree-file">│   │       │       ├── 📄 ._.DS_Store</div>
+<div class="tree-file">│   │       │       ├── 📄 ._clienttcp.java</div>
+<div class="tree-file">│   │       │       └── 📄 .com.apple.timemachine.supported</div>
+<div class="tree-folder">│   │       ├── 📁 Sock/</div>
+<div class="tree-file">│   │       │   ├── 📄 facto2.java</div>
+<div class="tree-file">│   │       │   ├── 📄 serveurtcp.java</div>
+<div class="tree-file">│   │       │   ├── 📄 ServerThread.class</div>
+<div class="tree-file">│   │       │   ├── 📄 Serveur.java</div>
+<div class="tree-file">│   │       │   ├── 📄 facto.java</div>
+<div class="tree-file">│   │       │   ├── 📄 facto.class</div>
+<div class="tree-file">│   │       │   ├── 📄 serveurtcp.class</div>
+<div class="tree-file">│   │       │   ├── 📄 Serveur.class</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoServerMultiple.java</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoServerMultiple.class</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoServer1.java</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoServerSimple.class</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoServer.java</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoServerSimple.java</div>
+<div class="tree-file">│   │       │   ├── 📄 clienttcp.java</div>
+<div class="tree-file">│   │       │   ├── 📄 clienttcp.class</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoClientSimple.class</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoClient.java</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoServer.class</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoClientSimple.java</div>
+<div class="tree-file">│   │       │   ├── 📄 EchoClient.class</div>
+<div class="tree-file">│   │       │   ├── 📄 ._serveurtcp.java</div>
+<div class="tree-file">│   │       │   ├── 📄 Client.class</div>
+<div class="tree-file">│   │       │   ├── 📄 ._facto.java</div>
+<div class="tree-file">│   │       │   ├── 📄 ._EchoServer.java</div>
+<div class="tree-file">│   │       │   ├── 📄 ._EchoServerSimple.java</div>
+<div class="tree-file">│   │       │   ├── 📄 ._EchoClientSimple.java</div>
+<div class="tree-file">│   │       │   ├── 📄 ._Serveur.java</div>
+<div class="tree-file">│   │       │   ├── 📄 Client.java</div>
+<div class="tree-file">│   │       │   ├── 📄 ._EchoServerMultiple.java</div>
+<div class="tree-file">│   │       │   ├── 📄 ._EchoClient.java</div>
+<div class="tree-file">│   │       │   ├── 📄 .DS_Store</div>
+<div class="tree-file">│   │       │   ├── 📄 ._.DS_Store</div>
+<div class="tree-file">│   │       │   ├── 📄 ._clienttcp.java</div>
+<div class="tree-file">│   │       │   ├── 📄 .com.apple.timemachine.supported</div>
+<div class="tree-file">│   │       │   └── 📄 ._Client.java</div>
+<div class="tree-folder">│   │       ├── 📁 Examen+Correction/</div>
+<div class="tree-file">│   │       │   ├── 📄 examenTCPIP15.docx</div>
+<div class="tree-file">│   │       │   ├── 📄 examenTCPIP14.docx</div>
+<div class="tree-file">│   │       │   ├── 📄 Examen finalTCPIP2.docx</div>
+<div class="tree-file">│   │       │   ├── 📄 examenfinalTCPIPIIR2sess08.doc</div>
+<div class="tree-file">│   │       │   ├── 📄 Examen finalTCPIP.docx</div>
+<div class="tree-file">│   │       │   ├── 📄 Examen finalTCPIP10.doc</div>
+<div class="tree-file">│   │       │   ├── 📄 Examen final.doc</div>
+<div class="tree-file">│   │       │   └── 📄 Examen finalTCPIP.doc</div>
+<div class="tree-folder">│   │       └── 📁 Cours/</div>
+<div class="tree-file">│   │           ├── 📄 6.Couche applicationver2020.pdf</div>
+<div class="tree-file">│   │           ├── 📄 HelloWorld.zip</div>
+<div class="tree-file">│   │           ├── 📄 7.RPC.pdf</div>
+<div class="tree-file">│   │           ├── 📄 6.Couche application1.ppt</div>
+<div class="tree-file">│   │           ├── 📄 2.Accesaureseau 2.ppt</div>
+<div class="tree-file">│   │           ├── 📄 3.Couche reseau.ppt</div>
+<div class="tree-file">│   │           ├── 📄 1.TCP IP 2.ppt</div>
+<div class="tree-file">│   │           ├── 📄 5.Couche Transport1.ppt</div>
+<div class="tree-file">│   │           ├── 📄 4.ICMP.ppt</div>
+<div class="tree-file">│   │           └── 📄 Sockets.pptx</div>
+<div class="tree-folder">│   ├── 📁 SMI_S6_Res_AV FS MEKNES  19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   └── 📄 SMI_S6_Res_AV-Cours-ELOUADGHIRI.pdf</div>
+<div class="tree-folder">│   ├── 📁 SMI6 FPN Réseaux 2 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_COUR VLAN.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_COUR RESEAUX_ADRESSAGE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_RESAUX2_TP VLAN routage inter VLAN.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_RESAUX_EVALUATION GENERAL.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_COUR_VTP_TP.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_SOLUTION TDs RESEAUX.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_TD1_ADRESSAGE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_TD2_ADRESSAGE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_TD3_ADRESSAGE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_TD4_ADRESSAGE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_TD3_ADRESSAGED.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Réseaux 2 SMI S6_COUR VLAN.pdf</div>
+<div class="tree-file">│   │   └── 📄 Réseaux 2  SMI S6_COUR RESEAUX_ADRESSAGE.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 SMI6 ADDMINISTRATION RESEAUX FPK KHRI 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 Supports de cours-20200426.zip</div>
+<div class="tree-file">│   │   └── 📄 TP-20200426.zip</div>
+<div class="tree-folder">│   ├── 📁 S6 SMI S6 RESEAUX 2_COURS-TDs-TPs FPN  19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-folder">│   │   └── 📁 SMI S6 RESEAUX 2_COURS-TDs-TPs/</div>
+<div class="tree-file">│   │       ├── 📄 SMI S6_TD4_ADRESSAGE.pdf</div>
+<div class="tree-file">│   │       ├── 📄 SMI S6_COUR VLAN.pdf</div>
+<div class="tree-file">│   │       ├── 📄 SMI S6_RESAUX2_TP VLAN routage inter VLAN.pdf</div>
+<div class="tree-file">│   │       ├── 📄 SMI S6_COUR RESEAUX_ADRESSAGE.pdf</div>
+<div class="tree-file">│   │       ├── 📄 SMI S6_TD3_ADRESSAGE.pdf</div>
+<div class="tree-file">│   │       ├── 📄 SMI S6_TD1_ADRESSAGE.pdf</div>
+<div class="tree-file">│   │       ├── 📄 SMI S6_TD2_ADRESSAGE.pdf</div>
+<div class="tree-file">│   │       ├── 📄 SMI S6_RESAUX_EVALUATION GENERAL.pdf</div>
+<div class="tree-file">│   │       ├── 📄 SMI S6_COUR_VTP_TP.pdf</div>
+<div class="tree-file">│   │       └── 📄 SMI S6_SOLUTION TDs RESEAUX.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 SMI FSM RESEAUX AVANCES/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 SMI_S6_Res_AV-Cours-ELOUADGHIRI.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI_S6-RéseauxAv_Liste-Expose-2019_2020.pdf</div>
+<div class="tree-file">│   │   └── 📄 IoTCC_Appls-SMI-S6_REAVA.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 SMI FSJ SECURITE RESEAUX 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 Semaine 7.pptx</div>
+<div class="tree-file">│   │   ├── 📄 TP6.docx</div>
+<div class="tree-file">│   │   ├── 📄 sécurité_8_2.ppt</div>
+<div class="tree-file">│   │   ├── 📄 CCNAS_Chp4_PTActA_ACL.pka</div>
+<div class="tree-file">│   │   ├── 📄 TP3.docx</div>
+<div class="tree-file">│   │   ├── 📄 Semaine7.ppt</div>
+<div class="tree-file">│   │   ├── 📄 Rip v2.pptx</div>
+<div class="tree-file">│   │   ├── 📄 Devoir 2.pptx</div>
+<div class="tree-file">│   │   ├── 📄 CBAC.pptx</div>
+<div class="tree-file">│   │   ├── 📄 Devoir n1 sécurité.pptx</div>
+<div class="tree-file">│   │   ├── 📄 Devoir n1 sécurité.ppt</div>
+<div class="tree-file">│   │   ├── 📄 Devoir n2 sécurité.pdf</div>
+<div class="tree-file">│   │   ├── 📄 sécurité_8.ppt</div>
+<div class="tree-file">│   │   ├── 📄 Devoir n1 sécurité.doc</div>
+<div class="tree-file">│   │   ├── 📄 Devoir n1 Interconnexion.doc</div>
+<div class="tree-file">│   │   ├── 📄 Semaine 7_2.pptx</div>
+<div class="tree-file">│   │   ├── 📄 TP6_2.docx</div>
+<div class="tree-file">│   │   └── 📄 TP3_2.docx</div>
+<div class="tree-folder">│   ├── 📁 S6 SMI FSJ Administration Réseau 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 Cours-Admin-Reseau-1.pdf</div>
+<div class="tree-file">│   │   └── 📄 TP-Configuration réseau sous linux.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 SMI FSDM PROGRAMMATION RÉSEAU 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-folder">│   │   ├── 📁 TPs/</div>
+<div class="tree-file">│   │   │   ├── 📄 Maquette adressage TP1.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Complement_TP_2_Mise_en_réseau.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3_Programmation_RZO_SMI S625022020.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP2_Programmation_RZO_SMI S625022020.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 TP1_Programmation_RZO_SMIS625022020.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TD/</div>
+<div class="tree-file">│   │   │   ├── 📄 TD2 SMI S6 07032020.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD1 SMI S6 25022020.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 corrige TD1 SMI S6 25022020.pdf</div>
+<div class="tree-folder">│   │   └── 📁 cours/</div>
+<div class="tree-file">│   │       ├── 📄 cours chap II_Prgrammation reseaux_S6_satori_16_02_2020.pdf</div>
+<div class="tree-file">│   │       ├── 📄 complement de cours format des datagrm.pdf</div>
+<div class="tree-file">│   │       └── 📄 Complement cours_langage C_SMIS6Satori1802020.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 SMI FSAC SMI S6 Modèle TCPIP/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 TPS-20200528.zip</div>
+<div class="tree-file">│   │   ├── 📄 TP WHIRESHARK-20200528.zip</div>
+<div class="tree-file">│   │   ├── 📄 liendesinstallationsserveurs.docx</div>
+<div class="tree-file">│   │   ├── 📄 10.2.1.8 Packet Tracer - Web and Email Instructions.pdf</div>
+<div class="tree-file">│   │   ├── 📄 10.2.3.3 Lab - Exploring FTP.pdf</div>
+<div class="tree-file">│   │   ├── 📄 10.2.2.9 Lab - Observing DNS Resolution.pdf</div>
+<div class="tree-file">│   │   ├── 📄 6.Couche applicationver2020.pdf</div>
+<div class="tree-file">│   │   ├── 📄 7.RPC.pdf</div>
+<div class="tree-file">│   │   ├── 📄 HelloWorld.zip</div>
+<div class="tree-file">│   │   ├── 📄 6.sockets.pdf</div>
+<div class="tree-file">│   │   ├── 📄 5.couchetransport.pdf</div>
+<div class="tree-file">│   │   ├── 📄 4.Icmp.pdf</div>
+<div class="tree-file">│   │   ├── 📄 2.Accesaureseau.pdf</div>
+<div class="tree-file">│   │   ├── 📄 3.reseau.pdf</div>
+<div class="tree-file">│   │   └── 📄 1.TCP IP.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 SMI FSAC RESEAUX/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 11.3.2.2 Packet Tracer - Test Connectivity with Traceroute Instructions.pdf</div>
+<div class="tree-file">│   │   ├── 📄 10.2.3.3 Lab - Exploring FTP.pdf</div>
+<div class="tree-file">│   │   ├── 📄 10.2.2.9 Lab - Observing DNS Resolution.pdf</div>
+<div class="tree-file">│   │   ├── 📄 7.3.1.2 Packet Tracer Simulation - Exploration of TCP and UDP Instructions.pdf</div>
+<div class="tree-file">│   │   ├── 📄 7.2.4.3 Lab - Using Wireshark to Examine FTP and TFTP Captures.pdf</div>
+<div class="tree-file">│   │   ├── 📄 7.2.3.5 Lab - Using Wireshark to Examine a UDP DNS Capture.pdf</div>
+<div class="tree-file">│   │   ├── 📄 7.2.1.8 Lab - Using Wireshark to Observe the TCP 3-Way Handshake.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 4 allocation memoire2.ppt</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 5 gestion des fichiers1.pptx</div>
+<div class="tree-file">│   │   ├── 📄 examenTCPIPFsac17.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EXAMENTCPIP16.pdf</div>
+<div class="tree-file">│   │   ├── 📄 1.TCP IP.pdf</div>
+<div class="tree-file">│   │   ├── 📄 2.Accesaureseau.pdf</div>
+<div class="tree-file">│   │   ├── 📄 3.reseau.pdf</div>
+<div class="tree-file">│   │   ├── 📄 4.Icmp.pdf</div>
+<div class="tree-file">│   │   ├── 📄 5.couchetransport.pdf</div>
+<div class="tree-file">│   │   ├── 📄 6.sockets.pdf</div>
+<div class="tree-file">│   │   ├── 📄 7.RPC.pdf</div>
+<div class="tree-file">│   │   ├── 📄 6.Couche applicationver2020.pdf</div>
+<div class="tree-file">│   │   ├── 📄 10.2.1.8 Packet Tracer - Web and Email.pka</div>
+<div class="tree-file">│   │   ├── 📄 liendesinstallationsserveurs.docx</div>
+<div class="tree-file">│   │   ├── 📄 10.2.1.8 Packet Tracer - Web and Email Instructions.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 __MACOSX/</div>
+<div class="tree-folder">│   │   │   └── 📁 HelloWorld/</div>
+<div class="tree-file">│   │   │       ├── 📄 ._HelloClient.java</div>
+<div class="tree-file">│   │   │       ├── 📄 ._HelloServer.java</div>
+<div class="tree-file">│   │   │       └── 📄 ._.DS_Store</div>
+<div class="tree-folder">│   │   └── 📁 HelloWorld/</div>
+<div class="tree-file">│   │       ├── 📄 HelloClient.java</div>
+<div class="tree-file">│   │       ├── 📄 HelloServer.java</div>
+<div class="tree-file">│   │       ├── 📄 .DS_Store</div>
+<div class="tree-file">│   │       ├── 📄 compile.bat</div>
+<div class="tree-file">│   │       ├── 📄 server.bat</div>
+<div class="tree-file">│   │       ├── 📄 client.bat</div>
+<div class="tree-file">│   │       ├── 📄 HelloWorld.x</div>
+<div class="tree-file">│   │       ├── 📄 portmap.bat</div>
+<div class="tree-file">│   │       ├── 📄 oncrpc.jar</div>
+<div class="tree-file">│   │       ├── 📄 jrpcgen.jar</div>
+<div class="tree-file">│   │       └── 📄 jportmap.jar</div>
+<div class="tree-folder">│   ├── 📁 S6 SMI FPKHRIBGHA ADDMINISTRATION RESEAUX 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-folder">│   │   ├── 📁 TP/</div>
+<div class="tree-folder">│   │   │   ├── 📁 TP2/</div>
+<div class="tree-file">│   │   │   │   ├── 📄 weather.numeric.arff</div>
+<div class="tree-file">│   │   │   │   ├── 📄 ionosphere.arff</div>
+<div class="tree-file">│   │   │   │   ├── 📄 ionosphereData.arff</div>
+<div class="tree-file">│   │   │   │   ├── 📄 ionosphereDataTest1.arff</div>
+<div class="tree-file">│   │   │   │   ├── 📄 ionosphereDataATester.arff</div>
+<div class="tree-file">│   │   │   │   ├── 📄 TestFileWeather.arff</div>
+<div class="tree-file">│   │   │   │   └── 📄 TP2.pdf</div>
+<div class="tree-folder">│   │   │   └── 📁 TP1/</div>
+<div class="tree-file">│   │   │       ├── 📄 weather.arff</div>
+<div class="tree-file">│   │   │       ├── 📄 iris.arff</div>
+<div class="tree-file">│   │   │       └── 📄 TP1_2020.pdf</div>
+<div class="tree-folder">│   │   └── 📁 Supports de cours/</div>
+<div class="tree-file">│   │       ├── 📄 TextMining.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Partie2.pdf</div>
+<div class="tree-file">│   │       └── 📄 Partie 1.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 FSO SMI Administration Réseaux 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 TP7_DNS.zip</div>
+<div class="tree-file">│   │   ├── 📄 TP2_Web.zip</div>
+<div class="tree-file">│   │   ├── 📄 TP6_Samba.zip</div>
+<div class="tree-file">│   │   ├── 📄 TP4_FtP-SSH.zip</div>
+<div class="tree-file">│   │   ├── 📄 TP5_NFS.zip</div>
+<div class="tree-file">│   │   ├── 📄 TPs_AdminReseaux_SMI_S6_2019-2020.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP3_DHCP.zip</div>
+<div class="tree-file">│   │   ├── 📄 TP1_GestUtilisateurs.zip</div>
+<div class="tree-file">│   │   └── 📄 Cours_AdminReseaux_SMI_S6_Lakhouaja.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 FSO SMI  Réseaux 2 19-20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 Réseaux 2.txt</div>
+<div class="tree-file">│   │   ├── 📄 Réseaux 2 CorrectionExamNormal_18_19.zip</div>
+<div class="tree-file">│   │   ├── 📄 Réseaux 2 Exam_17_06_2019.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Réseaux 2 Exam_25_06_2018.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Réseaux 2 ExamsAdminRes.zip</div>
+<div class="tree-file">│   │   ├── 📄 Réseaux 2 Exam_19_09_2015_rattrapage.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Réseaux 2 CorrectionExamNormal_14_15.zip</div>
+<div class="tree-file">│   │   ├── 📄 Réseaux 2Exam_29_06_2015.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Réseaux 2 SolutionTPs_AdminReseaux_SMI_S6_2019-2020.zip</div>
+<div class="tree-file">│   │   ├── 📄 Réseaux 2 TPs_AdminReseaux_SMI_S6_Lakhouaja.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Réseaux 2 CoursAdminReseaux_SMI_S6_Lakhouaja.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Réseaux 2 Poly_AdminReseaux.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Réseaux 2 SFI36304_TD_5e71243f6833e.rar</div>
+<div class="tree-file">│   │   └── 📄 Réseaux 2 SFI36304_CR_5e712400b2a78.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 FSDM SMI ROGRAMMATION RÉSEAUX/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 cours_Prgrammation reseaux_SMIS6_Chap1_22042020.pdf</div>
+<div class="tree-file">│   │   ├── 📄 cours_sockets_chap3 patie_I_22_03_2020.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TPs/</div>
+<div class="tree-file">│   │   │   ├── 📄 Maquette adressage TP1.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Complement_TP_2_Mise_en_réseau.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3_Programmation_RZO_SMI S625022020.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP2_Programmation_RZO_SMI S625022020.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 TP1_Programmation_RZO_SMIS625022020.pdf</div>
+<div class="tree-folder">│   │   └── 📁 TD/</div>
+<div class="tree-file">│   │       ├── 📄 TD2 SMI S6 07032020.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD1 SMI S6 25022020.pdf</div>
+<div class="tree-file">│   │       └── 📄 corrige TD1 SMI S6 25022020.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 FSDM SMI PROGRAMMATION RÉSEAUX 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 cours_Prgrammation reseaux_SMIS6_Chap1_22042020.pdf</div>
+<div class="tree-file">│   │   ├── 📄 cours_sockets_chap3 patie_I_22_03_2020.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 80949/</div>
+<div class="tree-folder">│   │   │   └── 📁 TD/</div>
+<div class="tree-file">│   │   │       ├── 📄 TD2 SMI S6 07032020.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 TD1 SMI S6 25022020.pdf</div>
+<div class="tree-file">│   │   │       └── 📄 corrige TD1 SMI S6 25022020.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 46989/</div>
+<div class="tree-folder">│   │   │   └── 📁 TPs/</div>
+<div class="tree-file">│   │   │       ├── 📄 Maquette adressage TP1.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 Complement_TP_2_Mise_en_réseau.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 TP3_Programmation_RZO_SMI S625022020.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 TP2_Programmation_RZO_SMI S625022020.pdf</div>
+<div class="tree-file">│   │   │       └── 📄 TP1_Programmation_RZO_SMIS625022020.pdf</div>
+<div class="tree-folder">│   │   └── 📁 41265/</div>
+<div class="tree-folder">│   │       └── 📁 cours/</div>
+<div class="tree-file">│   │           ├── 📄 cours chap II_Prgrammation reseaux_S6_satori_16_02_2020.pdf</div>
+<div class="tree-file">│   │           ├── 📄 complement de cours format des datagrm.pdf</div>
+<div class="tree-file">│   │           └── 📄 Complement cours_langage C_SMIS6Satori1802020.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 FSAC SMI6 Modèle TCP IP 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 TP WHIRESHARK-20200423.zip</div>
+<div class="tree-file">│   │   ├── 📄 10.2.3.3 Lab - Exploring FTP.pdf</div>
+<div class="tree-file">│   │   ├── 📄 10.2.2.9 Lab - Observing DNS Resolution.pdf</div>
+<div class="tree-file">│   │   ├── 📄 6.Couche applicationver2020.pdf</div>
+<div class="tree-file">│   │   ├── 📄 7.RPC.pdf</div>
+<div class="tree-file">│   │   ├── 📄 6.sockets.pdf</div>
+<div class="tree-file">│   │   ├── 📄 5.couchetransport.pdf</div>
+<div class="tree-file">│   │   ├── 📄 4.Icmp.pdf</div>
+<div class="tree-file">│   │   ├── 📄 3.reseau.pdf</div>
+<div class="tree-file">│   │   ├── 📄 2.Accesaureseau.pdf</div>
+<div class="tree-file">│   │   └── 📄 1.TCP IP.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 FPN SMI6 Réseaux 2/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_RESAUX_EVALUATION GENERAL.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_TD4_ADRESSAGE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_TD3_ADRESSAGE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_TD1_ADRESSAGE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_COUR VLAN.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_RESAUX2_TP VLAN routage inter VLAN.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_COUR_VTP_TP.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_TD2_ADRESSAGE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SMI S6_SOLUTION TDs RESEAUX.pdf</div>
+<div class="tree-file">│   │   └── 📄 SMI S6_COUR RESEAUX_ADRESSAGE.pdf</div>
+<div class="tree-folder">│   ├── 📁 INTERFACE HOMME MACHINE FSR 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 IHM5.pdf</div>
+<div class="tree-file">│   │   ├── 📄 IHM8.pdf</div>
+<div class="tree-file">│   │   ├── 📄 IHM6 .pdf</div>
+<div class="tree-file">│   │   ├── 📄 IHM3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 IHM2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 IHM10.pdf</div>
+<div class="tree-file">│   │   ├── 📄 IHM7.pdf</div>
+<div class="tree-file">│   │   ├── 📄 IHM9.pdf</div>
+<div class="tree-file">│   │   ├── 📄 IHM4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 IHM1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD2(1).pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD4(1).pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD3(1).pdf</div>
+<div class="tree-file">│   │   └── 📄 TD1(1).pdf</div>
+<div class="tree-folder">│   ├── 📁 INTERCONNEXION DE RESEAUX FSR 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 M36- Interconnexion des Reseaux-Partie1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 M36- Interconnexion des Reseaux-Partie 0.pdf</div>
+<div class="tree-file">│   │   ├── 📄 M36- Routage IPv6.pdf</div>
+<div class="tree-file">│   │   ├── 📄 M36- Interconnexion des Reseaux-IPv6.pdf</div>
+<div class="tree-file">│   │   ├── 📄 M36- Interconnexion des Reseaux-IPv6 suite.pdf</div>
+<div class="tree-file">│   │   ├── 📄 M36- IPv6- Sous réseaux.pdf</div>
+<div class="tree-file">│   │   ├── 📄 exos en  IPv6.pdf</div>
+<div class="tree-file">│   │   ├── 📄 exo en IPv4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 M36- TD1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 M36- TP4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 M36- TP6.pdf</div>
+<div class="tree-file">│   │   ├── 📄 M36- TP2bis.pdf</div>
+<div class="tree-file">│   │   ├── 📄 M36- TP5.pdf</div>
+<div class="tree-file">│   │   ├── 📄 M36- TP3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 M36- TP2.pdf</div>
+<div class="tree-file">│   │   └── 📄 M36- TP1.pdf</div>
+<div class="tree-folder">│   ├── 📁 informatique reseaux/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 C_ours syst et reseau.ppt</div>
+<div class="tree-file">│   │   ├── 📄 devoir-reseau.pdf</div>
+<div class="tree-file">│   │   └── 📄 correction-devoir-reseau.pdf</div>
+<div class="tree-folder">│   ├── 📁 FSTG Réseaux Locaux Industriels 2020/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 RdP_Cours.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Masques_ITS_PLC_WIN_PLC.rar</div>
+<div class="tree-file">│   │   ├── 📄 Protocole_MODBUS.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD_RLI_Protection.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD_RLI_Codage.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Méthodes_ACcès_Voie.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Architecture_réseaux.pdf</div>
+<div class="tree-file">│   │   └── 📄 Introduction_generale.pdf</div>
+<div class="tree-folder">│   └── 📁 Administration Des Réseaux Informatiques FSR 19 20/</div>
+<div class="tree-file">│       ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│       ├── 📄 Cours2-STP-AdminRéseaux.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours3-VLAN-AdminRéseaux.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours4-SNMP-AdminRéseaux.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours1-Protocoles-AdminRéseaux.pdf</div>
+<div class="tree-file">│       ├── 📄 TD3-Admin-SMI6.pdf</div>
+<div class="tree-file">│       ├── 📄 TD4-Admin-SMI6.pdf</div>
+<div class="tree-file">│       ├── 📄 TD2-Admin-SMI6.pdf</div>
+<div class="tree-file">│       └── 📄 TD1-Admin-SMI6.pdf</div>
+<div class="tree-folder">├── 🔗📁 M35 Administration Des Réseaux Informatiques FSR RABAT/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-file">│   │   ├── 📄 TD2-Admin-SMI6.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD1-Admin-SMI6.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD3-Admin-SMI6.pdf</div>
+<div class="tree-file">│   │   └── 📄 TD4-Admin-SMI6.pdf</div>
+<div class="tree-folder">│   └── 📁 Cours/</div>
+<div class="tree-file">│       ├── 📄 Cours4-SNMP-AdminRéseaux.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours1-Protocoles-AdminRéseaux.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours3-VLAN-AdminRéseaux.pdf</div>
+<div class="tree-file">│       └── 📄 Cours2-STP-AdminRéseaux.pdf</div>
+<div class="tree-folder">├── 📁 Crs td tp exms/</div>
+<div class="tree-file">│   ├── 📄 TD-reseaux GINF1 (1).pdf</div>
+<div class="tree-file">│   ├── 📄 TP reseaux statique-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP 5 - Protocoles TCP et UDP-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Partie 5 Le réseau INTERNET-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 cours reseaux tcp ip.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Analyse de trame reseaux.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 examen reseaux 04 02 2015-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 examen reseaux LMD 26 janvier 2014-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP3_Reseaux_L3_Analyse_paquets_Outils_ARP_DHCP.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TD CCNA1 V4Chapitre4 énoncé-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Chapitre 6 CCNA 1 V4 énoncé-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP5 Genie Informatique Mise en place d'un reseau local-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 cours introduction a la programmation reseau-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TD reseaux Periode 1.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TD Transmission des donnees et reseaux locaux-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP1 reseaux locaux cablage et fonctions des equipements-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 INF157 L3 info utilisation des reseaux cours-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Correction Examen reseaux et SD C-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Correction TD Reseaux et SD-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Cours des réseaux Informatiques 2010 2011 Rziza Mohammed-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 USTHB examen reseaux 12 janvier 2013.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 examen reseaux 2013-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP découverte des réseaux et protocoles réseaux-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Chapitre 1 Transmission des données.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TD1_Transmission des donnees-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TD Reseaux Locaux et Ethernet Msila 2018 2019-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DS2 Reseaux Informatique 2018 2019.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Genie Informatique Reseaux Informatique Exercices Corriges-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DS2 Reseaux Informatique 2017-2018 Corrigé.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 rattrapage examen reseaux info 2013 2014.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 correction examen reseaux info 2015 2016.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 correction ds2 reseaux info 2015 2h-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DSI 2016 2017 Examen-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DSI 2013 2014 reseaux informatique examen-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Exercices adresses MAC reseaux-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Exercices sur les réseaux sans fil-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP Genie Informatique Les fondamentaux des réseaux-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 examen reseaux 2010 2011-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Cours reseaux 6 routage IP.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP1_Reseaux_Câble_RJ45.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DS2_2015_Reseaux_Informatique_Agadir-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TD Réseaux Informatique N°4 2013 2014.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 cours reseau introduction-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 cours reseaux TCP IP.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 examen reseaux L3 S5-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Chapitre 4 Protocoles Internet cours reseaux.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DSI 2017-2018 Examen Réseaux Informatique-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TD2 Adressage IP-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DS2 Reseaux Informatique 2014 2015 Corrige-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP reseaux L3 informatique notions de sous-reseaux et masquage statique-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 cours reseaux telecoms urec v1-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Master 1 Informatique MIF11 Reseau Codage et elements de theorie de l information Florent Dupont-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TD Reseaux Informatique 2015 2016-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 rattrapage reseaux info 2015 2016 agad-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 cours reseaux TCP IP.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DS2 Reseaux Informatique 2013 2h Mazoul-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TD Interrogation reseaux USTHB 2010 2011.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Exercices Réseaux et protocoles NFP104 2007 2008-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP R4.7 FTP Initiation-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TD1_reseaux_info_2015_2016.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 cours reseaux TCP IP.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DS2 Reseaux Informatique 2017 2018 Corrigé.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DSI 2014 2015 Corrigé-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 M6 Genie Informatique TP2 Routage statique et adressage-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Chapitre 5 CCNA 1 V4 énoncés-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Genie Informatique TP1 Assembleur et configuration d un reseau.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DS2 Reseaux Informatique 2018 2019.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Réseaux et télécoms QCM-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 cours administration reseau informatique-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP Adressage IP-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TD Réseaux S1 LMD 2014-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP Configuration avancée du protocole RIPv1-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP2 Mise en oeuvre d'un reseau poste a poste-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP 8 Protocole de routage EIGRP Les listes de contrôle d'accès.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP R4.3 IP-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 esil reseaux 1 transmission des donnees cours 2010 2011-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP2-TP-routage-reseaux-correction-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DS2_2016_reseaux_info_2h_A.Mazou-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DS2 Reseaux Informatique 2014-2015-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 examen reseaux locaux 1ere sem 2011-2012-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP Configuration et Administration d'un switch.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Réseaux et télécoms QCMs-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP1_Les Commandes Reseaux-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Cours Codes Polynomiaux-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP Programmation Socket Réalisation d'une application de temps-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP R4.4 ARP-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TD Concepts généraux sur les réseaux informatiques</div>
+<div class="tree-file">│   ├── 📄 TD1 Introduction et notions de base-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 QCM Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP4 Configuration des VLAN et VTP.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DSI 2016 2017 Examen Réseaux Informatique.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DS2_2016_2017_Réseaux_Informatique_corrigé-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Tp reseaux info 3 adresses ip 2013 2014.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TD Reseau Codes correcteurs et codes detecteurs-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 USTHB. L3 ACAD. RESEAUX. Examen 26 Janvier 2014-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Chapitre 0 Introduction a la teleinformatique-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 correction ds2 reseaux info 2013 2h mazoul.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 cours protocole HDLC-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 cours reseaux locaux-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Cours Protocoles couches transport et application de TCP-IP-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Gestion de la liaison et correction des erreurs cours reseaux-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Cours Les Fondamentaux des Réseaux et TCP IP-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP 5 Configuration et Administration d'un routeur 1-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DSI 2013 2014 Examen-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Analyse de protocole reseau local TP1.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Exercice 6.4.1 Adressage et calcul VLSM notions elementaires-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 cours reseaux licence 3 informatique.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Correction Examen Réseaux Informatique 2013 2014.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Exercices corrigés adressage et routage IP-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Exercices sur les adresses IP-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Chapitre 7 - Les protocoles de transport TCP et UDP-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 L3 Reseaux et Telecommunications IP fragmentation routage commutation-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Correction exercice 3 4.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TD CCNA1 V4Chapitre4 Corrige-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Cours Les Fondamentaux des Réseaux et TCP IP-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DSI 2015 2016 Examen-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DSI 2018 2019 Examen-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Cours Réseaux locaux-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP Configuration et Administration d'un routeur 2-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 isiag iup miage reseaux informatiques cours 2005 2006 jalal boularbah-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 TP1_Reseaux_L3_Configuration_adressage_IP_sous_Linux_et_Windows.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 cours reseaux SIL NTI Aix Marseille-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Cours de Réseaux informatiques LMD 3e année-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DSI 2017-2018 Reseaux Informatique Examen-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Chapitre 7 CCNA 1 V4 énoncés-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DSI_Reseaux_Informatique_2018_2019_2h_Mazouj.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Cours réseaux et télécoms 3e édition-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DSI 2014 2015 Examen-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 DSI Examen Reseaux Informatique 2015 2016.pdf-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Exercices sur les conversions binaires et décimales des adresses IP-Réseaux Informatiques</div>
+<div class="tree-file">│   ├── 📄 Architecture reseaux TCP IP-Réseaux Informatiques</div>
+<div class="tree-file">│   └── 📄 TP Configuration des fonctions NAT et PAT-Réseaux Informatiques</div>
+<div class="tree-folder">└── 📁 dzuniv img+ reseau/</div>
+<div class="tree-file">    ├── 📄 Chap8.pptx</div>
+<div class="tree-file">    ├── 📄 Chapitre6.pptx</div>
+<div class="tree-file">    ├── 📄 _Cours-réseaux2012_Salmi_Chap1.ppt</div>
+<div class="tree-file">    ├── 📄 La Couche Physique .ppt</div>
+<div class="tree-file">    ├── 📄 Interro 2.jpg</div>
+<div class="tree-file">    ├── 📄 Chap4.pptx</div>
+<div class="tree-file">    ├── 📄 Chap5.pptx</div>
+<div class="tree-file">    ├── 📄 TP Wireshark.docx</div>
+<div class="tree-file">    ├── 📄 TP5-Licence.docx</div>
+<div class="tree-file">    └── 📄 TP VLSM.docx</div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     HOW TO ORDER
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>RESEAUX</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FAQ
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">RESEAUX</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module RESEAUX ?</summary>
+      <p>
+        Le module <strong>RESEAUX</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module RESEAUX ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>RESEAUX</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module RESEAUX correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     CTA FINAL
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">RESEAUX</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════ -->
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>

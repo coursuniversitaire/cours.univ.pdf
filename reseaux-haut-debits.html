@@ -1,0 +1,862 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- ═══ SEO Primary ═══ -->
+  <title>réseaux haut débits — Cours PDF, TD & Examens Corrigés | CoursUni</title>
+  <meta name="description" content="Téléchargez le module réseaux haut débits : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta name="keywords"    content="réseaux haut débits, cours réseaux haut débits pdf, td corrigés réseaux haut débits, examen corrigé réseaux haut débits, module réseaux haut débits université, polycopié réseaux haut débits, exercices corrigés réseaux haut débits, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/reseaux-haut-debits.html" />
+
+  <!-- ═══ Open Graph ═══ -->
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="réseaux haut débits — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta property="og:description" content="Téléchargez le module réseaux haut débits : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/reseaux-haut-debits.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <!-- ═══ Twitter Card ═══ -->
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="réseaux haut débits — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta name="twitter:description" content="Téléchargez le module réseaux haut débits : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+
+  <!-- ═══ Robots ═══ -->
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-05" />
+
+  <!-- ═══ Schema.org JSON-LD ═══ -->
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"réseaux haut débits","item":"https://coursuniversitaire.github.io/cours.univ.pdf/reseaux-haut-debits.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module réseaux haut débits ?","acceptedAnswer":{"@type":"Answer","text":"Le module réseaux haut débits contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module réseaux haut débits ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module réseaux haut débits correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    /* ═══════════════════════════════════════
+       Design tokens — matches CoursUni site
+       ═══════════════════════════════════════ */
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ── */
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    /* ── Nav ── */
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* ── Breadcrumb ── */
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    /* ── Hero ── */
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.55rem; font-weight: 700; margin-bottom: 28px;
+    }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    /* ── Cards grid ── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    /* ── Drive tree ── */
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    /* ── Steps ── */
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    /* ── FAQ ── */
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    /* ── Trust bar ── */
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    /* ── CTA section ── */
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    /* ── Footer ── */
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════
+     NAV
+════════════════════════════════════════ -->
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ════════════════════════════════════════
+     HERO
+════════════════════════════════════════ -->
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>réseaux haut débits</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>réseaux haut débits</em><br />
+      Cours, TD et exercices corrigés réseaux haut débits pdf &amp; Examens Corripdf
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>réseaux haut débits</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.
+      Accès immédiat.
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">1</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     WHAT YOU GET
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">réseaux haut débits</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés réseaux haut débits</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     DRIVE TREE
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">réseaux haut débits</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module réseaux haut débits">
+<div class="tree-file">├── 📄 Drive module réseaux haut débits - cours, exercices corrigés et examens.txt</div>
+<div class="tree-file">├── 📄 RESEAUX HAUT DEBIT-20260621T004138Z-3-001.zip</div>
+<div class="tree-folder">├── 🔗📁 RESEAUX HAUT DEBIT/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 TP RHD/</div>
+<div class="tree-folder">│   │   ├── 📁 TP01/</div>
+<div class="tree-file">│   │   │   ├── 📄 007.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 005.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 002.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 003.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 006.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 008.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 001.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 004.jpg</div>
+<div class="tree-folder">│   │   │   └── 📁 TP RHD1/</div>
+<div class="tree-file">│   │   │       ├── 📄 TP2_Cisco_Packet_Tracer_corrige.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 Serial Cable Connection Guide - Cisco.html</div>
+<div class="tree-file">│   │   │       ├── 📄 creation-d-un-cable-rj45-croise-304-nolfsa.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 t.pkt</div>
+<div class="tree-file">│   │   │       ├── 📄 RS-232.html</div>
+<div class="tree-file">│   │   │       ├── 📄 TP.pkt</div>
+<div class="tree-folder">│   │   │       ├── 📁 TP RHD/</div>
+<div class="tree-file">│   │   │       │   ├── 📄 002.jpg</div>
+<div class="tree-file">│   │   │       │   ├── 📄 003.jpg</div>
+<div class="tree-file">│   │   │       │   ├── 📄 007.jpg</div>
+<div class="tree-file">│   │   │       │   ├── 📄 005.jpg</div>
+<div class="tree-file">│   │   │       │   ├── 📄 004.jpg</div>
+<div class="tree-file">│   │   │       │   ├── 📄 008.jpg</div>
+<div class="tree-file">│   │   │       │   ├── 📄 006.jpg</div>
+<div class="tree-file">│   │   │       │   └── 📄 001.jpg</div>
+<div class="tree-folder">│   │   │       ├── 📁 RS-232_files/</div>
+<div class="tree-file">│   │   │       │   ├── 📄 200px-serial_port.jpg</div>
+<div class="tree-file">│   │   │       │   ├── 📄 access-handicap.gif</div>
+<div class="tree-file">│   │   │       │   ├── 📄 imprime.gif</div>
+<div class="tree-file">│   │   │       │   ├── 📄 composelec-logo.jpg</div>
+<div class="tree-file">│   │   │       │   ├── 📄 recherche.gif</div>
+<div class="tree-file">│   │   │       │   ├── 📄 css_menus.css</div>
+<div class="tree-file">│   │   │       │   ├── 📄 cm(1).html</div>
+<div class="tree-file">│   │   │       │   ├── 📄 cm.html</div>
+<div class="tree-file">│   │   │       │   ├── 📄 redim_functions.js.download</div>
+<div class="tree-file">│   │   │       │   ├── 📄 pub-humanis.jpg</div>
+<div class="tree-file">│   │   │       │   ├── 📄 accueil.gif</div>
+<div class="tree-file">│   │   │       │   ├── 📄 empty.gif</div>
+<div class="tree-file">│   │   │       │   ├── 📄 css_imprimante.css</div>
+<div class="tree-file">│   │   │       │   ├── 📄 css_layout.css</div>
+<div class="tree-file">│   │   │       │   ├── 📄 OQFX3TmU_f-rtM_.jpg</div>
+<div class="tree-file">│   │   │       │   ├── 📄 enveloppe.gif</div>
+<div class="tree-file">│   │   │       │   ├── 📄 magnify-clip.png</div>
+<div class="tree-file">│   │   │       │   ├── 📄 200px-rs-232.jpeg</div>
+<div class="tree-file">│   │   │       │   ├── 📄 haut.gif</div>
+<div class="tree-file">│   │   │       │   ├── 📄 wiki_extract.css</div>
+<div class="tree-file">│   │   │       │   └── 📄 log.php</div>
+<div class="tree-folder">│   │   │       └── 📁 Serial Cable Connection Guide - Cisco_files/</div>
+<div class="tree-file">│   │   │           ├── 📄 utag.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_2500_X21MT.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 icon_lock_small.png</div>
+<div class="tree-file">│   │   │           ├── 📄 masthead.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_NPV35TV2.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_7000_HSI1.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 eot_metricsrule.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 seot-mbox.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_232MT.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 granite.min.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_3000_3CX21.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 eot_ie8logoinsert.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_3000_3C232.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 jqmodal.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 pdficon_small.png</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_7000_V35FC.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_7000_449MT.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_7000_V35MC.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 id30v4.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_2500_V35FT.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Guest</div>
+<div class="tree-file">│   │   │           ├── 📄 parseXml.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_NPX21C.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_500CS_500DCF.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 sh.d663e43787b663d5491cf753.html</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_AGS_VTM.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_X21MT.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_V35MC.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_7000_7KCT1DB15.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 cisco-sans.min.css</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_HRgrn3.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_2500_X21FC.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 print.png</div>
+<div class="tree-file">│   │   │           ├── 📄 custom-elements-es5-adapter.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_AGS_R44.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_3000_3C449.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_530MT.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 mbox.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_AGS_R23.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_3000_3C232C.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_3000_3C530.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_500CS_5MODCM.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_7000_232FC.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_7000_X21FC.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 psa_typeahead_common.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_449MT.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_AGS_HSI1.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 c37v1.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 standard</div>
+<div class="tree-file">│   │   │           ├── 📄 utag.67.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_NP449C.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_7000_530MT.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 support-docs.css</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_500CS_500DCM.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 index.html</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_3000_3CX21C.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 megamenu.min.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 addthis_widget.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_NP530.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 relatedProducts.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_7000_232MT.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 cdcvalid.js(1).download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_NP449T.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 plugin_vp.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_3000_3C449C.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_AGS_X21CF.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 config.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 mbox.min.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 support-responsive.css</div>
+<div class="tree-file">│   │   │           ├── 📄 shared.min.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_HRred.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 config.js(1).download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_AGS_VCF.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 utag.76.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 ctm.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_2500_530MT.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_500CS_500DTF.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_7000_HNUL.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_2500_V35MT.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_HRgreen.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_2500_V35FC.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 adrum.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_V35MT.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_AGS_VCM.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 utag.215.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 recommendation.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 megamenu.min.css</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_7000_V35FT.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_AGS_HNUL.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 utils.min.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 jquery.min.js(1).download</div>
+<div class="tree-file">│   │   │           ├── 📄 utag.64.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_V35FC.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 dest_pg_metricsrule.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 utag.180.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_7000_7KCT1NULL.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_3000_3CV35V2.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 masterbrand.min.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 cl.min.css</div>
+<div class="tree-file">│   │   │           ├── 📄 sm_0000EE_oo1.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 cdcPreview.css</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_2500_232FC.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_3000_3CV35V2C.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_NPX21T.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 utag.65.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_HRgrn2.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 masterbrand.min.css</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_2500_232MT.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_HRred2.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_500CS_500DTM.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_7000_449FC.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 mm-spinner.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_X21FC.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 jquery.min.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 300lo.json</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_2500_449FC.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_V35FT.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_7000_X21MT.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 cdcvalid.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 utag.58.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_232FC.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_NPV35CV2.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 responsive.min.css</div>
+<div class="tree-file">│   │   │           ├── 📄 foundation.min.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_2500_449MT.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 responsive.min.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 webcomponents-loader.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_2500_V35MC.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_449FC.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_Connect.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_500CS_500RJ.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 _ate.track.config_resp</div>
+<div class="tree-file">│   │   │           ├── 📄 utag.75.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 utag.63.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_NP232T.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 kernel.min.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 utag.213.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_7000_V35MT.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 global-icon.svg</div>
+<div class="tree-file">│   │   │           ├── 📄 underscore.min.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 utag.27.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_AGS_VTF.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 conversion_async.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 Bro_Cable_4000_NP232C.gif</div>
+<div class="tree-file">│   │   │           ├── 📄 utag.225.js.download</div>
+<div class="tree-file">│   │   │           ├── 📄 utag.83.js.download</div>
+<div class="tree-file">│   │   │           └── 📄 lockblue.gif</div>
+<div class="tree-folder">│   │   ├── 📁 all/</div>
+<div class="tree-file">│   │   │   ├── 📄 4.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 33923785_1368948839905272_4147470860560629760_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 33848364_110321929857830_7815317058115076096_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 33922826_1368949366571886_4448228793026347008_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 34017512_1368948653238624_2275803866211549184_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 34010385_1368949946571828_2279643150362345472_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 3.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 33891714_110321736524516_3445866452152745984_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 33833403_1368948646571958_2463138507028168704_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 1.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 5.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 33902952_1368949393238550_575634538034626560_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 34075941_1368949893238500_2267988614870728704_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 34048460_110321789857844_1589395640507432960_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 33992631_1368949593238530_5973587334438846464_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 33875339_1368949223238567_520204420256890880_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 33923607_1368949013238588_3383922969225986048_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 33823377_1368949863238503_1640725249928462336_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 33980212_1368949226571900_6319930512186015744_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 33992769_1368948789905277_4189900812413042688_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 33815919_1368949049905251_6400870510908932096_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 33920309_1368949719905184_8339414715901935616_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 33901217_1368949576571865_3821813684125040640_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 33990855_110321499857873_2480275568273129472_n.jpg</div>
+<div class="tree-file">│   │   │   └── 📄 33990799_1368949713238518_1617497821978558464_n.jpg</div>
+<div class="tree-folder">│   │   ├── 📁 TP02/</div>
+<div class="tree-file">│   │   │   └── 📄 TP02.docx</div>
+<div class="tree-folder">│   │   ├── 📁 TP03/</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3-Préparation.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 x07.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 003.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 x01.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 x05.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 002-3.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 x03.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 x06.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 002-2.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 001.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 x02.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 002-1.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 x04.jpg</div>
+<div class="tree-file">│   │   │   └── 📄 004.jpg</div>
+<div class="tree-folder">│   │   └── 📁 TP04/</div>
+<div class="tree-file">│   │       ├── 📄 TP4  RHD.docx</div>
+<div class="tree-file">│   │       ├── 📄 Site-to-Site IPsec VPN _ CISCOMADESIMPLE.BE.html</div>
+<div class="tree-folder">│   │       └── 📁 Site-to-Site IPsec VPN _ CISCOMADESIMPLE.BE_files/</div>
+<div class="tree-file">│   │           ├── 📄 printfriendly-pdf-button-nobg.png</div>
+<div class="tree-file">│   │           ├── 📄 jquery.js.download</div>
+<div class="tree-file">│   │           ├── 📄 responsive-scripts.min.js.download</div>
+<div class="tree-file">│   │           ├── 📄 wp-emoji-release.min.js(1).download</div>
+<div class="tree-file">│   │           ├── 📄 saved_resource(2)</div>
+<div class="tree-file">│   │           ├── 📄 f8a4c8fc4f4e2d266897c1848677f31c.png</div>
+<div class="tree-file">│   │           ├── 📄 4f4777074b947546c0fa0f177d967edc.jpeg</div>
+<div class="tree-file">│   │           ├── 📄 twitter-timeline.min.js.download</div>
+<div class="tree-file">│   │           ├── 📄 3eea4fa323ee70326a6b6f44ea135d1e.png</div>
+<div class="tree-file">│   │           ├── 📄 widget_iframe.08b626208bff56b0ed982833346043ef.html</div>
+<div class="tree-file">│   │           ├── 📄 comment-reply.min.js.download</div>
+<div class="tree-file">│   │           ├── 📄 twitter.png</div>
+<div class="tree-file">│   │           ├── 📄 form.js.download</div>
+<div class="tree-file">│   │           ├── 📄 jquery-migrate.min.js.download</div>
+<div class="tree-file">│   │           ├── 📄 4aa8bb61e9d64e78ccb10291e43f1884.png</div>
+<div class="tree-file">│   │           ├── 📄 printfriendly.js.download</div>
+<div class="tree-file">│   │           ├── 📄 font-awesome.min.css</div>
+<div class="tree-file">│   │           ├── 📄 style(1).css</div>
+<div class="tree-file">│   │           ├── 📄 saved_resource(6).html</div>
+<div class="tree-file">│   │           ├── 📄 saved_resource(7).html</div>
+<div class="tree-file">│   │           ├── 📄 linkedin.png</div>
+<div class="tree-file">│   │           ├── 📄 hovercard(1).css</div>
+<div class="tree-file">│   │           ├── 📄 postmessage.min.js.download</div>
+<div class="tree-file">│   │           ├── 📄 services(1).css</div>
+<div class="tree-file">│   │           ├── 📄 vpn-capt.png</div>
+<div class="tree-file">│   │           ├── 📄 wpgroho.js(1).download</div>
+<div class="tree-file">│   │           ├── 📄 89f5b3e31820013218d8230380e94bbb.png</div>
+<div class="tree-file">│   │           ├── 📄 saved_resource(8).html</div>
+<div class="tree-file">│   │           ├── 📄 wp-embed.min.js.download</div>
+<div class="tree-file">│   │           ├── 📄 jetpack.css</div>
+<div class="tree-file">│   │           ├── 📄 dashicons.min.css</div>
+<div class="tree-file">│   │           ├── 📄 g.gif</div>
+<div class="tree-file">│   │           ├── 📄 youtube-icon.png</div>
+<div class="tree-file">│   │           ├── 📄 style.css</div>
+<div class="tree-file">│   │           ├── 📄 a</div>
+<div class="tree-file">│   │           ├── 📄 cropped-cropped-logo-cmsbe-012.png</div>
+<div class="tree-file">│   │           ├── 📄 f47851bd241e77fee4509edbeddfe65c.png</div>
+<div class="tree-file">│   │           ├── 📄 facebook.png</div>
+<div class="tree-file">│   │           ├── 📄 googleplus-icon.png</div>
+<div class="tree-file">│   │           ├── 📄 widgets.js.download</div>
+<div class="tree-file">│   │           ├── 📄 90a1e22f3628b1b4f391379e0d45d2ae.png</div>
+<div class="tree-file">│   │           ├── 📄 saved_resource(5).html</div>
+<div class="tree-file">│   │           ├── 📄 timeline.e7653a8bc8be5342f5ecf22ae2e65c92.js.download</div>
+<div class="tree-file">│   │           ├── 📄 feed.png</div>
+<div class="tree-file">│   │           ├── 📄 style(3).css</div>
+<div class="tree-file">│   │           ├── 📄 jquery.jetpack-resize.min.js.download</div>
+<div class="tree-file">│   │           ├── 📄 master.html</div>
+<div class="tree-file">│   │           ├── 📄 wpgroho.js.download</div>
+<div class="tree-file">│   │           ├── 📄 services.css</div>
+<div class="tree-file">│   │           ├── 📄 googleplus-sign-in.js.download</div>
+<div class="tree-file">│   │           ├── 📄 darkblue.css</div>
+<div class="tree-file">│   │           ├── 📄 4f4777074b947546c0fa0f177d967edc(1).jpeg</div>
+<div class="tree-file">│   │           ├── 📄 1f609.svg</div>
+<div class="tree-file">│   │           ├── 📄 responsive.css</div>
+<div class="tree-file">│   │           ├── 📄 wp-emoji-release.min.js.download</div>
+<div class="tree-file">│   │           ├── 📄 facebook-icon.png</div>
+<div class="tree-file">│   │           ├── 📄 gdsr.js.download</div>
+<div class="tree-file">│   │           ├── 📄 youtube.png</div>
+<div class="tree-file">│   │           ├── 📄 social-icons.css</div>
+<div class="tree-file">│   │           ├── 📄 rating.css</div>
+<div class="tree-file">│   │           ├── 📄 saved_resource(3)</div>
+<div class="tree-file">│   │           ├── 📄 jquery.placeholder.min.js.download</div>
+<div class="tree-file">│   │           ├── 📄 social-logos.min.css</div>
+<div class="tree-file">│   │           ├── 📄 desktop_style.css</div>
+<div class="tree-file">│   │           ├── 📄 queuehandler.min.js.download</div>
+<div class="tree-file">│   │           ├── 📄 249d0a67854fe4db641f169e682df784.png</div>
+<div class="tree-file">│   │           ├── 📄 hovercard.css</div>
+<div class="tree-file">│   │           ├── 📄 googleplus.png</div>
+<div class="tree-file">│   │           ├── 📄 gprofiles.js.download</div>
+<div class="tree-file">│   │           ├── 📄 twitter-icon.png</div>
+<div class="tree-file">│   │           ├── 📄 responsive-modernizr.min.js.download</div>
+<div class="tree-file">│   │           ├── 📄 gdsr.css.php</div>
+<div class="tree-file">│   │           ├── 📄 style(2).css</div>
+<div class="tree-file">│   │           ├── 📄 saved_resource.html</div>
+<div class="tree-file">│   │           ├── 📄 ad516503a11cd5ca435acc9bb6523536.png</div>
+<div class="tree-file">│   │           ├── 📄 gprofiles.js(1).download</div>
+<div class="tree-file">│   │           ├── 📄 saved_resource(4)</div>
+<div class="tree-file">│   │           ├── 📄 jquery.t-countdown.js.download</div>
+<div class="tree-file">│   │           ├── 📄 e-201822.js.download</div>
+<div class="tree-file">│   │           ├── 📄 6042f7dcfdf4d1a0909ddcdb471b7580.png</div>
+<div class="tree-file">│   │           ├── 📄 68528596ca33447fe6f7a4d83e0f2341.png</div>
+<div class="tree-file">│   │           ├── 📄 saved_resource</div>
+<div class="tree-file">│   │           ├── 📄 sharing.min.js.download</div>
+<div class="tree-file">│   │           ├── 📄 devicepx-jetpack.js.download</div>
+<div class="tree-file">│   │           ├── 📄 saved_resource(1)</div>
+<div class="tree-file">│   │           ├── 📄 front_end_style.css</div>
+<div class="tree-file">│   │           └── 📄 vpn.png</div>
+<div class="tree-folder">│   └── 📁 COURS RHD/</div>
+<div class="tree-file">│       ├── 📄 COUR-06.pdf</div>
+<div class="tree-file">│       ├── 📄 COUR-04.pdf</div>
+<div class="tree-file">│       ├── 📄 COUR-01.pdf</div>
+<div class="tree-file">│       ├── 📄 COUR-05.pdf</div>
+<div class="tree-file">│       ├── 📄 COUR-03.pdf</div>
+<div class="tree-file">│       └── 📄 COUR-02.pdf</div>
+<div class="tree-folder">├── 🔗📁 réseaux haut débits/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 FrameRelay-X25.pdf</div>
+<div class="tree-file">│   ├── 📄 ATM-Cours-1.pdf</div>
+<div class="tree-file">│   ├── 📄 Réseaux à hauts débits.pdf</div>
+<div class="tree-file">│   ├── 📄 Architecture OSI.pdf</div>
+<div class="tree-folder">│   ├── 📁 tp/</div>
+<div class="tree-file">│   │   └── 📄 Lab2.pdf</div>
+<div class="tree-folder">│   ├── 📁 terminologie/</div>
+<div class="tree-file">│   │   ├── 📄 Annexe Terminologie_2.pdf</div>
+<div class="tree-file">│   │   └── 📄 Annexe Terminologie_1.pdf</div>
+<div class="tree-folder">│   ├── 📁 GNS3/</div>
+<div class="tree-file">│   │   ├── 📄 resFDDI.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Frame-Relay-Understanding-it.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Cours ATM-2009.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD-GNS3-Routeurs.pdf</div>
+<div class="tree-file">│   │   ├── 📄 c3745-advipservicesk9-mz.124-19.bin</div>
+<div class="tree-file">│   │   ├── 📄 c3745-advipservicesk9-mz.124-19.image</div>
+<div class="tree-file">│   │   └── 📄 c7200-advipservicesk9-mz.124-24.T1.bin (2).bin</div>
+<div class="tree-folder">│   └── 📁 introduction/</div>
+<div class="tree-file">│       ├── 📄 Introduction_Partie_2.pdf</div>
+<div class="tree-file">│       └── 📄 Introduction_Partie_3.pdf</div>
+<div class="tree-folder">└── 🔗📁 Les réseaux hauts débit/  (raccourci)</div>
+<div class="tree-folder">    ├── 📁 TD/</div>
+<div class="tree-folder">    ├── 📁 Cours/</div>
+<div class="tree-folder">    ├── 📁 Exercices/</div>
+<div class="tree-folder">    ├── 📁 Résumés/</div>
+<div class="tree-folder">    └── 📁 Examens Corrigés/</div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     HOW TO ORDER
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>réseaux haut débits</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FAQ
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">réseaux haut débits</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module réseaux haut débits ?</summary>
+      <p>
+        Le module <strong>réseaux haut débits</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module réseaux haut débits ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>réseaux haut débits</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module réseaux haut débits correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     CTA FINAL
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">réseaux haut débits</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════ -->
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>

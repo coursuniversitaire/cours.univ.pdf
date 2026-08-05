@@ -1,0 +1,1265 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- ═══ SEO Primary ═══ -->
+  <title>Programmation C — Cours PDF, TD & Examens Corrigés | CoursUni</title>
+  <meta name="description" content="Téléchargez le module Programmation C : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta name="keywords"    content="Programmation C, cours Programmation C pdf, td corrigés Programmation C, examen corrigé Programmation C, module Programmation C université, polycopié Programmation C, exercices corrigés Programmation C, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/programmation-c.html" />
+
+  <!-- ═══ Open Graph ═══ -->
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Programmation C — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta property="og:description" content="Téléchargez le module Programmation C : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/programmation-c.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <!-- ═══ Twitter Card ═══ -->
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Programmation C — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta name="twitter:description" content="Téléchargez le module Programmation C : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+
+  <!-- ═══ Robots ═══ -->
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-05" />
+
+  <!-- ═══ Schema.org JSON-LD ═══ -->
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Programmation C","item":"https://coursuniversitaire.github.io/cours.univ.pdf/programmation-c.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Programmation C ?","acceptedAnswer":{"@type":"Answer","text":"Le module Programmation C contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Programmation C ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Programmation C correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    /* ═══════════════════════════════════════
+       Design tokens — matches CoursUni site
+       ═══════════════════════════════════════ */
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ── */
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    /* ── Nav ── */
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* ── Breadcrumb ── */
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    /* ── Hero ── */
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.55rem; font-weight: 700; margin-bottom: 28px;
+    }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    /* ── Cards grid ── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    /* ── Drive tree ── */
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    /* ── Steps ── */
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    /* ── FAQ ── */
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    /* ── Trust bar ── */
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    /* ── CTA section ── */
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    /* ── Footer ── */
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════
+     NAV
+════════════════════════════════════════ -->
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ════════════════════════════════════════
+     HERO
+════════════════════════════════════════ -->
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Programmation C</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Programmation C</em><br />
+      Cours, TD et exercices corrigés Programmation C pdf &amp; Examens Corripdf
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Programmation C</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.
+      Accès immédiat.
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">6</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">52</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">13</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">59</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     WHAT YOU GET
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Programmation C</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Programmation C</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     DRIVE TREE
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Programmation C</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Programmation C">
+<div class="tree-folder">├── 🔗📁 Algorithmique et programmation 2 (BANOUAR OUMAYMA)/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Examens/</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-07 at 18.51.54.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-07 at 18.51.49.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-07 at 18.51.50.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-07 at 18.51.51.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 WhatsApp Image 2026-01-07 at 18.51.52.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 langage_c_2016_annales-1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SDD[1].pdf</div>
+<div class="tree-file">│   │   └── 📄 Contrôle Langage C N 1 QCM CORRECTION (1).pdf</div>
+<div class="tree-folder">│   ├── 📁 TDs.TPs/</div>
+<div class="tree-file">│   │   ├── 📄 mainTP6_commente.o</div>
+<div class="tree-file">│   │   ├── 📄 mainTP6_commente.c</div>
+<div class="tree-file">│   │   ├── 📄 mainTP6_commente.exe</div>
+<div class="tree-file">│   │   ├── 📄 mainTP5_commente.exe</div>
+<div class="tree-file">│   │   ├── 📄 mainTP5_commente.o</div>
+<div class="tree-file">│   │   ├── 📄 mainTP5_commente.c</div>
+<div class="tree-file">│   │   ├── 📄 TP5 EXERCICE 3.exe</div>
+<div class="tree-file">│   │   ├── 📄 TP5 EXERCICE 3.o</div>
+<div class="tree-file">│   │   ├── 📄 TP5 EXERCICE 3.c</div>
+<div class="tree-file">│   │   ├── 📄 TP5 EXERCICE 2.o</div>
+<div class="tree-file">│   │   ├── 📄 TP5 EXERCICE 2.exe</div>
+<div class="tree-file">│   │   ├── 📄 TP5 EXERCICE 2.c</div>
+<div class="tree-file">│   │   ├── 📄 TDTP 2 Manipulation d’une matrice (déclaration statique).rtf</div>
+<div class="tree-file">│   │   ├── 📄 main (1).c</div>
+<div class="tree-file">│   │   ├── 📄 mainTP4_commente.o</div>
+<div class="tree-file">│   │   ├── 📄 mainTP4_commente.exe</div>
+<div class="tree-file">│   │   ├── 📄 mainTP4.exe</div>
+<div class="tree-file">│   │   ├── 📄 mainTP4.o</div>
+<div class="tree-file">│   │   ├── 📄 exercicSOMME,MATRICE.exe</div>
+<div class="tree-file">│   │   ├── 📄 exercicSOMME,MATRICE.o</div>
+<div class="tree-file">│   │   ├── 📄 exercicSOMME,MATRICE.c</div>
+<div class="tree-file">│   │   ├── 📄 mainTP4_commente.c</div>
+<div class="tree-file">│   │   ├── 📄 mainTP4.c</div>
+<div class="tree-file">│   │   ├── 📄 TDTP 2 Manipulation d’une matrice (déclaration statique).c</div>
+<div class="tree-file">│   │   ├── 📄 exerciceApplication.exe</div>
+<div class="tree-file">│   │   ├── 📄 exerciceApplication.o</div>
+<div class="tree-file">│   │   ├── 📄 exerciceApplication.c</div>
+<div class="tree-file">│   │   ├── 📄 TP1 main et mainMenu.o</div>
+<div class="tree-file">│   │   ├── 📄 TP1 main et mainMenu.exe</div>
+<div class="tree-file">│   │   ├── 📄 mainMenu.o</div>
+<div class="tree-file">│   │   ├── 📄 mainMenu.exe</div>
+<div class="tree-file">│   │   ├── 📄 main.exe</div>
+<div class="tree-file">│   │   ├── 📄 main.o</div>
+<div class="tree-file">│   │   ├── 📄 TDTP 2 Manipulation d’une matrice (déclaration statique).pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TPs/</div>
+<div class="tree-file">│   │   │   ├── 📄 TP n°5  Chaines de caractère.c</div>
+<div class="tree-file">│   │   │   ├── 📄 TP n°6 Fonctions.c</div>
+<div class="tree-file">│   │   │   ├── 📄 correction de TP6 Fonctions.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP_Fonctions.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP_Algo_Procg_C_S3.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TDTP 2  Manipulation d’une matrice (déclaration statique).pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3_Pointeurs_Arithmetique_C.c</div>
+<div class="tree-file">│   │   │   ├── 📄 TP1 main et mainMenu.c</div>
+<div class="tree-file">│   │   │   ├── 📄 TDTP 1 Manipulation avancée d’un tableau.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP4 Allocation dynamique de variables simples en C.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3_Exo_3.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3_Exo_2.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3_Exo_1.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 mainTP2.c</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3_Exo_2.c</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3_Exo_1.c</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3_Exo_3.c</div>
+<div class="tree-file">│   │   │   ├── 📄 mainTP2_(1)[1].pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP_Pointeurs_Arithmetique_C_a402167fd04cf8b238ad788a4baaa253.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 mainMenu.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 main.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 mainMenu.c</div>
+<div class="tree-file">│   │   │   ├── 📄 main.c</div>
+<div class="tree-file">│   │   │   └── 📄 TP_ProgC_S3.pdf</div>
+<div class="tree-folder">│   │   └── 📁 PROJET TP1234/</div>
+<div class="tree-file">│   │       ├── 📄 TP n°6 Fonctions.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TP n°5  Chaines de caractère.pdf</div>
+<div class="tree-file">│   │       ├── 📄 mainTP4_Allocation dynamique de variables simples en C.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TP6 AboutahirOmar_GI.rtf</div>
+<div class="tree-file">│   │       ├── 📄 mainTP5_commente.rtf</div>
+<div class="tree-file">│   │       ├── 📄 TP1 AboutahirOmar_GI.docx</div>
+<div class="tree-file">│   │       ├── 📄 TP4 AboutahirOmar_GI.docx</div>
+<div class="tree-file">│   │       ├── 📄 mainTP4_Allocation dynamique de variables simples en C.rtf</div>
+<div class="tree-file">│   │       ├── 📄 TP3 AboutahirOmar_GI.docx</div>
+<div class="tree-file">│   │       ├── 📄 TP3_Pointeurs_Arithmetique_C.rtf</div>
+<div class="tree-file">│   │       ├── 📄 TP2 AboutahirOmar_GI.docx</div>
+<div class="tree-file">│   │       ├── 📄 TDTP 2 Manipulation d’une matrice (déclaration statique) (2).exe</div>
+<div class="tree-file">│   │       ├── 📄 TDTP 2 Manipulation d’une matrice (déclaration statique) (2).o</div>
+<div class="tree-file">│   │       ├── 📄 TP2 AboutahirOmar_GI.rtf</div>
+<div class="tree-file">│   │       ├── 📄 TP1 main et mainMenu.rtf</div>
+<div class="tree-file">│   │       ├── 📄 PROJET TP1,TP2,TP3,TP4.zip</div>
+<div class="tree-file">│   │       ├── 📄 TDTP 2 Manipulation d’une matrice (déclaration statique).c</div>
+<div class="tree-file">│   │       ├── 📄 TDTP 2 Manipulation d’une matrice (déclaration statique).exe</div>
+<div class="tree-file">│   │       ├── 📄 TDTP 2 Manipulation d’une matrice (déclaration statique).o</div>
+<div class="tree-file">│   │       ├── 📄 mainTP4_commente.o</div>
+<div class="tree-file">│   │       ├── 📄 mainTP4_commente.exe</div>
+<div class="tree-file">│   │       ├── 📄 TP3_Pointeurs_Arithmetique_C.o</div>
+<div class="tree-file">│   │       ├── 📄 TP3_Pointeurs_Arithmetique_C.exe</div>
+<div class="tree-file">│   │       ├── 📄 TP3_Pointeurs_Arithmetique_C.c</div>
+<div class="tree-file">│   │       ├── 📄 TP1 main et mainMenu.exe</div>
+<div class="tree-file">│   │       ├── 📄 TP1 main et mainMenu.o</div>
+<div class="tree-file">│   │       ├── 📄 TP1 main et mainMenu.c</div>
+<div class="tree-file">│   │       ├── 📄 mainTP4_commente.c</div>
+<div class="tree-folder">│   │       └── 📁 PROJET TP1,TP2,TP3,TP4/</div>
+<div class="tree-file">│   │           ├── 📄 TP n°6 Fonctions.zip</div>
+<div class="tree-file">│   │           ├── 📄 TP6 AboutahirOmar_GI.pdf</div>
+<div class="tree-file">│   │           ├── 📄 TP n°6 Fonctions.c</div>
+<div class="tree-file">│   │           ├── 📄 TP n°5  Chaines de caractère.zip</div>
+<div class="tree-file">│   │           ├── 📄 TP5 AboutahirOmar_GI.pdf</div>
+<div class="tree-file">│   │           ├── 📄 TP n°5  Chaines de caractère.c</div>
+<div class="tree-file">│   │           ├── 📄 TP1,TP2,TP3,TP4_AboutahirOmar_GI.zip</div>
+<div class="tree-file">│   │           ├── 📄 TP1 AboutahirOmar_GI.pdf</div>
+<div class="tree-file">│   │           ├── 📄 TP4 AboutahirOmar_GI.pdf</div>
+<div class="tree-file">│   │           ├── 📄 TP3 AboutahirOmar_GI.pdf</div>
+<div class="tree-file">│   │           ├── 📄 TP2 AboutahirOmar_GI.pdf</div>
+<div class="tree-file">│   │           ├── 📄 TDTP 2 Manipulation d’une matrice (déclaration statique).c</div>
+<div class="tree-file">│   │           ├── 📄 TP1 main et mainMenu.c</div>
+<div class="tree-file">│   │           ├── 📄 TP3_Pointeurs_Arithmetique_C.c</div>
+<div class="tree-file">│   │           └── 📄 mainTP4_Allocation dynamique de variables simples en C.c</div>
+<div class="tree-folder">│   └── 📁 COURS/</div>
+<div class="tree-file">│       ├── 📄 Cous_Algo_Prog_C_S3_CH_3.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_Algo_C_TC_S3_CH2_P1 (1).pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_Algo_C_TC_S3_CH2_P1.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_Algo_C_TC_S3_CH2_P2.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_Algo_C_TC_S3_CH3.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_Algo_C_TC_S3_CH2_P1.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_Algo_C_TC_S3_CH0_1.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_MIPC_S3_Algo_C_CH4.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_MIPC_S3_Algo_C_CH3_P1.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_MIPC_S3_Algo_C_CH2_P3.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_MIPC_S3_Algo_C_CH2_P2.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_MIPC_S3_Algo_C_CH2_P1.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours_MIPC_S3_Algo_C_CH1.pdf</div>
+<div class="tree-folder">│       └── 📁 capture de cours et révision/</div>
+<div class="tree-file">│           ├── 📄 WhatsApp Image 2026-01-07 at 18.51.00.jpeg</div>
+<div class="tree-file">│           ├── 📄 WhatsApp Image 2026-01-07 at 18.51.03.jpeg</div>
+<div class="tree-file">│           ├── 📄 WhatsApp Image 2026-01-07 at 18.51.01.jpeg</div>
+<div class="tree-file">│           ├── 📄 WhatsApp Image 2026-01-07 at 18.50.59.jpeg</div>
+<div class="tree-file">│           ├── 📄 WhatsApp Image 2026-01-07 at 18.51.04.jpeg</div>
+<div class="tree-file">│           ├── 📄 WhatsApp Image 2026-01-07 at 18.50.58.jpeg</div>
+<div class="tree-file">│           ├── 📄 WhatsApp Image 2025-12-01 à 12.33.34_ba801fe4.jpg</div>
+<div class="tree-file">│           └── 📄 WhatsApp Image 2025-12-01 à 12.33.34_ec45a126.jpg</div>
+<div class="tree-folder">├── 🔗📁 Langage C-20260630T205620Z-3-001.zip  (raccourci)</div>
+<div class="tree-file">├── 📄 Drive module Programmation C - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 +Informatique 3 &amp; Programmation1 C  SABORPCMATH.COM/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 +TP SMP4 Programmation1 (Langage C) FSR RABAT 2015.pdf</div>
+<div class="tree-file">│   ├── 📄 +TP CP2 Programmation1 (Langage C) ENSA SAFI.pdf</div>
+<div class="tree-file">│   ├── 📄 +TP CP2 Programmation1 (Langage C) ENSA ELJADIDA.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMP4 Programmation1 (Langage C) FSR RABAT 2015.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMP4 Programmation1 (Langage C) FSO OUAJDA 2016.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMP4 Programmation1 (Langage C) FSAC CASABLANCA 15 16.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMI3 Programmation1(Langage C) FPK KHOURIBGA 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMI3 Programmation1 (Langage C) FSSM MARRAKECH.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMI3 Programmation1 (Langage C) FSDM FES 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMI3 Programmation1 (Langage C) FSBM CASABLANCA 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMI3 Programmation1 (Langage C) FSBM CASABLANCA 18 19.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMI3 Programmation1 (Langage C) FSA AGADIR 17 18.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMI3 Programmation1 (Langage C) FPL LARACH.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMAI Programmation1 (Langage C) FST TETOUAN.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMAI Programmation1 (Langage C) FST TETOUAN 2018.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMAI Programmation1 (Langage C) FST TETOUAN 2018 V2.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMAI Programmation1 (Langage C) FST TETOUAN 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMAI Programmation1 (Langage C) FST TETOUAN 19 20.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMAI Programmation1 (Langage C) FSO OUAJDA 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMAI Programmation1 (Langage C) FSM MEKNES 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMAI Programmation1 (Langage C) FSM MEKNES 19 20.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMA3 Programmation1(Langage C) FPK KHOURIBGA 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMA3 Programmation1 (Langage C) FSSM MARRAKECH 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMA3 Programmation1 (Langage C) FSR RABAT 13 14.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMA3 Programmation1 (Langage C) FSJ ELJADIDA 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMA3 Programmation1 (Langage C) FSDM FES.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMA3 Programmation1 (Langage C) FSDM FES 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMA3 Programmation1 (Langage C) FSBM CASABLANCA 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD SMA3 Programmation1 (Langage C) FSBM CASABLANCA 15 16.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD MIPC Algorithmique et programmation 2 FST MARRAKECH 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD MIPC Algorithmique et programmation 2 FST ERRACHIDIA.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD CP2 Programmation1 (Langage C) ENSA SAFI.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD CP2 Programmation1 (Langage C) ENSA MARRAKECH.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD CP2 Programmation1 (Langage C) ENSA KENITRA.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD CP2 Programmation C Avancee ENSA MARRAKECH.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS SMP4 Programmation1 (Langage C) FSAC CASABLANCA.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS SMAI Programmation1 (Langage C) FST TETOUAN.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS SMAI Programmation1 (Langage C) FSSM MARRAKECH.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS SMAI Programmation1 (Langage C) FSO OUAJDA.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS SMAI Programmation1 (Langage C) FSM MEKNES.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS SMAI Programmation1 (Langage C) FSK KENITRA.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS SMAI Programmation1 (Langage C) FSDM FES.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS SMAI Programmation1 (Langage C) FSBM CASABLANCA.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS SMAI Programmation1 (Langage C) FSA AGADIR.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS CP2 Programmation1 (Langage C) ENSAM MEKNES.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMI3 Programmation1(Langage C) FSSM MARRAKECH 19 20.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMI3 Programmation1(Langage C) FSJ ELJADIDA 2018-2019.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMI3 Programmation1(Langage C) FSDM FES 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMI3 Programmation1(Langage C) FPK KHOURIBGA 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMI3 Programmation1 (Langage C) FSA AGADIR.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMAI3 Programmation1 (Langage C) FSO OUAJDA 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMAI3 Programmation1 (Langage C) FSM MEKNES 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMAI3 Programmation1 (Langage C) FSM MEKNES 19 20.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMAI3 Programmation1 (Langage C) FSK KENITRA 11 12.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMAI3 Programmation1 (Langage C) FSDM FES 2015.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMAI3 Programmation1 (Langage C) FSBM CASABLANCA 15 16.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMAI Programmation1 (Langage C) FPT TAZA.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMAI Programmation1 (Langage C) FPO OUARZAZATE.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMA3 Programmation1(Langage C) FST TETOUAN 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMA3 Programmation1(Langage C) FSSM MARRAKECH 2008.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMA3 Programmation1(Langage C) FSDM FES 2016.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMA3 Programmation1(Langage C) FSDM FES 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMA3 Programmation1(Langage C) FPK KHOURIBGA 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS SMA3 Programmation1 (Langage C) FSR RABAT 13 14.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS MIPC Algorithmique et Programmation en langage FST Béni-Mellal.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS MIPC Algorithmique et programmation 2 FST MARRAKECH 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS MIPC Algorithmique et programmation 2 FST ERRACHIDIA.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS LPQL Programmation1 (Langage C) FSR RABAT.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS EST SAFI Programmation1 (Langage C).pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS CP2 Programmation1 (Langage C) ENSA TETOUAN.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS CP2 Programmation1 (Langage C) ENSA TETOUAN V2.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS CP2 Programmation1 (Langage C) ENSA OUAJDA 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS CP2 Programmation1 (Langage C) ENSA MARRAKECH.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS CP2 Programmation1 (Langage C) ENSA HOCIEMA.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS CP2 Programmation1 (Langage C) ENSA ELJADIDA 20 21.pdf</div>
+<div class="tree-file">│   └── 📄 +COURS CP2 Programmation C Avancee ENSA MARRAKECH.pdf</div>
+<div class="tree-folder">├── 🔗📁 +Programmation II SMI4/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 FST SETTET ALGORITHMIQUE &amp; PROGRAMMATION EN C1&amp;C2 TDS EXAMENS.pdf</div>
+<div class="tree-file">│   ├── 📄 +TP Programmation 2 (Langage C) FSR RABAT 19 20.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD Programmation 2 (Langage C) FSR RABAT 19 20.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD Programmation 2 (Langage C) FST TETOUAN.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD Programmation 2 (Langage C) FSDM FES 21 22.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD Programmation 2 (Langage C) FSDM FES 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD Programmation 2 (Langage C) FSDM FES 19 20.pdf</div>
+<div class="tree-file">│   ├── 📄 °FSO TDs+TPS SMI4 PROGRAMMATION II 2020.pdf</div>
+<div class="tree-file">│   ├── 📄 °FSM TDS SMI4 PROGRAMMATION II 2020.pdf</div>
+<div class="tree-file">│   ├── 📄 °FSDM TDs &amp;TPs SMI4 PROGRAMMATION II.pdf</div>
+<div class="tree-file">│   ├── 📄 °FPO SMI4 Programmation II TDS EXAMENS.pdf</div>
+<div class="tree-file">│   ├── 📄 °EXAMENS Programmation C ENSA KENITRA.pdf</div>
+<div class="tree-file">│   ├── 📄 °EXAMENS Programmation 2 (Langage C) FST TETOUAN.pdf</div>
+<div class="tree-file">│   ├── 📄 °EXAMENS Programmation 2 (Langage C) FSDM FES.pdf</div>
+<div class="tree-file">│   ├── 📄 °EXAMENS Programmation 2 (Langage C) FSAC CASABLANCA.pdf</div>
+<div class="tree-file">│   ├── 📄 ° FSJ TPs SMI4 PROGRAMMATION II.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS TP Programmation 2 (Langage C) FSSM MARRAKECH.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS EXAMENS Programmation 2 (Langage C) FSAC CASABLANCA.pdf</div>
+<div class="tree-file">│   ├── 📄 °Cours Programmation C SMI S4 FPO.PDF</div>
+<div class="tree-file">│   ├── 📄 °COURS Programmation II ENSA KENITRA.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD COURS Programmation 2 (Langage C) FPS SAFI.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD COURS Programmation 2 (Langage C) FPT TAZA.pdf</div>
+<div class="tree-file">│   └── 📄 °COURS Programmation II-1 FSK.pdf</div>
+<div class="tree-folder">├── 🔗📁 +Informatique 3 &amp; Programmation1 C  SABORPCMATH.COM/  (raccourci)</div>
+<div class="tree-file">│   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">├── 🔗📁 °INFORMATIQUE SMA4/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 TD STRUCTURE DE DONNEES FSM MEKNES SMA4.pdf</div>
+<div class="tree-file">│   ├── 📄 TD STRUCTURE DE DONNEES FSBM CASA SMA4.pdf</div>
+<div class="tree-file">│   ├── 📄 TD STRUCTURE DE DONNEES FSA AGADIR 2020 SMA4.pdf</div>
+<div class="tree-file">│   ├── 📄 TD STRUCTURE DE DONNEES FSA AGADIR 2013 SMA4.pdf</div>
+<div class="tree-file">│   ├── 📄 TD STRUCTURE DE DONNEES FS-TETOUAN SMA4.pdf</div>
+<div class="tree-file">│   ├── 📄 TD PROGRAMMATION II FSSM MARRAKECH SMA4.pdf</div>
+<div class="tree-file">│   ├── 📄 TD PROGRAMMATION II FSO OUAJDA SMA4.pdf</div>
+<div class="tree-file">│   ├── 📄 S4 SMA FSJ TDS STRUCTURES DES DONNEES SMA4.pdf</div>
+<div class="tree-file">│   ├── 📄 S4 SMA FPT STRUCTURES DES DONNEES SMA4.pdf</div>
+<div class="tree-file">│   ├── 📄 EXAMENS ALGORITHMIQUE &amp;STRUCTURE DE DONNEES FSA AGADIR SMA4.pdf</div>
+<div class="tree-file">│   ├── 📄 COURS STRUCTURES DE DONNEES FSBM CASA SMA4.pdf</div>
+<div class="tree-file">│   ├── 📄 COURS PROGRAMMATION II FSO OUAJDA SMA4.pdf</div>
+<div class="tree-file">│   ├── 📄 COURS PROGRAMMATION II FSM MEKNES SMA4.pdf</div>
+<div class="tree-file">│   └── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">├── 📄 100 Exercices Corrigées en langage C .pdf</div>
+<div class="tree-file">├── 📄 Série 3_Correction.pdf</div>
+<div class="tree-file">├── 📄 Tableaux et pointeurs (corrigé) C.pdf</div>
+<div class="tree-file">├── 📄 Polys_C_Paris.pdf</div>
+<div class="tree-file">├── 📄 Ouverture et fermeture de fichier en c++.pdf</div>
+<div class="tree-file">├── 📄 Les algortihmes de tri Définition d’un algorithme de tri, Le tri par minimum successifs, Le tri a bulles, Le tri rapide..pdf</div>
+<div class="tree-file">├── 📄 Chapitre 9 : Les fichiers.pdf</div>
+<div class="tree-file">├── 📄 Programmation_Aide_Memoire_CPP.pdf</div>
+<div class="tree-file">├── 📄 Examen Programmation orientée objet en C++ 16 janvier 2009.pdf</div>
+<div class="tree-file">├── 📄 Chapitre 8 : Les types de variables complexes.pdf</div>
+<div class="tree-file">├── 📄 Laboratoire n°6 en C++  Héritage simple.pdf</div>
+<div class="tree-file">├── 📄 Chapitre 1 : Eléments de langage C.pdf</div>
+<div class="tree-file">├── 📄 Programmation_Aide_Memoire_C.pdf</div>
+<div class="tree-file">├── 📄 Chapitre 7 : Les fonctions.pdf</div>
+<div class="tree-file">├── 📄 Chapitre 4 : Utilisation d’une bibliothèque.pdf</div>
+<div class="tree-file">├── 📄 Chapitre 5 : Les pointeurs.pdf</div>
+<div class="tree-file">├── 📄 Cours sur Les algorithmes de tri.pdf</div>
+<div class="tree-file">├── 📄 Chapitre 2 : Saisie de nombres et de caractères au clavier.pdf</div>
+<div class="tree-file">├── 📄 COURS et TP DE LANGAGE C++ Chapitre 9 Les fichiers.pdf</div>
+<div class="tree-file">├── 📄 Chapitre 3 : Les boucles.pdf</div>
+<div class="tree-file">├── 📄 SERIE TP 1 ET TP 2.pdf</div>
+<div class="tree-file">├── 📄 Chapitre 6 : Les tableaux et les chaînes de caractères.pdf</div>
+<div class="tree-file">├── 📄 exm C. pdf</div>
+<div class="tree-file">├── 📄 examenlangageC.docx</div>
+<div class="tree-file">├── 📄 exm C.jpg</div>
+<div class="tree-file">├── 📄 exm info.jpg</div>
+<div class="tree-file">├── 📄 chap1 2 3 info 2.ppt</div>
+<div class="tree-file">├── 📄 Info 20  20Algo.rar</div>
+<div class="tree-file">├── 📄 suite exm C.jpg</div>
+<div class="tree-file">├── 📄 exercices corrigés en C.pdf</div>
+<div class="tree-file">├── 📄 exm C.pdf</div>
+<div class="tree-file">├── 📄 langage C.pdf</div>
+<div class="tree-file">├── 📄 TD C smia.pdf</div>
+<div class="tree-file">├── 📄 info smia.pdf</div>
+<div class="tree-file">├── 📄 Entrées solides en langage C.pdf</div>
+<div class="tree-file">├── 📄 PROGRAMMATION  AVANCEE  EN LANGAGE C.pdf</div>
+<div class="tree-file">├── 📄 Série N°4  1 TD et TP Programmation C.pdf</div>
+<div class="tree-file">├── 📄 C .pdf</div>
+<div class="tree-file">├── 📄 Programmation en C Exercices corrigés.pdf</div>
+<div class="tree-file">├── 📄 Séries des exercices.pdf</div>
+<div class="tree-file">├── 📄 TD et TP Programmation C.pdf</div>
+<div class="tree-file">├── 📄 les pointeurs C.pdf</div>
+<div class="tree-file">├── 📄 tp4bis C.pdf</div>
+<div class="tree-file">├── 📄 Cours et exercices corrigés langage C.pdf</div>
+<div class="tree-file">├── 📄 exo C FST.pdf</div>
+<div class="tree-file">├── 📄 tp C .pdf</div>
+<div class="tree-file">├── 📄 controle C 2012.pdf</div>
+<div class="tree-file">├── 📄 Copie de Le C en 20 heures.pdf</div>
+<div class="tree-folder">├── 📁 cp2/</div>
+<div class="tree-file">│   ├── 📄 33178207_809749915886261_5847330835128123392_n.jpg</div>
+<div class="tree-file">│   ├── 📄 arbre binaire.cpp</div>
+<div class="tree-file">│   ├── 📄 colle.jpg</div>
+<div class="tree-file">│   ├── 📄 complexe.cpp</div>
+<div class="tree-file">│   ├── 📄 Date.cpp</div>
+<div class="tree-file">│   ├── 📄 cplll.jpg</div>
+<div class="tree-file">│   ├── 📄 file.cpp</div>
+<div class="tree-file">│   ├── 📄 prs 3 etoils.cpp</div>
+<div class="tree-file">│   ├── 📄 listenoeud.cpp</div>
+<div class="tree-file">│   ├── 📄 PersoDate.cpp</div>
+<div class="tree-file">│   ├── 📄 TP1-Structures-fonctions-pointeurs.pdf</div>
+<div class="tree-file">│   ├── 📄 serie 2 c.pdf</div>
+<div class="tree-file">│   ├── 📄 TP2-Listes-chainées.pdf</div>
+<div class="tree-file">│   ├── 📄 TP4 - Files.pdf</div>
+<div class="tree-folder">│   └── 📁 TP C/</div>
+<div class="tree-file">│       ├── 📄 exercice 3(b) serie 2 (1).cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 3(b) serie 2.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 5 serie 2 (a) (1).cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 4 serie 1 (b).cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 5 serie 2 (while) (1).cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 5 serie 2 (while).cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 5 serie 2 (do-while) (1).cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 4 serie 1 (a).cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 4 serie 1 (b) (1).cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 5 serie 2 (do-while).cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 4 serie 1 (a) (1).cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 5 serie 2 (a).cpp</div>
+<div class="tree-file">│       ├── 📄 equation 2n.cpp</div>
+<div class="tree-file">│       ├── 📄 essay carre.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 1 serie 2.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 1 serie 1.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 10 serie 2.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 10 serie 1.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 2 serie 1.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 11 serie 2.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 2 serie 2.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 3 serie 1.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 3 serie 2.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 4 serie 2 A.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 5 serie 1.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 4 serie 2 B.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 6 serie 1.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 6 serie 2.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 7 serie 1.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 7 serie 2 (1).cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 7 serie 2 (2).cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 8 serie 1.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 8 serie 2 (2).cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 8 serie 2.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 9 serie 1.cpp</div>
+<div class="tree-file">│       ├── 📄 exercice 9 serie 2.cpp</div>
+<div class="tree-folder">│       ├── 📁 serie 3/</div>
+<div class="tree-file">│       │   ├── 📄 ex 1 part (1).cpp</div>
+<div class="tree-file">│       │   ├── 📄 ex 12.cpp</div>
+<div class="tree-file">│       │   ├── 📄 ex 3 part 1.cpp</div>
+<div class="tree-file">│       │   ├── 📄 ex 1 part 2.cpp</div>
+<div class="tree-file">│       │   ├── 📄 ex 11.cpp</div>
+<div class="tree-file">│       │   ├── 📄 ex 2.cpp</div>
+<div class="tree-file">│       │   ├── 📄 ex4 serie 3.cpp</div>
+<div class="tree-file">│       │   ├── 📄 ex10.cpp</div>
+<div class="tree-file">│       │   ├── 📄 ex 7.cpp</div>
+<div class="tree-file">│       │   ├── 📄 ex 8.cpp</div>
+<div class="tree-file">│       │   ├── 📄 ex 6.cpp</div>
+<div class="tree-file">│       │   ├── 📄 ex 4.cpp</div>
+<div class="tree-file">│       │   ├── 📄 ex5 serie 3.cpp</div>
+<div class="tree-file">│       │   ├── 📄 ex 5 parie 2.cpp</div>
+<div class="tree-file">│       │   ├── 📄 remplir ex13.cpp</div>
+<div class="tree-file">│       │   ├── 📄 ex6 serie 3.cpp</div>
+<div class="tree-file">│       │   ├── 📄 ex9.cpp</div>
+<div class="tree-file">│       │   ├── 📄 ex7 dichoto.cpp</div>
+<div class="tree-file">│       │   ├── 📄 ex8.cpp</div>
+<div class="tree-file">│       │   ├── 📄 transposé ex13.cpp</div>
+<div class="tree-file">│       │   └── 📄 produit ex13.cpp</div>
+<div class="tree-folder">│       ├── 📁 notion C/</div>
+<div class="tree-file">│       │   ├── 📄 struct.PNG</div>
+<div class="tree-file">│       │   ├── 📄 pointeur2.PNG</div>
+<div class="tree-file">│       │   ├── 📄 pointeur.PNG</div>
+<div class="tree-file">│       │   ├── 📄 ex1 serie 4.PNG</div>
+<div class="tree-file">│       │   ├── 📄 ex6 serie 4.PNG</div>
+<div class="tree-file">│       │   ├── 📄 différence.cpp</div>
+<div class="tree-file">│       │   ├── 📄 ex7 serie 4.PNG</div>
+<div class="tree-file">│       │   └── 📄 ex7 serie4.PNG</div>
+<div class="tree-folder">│       └── 📁 serie 4/</div>
+<div class="tree-file">│           ├── 📄 ex 2.cpp</div>
+<div class="tree-file">│           ├── 📄 ex 8.cpp</div>
+<div class="tree-file">│           ├── 📄 ex3.cpp</div>
+<div class="tree-file">│           ├── 📄 j.cpp</div>
+<div class="tree-file">│           ├── 📄 ex4.cpp</div>
+<div class="tree-file">│           ├── 📄 ex7.cpp</div>
+<div class="tree-file">│           ├── 📄 ex5.cpp</div>
+<div class="tree-file">│           ├── 📄 mays.cpp</div>
+<div class="tree-file">│           ├── 📄 ex6.cpp</div>
+<div class="tree-file">│           ├── 📄 s.cpp</div>
+<div class="tree-file">│           ├── 📄 ex6 222.cpp</div>
+<div class="tree-file">│           └── 📄 Untitled1.cpp</div>
+<div class="tree-folder">├── 📁 1-programmation/</div>
+<div class="tree-folder">│   ├── 📁 cours de programmation/</div>
+<div class="tree-file">│   │   ├── 📄 Cours GEGM_25 - Chap VI - langage C.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Cours GEGM_25 - Chap V - langage C.pdf</div>
+<div class="tree-file">│   │   └── 📄 Notions_de_Base_du_Langage C_2017_2018_Etudiants.pdf</div>
+<div class="tree-folder">│   └── 📁 tp de programmation/</div>
+<div class="tree-folder">│       ├── 📁 tp1/</div>
+<div class="tree-file">│       │   ├── 📄 tp1 programmation.pdf</div>
+<div class="tree-file">│       │   └── 📄 TP1.pdf</div>
+<div class="tree-folder">│       ├── 📁 tp2/</div>
+<div class="tree-file">│       │   ├── 📄 tp2 de programmation.pdf</div>
+<div class="tree-file">│       │   └── 📄 TP2.pdf</div>
+<div class="tree-folder">│       ├── 📁 tp3/</div>
+<div class="tree-file">│       │   ├── 📄 tp3 de programmation.pdf</div>
+<div class="tree-file">│       │   └── 📄 TP3.pdf</div>
+<div class="tree-folder">│       └── 📁 tp4/</div>
+<div class="tree-file">│           ├── 📄 tp4 de programmation.pdf</div>
+<div class="tree-file">│           └── 📄 tp4.pdf</div>
+<div class="tree-folder">├── 📁 Tp/</div>
+<div class="tree-file">│   ├── 📄 main(6).c</div>
+<div class="tree-file">│   ├── 📄 main(6).c</div>
+<div class="tree-file">│   ├── 📄 main(1).c</div>
+<div class="tree-file">│   ├── 📄 main(4).c</div>
+<div class="tree-file">│   ├── 📄 main(4).c</div>
+<div class="tree-file">│   ├── 📄 main(5).c</div>
+<div class="tree-file">│   ├── 📄 main(1).c</div>
+<div class="tree-file">│   ├── 📄 main(2).c</div>
+<div class="tree-file">│   ├── 📄 main(3).c</div>
+<div class="tree-file">│   ├── 📄 main(5).c</div>
+<div class="tree-file">│   ├── 📄 corr_colle.c</div>
+<div class="tree-file">│   ├── 📄 exo.txt</div>
+<div class="tree-file">│   ├── 📄 exo3-tp3.txt</div>
+<div class="tree-file">│   ├── 📄 exo4-tp3.txt</div>
+<div class="tree-file">│   ├── 📄 LangageC.rar</div>
+<div class="tree-file">│   ├── 📄 main (1).txt</div>
+<div class="tree-file">│   ├── 📄 main (2).txt</div>
+<div class="tree-file">│   ├── 📄 main (3).txt</div>
+<div class="tree-file">│   ├── 📄 main (4).txt</div>
+<div class="tree-file">│   ├── 📄 main.c</div>
+<div class="tree-file">│   ├── 📄 main.txt</div>
+<div class="tree-file">│   └── 📄 Untitled1.txt</div>
+<div class="tree-folder">└── 📁 Informatique 3/</div>
+<div class="tree-file">    ├── 📄 TD2.pdf</div>
+<div class="tree-file">    ├── 📄 TP_C_serie_6.pdf</div>
+<div class="tree-file">    ├── 📄 le_c.pdf</div>
+<div class="tree-file">    ├── 📄 sérieTP2.pdf</div>
+<div class="tree-file">    ├── 📄 chaine youtube.txt</div>
+<div class="tree-file">    ├── 📄 longuage c.pdf</div>
+<div class="tree-file">    ├── 📄 sérieTP6.doc</div>
+<div class="tree-file">    ├── 📄 FR_19980_apprenez-a-programmer-en-c_2.0_Downloadable+Summary.pdf</div>
+<div class="tree-file">    ├── 📄 TD 1 Algo Notions de Base.pdf</div>
+<div class="tree-file">    ├── 📄 TD 1-structures repetitives.pdf</div>
+<div class="tree-file">    ├── 📄 SÃ©️ances 2 Formation C.pdf</div>
+<div class="tree-file">    ├── 📄 TD3.pdf</div>
+<div class="tree-file">    ├── 📄 sérieTP4[670].pdf</div>
+<div class="tree-file">    ├── 📄 série1TP_C.pdf</div>
+<div class="tree-file">    ├── 📄 Correction_QCM_Langage_C.pdf</div>
+<div class="tree-file">    ├── 📄 TD1.pdf</div>
+<div class="tree-file">    ├── 📄 sérieTP7.pdf</div>
+<div class="tree-file">    ├── 📄 Programmation C_CP2_2_2020_2021 (1).pptx</div>
+<div class="tree-file">    ├── 📄 TP_Langage_C.pdf</div>
+<div class="tree-file">    ├── 📄 sérieTP5.pdf</div>
+<div class="tree-folder">    ├── 📁 Programmation C (Cours+TP)/</div>
+<div class="tree-file">    │   ├── 📄 service CRUD.cpp</div>
+<div class="tree-file">    │   ├── 📄 tableau des lettres(1).gif</div>
+<div class="tree-file">    │   ├── 📄 desktop.ini</div>
+<div class="tree-file">    │   ├── 📄 toutes les fonctions.cpp</div>
+<div class="tree-file">    │   ├── 📄 tableau des lettres.gif</div>
+<div class="tree-file">    │   ├── 📄 Tout.cpp</div>
+<div class="tree-file">    │   ├── 📄 desktop(1).ini</div>
+<div class="tree-file">    │   ├── 📄 service CRUD(1).cpp</div>
+<div class="tree-file">    │   ├── 📄 Tout(1).cpp</div>
+<div class="tree-folder">    │   ├── 📁 TP5 Dev C++/</div>
+<div class="tree-file">    │   │   ├── 📄 ex aide(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 g2.txt</div>
+<div class="tree-file">    │   │   ├── 📄 g2(1).txt</div>
+<div class="tree-file">    │   │   ├── 📄 ex aide.cpp</div>
+<div class="tree-folder">    │   │   ├── 📁 ex3/</div>
+<div class="tree-folder">    │   │   ├── 📁 ex2/</div>
+<div class="tree-folder">    │   │   ├── 📁 ex aide/</div>
+<div class="tree-folder">    │   │   └── 📁 ex1/</div>
+<div class="tree-folder">    │   ├── 📁 TP1 Dev C++/</div>
+<div class="tree-file">    │   │   ├── 📄 ex6.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex8.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex7.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex3.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex4 (a).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex1.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex10.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex5.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex9.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex2.cpp</div>
+<div class="tree-file">    │   │   └── 📄 ex4 (b).cpp</div>
+<div class="tree-folder">    │   ├── 📁 pprogrammation tp/</div>
+<div class="tree-file">    │   │   ├── 📄 ex2 caractaire.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex1 tp3(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 333(1).c</div>
+<div class="tree-file">    │   │   ├── 📄 444r(1).c</div>
+<div class="tree-file">    │   │   ├── 📄 e13.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 5.dev</div>
+<div class="tree-file">    │   │   ├── 📄 a(2).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 a(2).c</div>
+<div class="tree-file">    │   │   ├── 📄 ex 4.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 333.c</div>
+<div class="tree-file">    │   │   ├── 📄 a.o</div>
+<div class="tree-file">    │   │   ├── 📄 a.layout</div>
+<div class="tree-file">    │   │   ├── 📄 4(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex2 tp2.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex 7.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 a(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 121.o</div>
+<div class="tree-file">    │   │   ├── 📄 3(1).c</div>
+<div class="tree-file">    │   │   ├── 📄 dff.c</div>
+<div class="tree-file">    │   │   ├── 📄 ex10 1(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 121.layout</div>
+<div class="tree-file">    │   │   ├── 📄 2.c</div>
+<div class="tree-file">    │   │   ├── 📄 ex4.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 do while.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 a.dev</div>
+<div class="tree-file">    │   │   ├── 📄 -55.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex1 tp43(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 eprmitation.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 4.o</div>
+<div class="tree-file">    │   │   ├── 📄 4.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 5(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex1 tp 2.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 333(2).c</div>
+<div class="tree-file">    │   │   ├── 📄 a.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 8(2).o</div>
+<div class="tree-file">    │   │   ├── 📄 ex1 tp4(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 444r.c</div>
+<div class="tree-file">    │   │   ├── 📄 ex3.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 1.o</div>
+<div class="tree-file">    │   │   ├── 📄 ex1 tp3.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex1 tp43.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 a(1).c</div>
+<div class="tree-file">    │   │   ├── 📄 ee.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex10 1.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 e.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex4tp3.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 conjegaison.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex11.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 22(2).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 5(1).dev</div>
+<div class="tree-file">    │   │   ├── 📄 4(1).o</div>
+<div class="tree-file">    │   │   ├── 📄 111.c</div>
+<div class="tree-file">    │   │   ├── 📄 addition de deux chaine de deux caractaire.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 5.c</div>
+<div class="tree-file">    │   │   ├── 📄 ex1 tp4.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex1(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 3.c</div>
+<div class="tree-file">    │   │   ├── 📄 eds.c</div>
+<div class="tree-file">    │   │   ├── 📄 8(1).o</div>
+<div class="tree-file">    │   │   ├── 📄 5.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 a(1).dev</div>
+<div class="tree-file">    │   │   ├── 📄 22(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 benaire.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 1.layout</div>
+<div class="tree-file">    │   │   ├── 📄 22.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex4.PNG</div>
+<div class="tree-file">    │   │   ├── 📄 4(1).c</div>
+<div class="tree-file">    │   │   ├── 📄 121.dev</div>
+<div class="tree-file">    │   │   ├── 📄 a.c</div>
+<div class="tree-file">    │   │   ├── 📄 1.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 1.c</div>
+<div class="tree-file">    │   │   ├── 📄 8.o</div>
+<div class="tree-file">    │   │   ├── 📄 5(1).c</div>
+<div class="tree-file">    │   │   ├── 📄 ex3(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex10.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 121.c</div>
+<div class="tree-file">    │   │   ├── 📄 ex12.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex1.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex453.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex41.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 2.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex2 1.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 4.c</div>
+<div class="tree-file">    │   │   ├── 📄 3(2).c</div>
+<div class="tree-file">    │   │   ├── 📄 1234.PNG</div>
+<div class="tree-file">    │   │   ├── 📄 1.dev</div>
+<div class="tree-file">    │   │   ├── 📄 binair.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 a(2).dev</div>
+<div class="tree-file">    │   │   ├── 📄 ed.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex 5.cpp</div>
+<div class="tree-folder">    │   │   ├── 📁 revission de colle de c/</div>
+<div class="tree-folder">    │   │   │   └── 📁 brahim/</div>
+<div class="tree-folder">    │   │   │       ├── 📁 moujoud revission colle tp c++/</div>
+<div class="tree-folder">    │   │   │       └── 📁 Nouveau dossier/</div>
+<div class="tree-folder">    │   │   ├── 📁 tableaux prorgammtion/</div>
+<div class="tree-file">    │   │   │   ├── 📄 tp3 2.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 u(1).o</div>
+<div class="tree-file">    │   │   │   ├── 📄 tp 3 22.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 u.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 ex2 td.layout</div>
+<div class="tree-file">    │   │   │   ├── 📄 Project1.dev</div>
+<div class="tree-file">    │   │   │   ├── 📄 ex2 td.dev</div>
+<div class="tree-file">    │   │   │   ├── 📄 Makefile.win</div>
+<div class="tree-file">    │   │   │   ├── 📄 ex2 td 4.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 r.o</div>
+<div class="tree-file">    │   │   │   ├── 📄 tp3 exq1.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 2.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 3.cpp</div>
+<div class="tree-file">    │   │   │   ├── 📄 tp 3 ex 2.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 tp3.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 tp3 ex4.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 r.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 tp 4 ex3.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 tp3 exxx3.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 u.o</div>
+<div class="tree-file">    │   │   │   ├── 📄 max tablea.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 sum moy.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 1.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 tableau.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 ex2 td 4.o</div>
+<div class="tree-file">    │   │   │   ├── 📄 Les tableaux_tp.docx</div>
+<div class="tree-file">    │   │   │   └── 📄 Project1.layout</div>
+<div class="tree-folder">    │   │   ├── 📁 Les séries/</div>
+<div class="tree-file">    │   │   │   └── 📄 Série d’exercices.pdf</div>
+<div class="tree-folder">    │   │   ├── 📁 tp3/</div>
+<div class="tree-file">    │   │   │   ├── 📄 12121212121212121212121212121212121(1).c</div>
+<div class="tree-file">    │   │   │   ├── 📄 pcgd ewewew.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 12121212121212121212121212121212121.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 rectangle.c</div>
+<div class="tree-file">    │   │   │   ├── 📄 pcgd ewewew(1).c</div>
+<div class="tree-file">    │   │   │   └── 📄 rectangle(1).c</div>
+<div class="tree-folder">    │   │   └── 📁 tp2/</div>
+<div class="tree-file">    │   │       ├── 📄 TP 2 do EX1 WHILE.cpp</div>
+<div class="tree-file">    │   │       ├── 📄 TP 2 EX3.c</div>
+<div class="tree-file">    │   │       ├── 📄 TP 2 do EX1 WHILE(1).cpp</div>
+<div class="tree-file">    │   │       ├── 📄 TP EX2 FOR.c</div>
+<div class="tree-file">    │   │       └── 📄 TP2 EXE 2 FOR.c</div>
+<div class="tree-folder">    │   ├── 📁 TP2 Dev C++/</div>
+<div class="tree-file">    │   │   ├── 📄 ex7(2).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex5(while).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 triangle (plein).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 losange(plein).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex5(do-while)(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex5(do-while).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex5(for).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex4(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex4(2).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 losange vide(total).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 triangle (vide).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 losange (vide).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex10.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex6(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex7(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex6.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 carré(n=m etoile).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex3(for).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 Ex8(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex3(while).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex2.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex1.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex5(while)(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex4(2)(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex9(samir).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex11.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex5(for)(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 Ex8(2).cpp</div>
+<div class="tree-file">    │   │   └── 📄 ex9.cpp</div>
+<div class="tree-folder">    │   ├── 📁 TD Abdelmoula/</div>
+<div class="tree-file">    │   │   ├── 📄 ex19.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex15.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex13.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex21.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex14.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex18.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex24.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex17.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex22.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex16.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex12.cpp</div>
+<div class="tree-file">    │   │   └── 📄 ex20.cpp</div>
+<div class="tree-folder">    │   ├── 📁 TP4 Dev C++/</div>
+<div class="tree-file">    │   │   ├── 📄 ex7(2).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex6.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex3.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex7.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex8(2).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex4(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex2(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex1.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex3(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex5.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex4.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex7(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex1(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex8(1).cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex2.cpp</div>
+<div class="tree-file">    │   │   └── 📄 ex8.cpp</div>
+<div class="tree-folder">    │   ├── 📁 Examen 2017/</div>
+<div class="tree-file">    │   │   ├── 📄 5.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 EX1.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 EX4.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 8.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 EX3.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 EX2.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 1.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 7.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 4.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 6.jpg</div>
+<div class="tree-file">    │   │   └── 📄 3.jpg</div>
+<div class="tree-folder">    │   ├── 📁 Examen 2016/</div>
+<div class="tree-file">    │   │   ├── 📄 Exam_C_2016 (correction).pdf</div>
+<div class="tree-file">    │   │   └── 📄 Examen C 2016.pdf</div>
+<div class="tree-folder">    │   ├── 📁 Les séries/</div>
+<div class="tree-file">    │   │   ├── 📄 Série 4.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 Série 2.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 Série 1.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 Série d’exercices.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 Série 5.pdf</div>
+<div class="tree-file">    │   │   └── 📄 Série 3.pdf</div>
+<div class="tree-folder">    │   ├── 📁 programmation en c/</div>
+<div class="tree-file">    │   │   ├── 📄 apprenez_a_programmer_en_c.pdf</div>
+<div class="tree-folder">    │   │   └── 📁 TP/</div>
+<div class="tree-file">    │   │       ├── 📄 TP-C-Tableaux2.docx</div>
+<div class="tree-file">    │   │       ├── 📄 TP3-PROGRAMMATIONC.docx</div>
+<div class="tree-file">    │   │       ├── 📄 TP-C-Tableaux.docx</div>
+<div class="tree-file">    │   │       ├── 📄 TP-C-Tableaux3.docx</div>
+<div class="tree-file">    │   │       └── 📄 TP2-C.docx</div>
+<div class="tree-folder">    │   ├── 📁 Colle C/</div>
+<div class="tree-file">    │   │   ├── 📄 exam.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 2.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 file.txt</div>
+<div class="tree-file">    │   │   ├── 📄 exam3.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 exam4.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex1.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 exam6.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 f1.txt</div>
+<div class="tree-file">    │   │   ├── 📄 exam5.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 ex2.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 exam7.cpp</div>
+<div class="tree-file">    │   │   ├── 📄 1.JPG</div>
+<div class="tree-file">    │   │   ├── 📄 exam2.cpp</div>
+<div class="tree-file">    │   │   └── 📄 exam1.cpp</div>
+<div class="tree-folder">    │   └── 📁 TP3 Dev C++/</div>
+<div class="tree-file">    │       ├── 📄 ex6.cpp</div>
+<div class="tree-file">    │       ├── 📄 ex9.cpp</div>
+<div class="tree-file">    │       ├── 📄 ex11(1).cpp</div>
+<div class="tree-file">    │       ├── 📄 ex14.cpp</div>
+<div class="tree-file">    │       ├── 📄 ex3(1).cpp</div>
+<div class="tree-file">    │       ├── 📄 ex4.cpp</div>
+<div class="tree-file">    │       ├── 📄 ex8(1).cpp</div>
+<div class="tree-file">    │       ├── 📄 ex8.cpp</div>
+<div class="tree-file">    │       ├── 📄 ex3.cpp</div>
+<div class="tree-file">    │       ├── 📄 ex1(1).cpp</div>
+<div class="tree-file">    │       ├── 📄 ex12.cpp</div>
+<div class="tree-file">    │       ├── 📄 ex15.cpp</div>
+<div class="tree-file">    │       ├── 📄 ex1(2).cpp</div>
+<div class="tree-file">    │       ├── 📄 ex4(1).cpp</div>
+<div class="tree-file">    │       ├── 📄 ex7.cpp</div>
+<div class="tree-file">    │       ├── 📄 ex1.cpp</div>
+<div class="tree-file">    │       ├── 📄 ex10(1).cpp</div>
+<div class="tree-file">    │       ├── 📄 ex5(1).cpp</div>
+<div class="tree-file">    │       ├── 📄 ex10.cpp</div>
+<div class="tree-file">    │       ├── 📄 ex2.cpp</div>
+<div class="tree-file">    │       ├── 📄 ex13.cpp</div>
+<div class="tree-file">    │       ├── 📄 ex11.cpp</div>
+<div class="tree-file">    │       └── 📄 ex5.cpp</div>
+<div class="tree-folder">    └── 📁 TP/</div>
+<div class="tree-file">        ├── 📄 TP-C-Tableaux4.docx</div>
+<div class="tree-file">        ├── 📄 TP1-C.docx</div>
+<div class="tree-file">        ├── 📄 TP-C-Tableaux.docx</div>
+<div class="tree-file">        ├── 📄 TP2-C.docx</div>
+<div class="tree-file">        ├── 📄 TP-C-Tableaux3.docx</div>
+<div class="tree-file">        ├── 📄 TP-C-Tableaux2.docx</div>
+<div class="tree-file">        └── 📄 TP3-PROGRAMMATIONC.docx</div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     HOW TO ORDER
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Programmation C</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FAQ
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Programmation C</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Programmation C ?</summary>
+      <p>
+        Le module <strong>Programmation C</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Programmation C ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Programmation C</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Programmation C correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     CTA FINAL
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Programmation C</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════ -->
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>

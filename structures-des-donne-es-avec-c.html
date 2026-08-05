@@ -1,0 +1,863 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- ═══ SEO Primary ═══ -->
+  <title>Structures des données avec C — Cours PDF, TD & Examens Corrigés | CoursUni</title>
+  <meta name="description" content="Téléchargez le module Structures des données avec C : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta name="keywords"    content="Structures des données avec C, cours Structures des données avec C pdf, td corrigés Structures des données avec C, examen corrigé Structures des données avec C, module Structures des données avec C université, polycopié Structures des données avec C, exercices corrigés Structures des données avec C, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/structures-des-donne-es-avec-c.html" />
+
+  <!-- ═══ Open Graph ═══ -->
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Structures des données avec C — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta property="og:description" content="Téléchargez le module Structures des données avec C : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/structures-des-donne-es-avec-c.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <!-- ═══ Twitter Card ═══ -->
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Structures des données avec C — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta name="twitter:description" content="Téléchargez le module Structures des données avec C : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+
+  <!-- ═══ Robots ═══ -->
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-05" />
+
+  <!-- ═══ Schema.org JSON-LD ═══ -->
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Structures des données avec C","item":"https://coursuniversitaire.github.io/cours.univ.pdf/structures-des-donne-es-avec-c.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Structures des données avec C ?","acceptedAnswer":{"@type":"Answer","text":"Le module Structures des données avec C contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Structures des données avec C ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Structures des données avec C correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    /* ═══════════════════════════════════════
+       Design tokens — matches CoursUni site
+       ═══════════════════════════════════════ */
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ── */
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    /* ── Nav ── */
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* ── Breadcrumb ── */
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    /* ── Hero ── */
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.55rem; font-weight: 700; margin-bottom: 28px;
+    }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    /* ── Cards grid ── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    /* ── Drive tree ── */
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    /* ── Steps ── */
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    /* ── FAQ ── */
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    /* ── Trust bar ── */
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    /* ── CTA section ── */
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    /* ── Footer ── */
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════
+     NAV
+════════════════════════════════════════ -->
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ════════════════════════════════════════
+     HERO
+════════════════════════════════════════ -->
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Structures des données avec C</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Structures des données avec C</em><br />
+      Cours, TD et exercices corrigés Structures des données avec C pdf &amp; Examens Corripdf
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Structures des données avec C</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.
+      Accès immédiat.
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">13</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">18</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">17</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">8</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     WHAT YOU GET
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Structures des données avec C</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Structures des données avec C</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     DRIVE TREE
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Structures des données avec C</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Structures des données avec C">
+<div class="tree-folder">├── 🔗📁 • Structures de Données (Laila AMIR)/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 TDs/TPs/</div>
+<div class="tree-file">│   │   ├── 📄 controle.pdf</div>
+<div class="tree-file">│   │   ├── 📄 tp5ex2.c</div>
+<div class="tree-file">│   │   ├── 📄 tp5ex1.c</div>
+<div class="tree-file">│   │   ├── 📄 tp4_ex2.c</div>
+<div class="tree-file">│   │   ├── 📄 tp4_ex1.c</div>
+<div class="tree-file">│   │   ├── 📄 Serie_TP5_SDD_Tronc_Commun_2026.pdf</div>
+<div class="tree-file">│   │   ├── 📄 main (10).c</div>
+<div class="tree-file">│   │   ├── 📄 tp3_tri.c</div>
+<div class="tree-file">│   │   ├── 📄 Correction TD 3 les arbres.pdf</div>
+<div class="tree-file">│   │   ├── 📄 tp4_ex1.txt</div>
+<div class="tree-file">│   │   ├── 📄 TD4_structuredonnees (1).pdf</div>
+<div class="tree-file">│   │   ├── 📄 main (10).txt</div>
+<div class="tree-file">│   │   ├── 📄 Serie_TP3_SDD_Tronc_Commun_2026.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP2 structure de données.pdf</div>
+<div class="tree-file">│   │   └── 📄 TP1.pdf</div>
+<div class="tree-folder">│   ├── 📁 EXAMS/</div>
+<div class="tree-file">│   │   ├── 📄 Contrôle 2 structure données 2025:2026.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Contrôle structure de données en C.pdf</div>
+<div class="tree-file">│   │   └── 📄 Ancien exams structure données.pdf</div>
+<div class="tree-folder">│   ├── 📁 COURS (2026)/</div>
+<div class="tree-file">│   │   ├── 📄 6-Arbres.pdf</div>
+<div class="tree-file">│   │   ├── 📄 2-Piles-files.pdf</div>
+<div class="tree-file">│   │   ├── 📄 3-Algorithmes-De-Tri.pdf</div>
+<div class="tree-file">│   │   ├── 📄 1-Liste-Simplement-chainee.pdf</div>
+<div class="tree-file">│   │   └── 📄 0-Structures.pdf</div>
+<div class="tree-folder">│   └── 📁 COURS MIPC2024/2025/</div>
+<div class="tree-file">│       ├── 📄 5-Algorithmes-De-Tri.pdf</div>
+<div class="tree-file">│       ├── 📄 4-Listes-Doublement-Chainees.pdf</div>
+<div class="tree-file">│       ├── 📄 3-Piles-files.pdf</div>
+<div class="tree-file">│       └── 📄 2-Liste-Simplement-chainee.pdf</div>
+<div class="tree-file">├── 📄 Drive module Structures des données avec C - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 ALSDD/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Livre_ApprenezAProgrammerEnC_SiteDeZéro_.pdf</div>
+<div class="tree-folder">│   ├── 📁 EMD/</div>
+<div class="tree-file">│   │   ├── 📄 intero.PDF</div>
+<div class="tree-file">│   │   ├── 📄 EMD2_ALSDD_Corrigé_2013-2014.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EMD1_ALSDD_Corrigé_2011-2012.doc</div>
+<div class="tree-file">│   │   ├── 📄 EMD1_ALSDD_Corrigé_2010-2011.doc</div>
+<div class="tree-file">│   │   ├── 📄 EMD1_ALSDD_Corrigé_2009-2010.doc</div>
+<div class="tree-file">│   │   ├── 📄 Interro1_ALSDD_2009-2010.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EMD1_ALSDD_2010-2011.doc</div>
+<div class="tree-file">│   │   ├── 📄 EMD1_ALSDD_2009-2010.doc</div>
+<div class="tree-file">│   │   ├── 📄 EMD1_ALSDD_2011-2012.doc</div>
+<div class="tree-file">│   │   ├── 📄 EMD1+CORR_ALSDD_2012-2013.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EMD2_ALSDD_2011-2012.pdf</div>
+<div class="tree-file">│   │   └── 📄 EMD2+CORR_ALSDD_2012-2013.pdf</div>
+<div class="tree-folder">│   ├── 📁 Cours/</div>
+<div class="tree-file">│   │   ├── 📄 Recursion.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chap07_Recursivité.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 5 - LLC - 4pages_2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 5-Structure_hierarchique_Arbre.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 5-Structure_hierarchique_Tas.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 5-Structure_hierarchique_AVL.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 3-Structure_Séq_File.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 2-Complexité_itératif.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 3-Structure_Séq_Pile.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 1 - Rappel_S1_S2_2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 4-Récurcivité.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 1 - LangageC.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 3-Structure_Séq_LLC.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chap02_Tableaux_Présentation.pdf</div>
+<div class="tree-file">│   │   └── 📄 Chap02_Tableaux.pdf</div>
+<div class="tree-folder">│   └── 📁 TD/</div>
+<div class="tree-file">│       ├── 📄 TD_ 02.0_AlgorithmqueSD2_L1MI.pdf</div>
+<div class="tree-file">│       ├── 📄 TD_ 03.1_AlgorithmqueSD2_L1MI.pdf</div>
+<div class="tree-file">│       ├── 📄 TD_ 01.1_AlgorithmqueSD2_L1MI.pdf</div>
+<div class="tree-file">│       ├── 📄 TD_ 01.2_AlgorithmqueSD2_L1MI.pdf</div>
+<div class="tree-file">│       ├── 📄 TD_ 03.2_AlgorithmqueSD2_L1MI.pdf</div>
+<div class="tree-file">│       ├── 📄 Série2 - Chapitre 5 - LLC.pdf</div>
+<div class="tree-file">│       └── 📄 Série1 - Chapitre2 - Les tableaux.pdf</div>
+<div class="tree-folder">├── 🔗📁 DSA/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Sujets + corrigés /</div>
+<div class="tree-file">│   │   ├── 📄 ExamenFinal2122.pdf</div>
+<div class="tree-file">│   │   ├── 📄 ExamenFinal2021.pdf</div>
+<div class="tree-file">│   │   ├── 📄 ExamenFinal1920.pdf</div>
+<div class="tree-file">│   │   ├── 📄 ExamenRattrapage1819.pdf</div>
+<div class="tree-file">│   │   ├── 📄 ExamenRattrapage1920.pdf</div>
+<div class="tree-file">│   │   ├── 📄 ExamenRattrapage2122.pdf</div>
+<div class="tree-file">│   │   └── 📄 ExamenRattrapage2021.pdf</div>
+<div class="tree-folder">│   ├── 📁 TPs/</div>
+<div class="tree-file">│   │   ├── 📄 Objectif du Projet.pdf</div>
+<div class="tree-file">│   │   ├── 📄 DeleteVfromArray.c</div>
+<div class="tree-file">│   │   ├── 📄 SearchMethods.c</div>
+<div class="tree-file">│   │   ├── 📄 Lab-1.pdf</div>
+<div class="tree-file">│   │   └── 📄 Pointers.c</div>
+<div class="tree-folder">│   ├── 📁 TDs/</div>
+<div class="tree-file">│   │   ├── 📄 Series 5 Trees-2024.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Series 4 Recursion.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Série 1_Complexité2024.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Series 0_revision-2024.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Serie3/</div>
+<div class="tree-file">│   │   │   └── 📄 numérisé_20240129-2057.pdf</div>
+<div class="tree-folder">│   │   └── 📁 Serie 2/</div>
+<div class="tree-file">│   │       └── 📄 numérisé_20240129-2056.pdf</div>
+<div class="tree-folder">│   └── 📁 cours/</div>
+<div class="tree-file">│       ├── 📄 5-Recursion-Full.pdf</div>
+<div class="tree-file">│       ├── 📄 6-Trees-Full.ppsx.pdf</div>
+<div class="tree-file">│       ├── 📄 6-Trees-Full.ppsx.pptx</div>
+<div class="tree-file">│       ├── 📄 4-Stacks-Queues-Full</div>
+<div class="tree-file">│       ├── 📄 4-Stacks-Queues-Full.pdf</div>
+<div class="tree-file">│       ├── 📄 4-Stacks-Queues-1.pdf</div>
+<div class="tree-file">│       ├── 📄 3-LinkedLists-3.pdf</div>
+<div class="tree-file">│       ├── 📄 3-LinkedLists-2.pdf</div>
+<div class="tree-file">│       ├── 📄 3-LinkedLists-1.ppsx.pdf</div>
+<div class="tree-file">│       ├── 📄 2-Pointers.pdf</div>
+<div class="tree-file">│       ├── 📄 1-Complexity-2.pdf</div>
+<div class="tree-file">│       ├── 📄 0-Introduction.pdf.pdf</div>
+<div class="tree-file">│       └── 📄 1-Complexity-1.pdf</div>
+<div class="tree-folder">├── 🔗📁 [I133] Structure de données en C/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 [I133] Bonus/</div>
+<div class="tree-folder">│   │   ├── 📁 TD/</div>
+<div class="tree-file">│   │   │   ├── 📄 énoncé_.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 p11.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 p10.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 p9.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 p8.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 p6.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 p5.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 p4.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 p3.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 p2.jpg</div>
+<div class="tree-file">│   │   │   └── 📄 P1.jpg</div>
+<div class="tree-folder">│   │   ├── 📁 TP/</div>
+<div class="tree-file">│   │   │   ├── 📄 gap.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 corr-colle3-i3.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Colle4-i3-Pr-Noua.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 colle3-i3.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 colle2-i3.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 idee-de-corr-colle1- i3.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 colle1-i3.jpg</div>
+<div class="tree-folder">│   │   ├── 📁 Résumé/</div>
+<div class="tree-file">│   │   │   ├── 📄 05.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 04.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 01.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 06.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 02.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 07.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 03.jpg</div>
+<div class="tree-file">│   │   │   └── 📄 08.jpg</div>
+<div class="tree-folder">│   │   └── 📁 Examens/</div>
+<div class="tree-file">│   │       └── 📄 Examen.pdf</div>
+<div class="tree-folder">│   ├── 📁 [I133] Archive/</div>
+<div class="tree-file">│   │   ├── 📄 gap.pdf</div>
+<div class="tree-file">│   │   ├── 📄 ratt-i133-mai2023.pdf</div>
+<div class="tree-file">│   │   ├── 📄 exam-i3-2017.pdf</div>
+<div class="tree-file">│   │   ├── 📄 corr-exam-2023-i3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 exam-2023-i3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 corr_suggestion_exam_2022_i3 (1).pdf</div>
+<div class="tree-file">│   │   ├── 📄 ratt-2013-i3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 exam-i3-2013.pdf</div>
+<div class="tree-file">│   │   ├── 📄 exam-2016-i3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Exam-Ratt-2021-i3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 info 3 exam 2022.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Examen 2023 I133.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Examen_info3.2022.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Examen_info3.2019.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Examen_info3_2021.pdf</div>
+<div class="tree-file">│   │   └── 📄 Examen_info3_f_vrier2021_rattrapage5.pdf</div>
+<div class="tree-folder">│   ├── 📁 [I133] Cours/</div>
+<div class="tree-file">│   │   ├── 📄 I133 - Cours (Alternatif).ppsm</div>
+<div class="tree-file">│   │   ├── 📄 cours i133-Pr.Hssina.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Poly-cours-info3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 les arbres-Pr.khoukhi.pdf</div>
+<div class="tree-file">│   │   ├── 📄 I133 - Cours (Chapitre 5).pdf</div>
+<div class="tree-file">│   │   ├── 📄 I133 - Cours (Chapitre 4).pdf</div>
+<div class="tree-file">│   │   ├── 📄 I133 - Cours (Chapitre 3).pdf</div>
+<div class="tree-file">│   │   ├── 📄 I133 - Cours (Chapitre 2).pdf</div>
+<div class="tree-file">│   │   ├── 📄 I133 - Cours (Chapitre 0).pdf</div>
+<div class="tree-file">│   │   └── 📄 I133 - Cours (Chapitre 1).pdf</div>
+<div class="tree-folder">│   ├── 📁 [I133] TD/</div>
+<div class="tree-file">│   │   ├── 📄 Solution_TDs_Info3_2021_2022.pdf</div>
+<div class="tree-file">│   │   └── 📄 TD_Info3_2022_2023_octobre_Exo_Etudiant (1).pdf</div>
+<div class="tree-folder">│   └── 📁 [I133] TP/</div>
+<div class="tree-file">│       ├── 📄 Enonce tp i133</div>
+<div class="tree-file">│       └── 📄 Solution_TPs_info3_2021_2022.pdf</div>
+<div class="tree-file">├── 📄 TP Structure de données C Hraoui ENSA Fes 2020 2021-Structures données avec C</div>
+<div class="tree-file">├── 📄 TP Structure de données C Hraoui ENSA Fes 2020 2021-Structures données avec C</div>
+<div class="tree-file">├── 📄 TP Structure de données C Hraoui ENSA Fes 2020 2021-Structures données avec C</div>
+<div class="tree-file">├── 📄 Langage C Exercices corrigés Maude Manouvrier Dauphine-Structures données avec C</div>
+<div class="tree-file">├── 📄 Langage C Exercices corrigés Maude Manouvrier Dauphine-Structures données avec C</div>
+<div class="tree-file">├── 📄 Langage C Exercices corrigés Maude Manouvrier Dauphine-Structures données avec C</div>
+<div class="tree-file">├── 📄 Exercices Programmation C: Structures et Tables de Hachage-Structures données avec C</div>
+<div class="tree-file">├── 📄 Examen Info Structures Données Fichiers UHII Casa 2017-Structures données avec C</div>
+<div class="tree-file">├── 📄 Examen MIP Informatique 2016 Listes Chainées et Arbres C-Structures données avec C</div>
+<div class="tree-file">├── 📄 Examen I133 Structures de Données en Langage C 2019 2020-Structures données avec C</div>
+<div class="tree-file">├── 📄 Solution TP 1 et TP 2 Structures de Donnees en C LSC et LDC-Structures données avec C</div>
+<div class="tree-file">├── 📄 TP Structure de données en langage C ENSA Fes 2020 2021-Structures données avec C</div>
+<div class="tree-file">├── 📄 TP TD 01 Structures donnees Pointeurs allocation dynamique-Structures données avec C</div>
+<div class="tree-file">├── 📄 Solution TP 1 et TP 2 Structures de Donnees en C LSC et LDC-Structures données avec C</div>
+<div class="tree-file">├── 📄 TD 1 Structures de Donnees C Listes Simplement Chainees MIP-Structures données avec C</div>
+<div class="tree-file">├── 📄 Corrige TD 1 Structures de Donnees en Langage C I133 MIP S3-Structures données avec C</div>
+<div class="tree-file">├── 📄 Cours Module I33 Structures de données MIP S3 FST 2020 2021-Structures données avec C</div>
+<div class="tree-file">├── 📄 Cours I33 Structures de données MIP S3 FST Mohammedia 2020-Structures données avec C</div>
+<div class="tree-file">├── 📄 Cours Structures de données I33 MIP S3 FST Mohammedia HSSINA-Structures données avec C</div>
+<div class="tree-file">├── 📄 Cours I133 Structures de données MIP S3 FST Mohammedia 2021-Structures données avec C</div>
+<div class="tree-file">├── 📄 Cours Structures de données I33 MIP S3 FST Mohammedia 2020-Structures données avec C</div>
+<div class="tree-file">├── 📄 Cours Structures de données Module I33 MIP S3 FST 2019 2020-Structures données avec C</div>
+<div class="tree-file">├── 📄 Examen de rattrapage Module I133 FST Mohammedia 2020 2021-Structures données avec C</div>
+<div class="tree-file">├── 📄 Examen I133 Structures de Donnees en Langage C FST 2020 2021-Structures données avec C</div>
+<div class="tree-file">├── 📄 Examen I133 Structures de Données en Langage C 2019 2020-Structures données avec C</div>
+<div class="tree-file">├── 📄 Examen Module I133 Liste Doublement Chainee MIP S3 2021 2022-Structures données avec C</div>
+<div class="tree-file">├── 📄 Examen Module I133 Files d attente C MIP S3 FST Mohammedia-Structures données avec C</div>
+<div class="tree-file">├── 📄 Examen INFO3 I133 FST Mohammedia Listes Chainees Polynomes-Structures données avec C</div>
+<div class="tree-file">├── 📄 Examen Rattrapage Informatique 3 MIP FST Mohammedia 2021-Structures données avec C</div>
+<div class="tree-file">├── 📄 Examen MIP Informatique 2016 Listes Chainées et Arbres C-Structures données avec C</div>
+<div class="tree-file">├── 📄 Examen Algorithmique et Programmation 3 FST Mohammedia 2013-Structures données avec C</div>
+<div class="tree-file">├── 📄 TD-Structures données avec C</div>
+<div class="tree-file">├── 📄 TD-Structures données avec C</div>
+<div class="tree-file">├── 📄 Examen INFO-Structures données avec C</div>
+<div class="tree-file">├── 📄 td-Structures données avec C</div>
+<div class="tree-file">├── 📄 Examen Info Structures Données Fichiers UHII Casa 2017-Structures données avec C</div>
+<div class="tree-file">├── 📄 examen Rattrapage MIP 3 I133 Polynômes Juin 2023 FST-Structures données avec C</div>
+<div class="tree-file">├── 📄 TP Implémentation d'une file d'attente dynamique de clients en C-Structures données avec C</div>
+<div class="tree-file">├── 📄 TPTD 01 C Tableaux Structures de données Pr Aissaoui-Structures données avec C</div>
+<div class="tree-file">├── 📄 Cours Structures de Données ENSA Fès Karima Aissaoui-Structures données avec C</div>
+<div class="tree-file">├── 📄 TP TD 04 Listes doublement chaînées Structures de données-Structures données avec C</div>
+<div class="tree-file">├── 📄 TP TD 07 Structures de données Les tables de hachage-Structures données avec C</div>
+<div class="tree-file">├── 📄 Cours de Programmation C Résumé des Bases et Syntaxe-Structures données avec C</div>
+<div class="tree-file">├── 📄 TP TD 08 Algorithmes de tri sur listes chainees-Structures données avec C</div>
+<div class="tree-file">├── 📄 Cours Arbres de Pr Karima AISSAOUI Universite USMBA-Structures données avec C</div>
+<div class="tree-file">├── 📄 Structures de données TP TD 03 Listes chaînées simples-Structures données avec C</div>
+<div class="tree-file">├── 📄 Exercices Programmation C: Structures et Tables de Hachage-Structures données avec C</div>
+<div class="tree-file">├── 📄 Cours Pile Structures de Données Pr Karima Aissaoui-Structures données avec C</div>
+<div class="tree-file">├── 📄 TP TD 06 Structures de données Arbres Binaires de Recherche-Structures données avec C</div>
+<div class="tree-file">├── 📄 Langage C Exercices corrigés Maude Manouvrier Dauphine-Structures données avec C</div>
+<div class="tree-file">├── 📄 cours Listes Doublement Chaînées Pr Karima AISSAOUI-Structures données avec C</div>
+<div class="tree-file">├── 📄 Cours Structures de Données Listes Chaînées Pr. AISSAOUI-Structures données avec C</div>
+<div class="tree-file">├── 📄 TP Structure de données C Hraoui ENSA Fes 2020 2021-Structures données avec C</div>
+<div class="tree-folder">├── 🔗📁 [I133] Structure de données en C/  (raccourci)</div>
+<div class="tree-file">│   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">├── 🔗📁 Structure des données en C/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 colle3.jpeg</div>
+<div class="tree-file">│   ├── 📄 colle2.jpeg</div>
+<div class="tree-file">│   ├── 📄 colle1.jpeg</div>
+<div class="tree-file">│   ├── 📄 2016-2017(Rattrapage2).jpeg</div>
+<div class="tree-file">│   ├── 📄 2016-2017(Rattrapage1).jpeg</div>
+<div class="tree-file">│   ├── 📄 colle4.jpeg</div>
+<div class="tree-file">│   ├── 📄 Examen 2016-2017(2).jpeg</div>
+<div class="tree-file">│   ├── 📄 Examen 2016-2017(1).jpeg</div>
+<div class="tree-file">│   ├── 📄 B.jpeg</div>
+<div class="tree-file">│   ├── 📄 A.jpeg</div>
+<div class="tree-file">│   ├── 📄 5.png</div>
+<div class="tree-file">│   ├── 📄 4.png</div>
+<div class="tree-file">│   ├── 📄 6.png</div>
+<div class="tree-folder">│   ├── 📁 Cours/</div>
+<div class="tree-folder">│   │   ├── 📁 PDF/</div>
+<div class="tree-folder">│   │   ├── 📁 Les arbres/</div>
+<div class="tree-folder">│   │   ├── 📁 Les files/</div>
+<div class="tree-folder">│   │   ├── 📁 Les piles/</div>
+<div class="tree-folder">│   │   └── 📁 Les listes chainées/</div>
+<div class="tree-folder">│   ├── 📁 COLLE/</div>
+<div class="tree-folder">│   ├── 📁 TP/</div>
+<div class="tree-folder">│   │   ├── 📁 TP-Séance-4/</div>
+<div class="tree-folder">│   │   │   ├── 📁 Liste chainée/</div>
+<div class="tree-folder">│   │   │   ├── 📁 Statique/</div>
+<div class="tree-folder">│   │   │   └── 📁 Dynamique/</div>
+<div class="tree-folder">│   │   ├── 📁 TP-Séance-1/</div>
+<div class="tree-folder">│   │   ├── 📁 TP-Séance-3/</div>
+<div class="tree-folder">│   │   └── 📁 TP-Séance-2/</div>
+<div class="tree-folder">│   ├── 📁 Examen Ecrit/</div>
+<div class="tree-folder">│   ├── 📁 fichier.txt/</div>
+<div class="tree-folder">│   │   └── 📁 Jeux/</div>
+<div class="tree-folder">│   └── 📁 Samir/</div>
+<div class="tree-folder">├── 🔗📁 +Structures de données SMA SMI MIPC/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 °Examens corrigés structures de données FST FES.pdf</div>
+<div class="tree-file">│   ├── 📄 °EXAMENS Structures de données en C FPT TETOUAN.pdf</div>
+<div class="tree-file">│   ├── 📄 °EXAMENS Structures de données en C FSDM FES.pdf</div>
+<div class="tree-file">│   ├── 📄 °EXAMENS Structures de données en C FSJ ELJDIDA.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD COURS Structures de données en C FSM MEKNES 19 20.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD COURS Structures de données en C FSM MEKNES 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD COURS Structures de données en C MIPC FST TANGER.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD Structures de données en C FPT TAZA.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD Structures de données en C FPT TETOUAN 19 20.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD Structures de données en C FSAC &amp; EST CASABLANCA.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD Structures de données en C FSJ ELJDIDA 16 17.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD Structures de données en C FSJ ELJDIDA 2020.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD Structures de données en C MIPC FST ERRACHIDIA A.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD Structures de données en C MIPC FST ERRACHIDIA B.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD Structures de données en C MIPC FST FES.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD&amp;TP STRUCTURES DE DONNEES EN LANGAGE C FST-MOHAMMEDIA.pdf</div>
+<div class="tree-file">│   ├── 📄 °TDs TPs EXAMENs STRUCTURES DES DONNEES FST-SETTET.pdf</div>
+<div class="tree-file">│   ├── 📄 °TP STRUCTURES DE DONNEES EN LANGAGE C FPO.pdf</div>
+<div class="tree-file">│   ├── 📄 °TP STRUCTURES DE DONNEES EN LANGAGE C FSO OUAJDA.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD TP Structures de données en C FSDM FES 19 20.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD TP Structures de données en C FSDM FES 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD TP Structures de données en C FSDM FES 21 22.pdf</div>
+<div class="tree-file">│   ├── 📄 FST SETTET ALGORITHMIQUE &amp; PROGRAMMATION EN C1&amp;C2 TDS EXAMENS.pdf</div>
+<div class="tree-file">│   ├── 📄 TD STRUCTURE DE DONNEES FS-TETOUAN SMA4.pdf</div>
+<div class="tree-file">│   ├── 📄 TD STRUCTURE DE DONNEES FSA AGADIR 2020 SMA4.pdf</div>
+<div class="tree-file">│   ├── 📄 TD STRUCTURE DE DONNEES FSBM CASA SMA4.pdf</div>
+<div class="tree-file">│   ├── 📄 TD STRUCTURE DE DONNEES FSM MEKNES SMA4.pdf</div>
+<div class="tree-file">│   ├── 📄 TDs TPs EXAMENs STRUCTURES DES DONNEES FST-SETTET.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS Structures de données en C FSJ ELJDIDA 16 17.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS Structures de données en C MIPC FST FES.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS Structures de données en C FPT TETOUAN.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS Structures de données en C FPK.pdf</div>
+<div class="tree-file">│   ├── 📄 °Polycopié de Cours Structures de données.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS Structures de données en C FSJ ELJDIDA 2020.pdf</div>
+<div class="tree-file">│   ├── 📄 °Cours_Structures_Donnees_SMI_S4 FPN.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS Structures de données en C MIPC FST ERRACHIDIA.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS Structures de données en C FPO.pdf</div>
+<div class="tree-file">│   └── 📄 °COURS Structures de données en C FSK KENITRA.pdf</div>
+<div class="tree-folder">├── 🔗📁 °Algorithmique2 BY SABORPCMATH/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSSM MARRAKECH SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSDM FES SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSBM CASABLANCA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSAC CASABLANCA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS ALGORITHMIQUE II FSA AGADIR SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS2 ALGORITHMIQUE II FSBM CASABLANCA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS1 ALGORITHMIQUE II FSBM CASABLANCA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS ALGORITHMIQUE II FSSM MARRAKECH SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS ALGORITHMIQUE II FSM MEKNES SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS ALGORITHMIQUE II FSDM FES SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS ALGORITHMIQUE II FPL LARACH SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS ALGORITHMIQUE II 20 21 FST TETOUAN SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS ALGORITHMIQUE II 20 21 FSAC CASABLANCA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS ALGORITHMIQUE II 20 21 FPK KHOURIBGHA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS ALGORITHMIQUE II 18 19 FSA AGADIR SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FSSM MARRAKECH SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FSR RABAT 16 17 SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FSR RABAT 14 15 SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FSM MEKNES SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FSK KENITRA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FSJ ELJADIDA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FSDM FES SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FSBM CASABLANCA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FSAC CASABLANCA SMI3.pdf</div>
+<div class="tree-file">│   ├── 📄 °°TDs ALGORITHMIQUE II FPL LARACH SMI3.pdf</div>
+<div class="tree-file">│   └── 📄 °°TDs ALGORITHMIQUE II 18 19FSA AGADIR SMI3.pdf</div>
+<div class="tree-folder">└── 📁 Structure des données en C/</div>
+<div class="tree-file">    ├── 📄 arbre.cpp</div>
+<div class="tree-file">    ├── 📄 arb(1).cpp</div>
+<div class="tree-file">    ├── 📄 B.jpeg</div>
+<div class="tree-file">    ├── 📄 liste chainées.cpp</div>
+<div class="tree-file">    ├── 📄 arb(2).cpp</div>
+<div class="tree-file">    ├── 📄 arb.cpp</div>
+<div class="tree-file">    ├── 📄 liste doublement chainees.cpp</div>
+<div class="tree-file">    ├── 📄 colle3.jpeg</div>
+<div class="tree-file">    ├── 📄 les piles.cpp</div>
+<div class="tree-file">    ├── 📄 6.png</div>
+<div class="tree-file">    ├── 📄 l-d-c.cpp</div>
+<div class="tree-file">    ├── 📄 5.png</div>
+<div class="tree-file">    ├── 📄 arbre(2).cpp</div>
+<div class="tree-file">    ├── 📄 colle2.jpeg</div>
+<div class="tree-file">    ├── 📄 desktop.ini</div>
+<div class="tree-file">    ├── 📄 liste double.cpp</div>
+<div class="tree-file">    ├── 📄 2016-2017(Rattrapage1).jpeg</div>
+<div class="tree-file">    ├── 📄 arbre(1).cpp</div>
+<div class="tree-file">    ├── 📄 colle4.jpeg</div>
+<div class="tree-file">    ├── 📄 tri..cpp</div>
+<div class="tree-file">    ├── 📄 calculatrice colle.cpp</div>
+<div class="tree-file">    ├── 📄 H table.cpp</div>
+<div class="tree-file">    ├── 📄 4.png</div>
+<div class="tree-file">    ├── 📄 colle.cpp</div>
+<div class="tree-file">    ├── 📄 calculatrice colle(1).cpp</div>
+<div class="tree-file">    ├── 📄 liste simple.cpp</div>
+<div class="tree-file">    ├── 📄 desktop(1).ini</div>
+<div class="tree-file">    ├── 📄 les arbres.cpp</div>
+<div class="tree-file">    ├── 📄 les files.cpp</div>
+<div class="tree-file">    ├── 📄 A.jpeg</div>
+<div class="tree-file">    ├── 📄 2016-2017(Rattrapage2).jpeg</div>
+<div class="tree-file">    ├── 📄 Examen 2016-2017(2).jpeg</div>
+<div class="tree-file">    ├── 📄 colle1.jpeg</div>
+<div class="tree-file">    ├── 📄 Algo de tri.cpp</div>
+<div class="tree-file">    ├── 📄 Examen 2016-2017(1).jpeg</div>
+<div class="tree-file">    ├── 📄 colle(1).cpp</div>
+<div class="tree-file">    └── 📄 tl-complet.cpp</div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     HOW TO ORDER
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Structures des données avec C</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FAQ
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Structures des données avec C</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Structures des données avec C ?</summary>
+      <p>
+        Le module <strong>Structures des données avec C</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Structures des données avec C ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Structures des données avec C</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Structures des données avec C correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     CTA FINAL
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Structures des données avec C</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════ -->
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>
