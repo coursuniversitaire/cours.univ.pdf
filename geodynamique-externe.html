@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- ═══ SEO Primary ═══ -->
+  <title>Géodynamique externe — Cours PDF, TD & Examens Corrigés | CoursUni</title>
+  <meta name="description" content="Téléchargez le module Géodynamique externe : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta name="keywords"    content="Géodynamique externe, cours Géodynamique externe pdf, td corrigés Géodynamique externe, examen corrigé Géodynamique externe, module Géodynamique externe université, polycopié Géodynamique externe, exercices corrigés Géodynamique externe, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/geodynamique-externe.html" />
+
+  <!-- ═══ Open Graph ═══ -->
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Géodynamique externe — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta property="og:description" content="Téléchargez le module Géodynamique externe : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/geodynamique-externe.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <!-- ═══ Twitter Card ═══ -->
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Géodynamique externe — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta name="twitter:description" content="Téléchargez le module Géodynamique externe : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+
+  <!-- ═══ Robots ═══ -->
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-05" />
+
+  <!-- ═══ Schema.org JSON-LD ═══ -->
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Géodynamique externe","item":"https://coursuniversitaire.github.io/cours.univ.pdf/geodynamique-externe.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Géodynamique externe ?","acceptedAnswer":{"@type":"Answer","text":"Le module Géodynamique externe contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Géodynamique externe ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Géodynamique externe correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    /* ═══════════════════════════════════════
+       Design tokens — matches CoursUni site
+       ═══════════════════════════════════════ */
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ── */
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    /* ── Nav ── */
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* ── Breadcrumb ── */
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    /* ── Hero ── */
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.55rem; font-weight: 700; margin-bottom: 28px;
+    }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    /* ── Cards grid ── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    /* ── Drive tree ── */
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    /* ── Steps ── */
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    /* ── FAQ ── */
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    /* ── Trust bar ── */
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    /* ── CTA section ── */
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    /* ── Footer ── */
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════
+     NAV
+════════════════════════════════════════ -->
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ════════════════════════════════════════
+     HERO
+════════════════════════════════════════ -->
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Géodynamique externe</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Géodynamique externe</em><br />
+      Cours, TD et exercices corrigés Géodynamique externe pdf &amp; Examens Corripdf
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Géodynamique externe</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.
+      Accès immédiat.
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">✓</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">19</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     WHAT YOU GET
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Géodynamique externe</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Géodynamique externe</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     DRIVE TREE
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Géodynamique externe</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Géodynamique externe">
+<div class="tree-folder">├── 🔗📁 00 GEODYNAMIQUE EXTERNE/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-folder">│   ├── 📁 SVI23-Géodynamique Externe FPT TAZA 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 CorrectionTD2-SVI-GGA-S2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD2-SVI-GGA(S2).pdf</div>
+<div class="tree-folder">│   │   └── 📁 S2/</div>
+<div class="tree-file">│   │       ├── 📄 PTT-Géod-Ext.pdf</div>
+<div class="tree-file">│   │       └── 📄 Cours-Géody-Externe(S2).pdf</div>
+<div class="tree-folder">│   ├── 📁 S2 SVT Géodynamique externe FS-SAFI 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 S2 SVT Géodynamique externe Polyc_geo_extr_2020_chapi3_partie 1 et 2_nakhcha FS-SAFI 19 20.pdf</div>
+<div class="tree-file">│   │   ├── 📄 S2 SVT Géodynamique externe Polyc_geo_extr_2020_chapi2_Partie1_nakhcha FS-SAFI 19 20.pdf</div>
+<div class="tree-file">│   │   ├── 📄 S2 SVT Géodynamique externe Polyc_geo_extr_2020_chapi1_nakhcha FS-SAFI 19 20.pdf</div>
+<div class="tree-file">│   │   ├── 📄 S2 SVT Géodynamique externe daiap_cours_geo_exter_2020_Chapi3_partie1 FS-SAFI 19 20.pdf</div>
+<div class="tree-file">│   │   ├── 📄 S2 SVT Géodynamique externe daiap_cours_geo_exter_2020_Chapi2_partie1 FS-SAFI 19 20.pdf</div>
+<div class="tree-file">│   │   ├── 📄 S2 SVT Géodynamique externe TD de pétrographie FS-SAFI 19 20.pdf</div>
+<div class="tree-file">│   │   └── 📄 S2 SVT Géodynamique externe daiap_cours_geo_exter_2020_Chapi1 FS-SAFI 19 20.pdf</div>
+<div class="tree-folder">│   ├── 📁 S2 SVT Géodynamique externe FS TETOUAN 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 SVT-2_Géodynamique Externe_TD1- S2_Mihraje.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SVT- GEODYN  EXTERNE_TD3_MIHRAJE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SVT-2_Géo. Externe_TD2_MIHRAJE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SVT-2_Géodynamique Externe_ASSOUMI.pptx</div>
+<div class="tree-file">│   │   ├── 📄 SVT-2_Géo Externe_Séance 2 Er-Tr_ASSOUMI.pptx</div>
+<div class="tree-file">│   │   ├── 📄 Cours 10.pdf</div>
+<div class="tree-file">│   │   ├── 📄 cours 9.pptx</div>
+<div class="tree-file">│   │   ├── 📄 SVT-2_COURS_Géody. Externe_Mihraje.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SVT-2_Géody. Externe4_Mihraje.pdf</div>
+<div class="tree-file">│   │   ├── 📄 cours 11.pptx</div>
+<div class="tree-file">│   │   ├── 📄 SVT-2_GEO Externe_Séance  III_ASSOUMI.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SVT-2_Geody. Externe2_Mihraje.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD4- S2.pdf</div>
+<div class="tree-file">│   │   └── 📄 SVT-2_Géody. Externe1_Mihraje.pdf</div>
+<div class="tree-folder">│   ├── 📁 S2 SVT FSJ Géodynamique Externe 19 20/</div>
+<div class="tree-file">│   │   └── 📄 cours de S2 géod.externe. 2015.pdf</div>
+<div class="tree-folder">│   ├── 📁 S2 SVT FPN GEODYNAMIQUE ext 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 TD N° 3 Géodynamique externe.docx</div>
+<div class="tree-file">│   │   ├── 📄 TD N° 2 Géodynamique externe.docx</div>
+<div class="tree-file">│   │   ├── 📄 TD N° 1 Géodynamique externe.docx</div>
+<div class="tree-file">│   │   ├── 📄 Cours 03 Géodynamique externe.pptx</div>
+<div class="tree-file">│   │   ├── 📄 Cours 04 Géodynamique externe.pptx</div>
+<div class="tree-file">│   │   ├── 📄 Cours 01 Géodynamique externe.pptx</div>
+<div class="tree-file">│   │   └── 📄 Cours 02 Géodynamique externe.pptx</div>
+<div class="tree-folder">│   ├── 📁 S2 SVT FPKH Géodynamique externe 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 0 = INTRODUCTION.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 1 = ALTERATION.pdf</div>
+<div class="tree-file">│   │   └── 📄 Chapitre 2 = EROSION.pdf</div>
+<div class="tree-folder">│   ├── 📁 S2 SVT FES FES Géodynamique externe 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 BCG_S2_Cours_ppt_Géodynamique_Externe_Benaabidate_Benabdelhadi.pdf</div>
+<div class="tree-file">│   │   ├── 📄 BCG_S2_Cours_Géodynamique_Externe_Benaabidate_Benabdelhadi.pdf</div>
+<div class="tree-file">│   │   ├── 📄 BCG_S2_TD_Géodynamique_Externe_Benabdelhadi.pdf</div>
+<div class="tree-file">│   │   └── 📄 TD2 BCG S2_Benaabidate 2020.pdf</div>
+<div class="tree-folder">│   ├── 📁 S2 Géodynamique externe SVT FS TETOUAN/</div>
+<div class="tree-folder">│   ├── 📁 S2 Géodynamique externe FS TETOUAN 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 Dossier ISMA AMRI-20200404T014741Z-001.zip</div>
+<div class="tree-file">│   │   ├── 📄 SVT-2_Géody. Externe4_Mihraje.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SVT-2_Géo Externe_Séance (2)  Erosion_ASSOUMI.pptx</div>
+<div class="tree-file">│   │   ├── 📄 SVT-2_Géodynamique Externe_TD1- S2_Mihraje.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SVT-2_Géodynamique Externe_ASSOUMI.pptx</div>
+<div class="tree-file">│   │   ├── 📄 SVT-2_GEO Externe_Séance  III_ASSOUMI.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SVT-2_Géo. Externe_TD2_MIHRAJE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SVT-2_Géody. Externe3_Mihraje.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SVT-2_Geody. Externe2_Mihraje.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SVT-2_COURS_Géody. Externe_Mihraje.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SVT-2_Géody. Externe1_Mihraje.pdf</div>
+<div class="tree-file">│   │   └── 📄 SVT- GEODYN  EXTERNE_TD3_MIHRAJE.pdf</div>
+<div class="tree-folder">│   ├── 📁 S2 Géodynamique Externe FS TETOUAN/</div>
+<div class="tree-file">│   │   ├── 📄 S2 Géodynamique interne SVT-2_Géodynamique Interne_HLILA.pdf</div>
+<div class="tree-file">│   │   ├── 📄 S2 Géodynamique interne SVT-2_Liste des sites Internet à consulter pour Cours_Géodynamique Interne_R.HLILA.pdf</div>
+<div class="tree-file">│   │   ├── 📄 S2 Géodynamique interne SVT-2_TD_Géodynamique Interne_HLILA.pdf</div>
+<div class="tree-file">│   │   ├── 📄 S2 Géodynamique externe SVT-2_Géody. Externe4_Mihraje.pdf</div>
+<div class="tree-file">│   │   ├── 📄 S2 Géodynamique externe SVT-2_Géodynamique Externe_TD1- S2_Mihraje.pdf</div>
+<div class="tree-file">│   │   ├── 📄 S2 Géodynamique externe SVT-2_Géody. Externe3_Mihraje.pdf</div>
+<div class="tree-file">│   │   ├── 📄 S2 Géodynamique externe SVT-2_Geody. Externe2_Mihraje.pdf</div>
+<div class="tree-file">│   │   ├── 📄 S2 Géodynamique externe SVT-2_Géody. Externe1_Mihraje.pdf</div>
+<div class="tree-file">│   │   └── 📄 S2 Géodynamique externe SVT-2_COURS_Géody. Externe_Mihraje.pdf</div>
+<div class="tree-folder">│   ├── 📁 S2 Géodynamique externe FS SAFI 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 Polyc_geo_extr_2020_chapi1_nakhcha.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Polyc_geo_extr_2020_chapi2_Partie1_nakhcha.pdf</div>
+<div class="tree-file">│   │   ├── 📄 daiap_cours_geo_exter_2020_Chapi3_partie1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 daiap_cours_geo_exter_2020_Chapi1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 daiap_cours_geo_exter_2020_Chapi3_partie2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD de pétrographie.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Polyc_geo_extr_2020_chapi3_partie 1 et 2_nakhcha.pdf</div>
+<div class="tree-file">│   │   └── 📄 daiap_cours_geo_exter_2020_Chapi2_partie1.pdf</div>
+<div class="tree-folder">│   ├── 📁 S2 FST FES Géodynamique externe/</div>
+<div class="tree-file">│   │   ├── 📄 BCG_S2_Cours_Géodynamique_Externe_Benaabidate_Benabdelhadi.pdf</div>
+<div class="tree-file">│   │   ├── 📄 BCG_S2_Cours_ppt_Géodynamique_Externe_Benaabidate_Benabdelhadi.pdf</div>
+<div class="tree-file">│   │   ├── 📄 BCG_S2_TD_Géodynamique_Externe_Benabdelhadi.pdf</div>
+<div class="tree-file">│   │   └── 📄 TD2 BCG S2_Benaabidate 2020.pdf</div>
+<div class="tree-folder">│   ├── 📁 S2 FSSM SVT MODULE DE GEODYNAMIQUE EXTERNE (S2)/</div>
+<div class="tree-file">│   │   ├── 📄 poly_géody_extne.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre II_Cycle des R. sédim.pdf</div>
+<div class="tree-file">│   │   ├── 📄 chapIII_hydrologie et hydrogéologie.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Correction_CR_Géo Ext_S2_2019.pdf</div>
+<div class="tree-file">│   │   ├── 📄 chap I_Paléoclimatologie S2.pdf</div>
+<div class="tree-file">│   │   └── 📄 chap I_Climatologie S2.pdf</div>
+<div class="tree-folder">│   ├── 📁 S2 FSO SVT Géodynamique externe 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 TD3 2020 et corrigé.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD1 2020 corrigé.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Cours diaporama  SVT2016.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Cours Géodynamique externe.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD3 2020 et corrigé.doc</div>
+<div class="tree-file">│   │   ├── 📄 TD1 2020 corrigé.doc</div>
+<div class="tree-file">│   │   └── 📄 TD 2 SVT et corrigé.pdf</div>
+<div class="tree-folder">│   ├── 📁 S2 FSO SVT  Géodynamique externe 19-20/</div>
+<div class="tree-file">│   │   ├── 📄 -Géodynamique externe SFU12304_CR_5e710ee841013.pdf</div>
+<div class="tree-file">│   │   ├── 📄 -Géodynamique externe SFU12304_TD_5e710ffe7334b.doc</div>
+<div class="tree-file">│   │   ├── 📄 -Géodynamique externe SFU12304_TD_5e710fefdd793.pdf</div>
+<div class="tree-file">│   │   ├── 📄 -Géodynamique externe SFU12304_TD_5e710fe286a34.doc</div>
+<div class="tree-file">│   │   └── 📄 -Géodynamique externe SFU12304_CR_5e710eda66929.pdf</div>
+<div class="tree-folder">│   ├── 📁 S2 FSDM SVT GEODYNAMIQUE EXTERNE 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 TD (1,2,3,4) avec solution-20200504.zip</div>
+<div class="tree-file">│   │   ├── 📄 TD (1,2,3,4)-20200504.zip</div>
+<div class="tree-file">│   │   ├── 📄 Cours Géodynamique externe.pdf</div>
+<div class="tree-file">│   │   └── 📄 TP géodynamique externe polycopie .pdf</div>
+<div class="tree-folder">│   ├── 📁 S2 FSDM SVT GEODYNAMIQUE EXTERNE/</div>
+<div class="tree-file">│   │   ├── 📄 COURS DE SITE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD (1,2,3,4)-20200610.zip</div>
+<div class="tree-file">│   │   ├── 📄 TP géodynamique externe polycopie .pdf</div>
+<div class="tree-file">│   │   ├── 📄 Polycopié Géodynamique externe  2019 2020.pdf</div>
+<div class="tree-file">│   │   └── 📄 Exercices de geo extern 1.pdf</div>
+<div class="tree-folder">│   ├── 📁 S2 FPK Géodynamique externe/</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 1 = ALTERATION.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 0 = INTRODUCTION.pdf</div>
+<div class="tree-file">│   │   └── 📄 Chapitre 2 = EROSION.pdf</div>
+<div class="tree-folder">│   ├── 📁 S1 FST-MEDIA BCG Géodynamique Externe 20 21/</div>
+<div class="tree-file">│   │   ├── 📄 TD_G222_2020.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD1_G222_2020_2021_Séance_1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD2_G222_2020_2021_Séance_2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD3_G222_2020_2021_Séance_3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 cours G222_2020_S2_Séances_1_2_3_4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD4_G222_2020_2021_Séance_4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 cours G222_2020_2021_Séances_suite 4_5_6.pdf</div>
+<div class="tree-file">│   │   ├── 📄 cartographie TP_G222_2020.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Activité 1_cartographie.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP Cartographie_G222.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Activité 2_Cartographie.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TD4/</div>
+<div class="tree-folder">│   │   ├── 📁 TD3/</div>
+<div class="tree-folder">│   │   ├── 📁 TD2/</div>
+<div class="tree-folder">│   │   ├── 📁 TD1/</div>
+<div class="tree-folder">│   │   └── 📁 COURS/</div>
+<div class="tree-folder">│   ├── 📁 Géodynamique externe ENS TETOUA-19-20/</div>
+<div class="tree-file">│   │   └── 📄 Géodynamique externe.pdf</div>
+<div class="tree-folder">│   ├── 📁 GEODYNAMIQUE EXTERNE FSR 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 Réponses TD2 BV Hypsométrie.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD1 Cycle sédimentaire.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD4 BV Bilan hydr et Porosité- Réponse.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD3 BV HiérarchisationForme- Réponse.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Partie 2 Eaux souterraines/</div>
+<div class="tree-file">│   │   │   ├── 📄 Chap 2 Karst.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Chap 3 Hydrothermalisme.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Chap 1 Description et fonctionnement des aquiferes.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Partie 1 Cycle sédimentaire/</div>
+<div class="tree-file">│   │   │   ├── 📄 2 Chap 1 Altération.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 6 Chap 5 Milieux sédimentation- Domaine continental.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 4 Chap 3 Transport.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 5 Chap 4 sédimentation Diagénèse.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 3 Chap 2 Erosion.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 8 chap 5 Domaine marin.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 7 Chap 5 Milieux de sédimentation- Domaine mixte.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 1 GENERALITES.pdf</div>
+<div class="tree-folder">│   │   └── 📁 GEODYNAMIQUE EXTERNETD/</div>
+<div class="tree-file">│   │       ├── 📄 TD1 Cycle sédimentaire.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD Cycle sédimentaire Etud.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD Hiérarchisation -forme Etud.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD Hypsométie Etud.pdf</div>
+<div class="tree-file">│   │       └── 📄 TD Bilan et Porosité Etud.pdf</div>
+<div class="tree-folder">│   ├── 📁 GEODYNAMIQUE EXTERNE FSDM FES 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 11623.mp4</div>
+<div class="tree-file">│   │   ├── 📄 45211.mp4</div>
+<div class="tree-file">│   │   ├── 📄 91778.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD  3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD  3 corrigé.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD  1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD  1 corrigé.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD 4 corrigé.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD  4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD  2 corrigé.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD  2.pdf</div>
+<div class="tree-folder">│   │   └── 📁 Nouveau dossier/</div>
+<div class="tree-file">│   │       ├── 📄 SVI STU S2 Cours Géo Externe.pdf</div>
+<div class="tree-file">│   │       ├── 📄 SVI STU S2 Cours Géo Externe Chapitre 5  HYdrogéologie.pdf</div>
+<div class="tree-file">│   │       └── 📄 SVI STU S2 Cours Géo Externe Chapitre 4 séance 4.pdf</div>
+<div class="tree-folder">│   ├── 📁 GEO EXTERNE SVT FSN  19 20/</div>
+<div class="tree-folder">│   │   └── 📁 S2 SVT coursdegodynamiqueexternesvis2fpn FSN  19 20/</div>
+<div class="tree-file">│   │       ├── 📄 Cours 02 Géodynamique externe.pptx</div>
+<div class="tree-file">│   │       ├── 📄 TD N° 2 Géodynamique externe.docx</div>
+<div class="tree-file">│   │       ├── 📄 Cours 01 Géodynamique externe.pptx</div>
+<div class="tree-file">│   │       ├── 📄 TD N° 1 Géodynamique externe.docx</div>
+<div class="tree-file">│   │       ├── 📄 Géodynamique externe TP 1.pptx</div>
+<div class="tree-file">│   │       ├── 📄 Cours 03 Géodynamique externe.pptx</div>
+<div class="tree-file">│   │       ├── 📄 TD N° 3 Géodynamique externe.docx</div>
+<div class="tree-file">│   │       └── 📄 Cours 04 Géodynamique externe.pptx</div>
+<div class="tree-folder">│   ├── 📁 Geo externe FSA AGADIR/</div>
+<div class="tree-file">│   │   ├── 📄 examen_20géodynamique_20externe_202015_20énoncé_20et_20corrigé.pdf</div>
+<div class="tree-file">│   │   ├── 📄 exam_2011.zip</div>
+<div class="tree-file">│   │   ├── 📄 exam_2010.zip</div>
+<div class="tree-file">│   │   ├── 📄 S2-2015 normal.doc</div>
+<div class="tree-file">│   │   ├── 📄 Examen_SN_2013.zip</div>
+<div class="tree-file">│   │   ├── 📄 Exam pr 20 14.doc</div>
+<div class="tree-file">│   │   ├── 📄 diaporama_TD3.pptx</div>
+<div class="tree-file">│   │   ├── 📄 Corrige_Rattrapage_climatologie_2012_2013.docx</div>
+<div class="tree-file">│   │   ├── 📄 TD3_solution.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Solution_TD2_2015.pdf</div>
+<div class="tree-file">│   │   ├── 📄 D-Diaporama_Glaciers_2016.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD2_2015.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD1_SV2_STU2_Gaussen_2015_solution.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD1_SV2_STU2_Gaussen_2015.pdf</div>
+<div class="tree-file">│   │   ├── 📄 A-Diaporama_Introduction_2016.pdf</div>
+<div class="tree-file">│   │   ├── 📄 B-Diaporama_Gravité_2016.pdf</div>
+<div class="tree-file">│   │   ├── 📄 C-Diaporama_Vent_2016.pdf</div>
+<div class="tree-file">│   │   ├── 📄 F-Diaporama_eaux_souterr_lagune_2016.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Cours-Geod-Ext.pdf</div>
+<div class="tree-file">│   │   ├── 📄 B-Gravite.pdf</div>
+<div class="tree-file">│   │   ├── 📄 A-Introduction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Les_principaux_facteurs_climatiques_2015.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Notions_elementaires_de_climatologie_2015.pdf</div>
+<div class="tree-file">│   │   ├── 📄 E-Eaux courantes.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Action_geologique_de_la_mer_2015.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Action_mer_2015.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 exam_2011/</div>
+<div class="tree-folder">│   │   │   └── 📁 exam_2011/</div>
+<div class="tree-file">│   │   │       ├── 📄 rat 2011Ag-1_corrig�.doc</div>
+<div class="tree-file">│   │   │       ├── 📄 rat 2011Ag-1.doc</div>
+<div class="tree-file">│   │   │       ├── 📄 corrig� principale2011.doc</div>
+<div class="tree-file">│   │   │       └── 📄 principale2011Ag.doc</div>
+<div class="tree-folder">│   │   ├── 📁 exam_2010/</div>
+<div class="tree-folder">│   │   │   └── 📁 exam_2010/</div>
+<div class="tree-file">│   │   │       ├── 📄 Rat 2010.doc</div>
+<div class="tree-file">│   │   │       ├── 📄 corrig� pricipale 2010.doc</div>
+<div class="tree-file">│   │   │       └── 📄 Corrig� Rat 2010.doc</div>
+<div class="tree-folder">│   │   └── 📁 Examen_SN_2013/</div>
+<div class="tree-folder">│   │       └── 📁 Examen_SN_2013/</div>
+<div class="tree-file">│   │           ├── 📄 Corrige_Exam.SN_2013.doc</div>
+<div class="tree-file">│   │           └── 📄 Examen_SN_2013.doc</div>
+<div class="tree-folder">│   ├── 📁 GEO EXTERNE FPT TAZA 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 TD2-SVI-GGA(S2).pdf</div>
+<div class="tree-file">│   │   ├── 📄 PTT-Géod-Ext.pdf</div>
+<div class="tree-file">│   │   └── 📄 Cours-Géody-Externe(S2).pdf</div>
+<div class="tree-folder">│   └── 📁 FST TANGER Géodynamique externe BCG 19 20/</div>
+<div class="tree-file">│       ├── 📄 coursGéologiegénéale.pdf</div>
+<div class="tree-file">│       ├── 📄 G_odynamique Externe_5.pdf</div>
+<div class="tree-file">│       ├── 📄 G_odynamique Externe_4.pdf</div>
+<div class="tree-file">│       ├── 📄 G_odynamique Externe_3.pdf</div>
+<div class="tree-file">│       ├── 📄 G_odynamique Externe_2.pdf</div>
+<div class="tree-file">│       ├── 📄 G_odynamique Externe_1.pdf</div>
+<div class="tree-folder">│       └── 📁 Section A/</div>
+<div class="tree-file">│           ├── 📄 pour CC2 partie 2 geodynamique Externe.ppt [Mode de compatibilité].pdf</div>
+<div class="tree-file">│           ├── 📄 pour CC2 partie 1 geodynamique Externe.ppt [Mode de compatibilité].pdf</div>
+<div class="tree-file">│           ├── 📄 TD 1 exercices geodynamique externe pour CC1  2020.pdf</div>
+<div class="tree-file">│           └── 📄 TD 2 exercices geodynamique externe pour CC2 -2020.pdf</div>
+<div class="tree-folder">├── 📁 examens corrigés /</div>
+<div class="tree-folder">│   └── 🔗📁 Geo externe FSA AGADIR/  (raccourci)</div>
+<div class="tree-file">│       └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">├── 📁 cours/</div>
+<div class="tree-file">│   ├── 📄 G_odynamique Externe_1.pdf</div>
+<div class="tree-file">│   ├── 📄 G_odynamique Externe_2.pdf</div>
+<div class="tree-file">│   ├── 📄 G_odynamique Externe_3.pdf</div>
+<div class="tree-file">│   ├── 📄 G_odynamique Externe_4.pdf</div>
+<div class="tree-file">│   └── 📄 G_odynamique Externe_5.pdf</div>
+<div class="tree-folder">└── 📁 tds corrigés /</div>
+<div class="tree-folder">    ├── 📁 drive2/</div>
+<div class="tree-file">    │   ├── 📄 TD  1 corrigé.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD  1.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD  2 corrigé.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD  2.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD  3 corrigé.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD  3.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD  4.pdf</div>
+<div class="tree-file">    │   └── 📄 TD 4 corrigé.pdf</div>
+<div class="tree-folder">    ├── 📁 drive1/</div>
+<div class="tree-file">    │   ├── 📄 Solution_TD2_2015.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD1_SV2_STU2_Gaussen_2015_solution.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD1_SV2_STU2_Gaussen_2015.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD2_2015.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD3_solution.pdf</div>
+<div class="tree-file">    │   └── 📄 TD3.pdf</div>
+<div class="tree-folder">    └── 📁 td1/</div>
+<div class="tree-file">        ├── 📄 TD N° 1 Géodynamique externe.docx</div>
+<div class="tree-file">        ├── 📄 TD N° 2 Géodynamique externe.docx</div>
+<div class="tree-file">        ├── 📄 TD N° 3 Géodynamique externe.docx</div>
+<div class="tree-file">        ├── 📄 CorrectionTD2-SVI-GGA-S2.pdf</div>
+<div class="tree-file">        └── 📄 TD2-SVI-GGA(S2).pdf</div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     HOW TO ORDER
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Géodynamique externe</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FAQ
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Géodynamique externe</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Géodynamique externe ?</summary>
+      <p>
+        Le module <strong>Géodynamique externe</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Géodynamique externe ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Géodynamique externe</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Géodynamique externe correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     CTA FINAL
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Géodynamique externe</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════ -->
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>

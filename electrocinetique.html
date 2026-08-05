@@ -1,0 +1,761 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- ═══ SEO Primary ═══ -->
+  <title>Electrocinetique — Cours PDF, TD & Examens Corrigés | CoursUni</title>
+  <meta name="description" content="Téléchargez le module Electrocinetique : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta name="keywords"    content="Electrocinetique, cours Electrocinetique pdf, td corrigés Electrocinetique, examen corrigé Electrocinetique, module Electrocinetique université, polycopié Electrocinetique, exercices corrigés Electrocinetique, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/electrocinetique.html" />
+
+  <!-- ═══ Open Graph ═══ -->
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Electrocinetique — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta property="og:description" content="Téléchargez le module Electrocinetique : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/electrocinetique.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <!-- ═══ Twitter Card ═══ -->
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Electrocinetique — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta name="twitter:description" content="Téléchargez le module Electrocinetique : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+
+  <!-- ═══ Robots ═══ -->
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-05" />
+
+  <!-- ═══ Schema.org JSON-LD ═══ -->
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Electrocinetique","item":"https://coursuniversitaire.github.io/cours.univ.pdf/electrocinetique.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Electrocinetique ?","acceptedAnswer":{"@type":"Answer","text":"Le module Electrocinetique contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Electrocinetique ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Electrocinetique correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    /* ═══════════════════════════════════════
+       Design tokens — matches CoursUni site
+       ═══════════════════════════════════════ */
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ── */
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    /* ── Nav ── */
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* ── Breadcrumb ── */
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    /* ── Hero ── */
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.55rem; font-weight: 700; margin-bottom: 28px;
+    }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    /* ── Cards grid ── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    /* ── Drive tree ── */
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    /* ── Steps ── */
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    /* ── FAQ ── */
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    /* ── Trust bar ── */
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    /* ── CTA section ── */
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    /* ── Footer ── */
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════
+     NAV
+════════════════════════════════════════ -->
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ════════════════════════════════════════
+     HERO
+════════════════════════════════════════ -->
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Electrocinetique</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Electrocinetique</em><br />
+      Cours, TD et exercices corrigés Electrocinetique pdf &amp; Examens Corripdf
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Electrocinetique</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.
+      Accès immédiat.
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">4</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">36</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">5</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     WHAT YOU GET
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Electrocinetique</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Electrocinetique</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     DRIVE TREE
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Electrocinetique</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Electrocinetique">
+<div class="tree-folder">├── 🔗📁 livre cours et exo-delectronique-3e-ed-(2).pdf/  (raccourci)</div>
+<div class="tree-file">├── 📄 Drive module Electrocinetique - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 ELECTROCINETIQUE/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 cours brouri électrocinétique Chapitre 2_3.pdf</div>
+<div class="tree-file">│   ├── 📄 null.pdf</div>
+<div class="tree-file">│   ├── 📄 TD2_2020.pdf</div>
+<div class="tree-file">│   ├── 📄 TD3_2020.pdf</div>
+<div class="tree-file">│   ├── 📄 TD1 ElectrocinétiqueP.pdf</div>
+<div class="tree-file">│   ├── 📄 cinétique.pdf</div>
+<div class="tree-file">│   └── 📄 Chap1-SALHI-2020.pptx</div>
+<div class="tree-folder">├── 🔗📁 Électrocinétique /  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Exercices Corrigés /</div>
+<div class="tree-file">│   │   ├── 📄 Th de Thevenin - solution.pdf</div>
+<div class="tree-file">│   │   └── 📄 Th de Thevenin.pdf</div>
+<div class="tree-folder">│   ├── 📁 Anciennes Épreuves /</div>
+<div class="tree-file">│   │   ├── 📄 82.jpg</div>
+<div class="tree-file">│   │   ├── 📄 81.jpg</div>
+<div class="tree-file">│   │   ├── 📄 76.jpg</div>
+<div class="tree-file">│   │   ├── 📄 75.jpg</div>
+<div class="tree-file">│   │   ├── 📄 80.jpg</div>
+<div class="tree-file">│   │   ├── 📄 74.jpg</div>
+<div class="tree-file">│   │   ├── 📄 73.jpg</div>
+<div class="tree-file">│   │   ├── 📄 79.jpg</div>
+<div class="tree-file">│   │   ├── 📄 72.jpg</div>
+<div class="tree-file">│   │   ├── 📄 71.jpg</div>
+<div class="tree-file">│   │   ├── 📄 78.jpg</div>
+<div class="tree-file">│   │   ├── 📄 70.jpg</div>
+<div class="tree-file">│   │   ├── 📄 69.jpg</div>
+<div class="tree-file">│   │   ├── 📄 77.jpg</div>
+<div class="tree-file">│   │   ├── 📄 68.jpg</div>
+<div class="tree-file">│   │   ├── 📄 67.jpg</div>
+<div class="tree-file">│   │   ├── 📄 61.jpg</div>
+<div class="tree-file">│   │   ├── 📄 60.jpg</div>
+<div class="tree-file">│   │   ├── 📄 66.jpg</div>
+<div class="tree-file">│   │   ├── 📄 63.jpg</div>
+<div class="tree-file">│   │   ├── 📄 62.jpg</div>
+<div class="tree-file">│   │   ├── 📄 59.jpg</div>
+<div class="tree-file">│   │   ├── 📄 65.jpg</div>
+<div class="tree-file">│   │   ├── 📄 58.jpg</div>
+<div class="tree-file">│   │   ├── 📄 57.jpg</div>
+<div class="tree-file">│   │   ├── 📄 64.jpg</div>
+<div class="tree-file">│   │   ├── 📄 56.jpg</div>
+<div class="tree-file">│   │   ├── 📄 55.jpg</div>
+<div class="tree-file">│   │   ├── 📄 54.jpg</div>
+<div class="tree-file">│   │   ├── 📄 49.jpg</div>
+<div class="tree-file">│   │   ├── 📄 48.jpg</div>
+<div class="tree-file">│   │   ├── 📄 53.jpg</div>
+<div class="tree-file">│   │   ├── 📄 47.jpg</div>
+<div class="tree-file">│   │   ├── 📄 46.jpg</div>
+<div class="tree-file">│   │   ├── 📄 52.jpg</div>
+<div class="tree-file">│   │   ├── 📄 45.jpg</div>
+<div class="tree-file">│   │   ├── 📄 44.jpg</div>
+<div class="tree-file">│   │   ├── 📄 43.jpg</div>
+<div class="tree-file">│   │   ├── 📄 51.jpg</div>
+<div class="tree-file">│   │   ├── 📄 42.jpg</div>
+<div class="tree-file">│   │   ├── 📄 41.jpg</div>
+<div class="tree-file">│   │   ├── 📄 50.jpg</div>
+<div class="tree-file">│   │   ├── 📄 40.jpg</div>
+<div class="tree-file">│   │   ├── 📄 35.jpg</div>
+<div class="tree-file">│   │   ├── 📄 34.jpg</div>
+<div class="tree-file">│   │   ├── 📄 39.jpg</div>
+<div class="tree-file">│   │   ├── 📄 33.jpg</div>
+<div class="tree-file">│   │   ├── 📄 32.jpg</div>
+<div class="tree-file">│   │   ├── 📄 38.jpg</div>
+<div class="tree-file">│   │   ├── 📄 31.jpg</div>
+<div class="tree-file">│   │   ├── 📄 30.jpg</div>
+<div class="tree-file">│   │   ├── 📄 37.jpg</div>
+<div class="tree-file">│   │   ├── 📄 29.jpg</div>
+<div class="tree-file">│   │   ├── 📄 36.jpg</div>
+<div class="tree-file">│   │   ├── 📄 28.jpg</div>
+<div class="tree-file">│   │   ├── 📄 27.jpg</div>
+<div class="tree-file">│   │   ├── 📄 26.jpg</div>
+<div class="tree-file">│   │   ├── 📄 17.jpg</div>
+<div class="tree-file">│   │   ├── 📄 25.jpg</div>
+<div class="tree-file">│   │   ├── 📄 20.jpg</div>
+<div class="tree-file">│   │   ├── 📄 19.jpg</div>
+<div class="tree-file">│   │   ├── 📄 18.jpg</div>
+<div class="tree-file">│   │   ├── 📄 24.jpg</div>
+<div class="tree-file">│   │   ├── 📄 16.jpg</div>
+<div class="tree-file">│   │   ├── 📄 15.jpg</div>
+<div class="tree-file">│   │   ├── 📄 23.jpg</div>
+<div class="tree-file">│   │   ├── 📄 14.jpg</div>
+<div class="tree-file">│   │   ├── 📄 22.jpg</div>
+<div class="tree-file">│   │   ├── 📄 13.jpg</div>
+<div class="tree-file">│   │   ├── 📄 12.jpg</div>
+<div class="tree-file">│   │   ├── 📄 21.jpg</div>
+<div class="tree-file">│   │   ├── 📄 1.jpg</div>
+<div class="tree-file">│   │   ├── 📄 11.jpg</div>
+<div class="tree-file">│   │   ├── 📄 10.jpg</div>
+<div class="tree-file">│   │   ├── 📄 9.jpg</div>
+<div class="tree-file">│   │   ├── 📄 8.jpg</div>
+<div class="tree-file">│   │   ├── 📄 7.jpg</div>
+<div class="tree-file">│   │   ├── 📄 6.jpg</div>
+<div class="tree-file">│   │   ├── 📄 5.jpg</div>
+<div class="tree-file">│   │   ├── 📄 4.jpg</div>
+<div class="tree-file">│   │   ├── 📄 3.jpg</div>
+<div class="tree-file">│   │   ├── 📄 2.jpg</div>
+<div class="tree-file">│   │   ├── 📄 CC 2006.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Ex1 CC 2012 - 2013 avec correction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 CC 2008 avec correction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 CC 2010 avec correction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 CC 2009 avec correction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 CC 2007 avec correction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 CC 2006-2007 avec correction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 CC 2009-2010 avec correction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 CC 2004 - 2005 avec correction.pdf</div>
+<div class="tree-file">│   │   └── 📄 Ratt 2009 - 2010 avec correction.pdf</div>
+<div class="tree-folder">│   ├── 📁 Cours/</div>
+<div class="tree-file">│   │   ├── 📄 Etoile - Triangle - Théorème de Kennely.pdf</div>
+<div class="tree-file">│   │   └── 📄 Cours.pdf</div>
+<div class="tree-folder">│   ├── 📁 TP/</div>
+<div class="tree-file">│   │   └── 📄 Fiche des TPs.pdf</div>
+<div class="tree-folder">│   └── 📁 TDs/</div>
+<div class="tree-folder">│       ├── 📁 Énoncés /</div>
+<div class="tree-file">│       │   ├── 📄 TD 4.pdf</div>
+<div class="tree-file">│       │   ├── 📄 TD 5.pdf</div>
+<div class="tree-file">│       │   ├── 📄 TD 2.pdf</div>
+<div class="tree-file">│       │   └── 📄 TD 3.pdf</div>
+<div class="tree-folder">│       └── 📁 Corrections /</div>
+<div class="tree-file">│           ├── 📄 TD 1.pdf</div>
+<div class="tree-file">│           ├── 📄 TD 2.pdf</div>
+<div class="tree-file">│           └── 📄 TD 3.pdf</div>
+<div class="tree-folder">├── 🔗📁 Eléctrocinétique/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 TDs/</div>
+<div class="tree-file">│   │   ├── 📄 ELECTROCINéTIQUE TD CORRIGe.pdf</div>
+<div class="tree-file">│   │   ├── 📄 td 1+2+3+4corrige.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TD 1/</div>
+<div class="tree-file">│   │   │   ├── 📄 22.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 2.jpeg</div>
+<div class="tree-file">│   │   │   └── 📄 1.jpeg</div>
+<div class="tree-folder">│   │   ├── 📁 TD2/</div>
+<div class="tree-file">│   │   │   ├── 📄 2.jpeg</div>
+<div class="tree-file">│   │   │   └── 📄 1.jpeg</div>
+<div class="tree-folder">│   │   └── 📁 TD3/</div>
+<div class="tree-file">│   │       ├── 📄 2.jpeg</div>
+<div class="tree-file">│   │       └── 📄 1.jpeg</div>
+<div class="tree-folder">│   ├── 📁 COURS/</div>
+<div class="tree-file">│   │   ├── 📄 transform pi delta w tkhrbik.PNG</div>
+<div class="tree-file">│   │   └── 📄 cours electro.pdf</div>
+<div class="tree-folder">│   └── 📁 Exams/</div>
+<div class="tree-file">│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.59 (1).jpeg</div>
+<div class="tree-file">│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.59.jpeg</div>
+<div class="tree-file">│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.57.jpeg</div>
+<div class="tree-file">│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.56 (1).jpeg</div>
+<div class="tree-file">│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.56.jpeg</div>
+<div class="tree-file">│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.51.jpeg</div>
+<div class="tree-file">│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.50.jpeg</div>
+<div class="tree-file">│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.49.jpeg</div>
+<div class="tree-file">│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.48.jpeg</div>
+<div class="tree-file">│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.47.jpeg</div>
+<div class="tree-file">│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.46.jpeg</div>
+<div class="tree-file">│       ├── 📄 WhatsApp Image 2020-07-10 at 18.54.32.jpeg</div>
+<div class="tree-file">│       └── 📄 WhatsApp Image 2020-07-10 at 18.54.27.jpeg</div>
+<div class="tree-folder">├── 🔗📁 °ELECTROCINETIQUE SABORPCMATH.COM/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Polycopie-Cours-Module Circuits-FST FES.pdf</div>
+<div class="tree-file">│   ├── 📄 EXAMENs ELECTROCINETIQUE FST-FES MIP.pdf</div>
+<div class="tree-file">│   ├── 📄 electrocinetique_TD.pdf</div>
+<div class="tree-file">│   ├── 📄 CoursCircuitsElectriquesMIPCGEGM FST BM.pdf</div>
+<div class="tree-file">│   ├── 📄 COURS ELECTRONIQUE FST BM.pdf</div>
+<div class="tree-file">│   ├── 📄 Cours électrocinétique FST FES.pdf</div>
+<div class="tree-file">│   ├── 📄 Cours électrocinétique ENSA FES 19 20.pdf</div>
+<div class="tree-file">│   ├── 📄 Cours d’électronique analogique FST BM.pdf</div>
+<div class="tree-file">│   ├── 📄 Cours CIRCUITS ELECTRIQUES ET ELECTRONIQUE MIP-S2 FST ERRACHIDIA.pdf</div>
+<div class="tree-file">│   ├── 📄 controles avec corigee.pdf</div>
+<div class="tree-file">│   ├── 📄 Circuits electrique et électronique MIP S2 FST FES.pdf</div>
+<div class="tree-file">│   ├── 📄 0 TDelectrocinetiqueCh2v1.0.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD ENSA TETOUAN Analyse des circuits électriques Electronique Analogique.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD electrocinetique ENSA TETOUAN 19 20.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD ELECTROCINETIQUE ENSA TANGER.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS ELECTRONIQUE ANALOGIQUE 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 °TDs ELECTROCINETIQUE ENSA-AGADIR 2019-2020.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD ELECTROCINETIQUE ENSA BERCHID.pdf</div>
+<div class="tree-file">│   ├── 📄 °FST TANGER TD Circuits Electriques &amp; Electroniques 20-21.pdf</div>
+<div class="tree-file">│   ├── 📄 °FST TANGER COURS Circuits Electriques &amp; Electroniques 20-21.pdf</div>
+<div class="tree-file">│   ├── 📄 Serie supplementaire Quadripoles 2020 2021+Solution ENSA TETOUAN.pdf</div>
+<div class="tree-file">│   ├── 📄 TDs ELECTROCINETIQUE ENSA BM 2020.pdf</div>
+<div class="tree-file">│   ├── 📄 TDs ELECTROCINETIQUE ENSA-AGADIR 2019-2020.pdf</div>
+<div class="tree-file">│   ├── 📄 TDs ELECTROCINETIQUE ENSA-SAFI 2019-2020.pdf</div>
+<div class="tree-file">│   ├── 📄 TDS ELECTROCINETIQUE FST BM 1.pdf</div>
+<div class="tree-file">│   ├── 📄 TDS ELECTROCINETIQUE FST BM 2.pdf</div>
+<div class="tree-file">│   ├── 📄 TDs ELECTROCINETIQUE FST ERRACHIDIA 2020.pdf</div>
+<div class="tree-file">│   ├── 📄 TDs ELECTROCINETIQUE FST-FES MIP 19 20.pdf</div>
+<div class="tree-file">│   ├── 📄 TDs ELECTROCINETIQUE FST-FES MIP 2020.pdf</div>
+<div class="tree-file">│   ├── 📄 TDs ELECTROCINETIQUE FST-SETTET 2019- 2020.pdf</div>
+<div class="tree-file">│   ├── 📄 TDs ELECTROCINETIQUE FST-TANGER MIP 2016- 2017.pdf</div>
+<div class="tree-file">│   ├── 📄 thevnin norton milman.pdf</div>
+<div class="tree-file">│   ├── 📄 TDs&amp;EXAMENs ELECTROCINETIQUE ENSAM.pdf</div>
+<div class="tree-file">│   └── 📄 °TDs&amp;EXAMENs ELECTROCINETIQUE ENSAJ-ELJADIDA.pdf</div>
+<div class="tree-file">├── 📄 électricité Exercices et problèmes corrigés JEANE PIERRE.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Facteur de puissance d’un atelier Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Circuits R-C et R-L en parallèle Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Convertisseur tension-courant Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Calcul des éléments d’un montage Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Circuit du 1er ordre à plusieurs mailles Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Module et argument d’une impédance complexe Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Influence de la charge sur le transfert d’un quadripô Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Mesure d’une inductance à l’aide d’une capacité varia Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Générateurs de Thévenin et de Norton équivalents Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Diagramme de Bode du produit de 2 transferts du 1er o Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Théorème de superposition Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Stabilité d’une source de courant Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Circuit déphaseur pur Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 RAPPELS THEOREMES GENERAUX RESEAUX EN REGIME PERMANENT SINUSOIDAL FILTRES DU PREMIER ORDRE.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Circuit du 1er ordre à plusieurs mailles avec source Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Adaptation en puissance Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Puissance et facteur de puissance Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Conductivité électrique d’un métal Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 cours d’électricité.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Pont de Wien Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Circuit (RC série) en série avec un circuit (RC paral ) Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Stabilisation de courant Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Théorème de Kennely Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Circuit d’aide à la commutation Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Modèles de Thévenin Norton et sources liées Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Impédance d’un dipôle indépendante de la pulsation Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Filtre réjecteur de bande Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Cellule R-2R Electrocinetique.pdf</div>
+<div class="tree-file">├── 📄 Exercices corrigés Modèle de Thévenin et pertes à l’intérieur d’un dipôl Electrocinetique.pdf</div>
+<div class="tree-folder">└── 📁 Electrocinetique/</div>
+<div class="tree-file">    ├── 📄 ELECTROCINETIQUE.pdf</div>
+<div class="tree-file">    ├── 📄 cor 2009b5e03_e2668be8815d425882529b9500b1f154.pdf</div>
+<div class="tree-file">    ├── 📄 TD 7 Oscillateur harmonique .pdf</div>
+<div class="tree-file">    ├── 📄 corri exmnb5e03_8396b223324c40ff88b79f64d54ce913.pdf</div>
+<div class="tree-file">    ├── 📄 examn 3 cb5e03_6621ba40f1d24a20889bf48abfe75ce0.pdf</div>
+<div class="tree-file">    ├── 📄 examns   cb5e03_f0d38e84d1b0477e9d6407549f70c6ba.pdf</div>
+<div class="tree-file">    ├── 📄 corri exm 2cb5e03_3c8b9ed7d3d747f59b7f091d8bf36470.pdf</div>
+<div class="tree-file">    ├── 📄 exm 2009b5e03_e2668be8815d425882529b9500b1f154.pdf</div>
+<div class="tree-file">    ├── 📄 TD N6  Travail Puissance  Energie  .pdf</div>
+<div class="tree-file">    ├── 📄 examn 3cb5e03_b3f80320cd8d43b0b6bdf407357c0942.pdf</div>
+<div class="tree-file">    ├── 📄 corr exam 3b5e03_9d5c5e3d10c9411ab1bca4272079538d.pdf</div>
+<div class="tree-file">    ├── 📄 examn cb5e03_ac44711e6f0d4655b4dcf79e4bce52d5.pdf</div>
+<div class="tree-file">    ├── 📄 td3 avec corr.pdf</div>
+<div class="tree-file">    ├── 📄 TD 5 Electrocinétique.pdf</div>
+<div class="tree-file">    ├── 📄 TD 4 Electrocinétique.pdf</div>
+<div class="tree-file">    ├── 📄 td2 avc corr.pdf</div>
+<div class="tree-file">    ├── 📄 travaux pratiques cp1 ensa.pdf</div>
+<div class="tree-file">    ├── 📄 TD1 avc corr.pdf</div>
+<div class="tree-file">    ├── 📄 Exercices Electrocinétique.pdf</div>
+<div class="tree-folder">    └── 📁 Eléctrocinétique ensaf/</div>
+<div class="tree-folder">        ├── 📁 COURS/</div>
+<div class="tree-file">        │   ├── 📄 cours electro.pdf</div>
+<div class="tree-file">        │   └── 📄 transform pi delta w tkhrbik.PNG</div>
+<div class="tree-folder">        ├── 📁 TDs/</div>
+<div class="tree-folder">        │   ├── 📁 TD 1/</div>
+<div class="tree-file">        │   │   ├── 📄 22.jpg</div>
+<div class="tree-file">        │   │   ├── 📄 2.jpeg</div>
+<div class="tree-file">        │   │   └── 📄 1.jpeg</div>
+<div class="tree-folder">        │   ├── 📁 TD2/</div>
+<div class="tree-file">        │   │   ├── 📄 2.jpeg</div>
+<div class="tree-file">        │   │   └── 📄 1.jpeg</div>
+<div class="tree-folder">        │   └── 📁 TD3/</div>
+<div class="tree-file">        │       ├── 📄 2.jpeg</div>
+<div class="tree-file">        │       └── 📄 1.jpeg</div>
+<div class="tree-folder">        └── 📁 Exams/</div>
+<div class="tree-file">            ├── 📄 WhatsApp Image 2020-07-10 at 18.54.47.jpeg</div>
+<div class="tree-file">            ├── 📄 WhatsApp Image 2020-07-10 at 18.54.27.jpeg</div>
+<div class="tree-file">            ├── 📄 WhatsApp Image 2020-07-10 at 18.54.32.jpeg</div>
+<div class="tree-file">            ├── 📄 WhatsApp Image 2020-07-10 at 18.54.59.jpeg</div>
+<div class="tree-file">            ├── 📄 WhatsApp Image 2020-07-10 at 18.54.49.jpeg</div>
+<div class="tree-file">            ├── 📄 WhatsApp Image 2020-07-10 at 18.54.57.jpeg</div>
+<div class="tree-file">            ├── 📄 WhatsApp Image 2020-07-10 at 18.54.51.jpeg</div>
+<div class="tree-file">            ├── 📄 WhatsApp Image 2020-07-10 at 18.54.56 (1).jpeg</div>
+<div class="tree-file">            ├── 📄 WhatsApp Image 2020-07-10 at 18.54.50.jpeg</div>
+<div class="tree-file">            ├── 📄 WhatsApp Image 2020-07-10 at 18.54.56.jpeg</div>
+<div class="tree-file">            ├── 📄 WhatsApp Image 2020-07-10 at 18.54.59 (1).jpeg</div>
+<div class="tree-file">            ├── 📄 WhatsApp Image 2020-07-10 at 18.54.48.jpeg</div>
+<div class="tree-file">            └── 📄 WhatsApp Image 2020-07-10 at 18.54.46.jpeg</div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     HOW TO ORDER
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Electrocinetique</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FAQ
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Electrocinetique</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Electrocinetique ?</summary>
+      <p>
+        Le module <strong>Electrocinetique</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Electrocinetique ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Electrocinetique</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Electrocinetique correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     CTA FINAL
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Electrocinetique</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════ -->
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>

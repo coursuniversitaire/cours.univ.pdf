@@ -1,0 +1,1070 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- ═══ SEO Primary ═══ -->
+  <title>Électronique de puissance — Cours PDF, TD & Examens Corrigés | CoursUni</title>
+  <meta name="description" content="Téléchargez le module Électronique de puissance : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta name="keywords"    content="Électronique de puissance, cours Électronique de puissance pdf, td corrigés Électronique de puissance, examen corrigé Électronique de puissance, module Électronique de puissance université, polycopié Électronique de puissance, exercices corrigés Électronique de puissance, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/electronique-de-puissance.html" />
+
+  <!-- ═══ Open Graph ═══ -->
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Électronique de puissance — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta property="og:description" content="Téléchargez le module Électronique de puissance : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/electronique-de-puissance.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <!-- ═══ Twitter Card ═══ -->
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Électronique de puissance — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta name="twitter:description" content="Téléchargez le module Électronique de puissance : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+
+  <!-- ═══ Robots ═══ -->
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-05" />
+
+  <!-- ═══ Schema.org JSON-LD ═══ -->
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Électronique de puissance","item":"https://coursuniversitaire.github.io/cours.univ.pdf/electronique-de-puissance.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Électronique de puissance ?","acceptedAnswer":{"@type":"Answer","text":"Le module Électronique de puissance contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Électronique de puissance ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Électronique de puissance correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    /* ═══════════════════════════════════════
+       Design tokens — matches CoursUni site
+       ═══════════════════════════════════════ */
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ── Layout ── */
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    /* ── Nav ── */
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* ── Breadcrumb ── */
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    /* ── Hero ── */
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    /* ── Stats bar ── */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.55rem; font-weight: 700; margin-bottom: 28px;
+    }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    /* ── Cards grid ── */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    /* ── Drive tree ── */
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    /* ── Steps ── */
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    /* ── FAQ ── */
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    /* ── Trust bar ── */
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    /* ── CTA section ── */
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    /* ── Footer ── */
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════
+     NAV
+════════════════════════════════════════ -->
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ════════════════════════════════════════
+     HERO
+════════════════════════════════════════ -->
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Électronique de puissance</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Électronique de puissance</em><br />
+      Cours, TD et exercices corrigés Électronique de puissance pdf &amp; Examens Corripdf
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Électronique de puissance</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.
+      Accès immédiat.
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">3</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">19</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">12</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">11</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     WHAT YOU GET
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Électronique de puissance</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Électronique de puissance</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     DRIVE TREE
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Électronique de puissance</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Électronique de puissance">
+<div class="tree-folder">├── 🔗📁 Electronique de puissance/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 TP electronique de puissance.docx</div>
+<div class="tree-file">│   ├── 📄 examen crr.pdf</div>
+<div class="tree-file">│   ├── 📄 onduleur-exercices-corriges.pdf</div>
+<div class="tree-file">│   ├── 📄 Electronique-de-puissance-cours-N°4.pdf</div>
+<div class="tree-file">│   ├── 📄 cour electro p.pdf</div>
+<div class="tree-file">│   ├── 📄 electronique exercise crr.pdf</div>
+<div class="tree-file">│   ├── 📄 Problèmes corrigés d’électrotechnique -- Pierre Mayé -- 0 -- Dunod -- 9782100578955 -- a1a0302fc5d195c943eb5ab4dac09a5d -- Anna’s Archive.pdf</div>
+<div class="tree-file">│   ├── 📄 Electronique de puissance L2 S2.pdf</div>
+<div class="tree-file">│   ├── 📄 -Exercices-Corriges-Sur-Le-Hacheur.pdf</div>
+<div class="tree-file">│   ├── 📄 l'électronique de puissance et la production d'énergie..pdf</div>
+<div class="tree-file">│   ├── 📄 TP_hacheurs.pdf</div>
+<div class="tree-file">│   ├── 📄 8-suite cours asynchrone.pdf</div>
+<div class="tree-file">│   ├── 📄 feuille de réponse 2pages.docx</div>
+<div class="tree-file">│   ├── 📄 td2,4,5.pdf</div>
+<div class="tree-file">│   ├── 📄 td1.pdf</div>
+<div class="tree-file">│   ├── 📄 7-cours asynchrone EEA.pdf</div>
+<div class="tree-file">│   ├── 📄 6-cours synchrone.pdf</div>
+<div class="tree-file">│   ├── 📄 5-Moteur alternatif (1).swf</div>
+<div class="tree-file">│   ├── 📄 2-onduleur eea passage rapide (1).pptx</div>
+<div class="tree-file">│   ├── 📄 cours google.pdf</div>
+<div class="tree-file">│   ├── 📄 td5.pdf</div>
+<div class="tree-file">│   ├── 📄 td2.pdf</div>
+<div class="tree-file">│   ├── 📄 1-chap 1,2,3.pdf</div>
+<div class="tree-file">│   ├── 📄 4-cours MCC - 2023.pdf</div>
+<div class="tree-file">│   ├── 📄 3-onduleur.swf</div>
+<div class="tree-folder">│   └── 📁 l'animation du champs magnètique/</div>
+<div class="tree-file">│       ├── 📄 -Une expérience à la façon d'Ørsted.mp4.url</div>
+<div class="tree-file">│       ├── 📄 -Principes fondamentaux d’un moteur à courant co..-.url</div>
+<div class="tree-file">│       ├── 📄 -Experience Force de Laplace.mp4.url</div>
+<div class="tree-file">│       └── 📄 -champ magnéitique et boussole.mp4.url</div>
+<div class="tree-folder">├── 🔗📁 EP/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Sup/</div>
+<div class="tree-file">│   │   ├── 📄 ep.pdf</div>
+<div class="tree-file">│   │   ├── 📄 polycopié electronique de puissance.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Electronique-de-puissance-cours-N°1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Electronique de puissance L2 S1.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Résumés-sup/</div>
+<div class="tree-file">│   │   │   ├── 📄 Résumé0 Electronique de puissance.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Résumé1 Electronique de puissance.pdf</div>
+<div class="tree-folder">│   │   └── 📁 TD-sup/</div>
+<div class="tree-file">│   │       ├── 📄 Td-sup</div>
+<div class="tree-file">│   │       ├── 📄 TD+Solution Electronique de puissance.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Solution du TD N°1 Redressement monophasé non Commandé .pdf</div>
+<div class="tree-file">│   │       ├── 📄 Solution TD1 Electronique de puissance.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Solution du TD N°5 Redressement triphasé commandé.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Solution du TD N°4 Redressement triphasé non commandé.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD N°2 Redressement monophasé non Commandé .pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD3 Electronique de puissance.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Solution-TD2 Electronique de puissance.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD N°3 Redressement monophasé Commandé.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD+Solution Electronique de puissance L3.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Solution TD5 Electronique de puissance.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Solution TD4 Electronique de puissance.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Solution-TD1 Electronique de puissance.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Solution TD6 Electronique de puissance.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Solution TD3 Electronique de puissance.pdf</div>
+<div class="tree-file">│   │       └── 📄 Solution TD2 Electronique de puissance.pdf</div>
+<div class="tree-folder">│   ├── 📁 5)Gradateurs/</div>
+<div class="tree-folder">│   │   └── 📁 Cours/</div>
+<div class="tree-file">│   │       └── 📄 Chapitre-6-LET52.pdf</div>
+<div class="tree-folder">│   ├── 📁 4)HACHEUR/</div>
+<div class="tree-folder">│   │   ├── 📁 TP/</div>
+<div class="tree-file">│   │   │   ├── 📄 EP5docx.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 TP5 pratique enp.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TD/</div>
+<div class="tree-file">│   │   │   └── 📄 TD-Hacheurs.pdf</div>
+<div class="tree-folder">│   │   └── 📁 COURS/</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre-7-LET52.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Chap_3_Convertisseurs DC-DC (1).pdf</div>
+<div class="tree-file">│   │       ├── 📄 41_Convertisseurs_continu_continu.ppt</div>
+<div class="tree-file">│   │       ├── 📄 Cours_hacheurs.pdf</div>
+<div class="tree-file">│   │       └── 📄 1-Hacheurs.pdf</div>
+<div class="tree-folder">│   ├── 📁 3)ONDULEUR/</div>
+<div class="tree-file">│   │   ├── 📄 Cour+SolTD.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Cours/</div>
+<div class="tree-file">│   │   │   ├── 📄 Chapitre-8-LET52.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Chap 3 Onduleurs.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Chapitre 3 Onduleurs_MLI sinusoidale.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Chap 2 Convertisseurs DC-DC en DCM.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 résumé onduleur.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Copie de cour_onduleur_EP1.pdf</div>
+<div class="tree-folder">│   │   └── 📁 TD/</div>
+<div class="tree-file">│   │       └── 📄 TD Ond EP1.pdf</div>
+<div class="tree-folder">│   ├── 📁 2)REDRESSEUR/</div>
+<div class="tree-folder">│   │   ├── 📁 Cours/</div>
+<div class="tree-file">│   │   │   ├── 📄 1-Redresseurs-Résumé.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 chapitre-montages-redresseurs-commandes.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Chapitre-5.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Chapitre-4.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Chapitre-3.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Chapitre-2.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Redresseurs_cmah.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Redresseur1_esdat.ppt</div>
+<div class="tree-file">│   │   │   └── 📄 Redressement_commande.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TP/</div>
+<div class="tree-file">│   │   │   ├── 📄 TP EP1.pdf</div>
+<div class="tree-folder">│   │   │   ├── 📁 TP4)PONT_MIXTE/</div>
+<div class="tree-file">│   │   │   │   └── 📄 EP2(2023).pdf</div>
+<div class="tree-folder">│   │   │   ├── 📁 TP3)Red_t3ph_à_diode/</div>
+<div class="tree-file">│   │   │   │   ├── 📄 EP3.docx.pdf</div>
+<div class="tree-file">│   │   │   │   ├── 📄 EX3.docx</div>
+<div class="tree-folder">│   │   │   │   ├── 🔗📁 EX2.docx  (raccourci)</div>
+<div class="tree-folder">│   │   │   │   └── 🔗📁 EX1  (raccourci)</div>
+<div class="tree-folder">│   │   │   ├── 📁 TP2)pont_à_thyristor/</div>
+<div class="tree-folder">│   │   │   │   ├── 📁 Ex4(2023)/</div>
+<div class="tree-file">│   │   │   │   │   └── 📄 EP4.docx.pdf</div>
+<div class="tree-folder">│   │   │   │   ├── 📁 Ex3/</div>
+<div class="tree-file">│   │   │   │   │   ├── 📄 SIMULATION02.docx</div>
+<div class="tree-file">│   │   │   │   │   ├── 📄 pontmonoTHY.slx</div>
+<div class="tree-file">│   │   │   │   │   ├── 📄 PLOT.m</div>
+<div class="tree-file">│   │   │   │   │   ├── 📄 figUdalpha2.fig</div>
+<div class="tree-file">│   │   │   │   │   ├── 📄 CR TP02 EP.docx</div>
+<div class="tree-file">│   │   │   │   │   └── 📄 CR TP 02 EP.rar</div>
+<div class="tree-folder">│   │   │   │   ├── 📁 Ex2/</div>
+<div class="tree-file">│   │   │   │   │   └── 📄 Copie de TP2.EP.2022.docx</div>
+<div class="tree-folder">│   │   │   │   └── 📁 Ex 1/</div>
+<div class="tree-file">│   │   │   │       ├── 📄 TP2_pont_a_thyristor.slx</div>
+<div class="tree-file">│   │   │   │       └── 📄 Compte rendu de TP n 2 EP.docx</div>
+<div class="tree-folder">│   │   │   └── 📁 TP1)Red_Mono_à_Thyristor/</div>
+<div class="tree-folder">│   │   │       ├── 📁 Ex3(2023)/</div>
+<div class="tree-file">│   │   │       │   └── 📄 EP.docx.pdf</div>
+<div class="tree-folder">│   │   │       ├── 📁 Ex2/</div>
+<div class="tree-file">│   │   │       │   ├── 📄 Simulation.docx</div>
+<div class="tree-file">│   │   │       │   ├── 📄 MATLAB-SIMU.rar</div>
+<div class="tree-file">│   │   │       │   └── 📄 CR-TP1.docx</div>
+<div class="tree-folder">│   │   │       └── 📁 Ex1/</div>
+<div class="tree-file">│   │   │           └── 📄 TP1.EP.2K22.docx</div>
+<div class="tree-folder">│   │   └── 📁 TD/</div>
+<div class="tree-file">│   │       ├── 📄 TD_RED_EP1.pdf</div>
+<div class="tree-file">│   │       ├── 📄 sol td1.pdf</div>
+<div class="tree-file">│   │       └── 📄 TD_RED_EP1.pdf</div>
+<div class="tree-folder">│   ├── 📁 1)CONVERSION-D'ENERGIE/</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre-1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Resume.pdf</div>
+<div class="tree-file">│   │   └── 📄 Cours_Conversion_energie.pdf</div>
+<div class="tree-folder">│   └── 📁 Examens et interros/</div>
+<div class="tree-file">│       ├── 📄 examen 2023 avec sol.pdf</div>
+<div class="tree-file">│       ├── 📄 Interros.pdf</div>
+<div class="tree-file">│       ├── 📄 examens 2018,20,21,22.pdf</div>
+<div class="tree-folder">│       └── 📁 Examens-sup/</div>
+<div class="tree-file">│           ├── 📄 Examen7 Electronique de puissance.pdf · version 1.pdf</div>
+<div class="tree-file">│           ├── 📄 Examen10 Electronique de puissance.pdf · version 1.pdf</div>
+<div class="tree-file">│           ├── 📄 Examen9 Electronique de puissance.pdf · version 1.pdf</div>
+<div class="tree-file">│           ├── 📄 Examen8 Electronique de puissance.pdf · version 1.pdf</div>
+<div class="tree-file">│           ├── 📄 Examen6 Electronique de puissance.pdf · version 1.pdf</div>
+<div class="tree-file">│           ├── 📄 Examen5 Electronique de puissance.pdf</div>
+<div class="tree-file">│           ├── 📄 Examen4 Electronique de puissance.pdf</div>
+<div class="tree-file">│           ├── 📄 Examen3 Electronique de puissance.pdf</div>
+<div class="tree-file">│           ├── 📄 Examen2 Electronique de puissance.pdf</div>
+<div class="tree-file">│           └── 📄 Examen1 Electronique de puissance.pdf</div>
+<div class="tree-folder">├── 🔗📁 EDP/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Td/</div>
+<div class="tree-file">│   │   └── 📄 Td epd avec solution.pdf</div>
+<div class="tree-folder">│   ├── 📁 TP/</div>
+<div class="tree-file">│   │   ├── 📄 tp1t.mdl</div>
+<div class="tree-file">│   │   ├── 📄 tp1.mdl</div>
+<div class="tree-file">│   │   ├── 📄 tp1d.mdl</div>
+<div class="tree-file">│   │   ├── 📄 TP4_EP.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP3_EP (1).pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP5_EP (1).pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP2_EP (1)(1).pdf</div>
+<div class="tree-file">│   │   └── 📄 TP1_EP.pdf</div>
+<div class="tree-folder">│   └── 📁 COUR/</div>
+<div class="tree-file">│       ├── 📄 chapitre 1 EDP.pdf</div>
+<div class="tree-file">│       └── 📄 CHAPITRE 2.pdf</div>
+<div class="tree-file">├── 📄 Drive module Électronique de puissance - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 eln de puissance/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Chapitre II Les redresseurs - Convertisseurs AC-DC.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre III Hacheurs.pdf</div>
+<div class="tree-file">│   ├── 📄 200281089_2712052519086872_6418847238329790761_n.jpg</div>
+<div class="tree-file">│   ├── 📄 202183680_2712052489086875_835268692667353090_n.jpg</div>
+<div class="tree-file">│   ├── 📄 S-chap I.2   Thyristor -  triac -  gto (couleur) résumé.pdf</div>
+<div class="tree-file">│   ├── 📄 Sous chapitre I.3 - Le transistor bipolaire  (couleur).pdf</div>
+<div class="tree-file">│   ├── 📄 S-chap I.1.pdf</div>
+<div class="tree-file">│   ├── 📄 cours 1.pdf</div>
+<div class="tree-file">│   ├── 📄 td6 gradateur P-1.PNG</div>
+<div class="tree-file">│   ├── 📄 TD 6 Gradateur p-5.pdf</div>
+<div class="tree-file">│   ├── 📄 TD 6 Gradateur p-4.pdf</div>
+<div class="tree-file">│   ├── 📄 TD 6 Gradateur p-3.pdf</div>
+<div class="tree-file">│   ├── 📄 TD 4 Solution - Convertisseurs AC-DC.docx</div>
+<div class="tree-file">│   ├── 📄 TD 3  Transistor Bipolaire avec solution 2020.pdf</div>
+<div class="tree-file">│   ├── 📄 TD 2  avec solution -Thyristor -Triac et GTO (1).pdf</div>
+<div class="tree-file">│   ├── 📄 TD 1   Solution  seul - Diodes-.docx</div>
+<div class="tree-file">│   ├── 📄 cours 6.pdf</div>
+<div class="tree-file">│   ├── 📄 cours 5.pdf</div>
+<div class="tree-file">│   ├── 📄 cours 4p2.pdf</div>
+<div class="tree-file">│   ├── 📄 cours 4p1.pdf</div>
+<div class="tree-file">│   ├── 📄 cours 3.pdf</div>
+<div class="tree-file">│   └── 📄 cours 2.pdf</div>
+<div class="tree-folder">├── 🔗📁 livre cours et exo-delectronique-3e-ed-(2).pdf/  (raccourci)</div>
+<div class="tree-folder">├── 🔗📁 eln de pui/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 تيدي بوسانس/</div>
+<div class="tree-file">│   │   ├── 📄 20180502_093222.jpg</div>
+<div class="tree-file">│   │   ├── 📄 20180502_093206.jpg</div>
+<div class="tree-file">│   │   ├── 📄 20180502_093153.jpg</div>
+<div class="tree-file">│   │   ├── 📄 20180502_093140.jpg</div>
+<div class="tree-file">│   │   ├── 📄 20180502_093125.jpg</div>
+<div class="tree-file">│   │   ├── 📄 20180502_093116.jpg</div>
+<div class="tree-file">│   │   ├── 📄 20180502_093101.jpg</div>
+<div class="tree-file">│   │   ├── 📄 20180502_093049.jpg</div>
+<div class="tree-file">│   │   ├── 📄 20180502_093038.jpg</div>
+<div class="tree-file">│   │   ├── 📄 20180502_093024.jpg</div>
+<div class="tree-file">│   │   ├── 📄 20180502_093008.jpg</div>
+<div class="tree-file">│   │   └── 📄 20180502_092720.jpg</div>
+<div class="tree-folder">│   └── 📁 examen/</div>
+<div class="tree-folder">│       ├── 📁 2019/</div>
+<div class="tree-file">│       │   ├── 📄 Correction_Examen2019_page-0002.jpg</div>
+<div class="tree-file">│       │   ├── 📄 Correction_Examen2019_page-0004.jpg</div>
+<div class="tree-file">│       │   ├── 📄 Correction_Examen2019_page-0005.jpg</div>
+<div class="tree-file">│       │   ├── 📄 Correction_Examen2019_page-0003.jpg</div>
+<div class="tree-file">│       │   ├── 📄 Correction_Examen2019_page-0001.jpg</div>
+<div class="tree-file">│       │   ├── 📄 EMD_2019_page-0001.jpg</div>
+<div class="tree-file">│       │   └── 📄 EMD_2019_page-0002.jpg</div>
+<div class="tree-folder">│       ├── 📁 2018/</div>
+<div class="tree-file">│       │   ├── 📄 Corrigés des Examens_2017_2018_page-0008.jpg</div>
+<div class="tree-file">│       │   ├── 📄 Corrigés des Examens_2017_2018_page-0005.jpg</div>
+<div class="tree-file">│       │   ├── 📄 Corrigés des Examens_2017_2018_page-0005.jpg</div>
+<div class="tree-file">│       │   ├── 📄 Corrigés des Examens_2017_2018_page-0007.jpg</div>
+<div class="tree-file">│       │   ├── 📄 Corrigés des Examens_2017_2018_page-0007.jpg</div>
+<div class="tree-file">│       │   ├── 📄 Corrigés des Examens_2017_2018_page-0007.jpg</div>
+<div class="tree-file">│       │   ├── 📄 Corrigés des Examens_2017_2018_page-0006.jpg</div>
+<div class="tree-file">│       │   ├── 📄 Corrigés des Examens_2017_2018_page-0006.jpg</div>
+<div class="tree-file">│       │   ├── 📄 Corrigés des Examens_2017_2018_page-0006.jpg</div>
+<div class="tree-file">│       │   ├── 📄 EMD_2018_page-0001.jpg</div>
+<div class="tree-file">│       │   └── 📄 EMD_2018_page-0002.jpg</div>
+<div class="tree-folder">│       ├── 📁 2016/</div>
+<div class="tree-file">│       │   ├── 📄 20170503_101839.jpg</div>
+<div class="tree-file">│       │   ├── 📄 1.jpg</div>
+<div class="tree-file">│       │   ├── 📄 2.jpg</div>
+<div class="tree-file">│       │   ├── 📄 6 (2).jpg</div>
+<div class="tree-file">│       │   ├── 📄 6 (2).jpg</div>
+<div class="tree-file">│       │   ├── 📄 6 (2).jpg</div>
+<div class="tree-file">│       │   ├── 📄 3.jpg</div>
+<div class="tree-file">│       │   ├── 📄 4.jpg</div>
+<div class="tree-file">│       │   └── 📄 5.jpg</div>
+<div class="tree-folder">│       └── 📁 2017/</div>
+<div class="tree-file">│           ├── 📄 Corrigés des Examens_2017_2018_page-0004.jpg</div>
+<div class="tree-file">│           ├── 📄 Corrigés des Examens_2017_2018_page-0004.jpg</div>
+<div class="tree-file">│           ├── 📄 Corrigés des Examens_2017_2018_page-0003.jpg</div>
+<div class="tree-file">│           ├── 📄 Corrigés des Examens_2017_2018_page-0002.jpg</div>
+<div class="tree-file">│           ├── 📄 Corrigés des Examens_2017_2018_page-0003.jpg</div>
+<div class="tree-file">│           ├── 📄 Corrigés des Examens_2017_2018_page-0002.jpg</div>
+<div class="tree-file">│           ├── 📄 Corrigés des Examens_2017_2018_page-0001.jpg</div>
+<div class="tree-file">│           ├── 📄 Examen_2017_page-0002.jpg</div>
+<div class="tree-file">│           ├── 📄 Examen_2017_page-0003.jpg</div>
+<div class="tree-file">│           ├── 📄 Examen_2017_page-0003.jpg</div>
+<div class="tree-file">│           ├── 📄 Examen_2017_page-0001.jpg</div>
+<div class="tree-file">│           ├── 📄 Examen_2017_page-0002.jpg</div>
+<div class="tree-file">│           ├── 📄 tatt2017 (6).jpg</div>
+<div class="tree-file">│           ├── 📄 tatt2017 (5).jpg</div>
+<div class="tree-file">│           ├── 📄 tatt2017 (4).jpg</div>
+<div class="tree-file">│           ├── 📄 tatt2017 (3).jpg</div>
+<div class="tree-file">│           ├── 📄 tatt2017 (2).jpg</div>
+<div class="tree-file">│           └── 📄 ratt2017 (1).jpg</div>
+<div class="tree-folder">├── 🔗📁 Électronique de puissance.rar/  (raccourci)</div>
+<div class="tree-folder">├── 🔗📁 Electronique de puissance/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Electronique de Puissance EII.pdf</div>
+<div class="tree-file">│   ├── 📄 Redressement.pdf</div>
+<div class="tree-file">│   ├── 📄 COMPTE RENDU pdf.pdf</div>
+<div class="tree-file">│   ├── 📄 desktop.ini</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-file">│   │   ├── 📄 td ep.pdf</div>
+<div class="tree-file">│   │   ├── 📄 tp electronique de puissance.pdf</div>
+<div class="tree-file">│   │   └── 📄 TD Avec correction.pdf</div>
+<div class="tree-folder">│   ├── 📁 PDF/</div>
+<div class="tree-file">│   │   ├── 📄 elec_de_P5_light.pdf</div>
+<div class="tree-file">│   │   ├── 📄 exercices_redressement.pdf</div>
+<div class="tree-file">│   │   ├── 📄 exercices_hacheur.pdf</div>
+<div class="tree-file">│   │   └── 📄 Extrait_elen puiss .pdf</div>
+<div class="tree-folder">│   ├── 📁 Exams/</div>
+<div class="tree-file">│   │   ├── 📄 exam final21.pdf</div>
+<div class="tree-file">│   │   ├── 📄 2019_10_31_20_20_IMG_0894.JPG</div>
+<div class="tree-file">│   │   ├── 📄 IMG_1403.JPG</div>
+<div class="tree-file">│   │   ├── 📄 IMG_1402.JPG</div>
+<div class="tree-file">│   │   ├── 📄 Exercice.jpg</div>
+<div class="tree-file">│   │   ├── 📄 exam hacheur.jpg</div>
+<div class="tree-file">│   │   ├── 📄 partiel thyristor.jpg</div>
+<div class="tree-file">│   │   ├── 📄 2008.jpg</div>
+<div class="tree-file">│   │   ├── 📄 2007.jpg</div>
+<div class="tree-file">│   │   ├── 📄 Controle REDRESSEUR.jpg</div>
+<div class="tree-file">│   │   ├── 📄 2011.jpg</div>
+<div class="tree-file">│   │   └── 📄 Initiation.jpg</div>
+<div class="tree-folder">│   └── 📁 Compte rendu TOUATI/</div>
+<div class="tree-folder">│       └── 📁 TP1/</div>
+<div class="tree-file">│           ├── 📄 2019_11_19_22_28_IMG_1028.JPG</div>
+<div class="tree-file">│           ├── 📄 2019_11_19_22_28_IMG_1027.JPG</div>
+<div class="tree-file">│           ├── 📄 2019_11_19_22_28_IMG_1026.JPG</div>
+<div class="tree-file">│           ├── 📄 2019_11_19_22_28_IMG_1025.JPG</div>
+<div class="tree-file">│           ├── 📄 2019_11_17_20_49_IMG_1007.JPG</div>
+<div class="tree-file">│           ├── 📄 2019_11_17_19_40_IMG_1006.JPG</div>
+<div class="tree-file">│           └── 📄 2019_11_17_19_40_IMG_1005.JPG</div>
+<div class="tree-file">├── 📄 Exercices TP Electronique de puissance - Électronique de puissance</div>
+<div class="tree-file">├── 📄 3_TP_Electronique_de_puissance</div>
+<div class="tree-file">├── 📄 3_TP_Electronique_de_puissance</div>
+<div class="tree-file">├── 📄 Exercices TD Electronique de puissance - Électronique de puissance</div>
+<div class="tree-file">├── 📄 Cours Electronique de Puissance - Électronique de puissance</div>
+<div class="tree-file">├── 📄 Exercices TD Electronique de Puissance - Électronique de puissance</div>
+<div class="tree-folder">├── 🔗📁 M10 Electronique de puissance/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Bachtiri Cours et Td/</div>
+<div class="tree-folder">│   │   ├── 📁 Cours et correction 2019 2020/</div>
+<div class="tree-file">│   │   │   ├── 📄 42.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 41.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 40.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 39.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 38.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 37.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 36.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 35.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 34.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 33.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 32.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 31.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 30.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 29.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 28.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 27.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 26.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 25.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 24.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 23.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 22.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 21.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 20.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 19.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 18.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 17.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 16.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 15.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 14.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 13.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 12.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 11.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 10.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 9.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 8.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 7.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 6.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 5.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 4.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 3.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 2.jpeg</div>
+<div class="tree-file">│   │   │   └── 📄 1.jpeg</div>
+<div class="tree-folder">│   │   └── 📁 Cours ELBchtiri/</div>
+<div class="tree-file">│   │       ├── 📄 IMAG0801.jpg</div>
+<div class="tree-file">│   │       ├── 📄 IMAG0795.jpg</div>
+<div class="tree-file">│   │       ├── 📄 IMAG0800.jpg</div>
+<div class="tree-file">│   │       ├── 📄 IMAG0799.jpg</div>
+<div class="tree-file">│   │       ├── 📄 IMAG0798.jpg</div>
+<div class="tree-file">│   │       ├── 📄 IMAG0796.jpg</div>
+<div class="tree-file">│   │       ├── 📄 IMAG0797.jpg</div>
+<div class="tree-file">│   │       ├── 📄 IMAG0794.jpg</div>
+<div class="tree-file">│   │       ├── 📄 IMAG0792.jpg</div>
+<div class="tree-file">│   │       ├── 📄 IMAG0793.jpg</div>
+<div class="tree-file">│   │       ├── 📄 IMAG0790.jpg</div>
+<div class="tree-file">│   │       ├── 📄 IMAG0791.jpg</div>
+<div class="tree-file">│   │       ├── 📄 IMAG0626.jpg</div>
+<div class="tree-folder">│   │       ├── 📁 Td 2 Transistor/</div>
+<div class="tree-file">│   │       │   ├── 📄 IMAG0774.jpg</div>
+<div class="tree-file">│   │       │   └── 📄 IMAG0775.jpg</div>
+<div class="tree-folder">│   │       ├── 📁 Td 1 Commutation/</div>
+<div class="tree-file">│   │       │   ├── 📄 IMAG0773.jpg</div>
+<div class="tree-file">│   │       │   ├── 📄 IMAG0772.jpg</div>
+<div class="tree-file">│   │       │   ├── 📄 IMAG0771.jpg</div>
+<div class="tree-file">│   │       │   └── 📄 IMAG0770.jpg</div>
+<div class="tree-folder">│   │       ├── 📁 Circuit RL/</div>
+<div class="tree-file">│   │       │   ├── 📄 IMAG0768.jpg</div>
+<div class="tree-file">│   │       │   ├── 📄 IMAG0767.jpg</div>
+<div class="tree-file">│   │       │   ├── 📄 IMAG0766.jpg</div>
+<div class="tree-file">│   │       │   └── 📄 IMAG0765.jpg</div>
+<div class="tree-folder">│   │       └── 📁 Correction Controle Transistor/</div>
+<div class="tree-file">│   │           ├── 📄 IMAG0776.jpg</div>
+<div class="tree-file">│   │           └── 📄 IMAG0778.jpg</div>
+<div class="tree-folder">│   ├── 📁 Bachtiri Exam/</div>
+<div class="tree-file">│   │   ├── 📄 2005.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMAG0617.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMAG0625.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMAG0624.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMAG0621.jpg</div>
+<div class="tree-file">│   │   ├── 📄 IMAG0619.jpg</div>
+<div class="tree-folder">│   │   ├── 📁 Exams et TDs les convertisseurs/</div>
+<div class="tree-file">│   │   │   ├── 📄 WhatsApp Image 2020-09-24 at 18.30.48.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 WhatsApp Image 2020-09-24 at 18.24.38.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 WhatsApp Image 2020-09-24 at 18.24.14.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 WhatsApp Image 2020-09-24 at 18.23.04.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 WhatsApp Image 2020-09-24 at 18.22.37.jpeg</div>
+<div class="tree-file">│   │   │   ├── 📄 DSC_0149.JPG</div>
+<div class="tree-file">│   │   │   ├── 📄 DSC_0134.JPG</div>
+<div class="tree-file">│   │   │   ├── 📄 2003.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 Exam commutation 2012.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 2010-2011.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 IMAG0616.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 Exercice.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 exam hacheur.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 partiel thyristor.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 2011.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 Initiation.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 2013.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 2012 (2).jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 2012.jpg</div>
+<div class="tree-folder">│   │   │   └── 📁 Deux exams/</div>
+<div class="tree-file">│   │   │       ├── 📄 Exam 2 partie 2.jpeg</div>
+<div class="tree-file">│   │   │       ├── 📄 Exam 2 partie 1.jpeg</div>
+<div class="tree-file">│   │   │       ├── 📄 Exam 1 partie 2.jpeg</div>
+<div class="tree-file">│   │   │       └── 📄 Exam 1 partie 1.jpeg</div>
+<div class="tree-folder">│   │   └── 📁 Examn Electronique de commutation/</div>
+<div class="tree-file">│   │       ├── 📄 WhatsApp Image 2020-09-24 at 18.22.37.jpeg</div>
+<div class="tree-file">│   │       ├── 📄 2008.jpg</div>
+<div class="tree-file">│   │       ├── 📄 IMAG0620.jpg</div>
+<div class="tree-file">│   │       ├── 📄 IMAG0623.jpg</div>
+<div class="tree-file">│   │       ├── 📄 IMAG0622.jpg</div>
+<div class="tree-file">│   │       └── 📄 IMAG0618.jpg</div>
+<div class="tree-folder">│   └── 📁 Convertisseurs statiques/</div>
+<div class="tree-file">│       ├── 📄 L'essentiel sur la diode de puissance.pdf</div>
+<div class="tree-file">│       ├── 📄 ELECTRONIQUE DE PUISSANCE09.pdf</div>
+<div class="tree-file">│       ├── 📄 fiche_convertisseurs_statiq.pdf</div>
+<div class="tree-folder">│       ├── 📁 4° Hacheur/</div>
+<div class="tree-file">│       │   ├── 📄 exercices_hacheur.pdf</div>
+<div class="tree-file">│       │   ├── 📄 Hacheurs.mht</div>
+<div class="tree-file">│       │   ├── 📄 transparents_cours_hacheur.pdf</div>
+<div class="tree-file">│       │   └── 📄 cours_hacheur_serie.pdf</div>
+<div class="tree-folder">│       ├── 📁 cours redressement 2015-2016/</div>
+<div class="tree-file">│       │   ├── 📄 20160204_142200.jpg</div>
+<div class="tree-file">│       │   ├── 📄 20160204_142151.jpg</div>
+<div class="tree-file">│       │   ├── 📄 20160204_142145.jpg</div>
+<div class="tree-file">│       │   ├── 📄 20160204_142136.jpg</div>
+<div class="tree-file">│       │   ├── 📄 20160204_142130.jpg</div>
+<div class="tree-file">│       │   ├── 📄 20160204_142038.jpg</div>
+<div class="tree-file">│       │   ├── 📄 20160204_142031.jpg</div>
+<div class="tree-file">│       │   ├── 📄 20160204_142019.jpg</div>
+<div class="tree-file">│       │   ├── 📄 20160204_142013.jpg</div>
+<div class="tree-file">│       │   ├── 📄 20160204_142005.jpg</div>
+<div class="tree-file">│       │   ├── 📄 20160204_141958.jpg</div>
+<div class="tree-file">│       │   ├── 📄 20160204_141951.jpg</div>
+<div class="tree-file">│       │   ├── 📄 20160204_141945.jpg</div>
+<div class="tree-file">│       │   ├── 📄 20160204_141938.jpg</div>
+<div class="tree-file">│       │   ├── 📄 20160204_141932.jpg</div>
+<div class="tree-file">│       │   ├── 📄 20160204_141925.jpg</div>
+<div class="tree-file">│       │   └── 📄 20160204_141919.jpg</div>
+<div class="tree-folder">│       ├── 📁 3° Onduleur/</div>
+<div class="tree-file">│       │   ├── 📄 exercices_onduleur.pdf</div>
+<div class="tree-file">│       │   └── 📄 cours_onduleur_autonome.pdf</div>
+<div class="tree-folder">│       ├── 📁 2° Gradateurs/</div>
+<div class="tree-file">│       │   ├── 📄 TD sur STS2_14_Gradateurs.doc</div>
+<div class="tree-file">│       │   ├── 📄 Cours_STS2_14_Gradateurs.doc</div>
+<div class="tree-file">│       │   ├── 📄 Resume_STS2_14_Gradateurs.doc</div>
+<div class="tree-file">│       │   └── 📄 Gradateurs.mht</div>
+<div class="tree-folder">│       └── 📁 1° Redresseurs/</div>
+<div class="tree-file">│           ├── 📄 Conversion AC CC.pdf</div>
+<div class="tree-file">│           ├── 📄 Electronique-de-puissanceChapitre3.pdf</div>
+<div class="tree-file">│           ├── 📄 Doc_technique.pdf</div>
+<div class="tree-file">│           ├── 📄 memoire-18.pdf</div>
+<div class="tree-file">│           ├── 📄 chapitre identification.pdf</div>
+<div class="tree-file">│           ├── 📄 Chapitre4.pdf</div>
+<div class="tree-file">│           ├── 📄 Redressement triphasé Bestttt.pdf</div>
+<div class="tree-file">│           ├── 📄 chapitre 16 Redressement non commandé.pdf</div>
+<div class="tree-file">│           ├── 📄 Redresseurs non commandés corrigeExercices1et2.pdf</div>
+<div class="tree-file">│           ├── 📄 exercices_redressement.pdf</div>
+<div class="tree-file">│           ├── 📄 Redresseurs commandés à thyristors avec charge inductive.mht</div>
+<div class="tree-file">│           ├── 📄 Redressement commandé monophasé.mht</div>
+<div class="tree-file">│           ├── 📄 Redressement monophasé.mht</div>
+<div class="tree-file">│           ├── 📄 Redressement non commandé .mht</div>
+<div class="tree-file">│           ├── 📄 redressement commandé.pdf</div>
+<div class="tree-file">│           ├── 📄 cours_redressement_non_com.pdf</div>
+<div class="tree-file">│           ├── 📄 cours_redressement_commande.pdf</div>
+<div class="tree-file">│           ├── 📄 redressemnt  à thyristor.doc</div>
+<div class="tree-file">│           ├── 📄 Redresseur en pont à quatre diodes.doc</div>
+<div class="tree-file">│           ├── 📄 thyris hamdaoui.doc</div>
+<div class="tree-file">│           └── 📄 TP COMPOS dounass.doc</div>
+<div class="tree-folder">├── 📁 tps/</div>
+<div class="tree-folder">│   ├── 🔗📁 TP ELP/  (raccourci)</div>
+<div class="tree-file">│   │   ├── 📄 GradateurMonophaseSimulink0x2820x29.slx</div>
+<div class="tree-file">│   │   ├── 📄 GradateurMonophaseSimulink (2).mdl</div>
+<div class="tree-file">│   │   ├── 📄 GradateurMonophaseSimulink.mdl</div>
+<div class="tree-file">│   │   ├── 📄 TPGradateur.pdf</div>
+<div class="tree-file">│   │   ├── 📄 RedC_monoP.docx</div>
+<div class="tree-file">│   │   ├── 📄 RedC_monoP.pdf</div>
+<div class="tree-file">│   │   ├── 📄 RedComMonoP_DA.mdl.txt</div>
+<div class="tree-file">│   │   ├── 📄 Vie_8772593.pdf</div>
+<div class="tree-file">│   │   ├── 📄 3P_NC_DA.docx</div>
+<div class="tree-file">│   │   ├── 📄 3P_NC_DA.pdf</div>
+<div class="tree-file">│   │   ├── 📄 tp4elp .docx</div>
+<div class="tree-file">│   │   ├── 📄 tp4elp .pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP3.mdl.txt</div>
+<div class="tree-file">│   │   ├── 📄 TP3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP1.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TP elp/</div>
+<div class="tree-file">│   │   │   ├── 📄 hacheur.slx</div>
+<div class="tree-file">│   │   │   ├── 📄 RedC_monoP2.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 RedC_monoP.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 3P_NC_DA.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 tp4elp .pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3.odg</div>
+<div class="tree-file">│   │   │   ├── 📄 tvip.mdl</div>
+<div class="tree-file">│   │   │   └── 📄 tvip.mdl.r2009b</div>
+<div class="tree-folder">│   │   └── 📁 SOLU TP/</div>
+<div class="tree-file">│   │       ├── 📄 TP5_HacheurSerie.mdl.txt</div>
+<div class="tree-file">│   │       ├── 📄 TP-01.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TP4.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TP92.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TP6.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TP-elep-8.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TP5.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TP3.pdf</div>
+<div class="tree-file">│   │       └── 📄 TP2.pdf</div>
+<div class="tree-file">│   ├── 📄 1-TP_Red_1P_NC_SA.pdf</div>
+<div class="tree-file">│   ├── 📄 2-TP_Red_1P_NC_DA.pdf</div>
+<div class="tree-file">│   ├── 📄 3-TP_Red_3P_NC_SA.pdf</div>
+<div class="tree-file">│   ├── 📄 4-TP_Red_3P_NC_DA.pdf</div>
+<div class="tree-file">│   ├── 📄 5-TP_RedC_monoP.pdf</div>
+<div class="tree-file">│   ├── 📄 6-TP_RedCom3P.pdf</div>
+<div class="tree-file">│   ├── 📄 7-TP_Gradateur.pdf</div>
+<div class="tree-file">│   └── 📄 8-TP_HacheurSerie.pdf</div>
+<div class="tree-folder">├── 📁 examens/</div>
+<div class="tree-file">│   ├── 📄 Controle_2017_2018.pdf</div>
+<div class="tree-file">│   ├── 📄 EMD-2007.pdf</div>
+<div class="tree-file">│   ├── 📄 EMD-2008.pdf</div>
+<div class="tree-file">│   ├── 📄 examen_elp_2008_2009_rattrapage.pdf</div>
+<div class="tree-file">│   ├── 📄 examen_elp_2008_2009.pdf</div>
+<div class="tree-file">│   ├── 📄 examen_elp_2010_2011_BOUCHAFAA.pdf</div>
+<div class="tree-file">│   ├── 📄 examen_elp_2010_2011_TALHA.pdf</div>
+<div class="tree-file">│   ├── 📄 examen_elp_2014_2015.pdf</div>
+<div class="tree-file">│   ├── 📄 examen_elp_2015_2016.pdf</div>
+<div class="tree-file">│   ├── 📄 examen_elp_2017_2018.pdf</div>
+<div class="tree-file">│   ├── 📄 rattrapage_elp_2017_2018.pdf</div>
+<div class="tree-folder">│   └── 📁 cntls et examens/</div>
+<div class="tree-file">│       ├── 📄 Devoir 1.pdf</div>
+<div class="tree-file">│       ├── 📄 Devoir 2.pdf</div>
+<div class="tree-file">│       ├── 📄 Devoir1-Solution.pdf</div>
+<div class="tree-file">│       ├── 📄 Devoir1.pdf</div>
+<div class="tree-file">│       ├── 📄 Devoir2-Solution.pdf</div>
+<div class="tree-file">│       ├── 📄 Devoir2.pdf</div>
+<div class="tree-file">│       ├── 📄 Devoir4.pdf</div>
+<div class="tree-file">│       ├── 📄 1_examen_ELP_2026.pdf</div>
+<div class="tree-file">│       ├── 📄 2_examen_ELP_2025.pdf</div>
+<div class="tree-file">│       ├── 📄 3_Rattrapage_ELP_2026.pdf</div>
+<div class="tree-file">│       ├── 📄 Corrigé_Interro_20_21.pdf</div>
+<div class="tree-file">│       ├── 📄 examen_ELP_19-20.pdf</div>
+<div class="tree-file">│       ├── 📄 ExamenELP2021.pdf</div>
+<div class="tree-file">│       ├── 📄 Interro_19-20.pdf</div>
+<div class="tree-file">│       ├── 📄 Interro_21-22.pdf</div>
+<div class="tree-file">│       ├── 📄 Interro_22-23.pdf</div>
+<div class="tree-file">│       ├── 📄 Interro2_21-22.pdf</div>
+<div class="tree-file">│       ├── 📄 Interro23_24.pdf</div>
+<div class="tree-file">│       ├── 📄 Interro2021.pdf</div>
+<div class="tree-file">│       ├── 📄 Test dentrée.pdf</div>
+<div class="tree-file">│       └── 📄 TestEntreeSolution.pdf</div>
+<div class="tree-folder">└── 📁 tds corrigés /</div>
+<div class="tree-file">    ├── 📄 604-TD-2016.pdf</div>
+<div class="tree-file">    ├── 📄 td1_solut°.pdf</div>
+<div class="tree-file">    ├── 📄 td1.pdf</div>
+<div class="tree-file">    ├── 📄 td2_solut°.pdf</div>
+<div class="tree-file">    ├── 📄 td2.pdf</div>
+<div class="tree-file">    ├── 📄 td3_solut°.pdf</div>
+<div class="tree-file">    ├── 📄 td3.pdf</div>
+<div class="tree-folder">    ├── 📁 tds/</div>
+<div class="tree-file">    │   ├── 📄 hacheurs </div>
+<div class="tree-file">    │   ├── 📄 gradateurs</div>
+<div class="tree-file">    │   ├── 📄 série 2-B</div>
+<div class="tree-file">    │   ├── 📄 serie 2-A</div>
+<div class="tree-file">    │   ├── 📄 Redressement triphasé </div>
+<div class="tree-file">    │   └── 📄 série 01 </div>
+<div class="tree-folder">    └── 📁 autres tds/</div>
+<div class="tree-file">        ├── 📄 5_TestFinal.pdf</div>
+<div class="tree-file">        ├── 📄 4_1 ELP - TD 4.pdf</div>
+<div class="tree-file">        ├── 📄 3_1 ELP - TD 3.pdf</div>
+<div class="tree-file">        ├── 📄 4_2 ELP - TD 4 avec SOLUTION.pdf</div>
+<div class="tree-file">        ├── 📄 3_2 ELP - TD 3 avec SOLUTION.pdf</div>
+<div class="tree-file">        ├── 📄 0_TD_ELEP-Rappels.PDF</div>
+<div class="tree-file">        ├── 📄 2_2 ELP - TD 2 avec SOLUTION.pdf</div>
+<div class="tree-file">        ├── 📄 2_1 ELP - TD 2.pdf</div>
+<div class="tree-file">        ├── 📄 1_1 ELP - TD 1.pdf</div>
+<div class="tree-file">        └── 📄 1_2 ELP - TD 1 avec SOLUTION.pdf</div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     HOW TO ORDER
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Électronique de puissance</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FAQ
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Électronique de puissance</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Électronique de puissance ?</summary>
+      <p>
+        Le module <strong>Électronique de puissance</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Électronique de puissance ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Électronique de puissance</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Électronique de puissance correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     CTA FINAL
+════════════════════════════════════════ -->
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Électronique de puissance</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════
+     FOOTER
+════════════════════════════════════════ -->
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>
