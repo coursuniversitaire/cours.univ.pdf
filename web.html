@@ -1,0 +1,1055 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Web — Cours PDF, TD & Examens Corrigés | CoursUni</title>
+  <meta name="description" content="Téléchargez le module Web : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta name="keywords"    content="Web, cours Web pdf, td corrigés Web, examen corrigé Web, module Web université, polycopié Web, exercices corrigés Web, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/web.html" />
+
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Web — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta property="og:description" content="Téléchargez le module Web : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/web.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Web — Cours PDF, TD & Examens Corrigés | CoursUni" />
+  <meta name="twitter:description" content="Téléchargez le module Web : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés. Accès immédiat sur Google Drive. 0,5$ seulement." />
+
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-05" />
+
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Web","item":"https://coursuniversitaire.github.io/cours.univ.pdf/web.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Web ?","acceptedAnswer":{"@type":"Answer","text":"Le module Web contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Web ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Web correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    h2 { font-size: 1.55rem; font-weight: 700; margin-bottom: 28px; }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Web</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Web</em><br />
+      Cours, TD et exercices corrigés Web pdf &amp; Examens Corripdf
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Web</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.
+      Accès immédiat.
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">✓</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Web</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Web</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Web</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Web">
+<div class="tree-folder">├── 🔗📁 • Développement Web (Rachid ED-DAOUDI)/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Exams/</div>
+<div class="tree-file">│   │   ├── 📄 Corrigé_EXAM FINAL WEB 25-26.pdf</div>
+<div class="tree-file">│   │   └── 📄 Contrôle Nº1</div>
+<div class="tree-file">PROGRAMMATION WEB.pdf</div>
+<div class="tree-folder">│   ├── 📁 TD/TP/</div>
+<div class="tree-file">│   │   ├── 📄 TP_4_Corrigé_fcab4e80b8fdc31c334786fc098c2a3e.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP_5_Corrigé_99313bb64399538c519aef2bce91cddf.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP_6_Corrigé_20ab2c3b3651d273215502f64ac289aa.zip</div>
+<div class="tree-file">│   │   ├── 📄 TP_7_Corrigé_c4912be85bbdb32eca99b1e4b882821f.zip</div>
+<div class="tree-file">│   │   ├── 📄 TP 8_5d4f308bb79155e8dcb94846c658d7ab.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP 7_845fa3288fbd67242e1493ce1da87920.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Projet WEB_bdf56d88c96740496ee9e1df1374fcc6.pdf</div>
+<div class="tree-file">│   │   ├── 📄 correction_tp_programmation_web.zip</div>
+<div class="tree-file">│   │   ├── 📄 TP_6_3b56780623f3bf27b425eaade5c95c9c.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP_5_059611711d0ca1309866ff040b0adeb8.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP_5.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP_4_ca337e599a4cb8c23abf1e68fac320a9.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP_2_Corrigé_abf91a0426ffb25a398412e9945ccaed.zip</div>
+<div class="tree-file">│   │   ├── 📄 TP_3_Corrigé_984ff152a1890482b37b642851a84da5.zip</div>
+<div class="tree-file">│   │   ├── 📄 TP_1_Corrigé_7f735320ef0e73a05efed1027cf0e403.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD_1_Corrigé_48978afbc4d687118f0dfcf9e3be8cb3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP_3_71a4fcee50c45313212f295a83b666be.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP3_Formulaires_HTML.zip</div>
+<div class="tree-file">│   │   ├── 📄 TP2_Correction.zip</div>
+<div class="tree-file">│   │   ├── 📄 TP_3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP_2_b6fb6236c3f87257f6720709f6c7c425.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP_1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP 1 COR-DEV WEB.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD_1_62bbdd289628811e200e3001f87cbec2.pdf</div>
+<div class="tree-file">│   │   └── 📄 Prog_web_correction_TP1.zip</div>
+<div class="tree-folder">│   └── 📁 COURS/</div>
+<div class="tree-file">│       ├── 📄 Séance 12_40350a7e20e7fcec9acf6f915954ff3d.pdf</div>
+<div class="tree-file">│       ├── 📄 Séance 11 Web_JS_2523c59aae148f896e4a85f7bddb2008.pdf</div>
+<div class="tree-file">│       ├── 📄 Séance 10 Web_JS_9e0b8b196f14f649918327f74e109ce9.pdf</div>
+<div class="tree-file">│       ├── 📄 Séance 9 Web_CSS_1e7e6b35fb94be95e96c4f84a5b41979.pdf</div>
+<div class="tree-file">│       ├── 📄 Séance 8 Web_CSS_c2362e21dbc4473386748b34cd138732.pdf</div>
+<div class="tree-file">│       ├── 📄 Validation_Referencement_Hbergement_e0873be663537523a2e317fced7dbcb0.pdf</div>
+<div class="tree-file">│       ├── 📄 Séance 7 Web_CSS_3a805d1953cf0456f014f343c6ae4dbf.pdf</div>
+<div class="tree-file">│       ├── 📄 Séances 6 Web_CSS_f84fa97781114b7d82b29d128de1b8d7.pdf</div>
+<div class="tree-file">│       ├── 📄 Séances 5 Web_HTML_02f0af8c89fb9dc149ad3cb4f240fb57.pdf</div>
+<div class="tree-file">│       ├── 📄 Séances 4 Web_HTML.pdf</div>
+<div class="tree-file">│       ├── 📄 Séances 3 Web_HTML_bf2351110f309c85f969f0d3f85d7345.pdf</div>
+<div class="tree-file">│       └── 📄 Séances 1  2 Web_HTML.pdf</div>
+<div class="tree-folder">├── 🔗📁 PA WEB/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 EXAMS/</div>
+<div class="tree-file">│   │   ├── 📄 Examen_PAWeb_S5_2019-2020_Solution.pdf</div>
+<div class="tree-file">│   │   ├── 📄 exercice_supplementaire.pdf</div>
+<div class="tree-file">│   │   └── 📄 ExamenDEVC.pdf</div>
+<div class="tree-folder">│   ├── 📁 SOLUTION TD/</div>
+<div class="tree-file">│   │   ├── 📄 SOLUTION TD7</div>
+<div class="tree-file">│   │   ├── 📄 SOLUTION TD6</div>
+<div class="tree-file">│   │   ├── 📄 SOLUTION TD5</div>
+<div class="tree-file">│   │   ├── 📄 SOLUTION TD2</div>
+<div class="tree-file">│   │   ├── 📄 SOLUTION TD1</div>
+<div class="tree-file">│   │   └── 📄 Solution_TD_3.pdf</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-file">│   │   ├── 📄 TD5</div>
+<div class="tree-file">│   │   ├── 📄 Td3</div>
+<div class="tree-file">│   │   ├── 📄 TD4</div>
+<div class="tree-file">│   │   ├── 📄 TD2</div>
+<div class="tree-file">│   │   └── 📄 TD1</div>
+<div class="tree-folder">│   └── 📁 COURS/</div>
+<div class="tree-file">│       ├── 📄 Cours_7_-_applications_Web (3).pdf</div>
+<div class="tree-file">│       ├── 📄 cours6-RegEx_WebStorage.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours3-JavaScript_1.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours2-JavaScript.pdf</div>
+<div class="tree-file">│       └── 📄 Cours1-JavaScript.pdf</div>
+<div class="tree-folder">├── 🔗📁 2024.2025 prog web/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Examen 2023 HTML.pdf</div>
+<div class="tree-file">│   ├── 📄 examen programmation web1 (2).pdf</div>
+<div class="tree-file">│   ├── 📄 progr_web(1710).pdf</div>
+<div class="tree-file">│   ├── 📄 Examen 2023 HTML Solution.pdf</div>
+<div class="tree-file">│   ├── 📄 Examen 2023 HTML.pdf</div>
+<div class="tree-file">│   ├── 📄 Programmation-Web 140pages.pdf</div>
+<div class="tree-file">│   ├── 📄 Atelier-HTML.pdf</div>
+<div class="tree-file">│   ├── 📄 ChapCSS.pdf</div>
+<div class="tree-file">│   ├── 📄 ChapHTML.pdf</div>
+<div class="tree-file">│   ├── 📄 ChapHTML.pdf</div>
+<div class="tree-file">│   ├── 📄 ChapJavaScript.pdf</div>
+<div class="tree-file">│   ├── 📄 ChapJQuery.pdf</div>
+<div class="tree-file">│   ├── 📄 entête.pdf</div>
+<div class="tree-file">│   ├── 📄 Sommaire.pdf</div>
+<div class="tree-file">│   ├── 📄 Ex4.pdf</div>
+<div class="tree-file">│   ├── 📄 Ex3.pdf</div>
+<div class="tree-file">│   ├── 📄 Ex2.pdf</div>
+<div class="tree-file">│   ├── 📄 Ex1.pdf</div>
+<div class="tree-file">│   ├── 📄 Ex2.html</div>
+<div class="tree-file">│   ├── 📄 Ex1.html</div>
+<div class="tree-file">│   ├── 📄 Atelier-HTML.pdf</div>
+<div class="tree-file">│   ├── 📄 Programmation Web Séance 3.pdf</div>
+<div class="tree-file">│   ├── 📄 Atelier-HTML.pdf</div>
+<div class="tree-file">│   ├── 📄 Prog Web Séance 1,2,3.pdf</div>
+<div class="tree-file">│   ├── 📄 Programmation-Web1.pdf</div>
+<div class="tree-file">│   ├── 📄 MIP INFO Technologie de Web pdf.pdf</div>
+<div class="tree-file">│   └── 📄 MIP INFO Technologie de Web pptx.pptx</div>
+<div class="tree-folder">├── 🔗📁 Web Avancée/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Cours/</div>
+<div class="tree-file">│   │   └── 📄 PDO.pptx</div>
+<div class="tree-folder">│   └── 📁 TP/</div>
+<div class="tree-file">│       └── 📄 Vehicule.pdf</div>
+<div class="tree-folder">├── 🔗📁 Dev web/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 serie php mysql.pdf</div>
+<div class="tree-file">│   ├── 📄 C4php1.pdf</div>
+<div class="tree-file">│   ├── 📄 tp_solution formulaire.pdf</div>
+<div class="tree-file">│   ├── 📄 examen 2020/2021 corrigé.pdf</div>
+<div class="tree-file">│   ├── 📄 tp6.pdf</div>
+<div class="tree-file">│   ├── 📄 tp5.pdf</div>
+<div class="tree-file">│   ├── 📄 tp3.pdf</div>
+<div class="tree-file">│   ├── 📄 Corrigé Type Dev Web.rar</div>
+<div class="tree-file">│   ├── 📄 MiniprojetDevWeb.pdf</div>
+<div class="tree-file">│   ├── 📄 SPHP(P1).pdf</div>
+<div class="tree-file">│   ├── 📄 C3CSS.pdf</div>
+<div class="tree-file">│   ├── 📄 S2CSS.pdf</div>
+<div class="tree-file">│   ├── 📄 tp2</div>
+<div class="tree-file">│   ├── 📄 tp1</div>
+<div class="tree-file">│   ├── 📄 C1Intro_220302_191905 (1).pdf</div>
+<div class="tree-file">│   ├── 📄 C2html_220302_191918 (1).pdf</div>
+<div class="tree-file">│   ├── 📄 Série 1 TP DevWeb.pdf</div>
+<div class="tree-file">│   ├── 📄 Suite Série 1.pdf</div>
+<div class="tree-file">│   ├── 📄 Exo 1-20220302.zip</div>
+<div class="tree-file">│   ├── 📄 Exo 2-20220302.zip</div>
+<div class="tree-file">│   ├── 📄 Exo 3-20220302.zip</div>
+<div class="tree-file">│   ├── 📄 Série 2.pdf</div>
+<div class="tree-file">│   ├── 📄 Devoir 1.1 Les tableaux.pdf</div>
+<div class="tree-file">│   ├── 📄 Devoir 1.2 Les formulaires HTML.pdf</div>
+<div class="tree-file">│   ├── 📄 Devoir 1.3 PHP-BD-SQL.pdf</div>
+<div class="tree-file">│   ├── 📄 Devoir 2.1 les instructions de controles.pdf</div>
+<div class="tree-file">│   ├── 📄 Devoir 2.2 les fonctions.pdf</div>
+<div class="tree-file">│   ├── 📄 Solution Devoir 1-20220302.zip</div>
+<div class="tree-file">│   ├── 📄 Exo 4-20220302-1.zip</div>
+<div class="tree-file">│   ├── 📄 Exercice 5.php</div>
+<div class="tree-file">│   ├── 📄 Exo 5-20220302.zip</div>
+<div class="tree-file">│   ├── 📄 Exo  6-20220302.zip</div>
+<div class="tree-file">│   ├── 📄 Exo 1-20220302-1.zip</div>
+<div class="tree-file">│   ├── 📄 Exo 2-20220302-1.zip</div>
+<div class="tree-file">│   ├── 📄 Exo 3-20220302-1.zip</div>
+<div class="tree-file">│   └── 📄 Exo5-20220302.zip</div>
+<div class="tree-folder">├── 🔗📁 Web/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 AJAX</div>
+<div class="tree-file">│   ├── 📄 TP JS DOM 2019.pdf</div>
+<div class="tree-file">│   ├── 📄 tp javascript bases 2019.pdf</div>
+<div class="tree-file">│   ├── 📄 TP1.html</div>
+<div class="tree-file">│   ├── 📄 Ateliers-1-et-2.docx</div>
+<div class="tree-file">│   └── 📄 texte-a-formater.docx</div>
+<div class="tree-folder">└── 🔗📁 WEB/  (raccourci)</div>
+<div class="tree-file">    ├── 📄 ex2-TP4.PNG</div>
+<div class="tree-file">    ├── 📄 enregistrer.php</div>
+<div class="tree-file">    ├── 📄 TP WEB.pdf</div>
+<div class="tree-file">    ├── 📄 update_tri.php</div>
+<div class="tree-file">    ├── 📄 fonction.php</div>
+<div class="tree-file">    ├── 📄 inscription22.php</div>
+<div class="tree-file">    ├── 📄 modification1.php</div>
+<div class="tree-file">    ├── 📄 ex3-TP4-question2.PNG</div>
+<div class="tree-file">    ├── 📄 ex3-TP4-question3.PNG</div>
+<div class="tree-file">    ├── 📄 ex3-TP4-question1.PNG</div>
+<div class="tree-file">    ├── 📄 ex3-TP4-question4.PNG</div>
+<div class="tree-file">    ├── 📄 ex4-TP4-question1.PNG</div>
+<div class="tree-file">    ├── 📄 ex4-TP4-question2 et 3.PNG</div>
+<div class="tree-file">    ├── 📄 modification2.php</div>
+<div class="tree-file">    ├── 📄 fichier.php</div>
+<div class="tree-file">    ├── 📄 exercice10.php</div>
+<div class="tree-file">    ├── 📄 TP CSS (tp2).rar</div>
+<div class="tree-file">    ├── 📄 TP1.pdf</div>
+<div class="tree-file">    ├── 📄 TP&amp;Devoir.rar</div>
+<div class="tree-file">    ├── 📄 IMG-20190526-WA0010.jpg</div>
+<div class="tree-folder">    ├── 📁 excercice_tp_web/</div>
+<div class="tree-file">    │   ├── 📄 S6.zip</div>
+<div class="tree-file">    │   ├── 📄 IMG-20190613-WA0008.jpg</div>
+<div class="tree-file">    │   ├── 📄 IMG-20190613-WA0009.jpg</div>
+<div class="tree-file">    │   ├── 📄 IMG-20190613-WA0010.jpg</div>
+<div class="tree-file">    │   ├── 📄 IMG-20190613-WA0011.jpg</div>
+<div class="tree-folder">    │   ├── 📁 TP N°1/</div>
+<div class="tree-file">    │   │   ├── 📄 TP N°1 Langage HTML Exercice 4.html</div>
+<div class="tree-file">    │   │   ├── 📄 TP N°1 Langage HTML Exercice 3.html</div>
+<div class="tree-file">    │   │   ├── 📄 TP N°1 Langage HTML Exercice 2.html</div>
+<div class="tree-file">    │   │   ├── 📄 TP N°1 Langage HTML Exercice 1-Q5.html</div>
+<div class="tree-file">    │   │   ├── 📄 TP N°1 Langage HTML Exercice 1.html</div>
+<div class="tree-file">    │   │   ├── 📄 TP N°1 Langage HTML Exercice 1-Q6.html</div>
+<div class="tree-file">    │   │   ├── 📄 TP N°1 Langage HTML Exercice 5.html</div>
+<div class="tree-file">    │   │   ├── 📄 table.html</div>
+<div class="tree-file">    │   │   ├── 📄 P3.html</div>
+<div class="tree-file">    │   │   ├── 📄 p6.html</div>
+<div class="tree-file">    │   │   ├── 📄 p5.html</div>
+<div class="tree-file">    │   │   ├── 📄 p1.html</div>
+<div class="tree-file">    │   │   ├── 📄 p4.html</div>
+<div class="tree-file">    │   │   ├── 📄 p2.html</div>
+<div class="tree-file">    │   │   ├── 📄 google.gif</div>
+<div class="tree-file">    │   │   └── 📄 fste.jpg</div>
+<div class="tree-folder">    │   ├── 📁 TP N°3/</div>
+<div class="tree-folder">    │   │   ├── 📁 EX_1/</div>
+<div class="tree-file">    │   │   │   ├── 📄 style.css</div>
+<div class="tree-file">    │   │   │   ├── 📄 tp.html</div>
+<div class="tree-file">    │   │   │   ├── 📄 cafe.gif</div>
+<div class="tree-file">    │   │   │   └── 📄 fond_ecran.jpg</div>
+<div class="tree-folder">    │   │   └── 📁 EX_2/</div>
+<div class="tree-file">    │   │       ├── 📄 index.html</div>
+<div class="tree-file">    │   │       └── 📄 style.css</div>
+<div class="tree-folder">    │   ├── 📁 TP N°2/</div>
+<div class="tree-file">    │   │   ├── 📄 TP N°2 Langage HTML Q1.html</div>
+<div class="tree-file">    │   │   ├── 📄 2.html</div>
+<div class="tree-file">    │   │   ├── 📄 TP N°2 Langage HTML Q3.html</div>
+<div class="tree-file">    │   │   ├── 📄 p33.html</div>
+<div class="tree-file">    │   │   ├── 📄 p22.html</div>
+<div class="tree-file">    │   │   ├── 📄 p11.html</div>
+<div class="tree-file">    │   │   ├── 📄 TP N°2 Langage HTML Q2.html</div>
+<div class="tree-folder">    │   │   └── 📁 Devoir à rendre/</div>
+<div class="tree-folder">    │   │       ├── 📁 TP CSS/</div>
+<div class="tree-file">    │   │       │   ├── 📄 new 1.txt</div>
+<div class="tree-file">    │   │       │   ├── 📄 xhtml1-transitional.dtd</div>
+<div class="tree-file">    │   │       │   ├── 📄 Utilisation de la balise DIV.html</div>
+<div class="tree-file">    │   │       │   ├── 📄 test.html</div>
+<div class="tree-file">    │   │       │   ├── 📄 Utilisation de la balise DIV (2).html</div>
+<div class="tree-file">    │   │       │   ├── 📄 style_exemple1.txt</div>
+<div class="tree-file">    │   │       │   ├── 📄 style_exemple.css</div>
+<div class="tree-file">    │   │       │   ├── 📄 cours HTML_CSS.pdf</div>
+<div class="tree-folder">    │   │       │   ├── 📁 Utilisation de la balise DIV_fichiers/</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 columns.jpg</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 img_div03.jpg</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 gabarit4b.jpg</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 untrois.jpg</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 div01.jpg</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 img_div04.jpg</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 gabarit4.jpg</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 xls.css</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 div05.jpg</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 div03.jpg</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 capsule.jpg</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 mat_div.jpg</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 home2.jpg</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 blanc.jpg</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 vec_div.jpg</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 div02.jpg</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 div04.jpg</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 centrervh.jpg</div>
+<div class="tree-file">    │   │       │   │   ├── 📄 vcss-blue.gif</div>
+<div class="tree-file">    │   │       │   │   └── 📄 valid-xhtml10.png</div>
+<div class="tree-folder">    │   │       │   └── 📁 Utilisation de la balise DIV_files/</div>
+<div class="tree-file">    │   │       │       ├── 📄 vcss-blue</div>
+<div class="tree-file">    │   │       │       ├── 📄 avion4.jpg</div>
+<div class="tree-file">    │   │       │       ├── 📄 columns.jpg</div>
+<div class="tree-file">    │   │       │       ├── 📄 img_flex.jpg</div>
+<div class="tree-file">    │   │       │       ├── 📄 valid-xhtml10</div>
+<div class="tree-file">    │   │       │       ├── 📄 centrervh.jpg</div>
+<div class="tree-file">    │   │       │       ├── 📄 gabarit4.jpg</div>
+<div class="tree-file">    │   │       │       ├── 📄 div02.jpg</div>
+<div class="tree-file">    │   │       │       ├── 📄 mat_div.jpg</div>
+<div class="tree-file">    │   │       │       ├── 📄 div04.jpg</div>
+<div class="tree-file">    │   │       │       ├── 📄 xls.css</div>
+<div class="tree-file">    │   │       │       ├── 📄 home2.jpg</div>
+<div class="tree-file">    │   │       │       ├── 📄 capsule.jpg</div>
+<div class="tree-file">    │   │       │       ├── 📄 vec_div.jpg</div>
+<div class="tree-file">    │   │       │       ├── 📄 untrois.jpg</div>
+<div class="tree-file">    │   │       │       ├── 📄 img_div03.jpg</div>
+<div class="tree-file">    │   │       │       ├── 📄 gabarit4b.jpg</div>
+<div class="tree-file">    │   │       │       ├── 📄 img_div04.jpg</div>
+<div class="tree-file">    │   │       │       ├── 📄 div03.jpg</div>
+<div class="tree-file">    │   │       │       ├── 📄 div05.jpg</div>
+<div class="tree-file">    │   │       │       └── 📄 div01.jpg</div>
+<div class="tree-folder">    │   │       ├── 📁 minisite(tp2)/</div>
+<div class="tree-file">    │   │       │   ├── 📄 DP - ERRACHIDIA.pdf</div>
+<div class="tree-file">    │   │       │   ├── 📄 MONOGRAPHIE-DE-LA-REGION-DE-DRAA-TAFILALET-FR.pdf</div>
+<div class="tree-file">    │   │       │   ├── 📄 Monographie Errachidia.pdf</div>
+<div class="tree-file">    │   │       │   ├── 📄 errachidia.jpg</div>
+<div class="tree-file">    │   │       │   └── 📄 Thumbs.db</div>
+<div class="tree-folder">    │   │       ├── 📁 devoir fin/</div>
+<div class="tree-file">    │   │       │   ├── 📄 pla.html</div>
+<div class="tree-file">    │   │       │   ├── 📄 stat.html</div>
+<div class="tree-file">    │   │       │   ├── 📄 form.html</div>
+<div class="tree-file">    │   │       │   ├── 📄 gale.html</div>
+<div class="tree-file">    │   │       │   ├── 📄 gen.html</div>
+<div class="tree-file">    │   │       │   ├── 📄 his.html</div>
+<div class="tree-file">    │   │       │   ├── 📄 555.jpg</div>
+<div class="tree-file">    │   │       │   ├── 📄 Capture-2.jpg</div>
+<div class="tree-file">    │   │       │   ├── 📄 histoire.jpg</div>
+<div class="tree-file">    │   │       │   ├── 📄 img12.jpg</div>
+<div class="tree-file">    │   │       │   ├── 📄 img11.jpg</div>
+<div class="tree-file">    │   │       │   ├── 📄 img10.jpg</div>
+<div class="tree-file">    │   │       │   ├── 📄 img9.jpg</div>
+<div class="tree-file">    │   │       │   ├── 📄 img8.jpg</div>
+<div class="tree-file">    │   │       │   ├── 📄 img3.png</div>
+<div class="tree-file">    │   │       │   ├── 📄 img6.jpg</div>
+<div class="tree-file">    │   │       │   ├── 📄 img7.jpg</div>
+<div class="tree-file">    │   │       │   ├── 📄 img2.png</div>
+<div class="tree-file">    │   │       │   ├── 📄 img5.jpg</div>
+<div class="tree-file">    │   │       │   ├── 📄 img4.jpg</div>
+<div class="tree-file">    │   │       │   ├── 📄 plan.png</div>
+<div class="tree-file">    │   │       │   └── 📄 img1.jpg</div>
+<div class="tree-folder">    │   │       └── 📁 petit/</div>
+<div class="tree-file">    │   │           ├── 📄 plan.html</div>
+<div class="tree-file">    │   │           ├── 📄 Capture.jpg</div>
+<div class="tree-file">    │   │           ├── 📄 5033320102_426ab077ba_b.jpg</div>
+<div class="tree-file">    │   │           ├── 📄 galerie-errachidia-photo-errachidia-maroc-office-tourisme-maroc-galerie-maroc-photo-maroc.jpg</div>
+<div class="tree-file">    │   │           ├── 📄 index.html</div>
+<div class="tree-file">    │   │           ├── 📄 statistique.html</div>
+<div class="tree-file">    │   │           ├── 📄 Histoire.html</div>
+<div class="tree-file">    │   │           ├── 📄 general.html</div>
+<div class="tree-file">    │   │           ├── 📄 Contacts.html</div>
+<div class="tree-file">    │   │           ├── 📄 histoire.jpg</div>
+<div class="tree-file">    │   │           └── 📄 plan.png</div>
+<div class="tree-folder">    │   ├── 📁 TP N°4/</div>
+<div class="tree-file">    │   │   ├── 📄 Exercice_6.html</div>
+<div class="tree-file">    │   │   ├── 📄 Exercice_3.html</div>
+<div class="tree-file">    │   │   ├── 📄 Exercice_14.html</div>
+<div class="tree-file">    │   │   ├── 📄 Exercice_4-2.html</div>
+<div class="tree-file">    │   │   ├── 📄 Exercice_8.html</div>
+<div class="tree-file">    │   │   ├── 📄 EX16.html</div>
+<div class="tree-file">    │   │   ├── 📄 EX15.html</div>
+<div class="tree-file">    │   │   ├── 📄 Exercice_13.html</div>
+<div class="tree-file">    │   │   ├── 📄 Exercice_12.html</div>
+<div class="tree-file">    │   │   ├── 📄 Exercice_11.html</div>
+<div class="tree-file">    │   │   ├── 📄 Exercice_10.html</div>
+<div class="tree-file">    │   │   ├── 📄 Exercice_7.html</div>
+<div class="tree-file">    │   │   ├── 📄 Exercice_5.html</div>
+<div class="tree-file">    │   │   ├── 📄 DevoirJavaScript.html</div>
+<div class="tree-file">    │   │   ├── 📄 EX17.html</div>
+<div class="tree-file">    │   │   ├── 📄 Exercice_9.html</div>
+<div class="tree-file">    │   │   ├── 📄 Exercice_4-1.html</div>
+<div class="tree-file">    │   │   ├── 📄 Exercice_1 (2).HTML</div>
+<div class="tree-file">    │   │   ├── 📄 Exercice_1.html</div>
+<div class="tree-file">    │   │   ├── 📄 aew.html</div>
+<div class="tree-file">    │   │   ├── 📄 p6.html</div>
+<div class="tree-file">    │   │   ├── 📄 p5.html</div>
+<div class="tree-file">    │   │   ├── 📄 p4.html</div>
+<div class="tree-file">    │   │   ├── 📄 p3.html</div>
+<div class="tree-file">    │   │   ├── 📄 p2.html</div>
+<div class="tree-file">    │   │   ├── 📄 p1.html</div>
+<div class="tree-file">    │   │   ├── 📄 p7.html</div>
+<div class="tree-file">    │   │   ├── 📄 Exercice_2.html</div>
+<div class="tree-file">    │   │   ├── 📄 Exercice_2.js</div>
+<div class="tree-file">    │   │   ├── 📄 i7.png</div>
+<div class="tree-file">    │   │   ├── 📄 i6.png</div>
+<div class="tree-file">    │   │   ├── 📄 i4.png</div>
+<div class="tree-file">    │   │   ├── 📄 i2.png</div>
+<div class="tree-file">    │   │   ├── 📄 i3.png</div>
+<div class="tree-file">    │   │   ├── 📄 i1.png</div>
+<div class="tree-file">    │   │   ├── 📄 i5.png</div>
+<div class="tree-folder">    │   │   ├── 📁 Fichiers/</div>
+<div class="tree-file">    │   │   │   ├── 📄 10.jpg</div>
+<div class="tree-file">    │   │   │   ├── 📄 9.jpg</div>
+<div class="tree-file">    │   │   │   ├── 📄 8.jpg</div>
+<div class="tree-file">    │   │   │   ├── 📄 7.jpg</div>
+<div class="tree-file">    │   │   │   ├── 📄 6.jpg</div>
+<div class="tree-file">    │   │   │   ├── 📄 5.jpg</div>
+<div class="tree-file">    │   │   │   ├── 📄 4.jpg</div>
+<div class="tree-file">    │   │   │   ├── 📄 3.jpg</div>
+<div class="tree-file">    │   │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">    │   │   │   └── 📄 1.jpg</div>
+<div class="tree-folder">    │   │   ├── 📁 test java script cour/</div>
+<div class="tree-file">    │   │   │   ├── 📄 MonPages.html</div>
+<div class="tree-file">    │   │   │   ├── 📄 teste.js</div>
+<div class="tree-file">    │   │   │   ├── 📄 terdsz.html</div>
+<div class="tree-file">    │   │   │   ├── 📄 tesyg.html</div>
+<div class="tree-folder">    │   │   │   └── 📁 TP CSS/</div>
+<div class="tree-file">    │   │   │       ├── 📄 style1.css</div>
+<div class="tree-file">    │   │   │       ├── 📄 tp.htm</div>
+<div class="tree-file">    │   │   │       ├── 📄 tp.rar</div>
+<div class="tree-file">    │   │   │       ├── 📄 Utilisation de la balise DIV.htm</div>
+<div class="tree-file">    │   │   │       ├── 📄 style_exemple1.txt</div>
+<div class="tree-file">    │   │   │       ├── 📄 style_exemple.css</div>
+<div class="tree-file">    │   │   │       ├── 📄 cafe.gif</div>
+<div class="tree-file">    │   │   │       ├── 📄 fond_ecran.jpg</div>
+<div class="tree-file">    │   │   │       ├── 📄 Desert.jpg</div>
+<div class="tree-folder">    │   │   │       └── 📁 Utilisation de la balise DIV_fichiers/</div>
+<div class="tree-file">    │   │   │           ├── 📄 div01.jpg</div>
+<div class="tree-file">    │   │   │           ├── 📄 untrois.jpg</div>
+<div class="tree-file">    │   │   │           ├── 📄 gabarit4.jpg</div>
+<div class="tree-file">    │   │   │           ├── 📄 gabarit4b.jpg</div>
+<div class="tree-file">    │   │   │           ├── 📄 div05.jpg</div>
+<div class="tree-file">    │   │   │           ├── 📄 img_div04.jpg</div>
+<div class="tree-file">    │   │   │           ├── 📄 columns.jpg</div>
+<div class="tree-file">    │   │   │           ├── 📄 div03.jpg</div>
+<div class="tree-file">    │   │   │           ├── 📄 xls.css</div>
+<div class="tree-file">    │   │   │           ├── 📄 img_div03.jpg</div>
+<div class="tree-file">    │   │   │           ├── 📄 blanc.jpg</div>
+<div class="tree-file">    │   │   │           ├── 📄 home2.jpg</div>
+<div class="tree-file">    │   │   │           ├── 📄 centrervh.jpg</div>
+<div class="tree-file">    │   │   │           ├── 📄 vec_div.jpg</div>
+<div class="tree-file">    │   │   │           ├── 📄 div04.jpg</div>
+<div class="tree-file">    │   │   │           ├── 📄 mat_div.jpg</div>
+<div class="tree-file">    │   │   │           ├── 📄 capsule.jpg</div>
+<div class="tree-file">    │   │   │           ├── 📄 div02.jpg</div>
+<div class="tree-file">    │   │   │           ├── 📄 vcss-blue.gif</div>
+<div class="tree-file">    │   │   │           └── 📄 valid-xhtml10.png</div>
+<div class="tree-folder">    │   │   └── 📁 tp4 javascript/</div>
+<div class="tree-file">    │   │       ├── 📄 ex11.html</div>
+<div class="tree-file">    │   │       ├── 📄 ex14QCM.html</div>
+<div class="tree-file">    │   │       ├── 📄 redoEx10.html</div>
+<div class="tree-file">    │   │       ├── 📄 ex4Part1.html</div>
+<div class="tree-file">    │   │       ├── 📄 ex13.html</div>
+<div class="tree-file">    │   │       ├── 📄 ex12.html</div>
+<div class="tree-file">    │   │       ├── 📄 ex7.html</div>
+<div class="tree-file">    │   │       ├── 📄 ex10.html</div>
+<div class="tree-file">    │   │       ├── 📄 ex9.html</div>
+<div class="tree-file">    │   │       ├── 📄 ex5.html</div>
+<div class="tree-file">    │   │       ├── 📄 ex8.html</div>
+<div class="tree-file">    │   │       ├── 📄 ex4.html</div>
+<div class="tree-file">    │   │       ├── 📄 ex6.html</div>
+<div class="tree-file">    │   │       ├── 📄 ex6Modifie.html</div>
+<div class="tree-file">    │   │       ├── 📄 ex3.html</div>
+<div class="tree-file">    │   │       ├── 📄 ex2.html</div>
+<div class="tree-file">    │   │       ├── 📄 ex1q2.html</div>
+<div class="tree-file">    │   │       ├── 📄 ex1q1.html</div>
+<div class="tree-folder">    │   │       └── 📁 photos/</div>
+<div class="tree-file">    │   │           ├── 📄 i13.png</div>
+<div class="tree-file">    │   │           ├── 📄 i12.png</div>
+<div class="tree-file">    │   │           ├── 📄 i11.png</div>
+<div class="tree-file">    │   │           ├── 📄 i10.png</div>
+<div class="tree-file">    │   │           ├── 📄 i9.png</div>
+<div class="tree-file">    │   │           ├── 📄 i8.png</div>
+<div class="tree-file">    │   │           ├── 📄 i7.png</div>
+<div class="tree-file">    │   │           ├── 📄 i6.png</div>
+<div class="tree-file">    │   │           ├── 📄 i5.png</div>
+<div class="tree-file">    │   │           ├── 📄 i4.png</div>
+<div class="tree-file">    │   │           ├── 📄 i3.png</div>
+<div class="tree-file">    │   │           ├── 📄 i2.png</div>
+<div class="tree-file">    │   │           └── 📄 i1.png</div>
+<div class="tree-folder">    │   ├── 📁 TP N°5-1/</div>
+<div class="tree-file">    │   │   ├── 📄 examen-principal-php-correction-150110130540-conversion-gate02.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 corriges-exercices-php5-ed2.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 PHP-mise-a-niveau.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 exercices-php5.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 tpinfopython_2011-2012-s2-tp3.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 TD6.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 lap3.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 Chap-2_Engels.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 web_td4.pdf</div>
+<div class="tree-folder">    │   │   └── 📁 tp1/</div>
+<div class="tree-file">    │   │       ├── 📄 exercice n08.php</div>
+<div class="tree-file">    │   │       ├── 📄 fonction.inc.php</div>
+<div class="tree-file">    │   │       ├── 📄 exercice n05-c.php</div>
+<div class="tree-file">    │   │       ├── 📄 exercice n09.php</div>
+<div class="tree-file">    │   │       ├── 📄 resultat.txt</div>
+<div class="tree-file">    │   │       ├── 📄 exercice n11.php</div>
+<div class="tree-file">    │   │       ├── 📄 FORM.html</div>
+<div class="tree-file">    │   │       ├── 📄 exercice n10.php</div>
+<div class="tree-file">    │   │       ├── 📄 New Text Document.php</div>
+<div class="tree-file">    │   │       ├── 📄 Nouveau document texte.txt</div>
+<div class="tree-file">    │   │       ├── 📄 informatique.txt</div>
+<div class="tree-file">    │   │       ├── 📄 exercice n07.php</div>
+<div class="tree-file">    │   │       ├── 📄 exe1.php</div>
+<div class="tree-file">    │   │       ├── 📄 exercice n06.php</div>
+<div class="tree-file">    │   │       ├── 📄 exercice n05-b.php</div>
+<div class="tree-file">    │   │       ├── 📄 exercice n03.php</div>
+<div class="tree-file">    │   │       ├── 📄 exercice n05-a.php</div>
+<div class="tree-file">    │   │       ├── 📄 exercice n04.php</div>
+<div class="tree-file">    │   │       ├── 📄 exercice n02.php</div>
+<div class="tree-file">    │   │       └── 📄 exercice n01.php</div>
+<div class="tree-folder">    │   ├── 📁 TP N°5-2/</div>
+<div class="tree-file">    │   │   ├── 📄 exercice n02.php</div>
+<div class="tree-file">    │   │   └── 📄 exercice n01.php</div>
+<div class="tree-folder">    │   ├── 📁 TP N°5-3/</div>
+<div class="tree-folder">    │   │   ├── 📁 exe3/</div>
+<div class="tree-file">    │   │   │   ├── 📄 style.css</div>
+<div class="tree-file">    │   │   │   ├── 📄 page_membre.php</div>
+<div class="tree-file">    │   │   │   ├── 📄 traitelogin.php</div>
+<div class="tree-file">    │   │   │   └── 📄 formulaire_exe-php_3-1.html</div>
+<div class="tree-folder">    │   │   ├── 📁 exe4/</div>
+<div class="tree-file">    │   │   │   ├── 📄 loginpers.html</div>
+<div class="tree-file">    │   │   │   ├── 📄 inscription.php</div>
+<div class="tree-file">    │   │   │   └── 📄 ins.php</div>
+<div class="tree-folder">    │   │   ├── 📁 exe2/</div>
+<div class="tree-file">    │   │   │   ├── 📄 exe2.php</div>
+<div class="tree-file">    │   │   │   └── 📄 exe2_simple_consultation.php</div>
+<div class="tree-folder">    │   │   ├── 📁 tp3-php/</div>
+<div class="tree-folder">    │   │   │   ├── 📁 exe4/</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 loginpers.html</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 inscription.php</div>
+<div class="tree-file">    │   │   │   │   └── 📄 ins.php</div>
+<div class="tree-folder">    │   │   │   ├── 📁 exe3/</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 traitelogin.php</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 page_membre.php</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 formulaire_exe-php_3-1.html</div>
+<div class="tree-file">    │   │   │   │   └── 📄 style.css</div>
+<div class="tree-folder">    │   │   │   └── 📁 exe2/</div>
+<div class="tree-file">    │   │   │       ├── 📄 exe2.php</div>
+<div class="tree-file">    │   │   │       └── 📄 exe2_simple_consultation.php</div>
+<div class="tree-folder">    │   │   └── 📁 tp4-php/</div>
+<div class="tree-folder">    │   │       ├── 📁 exe2/</div>
+<div class="tree-file">    │   │       │   ├── 📄 modification1.php</div>
+<div class="tree-file">    │   │       │   ├── 📄 Nouveau document texte.txt</div>
+<div class="tree-file">    │   │       │   ├── 📄 liste.php</div>
+<div class="tree-file">    │   │       │   ├── 📄 connecter.php</div>
+<div class="tree-file">    │   │       │   ├── 📄 index.html</div>
+<div class="tree-file">    │   │       │   ├── 📄 E_commerce.html</div>
+<div class="tree-file">    │   │       │   ├── 📄 inscripton.php</div>
+<div class="tree-file">    │   │       │   ├── 📄 style commerce.css</div>
+<div class="tree-file">    │   │       │   └── 📄 style.css</div>
+<div class="tree-folder">    │   │       ├── 📁 exe3/</div>
+<div class="tree-file">    │   │       │   ├── 📄 Traitement.php</div>
+<div class="tree-file">    │   │       │   ├── 📄 authentification.html</div>
+<div class="tree-file">    │   │       │   └── 📄 style.css</div>
+<div class="tree-folder">    │   │       └── 📁 exe1/</div>
+<div class="tree-file">    │   │           ├── 📄 authentification.php</div>
+<div class="tree-file">    │   │           ├── 📄 autorisation.php</div>
+<div class="tree-file">    │   │           ├── 📄 authentification.html</div>
+<div class="tree-file">    │   │           └── 📄 style.css</div>
+<div class="tree-folder">    │   └── 📁 TP N°5-4_FIN/</div>
+<div class="tree-folder">    │       ├── 📁 tp3-php/</div>
+<div class="tree-folder">    │       │   ├── 📁 exe2/</div>
+<div class="tree-file">    │       │   │   ├── 📄 exe2.php</div>
+<div class="tree-file">    │       │   │   └── 📄 exe2_simple_consultation.php</div>
+<div class="tree-folder">    │       │   ├── 📁 exe4/</div>
+<div class="tree-file">    │       │   │   ├── 📄 loginpers.html</div>
+<div class="tree-file">    │       │   │   ├── 📄 inscription.php</div>
+<div class="tree-file">    │       │   │   └── 📄 ins.php</div>
+<div class="tree-folder">    │       │   └── 📁 exe3/</div>
+<div class="tree-file">    │       │       ├── 📄 page_membre.php</div>
+<div class="tree-file">    │       │       ├── 📄 traitelogin.php</div>
+<div class="tree-file">    │       │       ├── 📄 formulaire_exe-php_3-1.html</div>
+<div class="tree-file">    │       │       └── 📄 style.css</div>
+<div class="tree-folder">    │       └── 📁 tp4-php/</div>
+<div class="tree-folder">    │           ├── 📁 exe2/</div>
+<div class="tree-file">    │           │   ├── 📄 modification1.php</div>
+<div class="tree-file">    │           │   ├── 📄 Nouveau document texte.txt</div>
+<div class="tree-file">    │           │   ├── 📄 liste.php</div>
+<div class="tree-file">    │           │   ├── 📄 connecter.php</div>
+<div class="tree-file">    │           │   ├── 📄 index.html</div>
+<div class="tree-file">    │           │   ├── 📄 E_commerce.html</div>
+<div class="tree-file">    │           │   ├── 📄 inscripton.php</div>
+<div class="tree-file">    │           │   ├── 📄 style commerce.css</div>
+<div class="tree-file">    │           │   └── 📄 style.css</div>
+<div class="tree-folder">    │           └── 📁 exe1/</div>
+<div class="tree-file">    │               ├── 📄 authentification.php</div>
+<div class="tree-file">    │               ├── 📄 autorisation.php</div>
+<div class="tree-file">    │               ├── 📄 authentification.html</div>
+<div class="tree-file">    │               └── 📄 style.css</div>
+<div class="tree-folder">    ├── 📁 amina/</div>
+<div class="tree-file">    │   ├── 📄 enregistrerNote.php</div>
+<div class="tree-file">    │   ├── 📄 authentifier.php</div>
+<div class="tree-file">    │   ├── 📄 note.php</div>
+<div class="tree-file">    │   ├── 📄 consulter.php</div>
+<div class="tree-file">    │   ├── 📄 saisirNote.php</div>
+<div class="tree-file">    │   ├── 📄 enregistrer.php</div>
+<div class="tree-file">    │   └── 📄 modification2.php</div>
+<div class="tree-folder">    ├── 📁 Cours/</div>
+<div class="tree-file">    │   ├── 📄 Youssef FARHAOUI   WEB partie (JAVA SCRIPT) - Copie.pdf</div>
+<div class="tree-file">    │   ├── 📄 Youssef FARHAOUI   WEB  HTML (base) - Copie.pdf</div>
+<div class="tree-file">    │   ├── 📄 Youssef FARHAOUI   WEB partie (Css) - Copie.pdf</div>
+<div class="tree-file">    │   ├── 📄 WEB_PHP_part 4_session - Copie.pdf</div>
+<div class="tree-file">    │   ├── 📄 application web mobile - Copie.pdf</div>
+<div class="tree-file">    │   ├── 📄 Session _ Cookies - Concevez votre site web avec PHP et MySQL - OpenClassrooms - Copie.pdf</div>
+<div class="tree-file">    │   ├── 📄 Transmettez des données avec les formulaires - Concevez votre site web avec PHP et MySQL - OpenClassrooms - Copie.pdf</div>
+<div class="tree-file">    │   ├── 📄 cours_PHP_1_2017 - Copie.pdf</div>
+<div class="tree-file">    │   ├── 📄 cours_PHP_session - Copie.pdf</div>
+<div class="tree-file">    │   ├── 📄 cours_PHP_3 - Copie.pdf</div>
+<div class="tree-file">    │   ├── 📄 BALISES GÉNÉRALES - Copie.pdf</div>
+<div class="tree-file">    │   ├── 📄 cours_PHP_PDO_2017 - Copie.pdf</div>
+<div class="tree-file">    │   ├── 📄 cours 1_HTML - Copie.pdf</div>
+<div class="tree-file">    │   ├── 📄 cours_PHP_2_2017 - Copie.pdf</div>
+<div class="tree-file">    │   ├── 📄 cours 2_CSS - Copie.pdf</div>
+<div class="tree-file">    │   ├── 📄 cours_PHP_3_POO_2017 - Copie.pdf</div>
+<div class="tree-file">    │   ├── 📄 cours 3_HTML5 - Copie.pdf</div>
+<div class="tree-file">    │   └── 📄 cours javascript - Copie.pdf</div>
+<div class="tree-folder">    ├── 📁 EXM/</div>
+<div class="tree-file">    │   ├── 📄 exam2019.php</div>
+<div class="tree-file">    │   ├── 📄 exm.html</div>
+<div class="tree-file">    │   ├── 📄 exm.php</div>
+<div class="tree-file">    │   ├── 📄 EXAM.pdf</div>
+<div class="tree-folder">    │   ├── 📁 EXEM2016/</div>
+<div class="tree-file">    │   │   ├── 📄 affichematiere.php</div>
+<div class="tree-file">    │   │   └── 📄 styleexm.css</div>
+<div class="tree-folder">    │   ├── 📁 EXEMEX1/</div>
+<div class="tree-file">    │   │   ├── 📄 update_tri.php</div>
+<div class="tree-file">    │   │   ├── 📄 fonction.php</div>
+<div class="tree-file">    │   │   ├── 📄 fonction.inc.php</div>
+<div class="tree-file">    │   │   ├── 📄 tri2.php</div>
+<div class="tree-file">    │   │   ├── 📄 tri1.php</div>
+<div class="tree-file">    │   │   ├── 📄 resultat.php</div>
+<div class="tree-file">    │   │   └── 📄 form.html</div>
+<div class="tree-folder">    │   ├── 📁 EXM2016/</div>
+<div class="tree-file">    │   │   ├── 📄 afficher_mat.php</div>
+<div class="tree-file">    │   │   └── 📄 style.css</div>
+<div class="tree-folder">    │   ├── 📁 EXM2019/</div>
+<div class="tree-file">    │   │   ├── 📄 article.php</div>
+<div class="tree-file">    │   │   ├── 📄 anregistrer.php</div>
+<div class="tree-file">    │   │   ├── 📄 modification2.php</div>
+<div class="tree-file">    │   │   ├── 📄 client.php</div>
+<div class="tree-file">    │   │   └── 📄 exm.html</div>
+<div class="tree-folder">    │   ├── 📁 EXM2016-/</div>
+<div class="tree-file">    │   │   ├── 📄 fonction.php</div>
+<div class="tree-file">    │   │   ├── 📄 test.php</div>
+<div class="tree-file">    │   │   ├── 📄 fin.php</div>
+<div class="tree-file">    │   │   ├── 📄 statique.php</div>
+<div class="tree-file">    │   │   ├── 📄 affichestatique.php</div>
+<div class="tree-file">    │   │   ├── 📄 affiche_mat.php</div>
+<div class="tree-file">    │   │   ├── 📄 choix_table.php</div>
+<div class="tree-file">    │   │   ├── 📄 afficher_ens.php</div>
+<div class="tree-file">    │   │   ├── 📄 liste.php</div>
+<div class="tree-file">    │   │   └── 📄 affiche.php</div>
+<div class="tree-folder">    │   └── 📁 exmjuin/</div>
+<div class="tree-file">    │       ├── 📄 exm2016.php</div>
+<div class="tree-file">    │       └── 📄 exm2016.html</div>
+<div class="tree-folder">    ├── 📁 mina/</div>
+<div class="tree-file">    │   ├── 📄 update_tri.php</div>
+<div class="tree-file">    │   ├── 📄 tri1.php</div>
+<div class="tree-file">    │   ├── 📄 fonction.php</div>
+<div class="tree-file">    │   ├── 📄 fonction.inc.php</div>
+<div class="tree-file">    │   ├── 📄 tri2.php</div>
+<div class="tree-file">    │   └── 📄 resultat.php</div>
+<div class="tree-folder">    └── 📁 tp4/</div>
+<div class="tree-file">        ├── 📄 auth-1.php</div>
+<div class="tree-file">        ├── 📄 liste_etudiants.php</div>
+<div class="tree-file">        ├── 📄 notes.php</div>
+<div class="tree-file">        ├── 📄 auth-1.html</div>
+<div class="tree-file">        ├── 📄 formulairePersonne.html</div>
+<div class="tree-file">        ├── 📄 logout.php</div>
+<div class="tree-file">        ├── 📄 new 2.php</div>
+<div class="tree-file">        └── 📄 inscription.php</div>
+
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Web</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Web</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Web ?</summary>
+      <p>
+        Le module <strong>Web</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Web ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Web</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Web correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Web</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>
