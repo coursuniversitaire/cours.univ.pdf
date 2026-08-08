@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>UML — Cours PDF, TD & Examens Corrigés pdf</title>
+  <meta name="description" content="Téléchargez le module UML : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+  <meta name="keywords"    content="UML, cours UML pdf, td corrigés UML, examen corrigé UML, module UML université, polycopié UML, exercices corrigés UML, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-uml-pdf.html" />
+
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="UML — Cours PDF, TD & Examens Corrigés pdf" />
+  <meta property="og:description" content="Téléchargez le module UML : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-uml-pdf.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="UML — Cours PDF, TD & Examens Corrigés pdf" />
+  <meta name="twitter:description" content="Téléchargez le module UML : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-08" />
+  <meta name="google-site-verification" content="MT3aHsC0-1SnLsIUjoHAOb78YW0gkPkLgvSDrkhSTeQ" />
+
+  <script type="text/javascript">
+      (function(c,l,a,r,i,t,y){
+              c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                              y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+                                  })(window, document, "clarity", "script", "xb7gvowmx9");
+                                    </script>
+
+                                     <!-- Google tag (gtag.js) -->
+                                     <script async src="https://www.googletagmanager.com/gtag/js?id=G-G55SJ5C5L0"></script>
+                                     <script>
+                                       window.dataLayer = window.dataLayer || [];
+                                         function gtag(){dataLayer.push(arguments);}
+                                           gtag('js', new Date());
+
+                                             gtag('config', 'G-G55SJ5C5L0');
+                                             </script>
+
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"UML","item":"https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-uml-pdf.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module UML ?","acceptedAnswer":{"@type":"Answer","text":"Le module UML contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module UML ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module UML correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    h2 { font-size: 1.55rem; font-weight: 700; margin-bottom: 28px; }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>UML</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>UML</em><br />
+      Cours, TD et exercices corrigés UML pdf &amp; Examens avec correction
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>UML</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.  
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">26</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">56</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">17</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">UML</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés UML</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">UML</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module UML">
+<div class="tree-file">├── 📄 Drive module UML - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 UML/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 UML 2019_2020 GL.docx</div>
+<div class="tree-file">│   ├── 📄 AMINA ASKLOU DEVOIR  1.2.3 UML (1).pdf</div>
+<div class="tree-file">│   ├── 📄 Devoir UML.docx</div>
+<div class="tree-file">│   ├── 📄 Examen-A distance-UML-12-09-2020.pdf</div>
+<div class="tree-file">│   ├── 📄 EXAMENS UML(2).pdf</div>
+<div class="tree-file">│   ├── 📄 [2] UML-ClasseD_ObjetD.pptx</div>
+<div class="tree-file">│   ├── 📄 [1] UML -Introduction.pptx</div>
+<div class="tree-file">│   ├── 📄 TapScanner 31-12-2020-13.00.pdf</div>
+<div class="tree-file">│   ├── 📄 JAKIMI UML deuxième scéance.pdf</div>
+<div class="tree-file">│   ├── 📄 DevoirN°1-UML_COO.pdf</div>
+<div class="tree-file">│   ├── 📄 Exercice UML (système de livraison express à domicile).pdf</div>
+<div class="tree-file">│   ├── 📄 Exercice UML _ Etude de Cas recherche en viticulture.pdf</div>
+<div class="tree-file">│   ├── 📄 Exercice UML diagramme de séquence et des cas d'utilisation.pdf</div>
+<div class="tree-file">│   ├── 📄 Exercice UML _ Use Case.pdf</div>
+<div class="tree-file">│   ├── 📄 Exercice UML modéliser les vues statiques et dynamiques d'un système.pdf</div>
+<div class="tree-file">│   ├── 📄 uml-corr01.pdf</div>
+<div class="tree-file">│   ├── 📄 uml-corr04.pdf</div>
+<div class="tree-file">│   ├── 📄 JAKIMI Cours UML.pdf</div>
+<div class="tree-file">│   ├── 📄 coursUML7-Diagramme d'etat-Transition-1.pdf</div>
+<div class="tree-file">│   ├── 📄 DOC-20200115-WA0014.pdf</div>
+<div class="tree-file">│   ├── 📄 UML 2019_2020 GL.pdf</div>
+<div class="tree-file">│   ├── 📄 84723902-UML-Conception.pdf</div>
+<div class="tree-file">│   ├── 📄 uml-corr02.pdf</div>
+<div class="tree-file">│   ├── 📄 DOC-20200115-WA0015.pdf</div>
+<div class="tree-file">│   ├── 📄 UML.pdf</div>
+<div class="tree-file">│   ├── 📄 3-UML.pdf</div>
+<div class="tree-file">│   ├── 📄 TD1.pdf</div>
+<div class="tree-file">│   ├── 📄 Cours_UML_Yassine_Rhazali.pdf</div>
+<div class="tree-file">│   ├── 📄 Cours_DOTNET_Yassine_Rhazali.pdf</div>
+<div class="tree-file">│   ├── 📄 F006111.pdf</div>
+<div class="tree-file">│   ├── 📄 exame UML 2015-2016.pdf</div>
+<div class="tree-file">│   ├── 📄 DiagrammeDeClasses.pdf</div>
+<div class="tree-file">│   ├── 📄 coursUML2 UseCaseDiagramm.pdf</div>
+<div class="tree-file">│   ├── 📄 coursUML3 Diagramme de classes.pdf</div>
+<div class="tree-file">│   ├── 📄 coursUML4-Diagramme d_objet.pdf</div>
+<div class="tree-file">│   ├── 📄 0736-uml-diagrammes-de-sequence-en-conception.pdf</div>
+<div class="tree-file">│   ├── 📄 0738-uml-etats-transition.pdf</div>
+<div class="tree-file">│   ├── 📄 UML consep.pdf</div>
+<div class="tree-file">│   ├── 📄 les diagramme en ligne.pdf</div>
+<div class="tree-file">│   ├── 📄 EXAMENS UML.pdf</div>
+<div class="tree-file">│   ├── 📄 Exercices-UML-corrige.pdf</div>
+<div class="tree-file">│   ├── 📄 uml-corr06.pdf</div>
+<div class="tree-file">│   ├── 📄 CorrectionEtudedecas-Exam-2010-2011.pdf</div>
+<div class="tree-file">│   ├── 📄 UML2_par_la_pratique.pdf</div>
+<div class="tree-file">│   ├── 📄 série 1 UML.pdf</div>
+<div class="tree-file">│   ├── 📄 série 3 UML.pdf</div>
+<div class="tree-file">│   ├── 📄 série 2 UML.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre 2 - Diagramme  de Classe.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre 2.5 - Traduction du diagramme de classe vers Java.pdf</div>
+<div class="tree-file">│   ├── 📄 TD5-Collaboration.pdf</div>
+<div class="tree-file">│   ├── 📄 TD5-Collabo-Corrigé.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre 4 - Diagrammes d’interaction.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre 3 - Diagrammes  d’objets.pdf</div>
+<div class="tree-file">│   ├── 📄 qsd.PNG</div>
+<div class="tree-file">│   ├── 📄 Chapitre 5 - Diagramme d’états-transitions.pdf</div>
+<div class="tree-file">│   ├── 📄 CH1-Intro et Diagramme de Cas d’utilisation.pdf</div>
+<div class="tree-file">│   ├── 📄 TD4_Diag_Objet.docx</div>
+<div class="tree-file">│   ├── 📄 TD3.docx</div>
+<div class="tree-file">│   ├── 📄 TD2_DClasse.docx</div>
+<div class="tree-file">│   └── 📄 TD1.docx</div>
+<div class="tree-folder">├── 🔗📁 GÉNIE LOGICIEL1/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 UML2 pour la pratique.pdf</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-file">│   │   ├── 📄 SÉRIES_TD_GL.pdf</div>
+<div class="tree-file">│   │   ├── 📄 serie_supp_gl_sans_corrigé.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Corrigé_TD_GL.pdf</div>
+<div class="tree-file">│   │   └── 📄 Corrigé Exercice 3 de la série TD 5.pdf</div>
+<div class="tree-folder">│   ├── 📁 RÉSUMÉS/</div>
+<div class="tree-file">│   │   ├── 📄 UML - Résumé.pdf</div>
+<div class="tree-file">│   │   └── 📄 Résumé GL.pdf</div>
+<div class="tree-folder">│   ├── 📁 TESTS &amp; EXAMENS/</div>
+<div class="tree-file">│   │   ├── 📄 Sujet_Test_TD_GL.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Corrigé_type_du_test.pdf</div>
+<div class="tree-file">│   │   └── 📄 Examen_GL_2017_Corrigé.pdf</div>
+<div class="tree-folder">│   └── 📁 COURS/</div>
+<div class="tree-file">│       ├── 📄 COURS_GL_TAIBOUNI.pdf</div>
+<div class="tree-file">│       └── 📄 COURS_GL_BENGHALIA.pdf.zip</div>
+<div class="tree-folder">├── 🔗📁 UML/  (raccourci)</div>
+<div class="tree-file">│   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">├── 🔗📁 ++ SMI5 CONCEPTION ORIENTEE OBJETS UML SABORPCMATH.COM/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 °TD CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM FES 22 23.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM FES 22 23.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM CASABLANCA 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 UML_2_Pratique_de_la_mod__lisation_-_2__me_Edition.pdf</div>
+<div class="tree-file">│   ├── 📄 +TP CONCEPTION ORIENTEE OBJETS UML LBD FSR RABAT.pdf</div>
+<div class="tree-file">│   ├── 📄 +TP CONCEPTION ORIENTEE OBJETS UML LBD FSR RABAT 15 16.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD TP CONCEPTION ORIENTEE OBJETS UML SMI5 FPO OUARZAZATE.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD TP CONCEPTION ORIENTEE OBJETS UML LBD FSM MEKNES 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD TP CONCEPTION ORIENTEE OBJETS UML LBD FSJ ELJADIDA.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD TP CONCEPTION ORIENTEE OBJETS UML ENSAJ FSJ ELJADIDA.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD CONCEPTION ORIENTEE OBJETS UML SMI5 FST TETOUAN 2020.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD CONCEPTION ORIENTEE OBJETS UML SMI5 FST TETOUAN 2016.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD CONCEPTION ORIENTEE OBJETS UML SMI5 FST TETOUAN 2015.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM CASABLANCA 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD CONCEPTION ORIENTEE OBJETS UML LBD FSR RABAT 19 20.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD CONCEPTION ORIENTEE OBJETS UML LBD FSR RABAT 16 17.pdf</div>
+<div class="tree-file">│   ├── 📄 +TD CONCEPTION ORIENTEE OBJETS UML LBD FSR RABAT 15 16.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS UML et Genie Logiciel SMI5 FSJ ELJADIDA.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS CONCEPTION ORIENTEE OBJETS UML SMI5 FSAC CASABLANCA.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS CONCEPTION ORIENTEE OBJETS UML SMI5 FPO OUARZAZATE.pdf</div>
+<div class="tree-file">│   ├── 📄 +EXAMENS CONCEPTION ORIENTEE OBJETS UML LBD FSR RABAT.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FST TETOUAN 2021.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FST TETOUAN 2017.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FST TETOUAN 2015.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FST TETOUAN 21 22.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FSDM FES 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM CASABLANCA 20 21 V2.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM CASABLANCA 20 21 V1.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FSAC CASABLANCA.pdf</div>
+<div class="tree-file">│   ├── 📄 +COURS CONCEPTION ORIENTEE OBJETS UML SMI5 FPK KHOURIBGA.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS CONCEPTION ORIENTEE OBJETS UML LBD FSR RABAT.pdf</div>
+<div class="tree-file">│   └── 📄 °TD CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM FES 20 21.pdf</div>
+<div class="tree-folder">├── 📁 Autre/</div>
+<div class="tree-file">│   ├── 📄 TD5-Collaboration.pdf</div>
+<div class="tree-file">│   ├── 📄 UML consep.pdf</div>
+<div class="tree-file">│   ├── 📄 uml-corr01.pdf</div>
+<div class="tree-file">│   ├── 📄 uml-corr02.pdf</div>
+<div class="tree-file">│   ├── 📄 uml-corr04.pdf</div>
+<div class="tree-file">│   ├── 📄 uml-corr06.pdf</div>
+<div class="tree-file">│   ├── 📄 UML.pdf</div>
+<div class="tree-file">│   ├── 📄 Devoir UML.docx</div>
+<div class="tree-file">│   ├── 📄 DevoirN°1-UML_COO.pdf</div>
+<div class="tree-file">│   ├── 📄 DOC-20200115-WA0014.pdf</div>
+<div class="tree-file">│   ├── 📄 DOC-20200115-WA0015.pdf</div>
+<div class="tree-file">│   ├── 📄 exame UML 2015-2016.pdf</div>
+<div class="tree-file">│   ├── 📄 Examen-A distance-UML-12-09-2020.pdf</div>
+<div class="tree-file">│   ├── 📄 EXAMENS UML.pdf</div>
+<div class="tree-file">│   ├── 📄 EXAMENS UML(2).pdf</div>
+<div class="tree-file">│   ├── 📄 Exercice UML _ Etude de Cas recherche en viticulture.pdf</div>
+<div class="tree-file">│   ├── 📄 Exercice UML _ Use Case.pdf</div>
+<div class="tree-file">│   ├── 📄 Exercice UML (système de livraison express à domicile).pdf</div>
+<div class="tree-file">│   ├── 📄 Exercice UML diagramme de séquence et des cas d'utilisation.pdf</div>
+<div class="tree-file">│   ├── 📄 Exercice UML modéliser les vues statiques et dynamiques d'un système.pdf</div>
+<div class="tree-file">│   ├── 📄 Exercices-UML-corrige.pdf</div>
+<div class="tree-file">│   ├── 📄 série 1 UML.pdf</div>
+<div class="tree-file">│   ├── 📄 série 2 UML.pdf</div>
+<div class="tree-file">│   ├── 📄 série 3 UML.pdf</div>
+<div class="tree-file">│   ├── 📄 TD1.docx</div>
+<div class="tree-file">│   ├── 📄 TD1.pdf</div>
+<div class="tree-file">│   ├── 📄 TD2_DClasse.docx</div>
+<div class="tree-file">│   ├── 📄 TD3.docx</div>
+<div class="tree-file">│   ├── 📄 TD4_Diag_Objet.docx</div>
+<div class="tree-file">│   └── 📄 TD5-Collabo-Corrigé.pdf</div>
+<div class="tree-folder">├── 📁 Exercices et TDs corrigés/</div>
+<div class="tree-file">│   ├── 📄 °TD CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM FES 22 23.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD CONCEPTION ORIENTEE OBJETS UML SMI5 FSBM FES 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 UML td 4 + corrigé.rar</div>
+<div class="tree-file">│   ├── 📄 TD.doc</div>
+<div class="tree-file">│   ├── 📄 TD2.doc</div>
+<div class="tree-file">│   ├── 📄 TD3.doc</div>
+<div class="tree-file">│   ├── 📄 TD4.doc</div>
+<div class="tree-file">│   ├── 📄 TD5.doc</div>
+<div class="tree-file">│   ├── 📄 TD7.docx</div>
+<div class="tree-file">│   ├── 📄 temp</div>
+<div class="tree-file">│   ├── 📄 Analyse et conception d'un système de gestion de banque-UML</div>
+<div class="tree-file">│   ├── 📄 master 2 TD TD6 Diagramme Etats Transitions-UML</div>
+<div class="tree-file">│   ├── 📄 TD Introduction à la modélisation objet-UML</div>
+<div class="tree-file">│   ├── 📄 Etude de cas UML</div>
+<div class="tree-file">│   ├── 📄 Exercices UML placement des informations</div>
+<div class="tree-file">│   ├── 📄 Exercices sur les diagrammes de cas d'utilisation.pdf-UML</div>
+<div class="tree-file">│   ├── 📄 UML Exercices de base</div>
+<div class="tree-file">│   ├── 📄 Diagramme de séquence GAB-UML</div>
+<div class="tree-file">│   ├── 📄 Diagrammes de Communication et de Déploiement Exercices-UML</div>
+<div class="tree-file">│   ├── 📄 Exercices sur les états et les interactions d'un téléphone.pdf-UML</div>
+<div class="tree-file">│   ├── 📄 Analyse du projet Mini Projet Genie Logiciel.pdf-UML</div>
+<div class="tree-file">│   ├── 📄 Diagramme etat transition MCOChapitre5-UML</div>
+<div class="tree-file">│   ├── 📄 genie logiciel introduction modele de cycle de vie-UML</div>
+<div class="tree-file">│   ├── 📄 Diagramme de classes exercices et corrections MCOOChapitre3 L2ARS SIL 2011 2012.pdf-UML</div>
+<div class="tree-file">│   ├── 📄 genie logiciel examen qcm-UML</div>
+<div class="tree-file">│   ├── 📄 Diagramme de cas d'utilisation-UML</div>
+<div class="tree-file">│   ├── 📄 Diagramme des cas d utilisation exercices et correction TD MCOO chapitre 2-UML</div>
+<div class="tree-file">│   ├── 📄 Diagramme d etats transitions et activites.pdf-UML</div>
+<div class="tree-file">│   ├── 📄 TD Genie logiciel-UML</div>
+<div class="tree-file">│   ├── 📄 serie exercices 4 diagrammes de sequence-UML</div>
+<div class="tree-file">│   ├── 📄 Diagramme de classes et objets-UML</div>
+<div class="tree-file">│   ├── 📄 TD Diagramme de cas d'utilisation et diagramme de séquences-UML</div>
+<div class="tree-file">│   ├── 📄 uml cours et exercices</div>
+<div class="tree-file">│   ├── 📄 Methodes de conception objet TD.pdf-UML</div>
+<div class="tree-file">│   ├── 📄 genie logiciel 1 examen 2018 2019-UML</div>
+<div class="tree-file">│   ├── 📄 TD UML page 1</div>
+<div class="tree-file">│   ├── 📄 TD Genie Logiciel Questions-UML</div>
+<div class="tree-file">│   ├── 📄 TD Modélisation UML Diagramme de classes</div>
+<div class="tree-file">│   ├── 📄 genie logiciel serie 1 TD N01.pdf-UML</div>
+<div class="tree-file">│   ├── 📄 SystemeGestionBibliotheque_consignes-UML</div>
+<div class="tree-file">│   ├── 📄 TD UML avec etude de cas</div>
+<div class="tree-file">│   ├── 📄 Diagramme des cas d utilisation MCOChapitre2-UML</div>
+<div class="tree-file">│   ├── 📄 Diagramme des cas d'utilisation exercices MCOO chapitre 2 L2ARS SIL 2011 2012.pdf-UML</div>
+<div class="tree-file">│   ├── 📄 TD Genie logiciel-UML</div>
+<div class="tree-file">│   ├── 📄 Methodes de conception OO TD 1 énoncés.pdf-UML</div>
+<div class="tree-file">│   ├── 📄 EXERCICES UML  PLACEMENT DES INFORMATIONS.pdf</div>
+<div class="tree-file">│   ├── 📄 etape 1 reservation de train-UML</div>
+<div class="tree-file">│   ├── 📄 Diagramme de cas d'utilisation-UML</div>
+<div class="tree-file">│   ├── 📄 serie d exercices n3 diagramme de classes-UML</div>
+<div class="tree-file">│   ├── 📄 Analyse et conception d'une application de gestion des Rapports Quotidiens de Vol-UML</div>
+<div class="tree-file">│   ├── 📄 Exercices MERISE ENITA de Bordeaux-UML</div>
+<div class="tree-file">│   ├── 📄 Exercices UML placement des informations</div>
+<div class="tree-file">│   ├── 📄 TD Modélisation UML Diagramme d'états-transitions énoncé</div>
+<div class="tree-file">│   ├── 📄 serie exercices genie logiciel uml cas d'utilisation</div>
+<div class="tree-file">│   └── 📄 Diagramme de classes exercices MCOChapitre3 L2ARS 2011 2012-UML</div>
+<div class="tree-folder">├── 📁 Examens/</div>
+<div class="tree-file">│   ├── 📄 UML exam 2019_2020_1.jpg</div>
+<div class="tree-file">│   ├── 📄 UML exam 2019_2020_2.jpg</div>
+<div class="tree-file">│   ├── 📄 UML exam 2019_2020_3.jpg</div>
+<div class="tree-file">│   ├── 📄 UML exam 2019_2020_4.jpg</div>
+<div class="tree-file">│   ├── 📄 UML exam + corrigé 2013.rar</div>
+<div class="tree-file">│   ├── 📄 uml EMD+Correction.rar</div>
+<div class="tree-file">│   ├── 📄 examen mi-semestre info projet-UML</div>
+<div class="tree-file">│   ├── 📄 examen genie logiciel L3 2010 2011.pdf-UML</div>
+<div class="tree-file">│   ├── 📄 énoncé examen java uml</div>
+<div class="tree-file">│   ├── 📄 examen methodes conception objet-UML</div>
+<div class="tree-file">│   ├── 📄 examen methodes conception objet-UML</div>
+<div class="tree-file">│   └── 📄 Devoir de session principale L2 ARSIL-UML</div>
+<div class="tree-folder">├── 📁 Cours/</div>
+<div class="tree-file">│   ├── 📄 Cours_UML_Partie3.docx</div>
+<div class="tree-file">│   ├── 📄 conception realisation bases de donnees uml vers sql.pdf</div>
+<div class="tree-file">│   ├── 📄 Cours Diagramme de communication et diagramme de séquence-UML</div>
+<div class="tree-file">│   ├── 📄 Cours UML Diagrammes de composants et de déploiement</div>
+<div class="tree-file">│   ├── 📄 Chapitre 1 Introduction Genie Logiciel-UML</div>
+<div class="tree-file">│   ├── 📄 Cours Analyse et Conception Orientée Objet ISTA Hay Ryad 2011 2012-UML</div>
+<div class="tree-file">│   ├── 📄 Diagramme de Classes TD Analyse UML</div>
+<div class="tree-file">│   ├── 📄 Cours UML Diagramme de cas d'utilisation</div>
+<div class="tree-file">│   ├── 📄 Diagramme objets TD-UML</div>
+<div class="tree-file">│   ├── 📄 Diagramme objets statique ENSA Fès-UML</div>
+<div class="tree-file">│   ├── 📄 Cours UML</div>
+<div class="tree-file">│   ├── 📄 Cours Introduction au génie logiciel-UML</div>
+<div class="tree-file">│   ├── 📄 Cours UML M1 2012 2013</div>
+<div class="tree-file">│   ├── 📄 Présentation cours Mohammad NÉMICHE-UML</div>
+<div class="tree-file">│   ├── 📄 Cours UML Les cas d'utilisation</div>
+<div class="tree-file">│   ├── 📄 Diagramme d'états et transitions-UML</div>
+<div class="tree-file">│   ├── 📄 Cours Diagramme de séquence - UML</div>
+<div class="tree-file">│   ├── 📄 Chapitre 6 - D'UML vers C++</div>
+<div class="tree-file">│   ├── 📄 Cours UML Introduction</div>
+<div class="tree-file">│   ├── 📄 Cours UML Diagramme de cas d'utilisation</div>
+<div class="tree-file">│   ├── 📄 Cours de modelisation et conception UML</div>
+<div class="tree-file">│   ├── 📄 Cours UML Diagramme de séquence</div>
+<div class="tree-file">│   ├── 📄 Cours Diagrammes de cas d'utilisation-UML</div>
+<div class="tree-file">│   ├── 📄 Cours Analyse et Conception Orientée Objet ISTA Hay Ryad 2011 2012-UML</div>
+<div class="tree-file">│   ├── 📄 Cours langage de modélisation UML partie 2</div>
+<div class="tree-file">│   ├── 📄 Cours UML Diagrammes d'interaction</div>
+<div class="tree-file">│   ├── 📄 Cours_UML_Partie3.pdf</div>
+<div class="tree-file">│   ├── 📄 Chp3-DC.pdf</div>
+<div class="tree-file">│   ├── 📄 Cours Introduction UML</div>
+<div class="tree-file">│   ├── 📄 conception systemes uml cours</div>
+<div class="tree-file">│   ├── 📄 Chapitre 2 Analyse et Définition des Besoins.pdf-UML</div>
+<div class="tree-file">│   ├── 📄 Cours UML Introduction historique</div>
+<div class="tree-file">│   └── 📄 Cours UML L2 SIL ARS 2010 2011</div>
+<div class="tree-folder">└── 📁 UML++ TP TD crs/</div>
+<div class="tree-folder">    └── 📁 academiPro/</div>
+<div class="tree-file">        ├── 📄 2014_12_30_td_12.rar</div>
+<div class="tree-file">        ├── 📄 2014_12_30_td_11.rar</div>
+<div class="tree-file">        ├── 📄 2014_12_30_td_10.rar</div>
+<div class="tree-file">        ├── 📄 2014_12_30_td_9.rar</div>
+<div class="tree-file">        ├── 📄 2013_03_05_EXAMEN2010.docx</div>
+<div class="tree-file">        ├── 📄 2013_03_05_ds2010.docx</div>
+<div class="tree-file">        └── 📄 2013_03_05_ds2010 (1).docx</div>
+
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>UML</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">UML</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module UML ?</summary>
+      <p>
+        Le module <strong>UML</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module UML ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>UML</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module UML correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">UML</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>

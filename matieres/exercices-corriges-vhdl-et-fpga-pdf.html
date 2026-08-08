@@ -1,0 +1,1630 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>VHDL et FPGA — Cours PDF, TD & Examens Corrigés pdf</title>
+  <meta name="description" content="Téléchargez le module VHDL et FPGA : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+  <meta name="keywords"    content="VHDL et FPGA, cours VHDL et FPGA pdf, td corrigés VHDL et FPGA, examen corrigé VHDL et FPGA, module VHDL et FPGA université, polycopié VHDL et FPGA, exercices corrigés VHDL et FPGA, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-vhdl-et-fpga-pdf.html" />
+
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="VHDL et FPGA — Cours PDF, TD & Examens Corrigés pdf" />
+  <meta property="og:description" content="Téléchargez le module VHDL et FPGA : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-vhdl-et-fpga-pdf.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="VHDL et FPGA — Cours PDF, TD & Examens Corrigés pdf" />
+  <meta name="twitter:description" content="Téléchargez le module VHDL et FPGA : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-08" />
+  <meta name="google-site-verification" content="MT3aHsC0-1SnLsIUjoHAOb78YW0gkPkLgvSDrkhSTeQ" />
+
+  <script type="text/javascript">
+      (function(c,l,a,r,i,t,y){
+              c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                              y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+                                  })(window, document, "clarity", "script", "xb7gvowmx9");
+                                    </script>
+
+                                     <!-- Google tag (gtag.js) -->
+                                     <script async src="https://www.googletagmanager.com/gtag/js?id=G-G55SJ5C5L0"></script>
+                                     <script>
+                                       window.dataLayer = window.dataLayer || [];
+                                         function gtag(){dataLayer.push(arguments);}
+                                           gtag('js', new Date());
+
+                                             gtag('config', 'G-G55SJ5C5L0');
+                                             </script>
+
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"VHDL et FPGA","item":"https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-vhdl-et-fpga-pdf.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module VHDL et FPGA ?","acceptedAnswer":{"@type":"Answer","text":"Le module VHDL et FPGA contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module VHDL et FPGA ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module VHDL et FPGA correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    h2 { font-size: 1.55rem; font-weight: 700; margin-bottom: 28px; }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>VHDL et FPGA</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>VHDL et FPGA</em><br />
+      Cours, TD et exercices corrigés VHDL et FPGA pdf &amp; Examens avec correction
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>VHDL et FPGA</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.  
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">4</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">11</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">4</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">7</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">VHDL et FPGA</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés VHDL et FPGA</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">VHDL et FPGA</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module VHDL et FPGA">
+<div class="tree-file">├── 📄 Drive module VHDL et FPGA - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 FPGA VHDL/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Chapitre4.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre2.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre1.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre3.pdf</div>
+<div class="tree-file">│   ├── 📄 TP_3.pdf</div>
+<div class="tree-file">│   ├── 📄 TP_2.pdf</div>
+<div class="tree-file">│   ├── 📄 Orhan Gazi - A Tutorial Introduction to VHDL Programming-Springer Singapore (2019).pdf</div>
+<div class="tree-file">│   ├── 📄 Vivado_tutorial.pdf</div>
+<div class="tree-file">│   ├── 📄 ug937-vivado-design-suite-simulation-tutorial.pdf</div>
+<div class="tree-file">│   ├── 📄 TP_1.pdf</div>
+<div class="tree-folder">│   ├── 📁 TP2/</div>
+<div class="tree-file">│   │   ├── 📄 TP2.txt</div>
+<div class="tree-file">│   │   ├── 📄 TP2 3bit.txt</div>
+<div class="tree-file">│   │   ├── 📄 TP2 tb 3bit.txt</div>
+<div class="tree-file">│   │   └── 📄 TP2 tb.txt</div>
+<div class="tree-folder">│   └── 📁 exam FPGA/</div>
+<div class="tree-file">│       ├── 📄 examen_11.1.2015.pdf</div>
+<div class="tree-file">│       ├── 📄 examen_2013.pdf</div>
+<div class="tree-file">│       ├── 📄 152571127445312.pdf</div>
+<div class="tree-file">│       ├── 📄 152571127445743.pdf</div>
+<div class="tree-file">│       ├── 📄 152571137741451.pdf</div>
+<div class="tree-file">│       ├── 📄 15257112744461.pdf</div>
+<div class="tree-file">│       └── 📄 152571127446484.pdf</div>
+<div class="tree-folder">├── 🔗📁 ENA/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 add1bit.rar</div>
+<div class="tree-file">│   ├── 📄 Cor_Ex_final19_20.pdf</div>
+<div class="tree-file">│   ├── 📄 exafinal_M1_2019_20.pdf</div>
+<div class="tree-file">│   ├── 📄 TP3ena.pdf</div>
+<div class="tree-file">│   ├── 📄 TP2ena.pdf</div>
+<div class="tree-file">│   ├── 📄 TP1ena.pdf</div>
+<div class="tree-file">│   ├── 📄 chapitre_5_TD.pdf</div>
+<div class="tree-file">│   ├── 📄 chapitre_4.pdf</div>
+<div class="tree-file">│   ├── 📄 chapitre_3.pdf</div>
+<div class="tree-file">│   ├── 📄 chapitre_2.pdf</div>
+<div class="tree-file">│   └── 📄 chapitre_1.pdf</div>
+<div class="tree-folder">├── 🔗📁 FPGA/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Important résumé</div>
+<div class="tree-file">│   ├── 📄 fpga examen rt.pdf</div>
+<div class="tree-file">│   ├── 📄 Exercices_suppl.docx</div>
+<div class="tree-file">│   ├── 📄 DEVOIR DE MAISON.docx</div>
+<div class="tree-file">│   ├── 📄 TUTORIEL SUR VHDL.pdf</div>
+<div class="tree-file">│   ├── 📄 slice.docx</div>
+<div class="tree-folder">│   ├── 📁 tp/</div>
+<div class="tree-file">│   │   ├── 📄 Correction test ESE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Tutoriel-_SE1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP 4 ESE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP 3 ESE.pdf</div>
+<div class="tree-file">│   │   └── 📄 TP 2.pdf</div>
+<div class="tree-folder">│   ├── 📁 td/</div>
+<div class="tree-file">│   │   ├── 📄 Corrigé</div>
+<div class="tree-file">│   │   ├── 📄 SERIE_1.pdf</div>
+<div class="tree-file">│   │   └── 📄 TD2_2022.pdf</div>
+<div class="tree-folder">│   └── 📁 cours/</div>
+<div class="tree-file">│       ├── 📄 cours3_suite.pdf</div>
+<div class="tree-file">│       ├── 📄 cours3.pdf</div>
+<div class="tree-file">│       ├── 📄 modélisation des circuits numériques.pdf</div>
+<div class="tree-file">│       ├── 📄 Cours1.pdf</div>
+<div class="tree-file">│       └── 📄 Cours_systemes_embarques_2.pdf</div>
+<div class="tree-folder">├── 🔗📁 VHDL &amp; FPGA/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 .DS_Store</div>
+<div class="tree-folder">│   ├── 📁 compte rendu tp/</div>
+<div class="tree-file">│   │   ├── 📄 FPGA-TP5-KORKUTOVIC-ZOUAOUI.docx</div>
+<div class="tree-file">│   │   ├── 📄 FPGA-TP4.docx</div>
+<div class="tree-file">│   │   ├── 📄 FPGA-TP3 (2).docx</div>
+<div class="tree-file">│   │   ├── 📄 FPGA-TP2-ZOUAOUI-KORKUTOVIC.docx</div>
+<div class="tree-folder">│   │   └── 📁 TPs/</div>
+<div class="tree-file">│   │       ├── 📄 Lab 1 - Système de dévellopement Xilinx Nexsys2.docx</div>
+<div class="tree-file">│   │       ├── 📄 Lab 2 -Introduction à VHDL 1.doc</div>
+<div class="tree-file">│   │       └── 📄 Lab 3 - Bascule D et Registres à décalage.docx</div>
+<div class="tree-folder">│   ├── 📁 tp autres/</div>
+<div class="tree-file">│   │   ├── 📄 tp_vhdl_isi.pdf</div>
+<div class="tree-file">│   │   ├── 📄 LO11_TP_2013.pdf</div>
+<div class="tree-file">│   │   ├── 📄 in-ele106_cours_tp.pdf</div>
+<div class="tree-file">│   │   ├── 📄 ele106_cours_tp.pdf</div>
+<div class="tree-file">│   │   ├── 📄 cours-fpga-tayari-vf-1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 vhdl.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP_SIN_2018_2017.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EN325_SEQ_TP.pdf</div>
+<div class="tree-file">│   │   ├── 📄 in-vhdl-intro.pdf</div>
+<div class="tree-file">│   │   ├── 📄 vhdl_tp0.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP1_VHDL.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 16.VHDL.Processus.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP_logique-ERII4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP_EN101.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP5.pdf</div>
+<div class="tree-file">│   │   ├── 📄 cours-vhdl-10-partie6-combinatoire-sequentiel.pdf</div>
+<div class="tree-file">│   │   ├── 📄 tp2_ing_2015.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Sans titre.png</div>
+<div class="tree-file">│   │   ├── 📄 15.VHDL.Introduction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 labo5_2013.pdf</div>
+<div class="tree-file">│   │   ├── 📄 tp1_ing_2015.pdf</div>
+<div class="tree-file">│   │   ├── 📄 INF1500_TD2_HIV11.pdf</div>
+<div class="tree-file">│   │   ├── 📄 introduction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 in-tp1_ing_2015.pdf</div>
+<div class="tree-file">│   │   ├── 📄 7segments_vhdl.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 prtp3/</div>
+<div class="tree-file">│   │   │   ├── 📄 TP-3-FPGA (1).docx</div>
+<div class="tree-file">│   │   │   ├── 📄 TP ISE 1 2 3 V2.1 .pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Programmation_VHD.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 MCENSL1_2011.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 chap5.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 theocircannexeI.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 tp3-D-fpga.docx</div>
+<div class="tree-file">│   │   │   ├── 📄 chap1.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Manip-Seq-Bascule-anti-rebond.i1355.pdf</div>
+<div class="tree-folder">│   │   └── 📁 pr tp2/</div>
+<div class="tree-file">│   │       ├── 📄 1325935.ppt</div>
+<div class="tree-file">│   │       ├── 📄 TD3 VHDL Compteurs et registres — Wikilivres.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Registre a decalage, avec bascule D(VHDL).pdf</div>
+<div class="tree-file">│   │       ├── 📄 prgrm halfadder dataflow.png</div>
+<div class="tree-file">│   │       ├── 📄 prgrm full adder.png</div>
+<div class="tree-file">│   │       ├── 📄 fulladder.png</div>
+<div class="tree-file">│   │       ├── 📄 halfadderdataflow.png</div>
+<div class="tree-file">│   │       ├── 📄 or22.png</div>
+<div class="tree-file">│   │       ├── 📄 Nouveau Document Microsoft Office Word.docx</div>
+<div class="tree-file">│   │       ├── 📄 halfadder.png</div>
+<div class="tree-file">│   │       └── 📄 halfadder on full.png</div>
+<div class="tree-folder">│   ├── 📁 Cours/</div>
+<div class="tree-file">│   │   ├── 📄 VHDL.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Cours_complet_PLD(cours1).pdf</div>
+<div class="tree-file">│   │   ├── 📄 Cours VHDL FPGA 2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 CLP_FPGA(cours1).ppt</div>
+<div class="tree-file">│   │   ├── 📄 2013_SE3_S4_Implementation.pdf</div>
+<div class="tree-file">│   │   ├── 📄 coursvhdl 4éme année.ppt</div>
+<div class="tree-file">│   │   ├── 📄 cours-VHDL.ppt</div>
+<div class="tree-file">│   │   └── 📄 VHDL_FPGA.pdf</div>
+<div class="tree-folder">│   └── 📁 TDs/</div>
+<div class="tree-file">│       ├── 📄 TD-FPGA-exo5serie2jusqu'a%20la%20fin[1].pdf</div>
+<div class="tree-file">│       ├── 📄 TD fpga G1.pdf</div>
+<div class="tree-file">│       ├── 📄 TD13 FPGA.doc</div>
+<div class="tree-file">│       └── 📄 TD11 FPGA (3).doc</div>
+<div class="tree-file">├── 📄 exercices corrigés fpga.pdf</div>
+<div class="tree-folder">├── 🔗📁 FPGA/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 TP/</div>
+<div class="tree-file">│   │   ├── 📄 TP3 FPGA.pdf</div>
+<div class="tree-file">│   │   ├── 📄 ug334 carte spartan  AN.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP N°2 Réseau Logiques Programmables.pdf</div>
+<div class="tree-folder">│   │   └── 📁 HABBI/</div>
+<div class="tree-folder">│   │       └── 📁 FPGA projects/</div>
+<div class="tree-folder">│   │           ├── 📁 UAL/</div>
+<div class="tree-folder">│   │           │   ├── 📁 _xmsgs/</div>
+<div class="tree-folder">│   │           │   └── 📁 iseconfig/</div>
+<div class="tree-folder">│   │           ├── 📁 TP_COMP/</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.bld</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.cmd_log</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.ngc</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.lso</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.bit</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.bgn</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.drc</div>
+<div class="tree-folder">│   │           │   ├── 📁 _ngo/</div>
+<div class="tree-folder">│   │           │   ├── 📁 _xmsgs/</div>
+<div class="tree-folder">│   │           │   ├── 📁 xst/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 work/</div>
+<div class="tree-folder">│   │           │   │   │   └── 📁 sub00/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 projnav.tmp/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 dump.xst/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 comp1.prj/</div>
+<div class="tree-folder">│   │           │   │           └── 📁 ngx/</div>
+<div class="tree-folder">│   │           │   │               ├── 📁 notopt/</div>
+<div class="tree-folder">│   │           │   │               └── 📁 opt/</div>
+<div class="tree-folder">│   │           │   ├── 📁 xlnx_auto_0_xdb/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_2/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 TP_COMP.data/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 wt/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_1/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 TP_COMP.data/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 wt/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_4/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 TP_COMP.data/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 wt/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_3/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 TP_COMP.data/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 wt/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_5/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 TP_COMP.data/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 wt/</div>
+<div class="tree-folder">│   │           │   ├── 📁 iseconfig/</div>
+<div class="tree-folder">│   │           │   └── 📁 ipcore_dir/</div>
+<div class="tree-folder">│   │           ├── 📁 TP_comp1/</div>
+<div class="tree-folder">│   │           │   ├── 📁 xlnx_auto_0_xdb/</div>
+<div class="tree-folder">│   │           │   ├── 📁 _xmsgs/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_1/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 TP_comp1.data/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 wt/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   ├── 📁 xst/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 projnav.tmp/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 dump.xst/</div>
+<div class="tree-folder">│   │           │   │   │   └── 📁 comp1.prj/</div>
+<div class="tree-folder">│   │           │   │   │       └── 📁 ngx/</div>
+<div class="tree-folder">│   │           │   │   │           ├── 📁 opt/</div>
+<div class="tree-folder">│   │           │   │   │           └── 📁 notopt/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 work/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 sub00/</div>
+<div class="tree-folder">│   │           │   ├── 📁 _ngo/</div>
+<div class="tree-folder">│   │           │   ├── 📁 iseconfig/</div>
+<div class="tree-folder">│   │           │   └── 📁 ipcore_dir/</div>
+<div class="tree-folder">│   │           ├── 📁 TP1/</div>
+<div class="tree-file">│   │           │   ├── 📄 TP1.gise</div>
+<div class="tree-file">│   │           │   ├── 📄 UntitledSchematic1.schlog</div>
+<div class="tree-file">│   │           │   ├── 📄 TP1.xise</div>
+<div class="tree-file">│   │           │   ├── 📄 testschema.schlog</div>
+<div class="tree-file">│   │           │   ├── 📄 testschema_summary.html</div>
+<div class="tree-file">│   │           │   ├── 📄 testschema.jhd</div>
+<div class="tree-file">│   │           │   ├── 📄 testschema.sch</div>
+<div class="tree-folder">│   │           │   ├── 📁 _xmsgs/</div>
+<div class="tree-folder">│   │           │   ├── 📁 iseconfig/</div>
+<div class="tree-folder">│   │           │   └── 📁 ipcore_dir/</div>
+<div class="tree-folder">│   │           ├── 📁 testcombi1/</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.gise</div>
+<div class="tree-file">│   │           │   ├── 📄 planAhead_pid4340.debug</div>
+<div class="tree-file">│   │           │   ├── 📄 pa.fromHdl.tcl</div>
+<div class="tree-file">│   │           │   ├── 📄 webtalk.log</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1_envsettings.html</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1_summary.html</div>
+<div class="tree-file">│   │           │   ├── 📄 usage_statistics_webtalk.html</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1_summary.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.bit</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1_bitgen.xwbt</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1_usage.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.bgn</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.drc</div>
+<div class="tree-file">│   │           │   ├── 📄 planAhead_pid11532.debug</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.ut</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.cmd_log</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.twr</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.twx</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1_par.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.par</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1_guide.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.pad</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.xpi</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.unroutes</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1_pad.txt</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1_pad.csv</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.ptwx</div>
+<div class="tree-file">│   │           │   ├── 📄 webtalk_pn.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1_map.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1_map.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1_map.map</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1_map.mrp</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.pcf</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1_map.ngm</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.bld</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1_ngdbuild.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.ngd</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.stx</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.syr</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.ngr</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.ngc</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1_xst.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.lso</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1_vhdl.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.xst</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.vhd</div>
+<div class="tree-file">│   │           │   ├── 📄 planAhead_pid11344.debug</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.ucf</div>
+<div class="tree-file">│   │           │   ├── 📄 planAhead_pid11184.debug</div>
+<div class="tree-file">│   │           │   ├── 📄 testcombi1.xise</div>
+<div class="tree-file">│   │           │   ├── 📄 planAhead_pid6964.debug</div>
+<div class="tree-folder">│   │           │   ├── 📁 _xmsgs/</div>
+<div class="tree-folder">│   │           │   ├── 📁 _ngo/</div>
+<div class="tree-folder">│   │           │   ├── 📁 xst/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 work/</div>
+<div class="tree-folder">│   │           │   │   │   └── 📁 sub00/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 dump.xst/</div>
+<div class="tree-folder">│   │           │   │   │   └── 📁 testcombi1.prj/</div>
+<div class="tree-folder">│   │           │   │   │       └── 📁 ngx/</div>
+<div class="tree-folder">│   │           │   │   │           ├── 📁 notopt/</div>
+<div class="tree-folder">│   │           │   │   │           └── 📁 opt/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 projnav.tmp/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_2/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 testcombi1.data/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 wt/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   ├── 📁 xlnx_auto_0_xdb/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_1/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 testcombi1.data/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 wt/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   ├── 📁 iseconfig/</div>
+<div class="tree-folder">│   │           │   └── 📁 ipcore_dir/</div>
+<div class="tree-folder">│   │           ├── 📁 sub1bit/</div>
+<div class="tree-file">│   │           │   ├── 📄 sub1bit.gise</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits_summary.html</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits_envsettings.html</div>
+<div class="tree-file">│   │           │   ├── 📄 webtalk.log</div>
+<div class="tree-file">│   │           │   ├── 📄 usage_statistics_webtalk.html</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits_bitgen.xwbt</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits_summary.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.bgn</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits_usage.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.bit</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.drc</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.cmd_log</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.ut</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.twx</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.twr</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.par</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits_pad.txt</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits_par.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.unroutes</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.pad</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.xpi</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits_guide.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits_pad.csv</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.ptwx</div>
+<div class="tree-file">│   │           │   ├── 📄 webtalk_pn.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits_map.map</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits_map.mrp</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits_map.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits_map.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits_map.ngm</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.pcf</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.bld</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.ngd</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits_ngdbuild.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.stx</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.ngc</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.syr</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits_xst.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.ngr</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.lso</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits_vhdl.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.xst</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 sub1bit.vhd</div>
+<div class="tree-file">│   │           │   ├── 📄 sub1bit.xise</div>
+<div class="tree-file">│   │           │   ├── 📄 sub1bit_summary.html</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.vhd</div>
+<div class="tree-file">│   │           │   ├── 📄 planAhead_pid12384.debug</div>
+<div class="tree-file">│   │           │   ├── 📄 sub2bits.ucf</div>
+<div class="tree-file">│   │           │   ├── 📄 pa.fromHdl.tcl</div>
+<div class="tree-folder">│   │           │   ├── 📁 _ngo/</div>
+<div class="tree-folder">│   │           │   ├── 📁 _xmsgs/</div>
+<div class="tree-folder">│   │           │   ├── 📁 xst/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 projnav.tmp/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 work/</div>
+<div class="tree-folder">│   │           │   │   │   └── 📁 sub00/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 file graph/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 dump.xst/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 sub2bits.prj/</div>
+<div class="tree-folder">│   │           │   │           └── 📁 ngx/</div>
+<div class="tree-folder">│   │           │   │               ├── 📁 notopt/</div>
+<div class="tree-folder">│   │           │   │               └── 📁 opt/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_1/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_2/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 sub1bit.data/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 wt/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   ├── 📁 xlnx_auto_0_xdb/</div>
+<div class="tree-folder">│   │           │   ├── 📁 iseconfig/</div>
+<div class="tree-folder">│   │           │   └── 📁 ipcore_dir/</div>
+<div class="tree-folder">│   │           ├── 📁 COMP2b/</div>
+<div class="tree-file">│   │           │   ├── 📄 COMP2b.gise</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1_envsettings.html</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1_summary.html</div>
+<div class="tree-file">│   │           │   ├── 📄 COMP2b.xise</div>
+<div class="tree-file">│   │           │   ├── 📄 test.vhd</div>
+<div class="tree-file">│   │           │   ├── 📄 commp2b_summary.html</div>
+<div class="tree-file">│   │           │   ├── 📄 webtalk.log</div>
+<div class="tree-file">│   │           │   ├── 📄 usage_statistics_webtalk.html</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.bit</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1_usage.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.bgn</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1_summary.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1_bitgen.xwbt</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.drc</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.cmd_log</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.ut</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.twr</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.twx</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1_guide.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1_pad.txt</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.xpi</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.unroutes</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1_par.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.par</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.ptwx</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.pad</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1_pad.csv</div>
+<div class="tree-file">│   │           │   ├── 📄 webtalk_pn.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1_map.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1_map.mrp</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1_map.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1_map.map</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.pcf</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1_map.ngm</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.bld</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1_ngdbuild.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.ngd</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.stx</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1_xst.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.syr</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.ngc</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.ngr</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.lso</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1_vhdl.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.xst</div>
+<div class="tree-file">│   │           │   ├── 📄 commp2b.vhd</div>
+<div class="tree-file">│   │           │   ├── 📄 planAhead_pid2424.debug</div>
+<div class="tree-file">│   │           │   ├── 📄 comp1.ucf</div>
+<div class="tree-file">│   │           │   ├── 📄 pa.fromHdl.tcl</div>
+<div class="tree-file">│   │           │   ├── 📄 planAhead_pid11628.debug</div>
+<div class="tree-folder">│   │           │   ├── 📁 _xmsgs/</div>
+<div class="tree-folder">│   │           │   ├── 📁 _ngo/</div>
+<div class="tree-folder">│   │           │   ├── 📁 xlnx_auto_0_xdb/</div>
+<div class="tree-folder">│   │           │   ├── 📁 xst/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 work/</div>
+<div class="tree-folder">│   │           │   │   │   └── 📁 sub00/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 dump.xst/</div>
+<div class="tree-folder">│   │           │   │   │   └── 📁 comp1.prj/</div>
+<div class="tree-folder">│   │           │   │   │       └── 📁 ngx/</div>
+<div class="tree-folder">│   │           │   │   │           ├── 📁 opt/</div>
+<div class="tree-folder">│   │           │   │   │           └── 📁 notopt/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 projnav.tmp/</div>
+<div class="tree-folder">│   │           │   ├── 📁 iseconfig/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_2/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 COMP2b.data/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 wt/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_1/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 COMP2b.data/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 wt/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   └── 📁 ipcore_dir/</div>
+<div class="tree-folder">│   │           ├── 📁 SOUS_1bit/</div>
+<div class="tree-file">│   │           │   ├── 📄 SOUS_1bit.gise</div>
+<div class="tree-file">│   │           │   ├── 📄 SOUS_1bit.xise</div>
+<div class="tree-file">│   │           │   ├── 📄 SOUS_1bit.vhd</div>
+<div class="tree-file">│   │           │   ├── 📄 SOUS_1bit_summary.html</div>
+<div class="tree-folder">│   │           │   ├── 📁 iseconfig/</div>
+<div class="tree-folder">│   │           │   ├── 📁 ipcore_dir/</div>
+<div class="tree-folder">│   │           │   └── 📁 _xmsgs/</div>
+<div class="tree-folder">│   │           ├── 📁 diviseurfreq/</div>
+<div class="tree-file">│   │           │   ├── 📄 diviseurfreq.gise</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s_envsettings.html</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s_summary.html</div>
+<div class="tree-file">│   │           │   ├── 📄 planAhead_pid9444.debug</div>
+<div class="tree-file">│   │           │   ├── 📄 pa.fromHdl.tcl</div>
+<div class="tree-file">│   │           │   ├── 📄 webtalk.log</div>
+<div class="tree-file">│   │           │   ├── 📄 usage_statistics_webtalk.html</div>
+<div class="tree-file">│   │           │   ├── 📄 compteur1s.bgn</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s_summary.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s_bitgen.xwbt</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s_usage.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 compteur1s.bit</div>
+<div class="tree-file">│   │           │   ├── 📄 compteur1s.drc</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.ut</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.cmd_log</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.twr</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.twx</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s_guide.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.unroutes</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s_pad.txt</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s_par.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.ptwx</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s_pad.csv</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.pad</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.par</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.xpi</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 webtalk_pn.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s_map.mrp</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s_map.map</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s_map.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s_map.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s_map.ngm</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.pcf</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s_ngdbuild.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.ngd</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.bld</div>
+<div class="tree-file">│   │           │   ├── 📄 divfreq.ucf</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.stx</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s_xst.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.syr</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.ngc</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.ngr</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s_vhdl.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.lso</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.xst</div>
+<div class="tree-file">│   │           │   ├── 📄 compteur_summary.html</div>
+<div class="tree-file">│   │           │   ├── 📄 BASCULED_summary.html</div>
+<div class="tree-file">│   │           │   ├── 📄 planAhead_pid9804.debug</div>
+<div class="tree-file">│   │           │   ├── 📄 compteur.vhd</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.vhd</div>
+<div class="tree-file">│   │           │   ├── 📄 diviseurfreq.xise</div>
+<div class="tree-file">│   │           │   ├── 📄 divfreq.vhd</div>
+<div class="tree-file">│   │           │   ├── 📄 basculesc.vhd</div>
+<div class="tree-file">│   │           │   ├── 📄 Compteur1s.vhd</div>
+<div class="tree-file">│   │           │   ├── 📄 Diviseur_4bits_summary.html</div>
+<div class="tree-file">│   │           │   ├── 📄 divfreq_bitgen.xwbt</div>
+<div class="tree-file">│   │           │   ├── 📄 divfreq_guide.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 planAhead_pid2768.debug</div>
+<div class="tree-file">│   │           │   ├── 📄 Diviseur_4bits_vhdl.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.vhd.bak</div>
+<div class="tree-folder">│   │           │   ├── 📁 _xmsgs/</div>
+<div class="tree-folder">│   │           │   ├── 📁 _ngo/</div>
+<div class="tree-folder">│   │           │   ├── 📁 xlnx_auto_0_xdb/</div>
+<div class="tree-folder">│   │           │   ├── 📁 iseconfig/</div>
+<div class="tree-folder">│   │           │   ├── 📁 xst/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 work/</div>
+<div class="tree-folder">│   │           │   │   │   └── 📁 sub00/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 dump.xst/</div>
+<div class="tree-folder">│   │           │   │   │   └── 📁 Compteur1s.prj/</div>
+<div class="tree-folder">│   │           │   │   │       └── 📁 ngx/</div>
+<div class="tree-folder">│   │           │   │   │           ├── 📁 opt/</div>
+<div class="tree-folder">│   │           │   │   │           └── 📁 notopt/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 projnav.tmp/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 file graph/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_1/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 diviseurfreq.data/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 wt/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   └── 📁 ipcore_dir/</div>
+<div class="tree-folder">│   │           ├── 📁 Combi1/</div>
+<div class="tree-file">│   │           │   ├── 📄 webtalk.log</div>
+<div class="tree-file">│   │           │   ├── 📄 impact_impact.xwbt</div>
+<div class="tree-file">│   │           │   ├── 📄 webtalk_impact.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 usage_statistics_webtalk.html</div>
+<div class="tree-file">│   │           │   ├── 📄 impact.xsl</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.gise</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.xise</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1_summary.html</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1_envsettings.html</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1_summary.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1_usage.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 combi1.bit</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1_bitgen.xwbt</div>
+<div class="tree-file">│   │           │   ├── 📄 combi1.bgn</div>
+<div class="tree-file">│   │           │   ├── 📄 combi1.drc</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.ut</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.cmd_log</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.twx</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.twr</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1_pad.txt</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.par</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.xpi</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1_par.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1_pad.csv</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1_guide.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.ptwx</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.unroutes</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.pad</div>
+<div class="tree-file">│   │           │   ├── 📄 webtalk_pn.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1_map.map</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1_map.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1_map.mrp</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1_map.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.pcf</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1_map.ngm</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.bld</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.ngd</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1_ngdbuild.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.stx</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.ngc</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.ngr</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1_xst.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.syr</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.lso</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1_vhdl.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.xst</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 planAhead_pid10604.debug</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.ucf</div>
+<div class="tree-file">│   │           │   ├── 📄 pa.fromHdl.tcl</div>
+<div class="tree-file">│   │           │   ├── 📄 Combi1.vhd</div>
+<div class="tree-folder">│   │           │   ├── 📁 _ngo/</div>
+<div class="tree-folder">│   │           │   ├── 📁 _xmsgs/</div>
+<div class="tree-folder">│   │           │   ├── 📁 xst/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 work/</div>
+<div class="tree-folder">│   │           │   │   │   └── 📁 sub00/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 projnav.tmp/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 dump.xst/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 Combi1.prj/</div>
+<div class="tree-folder">│   │           │   │           └── 📁 ngx/</div>
+<div class="tree-folder">│   │           │   │               ├── 📁 opt/</div>
+<div class="tree-folder">│   │           │   │               └── 📁 notopt/</div>
+<div class="tree-folder">│   │           │   ├── 📁 iseconfig/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_1/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 Combi1.data/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 wt/</div>
+<div class="tree-folder">│   │           │   ├── 📁 ipcore_dir/</div>
+<div class="tree-folder">│   │           │   └── 📁 xlnx_auto_0_xdb/</div>
+<div class="tree-folder">│   │           ├── 📁 additionneur2bits/</div>
+<div class="tree-file">│   │           │   ├── 📄 additionneur2bits.gise</div>
+<div class="tree-file">│   │           │   ├── 📄 additionneur2bits.xise</div>
+<div class="tree-file">│   │           │   ├── 📄 AA_summary.html</div>
+<div class="tree-file">│   │           │   ├── 📄 ADD2BITS.vhd</div>
+<div class="tree-file">│   │           │   ├── 📄 AA1_summary.html</div>
+<div class="tree-file">│   │           │   ├── 📄 add1bit.vhd</div>
+<div class="tree-file">│   │           │   ├── 📄 add1bit_summary.html</div>
+<div class="tree-folder">│   │           │   ├── 📁 _xmsgs/</div>
+<div class="tree-folder">│   │           │   ├── 📁 ipcore_dir/</div>
+<div class="tree-folder">│   │           │   └── 📁 iseconfig/</div>
+<div class="tree-folder">│   │           ├── 📁 add_cmplt/</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.gise</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.xise</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt_summary.html</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt_envsettings.html</div>
+<div class="tree-file">│   │           │   ├── 📄 webtalk.log</div>
+<div class="tree-file">│   │           │   ├── 📄 usage_statistics_webtalk.html</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.bgn</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt_usage.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt_summary.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt_bitgen.xwbt</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.bit</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.drc</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.cmd_log</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.ut</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.twx</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.twr</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt_pad.csv</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.pad</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.par</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt_guide.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.xpi</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt_par.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.unroutes</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt_pad.txt</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.ptwx</div>
+<div class="tree-file">│   │           │   ├── 📄 webtalk_pn.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt_map.map</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt_map.mrp</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt_map.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt_map.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.pcf</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt_map.ngm</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.ngd</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.bld</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt_ngdbuild.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 planAhead_pid3336.debug</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.ucf</div>
+<div class="tree-file">│   │           │   ├── 📄 pa.fromHdl.tcl</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.stx</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt_xst.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.syr</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.ngr</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.ngc</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.lso</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt_vhdl.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.xst</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 planAhead_pid2412.debug</div>
+<div class="tree-file">│   │           │   ├── 📄 add_cmplt.vhd</div>
+<div class="tree-folder">│   │           │   ├── 📁 _xmsgs/</div>
+<div class="tree-folder">│   │           │   ├── 📁 _ngo/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_2/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 add_cmplt.data/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 wt/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_1/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 add_cmplt.data/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 wt/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   ├── 📁 ipcore_dir/</div>
+<div class="tree-folder">│   │           │   ├── 📁 xlnx_auto_0_xdb/</div>
+<div class="tree-folder">│   │           │   ├── 📁 xst/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 work/</div>
+<div class="tree-folder">│   │           │   │   │   └── 📁 sub00/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 projnav.tmp/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 dump.xst/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 add_cmplt.prj/</div>
+<div class="tree-folder">│   │           │   │           └── 📁 ngx/</div>
+<div class="tree-folder">│   │           │   │               ├── 📁 opt/</div>
+<div class="tree-folder">│   │           │   │               └── 📁 notopt/</div>
+<div class="tree-folder">│   │           │   └── 📁 iseconfig/</div>
+<div class="tree-folder">│   │           ├── 📁 basculed/</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.gise</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_summary.html</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_envsettings.html</div>
+<div class="tree-file">│   │           │   ├── 📄 webtalk.log</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_usage.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_bitgen.xwbt</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.bgn</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_summary.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 usage_statistics_webtalk.html</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.bit</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.drc</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.cmd_log</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.ut</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.twr</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.twx</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_par.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.par</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_guide.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.pad</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.unroutes</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.ptwx</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_pad.csv</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_pad.txt</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.xpi</div>
+<div class="tree-file">│   │           │   ├── 📄 webtalk_pn.xml</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_map.mrp</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_map.map</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_map.ncd</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_map.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_map.ngm</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.pcf</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.bld</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_ngdbuild.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.ngd</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.ucf</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.xise</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.stx</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.ngc</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.ngr</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_xst.xrpt</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.syr</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.lso</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_vhdl.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.xst</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_map_fpga_editor.out</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_preroute.twr</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_preroute.twx</div>
+<div class="tree-file">│   │           │   ├── 📄 planAhead_pid8048.debug</div>
+<div class="tree-file">│   │           │   ├── 📄 pa.fromHdl.tcl</div>
+<div class="tree-file">│   │           │   ├── 📄 planAhead_pid12192.debug</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_tb_isim_beh.wdb</div>
+<div class="tree-file">│   │           │   ├── 📄 isim.log</div>
+<div class="tree-file">│   │           │   ├── 📄 isim.cmd</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_tb_isim_beh.exe</div>
+<div class="tree-file">│   │           │   ├── 📄 fuse.log</div>
+<div class="tree-file">│   │           │   ├── 📄 fuse.xmsgs</div>
+<div class="tree-file">│   │           │   ├── 📄 fuseRelaunch.cmd</div>
+<div class="tree-file">│   │           │   ├── 📄 xilinxsim.ini</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_tb_beh.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_tb_stx_beh.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed_tb.vhd</div>
+<div class="tree-file">│   │           │   ├── 📄 planAhead_pid9632.debug</div>
+<div class="tree-file">│   │           │   ├── 📄 pepExtractor.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 tb_Bascule_D_isim_beh.exe</div>
+<div class="tree-file">│   │           │   ├── 📄 tb_Bascule_D_stx_beh.prj</div>
+<div class="tree-file">│   │           │   ├── 📄 tb_Bascule_D.vhd</div>
+<div class="tree-file">│   │           │   ├── 📄 .lso</div>
+<div class="tree-file">│   │           │   ├── 📄 basculed.vhd</div>
+<div class="tree-folder">│   │           │   ├── 📁 _xmsgs/</div>
+<div class="tree-folder">│   │           │   ├── 📁 xlnx_auto_0_xdb/</div>
+<div class="tree-folder">│   │           │   ├── 📁 xst/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 projnav.tmp/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 dump.xst/</div>
+<div class="tree-folder">│   │           │   │   │   └── 📁 basculed.prj/</div>
+<div class="tree-folder">│   │           │   │   │       └── 📁 ngx/</div>
+<div class="tree-folder">│   │           │   │   │           ├── 📁 opt/</div>
+<div class="tree-folder">│   │           │   │   │           └── 📁 notopt/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 work/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 sub00/</div>
+<div class="tree-folder">│   │           │   ├── 📁 _ngo/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_3/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 basculed.data/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 wt/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_2/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 basculed.data/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 wt/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   ├── 📁 netgen/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 synthesis/</div>
+<div class="tree-folder">│   │           │   ├── 📁 planAhead_run_1/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 basculed.data/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   │       ├── 📁 wt/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   ├── 📁 isim/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 work/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 temp/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 tb_Bascule_D_isim_beh.exe.sim/</div>
+<div class="tree-folder">│   │           │   │   │   ├── 📁 tmp_save/</div>
+<div class="tree-folder">│   │           │   │   │   └── 📁 work/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 basculed_tb_isim_beh.exe.sim/</div>
+<div class="tree-folder">│   │           │   │   │   ├── 📁 tmp_save/</div>
+<div class="tree-folder">│   │           │   │   │   └── 📁 work/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 precompiled.exe.sim/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 ieee/</div>
+<div class="tree-folder">│   │           │   ├── 📁 iseconfig/</div>
+<div class="tree-folder">│   │           │   └── 📁 ipcore_dir/</div>
+<div class="tree-folder">│   │           ├── 📁 preparation/</div>
+<div class="tree-folder">│   │           │   ├── 📁 ual/</div>
+<div class="tree-file">│   │           │   │   ├── 📄 ual.gise</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL_summary.html</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL_envsettings.html</div>
+<div class="tree-file">│   │           │   │   ├── 📄 webtalk.log</div>
+<div class="tree-file">│   │           │   │   ├── 📄 usage_statistics_webtalk.html</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL_usage.xml</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL_bitgen.xwbt</div>
+<div class="tree-file">│   │           │   │   ├── 📄 ual.bit</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL_summary.xml</div>
+<div class="tree-file">│   │           │   │   ├── 📄 ual.bgn</div>
+<div class="tree-file">│   │           │   │   ├── 📄 ual.drc</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.cmd_log</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.ut</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.twx</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.twr</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL_par.xrpt</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL_pad.csv</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.xpi</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.par</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.ncd</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL_pad.txt</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL_guide.ncd</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.unroutes</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.pad</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.ptwx</div>
+<div class="tree-file">│   │           │   │   ├── 📄 webtalk_pn.xml</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL_map.mrp</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL_map.xrpt</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL_map.map</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.pcf</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL_map.ngm</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL_map.ncd</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.bld</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.ngd</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL_ngdbuild.xrpt</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.stx</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.ngc</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.syr</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL_xst.xrpt</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.ngr</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.lso</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL_vhdl.prj</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.prj</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.xst</div>
+<div class="tree-file">│   │           │   │   ├── 📄 sub1bit.vhd</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.vhd</div>
+<div class="tree-file">│   │           │   │   ├── 📄 planAhead_pid10328.debug</div>
+<div class="tree-file">│   │           │   │   ├── 📄 UAL.ucf</div>
+<div class="tree-file">│   │           │   │   ├── 📄 ual.xise</div>
+<div class="tree-file">│   │           │   │   ├── 📄 pa.fromHdl.tcl</div>
+<div class="tree-file">│   │           │   │   ├── 📄 .lso</div>
+<div class="tree-file">│   │           │   │   ├── 📄 SUB2b.stx</div>
+<div class="tree-file">│   │           │   │   ├── 📄 SUB2b_vhdl.prj</div>
+<div class="tree-file">│   │           │   │   ├── 📄 SUB2b.prj</div>
+<div class="tree-file">│   │           │   │   ├── 📄 SUB2b.xst</div>
+<div class="tree-file">│   │           │   │   ├── 📄 ADD2b.stx</div>
+<div class="tree-file">│   │           │   │   ├── 📄 ADD2b_vhdl.prj</div>
+<div class="tree-file">│   │           │   │   ├── 📄 ADD2b.prj</div>
+<div class="tree-file">│   │           │   │   ├── 📄 ADD2b.xst</div>
+<div class="tree-file">│   │           │   │   ├── 📄 ADD2BITS.vhd</div>
+<div class="tree-file">│   │           │   │   ├── 📄 sub2bits.vhd</div>
+<div class="tree-file">│   │           │   │   ├── 📄 add1bit.vhd</div>
+<div class="tree-file">│   │           │   │   ├── 📄 comp1.vhd</div>
+<div class="tree-file">│   │           │   │   ├── 📄 AA_summary.html</div>
+<div class="tree-file">│   │           │   │   ├── 📄 TP_comp1.vhd</div>
+<div class="tree-file">│   │           │   │   ├── 📄 comp2b.vhd</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 _xmsgs/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 _ngo/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 planAhead_run_2/</div>
+<div class="tree-folder">│   │           │   │   │   └── 📁 ual.data/</div>
+<div class="tree-folder">│   │           │   │   │       ├── 📁 sim_1/</div>
+<div class="tree-folder">│   │           │   │   │       ├── 📁 sources_1/</div>
+<div class="tree-folder">│   │           │   │   │       ├── 📁 wt/</div>
+<div class="tree-folder">│   │           │   │   │       └── 📁 constrs_1/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 xlnx_auto_0_xdb/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 xst/</div>
+<div class="tree-folder">│   │           │   │   │   ├── 📁 work/</div>
+<div class="tree-folder">│   │           │   │   │   │   └── 📁 sub00/</div>
+<div class="tree-folder">│   │           │   │   │   ├── 📁 projnav.tmp/</div>
+<div class="tree-folder">│   │           │   │   │   ├── 📁 file graph/</div>
+<div class="tree-folder">│   │           │   │   │   └── 📁 dump.xst/</div>
+<div class="tree-folder">│   │           │   │   │       └── 📁 UAL.prj/</div>
+<div class="tree-folder">│   │           │   │   │           └── 📁 ngx/</div>
+<div class="tree-folder">│   │           │   │   │               ├── 📁 opt/</div>
+<div class="tree-folder">│   │           │   │   │               └── 📁 notopt/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 planAhead_run_1/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 iseconfig/</div>
+<div class="tree-folder">│   │           │   │   └── 📁 ipcore_dir/</div>
+<div class="tree-folder">│   │           │   └── 📁 add1bit/</div>
+<div class="tree-file">│   │           │       ├── 📄 add1bit.gise</div>
+<div class="tree-file">│   │           │       ├── 📄 add1bit.xise</div>
+<div class="tree-file">│   │           │       ├── 📄 add1bit_summary.html</div>
+<div class="tree-file">│   │           │       ├── 📄 add1bit.stx</div>
+<div class="tree-file">│   │           │       ├── 📄 .lso</div>
+<div class="tree-file">│   │           │       ├── 📄 add1bit_vhdl.prj</div>
+<div class="tree-file">│   │           │       ├── 📄 add1bit.prj</div>
+<div class="tree-file">│   │           │       ├── 📄 add1bit.xst</div>
+<div class="tree-file">│   │           │       ├── 📄 add1bit.vhd</div>
+<div class="tree-folder">│   │           │       ├── 📁 iseconfig/</div>
+<div class="tree-folder">│   │           │       ├── 📁 ipcore_dir/</div>
+<div class="tree-folder">│   │           │       ├── 📁 xst/</div>
+<div class="tree-folder">│   │           │       │   ├── 📁 work/</div>
+<div class="tree-folder">│   │           │       │   │   └── 📁 sub00/</div>
+<div class="tree-folder">│   │           │       │   └── 📁 projnav.tmp/</div>
+<div class="tree-folder">│   │           │       └── 📁 _xmsgs/</div>
+<div class="tree-folder">│   │           └── 📁 Add2bits/</div>
+<div class="tree-file">│   │               ├── 📄 Add2bits.gise</div>
+<div class="tree-file">│   │               ├── 📄 Add2bits_summary.html</div>
+<div class="tree-file">│   │               ├── 📄 Add2bits.xise</div>
+<div class="tree-file">│   │               ├── 📄 planAhead_pid7256.debug</div>
+<div class="tree-file">│   │               ├── 📄 pa.fromHdl.tcl</div>
+<div class="tree-file">│   │               ├── 📄 Add2bits.vhd</div>
+<div class="tree-file">│   │               ├── 📄 add1bit.vhd</div>
+<div class="tree-file">│   │               ├── 📄 add1bit_summary.html</div>
+<div class="tree-file">│   │               ├── 📄 Add2bits.ucf</div>
+<div class="tree-folder">│   │               ├── 📁 _xmsgs/</div>
+<div class="tree-file">│   │               │   └── 📄 pn_parser.xmsgs</div>
+<div class="tree-folder">│   │               ├── 📁 planAhead_run_1/</div>
+<div class="tree-file">│   │               │   ├── 📄 planAhead_run.log</div>
+<div class="tree-file">│   │               │   ├── 📄 planAhead.log</div>
+<div class="tree-file">│   │               │   ├── 📄 planAhead.jou</div>
+<div class="tree-file">│   │               │   ├── 📄 Add2bits.ppr</div>
+<div class="tree-folder">│   │               │   └── 📁 Add2bits.data/</div>
+<div class="tree-folder">│   │               │       ├── 📁 wt/</div>
+<div class="tree-folder">│   │               │       ├── 📁 sources_1/</div>
+<div class="tree-folder">│   │               │       ├── 📁 sim_1/</div>
+<div class="tree-folder">│   │               │       └── 📁 constrs_1/</div>
+<div class="tree-folder">│   │               ├── 📁 iseconfig/</div>
+<div class="tree-file">│   │               │   ├── 📄 Add2bits.projectmgr</div>
+<div class="tree-file">│   │               │   ├── 📄 Add2bits.xreport</div>
+<div class="tree-file">│   │               │   └── 📄 add1bit.xreport</div>
+<div class="tree-folder">│   │               └── 📁 ipcore_dir/</div>
+<div class="tree-folder">│   ├── 📁 EXAMS/</div>
+<div class="tree-file">│   │   └── 📄 preview.bin.PDF</div>
+<div class="tree-folder">│   ├── 📁 COURS/</div>
+<div class="tree-file">│   │   ├── 📄 Réseaux logiques programmable FPGA Partie N°2.pdf</div>
+<div class="tree-file">│   │   └── 📄 Réseaux logiques programmable FPGA Partie N°1.pdf</div>
+<div class="tree-folder">│   └── 📁 Images important/</div>
+<div class="tree-file">│       ├── 📄 Comparateur 1.jpeg</div>
+<div class="tree-file">│       ├── 📄 TP4.jpeg</div>
+<div class="tree-file">│       ├── 📄 Diviseur de frequence.jpeg</div>
+<div class="tree-file">│       ├── 📄 Comparateur 2.jpeg</div>
+<div class="tree-file">│       ├── 📄 Addition 1.jpeg</div>
+<div class="tree-file">│       ├── 📄 Exams.jpeg</div>
+<div class="tree-file">│       ├── 📄 Compteur.jpeg</div>
+<div class="tree-file">│       ├── 📄 Soustracteur 1.jpeg</div>
+<div class="tree-file">│       ├── 📄 WhatsApp Image 2019-11-14 at 20.55.07.jpeg</div>
+<div class="tree-file">│       ├── 📄 Multiplexeur.jpeg</div>
+<div class="tree-file">│       ├── 📄 L_unité arithmetique et logique.jpeg</div>
+<div class="tree-file">│       └── 📄 Bascule D.jpeg</div>
+<div class="tree-file">├── 📄 VHDL-20260201T155507Z-3-001.zip</div>
+<div class="tree-folder">└── 📁 VHDL/</div>
+<div class="tree-file">    ├── 📄 Cours Syntaxe VHDL et Exemples pour la Conception Materielle</div>
+<div class="tree-folder">    ├── 📁 TP/</div>
+<div class="tree-folder">    │   └── 📁 HABBI/</div>
+<div class="tree-folder">    │       └── 📁 VHDL PROJECTS/</div>
+<div class="tree-file">    │           ├── 📄 compteiur.cr.mti</div>
+<div class="tree-file">    │           ├── 📄 compteiur.mpf</div>
+<div class="tree-file">    │           ├── 📄 EX4.vhd</div>
+<div class="tree-file">    │           ├── 📄 wlftjtt26f</div>
+<div class="tree-file">    │           ├── 📄 wlftcn1yaq</div>
+<div class="tree-file">    │           ├── 📄 pgrm.vhd</div>
+<div class="tree-file">    │           ├── 📄 wlft38xhyg</div>
+<div class="tree-file">    │           ├── 📄 pgrm.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 multiplixuer.vhd</div>
+<div class="tree-file">    │           ├── 📄 ex2 exm.vhd</div>
+<div class="tree-file">    │           ├── 📄 multiplixuer.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 ex2 exm.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 wlftmyia03</div>
+<div class="tree-file">    │           ├── 📄 EX2.vhd</div>
+<div class="tree-file">    │           ├── 📄 EX2.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 wlftawc699</div>
+<div class="tree-file">    │           ├── 📄 vsim.wlf</div>
+<div class="tree-file">    │           ├── 📄 cmptr16.vhd</div>
+<div class="tree-file">    │           ├── 📄 cmptr16.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 examen.cr.mti</div>
+<div class="tree-file">    │           ├── 📄 examen.mpf</div>
+<div class="tree-file">    │           ├── 📄 EX1.vhd</div>
+<div class="tree-file">    │           ├── 📄 EX1.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 test1.cr.mti</div>
+<div class="tree-file">    │           ├── 📄 test1.mpf</div>
+<div class="tree-file">    │           ├── 📄 ff.vhd</div>
+<div class="tree-file">    │           ├── 📄 ff.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 multi.cr.mti</div>
+<div class="tree-file">    │           ├── 📄 multi.mpf</div>
+<div class="tree-file">    │           ├── 📄 Mult2b.vhd</div>
+<div class="tree-file">    │           ├── 📄 demiadd.vhd</div>
+<div class="tree-file">    │           ├── 📄 Mult2b.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 demiadd.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 dcclg.cr.mti</div>
+<div class="tree-file">    │           ├── 📄 dcclg.mpf</div>
+<div class="tree-file">    │           ├── 📄 reg.vhd</div>
+<div class="tree-file">    │           ├── 📄 reg.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 bascule_d.vhd</div>
+<div class="tree-file">    │           ├── 📄 bascule_d.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 EX4.cr.mti</div>
+<div class="tree-file">    │           ├── 📄 EX4.mpf</div>
+<div class="tree-file">    │           ├── 📄 codage.vhd</div>
+<div class="tree-file">    │           ├── 📄 codage.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 EX4.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 Serie2.cr.mti</div>
+<div class="tree-file">    │           ├── 📄 Serie2.mpf</div>
+<div class="tree-file">    │           ├── 📄 boucle.vhd</div>
+<div class="tree-file">    │           ├── 📄 boucle.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 add1b.vhd</div>
+<div class="tree-file">    │           ├── 📄 add4b.cr.mti</div>
+<div class="tree-file">    │           ├── 📄 add4b.mpf</div>
+<div class="tree-file">    │           ├── 📄 add4b.vhd</div>
+<div class="tree-file">    │           ├── 📄 add4b.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 add1b.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 package.vhd</div>
+<div class="tree-file">    │           ├── 📄 tpppa.cr.mti</div>
+<div class="tree-file">    │           ├── 📄 tpppa.mpf</div>
+<div class="tree-file">    │           ├── 📄 progprinc.vhd</div>
+<div class="tree-file">    │           ├── 📄 progprinc.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 ml.vhd</div>
+<div class="tree-file">    │           ├── 📄 ml.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 package.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 cmpt4b.cr.mti</div>
+<div class="tree-file">    │           ├── 📄 cmpt4b.mpf</div>
+<div class="tree-file">    │           ├── 📄 CMPT4b.vhd</div>
+<div class="tree-file">    │           ├── 📄 CMPT4b.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 TP2EX2.cr.mti</div>
+<div class="tree-file">    │           ├── 📄 TP2EX2.mpf</div>
+<div class="tree-file">    │           ├── 📄 ex3</div>
+<div class="tree-file">    │           ├── 📄 ex3.bak</div>
+<div class="tree-file">    │           ├── 📄 TP2.cr.mti</div>
+<div class="tree-file">    │           ├── 📄 TP2.mpf</div>
+<div class="tree-file">    │           ├── 📄 comp2.cr.mti</div>
+<div class="tree-file">    │           ├── 📄 comp2.mpf</div>
+<div class="tree-file">    │           ├── 📄 comp.vhd</div>
+<div class="tree-file">    │           ├── 📄 comp.vhd.bak</div>
+<div class="tree-file">    │           ├── 📄 TD.cr.mti</div>
+<div class="tree-file">    │           ├── 📄 TD.mpf</div>
+<div class="tree-file">    │           ├── 📄 TABLEAU.vhd</div>
+<div class="tree-file">    │           ├── 📄 TABLEAU.vhd.bak</div>
+<div class="tree-folder">    │           └── 📁 work/</div>
+<div class="tree-file">    │               ├── 📄 _info</div>
+<div class="tree-file">    │               ├── 📄 _lib1_9.qtl</div>
+<div class="tree-file">    │               ├── 📄 _lib.qdb</div>
+<div class="tree-file">    │               ├── 📄 _vmake</div>
+<div class="tree-file">    │               ├── 📄 _lib1_9.qdb</div>
+<div class="tree-file">    │               ├── 📄 _lib1_9.qpg</div>
+<div class="tree-file">    │               ├── 📄 _opt__lock</div>
+<div class="tree-folder">    │               ├── 📁 _tempmsg/</div>
+<div class="tree-folder">    │               ├── 📁 _temp/</div>
+<div class="tree-folder">    │               ├── 📁 cc/</div>
+<div class="tree-file">    │               │   ├── 📄 _lib3_0.qtl</div>
+<div class="tree-file">    │               │   ├── 📄 _lib2_0.qtl</div>
+<div class="tree-file">    │               │   ├── 📄 _lib.qdb</div>
+<div class="tree-file">    │               │   ├── 📄 _lib1_0.qtl</div>
+<div class="tree-file">    │               │   ├── 📄 _lib4_0.qtl</div>
+<div class="tree-file">    │               │   ├── 📄 _lib3_0.qpg</div>
+<div class="tree-file">    │               │   ├── 📄 _lib4_0.qdb</div>
+<div class="tree-file">    │               │   ├── 📄 _lib1_0.qpg</div>
+<div class="tree-file">    │               │   ├── 📄 _lib3_0.qdb</div>
+<div class="tree-file">    │               │   ├── 📄 _lib2_0.qpg</div>
+<div class="tree-file">    │               │   ├── 📄 _lib2_0.qdb</div>
+<div class="tree-file">    │               │   ├── 📄 _lib4_0.qpg</div>
+<div class="tree-file">    │               │   └── 📄 _lib1_0.qdb</div>
+<div class="tree-folder">    │               ├── 📁 @_opt1/</div>
+<div class="tree-file">    │               │   ├── 📄 _lib2_0.qtl</div>
+<div class="tree-file">    │               │   ├── 📄 _lib5_0.qtl</div>
+<div class="tree-file">    │               │   ├── 📄 _lib4_0.qtl</div>
+<div class="tree-file">    │               │   ├── 📄 _lib1_0.qpg</div>
+<div class="tree-file">    │               │   ├── 📄 _lib1_0.qtl</div>
+<div class="tree-file">    │               │   ├── 📄 _lib1_0.qdb</div>
+<div class="tree-file">    │               │   ├── 📄 _lib3_0.qtl</div>
+<div class="tree-file">    │               │   ├── 📄 _lib4_0.qpg</div>
+<div class="tree-file">    │               │   ├── 📄 _lib5_0.qpg</div>
+<div class="tree-file">    │               │   ├── 📄 _lib2_0.qdb</div>
+<div class="tree-file">    │               │   ├── 📄 _lib3_0.qdb</div>
+<div class="tree-file">    │               │   ├── 📄 _lib5_0.qdb</div>
+<div class="tree-file">    │               │   ├── 📄 _lib.qdb</div>
+<div class="tree-file">    │               │   ├── 📄 _lib4_0.qdb</div>
+<div class="tree-file">    │               │   ├── 📄 _lib3_0.qpg</div>
+<div class="tree-file">    │               │   └── 📄 _lib2_0.qpg</div>
+<div class="tree-folder">    │               ├── 📁 @_opt2/</div>
+<div class="tree-file">    │               │   ├── 📄 _lib5_0.qtl</div>
+<div class="tree-file">    │               │   ├── 📄 _lib1_0.qdb</div>
+<div class="tree-file">    │               │   ├── 📄 _lib.qdb</div>
+<div class="tree-file">    │               │   ├── 📄 _lib2_0.qtl</div>
+<div class="tree-file">    │               │   ├── 📄 _lib2_0.qdb</div>
+<div class="tree-file">    │               │   ├── 📄 _lib4_0.qtl</div>
+<div class="tree-file">    │               │   ├── 📄 _lib3_0.qdb</div>
+<div class="tree-file">    │               │   ├── 📄 _lib5_0.qpg</div>
+<div class="tree-file">    │               │   ├── 📄 _lib5_0.qdb</div>
+<div class="tree-file">    │               │   ├── 📄 _lib3_0.qtl</div>
+<div class="tree-file">    │               │   ├── 📄 _lib4_0.qdb</div>
+<div class="tree-file">    │               │   ├── 📄 _lib1_0.qpg</div>
+<div class="tree-file">    │               │   ├── 📄 _lib4_0.qpg</div>
+<div class="tree-file">    │               │   ├── 📄 _lib1_0.qtl</div>
+<div class="tree-file">    │               │   ├── 📄 _lib2_0.qpg</div>
+<div class="tree-file">    │               │   └── 📄 _lib3_0.qpg</div>
+<div class="tree-folder">    │               └── 📁 @_opt/</div>
+<div class="tree-file">    │                   ├── 📄 _lib2_0.qtl</div>
+<div class="tree-file">    │                   ├── 📄 _lib4_0.qpg</div>
+<div class="tree-file">    │                   ├── 📄 _lib5_0.qtl</div>
+<div class="tree-file">    │                   ├── 📄 _lib2_0.qdb</div>
+<div class="tree-file">    │                   ├── 📄 _lib1_0.qdb</div>
+<div class="tree-file">    │                   ├── 📄 _lib.qdb</div>
+<div class="tree-file">    │                   ├── 📄 _lib6_0.qdb</div>
+<div class="tree-file">    │                   ├── 📄 _lib6_0.qpg</div>
+<div class="tree-file">    │                   ├── 📄 _lib3_0.qtl</div>
+<div class="tree-file">    │                   ├── 📄 _lib5_0.qpg</div>
+<div class="tree-file">    │                   ├── 📄 _lib3_0.qdb</div>
+<div class="tree-file">    │                   ├── 📄 _lib5_0.qdb</div>
+<div class="tree-file">    │                   ├── 📄 _lib4_0.qdb</div>
+<div class="tree-file">    │                   ├── 📄 _lib1_0.qtl</div>
+<div class="tree-file">    │                   ├── 📄 _lib4_0.qtl</div>
+<div class="tree-file">    │                   ├── 📄 _lib6_0.qtl</div>
+<div class="tree-file">    │                   ├── 📄 _lib1_0.qpg</div>
+<div class="tree-file">    │                   ├── 📄 _lib2_0.qpg</div>
+<div class="tree-file">    │                   └── 📄 _lib3_0.qpg</div>
+<div class="tree-folder">    ├── 📁 TD/</div>
+<div class="tree-file">    │   ├── 📄 TD N1 Corrigé VHDL Portes Logiques</div>
+<div class="tree-file">    │   ├── 📄 TD TP VHDL Partie 2 Exercices Diagrammes d'états</div>
+<div class="tree-file">    │   ├── 📄 TD N°1 VHDL Génie Electrique 2A EII Langage de description</div>
+<div class="tree-file">    │   ├── 📄 TD TP Corrigé Exercices VHDL Langage de description VHDL Partie N°2</div>
+<div class="tree-file">    │   ├── 📄 TD N°1 VHDL Génie Electrique 2A EII Langage de description</div>
+<div class="tree-file">    │   ├── 📄 TD TP N3 Langage description VHDL Registre décalage corrigé</div>
+<div class="tree-file">    │   ├── 📄 TD TP VHDL Registres à décalage Partie 3 Exercices</div>
+<div class="tree-file">    │   ├── 📄 TD TP VHDL Partie 2 Exercices Diagrammes d'états</div>
+<div class="tree-file">    │   └── 📄 TP N°1 VHDL Langage de description des circuits numériques</div>
+<div class="tree-folder">    ├── 📁 Cours/</div>
+<div class="tree-file">    │   ├── 📄 Cours Introduction Synthèse logique V.H.D.L. VHDL</div>
+<div class="tree-file">    │   └── 📄 Cours VHDL Implantation PLD FPGA 2ème année DUT</div>
+<div class="tree-folder">    └── 📁 Examens/</div>
+<div class="tree-file">        ├── 📄 Examen VHDL 2012</div>
+<div class="tree-file">        ├── 📄 Examen VHDL EST</div>
+<div class="tree-file">        ├── 📄 20141211_190341.jpg</div>
+<div class="tree-file">        └── 📄 20141211_190333.jpg</div>
+
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>VHDL et FPGA</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">VHDL et FPGA</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module VHDL et FPGA ?</summary>
+      <p>
+        Le module <strong>VHDL et FPGA</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module VHDL et FPGA ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>VHDL et FPGA</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module VHDL et FPGA correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">VHDL et FPGA</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>
