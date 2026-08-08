@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Systèmes Embarqués — Cours PDF, TD & Examens Corrigés pdf</title>
+  <meta name="description" content="Téléchargez le module Systèmes Embarqués : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+  <meta name="keywords"    content="Systèmes Embarqués, cours Systèmes Embarqués pdf, td corrigés Systèmes Embarqués, examen corrigé Systèmes Embarqués, module Systèmes Embarqués université, polycopié Systèmes Embarqués, exercices corrigés Systèmes Embarqués, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-systemes-embarques-pdf.html" />
+
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Systèmes Embarqués — Cours PDF, TD & Examens Corrigés pdf" />
+  <meta property="og:description" content="Téléchargez le module Systèmes Embarqués : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-systemes-embarques-pdf.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Systèmes Embarqués — Cours PDF, TD & Examens Corrigés pdf" />
+  <meta name="twitter:description" content="Téléchargez le module Systèmes Embarqués : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-08" />
+  <meta name="google-site-verification" content="MT3aHsC0-1SnLsIUjoHAOb78YW0gkPkLgvSDrkhSTeQ" />
+
+  <script type="text/javascript">
+      (function(c,l,a,r,i,t,y){
+              c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                              y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+                                  })(window, document, "clarity", "script", "xb7gvowmx9");
+                                    </script>
+
+                                     <!-- Google tag (gtag.js) -->
+                                     <script async src="https://www.googletagmanager.com/gtag/js?id=G-G55SJ5C5L0"></script>
+                                     <script>
+                                       window.dataLayer = window.dataLayer || [];
+                                         function gtag(){dataLayer.push(arguments);}
+                                           gtag('js', new Date());
+
+                                             gtag('config', 'G-G55SJ5C5L0');
+                                             </script>
+
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Systèmes Embarqués","item":"https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-systemes-embarques-pdf.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Systèmes Embarqués ?","acceptedAnswer":{"@type":"Answer","text":"Le module Systèmes Embarqués contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Systèmes Embarqués ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Systèmes Embarqués correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    h2 { font-size: 1.55rem; font-weight: 700; margin-bottom: 28px; }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Systèmes Embarqués</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Systèmes Embarqués</em><br />
+      Cours, TD et exercices corrigés Systèmes Embarqués pdf &amp; Examens avec correction
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Systèmes Embarqués</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.  
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">5</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">6</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">2</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">13</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Systèmes Embarqués</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Systèmes Embarqués</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Systèmes Embarqués</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Systèmes Embarqués">
+<div class="tree-file">├── 📄 Drive module Systèmes Embarqués - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 Examens + solutions/  (raccourci)</div>
+<div class="tree-folder">├── 🔗📁 S.E/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Cours 05 Le CoDesign.pdf</div>
+<div class="tree-file">│   ├── 📄 Cours 04 Méthodologie de conception des systèmes embarqués.pdf</div>
+<div class="tree-file">│   ├── 📄 TD 04 Utilisation d’un capteur analogique sous différents scénarios.pdf</div>
+<div class="tree-file">│   ├── 📄 TD 03 Les sorties analogiques – Utilisation de l’option PWM.pdf</div>
+<div class="tree-file">│   ├── 📄 TD 03 Les sorties analogiques – Utilisation de l’option PWM - corrigé.pdf</div>
+<div class="tree-file">│   ├── 📄 TD 02 Les entrées analogiques – Utilisation de l’ADC - corrigé 2.pdf</div>
+<div class="tree-file">│   ├── 📄 Cours 01 Notions de base et caractéristiques des systèmes embarqués (1).pdf</div>
+<div class="tree-file">│   ├── 📄 Cours 02  Architecture des systèmes embarqués.pdf</div>
+<div class="tree-file">│   ├── 📄 Cours 03 Les entrées sorties numériques et analogiques.pdf</div>
+<div class="tree-file">│   ├── 📄 TD 02 Les entrées analogiques – Utilisation de l’ADC.pdf</div>
+<div class="tree-file">│   ├── 📄 TD TP 01 Les entrées-sorties numériques - corrigé.pdf</div>
+<div class="tree-file">│   └── 📄 TD TP 01 Les entrées-sorties numériques.pdf</div>
+<div class="tree-folder">├── 🔗📁 SE/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 emd/</div>
+<div class="tree-file">│   │   ├── 📄 EMD 2021- corrigé.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EMD 2021.pdf</div>
+<div class="tree-file">│   │   ├── 📄 examen 2018.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EMD- 2019.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EMD- 2019- corrigé.docx</div>
+<div class="tree-file">│   │   └── 📄 examen 2018- corrigé.pdf</div>
+<div class="tree-folder">│   ├── 📁 tp/</div>
+<div class="tree-file">│   │   └── 📄 TP2 SE</div>
+<div class="tree-folder">│   ├── 📁 cours/</div>
+<div class="tree-file">│   │   ├── 📄 chapitre 2- p2-2021.pdf</div>
+<div class="tree-file">│   │   ├── 📄 chapitre 2- p1- 2021.pdf</div>
+<div class="tree-file">│   │   └── 📄 chapitre 1 - 2022.pdf</div>
+<div class="tree-folder">│   └── 📁 TD/</div>
+<div class="tree-file">│       ├── 📄 solution série2-2021.pdf</div>
+<div class="tree-file">│       ├── 📄 Série 2-2022.pdf</div>
+<div class="tree-file">│       └── 📄 Série 1.pdf</div>
+<div class="tree-folder">├── 🔗📁 SE/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Examen-SE-2018_2019.pdf</div>
+<div class="tree-file">│   ├── 📄 free_range_vhdl.pdf</div>
+<div class="tree-folder">│   ├── 📁 COURS/</div>
+<div class="tree-file">│   │   ├── 📄 SOFTCORE COURS.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Présentation Co-Design cours 1[1071].pdf</div>
+<div class="tree-file">│   │   ├── 📄 cours sécurité SE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 conception d'un SE[1070].pdf</div>
+<div class="tree-folder">│   │   └── 📁 2/</div>
+<div class="tree-file">│   │       ├── 📄 zynq_cours_tp_vivado_zc702[944].pdf</div>
+<div class="tree-file">│   │       ├── 📄 Présentation fpga[1069].pdf</div>
+<div class="tree-file">│   │       ├── 📄 Les Processeurs Embarqués dans les FPGA.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Introduction à la Synthèse logique - VHDL.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Introduction aux systémes embarqués[940].pdf</div>
+<div class="tree-file">│   │       └── 📄 Cours_composants-programmables et langage VHDL[951].pdf</div>
+<div class="tree-folder">│   ├── 📁 cours se 2019/</div>
+<div class="tree-file">│   │   ├── 📄 ZYNQ.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SECURITE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 intro.pdf</div>
+<div class="tree-file">│   │   ├── 📄 CONEPTION.pdf</div>
+<div class="tree-file">│   │   ├── 📄 codesigne.pdf</div>
+<div class="tree-file">│   │   ├── 📄 archi.pdf</div>
+<div class="tree-file">│   │   ├── 📄 ~$sumé-SE(3).docx</div>
+<div class="tree-folder">│   │   └── 📁 se/</div>
+<div class="tree-file">│   │       ├── 📄 teraterm-4.100.exe</div>
+<div class="tree-file">│   │       ├── 📄 STM32.docx</div>
+<div class="tree-file">│   │       ├── 📄 Travaux dirigés  N°4 SE.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Travaux dirigés  N°5 SE.pdf</div>
+<div class="tree-file">│   │       ├── 📄 NOTE M2 ESE S3.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Garage intelligent en utilisant une carte RFID.docx</div>
+<div class="tree-file">│   │       ├── 📄 LM335.docx</div>
+<div class="tree-file">│   │       ├── 📄 52601816_316061229256297_7990962533118771200_n.jpg</div>
+<div class="tree-folder">│   │       ├── 📁 projet se/</div>
+<div class="tree-file">│   │       │   ├── 📄 SErvo moteurNuceloavecPotentiometre.txt</div>
+<div class="tree-file">│   │       │   └── 📄 barriere servoMoteur.txt</div>
+<div class="tree-folder">│   │       ├── 📁 coues SE/</div>
+<div class="tree-file">│   │       │   ├── 📄 zynq_cours_tp_vivado_zc702.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 zedboard presentation.pptx</div>
+<div class="tree-file">│   │       │   ├── 📄 Présentation22.pptx</div>
+<div class="tree-file">│   │       │   ├── 📄 Présentation111.pptx</div>
+<div class="tree-file">│   │       │   ├── 📄 Présentation1.pptx</div>
+<div class="tree-file">│   │       │   ├── 📄 Présentation1 ESE.pptx</div>
+<div class="tree-file">│   │       │   ├── 📄 cours SE Introduction.pptx</div>
+<div class="tree-file">│   │       │   ├── 📄 chapitre 5.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 Chapitre 4.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 chapitre 3.pptx</div>
+<div class="tree-file">│   │       │   ├── 📄 chapitre 3.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 chapitre 2.pptx</div>
+<div class="tree-file">│   │       │   ├── 📄 chapitre 2.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 chapitre 1.pdf</div>
+<div class="tree-file">│   │       │   └── 📄 zynq_linux.html</div>
+<div class="tree-folder">│   │       └── 📁 tpse/</div>
+<div class="tree-file">│   │           ├── 📄 TP_2_2.c</div>
+<div class="tree-file">│   │           ├── 📄 TP_2_1.c</div>
+<div class="tree-file">│   │           ├── 📄 TP_2_1-2.c</div>
+<div class="tree-folder">│   │           └── 📁 tpse/</div>
+<div class="tree-file">│   │               ├── 📄 TP1SE.pdf</div>
+<div class="tree-file">│   │               ├── 📄 TP2SE.pdf</div>
+<div class="tree-file">│   │               ├── 📄 TD_4.c</div>
+<div class="tree-folder">│   │               ├── 📁 TD_5/</div>
+<div class="tree-file">│   │               │   ├── 📄 uart_rx_ctl.v</div>
+<div class="tree-file">│   │               │   ├── 📄 uart_rx.v</div>
+<div class="tree-file">│   │               │   ├── 📄 uart_led_timing.xdc</div>
+<div class="tree-file">│   │               │   ├── 📄 uart_led_pins.xdc</div>
+<div class="tree-file">│   │               │   ├── 📄 uart_baud_gen.v</div>
+<div class="tree-file">│   │               │   ├── 📄 uart_led.v</div>
+<div class="tree-file">│   │               │   ├── 📄 tb_uart_rx.v</div>
+<div class="tree-file">│   │               │   ├── 📄 test_uart_rx.v</div>
+<div class="tree-file">│   │               │   ├── 📄 tb_uart_driver.v</div>
+<div class="tree-file">│   │               │   ├── 📄 tb_resp_checker.v</div>
+<div class="tree-file">│   │               │   ├── 📄 tb_resetgen.v</div>
+<div class="tree-file">│   │               │   ├── 📄 tb_fifo.v</div>
+<div class="tree-file">│   │               │   ├── 📄 led_ctl.v</div>
+<div class="tree-file">│   │               │   └── 📄 meta_harden.v</div>
+<div class="tree-folder">│   │               ├── 📁 partie_3/</div>
+<div class="tree-file">│   │               │   ├── 📄 run_hls.tcl</div>
+<div class="tree-file">│   │               │   ├── 📄 matrix_mult_test.cpp</div>
+<div class="tree-file">│   │               │   ├── 📄 vssver2.scc</div>
+<div class="tree-file">│   │               │   ├── 📄 matrix_mult.cpp</div>
+<div class="tree-file">│   │               │   └── 📄 matrix_mult.h</div>
+<div class="tree-folder">│   │               ├── 📁 partie_1/</div>
+<div class="tree-file">│   │               │   ├── 📄 vssver2.scc</div>
+<div class="tree-file">│   │               │   ├── 📄 run_hls.tcl</div>
+<div class="tree-file">│   │               │   ├── 📄 matrix_mult.h</div>
+<div class="tree-file">│   │               │   ├── 📄 matrix_mult_test.cpp</div>
+<div class="tree-file">│   │               │   └── 📄 matrix_mult.cpp</div>
+<div class="tree-folder">│   │               └── 📁 partie_2/</div>
+<div class="tree-file">│   │                   ├── 📄 vssver2.scc</div>
+<div class="tree-file">│   │                   ├── 📄 run_hls.tcl</div>
+<div class="tree-file">│   │                   ├── 📄 matrix_mult_test.cpp</div>
+<div class="tree-file">│   │                   ├── 📄 matrix_mult.h</div>
+<div class="tree-file">│   │                   └── 📄 matrix_mult.cpp</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-folder">│   │   ├── 📁 TD4/</div>
+<div class="tree-file">│   │   │   ├── 📄 TD_4.c</div>
+<div class="tree-file">│   │   │   └── 📄 Travaux dirigés  N°4 SE.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TD3/</div>
+<div class="tree-file">│   │   │   ├── 📄 Travaux dirigés  N°3 SE.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD_3.c</div>
+<div class="tree-file">│   │   │   ├── 📄 zedboard_master_XDC_RevC_D_v3.xdc</div>
+<div class="tree-file">│   │   │   ├── 📄 myip_v1_0_S00_AXI.vhd</div>
+<div class="tree-file">│   │   │   └── 📄 myip_v1_0.vhd</div>
+<div class="tree-folder">│   │   ├── 📁 TD5/</div>
+<div class="tree-file">│   │   │   ├── 📄 Travaux dirigés  N°5 SE.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 TD_5.rar</div>
+<div class="tree-folder">│   │   ├── 📁 TD2/</div>
+<div class="tree-file">│   │   │   ├── 📄 Travaux dirigés  N°2 SE.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 TD_2.c</div>
+<div class="tree-folder">│   │   └── 📁 TD1/</div>
+<div class="tree-file">│   │       └── 📄 TD1 ESE[945].pdf</div>
+<div class="tree-folder">│   ├── 📁 TP/</div>
+<div class="tree-file">│   │   ├── 📄 72466555_1819808191495917_8752160514701787136_o.jpg</div>
+<div class="tree-folder">│   │   ├── 📁 TP1/</div>
+<div class="tree-file">│   │   │   ├── 📄 TP1 ESE M2[943].pdf</div>
+<div class="tree-file">│   │   │   └── 📄 TP1[942].c</div>
+<div class="tree-folder">│   │   ├── 📁 TP2/</div>
+<div class="tree-file">│   │   │   ├── 📄 TP2 SE.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TP_2_1.c</div>
+<div class="tree-file">│   │   │   └── 📄 TP_2_2.c</div>
+<div class="tree-folder">│   │   └── 📁 TP3/</div>
+<div class="tree-file">│   │       ├── 📄 TP3 SE[1058].pdf</div>
+<div class="tree-file">│   │       └── 📄 hls.rar</div>
+<div class="tree-folder">│   └── 📁 projet/</div>
+<div class="tree-file">│       ├── 📄 projet2.docx</div>
+<div class="tree-file">│       ├── 📄 Mini_projet-SE.rar</div>
+<div class="tree-file">│       ├── 📄 projet4.docx</div>
+<div class="tree-folder">│       └── 📁 Mini_projet-SE/</div>
+<div class="tree-file">│           ├── 📄 TP2-Projet-SE.pdf</div>
+<div class="tree-file">│           ├── 📄 Projet1.pdf</div>
+<div class="tree-file">│           ├── 📄 TP4-Projet-SE.pdf</div>
+<div class="tree-file">│           └── 📄 Project3.pdf</div>
+<div class="tree-folder">└── 📁 SE/</div>
+<div class="tree-file">    ├── 📄 Examen-SE-2018_2019.pdf</div>
+<div class="tree-file">    ├── 📄 free_range_vhdl.pdf</div>
+<div class="tree-folder">    ├── 📁 COURS/</div>
+<div class="tree-file">    │   ├── 📄 SOFTCORE COURS.pdf</div>
+<div class="tree-file">    │   ├── 📄 Présentation Co-Design cours 1[1071].pdf</div>
+<div class="tree-file">    │   ├── 📄 cours sécurité SE.pdf</div>
+<div class="tree-file">    │   ├── 📄 conception d_un SE[1070].pdf</div>
+<div class="tree-folder">    │   └── 📁 2/</div>
+<div class="tree-file">    │       ├── 📄 Présentation fpga[1069].pdf</div>
+<div class="tree-file">    │       ├── 📄 Les Processeurs Embarqués dans les FPGA.pdf</div>
+<div class="tree-file">    │       ├── 📄 Introduction à la Synthèse logique - VHDL.pdf</div>
+<div class="tree-file">    │       ├── 📄 Introduction aux systémes embarqués[940].pdf</div>
+<div class="tree-file">    │       └── 📄 Cours_composants-programmables et langage VHDL[951].pdf</div>
+<div class="tree-folder">    ├── 📁 TD/</div>
+<div class="tree-folder">    │   ├── 📁 TD1/</div>
+<div class="tree-file">    │   │   └── 📄 TD1 ESE[945].pdf</div>
+<div class="tree-folder">    │   ├── 📁 TD4/</div>
+<div class="tree-file">    │   │   ├── 📄 TD_4.c</div>
+<div class="tree-file">    │   │   └── 📄 Travaux dirigés  N°4 SE.pdf</div>
+<div class="tree-folder">    │   ├── 📁 TD2/</div>
+<div class="tree-file">    │   │   ├── 📄 Travaux dirigés  N°2 SE.pdf</div>
+<div class="tree-file">    │   │   └── 📄 TD_2.c</div>
+<div class="tree-folder">    │   ├── 📁 TD3/</div>
+<div class="tree-file">    │   │   ├── 📄 Travaux dirigés  N°3 SE.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 TD_3.c</div>
+<div class="tree-file">    │   │   ├── 📄 zedboard_master_XDC_RevC_D_v3.xdc</div>
+<div class="tree-file">    │   │   ├── 📄 myip_v1_0_S00_AXI.vhd</div>
+<div class="tree-file">    │   │   └── 📄 myip_v1_0.vhd</div>
+<div class="tree-folder">    │   └── 📁 TD5/</div>
+<div class="tree-file">    │       ├── 📄 Travaux dirigés  N°5 SE.pdf</div>
+<div class="tree-file">    │       └── 📄 TD_5.rar</div>
+<div class="tree-folder">    ├── 📁 TP/</div>
+<div class="tree-file">    │   ├── 📄 72466555_1819808191495917_8752160514701787136_o.jpg</div>
+<div class="tree-folder">    │   ├── 📁 TP1/</div>
+<div class="tree-file">    │   │   ├── 📄 TP1 ESE M2[943].pdf</div>
+<div class="tree-file">    │   │   └── 📄 TP1[942].c</div>
+<div class="tree-folder">    │   ├── 📁 TP2/</div>
+<div class="tree-file">    │   │   ├── 📄 TP2 SE.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 TP_2_1.c</div>
+<div class="tree-file">    │   │   └── 📄 TP_2_2.c</div>
+<div class="tree-folder">    │   └── 📁 TP3/</div>
+<div class="tree-file">    │       ├── 📄 TP3 SE[1058].pdf</div>
+<div class="tree-file">    │       └── 📄 hls.rar</div>
+<div class="tree-folder">    ├── 📁 projet/</div>
+<div class="tree-file">    │   ├── 📄 projet2.docx</div>
+<div class="tree-file">    │   ├── 📄 Mini_projet-SE.rar</div>
+<div class="tree-file">    │   ├── 📄 projet4.docx</div>
+<div class="tree-folder">    │   └── 📁 Mini_projet-SE/</div>
+<div class="tree-file">    │       ├── 📄 TP2-Projet-SE.pdf</div>
+<div class="tree-file">    │       ├── 📄 Projet1.pdf</div>
+<div class="tree-file">    │       ├── 📄 TP4-Projet-SE.pdf</div>
+<div class="tree-file">    │       └── 📄 Project3.pdf</div>
+<div class="tree-folder">    └── 📁 cours se 2019/</div>
+<div class="tree-file">        ├── 📄 ZYNQ.pdf</div>
+<div class="tree-file">        ├── 📄 SECURITE.pdf</div>
+<div class="tree-file">        ├── 📄 intro.pdf</div>
+<div class="tree-file">        ├── 📄 CONEPTION.pdf</div>
+<div class="tree-file">        ├── 📄 codesigne.pdf</div>
+<div class="tree-file">        ├── 📄 archi.pdf</div>
+<div class="tree-folder">        └── 📁 se/</div>
+<div class="tree-file">            ├── 📄 STM32.docx</div>
+<div class="tree-file">            ├── 📄 Travaux dirigés  N°4 SE.pdf</div>
+<div class="tree-file">            ├── 📄 Travaux dirigés  N°5 SE.pdf</div>
+<div class="tree-file">            ├── 📄 NOTE M2 ESE S3.pdf</div>
+<div class="tree-file">            ├── 📄 Garage intelligent en utilisant une carte RFID.docx</div>
+<div class="tree-file">            ├── 📄 LM335.docx</div>
+<div class="tree-file">            ├── 📄 52601816_316061229256297_7990962533118771200_n.jpg</div>
+<div class="tree-folder">            ├── 📁 coues SE/</div>
+<div class="tree-file">            │   ├── 📄 chapitre 5.pdf</div>
+<div class="tree-file">            │   ├── 📄 Chapitre 4.pdf</div>
+<div class="tree-file">            │   ├── 📄 chapitre 3.pdf</div>
+<div class="tree-file">            │   ├── 📄 chapitre 2.pdf</div>
+<div class="tree-file">            │   └── 📄 chapitre 1.pdf</div>
+<div class="tree-folder">            ├── 📁 projet se/</div>
+<div class="tree-file">            │   ├── 📄 SErvo moteurNuceloavecPotentiometre.txt</div>
+<div class="tree-file">            │   └── 📄 barriere servoMoteur.txt</div>
+<div class="tree-folder">            └── 📁 tpse/</div>
+<div class="tree-file">                ├── 📄 TP_2_2.c</div>
+<div class="tree-file">                ├── 📄 TP_2_1.c</div>
+<div class="tree-file">                ├── 📄 TP_2_1-2.c</div>
+<div class="tree-folder">                └── 📁 tpse/</div>
+<div class="tree-file">                    ├── 📄 TP1SE.pdf</div>
+<div class="tree-file">                    ├── 📄 TP2SE.pdf</div>
+<div class="tree-file">                    ├── 📄 TD_4.c</div>
+<div class="tree-folder">                    ├── 📁 partie_1/</div>
+<div class="tree-file">                    │   ├── 📄 vssver2.scc</div>
+<div class="tree-file">                    │   ├── 📄 run_hls.tcl</div>
+<div class="tree-file">                    │   ├── 📄 matrix_mult.h</div>
+<div class="tree-file">                    │   ├── 📄 matrix_mult.cpp</div>
+<div class="tree-file">                    │   └── 📄 matrix_mult_test.cpp</div>
+<div class="tree-folder">                    ├── 📁 partie_2/</div>
+<div class="tree-file">                    │   ├── 📄 vssver2.scc</div>
+<div class="tree-file">                    │   ├── 📄 run_hls.tcl</div>
+<div class="tree-file">                    │   ├── 📄 matrix_mult_test.cpp</div>
+<div class="tree-file">                    │   ├── 📄 matrix_mult.cpp</div>
+<div class="tree-file">                    │   └── 📄 matrix_mult.h</div>
+<div class="tree-folder">                    ├── 📁 partie_3/</div>
+<div class="tree-file">                    │   ├── 📄 run_hls.tcl</div>
+<div class="tree-file">                    │   ├── 📄 vssver2.scc</div>
+<div class="tree-file">                    │   ├── 📄 matrix_mult_test.cpp</div>
+<div class="tree-file">                    │   ├── 📄 matrix_mult.cpp</div>
+<div class="tree-file">                    │   └── 📄 matrix_mult.h</div>
+<div class="tree-folder">                    └── 📁 TD_5/</div>
+<div class="tree-file">                        ├── 📄 uart_rx_ctl.v</div>
+<div class="tree-file">                        ├── 📄 uart_rx.v</div>
+<div class="tree-file">                        ├── 📄 uart_led_timing.xdc</div>
+<div class="tree-file">                        ├── 📄 uart_led_pins.xdc</div>
+<div class="tree-file">                        ├── 📄 uart_led.v</div>
+<div class="tree-file">                        ├── 📄 uart_baud_gen.v</div>
+<div class="tree-file">                        ├── 📄 tb_uart_rx.v</div>
+<div class="tree-file">                        ├── 📄 test_uart_rx.v</div>
+<div class="tree-file">                        ├── 📄 tb_uart_driver.v</div>
+<div class="tree-file">                        ├── 📄 tb_resp_checker.v</div>
+<div class="tree-file">                        ├── 📄 tb_resetgen.v</div>
+<div class="tree-file">                        ├── 📄 tb_fifo.v</div>
+<div class="tree-file">                        ├── 📄 led_ctl.v</div>
+<div class="tree-file">                        └── 📄 meta_harden.v</div>
+
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Systèmes Embarqués</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Systèmes Embarqués</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Systèmes Embarqués ?</summary>
+      <p>
+        Le module <strong>Systèmes Embarqués</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Systèmes Embarqués ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Systèmes Embarqués</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Systèmes Embarqués correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Systèmes Embarqués</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>
