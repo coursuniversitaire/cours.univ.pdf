@@ -1,0 +1,1111 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Méthodes numériques — Cours PDF, TD & Examens Corrigés pdf</title>
+  <meta name="description" content="Téléchargez le module Méthodes numériques : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+  <meta name="keywords"    content="Méthodes numériques, cours Méthodes numériques pdf, td corrigés Méthodes numériques, examen corrigé Méthodes numériques, module Méthodes numériques université, polycopié Méthodes numériques, exercices corrigés Méthodes numériques, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-methodes-numeriques-pdf.html" />
+
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Méthodes numériques — Cours PDF, TD & Examens Corrigés pdf" />
+  <meta property="og:description" content="Téléchargez le module Méthodes numériques : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-methodes-numeriques-pdf.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Méthodes numériques — Cours PDF, TD & Examens Corrigés pdf" />
+  <meta name="twitter:description" content="Téléchargez le module Méthodes numériques : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-07" />
+  <meta name="google-site-verification" content="MT3aHsC0-1SnLsIUjoHAOb78YW0gkPkLgvSDrkhSTeQ" />
+
+  <script type="text/javascript">
+      (function(c,l,a,r,i,t,y){
+              c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                              y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+                                  })(window, document, "clarity", "script", "xb7gvowmx9");
+                                    </script>
+
+                                     <!-- Google tag (gtag.js) -->
+                                     <script async src="https://www.googletagmanager.com/gtag/js?id=G-G55SJ5C5L0"></script>
+                                     <script>
+                                       window.dataLayer = window.dataLayer || [];
+                                         function gtag(){dataLayer.push(arguments);}
+                                           gtag('js', new Date());
+
+                                             gtag('config', 'G-G55SJ5C5L0');
+                                             </script>
+
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Méthodes numériques","item":"https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-methodes-numeriques-pdf.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Méthodes numériques ?","acceptedAnswer":{"@type":"Answer","text":"Le module Méthodes numériques contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Méthodes numériques ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Méthodes numériques correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    h2 { font-size: 1.55rem; font-weight: 700; margin-bottom: 28px; }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Méthodes numériques</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Méthodes numériques</em><br />
+      Cours, TD et exercices corrigés Méthodes numériques pdf &amp; Examens avec correction
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Méthodes numériques</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.  
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">1</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Méthodes numériques</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Méthodes numériques</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Méthodes numériques</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Méthodes numériques">
+<div class="tree-folder">├── 🔗📁 Méthodes Numériques/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 TP methodes num.rar</div>
+<div class="tree-folder">│   ├── 📁 Cours/</div>
+<div class="tree-file">│   │   ├── 📄 methode nemerique.pdf</div>
+<div class="tree-file">│   │   ├── 📄 كتاب التحليل العددي.pdf</div>
+<div class="tree-file">│   │   ├── 📄 المحددات والمصفوفات.pdf</div>
+<div class="tree-file">│   │   ├── 📄 التحليل العددي.PDF</div>
+<div class="tree-file">│   │   ├── 📄 SCFCAnalyse2.pdf</div>
+<div class="tree-file">│   │   └── 📄 maht 6.PDF</div>
+<div class="tree-folder">│   ├── 📁 TP methodes num/</div>
+<div class="tree-file">│   │   ├── 📄 TP N6.doc</div>
+<div class="tree-file">│   │   ├── 📄 tous les tp de l'informatique  (method numirique.doc</div>
+<div class="tree-folder">│   │   ├── 📁 TP 4_approx_lin_poly/</div>
+<div class="tree-folder">│   │   │   ├── 📁 Meth_Appr_Ligne/</div>
+<div class="tree-file">│   │   │   │   ├── 📄 TP4.docx</div>
+<div class="tree-file">│   │   │   │   └── 📄 MethApprLigne.m</div>
+<div class="tree-folder">│   │   │   └── 📁 Meth_Appr_Poly/</div>
+<div class="tree-file">│   │   │       ├── 📄 Devoir de TP 4.docx</div>
+<div class="tree-file">│   │   │       └── 📄 MethApprPoly.m</div>
+<div class="tree-folder">│   │   ├── 📁 TP 2_Lgrange_Newton/</div>
+<div class="tree-folder">│   │   │   ├── 📁 interpolation de Lgrange/</div>
+<div class="tree-file">│   │   │   │   ├── 📄 TP 2.docx</div>
+<div class="tree-file">│   │   │   │   └── 📄 MethLag.m</div>
+<div class="tree-folder">│   │   │   └── 📁 interpolation de Newton/</div>
+<div class="tree-file">│   │   │       ├── 📄 Devoir Tp 2 Photo.docx</div>
+<div class="tree-file">│   │   │       ├── 📄 Devoir TP2 2017.docx</div>
+<div class="tree-file">│   │   │       ├── 📄 G4.m</div>
+<div class="tree-file">│   │   │       └── 📄 Devoir de TP 2.docx</div>
+<div class="tree-folder">│   │   ├── 📁 TP 5_trapez_simpson/</div>
+<div class="tree-folder">│   │   │   ├── 📁 MethSimp/</div>
+<div class="tree-file">│   │   │   │   ├── 📄 Devoir de TP 5.docx</div>
+<div class="tree-file">│   │   │   │   ├── 📄 MethSimp.m</div>
+<div class="tree-file">│   │   │   │   └── 📄 f2.m</div>
+<div class="tree-folder">│   │   │   └── 📁 MethTrap/</div>
+<div class="tree-file">│   │   │       ├── 📄 TP 5.docx</div>
+<div class="tree-file">│   │   │       ├── 📄 MethTrap.m</div>
+<div class="tree-file">│   │   │       └── 📄 f1.m</div>
+<div class="tree-folder">│   │   ├── 📁 TP 1_Bisection_Newton/</div>
+<div class="tree-folder">│   │   │   ├── 📁 bisect/</div>
+<div class="tree-file">│   │   │   │   ├── 📄 TP 1.docx</div>
+<div class="tree-file">│   │   │   │   ├── 📄 f.m</div>
+<div class="tree-file">│   │   │   │   └── 📄 bisect.m</div>
+<div class="tree-folder">│   │   │   └── 📁 Newton/</div>
+<div class="tree-file">│   │   │       ├── 📄 Devoir TP1 Photo.docx</div>
+<div class="tree-file">│   │   │       └── 📄 Devoir de TP 1.docx</div>
+<div class="tree-folder">│   │   ├── 📁 TP 3_ Jacobi_LU/</div>
+<div class="tree-folder">│   │   │   ├── 📁 mjacobi/</div>
+<div class="tree-file">│   │   │   │   ├── 📄 TP 3.docx</div>
+<div class="tree-file">│   │   │   │   └── 📄 MethJacobi.m</div>
+<div class="tree-folder">│   │   │   └── 📁 LU/</div>
+<div class="tree-file">│   │   │       ├── 📄 Devoir TP3 Photo.docx</div>
+<div class="tree-file">│   │   │       ├── 📄 G42.m</div>
+<div class="tree-file">│   │   │       ├── 📄 G3.m</div>
+<div class="tree-file">│   │   │       ├── 📄 Devoir TP3 2017.docx</div>
+<div class="tree-file">│   │   │       └── 📄 Devoir de TP 3.docx</div>
+<div class="tree-folder">│   │   ├── 📁 autre/</div>
+<div class="tree-file">│   │   │   ├── 📄 A.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 The Newton  method.doc</div>
+<div class="tree-file">│   │   │   ├── 📄 Nouveau Microsoft Office Word Document.docx</div>
+<div class="tree-file">│   │   │   ├── 📄 Nouveau Microsoft Office Word Document (3).docx</div>
+<div class="tree-file">│   │   │   ├── 📄 La mèthodes de runge kutta.docx</div>
+<div class="tree-file">│   │   │   ├── 📄 Nouveau Microsoft Office Word Document (2).docx</div>
+<div class="tree-file">│   │   │   ├── 📄 Les outre méthode.docx</div>
+<div class="tree-file">│   │   │   ├── 📄 A copy.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 11.docx</div>
+<div class="tree-folder">│   │   └── 📁 TP 6_Euler_RK4/</div>
+<div class="tree-folder">│   │       ├── 📁 MethRK4/</div>
+<div class="tree-file">│   │       │   ├── 📄 MethRK4.m</div>
+<div class="tree-file">│   │       │   ├── 📄 fnc2.m</div>
+<div class="tree-file">│   │       │   └── 📄 Devoir TP 6.docx</div>
+<div class="tree-folder">│   │       └── 📁 Euler/</div>
+<div class="tree-file">│   │           ├── 📄 TP 6.docx</div>
+<div class="tree-file">│   │           ├── 📄 MethEuler.m</div>
+<div class="tree-file">│   │           └── 📄 fnc1.m</div>
+<div class="tree-folder">│   ├── 📁 Examens/</div>
+<div class="tree-folder">│   │   ├── 📁 Lagh2012 Et 2013/</div>
+<div class="tree-file">│   │   │   ├── 📄 7CorrigeExamenTDSTMethNum2011-2012.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 6ExamenTDSTMethNum2011-2012.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 5CorrigeExamenSTMethNum2011-2012.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 3ExamenSTMethNum2011-2012.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 2CorrectionEMDSTMethNum2013.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 1ExamenSTMethNum2013.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Lagh2015/</div>
+<div class="tree-file">│   │   │   ├── 📄 7.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 6.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 5.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 4.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 3.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">│   │   │   └── 📄 1.jpg</div>
+<div class="tree-folder">│   │   └── 📁 Lagh2017/</div>
+<div class="tree-file">│   │       ├── 📄 Examen Méthodes Num 2017.pdf</div>
+<div class="tree-file">│   │       ├── 📄 1.jpg</div>
+<div class="tree-file">│   │       ├── 📄 4.jpg</div>
+<div class="tree-file">│   │       ├── 📄 3.jpg</div>
+<div class="tree-file">│   │       └── 📄 2.jpg</div>
+<div class="tree-folder">│   └── 📁 TD/</div>
+<div class="tree-file">│       ├── 📄 TD Méthod num Lagh 2017.rar</div>
+<div class="tree-file">│       ├── 📄 TD Lagh 2017.rar</div>
+<div class="tree-file">│       ├── 📄 Mthodes_Numriques_Partie2_TD.pdf</div>
+<div class="tree-folder">│       └── 📁 TD Lagh 2017/</div>
+<div class="tree-file">│           ├── 📄 Image (8).jpg</div>
+<div class="tree-file">│           ├── 📄 Image (6).jpg</div>
+<div class="tree-file">│           ├── 📄 Image (4).jpg</div>
+<div class="tree-file">│           ├── 📄 Image (2).jpg</div>
+<div class="tree-file">│           ├── 📄 Image (16).jpg</div>
+<div class="tree-file">│           ├── 📄 Image (14).jpg</div>
+<div class="tree-file">│           ├── 📄 Image (12).jpg</div>
+<div class="tree-file">│           ├── 📄 Image (10).jpg</div>
+<div class="tree-file">│           ├── 📄 Image (9).jpg</div>
+<div class="tree-file">│           ├── 📄 Image (7).jpg</div>
+<div class="tree-file">│           ├── 📄 Image (5).jpg</div>
+<div class="tree-file">│           ├── 📄 Image (3).jpg</div>
+<div class="tree-file">│           ├── 📄 Image (17).jpg</div>
+<div class="tree-file">│           ├── 📄 Image (15).jpg</div>
+<div class="tree-file">│           ├── 📄 Image (13).jpg</div>
+<div class="tree-file">│           ├── 📄 Image (1).jpg</div>
+<div class="tree-file">│           ├── 📄 Image (11).jpg</div>
+<div class="tree-folder">│           └── 📁 Les séries/</div>
+<div class="tree-file">│               ├── 📄 6.jpg</div>
+<div class="tree-file">│               ├── 📄 5.jpg</div>
+<div class="tree-file">│               ├── 📄 4.jpg</div>
+<div class="tree-file">│               ├── 📄 1.jpg</div>
+<div class="tree-file">│               ├── 📄 3.jpg</div>
+<div class="tree-file">│               └── 📄 2.jpg</div>
+<div class="tree-file">├── 📄 Drive module Méthode numérique - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 03_MNA/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 TPs/</div>
+<div class="tree-file">│   │   ├── 📄 TP mna.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Tp-20240508T142844Z-001.zip</div>
+<div class="tree-folder">│   │   ├── 📁 3/</div>
+<div class="tree-file">│   │   │   ├── 📄 RK4.m</div>
+<div class="tree-file">│   │   │   ├── 📄 Euler.m</div>
+<div class="tree-file">│   │   │   ├── 📄 4.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 3.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 1.jpg</div>
+<div class="tree-file">│   │   │   └── 📄 TP_N3_MN.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 2/</div>
+<div class="tree-file">│   │   │   ├── 📄 Lagrange.m</div>
+<div class="tree-file">│   │   │   ├── 📄 Moindres_carres.m</div>
+<div class="tree-file">│   │   │   ├── 📄 Preparation_2.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 Preparation_1.jpg</div>
+<div class="tree-file">│   │   │   └── 📄 TP_N2_MN.pdf</div>
+<div class="tree-folder">│   │   └── 📁 1/</div>
+<div class="tree-file">│   │       ├── 📄 Dichotomie.m</div>
+<div class="tree-file">│   │       ├── 📄 Newton.m</div>
+<div class="tree-file">│   │       ├── 📄 Point_fixe.m</div>
+<div class="tree-file">│   │       └── 📄 TP_N1_MN.pdf</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-folder">│   │   ├── 📁 TD_5/</div>
+<div class="tree-file">│   │   │   ├── 📄 Resume+Solution_serie5.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 serie5_Les matrices.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TD_3/</div>
+<div class="tree-file">│   │   │   ├── 📄 Résumé+Solution_serie3.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Serie_de_TD_N3.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Resume_3.jpg</div>
+<div class="tree-folder">│   │   ├── 📁 TD_2/</div>
+<div class="tree-file">│   │   │   ├── 📄 Résumé+Solution_serie2 (1).pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Resume_2.jpg</div>
+<div class="tree-file">│   │   │   └── 📄 Serie_de_MNA_2.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TD_4/</div>
+<div class="tree-file">│   │   │   ├── 📄 Résumé+Solution_serie4.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 1.png</div>
+<div class="tree-folder">│   │   └── 📁 TD_1/</div>
+<div class="tree-file">│   │       ├── 📄 Résumé+Solution_serie1.pdf</div>
+<div class="tree-file">│   │       └── 📄 Serie_de_MNA_1.pdf</div>
+<div class="tree-folder">│   ├── 📁 Revison_Final/</div>
+<div class="tree-file">│   │   ├── 📄 examen_5.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 4/</div>
+<div class="tree-file">│   │   │   ├── 📄 examens4_2021.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 corrige_examens4_2021.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 3/</div>
+<div class="tree-file">│   │   │   └── 📄 examen_3.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 2/</div>
+<div class="tree-file">│   │   │   └── 📄 examen_2.pdf</div>
+<div class="tree-folder">│   │   └── 📁 1/</div>
+<div class="tree-file">│   │       ├── 📄 4.jpg</div>
+<div class="tree-file">│   │       ├── 📄 3.jpg</div>
+<div class="tree-file">│   │       ├── 📄 2.jpg</div>
+<div class="tree-file">│   │       └── 📄 1.jpg</div>
+<div class="tree-folder">│   └── 📁 2022-2023/</div>
+<div class="tree-file">│       ├── 📄 Cours_Methodes_Numeriques_Benchikh-Lehocine-Iftikhar.pdf</div>
+<div class="tree-file">│       ├── 📄 td_mna_toutes_les_series_corriges_methodes_numeriques_appliques.pdf</div>
+<div class="tree-folder">│       ├── 📁 Ch_4/</div>
+<div class="tree-file">│       │   └── 📄 CH6_Chap6-EquationDifferentiellesSmall.pdf</div>
+<div class="tree-folder">│       ├── 📁 Ch_5/</div>
+<div class="tree-file">│       │   ├── 📄 CH8_Iterative-Methods-Matrix-forms-course-examples.pdf</div>
+<div class="tree-file">│       │   ├── 📄 CH8_chap8-Systemes-Lineaires-Methodes-Iteratives.pdf</div>
+<div class="tree-file">│       │   ├── 📄 CH7_Scaling-in-Gauss-Elimination.pdf</div>
+<div class="tree-file">│       │   ├── 📄 CH7_Determinant-and-Inverse-Matrix.pdf</div>
+<div class="tree-file">│       │   └── 📄 CH7_chap7-Systemes-Lineaires-Methodes-directesSmall.pdf</div>
+<div class="tree-folder">│       ├── 📁 Ch_2/</div>
+<div class="tree-file">│       │   ├── 📄 corrige-td3.pdf</div>
+<div class="tree-file">│       │   ├── 📄 td3.pdf</div>
+<div class="tree-file">│       │   ├── 📄 chap2_interpolation polynomial.pdf</div>
+<div class="tree-file">│       │   └── 📄 CH3_Runge-Function.pdf</div>
+<div class="tree-folder">│       ├── 📁 Ch_3/</div>
+<div class="tree-file">│       │   ├── 📄 td3.pdf</div>
+<div class="tree-file">│       │   └── 📄 Chap3-Integration.pdf</div>
+<div class="tree-folder">│       └── 📁 Ch_1/</div>
+<div class="tree-file">│           ├── 📄 CH2_When-can-Methods-Fail.pdf</div>
+<div class="tree-file">│           ├── 📄 CH2_Nonlinear-equations-lecture-examples.pdf</div>
+<div class="tree-file">│           └── 📄 CH2_Chap2NonLinearEquations-small.pdf</div>
+<div class="tree-folder">├── 🔗📁 4_Méthodes numériques -20260619T201145Z-3-001.zip/  (raccourci)</div>
+<div class="tree-folder">├── 🔗📁 4_Méthodes numériques /  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Video fanny/</div>
+<div class="tree-file">│   │   └── 📄 Méthodes numériques.docx</div>
+<div class="tree-folder">│   ├── 📁 4_Tp méthodes numérique /</div>
+<div class="tree-file">│   │   ├── 📄 WORK_1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 WORK_2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 WORK_4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 WORK_3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Sol Work 3 Lagrange’s Interpolation Method.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Sol Work 4 simspon + Trapeze.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Sol Work 1 The Bissection + Newton-raphson.pdf</div>
+<div class="tree-file">│   │   └── 📄 Sol Work 2  jacobi + Gauss-Seidel.pdf</div>
+<div class="tree-folder">│   ├── 📁 3_Cntrls/</div>
+<div class="tree-folder">│   │   ├── 📁 2015/</div>
+<div class="tree-file">│   │   │   └── 📄 Cntrl.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 2016/</div>
+<div class="tree-file">│   │   │   ├── 📄 Ratt.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Cntrl.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 2017/</div>
+<div class="tree-file">│   │   │   └── 📄 Cntrl.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 2018/</div>
+<div class="tree-file">│   │   │   └── 📄 Ratt.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 2019/</div>
+<div class="tree-file">│   │   │   ├── 📄 Ratt.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Cntrl.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 2021/</div>
+<div class="tree-file">│   │   │   └── 📄 Cntrl.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 2022/</div>
+<div class="tree-file">│   │   │   ├── 📄 Interr.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Cntrl remplacement.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Interr remplacement.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Cntrl.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 2023/</div>
+<div class="tree-file">│   │   │   ├── 📄 Cntrl.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Interr.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 2024/</div>
+<div class="tree-file">│   │   │   ├── 📄 Ratt.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Cntrl.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Interr.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Interr remplacement.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Cntrl remplacement.pdf</div>
+<div class="tree-folder">│   │   └── 📁 2025/</div>
+<div class="tree-file">│   │       ├── 📄 Interr remplacement.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Ratt.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Cntrl.pdf</div>
+<div class="tree-file">│   │       └── 📄 Interr.pdf</div>
+<div class="tree-folder">│   ├── 📁 2_Tds/</div>
+<div class="tree-file">│   │   ├── 📄 Mthodes_Numriques_Partie2_TD_2-1.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Td5/</div>
+<div class="tree-file">│   │   │   ├── 📄 1_Td 5.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Solution Td 5.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Td4/</div>
+<div class="tree-file">│   │   │   ├── 📄 1_Td 4.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Solution Td 4.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Td3/</div>
+<div class="tree-file">│   │   │   ├── 📄 1_Td 3.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Solution Td 3.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Td2/</div>
+<div class="tree-file">│   │   │   ├── 📄 1_Td 2.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Solution Td 2.pdf</div>
+<div class="tree-folder">│   │   └── 📁 Td1/</div>
+<div class="tree-file">│   │       └── 📄 Td 1 avec solution.pdf</div>
+<div class="tree-folder">│   └── 📁 1_Cours/</div>
+<div class="tree-file">│       ├── 📄 Mthodes_Numriques_Partie1_Cours_2m-2.pdf</div>
+<div class="tree-file">│       ├── 📄 chapitre 5 Équations différentielles .pdf</div>
+<div class="tree-file">│       ├── 📄 Chapitre 3 Interpolation.pdf</div>
+<div class="tree-file">│       ├── 📄 chapitre 4 Intégration numérique.pdf</div>
+<div class="tree-file">│       ├── 📄 chapitre 2 Résolution des équations linéaires .pdf</div>
+<div class="tree-file">│       └── 📄 Chapitre 1 Résolution des équations non linéaires .pdf</div>
+<div class="tree-folder">├── 🔗📁 MN/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 TP /</div>
+<div class="tree-file">│   │   ├── 📄 TP2 Solution (Crout) .pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP2 Solution (Gauss) .pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP1 .pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP1 Solution .pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP2 .pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP3 .pdf</div>
+<div class="tree-file">│   │   └── 📄 TP3 Solution.pdf</div>
+<div class="tree-folder">│   ├── 📁 Cours/</div>
+<div class="tree-file">│   │   ├── 📄 Chapter1 .pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapter2 .pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapter4 .pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapter5 .pdf</div>
+<div class="tree-file">│   │   └── 📄 Chapter3 .pdf</div>
+<div class="tree-folder">│   └── 📁 Examen/</div>
+<div class="tree-file">│       ├── 📄 2024 .pdf</div>
+<div class="tree-file">│       ├── 📄 2024 Solution .pdf</div>
+<div class="tree-file">│       ├── 📄 2020 + Solution .pdf</div>
+<div class="tree-file">│       ├── 📄 Ratt 2021 solution .pdf</div>
+<div class="tree-file">│       ├── 📄 Ratt 2021 .pdf</div>
+<div class="tree-file">│       ├── 📄 2022 .pdf</div>
+<div class="tree-file">│       ├── 📄 2021 solution .pdf</div>
+<div class="tree-file">│       ├── 📄 2021 .pdf</div>
+<div class="tree-file">│       ├── 📄 2022 solution .pdf</div>
+<div class="tree-file">│       ├── 📄 2023 .pdf</div>
+<div class="tree-file">│       ├── 📄 2023 solution .pdf</div>
+<div class="tree-folder">│       └── 📁 2025/</div>
+<div class="tree-file">│           ├── 📄 2025 .pdf</div>
+<div class="tree-file">│           ├── 📄 IMG_7023.HEIC</div>
+<div class="tree-file">│           ├── 📄 IMG_7021.HEIC</div>
+<div class="tree-file">│           └── 📄 IMG_7022.HEIC</div>
+<div class="tree-folder">├── 🔗📁 MNA  (raccourci)</div>
+<div class="tree-file">├── 📄 Méthode Numérique-20260604T201143Z-3-001.zip</div>
+<div class="tree-folder">├── 🔗📁 mna/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 exercice 1-cor ode.pdf</div>
+<div class="tree-file">│   ├── 📄 SERIE 3 _MNA_L2_ELT.pdf</div>
+<div class="tree-file">│   ├── 📄 Chapitre 3 ODE MNA 2020 Ziani.pdf</div>
+<div class="tree-file">│   ├── 📄 SERIE 3   MNA 2020_pdf.pdf</div>
+<div class="tree-file">│   ├── 📄 TD_EX02_Interpolation_newton_Webex.pdf</div>
+<div class="tree-file">│   ├── 📄 TD Méthode numérique.pdf</div>
+<div class="tree-file">│   ├── 📄 SERIE 2   MNA ELT 2020_2.pdf</div>
+<div class="tree-file">│   ├── 📄 Interpolation Polynomiale cours ziani 2020.pdf</div>
+<div class="tree-file">│   ├── 📄 methode num.pdf</div>
+<div class="tree-file">│   ├── 📄 EXAM_M1_ASE_Simul_0910.pdf</div>
+<div class="tree-file">│   ├── 📄 Examen 2 MATLAB.pdf</div>
+<div class="tree-file">│   ├── 📄 examen_MATLAB.pdf</div>
+<div class="tree-folder">│   ├── 📁 Exo/</div>
+<div class="tree-file">│   │   ├── 📄 Epreuve_Finale_MNA_2019_cor.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Correction  Exo 2    série 5 MNA 15 juin (1).docx</div>
+<div class="tree-file">│   │   ├── 📄 révision MNA L2 corrigé Ziani.pdf</div>
+<div class="tree-file">│   │   ├── 📄 série 4-intégration numerique solution.PDF</div>
+<div class="tree-file">│   │   ├── 📄 s__rie-2_interpolation correction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 exo4-série1.PDF</div>
+<div class="tree-file">│   │   ├── 📄 TD Méthode numérique_2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 MNA-chapitre_1_ZIANI_revision_19_octobre.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD_EX02_Interpolation_newton_Webex_2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Révision MNA   Vendredi   25.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EX3 série 5 MNA-pdf.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Correction Exo 2 série 4 (1).pdf</div>
+<div class="tree-file">│   │   ├── 📄 Correction Exo 2 série 4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 correction EX1 Série 5 MNA-.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Séerie 5 MNA-la dernière.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SERIE 4   MNA Intégration numérique.pdf</div>
+<div class="tree-file">│   │   ├── 📄 série 3_equations différen correction.PDF</div>
+<div class="tree-file">│   │   ├── 📄 Livre-cours-TD-corrigés-MNA.pdf</div>
+<div class="tree-file">│   │   ├── 📄 cours ode ziani.pptx</div>
+<div class="tree-file">│   │   ├── 📄 exo5+mna cour moindre carré.pptx</div>
+<div class="tree-file">│   │   ├── 📄 MNA Lundi13_avril cours.pdf</div>
+<div class="tree-file">│   │   ├── 📄 série-1-MNA-2020-ziani-ELT.pdf</div>
+<div class="tree-folder">│   │   └── 📁 corrige serie 4 mna/</div>
+<div class="tree-file">│   │       ├── 📄 corrige serie 4 mna_9.jpg</div>
+<div class="tree-file">│   │       ├── 📄 corrige serie 4 mna_7.jpg</div>
+<div class="tree-file">│   │       ├── 📄 corrige serie 4 mna_6.jpg</div>
+<div class="tree-file">│   │       ├── 📄 corrige serie 4 mna_5.jpg</div>
+<div class="tree-file">│   │       ├── 📄 corrige serie 4 mna_4.jpg</div>
+<div class="tree-file">│   │       ├── 📄 corrige serie 4 mna_3.jpg</div>
+<div class="tree-file">│   │       ├── 📄 corrige serie 4 mna_2.jpg</div>
+<div class="tree-file">│   │       ├── 📄 corrige serie 4 mna_1.jpg</div>
+<div class="tree-file">│   │       └── 📄 serie 4 mna.jpg</div>
+<div class="tree-folder">│   └── 📁 cours/</div>
+<div class="tree-file">│       ├── 📄 Livre_cours_TD_corrig_s_MNA.pdf</div>
+<div class="tree-file">│       ├── 📄 Interpolation_Polynomiale_cours_ziani_2020.pdf</div>
+<div class="tree-file">│       ├── 📄 CH1-MNA_ziani_ELT.pdf</div>
+<div class="tree-file">│       ├── 📄 Chapitre_3_ODE_MNA_2020_Ziani.pdf</div>
+<div class="tree-file">│       ├── 📄 cours_ode_ziani_runge.pdf</div>
+<div class="tree-file">│       ├── 📄 Chapitre 5 MNA   Résolution des systèmes linéaires.pdf</div>
+<div class="tree-file">│       ├── 📄 _Chapitre 4 intégration_numerique Ziani _pdf.pdf</div>
+<div class="tree-file">│       ├── 📄 cours ode ziani.pptx</div>
+<div class="tree-file">│       ├── 📄 exo5+mna cour moindre carré.pptx</div>
+<div class="tree-file">│       └── 📄 MNA Lundi13_avril cours.pdf</div>
+<div class="tree-file">├── 📄 Méthode numérique -20260508T202117Z-3-001.zip</div>
+<div class="tree-folder">├── 🔗📁 Méthodes Numériques/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Résumé2 Méthode numérique L2.pdf · version 1.pdf</div>
+<div class="tree-file">│   ├── 📄 Résumé1 Méthode numérique L2.pdf</div>
+<div class="tree-file">│   ├── 📄 MN_MB.pdf</div>
+<div class="tree-file">│   ├── 📄 Cours_Methodes_Numeriques_Benchikh-Lehocine-Iftikhar.pdf</div>
+<div class="tree-folder">│   ├── 📁 Médéa /</div>
+<div class="tree-folder">│   │   ├── 📁 TD/</div>
+<div class="tree-file">│   │   │   ├── 📄 Séries TD 4 corrigés (EDP).pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD(2) MNAO.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD(3) MNAO..pdf</div>
+<div class="tree-file">│   │   │   └── 📄 TD (1) MNAO.pdf</div>
+<div class="tree-folder">│   │   └── 📁 Cours/</div>
+<div class="tree-file">│   │       ├── 📄 resumé (chapitre (EDP)).pdf</div>
+<div class="tree-file">│   │       ├── 📄 chapitre 2(EDO).pdf</div>
+<div class="tree-file">│   │       ├── 📄 Remarque (Méthode de Newton).. (1).pdf</div>
+<div class="tree-file">│   │       └── 📄 Résolution des systèmes d’équations linéaires et non  linéaires.pdf</div>
+<div class="tree-folder">│   ├── 📁 Résumé /</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 1 résolution des équations non linéaires .pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 4 Résolution des équations différentielles ordinaire .pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 3 intégration numériques .pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 2 polynôme d'interpolation .pdf</div>
+<div class="tree-folder">│   │   └── 📁 Untitled folder/</div>
+<div class="tree-file">│   │       ├── 📄 Résumé4 Méthode numérique.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Résumé5 Méthode numérique.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Résumé6 Méthode numérique.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Résumé5 Méthode numérique.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Résumé3 Méthode numérique.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Résumé2 Méthode numérique.pdf</div>
+<div class="tree-file">│   │       └── 📄 Résumé1 Méthode numérique.pdf</div>
+<div class="tree-folder">│   └── 📁 Laghouat /</div>
+<div class="tree-folder">│       ├── 📁 Cours/</div>
+<div class="tree-file">│       │   ├── 📄 المحددات والمصفوفات.pdf</div>
+<div class="tree-file">│       │   ├── 📄 التحليل العددي.PDF</div>
+<div class="tree-file">│       │   ├── 📄 SCFCAnalyse2.pdf</div>
+<div class="tree-file">│       │   ├── 📄 maht 6.PDF.pdf</div>
+<div class="tree-file">│       │   └── 📄 methode nemerique.pdf</div>
+<div class="tree-folder">│       ├── 📁 TD/</div>
+<div class="tree-file">│       │   ├── 📄 Image (17).jpg</div>
+<div class="tree-file">│       │   ├── 📄 Image (16).jpg</div>
+<div class="tree-file">│       │   ├── 📄 Image (15).jpg</div>
+<div class="tree-file">│       │   ├── 📄 Image (14).jpg</div>
+<div class="tree-file">│       │   ├── 📄 Image (13).jpg</div>
+<div class="tree-file">│       │   ├── 📄 Image (12).jpg</div>
+<div class="tree-file">│       │   ├── 📄 Image (11).jpg</div>
+<div class="tree-file">│       │   ├── 📄 Image (10).jpg</div>
+<div class="tree-file">│       │   ├── 📄 Image (9).jpg</div>
+<div class="tree-file">│       │   ├── 📄 Image (8).jpg</div>
+<div class="tree-file">│       │   ├── 📄 Image (7).jpg</div>
+<div class="tree-file">│       │   ├── 📄 Image (6).jpg</div>
+<div class="tree-file">│       │   ├── 📄 Image (5).jpg</div>
+<div class="tree-file">│       │   ├── 📄 Image (4).jpg</div>
+<div class="tree-file">│       │   ├── 📄 Image (3).jpg</div>
+<div class="tree-file">│       │   ├── 📄 Image (2).jpg</div>
+<div class="tree-file">│       │   ├── 📄 Image (1).jpg</div>
+<div class="tree-folder">│       │   └── 📁 La Série d'exercices /</div>
+<div class="tree-file">│       │       ├── 📄 6 (1).jpg</div>
+<div class="tree-file">│       │       ├── 📄 5 (1).jpg</div>
+<div class="tree-file">│       │       ├── 📄 4 (2).jpg</div>
+<div class="tree-file">│       │       ├── 📄 3 (2).jpg</div>
+<div class="tree-file">│       │       ├── 📄 2 (2).jpg</div>
+<div class="tree-file">│       │       └── 📄 1 (2).jpg</div>
+<div class="tree-folder">│       └── 📁 Examens /</div>
+<div class="tree-folder">│           ├── 📁 2018/</div>
+<div class="tree-file">│           │   ├── 📄 Screenshot_2019-05-18-12-03-39.png</div>
+<div class="tree-file">│           │   ├── 📄 FB_IMG_15581773893298214.jpg</div>
+<div class="tree-file">│           │   └── 📄 FB_IMG_15581773818802850.jpg</div>
+<div class="tree-folder">│           ├── 📁 2017/</div>
+<div class="tree-file">│           │   ├── 📄 4 (1).jpg</div>
+<div class="tree-file">│           │   ├── 📄 2 (1).jpg</div>
+<div class="tree-file">│           │   ├── 📄 3 (1).jpg</div>
+<div class="tree-file">│           │   ├── 📄 1 (1).jpg</div>
+<div class="tree-file">│           │   └── 📄 Examen Méthodes Num 2017.pdf</div>
+<div class="tree-folder">│           ├── 📁 2015/</div>
+<div class="tree-file">│           │   ├── 📄 2.jpg</div>
+<div class="tree-file">│           │   ├── 📄 3.jpg</div>
+<div class="tree-file">│           │   ├── 📄 1.jpg</div>
+<div class="tree-file">│           │   ├── 📄 5.jpg</div>
+<div class="tree-file">│           │   ├── 📄 7.jpg</div>
+<div class="tree-file">│           │   ├── 📄 6.jpg</div>
+<div class="tree-file">│           │   └── 📄 4.jpg</div>
+<div class="tree-folder">│           └── 📁 2011 à 2013/</div>
+<div class="tree-file">│               ├── 📄 3ExamenSTMethNum2011-2012.pdf</div>
+<div class="tree-file">│               ├── 📄 5CorrigeExamenSTMethNum2011-2012.pdf</div>
+<div class="tree-file">│               ├── 📄 6ExamenTDSTMethNum2011-2012.pdf</div>
+<div class="tree-file">│               ├── 📄 1ExamenSTMethNum2013.pdf</div>
+<div class="tree-file">│               ├── 📄 7CorrigeExamenTDSTMethNum2011-2012.pdf</div>
+<div class="tree-file">│               └── 📄 2CorrectionEMDSTMethNum2013.pdf</div>
+<div class="tree-folder">├── 🔗📁 Méthodes numériques/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Test TP/</div>
+<div class="tree-file">│   │   ├── 📄 Capture2.PNG</div>
+<div class="tree-file">│   │   ├── 📄 TEST.m</div>
+<div class="tree-file">│   │   ├── 📄 Capture4.PNG</div>
+<div class="tree-file">│   │   ├── 📄 Capture3.PNG</div>
+<div class="tree-file">│   │   └── 📄 Capture.PNG</div>
+<div class="tree-folder">│   ├── 📁 Programation/</div>
+<div class="tree-file">│   │   ├── 📄 985.m</div>
+<div class="tree-file">│   │   ├── 📄 RungeKuttaOrdre4.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled7.m</div>
+<div class="tree-file">│   │   ├── 📄 oscillateur5.m</div>
+<div class="tree-file">│   │   ├── 📄 dhia.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled9.m</div>
+<div class="tree-file">│   │   ├── 📄 bisect.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled4.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled9536.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled898.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled23.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled2.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled5.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled77.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled55.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled33.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled2974.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled2565.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled8.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled44.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled25.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled223.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled222222.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled3.m</div>
+<div class="tree-file">│   │   ├── 📄 methDFC.m</div>
+<div class="tree-file">│   │   ├── 📄 MethLag.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled.m</div>
+<div class="tree-file">│   │   ├── 📄 Untitled12.m</div>
+<div class="tree-file">│   │   ├── 📄 ra.m</div>
+<div class="tree-file">│   │   ├── 📄 transfert.m</div>
+<div class="tree-file">│   │   ├── 📄 rk4.m</div>
+<div class="tree-file">│   │   ├── 📄 oscillateur.m</div>
+<div class="tree-file">│   │   ├── 📄 k.m</div>
+<div class="tree-file">│   │   ├── 📄 oscillateur3.m</div>
+<div class="tree-file">│   │   ├── 📄 oscillateur2.m</div>
+<div class="tree-file">│   │   ├── 📄 methnewton.m</div>
+<div class="tree-file">│   │   ├── 📄 Mafct.m</div>
+<div class="tree-file">│   │   ├── 📄 euler.m</div>
+<div class="tree-file">│   │   ├── 📄 fd.m</div>
+<div class="tree-file">│   │   ├── 📄 bisection.m</div>
+<div class="tree-file">│   │   ├── 📄 difffini.m</div>
+<div class="tree-file">│   │   ├── 📄 function.m</div>
+<div class="tree-file">│   │   ├── 📄 h.m</div>
+<div class="tree-file">│   │   ├── 📄 f.m</div>
+<div class="tree-file">│   │   ├── 📄 eqtdiff_2ordre.m</div>
+<div class="tree-file">│   │   ├── 📄 awm.m</div>
+<div class="tree-file">│   │   ├── 📄 eqdiff5ord.m</div>
+<div class="tree-file">│   │   ├── 📄 f12.m</div>
+<div class="tree-file">│   │   └── 📄 ra.asv</div>
+<div class="tree-folder">│   └── 📁 Cours/</div>
+<div class="tree-file">│       ├── 📄 Polycopie-MEF_kious.pdf</div>
+<div class="tree-file">│       ├── 📄 Methode_Dif_finis.pdf</div>
+<div class="tree-file">│       ├── 📄 Matlab.pdf</div>
+<div class="tree-file">│       ├── 📄 bvpb_kious.pdf</div>
+<div class="tree-file">│       └── 📄 Nouveau_Document_Microsoft_Word.docx</div>
+<div class="tree-folder">├── 🔗📁 Méthode numérique /  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Liste 2022-2023 A.pdf</div>
+<div class="tree-folder">│   ├── 📁 Chapitre 4/</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 4 (1).pdf</div>
+<div class="tree-file">│   │   └── 📄 Serie 4.pdf</div>
+<div class="tree-folder">│   ├── 📁 Solution des séries /</div>
+<div class="tree-file">│   │   ├── 📄 Solution Serie 3 (1).pdf</div>
+<div class="tree-file">│   │   ├── 📄 Solution Exo 2 Série 1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Solution serie 2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Solution Serie 4.pdf</div>
+<div class="tree-file">│   │   └── 📄 Solution Série 1.pdf</div>
+<div class="tree-folder">│   ├── 📁 Les listes/</div>
+<div class="tree-file">│   │   ├── 📄 A2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 A4.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Mn afichage A3--A6 /</div>
+<div class="tree-file">│   │   │   └── 📄 Notes TD MN (A3, A5, A6).pdf</div>
+<div class="tree-folder">│   │   └── 📁 Affichage mn /</div>
+<div class="tree-file">│   │       ├── 📄 GR B6.xlsx</div>
+<div class="tree-file">│   │       ├── 📄 GR B1.xlsx</div>
+<div class="tree-file">│   │       ├── 📄 GR B4.xlsx</div>
+<div class="tree-file">│   │       └── 📄 GR B5.xlsx</div>
+<div class="tree-folder">│   ├── 📁 Devoir N1 /</div>
+<div class="tree-file">│   │   ├── 📄 Solution Devoir 2 2022-2023.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Solution Devoir VET 2 (Mercredi-Jeudi).pdf</div>
+<div class="tree-file">│   │   ├── 📄 Devoir 1(Dimanche Lundi).pdf</div>
+<div class="tree-file">│   │   └── 📄 Solution Devoir VET 1.pdf</div>
+<div class="tree-folder">│   ├── 📁 Chapitre 3/</div>
+<div class="tree-file">│   │   ├── 📄 Serie 3 (1).pdf</div>
+<div class="tree-file">│   │   └── 📄 Chapitre 3 (2).pdf</div>
+<div class="tree-folder">│   ├── 📁 Chapitre 2/</div>
+<div class="tree-file">│   │   ├── 📄 Serie 2 (1).pdf</div>
+<div class="tree-file">│   │   └── 📄 Chapitre 2 (6).pdf</div>
+<div class="tree-folder">│   └── 📁 Chapitre 1/</div>
+<div class="tree-file">│       ├── 📄 Chapitre1 (3).pdf</div>
+<div class="tree-file">│       └── 📄 Serie 1 2017-2018.pdf</div>
+<div class="tree-folder">├── 🔗📁 Méthodes Numériques/  (raccourci)</div>
+<div class="tree-file">│   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">└── 📁 drives/</div>
+<div class="tree-folder">    ├── 🔗📁 méthod num/  (raccourci)</div>
+<div class="tree-folder">    │   ├── 📁 exam/</div>
+<div class="tree-file">    │   │   ├── 📄 Examen3 Méthode Numérique (1).pdf</div>
+<div class="tree-file">    │   │   ├── 📄 Examen3 Méthode Numérique.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 Examen2 Méthode Numérique.pdf</div>
+<div class="tree-file">    │   │   └── 📄 Examen1 Méthode Numérique.pdf</div>
+<div class="tree-folder">    │   └── 📁 tp/</div>
+<div class="tree-file">    │       ├── 📄 tp-dechoto.docx</div>
+<div class="tree-file">    │       └── 📄 tp-point fixe 1.docx</div>
+<div class="tree-folder">    ├── 🔗📁 2-Méthode numérique/  (raccourci)</div>
+<div class="tree-folder">    │   ├── 📁 Note/</div>
+<div class="tree-file">    │   │   ├── 📄 examne_note_Session1_A00F0001S4003.xlsx.xlsx</div>
+<div class="tree-file">    │   │   └── 📄 MNA_2023.xlsx</div>
+<div class="tree-folder">    │   ├── 📁 Sujet /</div>
+<div class="tree-file">    │   │   ├── 📄 Exam_MNA_2023.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 Exam_MNA_2023.pdf</div>
+<div class="tree-file">    │   │   └── 📄 Sujet Mna Automatique 2023 .pdf</div>
+<div class="tree-folder">    │   ├── 📁 Intero/</div>
+<div class="tree-file">    │   │   └── 📄 intero.pdf</div>
+<div class="tree-folder">    │   ├── 📁 TP/</div>
+<div class="tree-folder">    │   │   ├── 📁 Note/</div>
+<div class="tree-file">    │   │   │   ├── 📄 received_658458789443921.jpeg</div>
+<div class="tree-file">    │   │   │   ├── 📄 received_236384725749315.jpeg</div>
+<div class="tree-file">    │   │   │   └── 📄 received_128859563535492.jpeg</div>
+<div class="tree-folder">    │   │   ├── 📁 Examen/</div>
+<div class="tree-file">    │   │   │   └── 📄 EXAMEN 2022-2023 TPMNA.pdf</div>
+<div class="tree-folder">    │   │   ├── 📁 TP N°3/</div>
+<div class="tree-file">    │   │   │   └── 📄 TP3_MN_1_1.pdf</div>
+<div class="tree-folder">    │   │   ├── 📁 TP N°1/</div>
+<div class="tree-file">    │   │   │   └── 📄 TP N°1 MN_2.pdf</div>
+<div class="tree-folder">    │   │   ├── 📁 Script TPMNA/</div>
+<div class="tree-folder">    │   │   │   ├── 📁 TP2/</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 polydelagr.m</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 moindre_carre.m</div>
+<div class="tree-file">    │   │   │   │   └── 📄 Untitled8.m</div>
+<div class="tree-folder">    │   │   │   ├── 📁 TP3/</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 Rungekutta.m</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 methodeeuler.m</div>
+<div class="tree-file">    │   │   │   │   └── 📄 Untitled.m</div>
+<div class="tree-folder">    │   │   │   └── 📁 TP1/</div>
+<div class="tree-file">    │   │   │       ├── 📄 pointfixetp.m</div>
+<div class="tree-file">    │   │   │       ├── 📄 dichotomie.m</div>
+<div class="tree-file">    │   │   │       └── 📄 newtonraphson.m</div>
+<div class="tree-folder">    │   │   └── 📁 TP N°2/</div>
+<div class="tree-file">    │   │       └── 📄 TP_N2_MN.pdf</div>
+<div class="tree-folder">    │   ├── 📁 TD/</div>
+<div class="tree-folder">    │   │   ├── 📁 TD N°02/</div>
+<div class="tree-file">    │   │   │   ├── 📄 MN_Exercice_Supl.pdf</div>
+<div class="tree-file">    │   │   │   └── 📄 seriessysteme_lineaire.pdf</div>
+<div class="tree-folder">    │   │   └── 📁 TD N°01/</div>
+<div class="tree-file">    │   │       └── 📄 TDN°1.pdf</div>
+<div class="tree-folder">    │   └── 📁 COURS/</div>
+<div class="tree-folder">    │       └── 📁 CHAPITRE 02/</div>
+<div class="tree-file">    │           ├── 📄 Chapitre3_cor.pdf</div>
+<div class="tree-file">    │           ├── 📄 seriessysteme_lineaire.pdf</div>
+<div class="tree-file">    │           └── 📄 Systeme_lineaire.pdf</div>
+<div class="tree-folder">    ├── 🔗📁 Méthode Numérique/  (raccourci)</div>
+<div class="tree-folder">    │   ├── 📁 Courses &amp; TD/</div>
+<div class="tree-file">    │   │   └── 📄 Cours &amp; Séries &lt; MAOUCHE &gt;.pdf</div>
+<div class="tree-folder">    │   ├── 📁 Résumés/</div>
+<div class="tree-file">    │   │   ├── 📄 Résumé [EigentValues/EigentVectors].pdf</div>
+<div class="tree-file">    │   │   ├── 📄 Résumé [LU/Cholesky].pdf</div>
+<div class="tree-file">    │   │   ├── 📄 Résumé [Jacobi/GaussSiedel].pdf</div>
+<div class="tree-file">    │   │   └── 📄 Résumé [Gauss/GaussJordan].pdf</div>
+<div class="tree-folder">    │   ├── 📁 TP/</div>
+<div class="tree-file">    │   │   ├── 📄 TP1.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 TP1 2021/2022.pdf</div>
+<div class="tree-file">    │   │   └── 📄 Codes &lt; MATLAB &gt;.pdf</div>
+<div class="tree-folder">    │   └── 📁 Tests &amp; Exams/</div>
+<div class="tree-file">    │       ├── 📄 Examen 2022/2023.jpg</div>
+<div class="tree-file">    │       ├── 📄 2 Tests.pdf</div>
+<div class="tree-file">    │       ├── 📄 Examen + Solution 2023/2024.pdf</div>
+<div class="tree-file">    │       └── 📄 Examen + Solution.pdf</div>
+<div class="tree-folder">    ├── 🔗📁 Methode Numerique/  (raccourci)</div>
+<div class="tree-folder">    │   ├── 📁 Td/</div>
+<div class="tree-file">    │   │   ├── 📄 MN2</div>
+<div class="tree-file">    │   │   ├── 📄 Document from Rehab Shaher</div>
+<div class="tree-file">    │   │   ├── 📄 TD3</div>
+<div class="tree-file">    │   │   ├── 📄 TD2.pdf</div>
+<div class="tree-file">    │   │   └── 📄 Td MN.pdf</div>
+<div class="tree-folder">    │   └── 📁 cours/</div>
+<div class="tree-file">    │       ├── 📄 Chap_1_EquNonLineaire_Dicho.pdf</div>
+<div class="tree-file">    │       ├── 📄 Systèmes d’équations linéaires_methodes directes.pdf</div>
+<div class="tree-file">    │       ├── 📄 MÃ©thodes NumÃ©riques.pdf</div>
+<div class="tree-file">    │       └── 📄 Chap_IV_IntÃ©gration_numÃ©rique[1].pdf</div>
+<div class="tree-folder">    ├── 🔗📁 Méthodes Numériques/  (raccourci)</div>
+<div class="tree-file">    │   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">    ├── 🔗📁 Méthodes numériques/  (raccourci)</div>
+<div class="tree-file">    │   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">    ├── 🔗📁 Méthode numérique /  (raccourci)</div>
+<div class="tree-file">    │   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">    └── 🔗📁 4_Méthodes numériques /  (raccourci)</div>
+<div class="tree-file">        └── ⚠️  [Référence circulaire ignorée]</div>
+
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Méthodes numériques</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Méthodes numériques</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Méthodes numériques ?</summary>
+      <p>
+        Le module <strong>Méthodes numériques</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Méthodes numériques ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Méthodes numériques</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Méthodes numériques correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Méthodes numériques</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>
