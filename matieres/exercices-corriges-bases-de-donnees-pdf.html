@@ -1,0 +1,1015 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Bases de données  — Cours PDF, TD & Examens Corrigés pdf</title>
+  <meta name="description" content="Téléchargez le module Bases de données  : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+  <meta name="keywords"    content="Bases de données , cours Bases de données  pdf, td corrigés Bases de données , examen corrigé Bases de données , module Bases de données  université, polycopié Bases de données , exercices corrigés Bases de données , cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-bases-de-donnees-pdf.html" />
+
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Bases de données  — Cours PDF, TD & Examens Corrigés pdf" />
+  <meta property="og:description" content="Téléchargez le module Bases de données  : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-bases-de-donnees-pdf.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Bases de données  — Cours PDF, TD & Examens Corrigés pdf" />
+  <meta name="twitter:description" content="Téléchargez le module Bases de données  : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-08" />
+  <meta name="google-site-verification" content="MT3aHsC0-1SnLsIUjoHAOb78YW0gkPkLgvSDrkhSTeQ" />
+
+  <script type="text/javascript">
+      (function(c,l,a,r,i,t,y){
+              c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                              y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+                                  })(window, document, "clarity", "script", "xb7gvowmx9");
+                                    </script>
+
+                                     <!-- Google tag (gtag.js) -->
+                                     <script async src="https://www.googletagmanager.com/gtag/js?id=G-G55SJ5C5L0"></script>
+                                     <script>
+                                       window.dataLayer = window.dataLayer || [];
+                                         function gtag(){dataLayer.push(arguments);}
+                                           gtag('js', new Date());
+
+                                             gtag('config', 'G-G55SJ5C5L0');
+                                             </script>
+
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Bases de données ","item":"https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-bases-de-donnees-pdf.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Bases de données  ?","acceptedAnswer":{"@type":"Answer","text":"Le module Bases de données  contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Bases de données  ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Bases de données  correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    h2 { font-size: 1.55rem; font-weight: 700; margin-bottom: 28px; }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Bases de données </span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Bases de données </em><br />
+      Cours, TD et exercices corrigés Bases de données  pdf &amp; Examens avec correction
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Bases de données </strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.  
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">3</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">53</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">11</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">2</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Bases de données </span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Bases de données </h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Bases de données </span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Bases de données ">
+<div class="tree-folder">├── 🔗📁 • Systèmes d'information et bases de données (Aziz Ouaarab)/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Exams/</div>
+<div class="tree-file">│   │   ├── 📄 CC SYS INFO BASE DONNÉES.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Examen final Sys info bases données.pdf</div>
+<div class="tree-file">│   │   ├── 📄 controle2.pdf</div>
+<div class="tree-file">│   │   └── 📄 DOC-corrige_1.pdf</div>
+<div class="tree-folder">│   ├── 📁 Résumés/</div>
+<div class="tree-file">│   │   ├── 📄 TP4 sql-Bibliothèque (1).pdf</div>
+<div class="tree-file">│   │   ├── 📄 Copie de passage GDF  MCD.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Copie de DS ConceptionBD 22-23 Ratt.pdf</div>
+<div class="tree-file">│   │   ├── 📄 sql.pdf</div>
+<div class="tree-file">│   │   ├── 📄 bd3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 bd2.pdf</div>
+<div class="tree-file">│   │   └── 📄 bd1.pdf</div>
+<div class="tree-folder">│   ├── 📁 TD/TP/</div>
+<div class="tree-file">│   │   ├── 📄 TP6.docx</div>
+<div class="tree-file">│   │   ├── 📄 TP7.docx</div>
+<div class="tree-file">│   │   ├── 📄 Exercice 4-5-6.pdf</div>
+<div class="tree-file">│   │   ├── 📄 correction_tp4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 ex2 tp5.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD7_140d7106aa07c3a966611496ea1b85b2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Exercices_Algebre_DDL_DML_6df73781981cbac84c0b4ebbd63988dd.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Explication prof TP5.mov</div>
+<div class="tree-file">│   │   ├── 📄 TP5_xampp_dbeaver.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD4_looping_sql_5bc7a213755a989206788f5673692b28.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TP2_.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Td3.docx</div>
+<div class="tree-file">│   │   ├── 📄 TD3_MCD_MLD_a5efa3bae863806b0889238313670a2f.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD2_DF_MCD_1d367163677477178934b87a3953cd62.pdf</div>
+<div class="tree-file">│   │   └── 📄 TD1_dictionnaire de donnÃ©️es.pdf</div>
+<div class="tree-folder">│   └── 📁 COURS/</div>
+<div class="tree-file">│       ├── 📄 Bases_de_Donnees_Sous-requetes_Ensembles (1)_bcfcd13943a18b72d65e8a8300a6c794.pdf</div>
+<div class="tree-file">│       ├── 📄 Langage de Manipulation de Données en SQL_ddecfdb4d5d740eb0f3224b4e713f194.pdf</div>
+<div class="tree-file">│       ├── 📄 Langage de Définition de Données en SQL_a899ca40c5eaaf56b68736777efc7623.pdf</div>
+<div class="tree-file">│       ├── 📄 SI_BD_Algèbre Relationnelle_c48dc14a94194f2119a706e8dbd6680e.pdf</div>
+<div class="tree-file">│       ├── 📄 séance 4_MCD_MLD_b508b837dcef21cbf78037c3618a5396.pdf</div>
+<div class="tree-file">│       ├── 📄 séance3_26_d9ffba0674d08348378fb9c4f6ec4513.pdf</div>
+<div class="tree-file">│       ├── 📄 séance2_26_82a36d1abf1d374a2ee09d0910566c50.pdf</div>
+<div class="tree-file">│       └── 📄 DOC-20260216-WA0000..pdf</div>
+<div class="tree-folder">├── 🔗📁 Bases de Données/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 Cours/</div>
+<div class="tree-file">│   │   └── 📄 Support cours 2016-2017.pdf</div>
+<div class="tree-folder">│   ├── 📁 Fiches/</div>
+<div class="tree-file">│   │   └── 📄 Fiche BDD2.pdf</div>
+<div class="tree-folder">│   ├── 📁 Annales/</div>
+<div class="tree-folder">│   │   ├── 📁 2016-2017/</div>
+<div class="tree-file">│   │   │   └── 📄 2016-2017 - CC1 - Sujet.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 2004-2005/</div>
+<div class="tree-file">│   │   │   ├── 📄 2004-2005 - Sujet 02.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 2004-2005 - Sujet 01 + Correction.pdf</div>
+<div class="tree-folder">│   │   └── 📁 2005-2006/</div>
+<div class="tree-file">│   │       ├── 📄 2005-2006 - Sujet partie 1.pdf</div>
+<div class="tree-file">│   │       └── 📄 2005-2006 - Sujet partie 2.pdf</div>
+<div class="tree-folder">│   └── 📁 Exercices et projet ancien UF/</div>
+<div class="tree-file">│       ├── 📄 Exos SQL.pdf</div>
+<div class="tree-file">│       ├── 📄 BD-exo-Livret-Cinema-Q11.pdf</div>
+<div class="tree-file">│       ├── 📄 BD-exo-Livret-Cinema-Q12.pdf</div>
+<div class="tree-file">│       ├── 📄 BD-exo-Livret-Cinema-Q13.pdf</div>
+<div class="tree-file">│       ├── 📄 doc-trigger.pdf</div>
+<div class="tree-folder">│       ├── 📁 Nouveau exos - d (ancien UF)/</div>
+<div class="tree-file">│       │   ├── 📄 BD-exo-EA-Moto-Cross-corr.pdf</div>
+<div class="tree-file">│       │   └── 📄 BD-exo-EA-Moto-Cross.pdf</div>
+<div class="tree-folder">│       ├── 📁 Exercices (ancien UF)/</div>
+<div class="tree-file">│       │   ├── 📄 III - Interrogation - Sujet 01.pdf</div>
+<div class="tree-file">│       │   ├── 📄 III - Interrogation - Sujet 01 + Correction.pdf</div>
+<div class="tree-file">│       │   ├── 📄 II - Normalisation - Sujet 05.pdf</div>
+<div class="tree-file">│       │   ├── 📄 II - Normalisation - Sujet 05 + Correction.pdf</div>
+<div class="tree-file">│       │   ├── 📄 II - Normalisation - Sujet 03.pdf</div>
+<div class="tree-file">│       │   ├── 📄 II - Normalisation - Sujet 03 + Correction.pdf</div>
+<div class="tree-file">│       │   ├── 📄 II - Normalisation - Sujet 01.pdf</div>
+<div class="tree-file">│       │   ├── 📄 II - Normalisation - Sujet 01 + Correction.pdf</div>
+<div class="tree-file">│       │   ├── 📄 I - Modélisation - Sujet + Correction.pdf</div>
+<div class="tree-file">│       │   └── 📄 I - Modélisation - Sujet.pdf</div>
+<div class="tree-folder">│       ├── 📁 Exercices complementaires d_interrogation - d (ancien UF)/</div>
+<div class="tree-file">│       │   ├── 📄 BD-exo-Livret-Cinema-Q13.pdf</div>
+<div class="tree-file">│       │   ├── 📄 BD-exo-Livret-Cinema-Q12.pdf</div>
+<div class="tree-file">│       │   ├── 📄 BD-exo-Livret-Cinema-Q11.pdf</div>
+<div class="tree-file">│       │   ├── 📄 BD-exo-Req-Location-corr.pdf</div>
+<div class="tree-file">│       │   └── 📄 BD-exo-Req-Location.pdf</div>
+<div class="tree-folder">│       ├── 📁 Document vu en cours (ancien UF)/</div>
+<div class="tree-file">│       │   ├── 📄 BD-exo-Livret-Cinema-Q08.pdf</div>
+<div class="tree-file">│       │   ├── 📄 BD-exo-Livret-Cinema-Q9.pdf</div>
+<div class="tree-file">│       │   ├── 📄 BD-exo-Livret-Cinema-Q04.pdf</div>
+<div class="tree-file">│       │   ├── 📄 BD-exo-Livret-Cinema-Rel-solution1.pdf</div>
+<div class="tree-file">│       │   ├── 📄 BD-exo-Livret-Cinema-enonceEA.pdf</div>
+<div class="tree-file">│       │   └── 📄 BD-exo-Livret-Cinema-EA-solution.pdf</div>
+<div class="tree-folder">│       ├── 📁 Exercices abstraits validation - d (ancien UF)/</div>
+<div class="tree-file">│       │   ├── 📄 BD-exo-Norm-abstrait5-corr.pdf</div>
+<div class="tree-file">│       │   ├── 📄 BD-exo-Norm-abstrait5.pdf</div>
+<div class="tree-file">│       │   ├── 📄 BD-exo-Norm-abstrait3-corr.pdf</div>
+<div class="tree-file">│       │   ├── 📄 BD-exo-Norm-abstrait3.pdf</div>
+<div class="tree-file">│       │   ├── 📄 BD-exo-Norm-abstrait1-corr.pdf</div>
+<div class="tree-file">│       │   └── 📄 BD-exo-Norm-abstrait1.pdf</div>
+<div class="tree-folder">│       └── 📁 Projet (ancien UF)/</div>
+<div class="tree-file">│           ├── 📄 DF.dia</div>
+<div class="tree-file">│           ├── 📄 DF.dia~</div>
+<div class="tree-file">│           ├── 📄 Rapport.pdf</div>
+<div class="tree-file">│           ├── 📄 Rendu.docx</div>
+<div class="tree-file">│           ├── 📄 Rendu.pdf</div>
+<div class="tree-file">│           ├── 📄 relationnel.jpg</div>
+<div class="tree-file">│           ├── 📄 dic.ods.xlsx</div>
+<div class="tree-file">│           ├── 📄 dic.pdf</div>
+<div class="tree-file">│           ├── 📄 dic.ods</div>
+<div class="tree-file">│           ├── 📄 Projet_Diagramme2.png</div>
+<div class="tree-file">│           ├── 📄 insa.jpg</div>
+<div class="tree-file">│           ├── 📄 graphe.pptx</div>
+<div class="tree-file">│           ├── 📄 CartesConcepts.odg</div>
+<div class="tree-file">│           └── 📄 Cartes des concepts.docx</div>
+<div class="tree-file">├── 📄 Drive module Bases de données  - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 [I144] Bases de données/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 [I144] TP/</div>
+<div class="tree-file">│   │   ├── 📄 Colle2-bdd</div>
+<div class="tree-file">│   │   ├── 📄 Colle1-bdd</div>
+<div class="tree-file">│   │   ├── 📄 devoir tp bdd</div>
+<div class="tree-file">│   │   ├── 📄 Polyc- TP I144</div>
+<div class="tree-file">│   │   └── 📄 Corr tp i144</div>
+<div class="tree-folder">│   ├── 📁 [I144] TD/</div>
+<div class="tree-file">│   │   ├── 📄 I144 - TD 6.pdf</div>
+<div class="tree-file">│   │   └── 📄 I144 - TD 5.pdf</div>
+<div class="tree-folder">│   ├── 📁 [I144] Cours/</div>
+<div class="tree-file">│   │   ├── 📄 I144 - Chap2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 I144 -Chap4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 I144 -Chap 3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 I144 -Chap1.pdf</div>
+<div class="tree-file">│   │   └── 📄 I144 - Cours (Alternatif).pdf</div>
+<div class="tree-folder">│   ├── 📁 [I144] Bonus/</div>
+<div class="tree-file">│   │   ├── 📄 Résumé SQL</div>
+<div class="tree-file">│   │   ├── 📄 Resume</div>
+<div class="tree-folder">│   │   ├── 📁 Examens/</div>
+<div class="tree-file">│   │   │   └── 📄 archive DB.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TD/</div>
+<div class="tree-file">│   │   │   ├── 📄 correction td bdd.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Corrigé TD BDD.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TP/</div>
+<div class="tree-file">│   │   │   ├── 📄 Colle_TP_20212</div>
+<div class="tree-file">│   │   │   └── 📄 tout les tps BDD.pdf</div>
+<div class="tree-folder">│   │   └── 📁 Résumé /</div>
+<div class="tree-file">│   │       ├── 📄 IMG-20230104-WA0060.jpg</div>
+<div class="tree-file">│   │       ├── 📄 IMG-20230104-WA0056.jpg</div>
+<div class="tree-file">│   │       ├── 📄 IMG-20230104-WA0057.jpg</div>
+<div class="tree-file">│   │       └── 📄 IMG-20230104-WA0058.jpg</div>
+<div class="tree-folder">│   └── 📁 [I144] Archive/</div>
+<div class="tree-file">│       ├── 📄 exam3 i144.pdf</div>
+<div class="tree-file">│       ├── 📄 exam 2 I144-1.pdf</div>
+<div class="tree-file">│       ├── 📄 R1_22-23.pdf</div>
+<div class="tree-file">│       ├── 📄 I144-archive (1).pdf</div>
+<div class="tree-file">│       ├── 📄 archives base de donnée.pdf</div>
+<div class="tree-file">│       ├── 📄 exam4.pdf</div>
+<div class="tree-file">│       ├── 📄 Examen base de données 2022.pdf</div>
+<div class="tree-file">│       ├── 📄 Exam_BD_2021.pdf</div>
+<div class="tree-file">│       ├── 📄 I144-exam-2023.pdf</div>
+<div class="tree-file">│       ├── 📄 corr partie sql 2023</div>
+<div class="tree-file">│       └── 📄 I144-archive.pdf</div>
+<div class="tree-folder">├── 🔗📁 M33  BASES DES DONNEES ET PROGRAMMATION WEB FSR RABAT/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 TP/</div>
+<div class="tree-file">│   │   ├── 📄 Travaux Pratiques TP 5.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Travaux Pratiques TP 2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Travaux Pratiques TP 4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Travaux Pratiques TP 7.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Travaux Pratiques TP 1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Travaux Pratiques TP 3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Travaux Pratiques TP 6.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TP3/</div>
+<div class="tree-folder">│   │   │   ├── 📁 __MACOSX/</div>
+<div class="tree-folder">│   │   │   │   └── 📁 TP3/</div>
+<div class="tree-folder">│   │   │   └── 📁 TP3/</div>
+<div class="tree-file">│   │   │       ├── 📄 EX5bTP3.php</div>
+<div class="tree-file">│   │   │       ├── 📄 Ex1TP3.php</div>
+<div class="tree-file">│   │   │       ├── 📄 ex4b.php</div>
+<div class="tree-file">│   │   │       ├── 📄 EX2TP3.php</div>
+<div class="tree-file">│   │   │       ├── 📄 EX3TP3.php</div>
+<div class="tree-file">│   │   │       ├── 📄 EX5aTP3.php</div>
+<div class="tree-file">│   │   │       └── 📄 ex4a.php</div>
+<div class="tree-folder">│   │   ├── 📁 TP2/</div>
+<div class="tree-folder">│   │   │   ├── 📁 __MACOSX/</div>
+<div class="tree-folder">│   │   │   │   └── 📁 TP2/</div>
+<div class="tree-folder">│   │   │   └── 📁 TP2/</div>
+<div class="tree-file">│   │   │       ├── 📄 TP2-q1.php</div>
+<div class="tree-file">│   │   │       ├── 📄 TP2-q3.php</div>
+<div class="tree-file">│   │   │       ├── 📄 TP2q4.php</div>
+<div class="tree-file">│   │   │       └── 📄 TP2-q2.php</div>
+<div class="tree-folder">│   │   └── 📁 TP1/</div>
+<div class="tree-folder">│   │       ├── 📁 __MACOSX/</div>
+<div class="tree-folder">│   │       │   └── 📁 TP1/</div>
+<div class="tree-folder">│   │       └── 📁 TP1/</div>
+<div class="tree-file">│   │           ├── 📄 TP1q3.php</div>
+<div class="tree-file">│   │           ├── 📄 TP1q6.php</div>
+<div class="tree-file">│   │           ├── 📄 TP1q5.php</div>
+<div class="tree-file">│   │           ├── 📄 TP1q7.php</div>
+<div class="tree-file">│   │           └── 📄 TP1q8.php</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-file">│   │   ├── 📄 Examen Type.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TD_Corrigés_PDF/</div>
+<div class="tree-file">│   │   │   ├── 📄 Série_TD_BDW-2_Corrigé.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Série_TD_BDW_4_Corrigée.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Série_TD_BDW-3_Corrigé.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Série_TD_BDW-1_Corrigée.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Série_TD_BDW_5_Corrigé.pdf</div>
+<div class="tree-folder">│   │   └── 📁 TD-VersionPDF/</div>
+<div class="tree-file">│   │       ├── 📄 Série_TD_BDW_4.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Série_TD_BDW_5.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Série_TD_BDW-2.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Série_TD_BDW-3.pdf</div>
+<div class="tree-file">│   │       └── 📄 Série_TD_BDW-1.pdf</div>
+<div class="tree-folder">│   └── 📁 Cours/</div>
+<div class="tree-file">│       ├── 📄 Avis-SMI6-BDPW-2.pdf</div>
+<div class="tree-file">│       ├── 📄 Recommandations.pdf</div>
+<div class="tree-folder">│       ├── 📁 PartieII-BasesDesDonnéesAvancées-VersionPDF/</div>
+<div class="tree-file">│       │   ├── 📄 Chapitre-VII-Gestion des verrous(Locks).pdf</div>
+<div class="tree-file">│       │   ├── 📄 Chapitre-I-Procedures-et-Fonctions.pdf</div>
+<div class="tree-file">│       │   ├── 📄 Chapitre-III-GestionDesTransactions.pdf</div>
+<div class="tree-file">│       │   ├── 📄 Chapitre-IV-GestionDesExceptions.pdf</div>
+<div class="tree-file">│       │   ├── 📄 Chapitre-II-ExtensionProceduraleDeSQL.pdf</div>
+<div class="tree-file">│       │   ├── 📄 Chapitre-V-GestionDesCursseurs(Curssors).pdf</div>
+<div class="tree-file">│       │   └── 📄 Chapitre-VI-Les Declencheur(Triggers).pdf</div>
+<div class="tree-folder">│       └── 📁 PartieI-ProgrammationWebEnPHP-VersionPDF/</div>
+<div class="tree-file">│           ├── 📄 1.14-Le patern MVC en PHP.pdf</div>
+<div class="tree-file">│           ├── 📄 1.9-Gestion des Fichiers en PHP.pdf</div>
+<div class="tree-file">│           ├── 📄 1.2-HTML.pdf</div>
+<div class="tree-file">│           ├── 📄 1..8-Programmation structurée en PHP.pdf</div>
+<div class="tree-file">│           ├── 📄 1.12-Les cookies et sessions.pdf</div>
+<div class="tree-file">│           ├── 📄 1.13-Accès aux bases des données via PHP.pdf</div>
+<div class="tree-file">│           ├── 📄 1.11-Transmission des données via des formulaires.pdf</div>
+<div class="tree-file">│           ├── 📄 1.1-Introduction.pdf</div>
+<div class="tree-file">│           └── 📄 1.10-Programmation orientée objets en PHP.pdf</div>
+<div class="tree-folder">├── 🔗📁 000 Base de données avancées/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   ├── 📄 S6 SMI serie2_SMI20 FPN  19 20.pdf</div>
+<div class="tree-file">│   ├── 📄 S6 SMI BasesDonnéesAvancées FPN  19 20.pdf</div>
+<div class="tree-folder">│   ├── 📁 BD2/</div>
+<div class="tree-folder">│   │   ├── 📁 tp2,3/</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3EX2Q8.sql</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3EX2Q7.sql</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3EX2Q6.sql</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3EX2Q5.sql</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3EX2Q4.sql</div>
+<div class="tree-file">│   │   │   ├── 📄 TP3EX2Q3.sql</div>
+<div class="tree-file">│   │   │   └── 📄 TP3EX1Q2.sql</div>
+<div class="tree-folder">│   │   ├── 📁 Tp/</div>
+<div class="tree-folder">│   │   │   └── 📁 TP_BD/</div>
+<div class="tree-folder">│   │   │       └── 📁 Solutions_TP1_PLSQL/</div>
+<div class="tree-file">│   │   │           ├── 📄 Solution_Q1.sql</div>
+<div class="tree-file">│   │   │           ├── 📄 Solution_Q3.sql</div>
+<div class="tree-file">│   │   │           ├── 📄 Create_MOUJAHID_BUDGET.sql</div>
+<div class="tree-file">│   │   │           ├── 📄 Solution_Q2.sql</div>
+<div class="tree-file">│   │   │           ├── 📄 Solution_Q5.sql</div>
+<div class="tree-file">│   │   │           └── 📄 Solutions_TP1_PLSQL.txt</div>
+<div class="tree-folder">│   │   ├── 📁 CollePLSQL_SMIS6_G1/</div>
+<div class="tree-file">│   │   │   ├── 📄 Tables.sql</div>
+<div class="tree-file">│   │   │   ├── 📄 colle1.pdf</div>
+<div class="tree-folder">│   │   │   └── 📁 Mohammed_EL_KHOU/</div>
+<div class="tree-file">│   │   │       ├── 📄 sql.txt</div>
+<div class="tree-file">│   │   │       ├── 📄 Q9.sql</div>
+<div class="tree-file">│   │   │       ├── 📄 Q8.sql</div>
+<div class="tree-file">│   │   │       ├── 📄 Q7.sql</div>
+<div class="tree-file">│   │   │       ├── 📄 Q4.sql</div>
+<div class="tree-file">│   │   │       ├── 📄 Q3.sql</div>
+<div class="tree-file">│   │   │       └── 📄 Q2.sql</div>
+<div class="tree-folder">│   │   └── 📁 BD-20180427T150551Z-001/</div>
+<div class="tree-folder">│   │       └── 📁 TPsql/</div>
+<div class="tree-file">│   │           ├── 📄 TP_Trigger_Oracle.pdf</div>
+<div class="tree-folder">│   │           ├── 📁 TP2/</div>
+<div class="tree-folder">│   │           │   ├── 📁 Mai - Copy/</div>
+<div class="tree-folder">│   │           │   │   ├── 📁 SQL_dossier/</div>
+<div class="tree-file">│   │           │   │   │   └── 📄 Creat_Table_BUDGET_ok.sql</div>
+<div class="tree-folder">│   │           │   │   └── 📁 Mai/</div>
+<div class="tree-folder">│   │           │   │       └── 📁 SQL_dossier/</div>
+<div class="tree-file">│   │           │   │           └── 📄 Creat_Table_BUDGET_ok.sql</div>
+<div class="tree-folder">│   │           │   └── 📁 Mai/</div>
+<div class="tree-file">│   │           │       ├── 📄 Q3.sql</div>
+<div class="tree-folder">│   │           │       └── 📁 Mai/</div>
+<div class="tree-file">│   │           │           ├── 📄 Q3.sql</div>
+<div class="tree-folder">│   │           │           └── 📁 SQL_dossier/</div>
+<div class="tree-file">│   │           │               ├── 📄 test.sql</div>
+<div class="tree-file">│   │           │               └── 📄 Creat_Table_BUDGET_ok.sql</div>
+<div class="tree-folder">│   │           ├── 📁 TP1/</div>
+<div class="tree-file">│   │           │   ├── 📄 TP_PLSQL_Oracle.pdf</div>
+<div class="tree-file">│   │           │   ├── 📄 exo1.sql</div>
+<div class="tree-file">│   │           │   ├── 📄 Creat_Table_BUDGET_ok.txt</div>
+<div class="tree-folder">│   │           │   └── 📁 schemas/</div>
+<div class="tree-file">│   │           │       └── 📄 scott.sql</div>
+<div class="tree-folder">│   │           └── 📁 Solutions_TP1_PLSQL/</div>
+<div class="tree-file">│   │               ├── 📄 Solution_Q4.sql</div>
+<div class="tree-file">│   │               ├── 📄 Solution_Q5.sql</div>
+<div class="tree-file">│   │               ├── 📄 Solution_Q2.sql</div>
+<div class="tree-file">│   │               └── 📄 Create_MOUJAHID_BUDGET.sql</div>
+<div class="tree-folder">│   ├── 📁 FSDM BD/</div>
+<div class="tree-folder">│   │   └── 📁 OneDrive_2020-03-26[1]/</div>
+<div class="tree-folder">│   │       └── 📁 Documents BD/</div>
+<div class="tree-file">│   │           ├── 📄 ScriptCreationBase.sql</div>
+<div class="tree-file">│   │           └── 📄 PL_SQL_GLOBAL_2020.pptx</div>
+<div class="tree-folder">│   ├── 📁 FSAC Administration BD/</div>
+<div class="tree-folder">│   │   └── 📁 Administration BD/</div>
+<div class="tree-folder">│   │       ├── 📁 TP/</div>
+<div class="tree-file">│   │       │   ├── 📄 TP1_DBA_FSAC_16_2.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 TP5-DBA-FSAC-2016.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 TP4-DBA-FSAC-2016.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 TP3-DBA-FSAC-2016.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 TP2-DBA-FSAC-2016_2.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 TP2-DBA-FSAC-2016.pdf</div>
+<div class="tree-file">│   │       │   └── 📄 Instructions_à_lire.txt</div>
+<div class="tree-folder">│   │       └── 📁 COURS/</div>
+<div class="tree-file">│   │           ├── 📄 DBA1-Module1-SMI6.pdf</div>
+<div class="tree-file">│   │           ├── 📄 DBA1-Module2-SMI6.pdf</div>
+<div class="tree-file">│   │           ├── 📄 DBA1-Module0-SMI6.pdf</div>
+<div class="tree-file">│   │           ├── 📄 DBA1-Module-3-4-5-6-7-8-SMI6.pdf</div>
+<div class="tree-file">│   │           └── 📄 DBA1-SQL.pptx</div>
+<div class="tree-folder">│   ├── 📁 SMI_S6_BD AV FS MEKNES  19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 BDavancees_CasEtude2Solution11.jpg</div>
+<div class="tree-file">│   │   ├── 📄 BDavancees_CasEtude2Solution10.jpg</div>
+<div class="tree-file">│   │   ├── 📄 BDavancees_CasEtude2Solution04.jpg</div>
+<div class="tree-file">│   │   ├── 📄 BDavancees_CasEtude2Solution05.jpg</div>
+<div class="tree-file">│   │   ├── 📄 BDavancees_CasEtude2Solution08.jpg</div>
+<div class="tree-file">│   │   ├── 📄 BDavancees_CasEtude2Solution07.jpg</div>
+<div class="tree-file">│   │   ├── 📄 BDavancees_CasEtude2Solution09.jpg</div>
+<div class="tree-file">│   │   ├── 📄 BDavancees_CasEtude2Solution06.jpg</div>
+<div class="tree-file">│   │   ├── 📄 BDavancees_CasEtude2Solution03.jpg</div>
+<div class="tree-file">│   │   ├── 📄 BDavancees_CasEtude2Solution01.jpg</div>
+<div class="tree-file">│   │   ├── 📄 BDavancees_CasEtude2Solution02.jpg</div>
+<div class="tree-file">│   │   └── 📄 Avis aux etudiants SMI_S6.docx</div>
+<div class="tree-folder">│   ├── 📁 SMI6 FPN Bases de données Avancées 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 Bases de données Avancées BasesDonnéesAvancées.pdf</div>
+<div class="tree-file">│   │   └── 📄 Bases de données Avancées serie2_SMI20.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 SMI FSJ Administration Oracle 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-folder">│   │   ├── 📁 S6 SSSS TECHNOLOGIE J2EE/</div>
+<div class="tree-file">│   │   │   ├── 📄 Servlet.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 JSP.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 atelier5.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 atelier4.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 atelier3.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 atelier2.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 atelier1.pdf</div>
+<div class="tree-folder">│   │   └── 📁 S6 SSSS DBA/</div>
+<div class="tree-file">│   │       ├── 📄 Atelier5.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Atelier4.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Atelier3_Correction.docx</div>
+<div class="tree-file">│   │       ├── 📄 Atelier3.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Atelier2_Correction.docx</div>
+<div class="tree-file">│   │       ├── 📄 Atelier2.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Atelier1.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Atelier1_correction.docx</div>
+<div class="tree-file">│   │       ├── 📄 Administration4.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Administration3.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Administration2.pdf</div>
+<div class="tree-file">│   │       └── 📄 Administration1.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 SMI FSDM BD2(PLSQL) 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 39057.pdf</div>
+<div class="tree-file">│   │   ├── 📄 6SMI_S6_Complement.pdf</div>
+<div class="tree-file">│   │   ├── 📄 2TP BD2  triggers plsql fct proc S6  V2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 1SMI_S6_P10_P10 et P98_fin.pdf</div>
+<div class="tree-file">│   │   ├── 📄 3AAA_DBAI_DD_oracle.ppt</div>
+<div class="tree-file">│   │   ├── 📄 4AAA  MemoOracle_sql.pdf</div>
+<div class="tree-file">│   │   └── 📄 5Memo_PL_SQL.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 SMI FPKHRIBGHA WEB DYNAMIQUE 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 HTML CHAKRAOUI  fpk.pdf</div>
+<div class="tree-file">│   │   ├── 📄 CSS3 CHAKRAOUI  fpk.pdf</div>
+<div class="tree-file">│   │   ├── 📄 PHP5 CHAKRAOUI  fpk.pdf</div>
+<div class="tree-file">│   │   └── 📄 PHP5 INTERCTIVITE CHAKRAOUI  UPM.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 SMI FPKHRIBGHA BASE DE DONNEES AVANCEEA 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 cours SQL chakraoui.pdf</div>
+<div class="tree-file">│   │   ├── 📄 PLSQL  SMI S6.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TP SQL-20200605/</div>
+<div class="tree-file">│   │   │   ├── 📄 TP 1.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 aeroport.txt</div>
+<div class="tree-file">│   │   │   └── 📄 TP 2.pdf</div>
+<div class="tree-folder">│   │   └── 📁 TP PLSQL-20200605/</div>
+<div class="tree-file">│   │       ├── 📄 TP 4.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TP 3.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TP 2.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TP 1.pdf</div>
+<div class="tree-file">│   │       └── 📄 aeroport.txt</div>
+<div class="tree-folder">│   ├── 📁 S6 FSO SMI Bases de Données Avancées 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 Cours_BD_Avan_SMI-S6_Moussi.ppt</div>
+<div class="tree-file">│   │   └── 📄 TP_BD_Avanc_SMI-S6_Moussi.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 FSO SMI  Bases de données avancées 19-20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 Bases de données avancées SFI36404_TD_5e71247edc5ae.pdf</div>
+<div class="tree-file">│   │   └── 📄 Bases de données avancées SFI36404_CR_5e7124525f76f.ppt</div>
+<div class="tree-folder">│   ├── 📁 S6 FSDM SMI BD2(PLSQL) SMI 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 32921.zip</div>
+<div class="tree-file">│   │   ├── 📄 6SMI_S6_Complement.pdf</div>
+<div class="tree-file">│   │   ├── 📄 2TP BD2  triggers plsql fct proc S6  V2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 1SMI_S6_P10_P10 et P98_fin.pdf</div>
+<div class="tree-file">│   │   ├── 📄 3AAA_DBAI_DD_oracle.ppt</div>
+<div class="tree-file">│   │   ├── 📄 4AAA  MemoOracle_sql.pdf</div>
+<div class="tree-file">│   │   └── 📄 5Memo_PL_SQL.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 FSAC SMI6 Système d'information décisionnel 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 video.pdf</div>
+<div class="tree-file">│   │   ├── 📄 videoA.pdf</div>
+<div class="tree-file">│   │   ├── 📄 videoCV.pdf</div>
+<div class="tree-file">│   │   ├── 📄 videoC.pdf</div>
+<div class="tree-file">│   │   └── 📄 SQL-OLAP-TP.pdf</div>
+<div class="tree-folder">│   ├── 📁 S6 FS SAFI Base de données avancées SMI6 19 20/</div>
+<div class="tree-file">│   │   ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│   │   ├── 📄 TDTP1BDA.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TDTP2BDA.pdf</div>
+<div class="tree-file">│   │   ├── 📄 cbd1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 cbd2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 cbd3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 cbd4.pdf</div>
+<div class="tree-file">│   │   └── 📄 usercours.pdf</div>
+<div class="tree-folder">│   └── 📁 FSTG BASE DE DONNEES REPARTIS 2020/</div>
+<div class="tree-file">│       ├── 📄 2022 SABOR.PNG</div>
+<div class="tree-file">│       ├── 📄 TP5.docx</div>
+<div class="tree-file">│       ├── 📄 Chapitre6_Mise en place de BD répartie.pptx</div>
+<div class="tree-file">│       ├── 📄 Chapitre5_transactions_Abdali.pptx</div>
+<div class="tree-file">│       ├── 📄 TP4.docx</div>
+<div class="tree-file">│       ├── 📄 Chapitre4_Replication_Abdali.pptx</div>
+<div class="tree-file">│       ├── 📄 TP3.docx</div>
+<div class="tree-file">│       ├── 📄 Chapitre3_Allocation_Abdali.pptx</div>
+<div class="tree-file">│       ├── 📄 TP_Fragmentation.docx</div>
+<div class="tree-file">│       ├── 📄 Chapitre2_fragmentation_Abdali.pptx</div>
+<div class="tree-file">│       ├── 📄 TD1.docx</div>
+<div class="tree-file">│       └── 📄 Chapitre1 IntroductionBDR_Abdali.ppt</div>
+<div class="tree-folder">├── 🔗📁 ++ SMI5 Base de Donnee II SABORPCMATH.COM/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 °TP SMI5 Base de Donnee II FSR RABAT 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 °TP SMI5 Base de Donnee II FSR RABAT 19 20.pdf</div>
+<div class="tree-file">│   ├── 📄 °TP SMI5 Base de Donnee II FSR RABAT 15 16.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD SMI5 Base de Donnee II FST TETOUAN 2020.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD SMI5 Base de Donnee II FST TETOUAN 2016.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD SMI5 Base de Donnee II FST TETOUAN 2015.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD SMI5 Base de Donnee II FST TETOUAN 2014.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD SMI5 Base de Donnee II FSR RABAT 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD SMI5 Base de Donnee II FSR RABAT 19 20.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD SMI5 Base de Donnee II FSR RABAT 16 17.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD SMI5 Base de Donnee II FSR RABAT 15 16.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD SMI5 Base de Donnee II FSDM FES 20 21.pdf</div>
+<div class="tree-file">│   ├── 📄 °TD SMI5 Base de Donnee II FSBM CASABLANCA.pdf</div>
+<div class="tree-file">│   ├── 📄 °EXAMENS TP SMI5 Base de Donnee II FSR RABAT.pdf</div>
+<div class="tree-file">│   ├── 📄 °EXAMENS SMI5 Base de Donnee II FSR RABAT.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS SMI5 Base de Donnee II FST TETOUAN 2020.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS SMI5 Base de Donnee II FSR RABAT 16 17.pdf</div>
+<div class="tree-file">│   ├── 📄 °COURS SMI5 Base de Donnee II FSR RABAT 15 16.pdf</div>
+<div class="tree-file">│   └── 📄 °COURS SMI5 Base de Donnee II FSBM CASABLANCA 2020.pdf</div>
+<div class="tree-folder">└── 📁 Base de données/</div>
+<div class="tree-folder">    ├── 📁 TDs et exercices corrigés/</div>
+<div class="tree-file">    │   ├── 📄 Correction TD No 4  Contraintes d’Intégrité.pdf</div>
+<div class="tree-file">    │   ├── 📄 Correction TD No 6 Couvertures Minimales – Décompositions.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD No 1 Modèle Conceptuel – Schéma Relationnel.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD No 3 SQL d’ORACLE.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD No 6 Couvertures Minimales – Décompositions.pdf</div>
+<div class="tree-file">    │   ├── 📄 Corrigé_Exercices_Révision Base de Données .pdf</div>
+<div class="tree-file">    │   ├── 📄 TD No 1 corrigé Modèle Conceptuel – Schéma Relationnel.pdf</div>
+<div class="tree-file">    │   ├── 📄 Exercices de révision.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD No 5 Dépendances Fonctionnelles.pdf</div>
+<div class="tree-file">    │   ├── 📄 Série2.pdf</div>
+<div class="tree-file">    │   ├── 📄 Série1.pdf</div>
+<div class="tree-file">    │   ├── 📄 Correction TD No 2 Algèbre et Calcul Relationnel.pdf</div>
+<div class="tree-file">    │   ├── 📄 Correction TD No 3 SQL d’ORACLE.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD No 4  Contraintes d’Intégrité.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD No 2  Algèbre et Calcul Relationnel.pdf</div>
+<div class="tree-file">    │   ├── 📄 Correction TD No 5 Dépendances Fonctionnelles.pdf</div>
+<div class="tree-file">    │   ├── 📄 TD base de données .pdf</div>
+<div class="tree-file">    │   ├── 📄 td4.jpg</div>
+<div class="tree-file">    │   ├── 📄 TD n ⁰4 base de données .pdf</div>
+<div class="tree-folder">    │   └── 📁 Tds/</div>
+<div class="tree-file">    │       ├── 📄 base donnee td1.2.pdf</div>
+<div class="tree-file">    │       ├── 📄 BD.TD4.pdf</div>
+<div class="tree-file">    │       ├── 📄 CORR-TD-BD-2A.pdf</div>
+<div class="tree-file">    │       ├── 📄 CORR-TD-BD-3A.pdf</div>
+<div class="tree-file">    │       ├── 📄 CORR-TD-BD-4A.pdf</div>
+<div class="tree-file">    │       ├── 📄 correction td1 base de donnee.pdf</div>
+<div class="tree-file">    │       ├── 📄 correction td2 base de donnee.pdf</div>
+<div class="tree-file">    │       ├── 📄 correction_TD_3.pdf</div>
+<div class="tree-file">    │       ├── 📄 l2-bdd-exercices-corriges-dependances-fonctionnelles.pdf</div>
+<div class="tree-file">    │       ├── 📄 Serie_TD_4_Corriger.pdf</div>
+<div class="tree-file">    │       ├── 📄 TD 2.pdf</div>
+<div class="tree-file">    │       ├── 📄 TD_Algèbre_Relationnelle_Corriger.pdf</div>
+<div class="tree-file">    │       ├── 📄 TD_Algèbre_Relationnelle.pdf</div>
+<div class="tree-file">    │       ├── 📄 TD_Langage_SQL.pdf</div>
+<div class="tree-file">    │       ├── 📄 td3.pdf</div>
+<div class="tree-file">    │       └── 📄 tdNormalisation-Corrige.pdf</div>
+<div class="tree-folder">    ├── 📁 Examens/</div>
+<div class="tree-file">    │   ├── 📄 Examen Bases de données avancées 09 Septembre 2020</div>
+<div class="tree-file">    │   ├── 📄 Examen BD 2020-03-16 22.05.02.pdf</div>
+<div class="tree-file">    │   ├── 📄 IMG-20210620-WA0008.jpg</div>
+<div class="tree-file">    │   ├── 📄 IMG-20210620-WA0009.jpg</div>
+<div class="tree-file">    │   ├── 📄 IMG-20210620-WA0011.jpg</div>
+<div class="tree-file">    │   ├── 📄 IMG-20210620-WA0012.jpg</div>
+<div class="tree-file">    │   ├── 📄 IMG-20210620-WA0013.jpg</div>
+<div class="tree-file">    │   ├── 📄 IMG-20210620-WA0014.jpg</div>
+<div class="tree-file">    │   ├── 📄 IMG-20210620-WA0015.jpg</div>
+<div class="tree-folder">    │   └── 📁 Examen/</div>
+<div class="tree-file">    │       ├── 📄 plusieurs examens et contrôles.pdf</div>
+<div class="tree-file">    │       ├── 📄 Examen initiation aux bases de donnees</div>
+<div class="tree-file">    │       ├── 📄 Examen Bases de données 2019-2020</div>
+<div class="tree-file">    │       ├── 📄 Examen initiation aux bases de donnees</div>
+<div class="tree-file">    │       ├── 📄 Examen initiation aux bases de données</div>
+<div class="tree-file">    │       ├── 📄 examen base de données 2024_ait_omar</div>
+<div class="tree-file">    │       ├── 📄 Examen initiation aux bases de données</div>
+<div class="tree-file">    │       ├── 📄 Examen Système d'Information et Bases de Données</div>
+<div class="tree-file">    │       └── 📄 examen base de données 2024_ait_omar.pdf</div>
+<div class="tree-folder">    ├── 📁 TP/</div>
+<div class="tree-file">    │   ├── 📄 Exercices TP Système d'information &amp; Base de données</div>
+<div class="tree-file">    │   ├── 📄 Exercices TP SI BDD</div>
+<div class="tree-file">    │   ├── 📄 Exercices TP SI &amp; BDD</div>
+<div class="tree-file">    │   ├── 📄 Exercices TP SI &amp; BDD</div>
+<div class="tree-file">    │   ├── 📄 Exercices TP SI &amp; BDD</div>
+<div class="tree-file">    │   ├── 📄 Exercices TP Base de Donnée</div>
+<div class="tree-file">    │   ├── 📄 Exercices TP Bases de données Licence d’Informatique</div>
+<div class="tree-file">    │   ├── 📄 TP6 PLSQL – Curseurs - Trigger</div>
+<div class="tree-file">    │   ├── 📄 Exercices TP Bases de donnees Licence Informatique</div>
+<div class="tree-file">    │   ├── 📄 Exercices TP Bases de données Licence d’Informatique</div>
+<div class="tree-file">    │   ├── 📄 Projet Gestion Paiements Pharmacie</div>
+<div class="tree-file">    │   ├── 📄 Exercices TP Bases de données Licence d’Informatique</div>
+<div class="tree-file">    │   ├── 📄 Exercices TP Bases de données Licence d’Informatique</div>
+<div class="tree-file">    │   ├── 📄 Exercices TP Bases de données Licence d’Informatique</div>
+<div class="tree-file">    │   ├── 📄 Exercices TP Bases de données Licence d’Informatique</div>
+<div class="tree-file">    │   ├── 📄 Exercices TP Bases de données SQL_PLUS d'Oracle</div>
+<div class="tree-file">    │   ├── 📄 Exercices TP Bases de données Licence d’Informatique</div>
+<div class="tree-folder">    │   ├── 📁 Tps/</div>
+<div class="tree-file">    │   │   ├── 📄 Exercices TP Base de données BdAchat</div>
+<div class="tree-file">    │   │   ├── 📄 Exercices TD Création de tables</div>
+<div class="tree-file">    │   │   ├── 📄 correction.txt</div>
+<div class="tree-file">    │   │   ├── 📄 creatBdBibli.sql</div>
+<div class="tree-file">    │   │   ├── 📄 insertBdbibli.sql</div>
+<div class="tree-file">    │   │   └── 📄 requetes BD Td2 amina asklou.sql</div>
+<div class="tree-folder">    │   └── 📁 Doc_excel_des_cod__de_tp/</div>
+<div class="tree-file">    │       ├── 📄 Exercices TD Gestion de Base de Données</div>
+<div class="tree-file">    │       ├── 📄 Exercices TD SQL</div>
+<div class="tree-file">    │       ├── 📄 emp_EMP_moi.sql</div>
+<div class="tree-file">    │       ├── 📄 dept.sql</div>
+<div class="tree-file">    │       ├── 📄 Classeur_table_exCel.xlsx</div>
+<div class="tree-file">    │       ├── 📄 Travaux Pratiques de Bases de Données_TP1.pdf</div>
+<div class="tree-file">    │       └── 📄 infoOrsay(1).xlsx</div>
+<div class="tree-folder">    └── 📁 Cours/</div>
+<div class="tree-file">        ├── 📄 Cours Base de données MIP Chap0 + MCD.pdf</div>
+<div class="tree-file">        ├── 📄 Chapitre 4 BDD 23-24.pdf</div>
+<div class="tree-file">        ├── 📄 Chapitre 2 BDD 23-24.pdf</div>
+<div class="tree-file">        ├── 📄 Chapitre 3 BDD 23-24.pdf</div>
+<div class="tree-file">        ├── 📄 Chapitre 1 BDD 23-24.pdf</div>
+<div class="tree-folder">        └── 📁 Cours/</div>
+<div class="tree-file">            ├── 📄 Chapitre 6 Calcul relationnel.pdf</div>
+<div class="tree-file">            ├── 📄 Chapitre 4 Modèle Relationnel.pdf</div>
+<div class="tree-file">            ├── 📄 INTRODUCTION A SQLPLUS.pdf</div>
+<div class="tree-file">            ├── 📄 Chapitre 5 Algèbre relationnel.pdf</div>
+<div class="tree-file">            ├── 📄 Chapitre 7 Langage SQL.pdf</div>
+<div class="tree-file">            ├── 📄 Chapitre 2 Modèle Conceptuel de données.pdf</div>
+<div class="tree-file">            ├── 📄 Chapitre 8 Comparaison des requêtes algébriques, en calcul relationnel et requêtes SQL.pdf</div>
+<div class="tree-file">            ├── 📄 Chapitre 1 Généralités sur les bases de données.pdf</div>
+<div class="tree-file">            ├── 📄 Chapitre 3 Construction d’un schéma EA.pdf</div>
+<div class="tree-file">            └── 📄 cours Bases de Données.pdf</div>
+
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Bases de données </strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Bases de données </span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Bases de données  ?</summary>
+      <p>
+        Le module <strong>Bases de données </strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Bases de données  ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Bases de données </strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Bases de données  correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Bases de données </em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>

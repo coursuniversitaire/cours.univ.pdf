@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Cryptographie et sécurité — Cours PDF, TD & Examens Corrigés pdf</title>
+  <meta name="description" content="Téléchargez le module Cryptographie et sécurité : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+  <meta name="keywords"    content="Cryptographie et sécurité, cours Cryptographie et sécurité pdf, td corrigés Cryptographie et sécurité, examen corrigé Cryptographie et sécurité, module Cryptographie et sécurité université, polycopié Cryptographie et sécurité, exercices corrigés Cryptographie et sécurité, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-cryptographie-et-securite-pdf.html" />
+
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Cryptographie et sécurité — Cours PDF, TD & Examens Corrigés pdf" />
+  <meta property="og:description" content="Téléchargez le module Cryptographie et sécurité : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-cryptographie-et-securite-pdf.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Cryptographie et sécurité — Cours PDF, TD & Examens Corrigés pdf" />
+  <meta name="twitter:description" content="Téléchargez le module Cryptographie et sécurité : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-08" />
+  <meta name="google-site-verification" content="MT3aHsC0-1SnLsIUjoHAOb78YW0gkPkLgvSDrkhSTeQ" />
+
+  <script type="text/javascript">
+      (function(c,l,a,r,i,t,y){
+              c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                              y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+                                  })(window, document, "clarity", "script", "xb7gvowmx9");
+                                    </script>
+
+                                     <!-- Google tag (gtag.js) -->
+                                     <script async src="https://www.googletagmanager.com/gtag/js?id=G-G55SJ5C5L0"></script>
+                                     <script>
+                                       window.dataLayer = window.dataLayer || [];
+                                         function gtag(){dataLayer.push(arguments);}
+                                           gtag('js', new Date());
+
+                                             gtag('config', 'G-G55SJ5C5L0');
+                                             </script>
+
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Cryptographie et sécurité","item":"https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-cryptographie-et-securite-pdf.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Cryptographie et sécurité ?","acceptedAnswer":{"@type":"Answer","text":"Le module Cryptographie et sécurité contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Cryptographie et sécurité ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Cryptographie et sécurité correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    h2 { font-size: 1.55rem; font-weight: 700; margin-bottom: 28px; }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Cryptographie et sécurité</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Cryptographie et sécurité</em><br />
+      Cours, TD et exercices corrigés Cryptographie et sécurité pdf &amp; Examens avec correction
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Cryptographie et sécurité</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.  
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">2</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">60</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">33</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Cryptographie et sécurité</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Cryptographie et sécurité</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Cryptographie et sécurité</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Cryptographie et sécurité">
+<div class="tree-file">├── 📄 Drive module Cryptographie et sécurité - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 🔗📁 Sécurité  (raccourci)</div>
+<div class="tree-folder">├── 🔗📁 SECURITY/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 EXAMS/</div>
+<div class="tree-file">│   │   ├── 📄 Corrigé type de l'Examen L3  SSI 2019_2020.doc</div>
+<div class="tree-file">│   │   ├── 📄 Corrige_Type_Examen_3ISIL_2024 (1).doc</div>
+<div class="tree-file">│   │   ├── 📄 2020-2021 (2).pdf</div>
+<div class="tree-file">│   │   └── 📄 Examen Securite 2022-2023 (1).pdf</div>
+<div class="tree-folder">│   ├── 📁 SOLUTION TD/</div>
+<div class="tree-file">│   │   ├── 📄 Série3 Exo1,3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 série2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 série1 .pdf</div>
+<div class="tree-file">│   │   └── 📄 exo sur le chiffrement symétrique (1).pdf</div>
+<div class="tree-folder">│   ├── 📁 TD/</div>
+<div class="tree-file">│   │   ├── 📄 Serie_03_3L_ISIL_Crypto_1 (1).doc</div>
+<div class="tree-file">│   │   ├── 📄 Serie_02_3L_ISIL_Sec_2 (1).doc</div>
+<div class="tree-file">│   │   └── 📄 Serie_01_3L_ISIL_Sec.doc</div>
+<div class="tree-folder">│   └── 📁 COURS/</div>
+<div class="tree-file">│       ├── 📄 Résumé Sécurité2 (1).pdf</div>
+<div class="tree-file">│       ├── 📄 Résumé Sécurité1 (1).pdf</div>
+<div class="tree-file">│       ├── 📄 Suite_Chap4_Crypto_Symetrique (2).ppt</div>
+<div class="tree-file">│       ├── 📄 Chapitre_4_Introduction_Crypto (2).ppt</div>
+<div class="tree-file">│       ├── 📄 Chapitre_3_Les_Menaces_Sec.pptx</div>
+<div class="tree-file">│       ├── 📄 ISO-17799-_avec_traduction (1).pdf</div>
+<div class="tree-file">│       ├── 📄 Chapitre_2_Suite_La_Norme_ISO_17799.ppt</div>
+<div class="tree-file">│       ├── 📄 Chapitre_2_la_gestion_des_risques (1).ppt</div>
+<div class="tree-file">│       ├── 📄 Chapitre_2_la_gestion_des_risques.ppt</div>
+<div class="tree-file">│       └── 📄 Chapitre_1_Introduction_Sec (1).pptx</div>
+<div class="tree-folder">├── 🔗📁 SÉCURITÉ INFORMATIQUE/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 TP/</div>
+<div class="tree-file">│   │   └── 📄 Cryptographie-Abbas-New.pptx</div>
+<div class="tree-folder">│   ├── 📁 EXERCICES/</div>
+<div class="tree-file">│   │   ├── 📄 exercices_supplimentaire.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Exercices faites en cours avec Mr Rahmani/</div>
+<div class="tree-file">│   │   │   ├── 📄 5.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 6.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 7.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 4.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 3.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 2.jpg</div>
+<div class="tree-file">│   │   │   └── 📄 1.jpg</div>
+<div class="tree-folder">│   │   └── 📁 Exercices sans corrigés (hors ALGER1)/</div>
+<div class="tree-file">│   │       ├── 📄 TD 2 SI.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD 1 securité.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Suite TD 1.pdf</div>
+<div class="tree-folder">│   │       └── 📁 CONTRÔLES/</div>
+<div class="tree-file">│   │           ├── 📄 Intero2_page2.jpg</div>
+<div class="tree-file">│   │           ├── 📄 Intero2_page1.jpg</div>
+<div class="tree-file">│   │           ├── 📄 Intero1_suj2_page2.jpg</div>
+<div class="tree-file">│   │           ├── 📄 Intero1_suj2_page1.jpg</div>
+<div class="tree-file">│   │           ├── 📄 Intero1_suj1_page2.jpg</div>
+<div class="tree-file">│   │           └── 📄 Intero1_suj1_page1.jpg</div>
+<div class="tree-folder">│   └── 📁 COURS/</div>
+<div class="tree-file">│       ├── 📄 security_resume.pdf</div>
+<div class="tree-file">│       ├── 📄 cryptography_resume.pdf</div>
+<div class="tree-folder">│       ├── 📁 Cours Abbas/</div>
+<div class="tree-folder">│       │   ├── 📁 PPTX/</div>
+<div class="tree-file">│       │   │   ├── 📄 Crypto-Chapitre 2!- Chiffrement Symétrique.pptx</div>
+<div class="tree-file">│       │   │   ├── 📄 Crypto-Chapitre 1!- Introduction, Historique et définitions.pptx</div>
+<div class="tree-file">│       │   │   ├── 📄 Crypto-Chapitre 4!- Fonctions de Hachage et Signatures numériques.pptx</div>
+<div class="tree-file">│       │   │   └── 📄 Crypto-Chapitre 3!- Chiffrement Asymétrique.pptx</div>
+<div class="tree-folder">│       │   └── 📁 PDF/</div>
+<div class="tree-file">│       │       ├── 📄 Crypto-Chapitre 4!- Fonctions de Hachage et Signatures numériques.pdf</div>
+<div class="tree-file">│       │       ├── 📄 Crypto-Chapitre 2!- Chiffrement Symétrique.pdf</div>
+<div class="tree-file">│       │       ├── 📄 Crypto-Chapitre 1!- Introduction, Historique et définitions.pdf</div>
+<div class="tree-file">│       │       └── 📄 Crypto-Chapitre 3!- Chiffrement Asymétrique.pdf</div>
+<div class="tree-folder">│       ├── 📁 Autres/</div>
+<div class="tree-file">│       │   ├── 📄 Cours5_sécurité sans fils.pptx</div>
+<div class="tree-file">│       │   ├── 📄 Cours4_Analyse de risque.pptx</div>
+<div class="tree-file">│       │   ├── 📄 Cours3_Méthodes de protection.pdf</div>
+<div class="tree-file">│       │   └── 📄 Cours1_Introduction à la sécurité.pdf</div>
+<div class="tree-folder">│       └── 📁 Cours Rahmani/</div>
+<div class="tree-file">│           ├── 📄 ICP-PKI - Infrastructures à Clés Publiques.pdf</div>
+<div class="tree-file">│           ├── 📄 01. intro_si_cours_01.pdf</div>
+<div class="tree-file">│           ├── 📄 04. Cryptographie_cle_publique_COURS_03.pdf</div>
+<div class="tree-file">│           ├── 📄 Introduction à la sécurité – Cours 8 Infrastructure de clés publiques.pdf</div>
+<div class="tree-file">│           ├── 📄 Les menaces Informatiques.pdf</div>
+<div class="tree-file">│           ├── 📄 Authentification.pptx</div>
+<div class="tree-file">│           ├── 📄 Disponibilite.pptx</div>
+<div class="tree-file">│           ├── 📄 03. crypto_symet__COURS_02.pdf</div>
+<div class="tree-file">│           ├── 📄 SÉCURITÉ_BDD.pdf</div>
+<div class="tree-file">│           ├── 📄 02. intro_cryptographie_cours_01.pdf</div>
+<div class="tree-file">│           ├── 📄 Attaques Informatiques.pptx</div>
+<div class="tree-folder">│           └── 📁 Livres _ autres/</div>
+<div class="tree-file">│               ├── 📄 Tableaux-de-bord-de-la-s-curit-r-seau-2e-dition.pdf</div>
+<div class="tree-file">│               ├── 📄 Matt Bishop-Computer Security_ Art and Science-Addison-Wesley Professional (2002).pdf</div>
+<div class="tree-file">│               ├── 📄 Cryptography for Dummies.pdf</div>
+<div class="tree-file">│               ├── 📄 cryptographie.rar</div>
+<div class="tree-file">│               └── 📄 Crypto.rar</div>
+<div class="tree-file">├── 📄 Examen Cryptographie Fonctions Hachage Signature Numerique Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Cryptographie Algorithme RC4 Clé 15 bits Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Arithmetique modulaire et Bezout avec solutions Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Chiffrement Par Permutation Soustraction Clé Blocs 8 Caractères Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen SMI6 Securite et Cryptographie 2014 2015 Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Securite et Cryptographie Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Securite et Cryptographie Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Cryptographie GenererDictionnaireCesarSubstitution Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen cryptographie master 1 universite Batna decodage chiffrement RSA Vigenere Feistel Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen Cryptographie Rattrapage SMI6 Tétouan 2016 2017 Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD securite cryptographie analyse frequentielle code substitution Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Syllabus Securite Informatique et Cryptographie FST Tetouan Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen cryptanalyse frequences caracteres francais Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Cryptographie SMI S6 Introduction Chiffrement Symétrique Asymétrique Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Machine Enigma son fonctionnement et son decryptage par Turing Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Machine Enigma son fonctionnement et son decryptage par Turing Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Cryptographie SMI S6 FST Tetouan Syllabus 2014 2015 Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Cryptographie SMI S6 FST Tetouan Syllabus 2014 2015 Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Cryptographie SMI S6 FST Tetouan Syllabus 2014 2015 Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Cryptographie GenererDictionnaireCesarSubstitution Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen Cryptographie M2 Protocoles Needham Schroeder et Exponentiation Modulo Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Cryptographie GenererDictionnaireCesarSubstitution Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen Cryptographie M2 Protocoles Needham Schroeder et Exponentiation Modulo Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Arithmetique Modulaire et Exponentielle Rapide Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Arithmetique Modulaire et Exponentielle Rapide Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD RSA Chiffrement Dchiffrement Cls Prives et Modules Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen rattrapage Cryptographie et sécurité 2015_2016-1.pdf</div>
+<div class="tree-file">├── 📄 Examen cryptographie master 1 universite Batna decodage chiffrement RSA Vigenere Feistel Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD RSA Chiffrement Dchiffrement Cls Prives et Modules Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Arithmetique Modulaire et Exponentielle Rapide Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Arithmetique Congruences et Cryptologie Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen Cryptographie M2 Protocoles Needham Schroeder et Exponentiation Modulo Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Cryptographie GenererDictionnaireCesarSubstitution Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Cryptographie SMI S6 FST Tetouan Syllabus 2014 2015 Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Machine Enigma son fonctionnement et son decryptage par Turing Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Cryptographie SMI S6 Introduction Chiffrement Symétrique Asymétrique Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen cryptanalyse frequences caracteres francais Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Securite et Cryptographie Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen Comprendre les menaces et attaques en securite informatique Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Syllabus Securite Informatique et Cryptographie FST Tetouan Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD securite cryptographie analyse frequentielle code substitution Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen Cryptographie Rattrapage SMI6 Tétouan 2016 2017 Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen SMI6 Securite et Cryptographie 2014 2015 Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen Securité Cryptographie SMI S6 2018 2019 Analyse Fraudes Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen Securite et Cryptographie Universite Tetouan 2016 2017 Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen SMI S6 securite informatique menaces et attaques Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen Cryptographie Machine Enigma Rotors Decalage Solution Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Cryptographie SMI S6 Introduction Chiffrement Symétrique Asymétrique Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Cryptographie Chiffrement Cesar Arithmetique Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Cryptographie RSA avec p 7 et q 11 Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Cryptologie Chiffrement Hill et Affaiblissement Mot de Passe Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Cryptographie L3 AES et force brute Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Chiffrement Par Permutation Soustraction Clé Blocs 8 Caractères Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Sécurité Informatique Chiffrement Asymétrique RSA Signature Numérique Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen Sécurité Informatique Cryptographie Symétrique et AES 2021 2022 Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen TD Cryptographie Classique Master SII USTHB 2021 2022 Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Sécurité Informatique Master SII USTHB 2022 Chiffrement Symétrique Asymétrique Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Arithmetique modulaire et Bezout avec solutions Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Cryptographie Modes CBC CFB OFB et Analyse Clés Symétriques Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Cryptographie Classique Decalage Attaque Frequentielle Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Sécurité Informatique Classer Actions et Attaques Ciaa Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Cryptographie Elliptique sur Z11 Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Cryptographie Algorithme RC4 Clé 15 bits Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen Cryptographie Fonctions Hachage Signature Numerique Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Cryptographie Symétrique Modes Chiffrement Bloc Flot Comparaison ECB CBC CFB Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Chiffrement de Cesar k 3 comprendre et exemple pratique Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Les 3 piliers de la cybersécurité confidentialité intégrité et disponibilité Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Cours Securite Cryptographie Asymetrique Arithmetique Modulaire Fondamentaux Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Chiffrement Asymétrique RSA Diffie Hellman ElGamal Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Chiffrement Classique Analyse Frequences El Kindi Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Arithmetique modulaire Master 1 RSD USTHB Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Cryptographie Master 1 RSD USTHB nombre clés et chiffrement volumineux Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Réseaux Sécurisés ACLs standards et étendues Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Concepts generaux securite et controle dacces RSD Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen Sécurité Informatique 2016 Master RSD Kerberos PKI Chiffrement et ACL Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen Sécurité informatique 2019 2020 Master RSD Confidentialité Intégrité Chiffrement RSA Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen Analyse Textuelle et Creation Contenu Blogger pour PDF Illisibles Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Cybersécurité et Risques SI USTHB Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD ACLs etude cas segment interne et serveur Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Systèmes Distribués et Sécurité Informatique Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Cryptographie Chiffrement Affine et Cesar Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Exercices TD Sécurité informatique Signature RSA El Gamal Master SII 2015 2016 Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen Cryptographie Master1 CS S2 Batna 2012 Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 Examen cryptographie master1-cs-s2-batna-2013 Cryptographie et sécurité</div>
+<div class="tree-file">├── 📄 temp</div>
+<div class="tree-file">├── 📄 temp</div>
+<div class="tree-file">├── 📄 corrections_TD1.ppsx</div>
+<div class="tree-file">├── 📄 corrections_TD2-Ex1.ppsx</div>
+<div class="tree-file">├── 📄 Corrigé_TD_02.docx</div>
+<div class="tree-folder">├── 🔗📁 FST TETOUAN securite et cryptographie 2019/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 Documents_relatifs_au_PFE_Lience_SMI.zip</div>
+<div class="tree-folder">│   ├── 📁 securite/</div>
+<div class="tree-file">│   │   ├── 📄 corrections_TD2-Ex1.ppsx</div>
+<div class="tree-file">│   │   ├── 📄 corrections_TD1.ppsx</div>
+<div class="tree-file">│   │   ├── 📄 SMI_S6__Projet_Tutore_2020.xlsx</div>
+<div class="tree-file">│   │   ├── 📄 Corrigé_TD_02.docx</div>
+<div class="tree-file">│   │   ├── 📄 TD02.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Security_Attacks.pdf</div>
+<div class="tree-file">│   │   └── 📄 cours_securite_01.pdf</div>
+<div class="tree-folder">│   └── 📁 crypto/</div>
+<div class="tree-file">│       ├── 📄 Corrigé_Exercice_Substitution_mono-alphabétique.pdf</div>
+<div class="tree-file">│       ├── 📄 Dictionnaire.java</div>
+<div class="tree-file">│       ├── 📄 cours_cryptographie_partie2.pdf</div>
+<div class="tree-file">│       ├── 📄 Introduction_Crypthography.pdf</div>
+<div class="tree-file">│       ├── 📄 TD01.pdf</div>
+<div class="tree-file">│       └── 📄 cours_cryptographie_part1.pdf</div>
+<div class="tree-folder">├── 🔗📁 FST TETOUAN securite et cryptographie 2021/  (raccourci)</div>
+<div class="tree-folder">│   ├── 📁 td/</div>
+<div class="tree-file">│   │   ├── 📄 TD01 (5).pdf</div>
+<div class="tree-file">│   │   └── 📄 مقترح تصحيح تمرين RSA طلبة smi6-1.pdf</div>
+<div class="tree-folder">│   ├── 📁 exams/</div>
+<div class="tree-file">│   │   ├── 📄 2019-2020-N-corr.pdf</div>
+<div class="tree-file">│   │   ├── 📄 2019-2020-R-corr.pdf</div>
+<div class="tree-file">│   │   ├── 📄 2018-2019-N-corrEX1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 rattrapage_2016_2017-1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 2019-2020-N.pdf</div>
+<div class="tree-file">│   │   ├── 📄 2019-2020-R.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Rattrapage_2014_2015-1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 controle_2015_2016-1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 controle_2014_2015.pdf</div>
+<div class="tree-file">│   │   ├── 📄 controle_2018_2019-CORR.pdf</div>
+<div class="tree-file">│   │   ├── 📄 controle_2016_2017-1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 rattrapage_2015_2016-1.pdf</div>
+<div class="tree-file">│   │   └── 📄 2020-2021-N-corr.pdf</div>
+<div class="tree-folder">│   └── 📁 cour/</div>
+<div class="tree-file">│       ├── 📄 Intro_Computer_Security (2).pdf</div>
+<div class="tree-file">│       ├── 📄 cours_cryptographie_part1 (4).pdf</div>
+<div class="tree-file">│       ├── 📄 security_attacks (4).pdf</div>
+<div class="tree-file">│       ├── 📄 Résumé de sécurité et cryptographie smi6-2.pdf</div>
+<div class="tree-file">│       ├── 📄 ch_crypto (2)-1.pdf</div>
+<div class="tree-file">│       └── 📄 Résumé de cryptographie smi6 Aissam LM-1.pdf</div>
+<div class="tree-file">├── 📄 Quiz_Security.txt</div>
+<div class="tree-folder">├── 📁 si/</div>
+<div class="tree-folder">│   ├── 📁 cours/</div>
+<div class="tree-file">│   │   ├── 📄 QCM 4.docx</div>
+<div class="tree-file">│   │   ├── 📄 QCM 3.docx</div>
+<div class="tree-file">│   │   ├── 📄 QCM 2.docx</div>
+<div class="tree-file">│   │   ├── 📄 QCM 1.docx</div>
+<div class="tree-file">│   │   ├── 📄 Systeme_de_chiffrement_asymetrique.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre_3-_Cryptographie_symetrique.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre_2-_cryptographie_classique.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre_1-_Introduction_cryptographie.pdf</div>
+<div class="tree-file">│   │   ├── 📄 securite_reseaux_L3_SIQ.pdf</div>
+<div class="tree-file">│   │   └── 📄 Securite_informatique_intro_L3_SIQ.pptx</div>
+<div class="tree-folder">│   ├── 📁 td1/</div>
+<div class="tree-file">│   │   ├── 📄 Serie_2_L3_SIQ.docx</div>
+<div class="tree-file">│   │   ├── 📄 Serie_L3_SIQ.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD04.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Séries_TD_Corrigées.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD03.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD02.pdf</div>
+<div class="tree-file">│   │   └── 📄 TD01.pdf</div>
+<div class="tree-folder">│   ├── 📁 res2/</div>
+<div class="tree-file">│   │   ├── 📄 EMD_SI_2017.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD_3_Sol.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD_3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EMD_Crypto_2018-2019.docx.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Corrige_de_lEMDCryptographie_-_S2_L3_SIQ_2018-2019.docx.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD_01_corrige.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD_02_avec_corrige.pdf</div>
+<div class="tree-file">│   │   └── 📄 TD3_corrige.pdf</div>
+<div class="tree-folder">│   ├── 📁 Examen/</div>
+<div class="tree-file">│   │   ├── 📄 EMD Crypto 2018-2019.docx</div>
+<div class="tree-file">│   │   ├── 📄 Corrigé de lEMDCryptographie - S2 L3 SIQ 2018-2019.docx</div>
+<div class="tree-file">│   │   ├── 📄 EX-L3-SI20SEPTw.docx</div>
+<div class="tree-file">│   │   ├── 📄 Corrig EMD L3_SIQ_Crypto 2016-2017.pdf</div>
+<div class="tree-file">│   │   ├── 📄 S02.pdf</div>
+<div class="tree-file">│   │   ├── 📄 02.jpg</div>
+<div class="tree-file">│   │   ├── 📄 01.jpg</div>
+<div class="tree-file">│   │   ├── 📄 Interrogation-2021_22-Correction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Controle-3L-2021-22 - Correcction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Controle-3L-2020-21-Correction (1).pdf</div>
+<div class="tree-file">│   │   ├── 📄 examen_p2.jpeg</div>
+<div class="tree-file">│   │   ├── 📄 examen_p3.jpeg</div>
+<div class="tree-file">│   │   └── 📄 examen_p1.jpeg</div>
+<div class="tree-folder">│   └── 📁 res/</div>
+<div class="tree-file">│       ├── 📄 photo_2024-01-31_16-05-36.jpg</div>
+<div class="tree-file">│       ├── 📄 photo_2024-01-31_16-05-35.jpg</div>
+<div class="tree-file">│       ├── 📄 photo_2024-01-31_16-05-38.jpg</div>
+<div class="tree-file">│       ├── 📄 resumé securité.pdf</div>
+<div class="tree-file">│       ├── 📄 TD3 corrige.pdf</div>
+<div class="tree-file">│       ├── 📄 TD 02 avec corrigé.pdf</div>
+<div class="tree-file">│       ├── 📄 TD 01 corrigé.pdf</div>
+<div class="tree-file">│       ├── 📄 1707150080-TD_sécurité .pdf</div>
+<div class="tree-file">│       ├── 📄 1707150072-TD Crypto.pdf</div>
+<div class="tree-file">│       ├── 📄 td sécurité.pdf</div>
+<div class="tree-file">│       ├── 📄 test sécurité mme Guanadiz.pdf</div>
+<div class="tree-file">│       ├── 📄 Sujet 1 2018-2017.pdf</div>
+<div class="tree-file">│       └── 📄 Sujet 2 2018-2017.pdf</div>
+<div class="tree-folder">└── 📁 SECURITY/</div>
+<div class="tree-folder">    ├── 📁 SOLUTION TD/</div>
+<div class="tree-file">    │   ├── 📄 Série3 Exo1,3.pdf</div>
+<div class="tree-file">    │   ├── 📄 série2.pdf</div>
+<div class="tree-file">    │   ├── 📄 série1 .pdf</div>
+<div class="tree-file">    │   └── 📄 exo sur le chiffrement symétrique (1).pdf</div>
+<div class="tree-folder">    ├── 📁 EXAMS/</div>
+<div class="tree-file">    │   ├── 📄 Corrigé type de l_Examen L3  SSI 2019_2020.doc</div>
+<div class="tree-file">    │   ├── 📄 Corrige_Type_Examen_3ISIL_2024 (1).doc</div>
+<div class="tree-file">    │   ├── 📄 2020-2021 (2).pdf</div>
+<div class="tree-file">    │   └── 📄 Examen Securite 2022-2023 (1).pdf</div>
+<div class="tree-folder">    ├── 📁 TD/</div>
+<div class="tree-file">    │   ├── 📄 Serie_03_3L_ISIL_Crypto_1 (1).doc</div>
+<div class="tree-file">    │   ├── 📄 Serie_02_3L_ISIL_Sec_2 (1).doc</div>
+<div class="tree-file">    │   └── 📄 Serie_01_3L_ISIL_Sec.doc</div>
+<div class="tree-folder">    └── 📁 COURS/</div>
+<div class="tree-file">        ├── 📄 Résumé Sécurité2 (1).pdf</div>
+<div class="tree-file">        ├── 📄 Résumé Sécurité1 (1).pdf</div>
+<div class="tree-file">        ├── 📄 Suite_Chap4_Crypto_Symetrique (2).ppt</div>
+<div class="tree-file">        ├── 📄 Chapitre_4_Introduction_Crypto (2).ppt</div>
+<div class="tree-file">        ├── 📄 Chapitre_3_Les_Menaces_Sec.pptx</div>
+<div class="tree-file">        ├── 📄 ISO-17799-_avec_traduction (1).pdf</div>
+<div class="tree-file">        ├── 📄 Chapitre_2_Suite_La_Norme_ISO_17799.ppt</div>
+<div class="tree-file">        ├── 📄 Chapitre_2_la_gestion_des_risques (1).ppt</div>
+<div class="tree-file">        ├── 📄 Chapitre_2_la_gestion_des_risques.ppt</div>
+<div class="tree-file">        └── 📄 Chapitre_1_Introduction_Sec (1).pptx</div>
+
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Cryptographie et sécurité</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Cryptographie et sécurité</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Cryptographie et sécurité ?</summary>
+      <p>
+        Le module <strong>Cryptographie et sécurité</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Cryptographie et sécurité ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Cryptographie et sécurité</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Cryptographie et sécurité correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Cryptographie et sécurité</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>

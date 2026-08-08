@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Algorithmes Distribués (ALDI) — Cours PDF, TD & Examens Corrigés pdf</title>
+  <meta name="description" content="Téléchargez le module Algorithmes Distribués (ALDI) : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+  <meta name="keywords"    content="Algorithmes Distribués (ALDI), cours Algorithmes Distribués (ALDI) pdf, td corrigés Algorithmes Distribués (ALDI), examen corrigé Algorithmes Distribués (ALDI), module Algorithmes Distribués (ALDI) université, polycopié Algorithmes Distribués (ALDI), exercices corrigés Algorithmes Distribués (ALDI), cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-algorithmes-distribues-aldi-pdf.html" />
+
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="Algorithmes Distribués (ALDI) — Cours PDF, TD & Examens Corrigés pdf" />
+  <meta property="og:description" content="Téléchargez le module Algorithmes Distribués (ALDI) : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-algorithmes-distribues-aldi-pdf.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="Algorithmes Distribués (ALDI) — Cours PDF, TD & Examens Corrigés pdf" />
+  <meta name="twitter:description" content="Téléchargez le module Algorithmes Distribués (ALDI) : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-08" />
+  <meta name="google-site-verification" content="MT3aHsC0-1SnLsIUjoHAOb78YW0gkPkLgvSDrkhSTeQ" />
+
+  <script type="text/javascript">
+      (function(c,l,a,r,i,t,y){
+              c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                              y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+                                  })(window, document, "clarity", "script", "xb7gvowmx9");
+                                    </script>
+
+                                     <!-- Google tag (gtag.js) -->
+                                     <script async src="https://www.googletagmanager.com/gtag/js?id=G-G55SJ5C5L0"></script>
+                                     <script>
+                                       window.dataLayer = window.dataLayer || [];
+                                         function gtag(){dataLayer.push(arguments);}
+                                           gtag('js', new Date());
+
+                                             gtag('config', 'G-G55SJ5C5L0');
+                                             </script>
+
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Algorithmes Distribués (ALDI)","item":"https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-algorithmes-distribues-aldi-pdf.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Algorithmes Distribués (ALDI) ?","acceptedAnswer":{"@type":"Answer","text":"Le module Algorithmes Distribués (ALDI) contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Algorithmes Distribués (ALDI) ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Algorithmes Distribués (ALDI) correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    h2 { font-size: 1.55rem; font-weight: 700; margin-bottom: 28px; }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>Algorithmes Distribués (ALDI)</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>Algorithmes Distribués (ALDI)</em><br />
+      Cours, TD et exercices corrigés Algorithmes Distribués (ALDI) pdf &amp; Examens avec correction
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>Algorithmes Distribués (ALDI)</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.  
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">1</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">10</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">2</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">21</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">Algorithmes Distribués (ALDI)</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés Algorithmes Distribués (ALDI)</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">Algorithmes Distribués (ALDI)</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module Algorithmes Distribués (ALDI)">
+<div class="tree-file">├── 📄 Drive module Algorithmes Distribués (ALDI) - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">├── 📁 TDs corrigés/</div>
+<div class="tree-file">│   ├── 📄 284197908_359494922948858_2586788682704705561_n.jpg</div>
+<div class="tree-file">│   ├── 📄 285441913_1021054058536923_3977018210992475581_n.jpg</div>
+<div class="tree-file">│   ├── 📄 ExercicesALDI.pdf</div>
+<div class="tree-file">│   └── 📄 ExercicesEM.pdf</div>
+<div class="tree-folder">├── 📁 Examens et contrôles/</div>
+<div class="tree-file">│   ├── 📄 18221887_1895245044047115_1877031152633459386_n.jpg</div>
+<div class="tree-file">│   ├── 📄 18740391_210877599421756_5974876607042646927_n.jpg</div>
+<div class="tree-file">│   ├── 📄 18740496_210876742755175_9197495175689501246_n.jpg</div>
+<div class="tree-file">│   ├── 📄 122254714_3683470328383593_3313915672288321117_n.jpg</div>
+<div class="tree-file">│   ├── 📄 122528697_3683470135050279_6942820557265966012_n.jpg</div>
+<div class="tree-file">│   └── 📄 Devoir_02_ALDI_M1RSD_2021_2022.pdf</div>
+<div class="tree-folder">├── 📁 Tps/</div>
+<div class="tree-file">│   ├── 📄 Correction TP ALDI 05 2021 2022 .pdf</div>
+<div class="tree-file">│   ├── 📄 Correction_TP05_ALDI_M1RSD_2021_2022_Variante 1.pdf</div>
+<div class="tree-file">│   ├── 📄 Correction_TP05_ALDI_M1RSD_2021_2022_Variante 2.pdf</div>
+<div class="tree-file">│   ├── 📄 Correction_TP05_ALDI_M1RSD_2021_2022_Variante 3.pdf</div>
+<div class="tree-file">│   ├── 📄 Présentation TP ALDI 2021 2022.pdf</div>
+<div class="tree-file">│   ├── 📄 TP ALDI 01 2021 2022 Diaporama.pdf</div>
+<div class="tree-file">│   ├── 📄 TP ALDI 01 2021 2022 Word.pdf</div>
+<div class="tree-file">│   ├── 📄 TP ALDI 02 2021 2022 Diaporama.pdf</div>
+<div class="tree-file">│   ├── 📄 TP ALDI 03 2021 2022 for student.pdf</div>
+<div class="tree-file">│   ├── 📄 TP ALDI 04 2021 2022 - Copie.pdf</div>
+<div class="tree-file">│   ├── 📄 TP ALDI 06 2021 2022 Partie 1.pdf</div>
+<div class="tree-file">│   ├── 📄 TP ALDI 06 2021 2022 Partie 2.pdf</div>
+<div class="tree-file">│   ├── 📄 TP ALDI 06 2021 2022.pdf</div>
+<div class="tree-file">│   ├── 📄 TP05_ALDI_M1RSD_2021_2022.pdf</div>
+<div class="tree-file">│   ├── 📄 TP06_ALDI_M1RSD_2021_2022_Code Commenté.pdf</div>
+<div class="tree-file">│   └── 📄 TP07_ALDI_M1RSD_2021_2022.pdf</div>
+<div class="tree-folder">├── 📁 Enregistrement /</div>
+<div class="tree-folder">│   └── 🔗📁 ALDI/  (raccourci)</div>
+<div class="tree-file">│       ├── 📄 TP ALDI 03 2021 2022 for student.pdf</div>
+<div class="tree-file">│       ├── 📄 TP05_ALDI_M1RSD_2021_2022.pdf</div>
+<div class="tree-file">│       ├── 📄 TP ALDI 02 2021 2022 Diaporama.pdf</div>
+<div class="tree-file">│       ├── 📄 TP07_ALDI_M1RSD_2021_2022.pdf</div>
+<div class="tree-file">│       ├── 📄 Correction TP ALDI N°5 Partie 1.mp4</div>
+<div class="tree-file">│       ├── 📄 TP ALDI N°5 Partie 2.mp4</div>
+<div class="tree-file">│       ├── 📄 TP ALDI 06 2021 2022 Partie 1.pdf</div>
+<div class="tree-file">│       ├── 📄 TP ALDI 06 2021 2022 Partie 2.pdf</div>
+<div class="tree-file">│       ├── 📄 TP06_ALDI_M1RSD_2021_2022_Code Commenté.pdf</div>
+<div class="tree-file">│       ├── 📄 Correction TP ALDI 05 2021 2022 .pdf</div>
+<div class="tree-file">│       ├── 📄 Correction_TP05_ALDI_M1RSD_2021_2022_Variante 1.pdf</div>
+<div class="tree-file">│       ├── 📄 Correction_TP05_ALDI_M1RSD_2021_2022_Variante 2.pdf</div>
+<div class="tree-file">│       ├── 📄 Correction_TP05_ALDI_M1RSD_2021_2022_Variante 3.pdf</div>
+<div class="tree-file">│       ├── 📄 TP ALDI 06 2021 2022.pdf</div>
+<div class="tree-file">│       ├── 📄 TP ALDI 04 2021 2022 - Copie.pdf</div>
+<div class="tree-file">│       ├── 📄 Devoir_02_ALDI_M1RSD_2021_2022.pdf</div>
+<div class="tree-file">│       ├── 📄 Ch0.Introduction.pdf</div>
+<div class="tree-file">│       ├── 📄 TP ALDI 01 2021 2022 Word.pdf</div>
+<div class="tree-file">│       ├── 📄 TP ALDI 01 2021 2022 Diaporama.pdf</div>
+<div class="tree-file">│       ├── 📄 Présentation TP ALDI 2021 2022.pdf</div>
+<div class="tree-file">│       ├── 📄 Ch1.1.EM-Permissions.pdf</div>
+<div class="tree-folder">│       └── 📁 COUR/</div>
+<div class="tree-file">│           ├── 📄 285441913_1021054058536923_3977018210992475581_n.jpg</div>
+<div class="tree-file">│           ├── 📄 284197908_359494922948858_2586788682704705561_n.jpg</div>
+<div class="tree-file">│           ├── 📄 Systèmes Répartis - 20 - Parcours _ Election dans un Graphe Quelconque.mp4</div>
+<div class="tree-file">│           ├── 📄 Systèmes Répartis - 13 - Algorithme de Ricart _ Agrawala [RA 81].mp4</div>
+<div class="tree-file">│           ├── 📄 Systèmes Répartis - 16 - Algorithme de Misra.mp4</div>
+<div class="tree-file">│           ├── 📄 Systèmes Répartis - 17 - Principes des Algorithmes d'Election.mp4</div>
+<div class="tree-file">│           ├── 📄 Systèmes Répartis - 18 - Algorithme de Chang - Roberts (v1).mp4</div>
+<div class="tree-file">│           ├── 📄 Systèmes Répartis - 07 - L'Asynchronisme _ La Diffusion.mp4</div>
+<div class="tree-file">│           ├── 📄 Systèmes Répartis - 11 - Classes de Pannes + Exclusion Mutuelle.mp4</div>
+<div class="tree-file">│           ├── 📄 Systèmes Répartis - 15 - Algorithme de Ricart _ Agrawala [RA 83 - Suzuki-Kasami].mp4</div>
+<div class="tree-file">│           ├── 📄 Systèmes Répartis - 14 - Algorithme de Le Lann [LL77].mp4</div>
+<div class="tree-file">│           ├── 📄 Systèmes Répartis - 19 - Algorithme de Chang - Roberts (v2).mp4</div>
+<div class="tree-file">│           ├── 📄 Systèmes Répartis - 01 - Introduction aux SR [1-2].mp4</div>
+<div class="tree-file">│           ├── 📄 Systèmes Répartis - 02 - Introduction aux SR [2-2].mp4</div>
+<div class="tree-file">│           ├── 📄 Systèmes Répartis - 09 - Etat Global d'un SR.mp4</div>
+<div class="tree-file">│           ├── 📄 Systèmes Répartis - 03 - Introduction à l'Algorithmique Répartie.mp4</div>
+<div class="tree-file">│           ├── 📄 Systèmes Répartis - 10 - Types de Messages + Superposition.mp4</div>
+<div class="tree-file">│           ├── 📄 Systèmes Répartis - 08 - Les Coupures (Cuts).mp4</div>
+<div class="tree-file">│           ├── 📄 Systèmes Répartis - 04 - Les Horloges Logiques de Lamport.mp4</div>
+<div class="tree-file">│           ├── 📄 ExercicesEM.pdf</div>
+<div class="tree-file">│           ├── 📄 ExercicesALDI.pdf</div>
+<div class="tree-file">│           ├── 📄 Ch3.Etat Global et Propriétés Stables.pdf</div>
+<div class="tree-file">│           ├── 📄 Ch2.RdVsdistribués.pdf</div>
+<div class="tree-file">│           ├── 📄 Ch1.6.EM-PbLecteursRédacteurs.pdf</div>
+<div class="tree-file">│           ├── 📄 Ch1.5.EM-PermissionsArbitres.pdf</div>
+<div class="tree-file">│           ├── 📄 Ch1.4.EM-ChandyMisra.pdf</div>
+<div class="tree-file">│           ├── 📄 Ch1.3.EM-CarvalhoRoucairol.pdf</div>
+<div class="tree-file">│           ├── 📄 Ch1.2.EM-RicartAgrawala.pdf</div>
+<div class="tree-file">│           ├── 📄 Ch0.Introduction.pdf</div>
+<div class="tree-file">│           └── 📄 Ch1.1.EM-Permissions.pdf</div>
+<div class="tree-folder">├── 📁 Cours/</div>
+<div class="tree-file">│   ├── 📄 Ch0.Introduction.pdf</div>
+<div class="tree-file">│   ├── 📄 Ch1.1.EM-Permissions.pdf</div>
+<div class="tree-file">│   ├── 📄 Ch1.2.EM-RicartAgrawala.pdf</div>
+<div class="tree-file">│   ├── 📄 Ch1.3.EM-CarvalhoRoucairol.pdf</div>
+<div class="tree-file">│   ├── 📄 Ch1.4.EM-ChandyMisra.pdf</div>
+<div class="tree-file">│   ├── 📄 Ch1.5.EM-PermissionsArbitres.pdf</div>
+<div class="tree-file">│   ├── 📄 Ch1.6.EM-PbLecteursRédacteurs.pdf</div>
+<div class="tree-file">│   ├── 📄 Ch2.RdVsdistribués.pdf</div>
+<div class="tree-file">│   ├── 📄 Ch3.Etat Global et Propriétés Stables.pdf</div>
+<div class="tree-file">│   ├── 📄 Ch0.Introduction.pdf</div>
+<div class="tree-file">│   └── 📄 Ch1.1.EM-Permissions.pdf</div>
+<div class="tree-folder">├── 📁 Algorithmes Distribués/</div>
+<div class="tree-folder">│   ├── 📁 Examens précédents et TDs/</div>
+<div class="tree-file">│   │   ├── 📄 td_5.pdf</div>
+<div class="tree-file">│   │   ├── 📄 td_.pdf</div>
+<div class="tree-file">│   │   ├── 📄 serie_02_reseaux.pdf</div>
+<div class="tree-file">│   │   ├── 📄 td_ad_2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 td_sd.pdf</div>
+<div class="tree-file">│   │   ├── 📄 td_irco.pdf</div>
+<div class="tree-file">│   │   ├── 📄 1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 td_ad_1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 examen_ir.pdf</div>
+<div class="tree-file">│   │   ├── 📄 exo.pdf</div>
+<div class="tree-file">│   │   └── 📄 examen_ad_2.pdf</div>
+<div class="tree-folder">│   ├── 📁 Cours/</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Chapitre 2.pdf</div>
+<div class="tree-file">│   │   └── 📄 Chapitre 1.pdf</div>
+<div class="tree-folder">│   └── 📁 TD/</div>
+<div class="tree-folder">│       ├── 📁 TD1/</div>
+<div class="tree-file">│       │   ├── 📄 131935109_3754334717962624_2519293856043241853_n.jpg</div>
+<div class="tree-file">│       │   └── 📄 131892886_3754334804629282_6626367482487074858_n.jpg</div>
+<div class="tree-folder">│       └── 📁 TD2/</div>
+<div class="tree-file">│           ├── 📄 136658947_3560228980726458_146912130294205150_n.jpg</div>
+<div class="tree-file">│           └── 📄 136407862_3560228727393150_737157094682606896_n.jpg</div>
+<div class="tree-folder">└── 📁 ALDI/</div>
+<div class="tree-file">    ├── 📄 Ch3.Etat Global et Propriétés Stables.pdf</div>
+<div class="tree-file">    ├── 📄 Ch2.RdVsdistribués.pdf</div>
+<div class="tree-file">    ├── 📄 Ch1.3.EM-CarvalhoRoucairol.pdf</div>
+<div class="tree-file">    ├── 📄 Ch1.5.EM-PermissionsArbitres.pdf</div>
+<div class="tree-file">    ├── 📄 Ch1.6.EM-PbLecteursRédacteurs.pdf</div>
+<div class="tree-file">    ├── 📄 Ch1.4.EM-ChandyMisra.pdf</div>
+<div class="tree-file">    ├── 📄 ExercicesALDI.pdf</div>
+<div class="tree-file">    ├── 📄 Ch5.ConstructionTVG.pdf</div>
+<div class="tree-file">    ├── 📄 Ch1.1.EM-Permissions.pdf</div>
+<div class="tree-file">    ├── 📄 Ch1.2.EM-RicartAgrawala.pdf</div>
+<div class="tree-folder">    ├── 📁 Exercice aldi + corrgée/</div>
+<div class="tree-file">    │   └── 📄 ExercicesALDI (1).pdf</div>
+<div class="tree-folder">    └── 📁 TP/</div>
+<div class="tree-file">        ├── 📄 TP ALDI 04 2018 2019 2eme partie.pdf</div>
+<div class="tree-file">        ├── 📄 TP ALDI 04 2018 2019 1ere partie.pdf</div>
+<div class="tree-file">        ├── 📄 TP ALDI 03 2018 2019.pdf</div>
+<div class="tree-file">        ├── 📄 TP ALDI 02 2018 2019.pdf</div>
+<div class="tree-file">        └── 📄 TP ALDI 01 PPT2018 2019.pdf</div>
+
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>Algorithmes Distribués (ALDI)</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">Algorithmes Distribués (ALDI)</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module Algorithmes Distribués (ALDI) ?</summary>
+      <p>
+        Le module <strong>Algorithmes Distribués (ALDI)</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module Algorithmes Distribués (ALDI) ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>Algorithmes Distribués (ALDI)</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module Algorithmes Distribués (ALDI) correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">Algorithmes Distribués (ALDI)</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>
