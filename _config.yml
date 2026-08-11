@@ -1,0 +1,18 @@
+title: Cours Universitaires
+description: "Cours universitaires en PDF - modules, TD, examens corrigés."
+url: "https://coursuniversitaire.github.io"
+baseurl: "/cours.univ.pdf"
+markdown: kramdown
+google_site_verification: "MT3aHsC0-1SnLsIUjoHAOb78YW0gkPkLgvSDrkhSTeQ"
+gtag_id: "G-G55SJ5C5L0"
+clarity_id: "xb7gvowmx9"
+
+collections: {}
+
+exclude:
+  - node_modules
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE

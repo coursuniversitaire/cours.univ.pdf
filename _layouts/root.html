@@ -1,0 +1,16 @@
+---
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: "fr" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% include common-head.html %}
+
+    {{ page.head | default: "" }}
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>
