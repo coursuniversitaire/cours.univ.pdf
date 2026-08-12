@@ -23,6 +23,7 @@
   --shadow: 0 2px 16px rgba(0,0,0,0.07);
 }
 html { scroll-behavior: smooth; }
+html, body { overflow-x: hidden; max-width: 100%; }
 body { font-family: 'Inter', sans-serif; background: var(--paper); color: var(--ink); font-size: 15px; line-height: 1.65; }
 
 /* NAV */
@@ -51,15 +52,18 @@ nav {
 .pill:hover { border-color: var(--accent); color: var(--accent); }
 
 /* CATEGORY FILTER BAR */
-.cat-filter-bar { display:flex; flex-wrap:wrap; gap:9px; margin-bottom:18px; }
+.cat-filter-bar { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:16px; max-width:100%; }
 .cat-pill { display:inline-flex; align-items:center; gap:5px; background:var(--card); border:1.5px solid var(--border); border-radius:999px; padding:5px 10px; font-size:0.8rem; font-weight:600; color:var(--ink); font-family:'Inter',sans-serif; cursor:pointer; transition:background .15s, color .15s, border-color .15s, transform .1s; white-space:nowrap; }
 .cat-pill:hover { border-color:var(--accent); transform:translateY(-1px); }
 .cat-pill .cp-icon { font-size:1rem; line-height:1; }
 .cat-pill .cp-count { font-size:0.74rem; font-weight:600; opacity:0.65; }
 .cat-pill.active { background:var(--accent); border-color:var(--accent); color:#fff; }
 .cat-pill.active .cp-count { opacity:0.85; }
-.cat-filter-note { font-size:0.78rem; color:var(--muted); margin:-8px 0 16px; }
-@media (max-width:640px){ .cat-filter-bar{ gap:7px; } .cat-pill{ padding:7px 12px; font-size:0.8rem; } }
+.cat-filter-note { font-size:0.78rem; color:var(--muted); margin:-6px 0 14px; }
+@media (max-width:640px){
+  .cat-filter-bar{ flex-wrap:nowrap; gap:6px; overflow-x:auto; -webkit-overflow-scrolling:touch; padding-bottom:6px; margin-bottom:12px; scrollbar-width:thin; }
+  .cat-pill{ padding:6px 10px; font-size:0.76rem; flex-shrink:0; }
+}
 .btn { display: inline-flex; align-items: center; gap: 8px; background: var(--accent); color: #fff; font-weight: 600; font-size: 0.95rem; padding: 14px 26px; border-radius: 10px; text-decoration: none; border: none; cursor: pointer; font-family: 'Inter',sans-serif; box-shadow: 0 4px 18px rgba(26,63,204,0.28); transition: transform .15s, box-shadow .15s; }
 .btn:hover { transform: translateY(-2px); box-shadow: 0 8px 26px rgba(26,63,204,0.34); }
 .btn:disabled { opacity: .5; cursor: not-allowed; transform: none; box-shadow: none; }
@@ -110,8 +114,8 @@ hr.div { border: none; border-top: 1px solid var(--border); margin: 0 2%; }
 .search-wrap input { width:100%; padding:12px 16px 12px 44px; border:1.5px solid var(--border); border-radius:10px; font-size:0.9rem; font-family:'Inter',sans-serif; background:var(--card); color:var(--ink); outline:none; transition:border-color .2s; }
 .search-wrap input:focus { border-color: var(--accent); }
 .search-icon { position:absolute; left:14px; top:50%; transform:translateY(-50%); color:var(--muted); pointer-events:none; }
-.modules-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:10px; }
-.mod-card { background:var(--card); border:1.5px solid var(--border); border-radius:11px; padding:13px 15px; cursor:pointer; display:flex; align-items:flex-start; gap:11px; transition:border-color .18s, background .18s; user-select:none; }
+.modules-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:8px; }
+.mod-card { background:var(--card); border:1.5px solid var(--border); border-radius:11px; padding:11px 12px; cursor:pointer; display:flex; align-items:flex-start; gap:9px; transition:border-color .18s, background .18s; user-select:none; min-width:0; }
 .mod-card:hover { border-color:var(--accent); background:var(--accent-light); }
 .mod-card.sel { border-color:var(--accent); background:var(--accent-light); box-shadow:0 0 0 2px var(--accent); }
 .mod-chk { width:19px; height:19px; border-radius:5px; border:2px solid var(--border); flex-shrink:0; display:flex; align-items:center; justify-content:center; transition:all .15s; margin-top:2px; font-size:0.7rem; font-weight:700; color:transparent; }
@@ -209,7 +213,7 @@ footer a { color:var(--muted); }
   .steps-row { grid-template-columns:1fr; }
   .frow { grid-template-columns:1fr; }
   .nav-links { display:none; }
-  .modules-grid { grid-template-columns:1fr 1fr; }
+  .modules-grid { grid-template-columns:1fr 1fr; gap:7px; }
 
   .hero { padding:24px 5% 28px; }
   .hero-eyebrow { margin-bottom:12px; font-size:0.72rem; }
@@ -1183,12 +1187,7 @@ function toggleFaq(btn){
 
 document.getElementById('mod-search').addEventListener('input',e=>renderMods(e.target.value));
 document.getElementById('f-email').addEventListener('input',updateUI);
-
-// ── BOUTON FLOTTANT "Accéder aux modules" ──
-// Visible dès qu'on a scrollé au-delà du bouton du hero, tant qu'aucun
-// module n'est encore sélectionné (au-delà, la cart-bar prend le relais).
-// On le cache dès qu'on atteint le catalogue, pour ne pas recouvrir les
-// cartes de modules (bug d'affichage mobile corrigé).
+ 
 const heroCta = document.getElementById('hero-cta');
 const floatCta = document.getElementById('float-cta');
 const catalogueSection = document.getElementById('catalogue');
