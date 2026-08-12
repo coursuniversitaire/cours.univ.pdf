@@ -49,6 +49,17 @@ nav {
 .hero-pills { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
 .pill { background: var(--card); border: 1.5px solid var(--border); border-radius: 999px; padding: 5px 13px; font-size: 0.8rem; font-weight: 500; color: var(--muted); text-decoration: none; cursor: pointer; }
 .pill:hover { border-color: var(--accent); color: var(--accent); }
+
+/* CATEGORY FILTER BAR */
+.cat-filter-bar { display:flex; flex-wrap:wrap; gap:9px; margin-bottom:18px; }
+.cat-pill { display:inline-flex; align-items:center; gap:7px; background:var(--card); border:1.5px solid var(--border); border-radius:999px; padding:9px 16px; font-size:0.86rem; font-weight:600; color:var(--ink); font-family:'Inter',sans-serif; cursor:pointer; transition:background .15s, color .15s, border-color .15s, transform .1s; white-space:nowrap; }
+.cat-pill:hover { border-color:var(--accent); transform:translateY(-1px); }
+.cat-pill .cp-icon { font-size:1rem; line-height:1; }
+.cat-pill .cp-count { font-size:0.74rem; font-weight:600; opacity:0.65; }
+.cat-pill.active { background:var(--accent); border-color:var(--accent); color:#fff; }
+.cat-pill.active .cp-count { opacity:0.85; }
+.cat-filter-note { font-size:0.78rem; color:var(--muted); margin:-8px 0 16px; }
+@media (max-width:640px){ .cat-filter-bar{ gap:7px; } .cat-pill{ padding:7px 12px; font-size:0.8rem; } }
 .btn { display: inline-flex; align-items: center; gap: 8px; background: var(--accent); color: #fff; font-weight: 600; font-size: 0.95rem; padding: 14px 26px; border-radius: 10px; text-decoration: none; border: none; cursor: pointer; font-family: 'Inter',sans-serif; box-shadow: 0 4px 18px rgba(26,63,204,0.28); transition: transform .15s, box-shadow .15s; }
 .btn:hover { transform: translateY(-2px); box-shadow: 0 8px 26px rgba(26,63,204,0.34); }
 .btn:disabled { opacity: .5; cursor: not-allowed; transform: none; box-shadow: none; }
@@ -589,6 +600,9 @@ img.zoomable:hover { opacity: .92; }
     <input type="search" id="mod-search" placeholder="Rechercher : Algorithmique, Thermodynamique, Bases de données…" aria-label="Rechercher un module">
   </div>
 
+  <div class="cat-filter-bar" id="cat-filter-bar" role="list" aria-label="Filtrer par catégorie"></div>
+  <p class="cat-filter-note" id="cat-filter-note" style="display:none">Un module peut apparaître dans plusieurs catégories.</p>
+
   <button type="button" class="filiere-cta" onclick="openFiliereModal()" style="margin-bottom:18px">
     🎓 Sélectionner mes modules par filière
   </button>
@@ -861,6 +875,58 @@ function norm(s){
 }
 const NORM_MODS = MODS.map(m=>({name:m, n:norm(m)}));
 
+// ── FILTRE PAR CATÉGORIE (chips au-dessus du catalogue) ──
+// Un module peut appartenir à plusieurs catégories (duplication volontaire).
+const CATEGORIES = {
+  math: { icon:'📐', label:'Mathématiques', kw:['algebre','analyse ','analyse\'','topologie','probabilite','statistique','equations differentielles','mesure et integration','calcul differentiel','calcul scientifique','logique mathematique','geometrie des courbes','chaines de markov','processus stochastique','histoire des mathematiques','theorie des graphes','recherche operationnelle','programmation lineaire','edo ','maths pour','methode numerique','methodes numeriques','mna ','methodes d\'analyse'] },
+  physique: { icon:'⚛️', label:'Physique', kw:['mecanique du point','mecanique du solide','mecanique rationnelle','mecanique analytique','mecanique quantique','thermodynamique','thermochimie','electromagnetisme','electrostatique','electrocinetique','optique','atomistique','vibrations','ondes et vibrations','structure de la matiere','physique statistique','physique nucleaire','physique des materiaux','physique des semi-conducteurs','biophysique'] },
+  info: { icon:'💻', label:'Informatique, IA & Data', kw:['applications reparties','algorithmique','programmation','systeme d\'exploitation','systemes d\'exploitation','genie logiciel','intelligence artificielle','machine learning','deep learning','data ','big data','python','java','c# ','uml','merise','compilation','securite','cloud','web','android','poo','structures de donnees','architecture des ordinateurs','systemes distribues','cryptographie','reseaux informatiques','oracle','design patterns','complexite','jee','windows','agents et systemes multi-agents','asma','algorithmes distribues','representation et raisonnement','recherche d\'information','resolution de problemes','meta-heuristiques','technologie des agents','tests logiciels','surete de fonctionnement','ihm'] },
+  bdd_si: { icon:'🗄️', label:'Bases de Données & SI', kw:['base de donnees','bases de donnees','administration et tuning','architecture et administration des bd','bi ','business intelligence','entrepots de donnees','systeme d\'information','systemes d\'information','sqdl','dss - xml','mda - idm'] },
+  electro: { icon:'⚡', label:'Électronique et Électricité', kw:['electronique','capteur','vhdl','microcontroleur','microprocesseur','optoelectronique','logique combinatoire','systemes logiques','strm','filtrage analogique','cem compatibilite'] },
+  reseaux_telecom: { icon:'📡', label:'Réseaux et Télécommunications', kw:['reseau','telecommunication','radiocommunication','communications numeriques','communications analogiques','micro-ondes','propagation','antennes','voip','routage ip','ligne de transmission','canaux de transmission','securite reseaux','tpmm','codage et compression','cri - codage','communication numerique avancee','techniques radars','technologie internet'], excl:['neurones','electrique'] },
+  civil: { icon:'🏗️', label:'Génie Civil', kw:['beton','batiment','route gc','pont','structures metalliques','geotechnique','topographie','hydraulique','hydrologique','resistance des materiaux','dynamique des structures','risque incendie','ouvrage','elasticite','vom gc','calcul des structures','sig - arcgis'] },
+  auto: { icon:'⚙️', label:'Génie Automatique', kw:['automatique','automatisme','automate','regulation','asservi','commande des','commande intelligente','systemes a evenements discrets','identification des systemes','diagnostic des systemes','systemes lineaires multivariables','snl - systemes non lineaires','theorie des variables d\'etat','actionneurs','bus de communications industriels'] },
+  industriel: { icon:'🏭', label:'Génie Industriel', kw:['gestion de production','gestion de projet','maintenance industrielle','audit & gestion industrielle','qualite logiciel','technique d\'optimisation','theorie de l\'ordonnancement'] },
+  meca: { icon:'🔩', label:'Génie Mécanique', kw:['mecanique des fluides','construction mecanique','elements finis','theorie des mecanismes','transfert de chaleur','turbomachines','moteur a combustion','dessin industriel','dao','autocad','procedes de fabrication','mecanisme industriel','mecanique des milieux continus','mecanique pour ingenieurs','aerodynamique','metallurgie','robotique'] },
+  chimie: { icon:'🧪', label:'Chimie', kw:['chimie','electrochimie','corrosion','distillation','reactivite chimique','liaisons chimiques','genie de la reaction chimique','phenomene de surface','adsorption','calcul des reacteurs'] },
+  gestion: { icon:'📊', label:'Économie & Gestion', kw:['comptabilite','marketing','management','fiscalite','microeconomie','macroeconomie','audit & gestion','droit'] },
+  electrotechnique: { icon:'🔌', label:'Électrotechnique', kw:['electrotechnique','convertisseurs electromagnetiques','association convertisseurs-machines','transmission de puissance','energies renouvelables','reseaux electriques',"reseaux de transport et de distribution",'circuits electriques','machines electriques','capteurs & metrologie','capteurs et metrologie','theorie de champ','systemes asservis','automatismes industriels','commande des machines',"materiaux et introduction a la ht",'regulation industrielle'] },
+  genie_procedes: { icon:'🧫', label:'Génie des Procédés', kw:['genie de la reaction chimique','operations unitaires','opu ','distillation','transfert de matiere','transfert de chaleur','simulation des procedes','procedes electrochimiques',"procedes d'adsorption",'milieux poreux'] },
+  cybersecurite: { icon:'🛡️', label:'Cybersécurité', kw:['cybersecurite','cryptographie','introduction a la securite','securite des bases de donnees','securite des reseaux','securite reseaux','systemes de securite','sqdl'] },
+  electromecanique: { icon:'🧲', label:'Génie Électromécanique', kw:['electromecanique','machines electriques','construction mecanique','electrotechnique','convertisseurs electromagnetiques','association convertisseurs-machines','automatismes industriels','commande des machines','installations electriques'] },
+  embarque_signal: { icon:'🔧', label:'Systèmes Embarqués & Signal', kw:['systemes embarques','systemes temps reel','dsp ','processeur de signaux','traitement du signal','traitement d\'image','vision artificielle','systemes complexes syco','meps modelisation','theorie du signal'] },
+  sciences_naturelles: { icon:'🌱', label:'Sciences de la Terre & Biologie', kw:['geologie generale','geodynamique','biologie cellulaire','biologie vegetale','ecologie generale','microbiologie generale','genetique'] },
+  simulation: { icon:'🧮', label:'Méthodes Numériques & Simulation', kw:['matlab','methodes numeriques appliquees','mna ','systemes complexes syco','theorie des langues'] },
+};
+
+function modulesForCategory(key){
+  const c = CATEGORIES[key];
+  const excl = c.excl || [];
+  return NORM_MODS.filter(m=>c.kw.some(k=>m.n.includes(k)) && !excl.some(e=>m.n.includes(e))).map(m=>m.name);
+}
+
+let activeCat = null; // null = "Tous"
+
+function renderCatFilterBar(){
+  const bar = document.getElementById('cat-filter-bar');
+  const note = document.getElementById('cat-filter-note');
+  let html = `<button type="button" class="cat-pill${activeCat===null?' active':''}" role="listitem" onclick="setActiveCat(null)"><span class="cp-icon">🗂️</span>Tous<span class="cp-count">${MODS.length}</span></button>`;
+  html += Object.keys(CATEGORIES).map(key=>{
+    const c = CATEGORIES[key];
+    const count = modulesForCategory(key).length;
+    return `<button type="button" class="cat-pill${activeCat===key?' active':''}" role="listitem" onclick="setActiveCat('${key}')"><span class="cp-icon">${c.icon}</span>${c.label}<span class="cp-count">${count}</span></button>`;
+  }).join('');
+  bar.innerHTML = html;
+  note.style.display = activeCat ? 'block' : 'none';
+}
+
+function setActiveCat(key){
+  activeCat = key;
+  renderCatFilterBar();
+  renderMods(document.getElementById('mod-search').value);
+  document.getElementById('mod-grid').scrollIntoView({behavior:'smooth', block:'nearest'});
+}
+
 const FILIERES = {
   math: { icon:'📐', label:'Mathématiques', kw:['algebre','analyse ','analyse\'','topologie','probabilite','statistique','equations differentielles','mesure et integration','calcul differentiel','calcul scientifique','logique mathematique','geometrie des courbes','chaines de markov','processus stochastique','histoire des mathematiques','theorie des graphes','recherche operationnelle','programmation lineaire','edo '] },
   physique: { icon:'⚛️', label:'Physique', kw:['mecanique du point','mecanique du solide','mecanique rationnelle','mecanique analytique','mecanique quantique','thermodynamique','thermochimie','electromagnetisme','electrostatique','electrocinetique','optique','atomistique','vibrations','ondes et vibrations','structure de la matiere','physique statistique','physique nucleaire','physique des materiaux','physique des semi-conducteurs','biophysique'] },
@@ -911,6 +977,8 @@ function selectFiliere(key){
   closeFiliereModal();
   updateUI();
   document.getElementById('mod-search').value='';
+  activeCat = null;
+  renderCatFilterBar();
   renderMods();
   const section=document.getElementById('catalogue');
   section.scrollIntoView({behavior:'smooth', block:'start'});
@@ -922,7 +990,8 @@ function renderMods(q=''){
   const grid=document.getElementById('mod-grid');
   const noRes=document.getElementById('no-res');
   grid.innerHTML='';
-  const filtered=MODS.filter(m=>!q||m.toLowerCase().includes(q.toLowerCase()));
+  const catMods = activeCat ? new Set(modulesForCategory(activeCat)) : null;
+  const filtered=MODS.filter(m=>(!q||m.toLowerCase().includes(q.toLowerCase())) && (!catMods||catMods.has(m)));
   noRes.style.display=filtered.length?'none':'block';
   filtered.forEach(name=>{
     const s=sel.has(name);
@@ -1142,6 +1211,7 @@ function updateFloatCta(){
 window.addEventListener('scroll', updateFloatCta, { passive: true });
 window.addEventListener('resize', updateFloatCta);
 
+renderCatFilterBar();
 renderMods();
 updateFloatCta();
 
