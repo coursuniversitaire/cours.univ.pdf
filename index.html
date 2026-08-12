@@ -1187,13 +1187,17 @@ document.getElementById('f-email').addEventListener('input',updateUI);
 // ── BOUTON FLOTTANT "Accéder aux modules" ──
 // Visible dès qu'on a scrollé au-delà du bouton du hero, tant qu'aucun
 // module n'est encore sélectionné (au-delà, la cart-bar prend le relais).
+// On le cache dès qu'on atteint le catalogue, pour ne pas recouvrir les
+// cartes de modules (bug d'affichage mobile corrigé).
 const heroCta = document.getElementById('hero-cta');
 const floatCta = document.getElementById('float-cta');
+const catalogueSection = document.getElementById('catalogue');
 
 function updateFloatCta(){
   if (!heroCta || !floatCta) return;
   const heroCtaVisible = heroCta.getBoundingClientRect().bottom > 0;
-  const shouldShow = !heroCtaVisible && sel.size === 0;
+  const catalogueReached = catalogueSection ? catalogueSection.getBoundingClientRect().top < window.innerHeight * 0.85 : false;
+  const shouldShow = !heroCtaVisible && !catalogueReached && sel.size === 0;
   floatCta.classList.toggle('show', shouldShow);
 }
 
