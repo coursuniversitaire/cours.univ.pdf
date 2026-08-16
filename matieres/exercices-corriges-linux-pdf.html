@@ -1,0 +1,2500 @@
+---
+---
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>linux — Cours PDF, TD & Examens Corrigés pdf</title>
+  <meta name="description" content="Téléchargez le module linux : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+  <meta name="keywords"    content="linux, cours linux pdf, td corrigés linux, examen corrigé linux, module linux université, polycopié linux, exercices corrigés linux, cours universitaire pdf" />
+  <link rel="canonical"    href="https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-linux-pdf.html" />
+
+  <meta property="og:type"        content="article" />
+  <meta property="og:title"       content="linux — Cours PDF, TD & Examens Corrigés pdf" />
+  <meta property="og:description" content="Téléchargez le module linux : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+  <meta property="og:url"         content="https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-linux-pdf.html" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Cours Universitaires PDF" />
+
+  <meta name="twitter:card"        content="summary" />
+  <meta name="twitter:title"       content="linux — Cours PDF, TD & Examens Corrigés pdf" />
+  <meta name="twitter:description" content="Téléchargez le module linux : cours complet PDF, TD et exercices corrigés, examens des années précédentes avec corrigés pdf" />
+
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="CoursUni" />
+  <meta name="date"   content="2026-08-16" />
+  {% include common-head.html %}
+
+
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"linux","item":"https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-linux-pdf.html"}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module linux ?","acceptedAnswer":{"@type":"Answer","text":"Le module linux contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module linux ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (0,5$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module linux correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+
+  <style>
+    :root {
+      --bg:          #0f172a;
+      --bg-card:     #1e293b;
+      --bg-card2:    #162032;
+      --accent:      #6366f1;
+      --accent-dark: #4f46e5;
+      --accent-glow: rgba(99,102,241,.25);
+      --green:       #22c55e;
+      --amber:       #f59e0b;
+      --text:        #f1f5f9;
+      --text-muted:  #94a3b8;
+      --border:      #334155;
+      --radius:      12px;
+      --font:        'Segoe UI', system-ui, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .container { max-width: 860px; margin: 0 auto; padding: 0 20px; }
+    section     { padding: 56px 0; border-bottom: 1px solid var(--border); }
+    section:last-of-type { border-bottom: none; }
+
+    nav {
+      background: #0a1120;
+      border-bottom: 1px solid var(--border);
+      position: sticky; top: 0; z-index: 100;
+      padding: 14px 0;
+    }
+    nav .inner {
+      max-width: 860px; margin: 0 auto; padding: 0 20px;
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px;
+    }
+    nav .logo    { font-weight: 700; font-size: 1.1rem; color: var(--text); }
+    nav .logo span { color: var(--accent); }
+    .nav-links a { color: var(--text-muted); font-size: .9rem; margin-left: 18px; }
+    .nav-links a:hover { color: var(--text); }
+
+    .breadcrumb {
+      font-size: .82rem; color: var(--text-muted);
+      padding: 12px 0; margin-bottom: -20px;
+    }
+    .breadcrumb span { margin: 0 6px; }
+
+    .hero { padding: 60px 0 48px; border-bottom: 1px solid var(--border); }
+    .badge {
+      display: inline-block;
+      background: var(--accent-glow);
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      font-size: .78rem; font-weight: 600; letter-spacing: .04em;
+      padding: 4px 14px; margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 800; line-height: 1.2;
+      margin-bottom: 16px;
+    }
+    h1 em { font-style: normal; color: var(--accent); }
+    .hero-sub {
+      font-size: 1.05rem; color: var(--text-muted); max-width: 620px;
+      margin-bottom: 28px;
+    }
+    .btn {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff !important;
+      font-weight: 700; font-size: 1rem;
+      padding: 14px 30px; border-radius: 8px;
+      transition: background .2s, box-shadow .2s;
+      text-decoration: none !important;
+    }
+    .btn:hover { background: var(--accent-dark); box-shadow: 0 0 18px var(--accent-glow); }
+    .btn-outline {
+      background: transparent;
+      border: 2px solid var(--accent);
+      color: var(--accent) !important;
+      margin-left: 12px;
+    }
+    .btn-outline:hover { background: var(--accent-glow); }
+
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 14px; margin-top: 36px;
+    }
+    .stat {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px 14px; text-align: center;
+    }
+    .stat .num { font-size: 1.6rem; font-weight: 800; color: var(--accent); }
+    .stat .lbl { font-size: .78rem; color: var(--text-muted); margin-top: 4px; }
+
+    h2 { font-size: 1.55rem; font-weight: 700; margin-bottom: 28px; }
+    h2 .accent { color: var(--accent); }
+    h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 8px; }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px 20px;
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .card:hover { border-color: var(--accent); box-shadow: 0 0 16px var(--accent-glow); }
+    .card .icon { font-size: 2rem; margin-bottom: 12px; }
+    .card p    { font-size: .88rem; color: var(--text-muted); }
+
+    .tree-wrap {
+      background: #0a1120;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 24px;
+      overflow-x: auto;
+      font-family: 'Courier New', monospace;
+      font-size: .82rem;
+      line-height: 1.75;
+      max-height: 480px;
+      overflow-y: auto;
+    }
+    .tree-folder   { color: #facc15; }
+    .tree-shortcut { color: #a78bfa; }
+    .tree-file     { color: #94a3b8; }
+    .tree-folder:hover, .tree-file:hover { color: var(--text); }
+
+    .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 18px; }
+    .step  {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 18px;
+    }
+    .step .num {
+      width: 32px; height: 32px; border-radius: 50%;
+      background: var(--accent); color: #fff;
+      font-weight: 800; font-size: .95rem;
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: 12px;
+    }
+    .step p { font-size: .88rem; color: var(--text-muted); margin-top: 6px; }
+
+    details {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      padding: 0;
+      overflow: hidden;
+    }
+    summary {
+      cursor: pointer;
+      padding: 18px 20px;
+      font-weight: 600; font-size: .97rem;
+      list-style: none;
+      display: flex; justify-content: space-between; align-items: center;
+    }
+    summary::after { content: "▼"; font-size: .75rem; color: var(--text-muted); transition: transform .2s; }
+    details[open] summary::after { transform: rotate(180deg); }
+    details p {
+      padding: 0 20px 18px;
+      color: var(--text-muted); font-size: .92rem;
+    }
+
+    .trust {
+      display: flex; flex-wrap: wrap; gap: 14px;
+      margin-top: 28px;
+    }
+    .trust-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 16px;
+      font-size: .83rem; color: var(--text-muted);
+    }
+    .trust-item strong { color: var(--text); }
+
+    .cta-section {
+      background: linear-gradient(135deg, #1e1b4b 0%, var(--bg-card) 100%);
+      border-radius: var(--radius);
+      border: 1px solid var(--accent);
+      padding: 48px 36px;
+      text-align: center;
+    }
+    .cta-section h2 { margin-bottom: 12px; }
+    .cta-section p  { color: var(--text-muted); margin-bottom: 28px; }
+
+    footer {
+      background: #0a1120;
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+      text-align: center;
+      color: var(--text-muted);
+      font-size: .85rem;
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--text); }
+
+    @media (max-width: 600px) {
+      .btn-outline { margin-left: 0; margin-top: 10px; display: inline-block; }
+      .cta-section { padding: 32px 20px; }
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <div class="inner">
+    <a class="logo" href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 <span>Cours</span>Uni</a>
+    <div class="nav-links">
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#contenu">Contenu</a>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#faq">FAQ</a>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" style="color:var(--accent);font-weight:700;">Commander →</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">Accueil</a>
+    <span>›</span>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Catalogue</a>
+    <span>›</span>
+    <span>linux</span>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="container">
+    <div class="badge">📚 Module universitaire</div>
+    <h1>
+      <em>linux</em><br />
+      Cours, TD et exercices corrigés linux pdf &amp; Examens avec correction
+    </h1>
+    <p class="hero-sub">
+      Téléchargez le module <strong>linux</strong> : cours complet, travaux dirigés (TD) corrigés,
+      examens des années précédentes avec corrections détaillées — organisés sur Google Drive.  
+    </p>
+    <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn">📥 Télécharger ce module</a>
+    <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue" class="btn btn-outline">Voir tous les modules</a>
+
+    <div class="stats-bar" style="display:none;">
+      <div class="stat"><div class="num">✓</div><div class="lbl">Fichiers cours</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TD corrigés</div></div>
+      <div class="stat"><div class="num">1</div><div class="lbl">Examens</div></div>
+      <div class="stat"><div class="num">✓</div><div class="lbl">TP / Fiches</div></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Ce que contient le module <span class="accent">linux</span></h2>
+    <div class="cards">
+      <div class="card">
+        <div class="icon">📖</div>
+        <h3>Cours complet PDF</h3>
+        <p>Le cours magistral structuré en chapitres, propre et lisible. Idéal pour réviser ou combler les lacunes.</p>
+      </div>
+      <div class="card">
+        <div class="icon">✏️</div>
+        <h3>TD &amp; exercices corrigés linux</h3>
+        <p>Travaux dirigés avec corrigés étape par étape. Comprendre la méthode, pas juste la réponse.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📝</div>
+        <h3>Examens années précédentes</h3>
+        <p>Sujets d'examens réels avec corrections complètes — le meilleur entraînement avant les partiels.</p>
+      </div>
+      <div class="card">
+        <div class="icon">📂</div>
+        <h3>Drive Google organisé</h3>
+        <p>Tous les fichiers rangés en dossiers Cours / TD / Examens / TP. Téléchargeable hors ligne.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>🗂️ Structure du Drive — <span class="accent">linux</span></h2>
+    <p style="color:var(--text-muted);margin-bottom:20px;font-size:.92rem;">
+      Aperçu de tous les fichiers et dossiers disponibles dans ce module.
+    </p>
+    <div class="tree-wrap" role="region" aria-label="Arborescence des fichiers du module linux">
+<div class="tree-folder">├── 🔗📁 Systèmes d'exploitations /  (raccourci)</div>
+<div class="tree-folder">│   ├── 🔗📁 ISE/  (raccourci)</div>
+<div class="tree-folder">│   │   ├── 📁 BOOKS/</div>
+<div class="tree-file">│   │   │   ├── 📄 wivato.com - Cours Premiers pas avec Ubuntu en PDF.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 wivato.com - Cours Kali Linux en PDF.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Operating_System_Concepts_-_Abraham Silberchatz..pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Modern_Operating_System_-_Andrew Tanenbaum.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 COURS/</div>
+<div class="tree-folder">│   │   │   ├── 📁 Cours BENHAMZA/</div>
+<div class="tree-file">│   │   │   │   ├── 📄 06ISE-Bash.pdf</div>
+<div class="tree-file">│   │   │   │   ├── 📄 05ISE-Disque.pdf</div>
+<div class="tree-file">│   │   │   │   ├── 📄 04ISE-Système de Fichier.pdf</div>
+<div class="tree-file">│   │   │   │   ├── 📄 03ISE-interblocage.pdf</div>
+<div class="tree-file">│   │   │   │   ├── 📄 02ISE-Gestion_Memoire.pdf</div>
+<div class="tree-file">│   │   │   │   ├── 📄 01ISE-Processus et Synchronisation.pdf</div>
+<div class="tree-file">│   │   │   │   ├── 📄 01ISE-Processus et Ordonnancement.pdf</div>
+<div class="tree-file">│   │   │   │   ├── 📄 00ISE-Introduction.pdf</div>
+<div class="tree-file">│   │   │   │   └── 📄 00ISE-Avant-propos.pdf</div>
+<div class="tree-folder">│   │   │   └── 📁 ENPO/</div>
+<div class="tree-file">│   │   │       ├── 📄 Cours_Chap3_18_01_22.pptx</div>
+<div class="tree-file">│   │   │       ├── 📄 cours_2_PS_2emePartie_25_02_21.pptx</div>
+<div class="tree-file">│   │   │       ├── 📄 cours_2_PS_1erePartie_09_02_21.pptx</div>
+<div class="tree-file">│   │   │       └── 📄 cours_1_intro_SE_05_01_21.pptx</div>
+<div class="tree-folder">│   │   ├── 📁 EXO+/</div>
+<div class="tree-file">│   │   │   ├── 📄 Gestion des Processus(questions cour).pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Synch.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 Gestion-de-la-memoire.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Corr Synchronisation et communication.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Exercices-Corriges-MC.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Bash.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Synchronisation et Communication des Processus.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Gestion des processus.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 les threads .pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Résume /</div>
+<div class="tree-file">│   │   │   ├── 📄 H resume SE(Fiche-Disk-interblockage-ges.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 H TP-ISE.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 H SE resum.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Cour se sunshine.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 SE résumé .pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 .Fa resume SE.pdf</div>
+<div class="tree-folder">│   │   │   └── 📁 Résumé_Cour-TP/</div>
+<div class="tree-file">│   │   │       ├── 📄 Systèmes de Stockage de Masse Disque.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 Processus et Synchronisation.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 Systèmes de Fichiers.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 Processus et Ordonnancement.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 Gestion de la Mémoire.pdf</div>
+<div class="tree-file">│   │   │       └── 📄 Guide_Commandes_Linux.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TP/</div>
+<div class="tree-folder">│   │   │   ├── 📁 IGE/</div>
+<div class="tree-folder">│   │   │   │   ├── 📁 Solution /</div>
+<div class="tree-file">│   │   │   │   │   ├── 📄 Solutions_TP_1_2_3.pdf</div>
+<div class="tree-file">│   │   │   │   │   ├── 📄 H TP-ISE.pdf</div>
+<div class="tree-file">│   │   │   │   │   ├── 📄 .K TP SE.pdf</div>
+<div class="tree-file">│   │   │   │   │   └── 📄 .N TP SE.pdf</div>
+<div class="tree-folder">│   │   │   │   └── 📁 Fiche TP/</div>
+<div class="tree-file">│   │   │   │       └── 📄 Fiche TP SE.pdf</div>
+<div class="tree-folder">│   │   │   └── 📁 TP-ENPO/</div>
+<div class="tree-file">│   │   │       ├── 📄 TP2_Creation_de_processus.docx</div>
+<div class="tree-file">│   │   │       ├── 📄 TP3_Synchronisation_Recouvrement_correction-1.docx</div>
+<div class="tree-file">│   │   │       ├── 📄 TP3_Synchronisation_Recouvrement_correction.docx</div>
+<div class="tree-file">│   │   │       └── 📄 Commandes_Linux.pptx</div>
+<div class="tree-folder">│   │   └── 📁 Cahier/</div>
+<div class="tree-file">│   │       ├── 📄 SE cour (old).pdf</div>
+<div class="tree-file">│   │       ├── 📄 .K SE.pdf</div>
+<div class="tree-file">│   │       ├── 📄 .Sai SE.pdf</div>
+<div class="tree-file">│   │       ├── 📄 .F SE.pdf</div>
+<div class="tree-file">│   │       └── 📄 .N cour SE.pdf</div>
+<div class="tree-folder">│   ├── 🔗📁 linux/  (raccourci)</div>
+<div class="tree-file">│   │   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">│   ├── 🔗📁 Systèmes d'Exploitation/  (raccourci)</div>
+<div class="tree-folder">│   │   ├── 📁 Fiches/</div>
+<div class="tree-file">│   │   │   └── 📄 Fiches Thomas 4-IR.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TD/</div>
+<div class="tree-folder">│   │   │   ├── 📁 TD2/</div>
+<div class="tree-file">│   │   │   │   ├── 📄 TD2_synchro_correction.pdf</div>
+<div class="tree-file">│   │   │   │   └── 📄 Synchronisation_TD2.pdf</div>
+<div class="tree-folder">│   │   │   ├── 📁 TD1/</div>
+<div class="tree-file">│   │   │   │   ├── 📄 Ordonnancement_Correction_TD1.pdf</div>
+<div class="tree-file">│   │   │   │   └── 📄 Ordonnancement_TD1.pdf</div>
+<div class="tree-folder">│   │   │   └── 📁 TD3/</div>
+<div class="tree-file">│   │   │       ├── 📄 Mémoire_TD3.pdf</div>
+<div class="tree-file">│   │   │       └── 📄 correction_TD3_fichier_mémoire.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Annales/</div>
+<div class="tree-file">│   │   │   ├── 📄 2013-2014 - Sujet 1 - Correction commune faite en 2016-2017.docx</div>
+<div class="tree-file">│   │   │   ├── 📄 2019-2020 - Sujet.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 2020-2021 - Sujet.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 2015-2016 - Correction commune faite en 2016-2017.docx</div>
+<div class="tree-file">│   │   │   ├── 📄 2015-2016 - Sujet.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 2013-2014 - Sujet 2.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 2013-2014 - Sujet 1 + Correction (non officiel, mais note de 19 sur 20).pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 2003-2004 - Sujet.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 2005-2006 - Sujet.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 2006-2007 - Sujet.pdf</div>
+<div class="tree-folder">│   │   └── 📁 Cours/</div>
+<div class="tree-file">│   │       ├── 📄 ch2_OS _ La structure.pdf</div>
+<div class="tree-file">│   │       ├── 📄 OS _ La structure.pdf</div>
+<div class="tree-file">│   │       ├── 📄 ch3_OS _ les processus.pdf</div>
+<div class="tree-file">│   │       ├── 📄 OS _ les processus.pdf</div>
+<div class="tree-file">│   │       ├── 📄 OS - l_ordonnancement.pdf</div>
+<div class="tree-file">│   │       ├── 📄 ch4_OS - l_ordonnancement.pdf</div>
+<div class="tree-file">│   │       ├── 📄 OS - Introduction.pdf</div>
+<div class="tree-file">│   │       ├── 📄 ch1_OS - Introduction.pdf</div>
+<div class="tree-file">│   │       ├── 📄 ch5_OS - la synchronisation.pdf</div>
+<div class="tree-file">│   │       ├── 📄 OS - la synchronisation.pdf</div>
+<div class="tree-file">│   │       ├── 📄 ch2_structure_systeme.pdf</div>
+<div class="tree-file">│   │       ├── 📄 ch1_introduction.pdf</div>
+<div class="tree-file">│   │       ├── 📄 ancien transparent.pdf</div>
+<div class="tree-folder">│   │       ├── 📁 Originaux/</div>
+<div class="tree-file">│   │       │   ├── 📄 ch7_virt_mem.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 ch6_ram.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 ch1_introduction.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 ch2_structure_systeme.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 ch3_processus.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 ch4_ordonnancement.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 ch5_synchronisation.pdf</div>
+<div class="tree-file">│   │       │   └── 📄 ch8_files_system_s.pdf</div>
+<div class="tree-folder">│   │       └── 📁 Fiches/</div>
+<div class="tree-file">│   │           ├── 📄 Fiche_chapitre6.pdf</div>
+<div class="tree-file">│   │           ├── 📄 Fiche_chapitre5.pdf</div>
+<div class="tree-file">│   │           ├── 📄 Fiche_chapitre4.pdf</div>
+<div class="tree-file">│   │           ├── 📄 Fiche_chapitre3.pdf</div>
+<div class="tree-file">│   │           ├── 📄 Fiche_chapitre2.pdf</div>
+<div class="tree-file">│   │           └── 📄 Fiche_chapitre1.pdf</div>
+<div class="tree-folder">│   ├── 🔗📁 Systèmes d’exploitation/  (raccourci)</div>
+<div class="tree-file">│   │   ├── 📄 OS_CC_SII_Corrigé_2022.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TPs/</div>
+<div class="tree-file">│   │   │   ├── 📄 Série2.docx</div>
+<div class="tree-file">│   │   │   ├── 📄 exo6 (1).c</div>
+<div class="tree-file">│   │   │   ├── 📄 exo5_serie2_part1.c</div>
+<div class="tree-file">│   │   │   ├── 📄 exo5_serie2_part2.c</div>
+<div class="tree-file">│   │   │   ├── 📄 TP sys.pptx</div>
+<div class="tree-file">│   │   │   ├── 📄 racine.c</div>
+<div class="tree-file">│   │   │   ├── 📄 exo6.c</div>
+<div class="tree-file">│   │   │   ├── 📄 exo5.c</div>
+<div class="tree-file">│   │   │   ├── 📄 exo4_quest2_serie2.c</div>
+<div class="tree-file">│   │   │   ├── 📄 exo4_quest1_serie2.c</div>
+<div class="tree-file">│   │   │   ├── 📄 exo3_serie2.c</div>
+<div class="tree-file">│   │   │   ├── 📄 exo3.c</div>
+<div class="tree-file">│   │   │   ├── 📄 carre.c</div>
+<div class="tree-file">│   │   │   ├── 📄 exo2_vg.c</div>
+<div class="tree-file">│   │   │   ├── 📄 exo2_semaphore.c</div>
+<div class="tree-file">│   │   │   ├── 📄 série 1_les processus_SII.docx</div>
+<div class="tree-file">│   │   │   └── 📄 exo2.c</div>
+<div class="tree-folder">│   │   ├── 📁 TDs/</div>
+<div class="tree-file">│   │   │   ├── 📄 OS_Série4_Corrigé.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Série4_OS_SII_2022.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 OS_Série3_EXO3_Corrigé.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 OS_Série3_EXO1&amp;2_Corrigé.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Série3_OS_SII_2022.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Devoir_M1_SII_2122.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 OS_Série2_EXO5_Corrigé.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 OS_Série2_EXO3_Corrigé.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 OS_Série2_EXO1_2_4_Corrigé.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Série1_OS_Exo3_Corrigé.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 SERIE2_M1_SII_2022.docx</div>
+<div class="tree-file">│   │   │   ├── 📄 Série1_OS_Exo1_Corrigé.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Série1_OS_SII_2022.pdf</div>
+<div class="tree-folder">│   │   └── 📁 Cours Capsules + PDFs/</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre5_OS_2022.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre4_OS_PartieII_2022.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre3_OS_PartieII_2022.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre4_OS_PartieI_2022.pdf</div>
+<div class="tree-file">│   │       ├── 📄 OS_Exemple_Gestion_Parking_Avec_Moniteur.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre3_OS_PartieI_2022.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre2_OS_PartieII_2022.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Chapitre2_OS_PartieI_2022.pdf</div>
+<div class="tree-file">│   │       └── 📄 Cours_Système_Chapitre1.pdf</div>
+<div class="tree-file">│   ├── 📄 Drive module Systèmes d'exploitations  - cours, exercices corrigés et examens.txt</div>
+<div class="tree-folder">│   ├── 🔗📁 STR/  (raccourci)</div>
+<div class="tree-file">│   │   ├── 📄 corrige-exam-str-embarque-2015-2016-essat-3emmeing-gl(1).pdf</div>
+<div class="tree-file">│   │   ├── 📄 .picasa.ini</div>
+<div class="tree-file">│   │   ├── 📄 6-23-2013-solution.pdf</div>
+<div class="tree-file">│   │   ├── 📄 chap5.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 str/</div>
+<div class="tree-file">│   │   │   ├── 📄 cour_str.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD4_ordonnancement.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 51725350_303287737000740_6329226148559454208_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 correction_TD4_ordonnancement.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 correction_TD5_communication-et-synchronisation.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD5_communication-et-synchronisation.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 52874762_807882466222727_315722706626543616_n.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 51548872_2287408617991356_8206565733849628672_n.jpg</div>
+<div class="tree-file">│   │   │   └── 📄 51733869_375465856368159_769469792242368512_n.jpg</div>
+<div class="tree-folder">│   │   └── 📁 2019/</div>
+<div class="tree-file">│   │       ├── 📄 C12Semaphoresb_1_.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Conc.pdf</div>
+<div class="tree-file">│   │       ├── 📄 prco.txt</div>
+<div class="tree-folder">│   │       └── 📁 curs/</div>
+<div class="tree-file">│   │           ├── 📄 Systeme-temps-r__el-STR.pdf</div>
+<div class="tree-file">│   │           ├── 📄 cour_str.pdf</div>
+<div class="tree-file">│   │           ├── 📄 27.jpg</div>
+<div class="tree-file">│   │           ├── 📄 28.jpg</div>
+<div class="tree-file">│   │           ├── 📄 29.jpg</div>
+<div class="tree-file">│   │           ├── 📄 8.jpg</div>
+<div class="tree-file">│   │           ├── 📄 9.jpg</div>
+<div class="tree-file">│   │           ├── 📄 5.jpg</div>
+<div class="tree-file">│   │           ├── 📄 7.jpg</div>
+<div class="tree-file">│   │           ├── 📄 4.jpg</div>
+<div class="tree-file">│   │           ├── 📄 6.jpg</div>
+<div class="tree-file">│   │           ├── 📄 30.jpg</div>
+<div class="tree-file">│   │           ├── 📄 25.jpg</div>
+<div class="tree-file">│   │           ├── 📄 3.jpg</div>
+<div class="tree-file">│   │           ├── 📄 26.jpg</div>
+<div class="tree-file">│   │           ├── 📄 24.jpg</div>
+<div class="tree-file">│   │           ├── 📄 22.jpg</div>
+<div class="tree-file">│   │           ├── 📄 23.jpg</div>
+<div class="tree-file">│   │           ├── 📄 21.jpg</div>
+<div class="tree-file">│   │           ├── 📄 20.jpg</div>
+<div class="tree-file">│   │           ├── 📄 17.jpg</div>
+<div class="tree-file">│   │           ├── 📄 2.jpg</div>
+<div class="tree-file">│   │           ├── 📄 18.jpg</div>
+<div class="tree-file">│   │           ├── 📄 16.jpg</div>
+<div class="tree-file">│   │           ├── 📄 19.jpg</div>
+<div class="tree-file">│   │           ├── 📄 15.jpg</div>
+<div class="tree-file">│   │           ├── 📄 14.jpg</div>
+<div class="tree-file">│   │           ├── 📄 13.jpg</div>
+<div class="tree-file">│   │           ├── 📄 12.jpg</div>
+<div class="tree-file">│   │           ├── 📄 11.jpg</div>
+<div class="tree-file">│   │           ├── 📄 10.jpg</div>
+<div class="tree-file">│   │           └── 📄 1.jpg</div>
+<div class="tree-folder">│   ├── 🔗📁 programmation systeme/  (raccourci)</div>
+<div class="tree-folder">│   │   ├── 📁 ProgDisM1 asr/</div>
+<div class="tree-file">│   │   │   ├── 📄 ex1seri2.txt</div>
+<div class="tree-file">│   │   │   ├── 📄 correction série 1 TD PROG-DIST.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 correction série 3 TD prog-dist.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 correction série2 TD PROG-DIST.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Programmation distribuée Java - PDF Free Download.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Programmation_distribuée_CH5.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Programmation_distribuée_CH4.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 ProgDis_M1-ASR--CH3.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 La_Programmation_Distribuée_CH2.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 La_Programmation_Distribuée_CH1.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Cours (Ghanem)/</div>
+<div class="tree-file">│   │   │   ├── 📄 cours-interblocage.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Cours-parallelsime.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 emd/</div>
+<div class="tree-file">│   │   │   ├── 📄 Examen-remplacement-PS.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Examen-PS-2018 (1).docx</div>
+<div class="tree-file">│   │   │   ├── 📄 Corrigé-Examen2020.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Examen2020-PS.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TD (Ghanem)/</div>
+<div class="tree-file">│   │   │   ├── 📄 TD1 2023-corrigé.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD1-PS-2023.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD3 2023-Corrigé.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 TD3-PS-2023.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TP/</div>
+<div class="tree-file">│   │   │   ├── 📄 série TP3.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 série 2 PS.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 serie1TP-PS.pdf</div>
+<div class="tree-folder">│   │   │   └── 📁 correction/</div>
+<div class="tree-file">│   │   │       ├── 📄 tp ps.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 TP-1-Corrigé.pdf</div>
+<div class="tree-folder">│   │   │       ├── 📁 tp1/</div>
+<div class="tree-file">│   │   │       │   ├── 📄 TP-1-Corrigé.pdf</div>
+<div class="tree-file">│   │   │       │   ├── 📄 exo4_2.c</div>
+<div class="tree-file">│   │   │       │   ├── 📄 exo4_1.c</div>
+<div class="tree-file">│   │   │       │   ├── 📄 exo2.c</div>
+<div class="tree-file">│   │   │       │   └── 📄 exo1.c</div>
+<div class="tree-folder">│   │   │       ├── 📁 tp3/</div>
+<div class="tree-file">│   │   │       │   ├── 📄 exo2.c</div>
+<div class="tree-file">│   │   │       │   └── 📄 exo1.c</div>
+<div class="tree-folder">│   │   │       └── 📁 tp2/</div>
+<div class="tree-file">│   │   │           └── 📄 exo1&amp;2.c</div>
+<div class="tree-folder">│   │   └── 📁 Programmation_Sys/</div>
+<div class="tree-file">│   │       ├── 📄 TD-PS-2020-3.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD3-corrigé.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD1-corrigé.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD-PS-2020-1.pdf</div>
+<div class="tree-file">│   │       ├── 📄 td2 ps 2020 corrige.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD-PS-2020-2.pdf</div>
+<div class="tree-folder">│   │       └── 📁 PS/</div>
+<div class="tree-file">│   │           ├── 📄 ps.pptx</div>
+<div class="tree-file">│   │           ├── 📄 TD4.pptx</div>
+<div class="tree-folder">│   │           ├── 📁 Bejaia/</div>
+<div class="tree-file">│   │           │   ├── 📄 cours-interblocage.pdf</div>
+<div class="tree-file">│   │           │   ├── 📄 TD PS-2021-4.pdf</div>
+<div class="tree-file">│   │           │   ├── 📄 TD PS-2021-3.pdf</div>
+<div class="tree-file">│   │           │   ├── 📄 TD PS-2021-2.pdf</div>
+<div class="tree-file">│   │           │   ├── 📄 TD PS-2021-1.pdf</div>
+<div class="tree-file">│   │           │   └── 📄 Cours-parallelsime (1).pdf</div>
+<div class="tree-folder">│   │           ├── 📁 PS1/</div>
+<div class="tree-file">│   │           │   ├── 📄 TD3-corrigé.pdf</div>
+<div class="tree-file">│   │           │   ├── 📄 TD-PS-2020-3.pdf</div>
+<div class="tree-file">│   │           │   ├── 📄 cours-interblocage.pdf</div>
+<div class="tree-file">│   │           │   ├── 📄 TD2-Corrigé.pdf</div>
+<div class="tree-file">│   │           │   ├── 📄 TD-PS-2020-2.pdf</div>
+<div class="tree-file">│   │           │   ├── 📄 TD1-corrigé.pdf</div>
+<div class="tree-file">│   │           │   ├── 📄 TD-PS-2020-1.pdf</div>
+<div class="tree-file">│   │           │   └── 📄 Cours-parallelsime.pdf</div>
+<div class="tree-folder">│   │           └── 📁 emd1/</div>
+<div class="tree-file">│   │               ├── 📄 Examen-remplacement-PS.pdf</div>
+<div class="tree-file">│   │               ├── 📄 Examen-PS-2018 (1).docx</div>
+<div class="tree-file">│   │               ├── 📄 Corrigé-Examen2020.pdf</div>
+<div class="tree-file">│   │               └── 📄 Examen2020-PS.pdf</div>
+<div class="tree-folder">│   ├── 🔗📁 SE2/  (raccourci)</div>
+<div class="tree-folder">│   │   ├── 📁 COURS/</div>
+<div class="tree-file">│   │   │   ├── 📄 SE2_Adouane_Chap5_Interblocage.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 SE2_Adouane_Chap4_Communications.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 SE2_Adouane_Chap3_la_synchronisation.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 SE2_Adouane_Chap2_Les threads.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 SE2_Adouane_Chap1_Notions De bases.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TP/</div>
+<div class="tree-file">│   │   │   ├── 📄 ~$TP_MKFIFO_ABBAS.pptx</div>
+<div class="tree-file">│   │   │   ├── 📄 TP_MKFIFO_ABBAS.pptx</div>
+<div class="tree-file">│   │   │   ├── 📄 .DS_Store</div>
+<div class="tree-file">│   │   │   ├── 📄 TP_SE2_ABBAS_FORK_PIPE.pdf</div>
+<div class="tree-folder">│   │   │   └── 📁 TP_SE2_ABBAS/</div>
+<div class="tree-file">│   │   │       ├── 📄 TP9.c</div>
+<div class="tree-file">│   │   │       ├── 📄 tube.c</div>
+<div class="tree-file">│   │   │       ├── 📄 TP8.c</div>
+<div class="tree-file">│   │   │       ├── 📄 TP6.c</div>
+<div class="tree-file">│   │   │       ├── 📄 TP4.c</div>
+<div class="tree-file">│   │   │       ├── 📄 TP5.c</div>
+<div class="tree-file">│   │   │       ├── 📄 TP3.c</div>
+<div class="tree-file">│   │   │       ├── 📄 TP10.c</div>
+<div class="tree-file">│   │   │       ├── 📄 TP3_1.c</div>
+<div class="tree-file">│   │   │       ├── 📄 TP2.c</div>
+<div class="tree-file">│   │   │       ├── 📄 TP11.c</div>
+<div class="tree-file">│   │   │       ├── 📄 TP3_2.c</div>
+<div class="tree-file">│   │   │       ├── 📄 TP1.c</div>
+<div class="tree-file">│   │   │       └── 📄 .DS_Store</div>
+<div class="tree-folder">│   │   ├── 📁 TD/</div>
+<div class="tree-file">│   │   │   ├── 📄 TD_SE2.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD_SE2_SOL_KHOULOUD.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 .DS_Store</div>
+<div class="tree-folder">│   │   │   └── 📁 SOLUTIONS TD 2/</div>
+<div class="tree-file">│   │   │       ├── 📄 page_9.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 page_8.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 page_6.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 page_5.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 page_4.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 page_3.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 page_2.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 page_10.jpg</div>
+<div class="tree-file">│   │   │       ├── 📄 page_1.jpg</div>
+<div class="tree-file">│   │   │       └── 📄 page_7.jpg</div>
+<div class="tree-folder">│   │   └── 📁 EXERCICES/</div>
+<div class="tree-file">│   │       ├── 📄 Exercices-corrigés-synchronisation.pdf</div>
+<div class="tree-file">│   │       ├── 📄 MONITEUR.pdf</div>
+<div class="tree-file">│   │       ├── 📄 TD1_section_critique.pdf</div>
+<div class="tree-file">│   │       ├── 📄 SÉMAPHORE.pdf</div>
+<div class="tree-file">│   │       └── 📄 .DS_Store</div>
+<div class="tree-folder">│   ├── 🔗📁 SYSTÈME D'EXPLOITATION1/  (raccourci)</div>
+<div class="tree-folder">│   │   ├── 📁 TP SE/</div>
+<div class="tree-file">│   │   │   ├── 📄 SE_TP-2.pptx</div>
+<div class="tree-file">│   │   │   ├── 📄 commandes linux + bash.txt</div>
+<div class="tree-file">│   │   │   ├── 📄 commandes linux 2.txt</div>
+<div class="tree-file">│   │   │   ├── 📄 commandes linux.txt</div>
+<div class="tree-folder">│   │   │   └── 📁 LINUX-SE/</div>
+<div class="tree-file">│   │   │       ├── 📄 SHELL PROGRAMMING (ABBAS).pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 ACL Linux.pptx</div>
+<div class="tree-file">│   │   │       └── 📄 LINUX Abbas.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Examens corrigés/</div>
+<div class="tree-file">│   │   │   ├── 📄 mi06-l2-se1-emd2012.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 mi06-l2-se1-emd2014.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 mi06-l2-se1-emd2013.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Cours (Dr.Adouane)/</div>
+<div class="tree-file">│   │   │   ├── 📄 se_chap6.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 se_chap5.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 se-chap4.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 se-chap4.pptx</div>
+<div class="tree-file">│   │   │   ├── 📄 se-chap3.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 se-chap2.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Examens SE 2017/</div>
+<div class="tree-file">│   │   │   ├── 📄 sujet_examen_se_2017.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 corrigé_examen_se_2017.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 Autres TD SE avec corrigés/</div>
+<div class="tree-file">│   │   │   ├── 📄 TD6-correction.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD6-pagination.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD5-mémoire.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD3.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD4-mémoire.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD3-correction.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD5-correction.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD2.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD2-correction.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD1.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD1_correction.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 TD4-Correction(manuscrite).pdf</div>
+<div class="tree-folder">│   │   ├── 📁 TD SE (MI-ALGER1)/</div>
+<div class="tree-file">│   │   │   ├── 📄 SOL-TD-SE.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD_SE_interruptions.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 SE_1.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD_Gestion_memoire_1.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 serie1_se.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 TD_Gestion_memoire_1_solution.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 se_exercice5.pdf</div>
+<div class="tree-folder">│   │   │   └── 📁 td_se_processus_2/</div>
+<div class="tree-file">│   │   │       ├── 📄 physiq05.gif</div>
+<div class="tree-file">│   │   │       ├── 📄 td_se_processus_2.html</div>
+<div class="tree-file">│   │   │       ├── 📄 td_se_processus2_html.zip</div>
+<div class="tree-file">│   │   │       ├── 📄 TD_SE_Série2_Ordonnanement.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 physiq04.gif</div>
+<div class="tree-file">│   │   │       ├── 📄 physiq02.gif</div>
+<div class="tree-file">│   │   │       ├── 📄 physiq01.gif</div>
+<div class="tree-file">│   │   │       └── 📄 physiq03.gif</div>
+<div class="tree-folder">│   │   ├── 📁 Test TD-TP (MI-ALGER1)/</div>
+<div class="tree-file">│   │   │   ├── 📄 Sujet_test_TD_SE.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 corrigé_test_TD_SE.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 Corrigé_test_TP_2.pdf</div>
+<div class="tree-folder">│   │   └── 📁 Résumés/</div>
+<div class="tree-file">│   │       ├── 📄 Résumé - Les entrées sortie.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Résumé - Gestion des fichiers.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Les-interruptions.docx</div>
+<div class="tree-file">│   │       ├── 📄 Gestion-des-Fichiers.docx</div>
+<div class="tree-file">│   │       └── 📄 Les-entrées-sortie.docx</div>
+<div class="tree-folder">│   ├── 🔗📁 Système d'exploitation 2/  (raccourci)</div>
+<div class="tree-folder">│   │   ├── 📁 Cours/</div>
+<div class="tree-file">│   │   │   ├── 📄 chap10.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 ECAM-OS4MEOIN-Cours7-Slides.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 7-sgm.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 alp-ch03-processes.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 ECAM-OS4MEOIN-Cours2-Slides.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 chap3.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 I_O_redirection.pptx</div>
+<div class="tree-file">│   │   │   ├── 📄 poly_smi4_5.docx</div>
+<div class="tree-file">│   │   │   ├── 📄 COurs_memoire2 (2).pptx</div>
+<div class="tree-file">│   │   │   ├── 📄 chapitre_8.pptx</div>
+<div class="tree-file">│   │   │   ├── 📄 Chapitre_7.pptx</div>
+<div class="tree-file">│   │   │   ├── 📄 Chapitre_6.pptx</div>
+<div class="tree-file">│   │   │   ├── 📄 Chapitre5.pptx</div>
+<div class="tree-file">│   │   │   ├── 📄 Chapitre_4.pptx</div>
+<div class="tree-file">│   │   │   ├── 📄 Chapitre_3.pptx</div>
+<div class="tree-file">│   │   │   ├── 📄 Chapitre_2.pptx</div>
+<div class="tree-file">│   │   │   └── 📄 Chapitre_1.pptx</div>
+<div class="tree-folder">│   │   ├── 📁 TD/</div>
+<div class="tree-file">│   │   │   ├── 📄 td_memoire (3).docx</div>
+<div class="tree-file">│   │   │   └── 📄 td_processus.docx</div>
+<div class="tree-folder">│   │   └── 📁 TP/</div>
+<div class="tree-file">│   │       ├── 📄 Manipulation.pdf</div>
+<div class="tree-file">│   │       ├── 📄 memory (2).pdf</div>
+<div class="tree-file">│   │       ├── 📄 Gestion_Threads_segments.pdf</div>
+<div class="tree-file">│   │       ├── 📄 transparents-systeme.pdf</div>
+<div class="tree-file">│   │       ├── 📄 corrige TP3.pdf</div>
+<div class="tree-file">│   │       ├── 📄 nodejs_tutorial.pdf</div>
+<div class="tree-file">│   │       ├── 📄 Swap_Paging_Buffer_Cache.docx</div>
+<div class="tree-folder">│   │       ├── 📁 Processus/</div>
+<div class="tree-file">│   │       │   ├── 📄 Gestion_des_Processus.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 ci-processus.pptx.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 child processes.docx</div>
+<div class="tree-file">│   │       │   ├── 📄 Thread_of_Process.odt</div>
+<div class="tree-file">│   │       │   └── 📄 PS_.docx</div>
+<div class="tree-folder">│   │       ├── 📁 Rapport/</div>
+<div class="tree-file">│   │       │   ├── 📄 OMARLAMINE_Rap.pdf</div>
+<div class="tree-file">│   │       │   ├── 📄 El karie  faiza.pdf</div>
+<div class="tree-file">│   │       │   └── 📄 ELYANBOUAI_Rapport_TP_Nice.pdf</div>
+<div class="tree-folder">│   │       └── 📁 Nice/</div>
+<div class="tree-file">│   │           ├── 📄 TP-Nice.pdf</div>
+<div class="tree-file">│   │           └── 📄 nice.pdf</div>
+<div class="tree-folder">│   ├── 🔗📁 SYSTEME/  (raccourci)</div>
+<div class="tree-file">│   │   ├── 📄 Solution TD 3 Réseau.doc</div>
+<div class="tree-file">│   │   ├── 📄 Solution TD 1 Réseau.doc</div>
+<div class="tree-file">│   │   ├── 📄 Solution TD 2 Réseau.doc</div>
+<div class="tree-file">│   │   ├── 📄 correction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 AKSSAS Td3_SE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 AKSSAS CORRECTION Tds Réseaux.pdf</div>
+<div class="tree-file">│   │   ├── 📄 AKSSAS CORRECTION TDs Système.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD serie2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 CamScanner 11-20-2020 07.31.06.pdf</div>
+<div class="tree-file">│   │   ├── 📄 AKSSAS Td2_SE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD série 1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 AKSSAS Td1_SE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Cours_Systèmes_LST S5.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Cours_Réseaux_LST.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SE TD series.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Exam_SE_R_2017_2018.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Exam_SE_R_2018_2019.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Exam_SE_R_2016_2017.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Examen reseau 2015.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Examen reseau 2016.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SE 2015.pdf</div>
+<div class="tree-file">│   │   ├── 📄 SE RaT 2014.pdf</div>
+<div class="tree-file">│   │   ├── 📄 systeme.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Exam.pdf</div>
+<div class="tree-file">│   │   ├── 📄 2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Gestion-de-la-memoire.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Ordonnancement-des-processus.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Gestion-des-Processus.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Generalites-sur-les-systemes-d-exploitation.pdf</div>
+<div class="tree-file">│   │   ├── 📄 OSI et TCP-IP-1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 OSI et TCP-IP.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Introduction_Reseau-1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 RESEAU.pdf.png</div>
+<div class="tree-file">│   │   ├── 📄 exercice.png</div>
+<div class="tree-file">│   │   ├── 📄 ed1-ordonnancement.pdf</div>
+<div class="tree-file">│   │   ├── 📄 AKSSAS TD.pdf</div>
+<div class="tree-file">│   │   ├── 📄 memory manger.pdf</div>
+<div class="tree-file">│   │   ├── 📄 memviertuelle.pdf</div>
+<div class="tree-file">│   │   ├── 📄 INTRODUCTION.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EXAMENS DE SE ET RESAUX PARTIE 1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 EXAMENS DE SE ET RESAUX PARTIE 2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Correction_DS_SE1_2009-2010.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD1_correction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD2-correction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD3-correction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD4-Correction(manuscrite).pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD5-correction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD6-correction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD7-pagination_correction.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Correction_SE1_2010-2011.pdf</div>
+<div class="tree-file">│   │   ├── 📄 DS_SE1_2009-2010.pdf</div>
+<div class="tree-file">│   │   ├── 📄 Exam_SE1_2010-2011.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD1.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD2.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD3.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD4-mémoire.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD6-pagination.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD5-mémoire.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD7-pagination.pdf</div>
+<div class="tree-file">│   │   ├── 📄 TD8-E-S.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 reseau/</div>
+<div class="tree-file">│   │   │   ├── 📄 شبكات الكمبيوتر من البداية حتى الاحتراف.pdf</div>
+<div class="tree-file">│   │   │   └── 📄 diaporama_cours_reseau_16_17.pdf</div>
+<div class="tree-folder">│   │   ├── 📁 SYS_RES/</div>
+<div class="tree-file">│   │   │   ├── 📄 20180126_200727.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 IMG-20180214-WA0006.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 IMG-20180214-WA0010.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 Solution TD 3 Réseau.doc</div>
+<div class="tree-file">│   │   │   ├── 📄 Solution TD 1 Réseau.doc</div>
+<div class="tree-file">│   │   │   ├── 📄 20180126_200824.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 20180126_200751.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 20180126_200837.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 IMG-20180130-WA0000.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 IMG-20180130-WA0002.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 IMG-20180130-WA0003.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 IMG-20180130-WA0001.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 IMG-20180126-WA0007.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 IMG-20180126-WA0005.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 IMG-20180126-WA0006.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 IMG-20180126-WA0004.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 IMG-20180126-WA0003.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 Nouveau document texte.txt</div>
+<div class="tree-file">│   │   │   ├── 📄 IMG-20180125-WA0000.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 IMG-20180125-WA0001.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 IMG-20180125-WA0002.jpg</div>
+<div class="tree-file">│   │   │   ├── 📄 Nouveau document 2018-01-05.pdf</div>
+<div class="tree-file">│   │   │   ├── 📄 Solution TD 2 Réseau.doc</div>
+<div class="tree-folder">│   │   │   ├── 📁 EXAM-CORR/</div>
+<div class="tree-file">│   │   │   │   ├── 📄 Exam_SE1_2010-2011.pdf</div>
+<div class="tree-file">│   │   │   │   ├── 📄 DS_SE1_2009-2010.pdf</div>
+<div class="tree-file">│   │   │   │   ├── 📄 Correction_SE1_2010-2011.pdf</div>
+<div class="tree-file">│   │   │   │   └── 📄 Correction_DS_SE1_2009-2010.pdf</div>
+<div class="tree-folder">│   │   │   └── 📁 TD-CORR/</div>
+<div class="tree-file">│   │   │       ├── 📄 TD8-E-S.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 TD7-pagination.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 TD6-pagination.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 TD5-mémoire.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 TD4-mémoire.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 TD3.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 TD2.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 TD1.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 TD7-pagination_correction.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 TD6-correction.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 TD5-correction.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 TD4-Correction(manuscrite).pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 TD3-correction.pdf</div>
+<div class="tree-file">│   │   │       ├── 📄 TD2-correction.pdf</div>
+<div class="tree-file">│   │   │       └── 📄 TD1_correction.pdf</div>
+<div class="tree-folder">│   │   └── 📁 systeme/</div>
+<div class="tree-file">│   │       ├── 📄 diaporama_cours_Syst_mes_15_16.pdf</div>
+<div class="tree-folder">│   │       └── 📁 Linux/</div>
+<div class="tree-folder">│   │           ├── 📁 TP-TD/</div>
+<div class="tree-file">│   │           │   ├── 📄 tp-linux-avec-solution.rar</div>
+<div class="tree-file">│   │           │   ├── 📄 1487283_781723575226869_7931939785202748511_n.jpg</div>
+<div class="tree-file">│   │           │   ├── 📄 15868_781723608560199_5830591170536561499_n.jpg</div>
+<div class="tree-file">│   │           │   ├── 📄 tp2.pdf</div>
+<div class="tree-file">│   │           │   ├── 📄 TD.zip</div>
+<div class="tree-folder">│   │           │   └── 📁 Untitled Folder/</div>
+<div class="tree-file">│   │           │       ├── 📄 TP1 GI.doc</div>
+<div class="tree-file">│   │           │       └── 📄 Solution TP1 GI.doc</div>
+<div class="tree-folder">│   │           └── 📁 Cours/</div>
+<div class="tree-file">│   │               ├── 📄 Chapitre 6.docx</div>
+<div class="tree-file">│   │               ├── 📄 Chapitre5.docx</div>
+<div class="tree-file">│   │               ├── 📄 Chapitre4.docx</div>
+<div class="tree-file">│   │               ├── 📄 Chapitre 0.docx</div>
+<div class="tree-file">│   │               ├── 📄 Chapitre 3.docx</div>
+<div class="tree-file">│   │               ├── 📄 Chapitre2.docx</div>
+<div class="tree-file">│   │               └── 📄 Chapitre1.docx</div>
+<div class="tree-folder">│   ├── 🔗📁 SYSTEME/  (raccourci)</div>
+<div class="tree-file">│   │   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">│   ├── 🔗📁 +SYSTEME D’EXPLOITATION I  SABORPCMATH.COM/  (raccourci)</div>
+<div class="tree-file">│   │   ├── 📄 °COURS SYSTEME D’EXPLOITATION I FPL LARACH.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TP SYSTEME D’EXPLOITATION I FSR RABAT.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TP SYSTEME D’EXPLOITATION I FSJ ELJADIDA 16 17.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TP SYSTEME D’EXPLOITATION I FSBM CASABLANCA.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TP SYSTEME D’EXPLOITATION I FSAC CASABLANCA.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TP SYSTEME D’EXPLOITATION I FSA AGADIR.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TD TP SYSTEME D’EXPLOITATION I FST FES.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TD SYSTEME D’EXPLOITATION I FST TETOUAN.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TD SYSTEME D’EXPLOITATION I FSSM MARRAKECH 20 21.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TD SYSTEME D’EXPLOITATION I FSR RABAT 2014.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TD SYSTEME D’EXPLOITATION I FSR RABAT 19 20.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TD SYSTEME D’EXPLOITATION I FSJ ELJADIDA 19 20.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TD SYSTEME D’EXPLOITATION I FSAC CASABLANCA.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °EXAMENS SYSTEME D’EXPLOITATION I FST TETOUAN.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °EXAMENS SYSTEME D’EXPLOITATION I FSSM MARRAKECH.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °EXAMENS SYSTEME D’EXPLOITATION I FSR RABAT.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °EXAMENS SYSTEME D’EXPLOITATION I FSDM FES 2021.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °EXAMENS SYSTEME D’EXPLOITATION I FSBM CASABLANCA 18 19 20.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °EXAMENS SYSTEME D’EXPLOITATION I FSAC CASABLANCA 2014.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °EXAMENS SYSTEME D’EXPLOITATION I FSA AGADIR.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °EXAMENS SYSTEME D’EXPLOITATION I FPO OUARZAZATE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °COURS SYSTEME D’EXPLOITATION I FST TETOUAN.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °COURS SYSTEME D’EXPLOITATION I FST FES.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °COURS SYSTEME D’EXPLOITATION I FSSM MARRAKECH.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °COURS SYSTEME D’EXPLOITATION I FSSM MARRAKECH 20 21.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °COURS SYSTEME D’EXPLOITATION I FSR RABAT 19 20.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °COURS SYSTEME D’EXPLOITATION I FSR RABAT 15 16.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °COURS SYSTEME D’EXPLOITATION I FSR RABAT 14 15.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °COURS SYSTEME D’EXPLOITATION I FSO OUAJDA.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °COURS SYSTEME D’EXPLOITATION I FSM MEKNES.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °COURS SYSTEME D’EXPLOITATION I FSK KENITRA 15 16.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °COURS SYSTEME D’EXPLOITATION I FSJ ELJADIDA 21 22.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °COURS SYSTEME D’EXPLOITATION I FSJ ELJADIDA 17 18.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °COURS SYSTEME D’EXPLOITATION I FSBM CASABLANCA 18 19.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °COURS SYSTEME D’EXPLOITATION I FSAC CASABLANCA 14 15.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °COURS SYSTEME D’EXPLOITATION I FSA AGADIR.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °COURS SYSTEME D’EXPLOITATION I FPO OUARZAZATE.pdf</div>
+<div class="tree-file">│   │   └── 📄 °COURS SYSTEME D’EXPLOITATION I FPK KHOURIBGA.pdf</div>
+<div class="tree-folder">│   ├── 🔗📁 + Système d'exploitation II SABORPCMATH.COM/  (raccourci)</div>
+<div class="tree-file">│   │   ├── 📄 +TD TP ystème d'exploitation II FSSM MARRAKECH.pdf</div>
+<div class="tree-file">│   │   ├── 📄 +TD Système d'exploitation II FSAC CASABLANCA.pdf</div>
+<div class="tree-file">│   │   ├── 📄 +COURS TD TP EXAMENS SYSTEME D’EXPLOITATION II FPO OUARZAZATE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TD&amp;TP Système d'exploitation II FSA AGADIR.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TD TP EXAMENS SYSTEME D’EXPLOITATION II FPO OUARZAZATE.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TD SYSTEMES D'EXPLOITATION II FSDM FES SMI 20 21.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TD SYSTEMES D'EXPLOITATION II FSDM FES SMI 19 20.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TD SYSTEME D’EXPLOITATION II SMI4 FSJ ELJADIDA.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TD FSO Système d'exploitation II OUAJDA SMI4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °Système d'exploitation II FPT TAZA.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °EXAMENS Système d'exploitation II FST TETOUAN SMI4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °EXAMENS Système d'exploitation II FSDM FES.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °EXAMENS Système d'exploitation II FSA AGADIR SMI4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °EXAMENS FSO Système d'exploitation II OUAJDA SMI4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °TD COURS SYSTEMES D'EXPLOITATION II FSR 19 20.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °COURS TD EXAMENS Système d'exploitation II FSA AGADIR SMI4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 +TP COURS SYSTEME D’EXPLOITATION II FPL LARACH.pdf</div>
+<div class="tree-file">│   │   ├── 📄 +TD COURS Système d’exploitation II FPN NADOR.pdf</div>
+<div class="tree-file">│   │   ├── 📄 +TP COURS  Système d’exploitation 2 FPS SAFI.pdf</div>
+<div class="tree-file">│   │   ├── 📄 °COURS FSO Système d'exploitation II OUAJDA SMI4.pdf</div>
+<div class="tree-file">│   │   ├── 📄 FPK KHOURIBGA cours SE2.pdf</div>
+<div class="tree-file">│   │   └── 📄 °COURS SYSTEMES D'EXPLOITATION II FSDM FES SMI 19 20.pdf</div>
+<div class="tree-folder">│   ├── 🔗📁 +SYSTEME D’EXPLOITATION I  SABORPCMATH.COM/  (raccourci)</div>
+<div class="tree-file">│   │   └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-file">│   ├── 📄 21_exo2001.pdf</div>
+<div class="tree-file">│   ├── 📄 17_exo2000.pdf</div>
+<div class="tree-file">│   ├── 📄 TD3.pdf</div>
+<div class="tree-file">│   ├── 📄 exm 6-16-2017.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys_1Master_2011_2012.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys2_LMD_Epreuve_2014_2015Cor.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2012_2013_Epreuve.pdf</div>
+<div class="tree-file">│   ├── 📄 2015_09_14_CM_2.pdf</div>
+<div class="tree-file">│   ├── 📄 5_10_exo2006.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys_1Master_2013_2014Cor.pdf</div>
+<div class="tree-file">│   ├── 📄 exm6-18-2015-1.pdf</div>
+<div class="tree-file">│   ├── 📄 11_repTP2004.pdf</div>
+<div class="tree-file">│   ├── 📄 DS_SE2_2010-2011.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys2_LMD_Epreuve_2009_2010.pdf</div>
+<div class="tree-file">│   ├── 📄 exm6-19-2014.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2012_2013_Epreuve_Corrige.pdf</div>
+<div class="tree-file">│   ├── 📄 8_TD2006.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2011_2012_Epreuve.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys2_LMD_Epreuve_2014_2015.pdf</div>
+<div class="tree-file">│   ├── 📄 2015_01_03_unix-tahar-haouet.pdf</div>
+<div class="tree-file">│   ├── 📄 TD3-Correction(1).pdf</div>
+<div class="tree-file">│   ├── 📄 3LMD_Chap2.pdf</div>
+<div class="tree-file">│   ├── 📄 2LMD_ CHAPITRE VI  SYSTEME DE GESTION DE FICHIERS.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2009_2010_EpreuveCor.pdf</div>
+<div class="tree-file">│   ├── 📄 2015_08_20_SE1_Chapitre2_Gestion_des_fichiers_2012.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys_1Master_2016_2017_RattrapageCor.pdf</div>
+<div class="tree-file">│   ├── 📄 Cours_Memoire.pdf</div>
+<div class="tree-file">│   ├── 📄 2015_08_20_SE1_Chapitre3_Gestion_des_processus_20012.pdf</div>
+<div class="tree-file">│   ├── 📄 TP_6_2015.pdf</div>
+<div class="tree-file">│   ├── 📄 TP_8_2015.pdf</div>
+<div class="tree-file">│   ├── 📄 18_repexo2000.pdf</div>
+<div class="tree-file">│   ├── 📄 2015_09_14_TD_7_2015.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys2_LMD_Rattrapage_2009_2010.pdf</div>
+<div class="tree-file">│   ├── 📄 19_repexo2004.pdf</div>
+<div class="tree-file">│   ├── 📄 14_TP2004.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys2_LMD_Epreuve_2009_2010Cor.pdf</div>
+<div class="tree-file">│   ├── 📄 exm6-16-2016-solution.pdf</div>
+<div class="tree-file">│   ├── 📄 2015_09_14_TD_6_2015.pdf</div>
+<div class="tree-file">│   ├── 📄 Correction_DS_SE2_2010-2011.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2010_2011_Epreuve.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2014_2015_EpreuveCor.pdf</div>
+<div class="tree-file">│   ├── 📄 16_repexo2000.pdf</div>
+<div class="tree-file">│   ├── 📄 exm6-21-2014-solution.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2011_2012_Rattrapage.pdf</div>
+<div class="tree-file">│   ├── 📄 exm6-24-2013-solution.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys_1Master_IL_2017_2018.pdf</div>
+<div class="tree-file">│   ├── 📄 TD1-Rappel(1).pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys2_LMD_Epreuve_2008_2009.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys2_LMD_Rattrapage_2008_2009Cor.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys_1Master_2013_2014.pdf</div>
+<div class="tree-file">│   ├── 📄 TD4-Correction(1).pdf</div>
+<div class="tree-file">│   ├── 📄 1_cours2006 Principes et notions.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys2_LMD_Epreuve_2010_2011.pdf</div>
+<div class="tree-file">│   ├── 📄 Exam Sys1_LMD_2009_2010_Rattrapage.pdf</div>
+<div class="tree-file">│   ├── 📄 2LMD_ CHAPITRE III  GESTION DES PROCESSUS.pdf</div>
+<div class="tree-file">│   ├── 📄 19_exo2004.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys_1Master_2015_2016Cor.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys_1Master_2014_2015.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys2_LMD_Epreuve_2011_2012.pdf</div>
+<div class="tree-file">│   ├── 📄 SE1_TD1_Introduction aux systemes-exploitations_2012.pdf</div>
+<div class="tree-file">│   ├── 📄 2LMD_ CHAPITRE II  CHEMINEMENT D’UN PROGRAMME DANS UN SYSTEME D’EXPLOITATION.pdf</div>
+<div class="tree-file">│   ├── 📄 8_repTD2006.pdf</div>
+<div class="tree-file">│   ├── 📄 3LMD_Chap1.pdf</div>
+<div class="tree-file">│   ├── 📄 INTRODUCTION ÀUX SYSTÈMES d'exploitation.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2010_2011_EpreuveCor.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys_1Master_IL_2017_2018Corrige.pdf</div>
+<div class="tree-file">│   ├── 📄 2LMD_CHAPITRE I  INTRODUCTION au système d exploitation.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys_1Master_2015_2016.pdf</div>
+<div class="tree-file">│   ├── 📄 3_cours2006 Fonctions des systèmes d’exploitation.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys_1Master_2010_2011.pdf</div>
+<div class="tree-file">│   ├── 📄 2015_08_20_SE1_TD2_Le_systeme_de_gestion_de_fichiers_2012.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2007_2008_EpreuveCor.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys_1Master_2014_2015Corrige.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2014_2015_RattrapageCor.pdf</div>
+<div class="tree-file">│   ├── 📄 Exercices supplémentaires SE2.pdf</div>
+<div class="tree-file">│   ├── 📄 2015_09_14_TP_3_4_2015.pdf</div>
+<div class="tree-file">│   ├── 📄 exm6-19-2014-solution.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2014_2015_EpreuveCor_Annexe.pdf</div>
+<div class="tree-file">│   ├── 📄 exm6-16-2018-solution.pdf</div>
+<div class="tree-file">│   ├── 📄 exm 6-16-2016.pdf</div>
+<div class="tree-file">│   ├── 📄 TD4-interblocages.pdf</div>
+<div class="tree-file">│   ├── 📄 2015_09_14_TD_8_9_2015.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys2_LMD_Rattrapage_2008_2009.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2009_2010_Epreuve.pdf</div>
+<div class="tree-file">│   ├── 📄 TP_9_10_2015.pdf</div>
+<div class="tree-file">│   ├── 📄 12_TP2004.pdf</div>
+<div class="tree-file">│   ├── 📄 exm 6-16-2016-2.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2009_2010_Rattrapage.pdf</div>
+<div class="tree-file">│   ├── 📄 .com.google.Chrome.Nzc7Qy</div>
+<div class="tree-file">│   ├── 📄 ExamSys_1Master_2012_2013.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2012_2013_Rattrapage.pdf</div>
+<div class="tree-file">│   ├── 📄 exm6-20-2014-solution.pdf</div>
+<div class="tree-file">│   ├── 📄 13_TP2004.pdf</div>
+<div class="tree-file">│   ├── 📄 3LMD_Chap3.pdf</div>
+<div class="tree-file">│   ├── 📄 2015_09_14_TP_1_2015.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2010_2011_Rattrapage.pdf</div>
+<div class="tree-file">│   ├── 📄 18_exo2000.pdf</div>
+<div class="tree-file">│   ├── 📄 2_cours2006 Commandes UNIX-LINUX.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2008_2009_Epreuve.pdf</div>
+<div class="tree-file">│   ├── 📄 2LMD_Chap1.pdf</div>
+<div class="tree-file">│   ├── 📄 exm 6-16-2018.pdf</div>
+<div class="tree-file">│   ├── 📄 exmn6-7 .pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2007_2008_Epreuve.pdf</div>
+<div class="tree-file">│   ├── 📄 exm6-22-2014.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys2_LMD_Epreuve_2010_2011Cor.pdf</div>
+<div class="tree-file">│   ├── 📄 2LMD_Chap5.pdf</div>
+<div class="tree-file">│   ├── 📄 Correction-DS_2011-2012.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2014_2015_Rattrapage.pdf</div>
+<div class="tree-file">│   ├── 📄 2LMD_Chap4.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys2_LMD_Epreuve_2013_2014.pdf</div>
+<div class="tree-file">│   ├── 📄 2015_09_14_TD_5_2015.pdf</div>
+<div class="tree-file">│   ├── 📄 9_TD2006.pdf</div>
+<div class="tree-file">│   ├── 📄 Correction_Exam_SE2_2009-2010.pdf</div>
+<div class="tree-file">│   ├── 📄 15_TP2004.pdf</div>
+<div class="tree-file">│   ├── 📄 ExamSys1_LMD_2007_2008_Rattrapage.pdf</div>
+<div class="tree-folder">│   └── 📁 les systèmes d_exploitation/</div>
+<div class="tree-folder">│       ├── 📁 cours/</div>
+<div class="tree-file">│       │   └── 📄 null.pdf</div>
+<div class="tree-folder">│       ├── 📁 Système d_exploitation/</div>
+<div class="tree-file">│       │   ├── 📄 Série 2.docx</div>
+<div class="tree-file">│       │   ├── 📄 Cours Système d_exploitation .pptx</div>
+<div class="tree-file">│       │   └── 📄 Série UNIX.docx</div>
+<div class="tree-folder">│       └── 📁 Système d_exploitation/</div>
+<div class="tree-file">│           ├── 📄 TP1 &amp; TP2 &amp; TP3 pdf systémes d_exploitation.pdf</div>
+<div class="tree-file">│           ├── 📄 Cours SE cp2version2021.ppt</div>
+<div class="tree-file">│           ├── 📄 TPs Systèmes d_exploitations 2021.pdf</div>
+<div class="tree-folder">│           ├── 📁 cours/</div>
+<div class="tree-file">│           │   ├── 📄 cour.pptx</div>
+<div class="tree-file">│           │   └── 📄 system_d_exploitation(résumé).pdf</div>
+<div class="tree-folder">│           ├── 📁 TD/</div>
+<div class="tree-file">│           │   └── 📄 Exercices systèmes d_exploitation.pdf</div>
+<div class="tree-folder">│           └── 📁 TP/</div>
+<div class="tree-folder">├── 🔗📁 contro/  (raccourci)</div>
+<div class="tree-file">│   ├── 📄 05022010436.jpg</div>
+<div class="tree-file">│   ├── 📄 05022010435.jpg</div>
+<div class="tree-file">│   ├── 📄 05022010434.jpg</div>
+<div class="tree-file">│   ├── 📄 05022010433.jpg</div>
+<div class="tree-file">│   ├── 📄 05022010431.jpg</div>
+<div class="tree-file">│   ├── 📄 05022010430.jpg</div>
+<div class="tree-file">│   ├── 📄 05022010429.jpg</div>
+<div class="tree-file">│   └── 📄 05022010428.jpg</div>
+<div class="tree-folder">└── 📁 autres drives/</div>
+<div class="tree-folder">    ├── 🔗📁 Linux/  (raccourci)</div>
+<div class="tree-file">    │   ├── 📄 start.sh</div>
+<div class="tree-folder">    │   ├── 📁 Application_32/</div>
+<div class="tree-file">    │   │   ├── 📄 Language_zh_CN.properties</div>
+<div class="tree-file">    │   │   ├── 📄 LOGOComfort.lax</div>
+<div class="tree-file">    │   │   ├── 📄 Language_it_IT.properties</div>
+<div class="tree-file">    │   │   ├── 📄 Language_en_US.properties</div>
+<div class="tree-file">    │   │   ├── 📄 LOGOComfort</div>
+<div class="tree-file">    │   │   ├── 📄 Language_fr_FR.properties</div>
+<div class="tree-file">    │   │   ├── 📄 Language_es_ES.properties</div>
+<div class="tree-file">    │   │   ├── 📄 lax.jar</div>
+<div class="tree-file">    │   │   ├── 📄 Language.properties</div>
+<div class="tree-file">    │   │   ├── 📄 Language_de_DE.properties</div>
+<div class="tree-file">    │   │   ├── 📄 Application.ini</div>
+<div class="tree-folder">    │   │   ├── 📁 bin/</div>
+<div class="tree-file">    │   │   │   ├── 📄 librxtxSerial.so</div>
+<div class="tree-file">    │   │   │   └── 📄 librxtxParallel.so</div>
+<div class="tree-folder">    │   │   ├── 📁 com/</div>
+<div class="tree-folder">    │   │   │   └── 📁 sun/</div>
+<div class="tree-folder">    │   │   │       └── 📁 java/</div>
+<div class="tree-folder">    │   │   │           └── 📁 swing/</div>
+<div class="tree-folder">    │   │   │               └── 📁 plaf/</div>
+<div class="tree-folder">    │   │   │                   └── 📁 windows/</div>
+<div class="tree-folder">    │   │   │                       └── 📁 resources/</div>
+<div class="tree-file">    │   │   │                           ├── 📄 windows_en.properties</div>
+<div class="tree-file">    │   │   │                           ├── 📄 windows_pt.properties</div>
+<div class="tree-file">    │   │   │                           ├── 📄 windows_zh.properties</div>
+<div class="tree-file">    │   │   │                           ├── 📄 windows_it.properties</div>
+<div class="tree-file">    │   │   │                           ├── 📄 windows_fr.properties</div>
+<div class="tree-file">    │   │   │                           ├── 📄 windows_de.properties</div>
+<div class="tree-file">    │   │   │                           ├── 📄 windows_nl.properties</div>
+<div class="tree-file">    │   │   │                           ├── 📄 windows_ja.properties</div>
+<div class="tree-file">    │   │   │                           ├── 📄 windows_sp.properties</div>
+<div class="tree-file">    │   │   │                           └── 📄 windows_es.properties</div>
+<div class="tree-folder">    │   │   ├── 📁 help/</div>
+<div class="tree-file">    │   │   │   ├── 📄 Help_it_IT.jar</div>
+<div class="tree-file">    │   │   │   ├── 📄 Help_es_ES.jar</div>
+<div class="tree-file">    │   │   │   ├── 📄 Help_en_US.jar</div>
+<div class="tree-file">    │   │   │   ├── 📄 Help_fr_FR.jar</div>
+<div class="tree-file">    │   │   │   ├── 📄 Help_zh_CN.jar</div>
+<div class="tree-file">    │   │   │   └── 📄 Help_de_DE.jar</div>
+<div class="tree-folder">    │   │   ├── 📁 jre/</div>
+<div class="tree-file">    │   │   │   ├── 📄 Welcome.html</div>
+<div class="tree-file">    │   │   │   ├── 📄 README</div>
+<div class="tree-file">    │   │   │   ├── 📄 THIRDPARTYLICENSEREADME-JAVAFX.txt</div>
+<div class="tree-file">    │   │   │   ├── 📄 THIRDPARTYLICENSEREADME.txt</div>
+<div class="tree-file">    │   │   │   ├── 📄 LICENSE</div>
+<div class="tree-file">    │   │   │   ├── 📄 COPYRIGHT</div>
+<div class="tree-folder">    │   │   │   ├── 📁 bin/</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 tnameserv</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 jcontrol</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 javaws</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 rmid</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 java</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 java_vm</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 servertool</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 rmiregistry</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 policytool</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 pack200</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 unpack200</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 orbd</div>
+<div class="tree-file">    │   │   │   │   └── 📄 keytool</div>
+<div class="tree-folder">    │   │   │   ├── 📁 lib/</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 rt.jar</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 sound.properties</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 jvm.hprof.txt</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 jsse.jar</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 jfxrt.jar</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 javaws.jar</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 resources.jar</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 psfont.properties.ja</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 management-agent.jar</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 jfr.jar</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 psfontj2d.properties</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 jce.jar</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 logging.properties</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 javafx.properties</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 meta-index</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 jexec</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 plugin.jar</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 net.properties</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 fontconfig.SuSE.10.properties.src</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 content-types.properties</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 flavormap.properties</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 currency.data</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 fontconfig.SuSE.11.bfc</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 fontconfig.SuSE.11.properties.src</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 charsets.jar</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 fontconfig.properties.src</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 deploy.jar</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 fontconfig.RedHat.6.properties.src</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 fontconfig.Turbo.bfc</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 fontconfig.bfc</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 fontconfig.Turbo.properties.src</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 fontconfig.RedHat.5.bfc</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 fontconfig.RedHat.5.properties.src</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 classlist</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 fontconfig.RedHat.6.bfc</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 fontconfig.SuSE.10.bfc</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 alt-rt.jar</div>
+<div class="tree-file">    │   │   │   │   ├── 📄 calendars.properties</div>
+<div class="tree-folder">    │   │   │   │   ├── 📁 cmm/</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 sRGB.pf</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 PYCC.pf</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 GRAY.pf</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 CIEXYZ.pf</div>
+<div class="tree-file">    │   │   │   │   │   └── 📄 LINEAR_RGB.pf</div>
+<div class="tree-folder">    │   │   │   │   ├── 📁 deploy/</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 messages_pt_BR.properties</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 ffjcext.zip</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 cautionshield.icns</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 messages_de.properties</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 messages_ko.properties</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 splash.gif</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 messages_fr.properties</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 MixedCodeMainDialog.ui</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 messages_es.properties</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 messages_it.properties</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 messages_zh_CN.properties</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 messages.properties</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 messages_sv.properties</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 messages_zh_HK.properties</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 messages_zh_TW.properties</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 mixcode_s.png</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 java-icon.ico</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 MixedCodeMainDialogJs.ui</div>
+<div class="tree-file">    │   │   │   │   │   └── 📄 messages_ja.properties</div>
+<div class="tree-folder">    │   │   │   │   ├── 📁 desktop/</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 applications/</div>
+<div class="tree-file">    │   │   │   │   │   │   ├── 📄 sun-javaws.desktop</div>
+<div class="tree-file">    │   │   │   │   │   │   ├── 📄 sun-java.desktop</div>
+<div class="tree-file">    │   │   │   │   │   │   └── 📄 sun_java.desktop</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 icons/</div>
+<div class="tree-folder">    │   │   │   │   │   │   ├── 📁 hicolor/</div>
+<div class="tree-folder">    │   │   │   │   │   │   │   ├── 📁 16x16/</div>
+<div class="tree-folder">    │   │   │   │   │   │   │   │   ├── 📁 apps/</div>
+<div class="tree-file">    │   │   │   │   │   │   │   │   │   ├── 📄 sun-java.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │   │   │   ├── 📄 sun-jcontrol.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │   │   │   └── 📄 sun-javaws.png</div>
+<div class="tree-folder">    │   │   │   │   │   │   │   │   └── 📁 mimetypes/</div>
+<div class="tree-file">    │   │   │   │   │   │   │   │       ├── 📄 gnome-mime-application-x-java-archive.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │   │       ├── 📄 gnome-mime-text-x-java.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │   │       └── 📄 gnome-mime-application-x-java-jnlp-file.png</div>
+<div class="tree-folder">    │   │   │   │   │   │   │   └── 📁 48x48/</div>
+<div class="tree-folder">    │   │   │   │   │   │   │       ├── 📁 apps/</div>
+<div class="tree-file">    │   │   │   │   │   │   │       │   ├── 📄 sun-java.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │       │   ├── 📄 sun-javaws.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │       │   └── 📄 sun-jcontrol.png</div>
+<div class="tree-folder">    │   │   │   │   │   │   │       └── 📁 mimetypes/</div>
+<div class="tree-file">    │   │   │   │   │   │   │           ├── 📄 gnome-mime-application-x-java-archive.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │           ├── 📄 gnome-mime-application-x-java-jnlp-file.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │           └── 📄 gnome-mime-text-x-java.png</div>
+<div class="tree-folder">    │   │   │   │   │   │   ├── 📁 HighContrast/</div>
+<div class="tree-folder">    │   │   │   │   │   │   │   ├── 📁 16x16/</div>
+<div class="tree-folder">    │   │   │   │   │   │   │   │   ├── 📁 apps/</div>
+<div class="tree-file">    │   │   │   │   │   │   │   │   │   ├── 📄 sun-java.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │   │   │   ├── 📄 sun-javaws.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │   │   │   └── 📄 sun-jcontrol.png</div>
+<div class="tree-folder">    │   │   │   │   │   │   │   │   └── 📁 mimetypes/</div>
+<div class="tree-file">    │   │   │   │   │   │   │   │       ├── 📄 gnome-mime-application-x-java-archive.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │   │       ├── 📄 gnome-mime-text-x-java.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │   │       └── 📄 gnome-mime-application-x-java-jnlp-file.png</div>
+<div class="tree-folder">    │   │   │   │   │   │   │   └── 📁 48x48/</div>
+<div class="tree-folder">    │   │   │   │   │   │   │       ├── 📁 apps/</div>
+<div class="tree-file">    │   │   │   │   │   │   │       │   ├── 📄 sun-java.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │       │   ├── 📄 sun-javaws.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │       │   └── 📄 sun-jcontrol.png</div>
+<div class="tree-folder">    │   │   │   │   │   │   │       └── 📁 mimetypes/</div>
+<div class="tree-file">    │   │   │   │   │   │   │           ├── 📄 gnome-mime-text-x-java.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │           ├── 📄 gnome-mime-application-x-java-jnlp-file.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │           └── 📄 gnome-mime-application-x-java-archive.png</div>
+<div class="tree-folder">    │   │   │   │   │   │   ├── 📁 HighContrastInverse/</div>
+<div class="tree-folder">    │   │   │   │   │   │   │   ├── 📁 48x48/</div>
+<div class="tree-folder">    │   │   │   │   │   │   │   │   ├── 📁 mimetypes/</div>
+<div class="tree-file">    │   │   │   │   │   │   │   │   │   ├── 📄 gnome-mime-application-x-java-archive.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │   │   │   ├── 📄 gnome-mime-text-x-java.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │   │   │   └── 📄 gnome-mime-application-x-java-jnlp-file.png</div>
+<div class="tree-folder">    │   │   │   │   │   │   │   │   └── 📁 apps/</div>
+<div class="tree-file">    │   │   │   │   │   │   │   │       ├── 📄 sun-java.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │   │       ├── 📄 sun-javaws.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │   │       └── 📄 sun-jcontrol.png</div>
+<div class="tree-folder">    │   │   │   │   │   │   │   └── 📁 16x16/</div>
+<div class="tree-folder">    │   │   │   │   │   │   │       ├── 📁 apps/</div>
+<div class="tree-file">    │   │   │   │   │   │   │       │   ├── 📄 sun-javaws.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │       │   ├── 📄 sun-jcontrol.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │       │   └── 📄 sun-java.png</div>
+<div class="tree-folder">    │   │   │   │   │   │   │       └── 📁 mimetypes/</div>
+<div class="tree-file">    │   │   │   │   │   │   │           ├── 📄 gnome-mime-text-x-java.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │           ├── 📄 gnome-mime-application-x-java-archive.png</div>
+<div class="tree-file">    │   │   │   │   │   │   │           └── 📄 gnome-mime-application-x-java-jnlp-file.png</div>
+<div class="tree-folder">    │   │   │   │   │   │   └── 📁 LowContrast/</div>
+<div class="tree-folder">    │   │   │   │   │   │       ├── 📁 16x16/</div>
+<div class="tree-folder">    │   │   │   │   │   │       │   ├── 📁 apps/</div>
+<div class="tree-file">    │   │   │   │   │   │       │   │   ├── 📄 sun-jcontrol.png</div>
+<div class="tree-file">    │   │   │   │   │   │       │   │   ├── 📄 sun-javaws.png</div>
+<div class="tree-file">    │   │   │   │   │   │       │   │   └── 📄 sun-java.png</div>
+<div class="tree-folder">    │   │   │   │   │   │       │   └── 📁 mimetypes/</div>
+<div class="tree-file">    │   │   │   │   │   │       │       ├── 📄 gnome-mime-text-x-java.png</div>
+<div class="tree-file">    │   │   │   │   │   │       │       ├── 📄 gnome-mime-application-x-java-jnlp-file.png</div>
+<div class="tree-file">    │   │   │   │   │   │       │       └── 📄 gnome-mime-application-x-java-archive.png</div>
+<div class="tree-folder">    │   │   │   │   │   │       └── 📁 48x48/</div>
+<div class="tree-folder">    │   │   │   │   │   │           ├── 📁 mimetypes/</div>
+<div class="tree-file">    │   │   │   │   │   │           │   ├── 📄 gnome-mime-application-x-java-jnlp-file.png</div>
+<div class="tree-file">    │   │   │   │   │   │           │   ├── 📄 gnome-mime-text-x-java.png</div>
+<div class="tree-file">    │   │   │   │   │   │           │   └── 📄 gnome-mime-application-x-java-archive.png</div>
+<div class="tree-folder">    │   │   │   │   │   │           └── 📁 apps/</div>
+<div class="tree-file">    │   │   │   │   │   │               ├── 📄 sun-java.png</div>
+<div class="tree-file">    │   │   │   │   │   │               ├── 📄 sun-jcontrol.png</div>
+<div class="tree-file">    │   │   │   │   │   │               └── 📄 sun-javaws.png</div>
+<div class="tree-folder">    │   │   │   │   │   └── 📁 mime/</div>
+<div class="tree-folder">    │   │   │   │   │       └── 📁 packages/</div>
+<div class="tree-file">    │   │   │   │   │           ├── 📄 x-java-jnlp-file.xml</div>
+<div class="tree-file">    │   │   │   │   │           └── 📄 x-java-archive.xml</div>
+<div class="tree-folder">    │   │   │   │   ├── 📁 ext/</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 sunec.jar</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 meta-index</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 dnsns.jar</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 zipfs.jar</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 sunpkcs11.jar</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 localedata.jar</div>
+<div class="tree-file">    │   │   │   │   │   └── 📄 sunjce_provider.jar</div>
+<div class="tree-folder">    │   │   │   │   ├── 📁 fonts/</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 fonts.dir</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 LucidaBrightRegular.ttf</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 LucidaSansRegular.ttf</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 LucidaSansDemiBold.ttf</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 LucidaBrightDemiBold.ttf</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 LucidaTypewriterBold.ttf</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 LucidaTypewriterRegular.ttf</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 LucidaBrightDemiItalic.ttf</div>
+<div class="tree-file">    │   │   │   │   │   └── 📄 LucidaBrightItalic.ttf</div>
+<div class="tree-folder">    │   │   │   │   ├── 📁 i386/</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libt2k.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libnet.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libsunec.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libnpt.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libsplashscreen.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libnio.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libzip.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjsig.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libmanagement.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjsound.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libkcms.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libunpack.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libprism-es2.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjsdt.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libverify.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libnpjp2.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libsaproc.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libmlib_image.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libsctp.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjsoundalsa.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjavaplugin_oji.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libj2pkcs11.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjfxwebkit.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libgstreamer-lite.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libhprof.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libdeploy.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libJdbcOdbc.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjfr.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 fxplugins.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libawt.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjava_crw_demo.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libfontmanager.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 fxavcodecplugin-52.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libj2gss.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjavafx-iio.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libdt_socket.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libglass.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libgstplugins-lite.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 fxavcodecplugin-53.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjava.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libj2pcsc.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libattach.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjaas_unix.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjavaplugin_jni.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjavaplugin_nscp.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 jvm.cfg</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjavafx-font.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjawt.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libdcpr.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjdwp.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjfxmedia.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjavaplugin_nscp_gcc29.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libinstrument.so</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 libjpeg.so</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 client/</div>
+<div class="tree-file">    │   │   │   │   │   │   ├── 📄 libjvm.so</div>
+<div class="tree-file">    │   │   │   │   │   │   └── 📄 Xusage.txt</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 headless/</div>
+<div class="tree-file">    │   │   │   │   │   │   └── 📄 libmawt.so</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 jli/</div>
+<div class="tree-file">    │   │   │   │   │   │   └── 📄 libjli.so</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 server/</div>
+<div class="tree-file">    │   │   │   │   │   │   ├── 📄 Xusage.txt</div>
+<div class="tree-file">    │   │   │   │   │   │   └── 📄 libjvm.so</div>
+<div class="tree-folder">    │   │   │   │   │   └── 📁 xawt/</div>
+<div class="tree-file">    │   │   │   │   │       └── 📄 libmawt.so</div>
+<div class="tree-folder">    │   │   │   │   ├── 📁 images/</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 icons/</div>
+<div class="tree-file">    │   │   │   │   │   │   ├── 📄 sun-java.png</div>
+<div class="tree-file">    │   │   │   │   │   │   ├── 📄 sun-java_HighContrastInverse.png</div>
+<div class="tree-file">    │   │   │   │   │   │   ├── 📄 sun-java_HighContrast.png</div>
+<div class="tree-file">    │   │   │   │   │   │   └── 📄 sun-java_LowContrast.png</div>
+<div class="tree-folder">    │   │   │   │   │   └── 📁 cursors/</div>
+<div class="tree-file">    │   │   │   │   │       ├── 📄 motif_CopyNoDrop32x32.gif</div>
+<div class="tree-file">    │   │   │   │   │       ├── 📄 motif_MoveNoDrop32x32.gif</div>
+<div class="tree-file">    │   │   │   │   │       ├── 📄 cursors.properties</div>
+<div class="tree-file">    │   │   │   │   │       ├── 📄 motif_LinkDrop32x32.gif</div>
+<div class="tree-file">    │   │   │   │   │       ├── 📄 motif_CopyDrop32x32.gif</div>
+<div class="tree-file">    │   │   │   │   │       ├── 📄 motif_LinkNoDrop32x32.gif</div>
+<div class="tree-file">    │   │   │   │   │       ├── 📄 motif_MoveDrop32x32.gif</div>
+<div class="tree-file">    │   │   │   │   │       └── 📄 invalid32x32.gif</div>
+<div class="tree-folder">    │   │   │   │   ├── 📁 jfr/</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 default.jfc</div>
+<div class="tree-file">    │   │   │   │   │   └── 📄 profile.jfc</div>
+<div class="tree-folder">    │   │   │   │   ├── 📁 locale/</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 de/</div>
+<div class="tree-folder">    │   │   │   │   │   │   └── 📁 LC_MESSAGES/</div>
+<div class="tree-file">    │   │   │   │   │   │       └── 📄 sunw_java_plugin.mo</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 es/</div>
+<div class="tree-folder">    │   │   │   │   │   │   └── 📁 LC_MESSAGES/</div>
+<div class="tree-file">    │   │   │   │   │   │       └── 📄 sunw_java_plugin.mo</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 it/</div>
+<div class="tree-folder">    │   │   │   │   │   │   └── 📁 LC_MESSAGES/</div>
+<div class="tree-file">    │   │   │   │   │   │       └── 📄 sunw_java_plugin.mo</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 fr/</div>
+<div class="tree-folder">    │   │   │   │   │   │   └── 📁 LC_MESSAGES/</div>
+<div class="tree-file">    │   │   │   │   │   │       └── 📄 sunw_java_plugin.mo</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 ko/</div>
+<div class="tree-folder">    │   │   │   │   │   │   └── 📁 LC_MESSAGES/</div>
+<div class="tree-file">    │   │   │   │   │   │       └── 📄 sunw_java_plugin.mo</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 ja/</div>
+<div class="tree-folder">    │   │   │   │   │   │   └── 📁 LC_MESSAGES/</div>
+<div class="tree-file">    │   │   │   │   │   │       └── 📄 sunw_java_plugin.mo</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 pt_BR/</div>
+<div class="tree-folder">    │   │   │   │   │   │   └── 📁 LC_MESSAGES/</div>
+<div class="tree-file">    │   │   │   │   │   │       └── 📄 sunw_java_plugin.mo</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 ko.UTF-8/</div>
+<div class="tree-folder">    │   │   │   │   │   │   └── 📁 LC_MESSAGES/</div>
+<div class="tree-file">    │   │   │   │   │   │       └── 📄 sunw_java_plugin.mo</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 sv/</div>
+<div class="tree-folder">    │   │   │   │   │   │   └── 📁 LC_MESSAGES/</div>
+<div class="tree-file">    │   │   │   │   │   │       └── 📄 sunw_java_plugin.mo</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 zh/</div>
+<div class="tree-folder">    │   │   │   │   │   │   └── 📁 LC_MESSAGES/</div>
+<div class="tree-file">    │   │   │   │   │   │       └── 📄 sunw_java_plugin.mo</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 zh.GBK/</div>
+<div class="tree-folder">    │   │   │   │   │   │   └── 📁 LC_MESSAGES/</div>
+<div class="tree-file">    │   │   │   │   │   │       └── 📄 sunw_java_plugin.mo</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 zh_HK.BIG5HK/</div>
+<div class="tree-folder">    │   │   │   │   │   │   └── 📁 LC_MESSAGES/</div>
+<div class="tree-file">    │   │   │   │   │   │       └── 📄 sunw_java_plugin.mo</div>
+<div class="tree-folder">    │   │   │   │   │   ├── 📁 zh_TW.BIG5/</div>
+<div class="tree-folder">    │   │   │   │   │   │   └── 📁 LC_MESSAGES/</div>
+<div class="tree-file">    │   │   │   │   │   │       └── 📄 sunw_java_plugin.mo</div>
+<div class="tree-folder">    │   │   │   │   │   └── 📁 zh_TW/</div>
+<div class="tree-folder">    │   │   │   │   │       └── 📁 LC_MESSAGES/</div>
+<div class="tree-file">    │   │   │   │   │           └── 📄 sunw_java_plugin.mo</div>
+<div class="tree-folder">    │   │   │   │   ├── 📁 management/</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 snmp.acl.template</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 jmxremote.password.template</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 jmxremote.access</div>
+<div class="tree-file">    │   │   │   │   │   └── 📄 management.properties</div>
+<div class="tree-folder">    │   │   │   │   ├── 📁 oblique-fonts/</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 LucidaTypewriterOblique.ttf</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 fonts.dir</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 LucidaTypewriterBoldOblique.ttf</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 LucidaSansDemiOblique.ttf</div>
+<div class="tree-file">    │   │   │   │   │   └── 📄 LucidaSansOblique.ttf</div>
+<div class="tree-folder">    │   │   │   │   ├── 📁 security/</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 javaws.policy</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 blacklist</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 cacerts</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 java.policy</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 trusted.libraries</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 local_policy.jar</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 US_export_policy.jar</div>
+<div class="tree-file">    │   │   │   │   │   ├── 📄 javafx.policy</div>
+<div class="tree-file">    │   │   │   │   │   └── 📄 java.security</div>
+<div class="tree-folder">    │   │   │   │   └── 📁 zi/</div>
+<div class="tree-file">    │   │   │   │       ├── 📄 EET</div>
+<div class="tree-file">    │   │   │   │       ├── 📄 EST5EDT</div>
+<div class="tree-file">    │   │   │   │       ├── 📄 HST</div>
+<div class="tree-file">    │   │   │   │       ├── 📄 MST7MDT</div>
+<div class="tree-file">    │   │   │   │       ├── 📄 MET</div>
+<div class="tree-file">    │   │   │   │       ├── 📄 ZoneInfoMappings</div>
+<div class="tree-file">    │   │   │   │       ├── 📄 GMT</div>
+<div class="tree-file">    │   │   │   │       ├── 📄 CET</div>
+<div class="tree-file">    │   │   │   │       ├── 📄 PST8PDT</div>
+<div class="tree-file">    │   │   │   │       ├── 📄 WET</div>
+<div class="tree-file">    │   │   │   │       ├── 📄 CST6CDT</div>
+<div class="tree-file">    │   │   │   │       ├── 📄 MST</div>
+<div class="tree-file">    │   │   │   │       ├── 📄 EST</div>
+<div class="tree-folder">    │   │   │   │       ├── 📁 Africa/</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Lome</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Cairo</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Bangui</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 El_Aaiun</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Blantyre</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Djibouti</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Luanda</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Tripoli</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Maseru</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Niamey</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Malabo</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Brazzaville</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Bujumbura</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Lubumbashi</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Mbabane</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Dakar</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Bamako</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Nairobi</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Ndjamena</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Nouakchott</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Tunis</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Lagos</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Khartoum</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Monrovia</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Freetown</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Ouagadougou</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Maputo</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Addis_Ababa</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Gaborone</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Harare</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Bissau</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Johannesburg</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Libreville</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Kinshasa</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Ceuta</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Porto-Novo</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Douala</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Dar_es_Salaam</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Windhoek</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Lusaka</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Conakry</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Asmara</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Sao_Tome</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Mogadishu</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Accra</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Casablanca</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Kigali</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Banjul</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Kampala</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Abidjan</div>
+<div class="tree-file">    │   │   │   │       │   └── 📄 Algiers</div>
+<div class="tree-folder">    │   │   │   │       ├── 📁 America/</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Inuvik</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Jamaica</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Detroit</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Barbados</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Paramaribo</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Guayaquil</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Porto_Velho</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Nipigon</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Metlakatla</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Rio_Branco</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Moncton</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Recife</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Regina</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Edmonton</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 La_Paz</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Belem</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Menominee</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Bogota</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Bahia</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Thunder_Bay</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Havana</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Manaus</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Matamoros</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Belize</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Antigua</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 St_Johns</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Goose_Bay</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Iqaluit</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Asuncion</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Juneau</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 El_Salvador</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Cayenne</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Swift_Current</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Dawson_Creek</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Santo_Domingo</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Dawson</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Danmarkshavn</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Martinique</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Curacao</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Halifax</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Boise</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Los_Angeles</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Santiago</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Rainy_River</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Fortaleza</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Maceio</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Glace_Bay</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Chicago</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Whitehorse</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Hermosillo</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Rankin_Inlet</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Eirunepe</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Santa_Isabel</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Ojinaga</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Port-au-Prince</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Vancouver</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Grand_Turk</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Denver</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Adak</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Caracas</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Montreal</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Nassau</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Bahia_Banderas</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Panama</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Thule</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Miquelon</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Blanc-Sablon</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Godthab</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Winnipeg</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Guyana</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Noronha</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Guatemala</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Cancun</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Mexico_City</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Chihuahua</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Phoenix</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Resolute</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Nome</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Lima</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Mazatlan</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Scoresbysund</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Sitka</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 New_York</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Atikokan</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Yakutat</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Merida</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Anchorage</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Sao_Paulo</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Monterrey</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Montevideo</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Pangnirtung</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Cambridge_Bay</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Yellowknife</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Cayman</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Managua</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Araguaina</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Tegucigalpa</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Port_of_Spain</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Toronto</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Santarem</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Puerto_Rico</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Campo_Grande</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Tijuana</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Boa_Vista</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Creston</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Cuiaba</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Costa_Rica</div>
+<div class="tree-folder">    │   │   │   │       │   ├── 📁 Argentina/</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 Tucuman</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 Mendoza</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 Catamarca</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 Ushuaia</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 Rio_Gallegos</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 Jujuy</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 Buenos_Aires</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 Cordoba</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 San_Luis</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 San_Juan</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 La_Rioja</div>
+<div class="tree-file">    │   │   │   │       │   │   └── 📄 Salta</div>
+<div class="tree-folder">    │   │   │   │       │   ├── 📁 Kentucky/</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 Louisville</div>
+<div class="tree-file">    │   │   │   │       │   │   └── 📄 Monticello</div>
+<div class="tree-folder">    │   │   │   │       │   ├── 📁 Indiana/</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 Vevay</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 Winamac</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 Indianapolis</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 Knox</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 Tell_City</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 Marengo</div>
+<div class="tree-file">    │   │   │   │       │   │   ├── 📄 Vincennes</div>
+<div class="tree-file">    │   │   │   │       │   │   └── 📄 Petersburg</div>
+<div class="tree-folder">    │   │   │   │       │   └── 📁 North_Dakota/</div>
+<div class="tree-file">    │   │   │   │       │       ├── 📄 New_Salem</div>
+<div class="tree-file">    │   │   │   │       │       ├── 📄 Beulah</div>
+<div class="tree-file">    │   │   │   │       │       └── 📄 Center</div>
+<div class="tree-folder">    │   │   │   │       ├── 📁 Antarctica/</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 DumontDUrville</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Macquarie</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Vostok</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Mawson</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Syowa</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Rothera</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Casey</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Davis</div>
+<div class="tree-file">    │   │   │   │       │   └── 📄 Palmer</div>
+<div class="tree-folder">    │   │   │   │       ├── 📁 Asia/</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Chongqing</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Aden</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Damascus</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Dhaka</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Kamchatka</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Samarkand</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Harbin</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Yekaterinburg</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Tehran</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Riyadh</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Magadan</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Khandyga</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Sakhalin</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Hebron</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Ho_Chi_Minh</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Vientiane</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Baghdad</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Aqtobe</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Qatar</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Beirut</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Jayapura</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Bangkok</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Bishkek</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Kuwait</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Jerusalem</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Aqtau</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Ust-Nera</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Kolkata</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Dubai</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Riyadh87</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Karachi</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Dushanbe</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Oral</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Taipei</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Tashkent</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Tokyo</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Krasnoyarsk</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Novokuznetsk</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Tbilisi</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Thimphu</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Dili</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Yakutsk</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Colombo</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Amman</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Seoul</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Riyadh89</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Anadyr</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Irkutsk</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Ulaanbaatar</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Riyadh88</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Kuala_Lumpur</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Qyzylorda</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Brunei</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Hong_Kong</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Yerevan</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Shanghai</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Ashgabat</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Choibalsan</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Almaty</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Jakarta</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Pontianak</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Phnom_Penh</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Omsk</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Hovd</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Urumqi</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Macau</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Muscat</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Nicosia</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Bahrain</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Makassar</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Pyongyang</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Kashgar</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Kabul</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Manila</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Gaza</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Vladivostok</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Rangoon</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Baku</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Kuching</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Kathmandu</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Novosibirsk</div>
+<div class="tree-file">    │   │   │   │       │   └── 📄 Singapore</div>
+<div class="tree-folder">    │   │   │   │       ├── 📁 Atlantic/</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Stanley</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Madeira</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Reykjavik</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 St_Helena</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Azores</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Cape_Verde</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 South_Georgia</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Bermuda</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Faroe</div>
+<div class="tree-file">    │   │   │   │       │   └── 📄 Canary</div>
+<div class="tree-folder">    │   │   │   │       ├── 📁 Australia/</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Brisbane</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Sydney</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Lord_Howe</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Lindeman</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Eucla</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Perth</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Currie</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Adelaide</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Darwin</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Broken_Hill</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Melbourne</div>
+<div class="tree-file">    │   │   │   │       │   └── 📄 Hobart</div>
+<div class="tree-folder">    │   │   │   │       ├── 📁 Etc/</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT-5</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT-3</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT+5</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT+12</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT+7</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT+8</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 UTC</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT-2</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT-12</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT+11</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT+10</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT-4</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 UCT</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT+2</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT+9</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT-14</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT+1</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT-1</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT-13</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT-11</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT-6</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT-8</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT+6</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT+3</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT+4</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT-7</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 GMT-10</div>
+<div class="tree-file">    │   │   │   │       │   └── 📄 GMT-9</div>
+<div class="tree-folder">    │   │   │   │       ├── 📁 Indian/</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Mauritius</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Cocos</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Christmas</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Reunion</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Antananarivo</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Mahe</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Comoro</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Mayotte</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Maldives</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Kerguelen</div>
+<div class="tree-file">    │   │   │   │       │   └── 📄 Chagos</div>
+<div class="tree-folder">    │   │   │   │       ├── 📁 Europe/</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Belgrade</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Minsk</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Warsaw</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Budapest</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Rome</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Gibraltar</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Istanbul</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Samara</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Prague</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Stockholm</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Malta</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Berlin</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Vienna</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Riga</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Uzhgorod</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Kaliningrad</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Volgograd</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Vilnius</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Simferopol</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 London</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Copenhagen</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Zaporozhye</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Moscow</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Tallinn</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Dublin</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Lisbon</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Bucharest</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Amsterdam</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Tirane</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Zurich</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Chisinau</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Monaco</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Andorra</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Brussels</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Oslo</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Madrid</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Paris</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Athens</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Luxembourg</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Kiev</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Sofia</div>
+<div class="tree-file">    │   │   │   │       │   └── 📄 Helsinki</div>
+<div class="tree-folder">    │   │   │   │       ├── 📁 Pacific/</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Fakaofo</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Saipan</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Port_Moresby</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Gambier</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Midway</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Kiritimati</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Kwajalein</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Marquesas</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Norfolk</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Noumea</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Pohnpei</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Efate</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Nauru</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Chatham</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Guam</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Honolulu</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Easter</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Majuro</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Tongatapu</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Rarotonga</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Auckland</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Pago_Pago</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Wake</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Galapagos</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Fiji</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Tahiti</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Enderbury</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Chuuk</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Tarawa</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Guadalcanal</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Niue</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Wallis</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Funafuti</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Kosrae</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Palau</div>
+<div class="tree-file">    │   │   │   │       │   ├── 📄 Pitcairn</div>
+<div class="tree-file">    │   │   │   │       │   └── 📄 Apia</div>
+<div class="tree-folder">    │   │   │   │       └── 📁 SystemV/</div>
+<div class="tree-file">    │   │   │   │           ├── 📄 CST6</div>
+<div class="tree-file">    │   │   │   │           ├── 📄 AST4ADT</div>
+<div class="tree-file">    │   │   │   │           ├── 📄 PST8</div>
+<div class="tree-file">    │   │   │   │           ├── 📄 AST4</div>
+<div class="tree-file">    │   │   │   │           ├── 📄 YST9YDT</div>
+<div class="tree-file">    │   │   │   │           ├── 📄 MST7</div>
+<div class="tree-file">    │   │   │   │           ├── 📄 MST7MDT</div>
+<div class="tree-file">    │   │   │   │           ├── 📄 YST9</div>
+<div class="tree-file">    │   │   │   │           ├── 📄 EST5EDT</div>
+<div class="tree-file">    │   │   │   │           ├── 📄 CST6CDT</div>
+<div class="tree-file">    │   │   │   │           ├── 📄 PST8PDT</div>
+<div class="tree-file">    │   │   │   │           ├── 📄 EST5</div>
+<div class="tree-file">    │   │   │   │           └── 📄 HST10</div>
+<div class="tree-folder">    │   │   │   └── 📁 plugin/</div>
+<div class="tree-folder">    │   │   │       ├── 📁 desktop/</div>
+<div class="tree-file">    │   │   │       │   ├── 📄 sun_java.desktop</div>
+<div class="tree-file">    │   │   │       │   └── 📄 sun_java.png</div>
+<div class="tree-folder">    │   │   │       └── 📁 i386/</div>
+<div class="tree-folder">    │   │   │           └── 📁 ns7/</div>
+<div class="tree-file">    │   │   │               └── 📄 libjavaplugin_oji.so</div>
+<div class="tree-folder">    │   │   ├── 📁 javax/</div>
+<div class="tree-folder">    │   │   │   └── 📁 swing/</div>
+<div class="tree-folder">    │   │   │       └── 📁 plaf/</div>
+<div class="tree-folder">    │   │   │           └── 📁 basic/</div>
+<div class="tree-folder">    │   │   │               └── 📁 resources/</div>
+<div class="tree-file">    │   │   │                   ├── 📄 basic_en.properties</div>
+<div class="tree-file">    │   │   │                   ├── 📄 basic_it.properties</div>
+<div class="tree-file">    │   │   │                   ├── 📄 basic_nl.properties</div>
+<div class="tree-file">    │   │   │                   ├── 📄 basic_pt.properties</div>
+<div class="tree-file">    │   │   │                   ├── 📄 basic_sp.properties</div>
+<div class="tree-file">    │   │   │                   ├── 📄 basic_de.properties</div>
+<div class="tree-file">    │   │   │                   └── 📄 basic_fr_DE.properties</div>
+<div class="tree-folder">    │   │   └── 📁 lib/</div>
+<div class="tree-file">    │   │       ├── 📄 jaxen-1.1-beta-10.jar</div>
+<div class="tree-file">    │   │       ├── 📄 JimiProClasses.zip</div>
+<div class="tree-file">    │   │       ├── 📄 dom4j-1.6.1.jar</div>
+<div class="tree-file">    │   │       ├── 📄 kunststoff.jar</div>
+<div class="tree-file">    │   │       ├── 📄 bsh.jar</div>
+<div class="tree-file">    │   │       ├── 📄 jna.jar</div>
+<div class="tree-file">    │   │       ├── 📄 junit.jar</div>
+<div class="tree-file">    │   │       ├── 📄 itext.jar</div>
+<div class="tree-file">    │   │       ├── 📄 jhall.jar</div>
+<div class="tree-file">    │   │       ├── 📄 ComfortIPUtil.jar</div>
+<div class="tree-file">    │   │       ├── 📄 classes.jar</div>
+<div class="tree-file">    │   │       ├── 📄 jcalendar.jar</div>
+<div class="tree-file">    │   │       ├── 📄 readip.vbs</div>
+<div class="tree-file">    │   │       └── 📄 RXTXcomm.jar</div>
+<div class="tree-folder">    │   └── 📁 Application_64/</div>
+<div class="tree-file">    │       ├── 📄 LOGOComfort</div>
+<div class="tree-file">    │       ├── 📄 Language_es_ES.properties</div>
+<div class="tree-file">    │       ├── 📄 Language_fr_FR.properties</div>
+<div class="tree-file">    │       ├── 📄 Language_it_IT.properties</div>
+<div class="tree-file">    │       ├── 📄 Language.properties</div>
+<div class="tree-file">    │       ├── 📄 LOGOComfort.lax</div>
+<div class="tree-file">    │       ├── 📄 Language_zh_CN.properties</div>
+<div class="tree-file">    │       ├── 📄 Language_de_DE.properties</div>
+<div class="tree-file">    │       ├── 📄 Language_en_US.properties</div>
+<div class="tree-file">    │       ├── 📄 lax.jar</div>
+<div class="tree-file">    │       ├── 📄 Application.ini</div>
+<div class="tree-folder">    │       ├── 📁 bin/</div>
+<div class="tree-file">    │       │   ├── 📄 librxtxSerial.so</div>
+<div class="tree-file">    │       │   └── 📄 librxtxParallel.so</div>
+<div class="tree-folder">    │       ├── 📁 com/</div>
+<div class="tree-folder">    │       │   └── 📁 sun/</div>
+<div class="tree-folder">    │       │       └── 📁 java/</div>
+<div class="tree-folder">    │       │           └── 📁 swing/</div>
+<div class="tree-folder">    │       │               └── 📁 plaf/</div>
+<div class="tree-folder">    │       │                   └── 📁 windows/</div>
+<div class="tree-folder">    │       │                       └── 📁 resources/</div>
+<div class="tree-file">    │       │                           ├── 📄 windows_de.properties</div>
+<div class="tree-file">    │       │                           ├── 📄 windows_pt.properties</div>
+<div class="tree-file">    │       │                           ├── 📄 windows_it.properties</div>
+<div class="tree-file">    │       │                           ├── 📄 windows_es.properties</div>
+<div class="tree-file">    │       │                           ├── 📄 windows_fr.properties</div>
+<div class="tree-file">    │       │                           ├── 📄 windows_zh.properties</div>
+<div class="tree-file">    │       │                           ├── 📄 windows_sp.properties</div>
+<div class="tree-file">    │       │                           ├── 📄 windows_ja.properties</div>
+<div class="tree-file">    │       │                           ├── 📄 windows_en.properties</div>
+<div class="tree-file">    │       │                           └── 📄 windows_nl.properties</div>
+<div class="tree-folder">    │       ├── 📁 javax/</div>
+<div class="tree-folder">    │       │   └── 📁 swing/</div>
+<div class="tree-folder">    │       │       └── 📁 plaf/</div>
+<div class="tree-folder">    │       │           └── 📁 basic/</div>
+<div class="tree-folder">    │       │               └── 📁 resources/</div>
+<div class="tree-file">    │       │                   ├── 📄 basic_it.properties</div>
+<div class="tree-file">    │       │                   ├── 📄 basic_fr_DE.properties</div>
+<div class="tree-file">    │       │                   ├── 📄 basic_sp.properties</div>
+<div class="tree-file">    │       │                   ├── 📄 basic_de.properties</div>
+<div class="tree-file">    │       │                   ├── 📄 basic_pt.properties</div>
+<div class="tree-file">    │       │                   ├── 📄 basic_nl.properties</div>
+<div class="tree-file">    │       │                   └── 📄 basic_en.properties</div>
+<div class="tree-folder">    │       ├── 📁 help/</div>
+<div class="tree-file">    │       │   ├── 📄 Help_zh_CN.jar</div>
+<div class="tree-file">    │       │   ├── 📄 Help_es_ES.jar</div>
+<div class="tree-file">    │       │   ├── 📄 Help_it_IT.jar</div>
+<div class="tree-file">    │       │   ├── 📄 Help_fr_FR.jar</div>
+<div class="tree-file">    │       │   ├── 📄 Help_de_DE.jar</div>
+<div class="tree-file">    │       │   └── 📄 Help_en_US.jar</div>
+<div class="tree-folder">    │       └── 📁 jre/</div>
+<div class="tree-file">    │           ├── 📄 Welcome.html</div>
+<div class="tree-file">    │           ├── 📄 THIRDPARTYLICENSEREADME-JAVAFX.txt</div>
+<div class="tree-file">    │           ├── 📄 LICENSE</div>
+<div class="tree-file">    │           ├── 📄 THIRDPARTYLICENSEREADME.txt</div>
+<div class="tree-file">    │           ├── 📄 README</div>
+<div class="tree-file">    │           ├── 📄 COPYRIGHT</div>
+<div class="tree-folder">    │           ├── 📁 bin/</div>
+<div class="tree-file">    │           │   ├── 📄 pack200</div>
+<div class="tree-file">    │           │   ├── 📄 jcontrol</div>
+<div class="tree-file">    │           │   ├── 📄 keytool</div>
+<div class="tree-file">    │           │   ├── 📄 servertool</div>
+<div class="tree-file">    │           │   ├── 📄 orbd</div>
+<div class="tree-file">    │           │   ├── 📄 java</div>
+<div class="tree-file">    │           │   ├── 📄 policytool</div>
+<div class="tree-file">    │           │   ├── 📄 rmiregistry</div>
+<div class="tree-file">    │           │   ├── 📄 javaws</div>
+<div class="tree-file">    │           │   ├── 📄 java_vm</div>
+<div class="tree-file">    │           │   ├── 📄 rmid</div>
+<div class="tree-file">    │           │   ├── 📄 unpack200</div>
+<div class="tree-file">    │           │   └── 📄 tnameserv</div>
+<div class="tree-folder">    │           └── 📁 lib/</div>
+<div class="tree-file">    │               ├── 📄 sound.properties</div>
+<div class="tree-file">    │               ├── 📄 rt.jar</div>
+<div class="tree-file">    │               ├── 📄 deploy.jar</div>
+<div class="tree-file">    │               ├── 📄 fontconfig.SuSE.10.bfc</div>
+<div class="tree-file">    │               ├── 📄 fontconfig.RedHat.6.properties.src</div>
+<div class="tree-file">    │               ├── 📄 classlist</div>
+<div class="tree-file">    │               ├── 📄 fontconfig.bfc</div>
+<div class="tree-file">    │               ├── 📄 fontconfig.RedHat.5.bfc</div>
+<div class="tree-file">    │               ├── 📄 fontconfig.SuSE.10.properties.src</div>
+<div class="tree-file">    │               ├── 📄 fontconfig.SuSE.11.properties.src</div>
+<div class="tree-file">    │               ├── 📄 calendars.properties</div>
+<div class="tree-file">    │               ├── 📄 fontconfig.RedHat.6.bfc</div>
+<div class="tree-file">    │               ├── 📄 currency.data</div>
+<div class="tree-file">    │               ├── 📄 jexec</div>
+<div class="tree-file">    │               ├── 📄 psfontj2d.properties</div>
+<div class="tree-file">    │               ├── 📄 net.properties</div>
+<div class="tree-file">    │               ├── 📄 charsets.jar</div>
+<div class="tree-file">    │               ├── 📄 fontconfig.RedHat.5.properties.src</div>
+<div class="tree-file">    │               ├── 📄 resources.jar</div>
+<div class="tree-file">    │               ├── 📄 jce.jar</div>
+<div class="tree-file">    │               ├── 📄 jfr.jar</div>
+<div class="tree-file">    │               ├── 📄 javaws.jar</div>
+<div class="tree-file">    │               ├── 📄 fontconfig.properties.src</div>
+<div class="tree-file">    │               ├── 📄 jvm.hprof.txt</div>
+<div class="tree-file">    │               ├── 📄 plugin.jar</div>
+<div class="tree-file">    │               ├── 📄 javafx.properties</div>
+<div class="tree-file">    │               ├── 📄 management-agent.jar</div>
+<div class="tree-file">    │               ├── 📄 content-types.properties</div>
+<div class="tree-file">    │               ├── 📄 logging.properties</div>
+<div class="tree-file">    │               ├── 📄 jfxrt.jar</div>
+<div class="tree-file">    │               ├── 📄 jsse.jar</div>
+<div class="tree-file">    │               ├── 📄 psfont.properties.ja</div>
+<div class="tree-file">    │               ├── 📄 fontconfig.SuSE.11.bfc</div>
+<div class="tree-file">    │               ├── 📄 fontconfig.Turbo.bfc</div>
+<div class="tree-file">    │               ├── 📄 meta-index</div>
+<div class="tree-file">    │               ├── 📄 fontconfig.Turbo.properties.src</div>
+<div class="tree-file">    │               ├── 📄 flavormap.properties</div>
+<div class="tree-file">    │               ├── 📄 alt-rt.jar</div>
+<div class="tree-folder">    │               └── 📁 amd64/</div>
+<div class="tree-file">    │                   ├── 📄 ReadMe_CN.pdf</div>
+<div class="tree-file">    │                   ├── 📄 ReadMe_DE.pdf</div>
+<div class="tree-file">    │                   ├── 📄 ReadMe_EN.pdf</div>
+<div class="tree-file">    │                   ├── 📄 CP210x_VCP_Win_XP_S2K3_Vista_7.txt</div>
+<div class="tree-file">    │                   └── 📄 CP210x_VCP_Win_XP_S2K3_Vista_7.exe</div>
+<div class="tree-folder">    ├── 🔗📁 System linux/  (raccourci)</div>
+<div class="tree-file">    │   ├── 📄 FB_IMG_1617537873963.jpg</div>
+<div class="tree-file">    │   ├── 📄 FB_IMG_1617537871163.jpg</div>
+<div class="tree-file">    │   ├── 📄 FB_IMG_1617537868572.jpg</div>
+<div class="tree-file">    │   ├── 📄 received_865187534059071.jpeg</div>
+<div class="tree-file">    │   ├── 📄 received_2851637201741363.jpeg</div>
+<div class="tree-file">    │   ├── 📄 UNIX.pdf</div>
+<div class="tree-file">    │   ├── 📄 COURS 6 UNIX.pptx</div>
+<div class="tree-file">    │   ├── 📄 COURS 5 UNIX.pptx</div>
+<div class="tree-file">    │   ├── 📄 COURS 4 UNIX.pptx</div>
+<div class="tree-file">    │   ├── 📄 UNIX.docx</div>
+<div class="tree-file">    │   ├── 📄 COURS 3 UNIX.pptx</div>
+<div class="tree-file">    │   ├── 📄 COURS 2 UNIX.pptx</div>
+<div class="tree-file">    │   ├── 📄 COURS 1 UNIX.pptx</div>
+<div class="tree-file">    │   ├── 📄 FB_IMG_1581959638447.jpg</div>
+<div class="tree-file">    │   ├── 📄 FB_IMG_1581959636142.jpg</div>
+<div class="tree-file">    │   └── 📄 FB_IMG_1581959633676.jpg</div>
+<div class="tree-folder">    ├── 🔗📁 LINUX/  (raccourci)</div>
+<div class="tree-file">    │   ├── 📄 Prog En C sous Linux.pdf</div>
+<div class="tree-file">    │   ├── 📄 Kali Linux.pdf</div>
+<div class="tree-file">    │   └── 📄 astuces-top.blogspot.com     ( L128 ).pdf</div>
+<div class="tree-folder">    ├── 🔗📁 linux/  (raccourci)</div>
+<div class="tree-folder">    │   ├── 📁 chap3/</div>
+<div class="tree-file">    │   │   ├── 📄 chap3-linux.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-9-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-35-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-8-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-7-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-3-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-4-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-5-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-6-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-32-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-34-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-36-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-29-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-31-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-30-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-33-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-27-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-23-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-28-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-2-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-26-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-25-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-22-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-18-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-24-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-21-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-20-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-17-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-19-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-15-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-16-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-13-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-14-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-10-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-11-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-12-1024.jpg</div>
+<div class="tree-file">    │   │   └── 📄 linux-embarqu-chap3-matrise-des-commandes-linux-1-1024.jpg</div>
+<div class="tree-folder">    │   ├── 📁 chap1/</div>
+<div class="tree-file">    │   │   ├── 📄 chap1-linux.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 slide-8-638.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-7-638.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-9-638.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-6-638.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-46-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-44-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-40-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-45-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-43-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-42-638.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-36-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-5-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-41-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-39-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-35-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-38-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-37-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-30-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-32-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-4-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-31-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-34-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-29-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-33-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-28-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-3-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-24-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-27-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-25-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-17-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-20-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-23-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-26-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-22-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-21-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-19-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-18-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-16-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-13-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-2-638.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-14-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-15-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-12-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-11-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-10-1024.jpg</div>
+<div class="tree-file">    │   │   └── 📄 slide-1-638.jpg</div>
+<div class="tree-folder">    │   ├── 📁 chap2/</div>
+<div class="tree-file">    │   │   ├── 📄 chap2-linux.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-5-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-7-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-9-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-6-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-8-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-40-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-36-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-38-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-4-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-39-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-35-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-29-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-37-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-30-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-34-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-28-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-33-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-3-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-32-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-27-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-25-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-31-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-26-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-23-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-21-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-17-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-24-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-12-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-18-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-22-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-2-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-20-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-16-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-19-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-15-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-14-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-13-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-10-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-11-1024.jpg</div>
+<div class="tree-file">    │   │   └── 📄 linux-embarqu-chp2-structure-et-installation-de-linux-1-1024.jpg</div>
+<div class="tree-folder">    │   ├── 📁 chap4/</div>
+<div class="tree-file">    │   │   ├── 📄 chap4-linux.pdf</div>
+<div class="tree-file">    │   │   ├── 📄 slide-69-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-9-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-7-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-8-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-64-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-67-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-68-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-61-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-65-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-63-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-62-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-66-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-60-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-58-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-6-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-56-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-59-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-5-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-55-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-57-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-52-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-54-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-53-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-44-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-51-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-49-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-50-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-48-638.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-46-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-47-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-43-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-35-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-4-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-42-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-40-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-41-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-45-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-39-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-34-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-38-638.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-28-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-33-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-37-638.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-36-638.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-3-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-31-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-29-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-30-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-27-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-22-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-32-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-26-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-23-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-25-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-24-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-21-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-20-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-2-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-19-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-18-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-14-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-16-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-17-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-15-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-13-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-12-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-1-1024.jpg</div>
+<div class="tree-file">    │   │   ├── 📄 slide-11-1024.jpg</div>
+<div class="tree-file">    │   │   └── 📄 slide-10-1024.jpg</div>
+<div class="tree-folder">    │   └── 📁 pr exm linux/</div>
+<div class="tree-file">    │       ├── 📄 chap4-linux.pdf</div>
+<div class="tree-file">    │       ├── 📄 chap3-linux.pdf</div>
+<div class="tree-file">    │       ├── 📄 chap2-linux.pdf</div>
+<div class="tree-file">    │       └── 📄 chap1-linux.pdf</div>
+<div class="tree-folder">    ├── 🔗📁 Linux/  (raccourci)</div>
+<div class="tree-file">    │   ├── 📄 cours_linux_introduction.pdf</div>
+<div class="tree-file">    │   ├── 📄 chap2.pdf</div>
+<div class="tree-folder">    │   └── 📁 Examn/</div>
+<div class="tree-file">    │       └── 📄 Linux_RT2023_exp1.pdf</div>
+<div class="tree-folder">    ├── 🔗📁 linux/  (raccourci)</div>
+<div class="tree-file">    │   ├── 📄 chapitre_linux_everywhere-installation.pdf</div>
+<div class="tree-file">    │   ├── 📄 chapitre_l'OS_Linux.pdf</div>
+<div class="tree-file">    │   ├── 📄 chapitre_l'OS_Linux _v24_06.pdf</div>
+<div class="tree-file">    │   ├── 📄 chapitre_l'OS_Linux _embarque_pdf_v24_06.pdf</div>
+<div class="tree-file">    │   ├── 📄 serie_revision.pdf</div>
+<div class="tree-file">    │   ├── 📄 chapitre1.pdf</div>
+<div class="tree-folder">    │   └── 📁 LINUX/</div>
+<div class="tree-file">    │       └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">    ├── 🔗📁 Introduction to Linux/  (raccourci)</div>
+<div class="tree-folder">    ├── 🔗📁 LINUX #18/  (raccourci)</div>
+<div class="tree-file">    │   ├── 📄 X OS.pdf</div>
+<div class="tree-file">    │   ├── 📄 LES COMMANDES V2.pdf</div>
+<div class="tree-file">    │   ├── 📄 LES COMMANDES V1.pdf</div>
+<div class="tree-file">    │   ├── 📄 X Présentation3 linux.pptx</div>
+<div class="tree-file">    │   ├── 📄 LINUX.xlsx</div>
+<div class="tree-file">    │   └── 📄 READ ME.pdf</div>
+<div class="tree-folder">    ├── 🔗📁 Système d'exploitation Unix (Linux)/  (raccourci)</div>
+<div class="tree-folder">    │   └── 📁 UNIX anal/</div>
+<div class="tree-folder">    │       └── 📁 contro/</div>
+<div class="tree-file">    │           └── ⚠️  [Référence circulaire ignorée]</div>
+<div class="tree-folder">    ├── 🔗📁 Linux /  (raccourci)</div>
+<div class="tree-file">    │   └── 📄 100 Essential Linux Commands.pdf</div>
+<div class="tree-folder">    ├── 🔗📁 Système Linux/  (raccourci)</div>
+<div class="tree-file">    │   ├── 📄 LinuxCommandLineCheatSheet_1.pdf</div>
+<div class="tree-file">    │   └── 📄 Linux-Cheat-Sheet-Sponsored-By-Loggly.pdf</div>
+<div class="tree-folder">    └── 🔗📁 Linux/  (raccourci)</div>
+<div class="tree-folder">        ├── 📁 S1/</div>
+<div class="tree-file">        │   ├── 📄 chapitre3-la-gestion-des-fichiers-sous-linux-déverrouillé (1).pdf</div>
+<div class="tree-file">        │   ├── 📄 memento_linux.pdf</div>
+<div class="tree-file">        │   ├── 📄 Cours Administration Linux (1).pdf</div>
+<div class="tree-file">        │   ├── 📄 2_d+®marrage du systeme linux.pptx</div>
+<div class="tree-file">        │   ├── 📄 5_Samba.ppt</div>
+<div class="tree-file">        │   ├── 📄 6_log-Svg.pptx</div>
+<div class="tree-file">        │   ├── 📄 7_perl.pptx</div>
+<div class="tree-file">        │   ├── 📄 5_NFS.pptx</div>
+<div class="tree-file">        │   ├── 📄 4_RAID.pptx</div>
+<div class="tree-file">        │   ├── 📄 3_sys-fich.pptx</div>
+<div class="tree-file">        │   └── 📄 1_Noyau.pptx</div>
+<div class="tree-folder">        └── 📁 S2/</div>
+<div class="tree-file">            ├── 📄 2_S54-DNS.pptx</div>
+<div class="tree-file">            ├── 📄 1_conf-reseau.pptx</div>
+<div class="tree-file">            ├── 📄 3_APACHE.pptx</div>
+<div class="tree-file">            ├── 📄 5_Serveur_DHCP.pptx</div>
+<div class="tree-file">            ├── 📄 6_sécurité du système.pptx</div>
+<div class="tree-file">            └── 📄 4_ S54-messagrie.pptx</div>
+
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Commander en <span class="accent">4 étapes</span> simples</h2>
+    <div class="steps">
+      <div class="step">
+        <div class="num">1</div>
+        <h3>Choisis tes modules</h3>
+        <p>Coche <strong>linux</strong> ou d'autres modules dans le catalogue.</p>
+      </div>
+      <div class="step">
+        <div class="num">2</div>
+        <h3>Remplis ton email</h3>
+        <p>Juste ton adresse email pour recevoir le lien d'accès.</p>
+      </div>
+      <div class="step">
+        <div class="num">3</div>
+        <h3>Paiement sécurisé</h3>
+        <p>Carte bancaire ou PayPal — sans création de compte PayPal nécessaire.</p>
+      </div>
+      <div class="step">
+        <div class="num">4</div>
+        <h3>Accès Drive instantané</h3>
+        <p>Redirigé directement vers ton Drive dès le paiement. Lien aussi envoyé par email.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>❓ Questions fréquentes sur <span class="accent">linux</span></h2>
+
+    <details open>
+      <summary>Que contient exactement le module linux ?</summary>
+      <p>
+        Le module <strong>linux</strong> contient le cours complet en PDF, les TD et exercices corrigés,
+        les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision.
+        Tous les fichiers sont rangés dans des sous-dossiers clairs sur Google Drive : <em>Cours / TD / Examens / TP</em>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Comment télécharger le module linux ?</summary>
+      <p>
+        Cliquez sur le bouton de commande, sélectionnez <strong>linux</strong> dans le catalogue,
+        renseignez votre email, payez 0,5$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        Le lien est également envoyé par email pour un accès permanent.
+      </p>
+    </details>
+
+    <details>
+      <summary>Le module linux correspond-il à mon université ?</summary>
+      <p>
+        Nos modules suivent le programme standard LMD (Licence-Master-Doctorat) des universités francophones.
+        Si un contenu ne correspond pas exactement à votre programme, le remboursement intégral est garanti
+        sans condition — contactez-nous sur <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>.
+      </p>
+    </details>
+
+    <details>
+      <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
+      <p>
+        Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
+        à 0,5$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+      </p>
+    </details>
+
+    <p style="margin-top:20px;font-size:.88rem;color:var(--text-muted);">
+      D'autres questions ?
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contactez-nous sur WhatsApp</a> — réponse rapide garantie.
+    </p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="cta-section">
+      <h2>Prêt à obtenir <em style="color:var(--accent)">linux</em> ?</h2>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 0,5$ seulement.</p>
+      <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
+        📥 Télécharger maintenant — 0,5$
+      </a>
+      <div class="trust">
+        <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
+        <div class="trust-item">🔒 <strong>Paiement sécurisé</strong> PayPal</div>
+        <div class="trust-item">⚡ <strong>Accès Drive instantané</strong></div>
+        <div class="trust-item">📱 <strong>Mobile &amp; PC</strong> — hors ligne</div>
+        <div class="trust-item">💬 <strong>Support WhatsApp</strong> rapide</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/">📚 CoursUni</a> ·
+      <a href="https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue">Tous les modules</a> ·
+      <a href="https://wa.me/message/HSBSQMJYXSRQI1">WhatsApp</a>
+    </p>
+    <p style="margin-top:10px;">© 2026 Cours Universitaires en Ligne · Tous droits réservés</p>
+  </div>
+</footer>
+
+</body>
+</html>
