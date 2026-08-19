@@ -980,12 +980,26 @@ function selectFiliere(key){
 
 document.addEventListener('keydown', e=>{ if(e.key==='Escape') closeFiliereModal(); });
 
+function normalizeSearch(str){
+  return (str||'')
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g,'') // supprime les accents
+    .toLowerCase()
+    .trim();
+}
+
 function renderMods(q=''){
   const grid=document.getElementById('mod-grid');
   const noRes=document.getElementById('no-res');
   grid.innerHTML='';
   const catMods = activeCat ? new Set(modulesForCategory(activeCat)) : null;
-  const filtered=MODS.filter(m=>(!q||m.toLowerCase().includes(q.toLowerCase())) && (!catMods||catMods.has(m)));
+  const qNorm = normalizeSearch(q);
+  const qWords = qNorm.split(/\s+/).filter(Boolean);
+  const filtered=MODS.filter(m=>{
+    const mNorm = normalizeSearch(m);
+    const matchesSearch = qWords.length===0 || qWords.every(w=>mNorm.includes(w));
+    return matchesSearch && (!catMods||catMods.has(m));
+  });
   noRes.style.display=filtered.length?'none':'block';
   filtered.forEach(name=>{
     const s=sel.has(name);
