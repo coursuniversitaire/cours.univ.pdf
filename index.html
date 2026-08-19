@@ -255,6 +255,20 @@ footer a { color:var(--muted); }
 @keyframes starReveal { 0%{ width:0; opacity:0; } 100%{ opacity:1; } }
 .stars-sub { font-size:0.74rem; color:var(--muted); margin-top:8px; }
 
+/* GIVE-RATING WIDGET (interactive) */
+.give-rating-block { margin-top:26px; padding-top:22px; border-top:1px dashed var(--border); text-align:center; }
+.stars-interactive { display:flex; justify-content:center; gap:6px; margin-top:8px; }
+.rate-star { background:none; border:none; padding:3px; cursor:pointer; line-height:0; -webkit-tap-highlight-color:transparent; }
+.rate-star svg { width:32px; height:32px; display:block; transition:transform .15s ease; }
+.rate-star svg path { fill:none; stroke:var(--border); stroke-width:1.4; transition:fill .15s ease, stroke .15s ease; }
+.rate-star:hover svg, .rate-star:focus-visible svg { transform:scale(1.14); }
+.rate-star.active svg path, .rate-star.hovered svg path { fill:#FFB800; stroke:#FFB800; filter:drop-shadow(0 2px 3px rgba(255,184,0,.4)); }
+.rate-feedback { margin:16px auto 0; max-width:420px; animation:starReveal .35s ease; }
+.rate-feedback p { font-weight:700; color:var(--ink); font-size:0.92rem; margin-bottom:10px; }
+.rate-feedback textarea { width:100%; padding:11px 13px; border:1.5px solid var(--border); border-radius:10px; font-family:'Inter',sans-serif; font-size:0.85rem; color:var(--ink); background:var(--paper); outline:none; resize:vertical; margin-bottom:10px; transition:border-color .2s; }
+.rate-feedback textarea:focus { border-color:var(--accent); }
+.rate-feedback .btn-green:disabled { opacity:0.65; cursor:default; }
+
 /* POURQUOI ACHETER — avant/après */
 .why-grid { display:grid; grid-template-columns:1fr 1fr; gap:16px; }
 .why-col { border-radius:16px; padding:22px 24px; }
@@ -736,6 +750,23 @@ img.zoomable:hover { opacity: .92; }
     <div class="stars-sub">Basé sur 71 avis</div>
     <div class="social-count">Plus de 200 étudiants ont déjà reçu leurs modules</div>
   </div>
+
+  <!-- Widget de notation interactif -->
+  <div class="give-rating-block">
+    <div class="stars-label">💬 Donne ta note</div>
+    <div class="stars stars-interactive" id="rate-stars" role="radiogroup" aria-label="Donner une note sur 5">
+      <button type="button" class="rate-star" data-val="1" aria-label="1 étoile"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg></button>
+      <button type="button" class="rate-star" data-val="2" aria-label="2 étoiles"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg></button>
+      <button type="button" class="rate-star" data-val="3" aria-label="3 étoiles"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg></button>
+      <button type="button" class="rate-star" data-val="4" aria-label="4 étoiles"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg></button>
+      <button type="button" class="rate-star" data-val="5" aria-label="5 étoiles"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg></button>
+    </div>
+    <div class="rate-feedback" id="rate-feedback" style="display:none;">
+      <p id="rate-thanks"></p>
+      <textarea id="rate-comment" placeholder="Un commentaire (facultatif)…" rows="2"></textarea>
+      <button type="button" class="btn-green" id="rate-send-btn" onclick="sendRating()">Envoyer mon avis</button>
+    </div>
+  </div>
   <div class="wtsp-proof">
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEcwiFXTuSij4K2yFHGGLryBFLwuohwRP1SXMZ4fp3afzupszbZPtaT2JFZZXpgzOs0JAiRMnRsX0tkITG_YmweMEuC4_Ee2nOJGPEH4I_6AJ3q4fWK0lStgGsh9D_GqArWghaRSxmOHPqVwIByhEXCodPlBUPNqPwWLNcZrJAqqYU06I7qk4dctw5JRmQ/s1600/1000107506.png"
          alt="Discussions WhatsApp réelles — clients satisfaits après achat" class="zoomable" loading="lazy">
@@ -1170,6 +1201,53 @@ function doSubmit2(){
     successEl.scrollIntoView({behavior:'smooth', block:'start'});
   });
   startCountdown();
+}
+
+/* ── Widget "Donne ta note" ── */
+let currentRating = 0;
+let ratingSent = false;
+
+function renderRateStars(hoverVal){
+  document.querySelectorAll('.rate-star').forEach(btn=>{
+    const val = +btn.dataset.val;
+    btn.classList.toggle('active', val <= currentRating);
+    btn.classList.toggle('hovered', !!hoverVal && val <= hoverVal && val > currentRating);
+  });
+}
+
+document.querySelectorAll('.rate-star').forEach(btn=>{
+  btn.addEventListener('mouseenter', ()=>renderRateStars(+btn.dataset.val));
+  btn.addEventListener('mouseleave', ()=>renderRateStars());
+  btn.addEventListener('click', ()=>{
+    if (ratingSent) return;
+    currentRating = +btn.dataset.val;
+    renderRateStars();
+    const feedback = document.getElementById('rate-feedback');
+    feedback.style.display = 'block';
+    document.getElementById('rate-thanks').textContent = `Merci ! Tu as donné ${currentRating}/5 ⭐ — un petit commentaire ?`;
+  });
+});
+
+async function sendRating(){
+  if (!currentRating || ratingSent) return;
+  const btn = document.getElementById('rate-send-btn');
+  const comment = document.getElementById('rate-comment').value.trim();
+  btn.disabled = true;
+  btn.textContent = 'Envoi…';
+
+  try {
+    await fetch(WEB_APP_URL, {
+      method:  "POST",
+      headers: { "Content-Type": "text/plain;charset=utf-8" },
+      body:    JSON.stringify({ type: "avis", note: currentRating, commentaire: comment }),
+    });
+  } catch (err) {
+    console.error("Erreur envoi avis :", err);
+  }
+
+  ratingSent = true;
+  document.getElementById('rate-feedback').innerHTML =
+    '<p>🎉 Merci beaucoup pour ton avis !</p>';
 }
 
 function startCountdown(){
