@@ -1,0 +1,192 @@
+---
+---
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Échange de ressources — Donne tes anciens cours, reçois des modules gratuits</title>
+<meta name="description" content="Échange tes anciens cours, TD corrigés et examens contre des modules de notre collection. Règles, conditions et fonctionnement du programme d'échange.">
+{% include common-head.html %}
+
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --ink: #0f0f14;
+  --paper: #f7f6f2;
+  --accent: #1a3fcc;
+  --accent-light: #eef1ff;
+  --accent2: #00b37e;
+  --accent2-light: #e6faf3;
+  --muted: #6b6b7b;
+  --border: #e2e1dc;
+  --card: #ffffff;
+  --shadow: 0 2px 16px rgba(0,0,0,0.07);
+}
+html { scroll-behavior: smooth; }
+html, body { overflow-x: hidden; max-width: 100%; }
+body { font-family: 'Inter', sans-serif; background: var(--paper); color: var(--ink); font-size: 15px; line-height: 1.65; }
+
+nav {
+  position: sticky; top: 0; z-index: 100;
+  background: rgba(247,246,242,0.94); backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 0 5%; height: 58px;
+}
+.nav-logo { font-family: 'Syne',sans-serif; font-weight: 800; font-size: 1.05rem; color: var(--ink); text-decoration: none; }
+.nav-logo span { color: var(--accent); }
+.nav-back { color: var(--muted); text-decoration: none; font-size: 0.87rem; font-weight: 600; display:flex; align-items:center; gap:6px; }
+.nav-back:hover { color: var(--ink); }
+
+.wrap { max-width: 860px; margin: 0 auto; padding: 40px 5% 80px; }
+
+.eyebrow { display: inline-flex; align-items: center; gap: 7px; background: var(--accent-light); color: var(--accent); font-size: 0.77rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; padding: 5px 13px; border-radius: 999px; margin-bottom: 16px; }
+h1 { font-family: 'Inter',sans-serif; font-size: clamp(1.6rem,4vw,2.3rem); font-weight: 800; letter-spacing: -0.015em; line-height: 1.28; margin-bottom: 14px; }
+h1 mark { background:none; color: var(--accent); }
+.lead { color: var(--muted); font-size: 1rem; max-width: 640px; margin-bottom: 30px; }
+
+h2 { font-family:'Inter',sans-serif; font-size: 1.25rem; font-weight: 700; margin: 40px 0 14px; display:flex; align-items:center; gap:8px; }
+h2 .num { display:inline-flex; align-items:center; justify-content:center; width:26px; height:26px; border-radius:50%; background:var(--accent); color:#fff; font-family:'Syne',sans-serif; font-size:0.8rem; font-weight:800; flex-shrink:0; }
+p.body-txt { color: var(--ink); font-size: 0.94rem; margin-bottom: 12px; }
+p.body-txt.muted { color: var(--muted); }
+
+.card { background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 20px 22px; margin-bottom: 16px; }
+
+/* Barème visuel */
+.rate-box { display:flex; align-items:center; justify-content:center; gap:18px; background:var(--accent-light); border-radius:16px; padding:26px 20px; margin: 10px 0 22px; flex-wrap:wrap; }
+.rate-side { text-align:center; }
+.rate-num { font-family:'Syne',sans-serif; font-weight:800; font-size:2.1rem; color:var(--accent); line-height:1; }
+.rate-lbl { font-size:0.8rem; color:var(--muted); font-weight:600; margin-top:4px; }
+.rate-arrow { font-size:1.6rem; color:var(--accent); }
+.rate-side.give .rate-num { color: var(--ink); }
+
+.cap-note { display:flex; gap:10px; align-items:flex-start; background:var(--accent2-light); border:1px solid rgba(0,179,126,0.25); border-radius:12px; padding:14px 16px; font-size:0.87rem; color:var(--ink); margin-bottom:22px; }
+.cap-note .ic { font-size:1.1rem; flex-shrink:0; }
+
+ul.checklist { list-style:none; margin: 6px 0 0; }
+ul.checklist li { display:flex; gap:10px; align-items:flex-start; font-size:0.9rem; padding:7px 0; border-bottom:1px solid var(--border); }
+ul.checklist li:last-child { border-bottom:none; }
+ul.checklist li .tag { flex-shrink:0; font-weight:700; color:var(--accent2); }
+ul.checklist li.no .tag { color:#d1483f; }
+
+.steps { counter-reset: step; margin-top: 8px; }
+.steps li { list-style:none; counter-increment: step; position:relative; padding: 0 0 20px 42px; }
+.steps li::before { content: counter(step); position:absolute; left:0; top:0; width:28px; height:28px; border-radius:50%; background:var(--accent); color:#fff; font-family:'Syne',sans-serif; font-weight:800; font-size:0.85rem; display:flex; align-items:center; justify-content:center; }
+.steps li::after { content:''; position:absolute; left:13px; top:30px; bottom:0; width:2px; background:var(--border); }
+.steps li:last-child::after { display:none; }
+.steps li strong { display:block; font-size:0.92rem; margin-bottom:3px; }
+.steps li span { font-size:0.85rem; color:var(--muted); }
+
+.rules-grid { display:grid; grid-template-columns:1fr 1fr; gap:14px; margin-top:8px; }
+@media (max-width:640px){ .rules-grid{ grid-template-columns:1fr; } }
+.rules-col h3 { font-size:0.85rem; font-weight:700; text-transform:uppercase; letter-spacing:.04em; margin-bottom:10px; }
+.rules-col.ok h3 { color: var(--accent2); }
+.rules-col.no h3 { color: #d1483f; }
+
+.disclaimer { font-size:0.82rem; color: var(--muted); background: var(--card); border:1px dashed var(--border); border-radius:12px; padding:16px 18px; margin-top:30px; }
+
+.cta-box { text-align:center; background: var(--ink); border-radius:18px; padding: 34px 22px; margin-top: 44px; }
+.cta-box h2 { color:#fff; justify-content:center; margin-top:0; }
+.cta-box p { color:#aaa; font-size:0.88rem; margin-bottom:18px; }
+.btn { display: inline-flex; align-items: center; gap: 8px; background: var(--accent2); color: #fff; font-weight: 700; font-size: 0.95rem; padding: 14px 26px; border-radius: 10px; text-decoration: none; border: none; cursor: pointer; font-family: 'Inter',sans-serif; box-shadow: 0 4px 18px rgba(0,179,126,0.3); transition: transform .15s, box-shadow .15s; }
+.btn:hover { transform: translateY(-2px); box-shadow: 0 8px 26px rgba(0,179,126,0.38); }
+
+footer { text-align:center; padding: 24px 5%; font-size:0.8rem; color:var(--muted); }
+footer a { color: var(--accent); text-decoration:none; }
+</style>
+</head>
+<body>
+
+<nav>
+  <a class="nav-logo" href="index.html">📚 Cours<span>Uni</span></a>
+  <a class="nav-back" href="index.html">← Retour au catalogue</a>
+</nav>
+
+<div class="wrap">
+
+  <div class="eyebrow">🔄 Programme d'échange</div>
+  <h1>Donne tes anciens cours, reçois des <mark>modules gratuits</mark></h1>
+  <p class="lead">Tu as déjà des cours, TD corrigés ou examens des années précédentes qui dorment dans ton Drive ? Échange-les contre des modules de notre collection. Voici exactement ce qu'on accepte, comment ça se passe, et les règles à connaître avant de nous contacter.</p>
+
+  <h2><span class="num">1</span>Ce qu'on appelle « un module » de ta part</h2>
+  <div class="card">
+    <p class="body-txt muted">Pour être compté comme un module échangeable, ton contenu doit réunir <strong>les trois éléments suivants pour une même matière</strong> :</p>
+    <ul class="checklist">
+      <li><span class="tag">✓</span> Le cours complet (support de cours, pas juste un résumé)</li>
+      <li><span class="tag">✓</span> Minimum <strong>3 TD corrigés</strong></li>
+      <li><span class="tag">✓</span> Minimum <strong>3 anciens examens</strong> (de préférence corrigés)</li>
+    </ul>
+    <p class="body-txt muted" style="margin-top:12px;">Un module incomplet (par exemple juste le cours, ou moins de 3 TD corrigés) n'est pas compté — on peut te dire qu'il te manque des pièces et te laisser compléter avant validation.</p>
+  </div>
+
+  <h2><span class="num">2</span>Le barème d'échange</h2>
+  <div class="rate-box">
+    <div class="rate-side give">
+      <div class="rate-num">2</div>
+      <div class="rate-lbl">modules que tu donnes</div>
+    </div>
+    <div class="rate-arrow">→</div>
+    <div class="rate-side">
+      <div class="rate-num">1</div>
+      <div class="rate-lbl">module que tu reçois</div>
+    </div>
+  </div>
+
+  <div class="cap-note">
+    <span class="ic">⚠️</span>
+    <span><strong>Maximum 3 modules reçus par échange</strong>, tous échanges cumulés — soit jusqu'à 6 modules complets donnés au total. Au-delà, les échanges supplémentaires ne sont plus proposés ; tu peux continuer en achat classique.</span>
+  </div>
+
+  <h2><span class="num">3</span>Comment ça se passe</h2>
+  <ol class="steps">
+    <li><strong>Tu nous contactes sur WhatsApp</strong><span>Décris ce que tu proposes : filière, matière, année, et confirme que tu as bien le cours + 3 TD corrigés + 3 examens.</span></li>
+    <li><strong>On vérifie l'éligibilité</strong><span>Réponse sous 24–48h. On te dit si ça correspond aux critères et s'il n'y a pas déjà ce contenu dans notre catalogue.</span></li>
+    <li><strong>Tu partages le lien</strong><span>Uniquement après accord de notre part — jamais avant. Tu gardes tes fichiers sur ton propre Drive et nous donnes juste l'accès en lecture.</span></li>
+    <li><strong>On contrôle le contenu</strong><span>Vérification par échantillon (lisibilité, complétude, cohérence avec ce qui a été annoncé).</span></li>
+    <li><strong>Tu choisis ton/tes module(s)</strong><span>Dans le catalogue dédié à l'échange, et on t'y donne accès comme pour un achat classique.</span></li>
+  </ol>
+
+  <h2><span class="num">4</span>Ce qui est accepté / refusé</h2>
+  <div class="rules-grid">
+    <div class="rules-col ok">
+      <h3>✓ Accepté</h3>
+      <ul class="checklist">
+        <li><span class="tag">✓</span> Contenu que tu as le droit de partager</li>
+        <li><span class="tag">✓</span> Filière/année clairement indiquées</li>
+        <li><span class="tag">✓</span> Scans ou PDF lisibles</li>
+        <li><span class="tag">✓</span> Matière absente de notre catalogue actuel</li>
+      </ul>
+    </div>
+    <div class="rules-col no">
+      <h3>✗ Refusé</h3>
+      <ul class="checklist">
+        <li class="no"><span class="tag">✗</span> Contenu déjà présent chez nous</li>
+        <li class="no"><span class="tag">✗</span> Modules incomplets (moins de 3 TD ou 3 examens)</li>
+        <li class="no"><span class="tag">✗</span> Photocopies illisibles ou fichiers corrompus</li>
+        <li class="no"><span class="tag">✗</span> Contenu dont tu n'es pas sûr d'avoir le droit de partager</li>
+      </ul>
+    </div>
+  </div>
+
+  <p class="body-txt muted" style="margin-top:18px;">Les modules disponibles en échange font partie d'un catalogue dédié, distinct de notre collection complète — certains modules premium ne sont proposés qu'à l'achat.</p>
+
+  <div class="disclaimer">
+    <strong>À savoir :</strong> en proposant un échange, tu confirmes que le contenu partagé t'appartient ou que tu es autorisé à le partager. Nous nous réservons le droit de refuser une proposition sans justification, notamment si le contenu ne répond pas aux critères ci-dessus ou existe déjà dans notre catalogue.
+  </div>
+
+  <div class="cta-box">
+    <h2 style="justify-content:center;">Prêt à échanger ?</h2>
+    <p>Contacte-nous sur WhatsApp avec le détail de ce que tu proposes (filière, matière, contenu inclus).</p>
+    <a class="btn" href="https://wa.me/message/HSBSQMJYXSRQI1" rel="nofollow" target="_blank">💬 Proposer un échange sur WhatsApp</a>
+  </div>
+
+</div>
+
+<footer>
+  <a href="index.html">← Retour au catalogue complet</a>
+</footer>
+
+</body>
+</html>
