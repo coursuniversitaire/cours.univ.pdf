@@ -29,7 +29,7 @@
 
 
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://coursuniversitaire.github.io/cours.univ.pdf/"},{"@type":"ListItem","position":2,"name":"Catalogue","item":"https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue"},{"@type":"ListItem","position":3,"name":"Java","item":"https://coursuniversitaire.github.io/cours.univ.pdf/matieres/exercices-corriges-java-pdf.html"}]}</script>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Java ?","acceptedAnswer":{"@type":"Answer","text":"Le module Java contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Java ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal (1$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Java correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Que contient le module Java ?","acceptedAnswer":{"@type":"Answer","text":"Le module Java contient le cours complet en PDF, les TD et exercices corrigés, les examens des sessions précédentes avec corrections détaillées, et selon le module des TP ou fiches de révision. Tous les fichiers sont organisés dans des dossiers clairs sur Google Drive."}},{"@type":"Question","name":"Comment télécharger le module Java ?","acceptedAnswer":{"@type":"Answer","text":"Remplissez le formulaire de commande sur notre site, payez en sécurité via PayPal ({{ site.module_price }}$), et vous êtes redirigé immédiatement vers votre Google Drive. Le lien est aussi envoyé par email."}},{"@type":"Question","name":"Le module Java correspond-il à mon université ?","acceptedAnswer":{"@type":"Answer","text":"Oui. Les modules suivent le programme LMD standard des universités francophones. Si un contenu ne correspond pas, remboursement intégral garanti sans conditions."}}]}</script>
 
   <style>
     :root {
@@ -855,7 +855,7 @@
       <summary>Comment télécharger le module Java ?</summary>
       <p>
         Cliquez sur le bouton de commande, sélectionnez <strong>Java</strong> dans le catalogue,
-        renseignez votre email, payez 1$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
+        renseignez votre email, payez {{ site.module_price }}$ via PayPal, et vous êtes redirigé immédiatement vers votre Google Drive.
         Le lien est également envoyé par email pour un accès permanent.
       </p>
     </details>
@@ -873,7 +873,7 @@
       <summary>Puis-je acheter plusieurs modules en même temps ?</summary>
       <p>
         Oui ! Dans le catalogue, cochez tous les modules souhaités — le total se calcule automatiquement
-        à 1$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
+        à {{ site.module_price }}$ par module. Un seul paiement, un accès Drive unique pour tous vos modules sélectionnés.
       </p>
     </details>
 
@@ -888,9 +888,9 @@
   <div class="container">
     <div class="cta-section">
       <h2>Prêt à obtenir <em style="color:var(--accent)">Java</em> ?</h2>
-      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — 1$ seulement.</p>
+      <p>Cours complet · TD corrigés · Examens des années précédentes · Drive organisé — {{ site.module_price }}$ seulement.</p>
       <a href="https://urlshort.at/telecharger-drives-univs-st" class="btn" style="font-size:1.1rem;padding:16px 36px;">
-        📥 Télécharger maintenant — 1$
+        📥 Télécharger maintenant — {{ site.module_price }}$
       </a>
       <div class="trust">
         <div class="trust-item">🛡️ <strong>Satisfait ou remboursé</strong></div>
