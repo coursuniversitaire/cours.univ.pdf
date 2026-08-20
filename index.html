@@ -698,6 +698,22 @@ img.zoomable:hover { opacity: .92; }
         <div class="stars-sub">Note moyenne sur 71 avis · Satisfait ou remboursé garanti</div>
       </div>
 
+      <!-- Avis intégré à la commande : envoyé avec la même requête que la création du lien de paiement -->
+      <div class="give-rating-block">
+        <div class="stars-label">💬 Ton avis <span class="opt">(optionnel)</span></div>
+        <div class="stars stars-interactive" id="rate-stars" role="radiogroup" aria-label="Donner une note sur 5">
+          <button type="button" class="rate-star" data-val="1" aria-label="1 étoile"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg></button>
+          <button type="button" class="rate-star" data-val="2" aria-label="2 étoiles"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg></button>
+          <button type="button" class="rate-star" data-val="3" aria-label="3 étoiles"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg></button>
+          <button type="button" class="rate-star" data-val="4" aria-label="4 étoiles"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg></button>
+          <button type="button" class="rate-star" data-val="5" aria-label="5 étoiles"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg></button>
+        </div>
+        <div class="rate-feedback" id="rate-feedback" style="display:none;">
+          <p id="rate-thanks"></p>
+          <textarea id="rate-comment" placeholder="Un commentaire (facultatif)…" rows="2"></textarea>
+        </div>
+      </div>
+
       <button class="btn-submit" id="submit-btn" onclick="doSubmit()" disabled>
         💳 Payer maintenant &amp; accéder à mon Drive →
       </button>
@@ -757,22 +773,6 @@ img.zoomable:hover { opacity: .92; }
     <div class="social-count">Plus de 200 étudiants ont déjà reçu leurs modules</div>
   </div>
 
-  <!-- Widget de notation interactif -->
-  <div class="give-rating-block">
-    <div class="stars-label">💬 Donne ta note</div>
-    <div class="stars stars-interactive" id="rate-stars" role="radiogroup" aria-label="Donner une note sur 5">
-      <button type="button" class="rate-star" data-val="1" aria-label="1 étoile"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg></button>
-      <button type="button" class="rate-star" data-val="2" aria-label="2 étoiles"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg></button>
-      <button type="button" class="rate-star" data-val="3" aria-label="3 étoiles"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg></button>
-      <button type="button" class="rate-star" data-val="4" aria-label="4 étoiles"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg></button>
-      <button type="button" class="rate-star" data-val="5" aria-label="5 étoiles"><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg></button>
-    </div>
-    <div class="rate-feedback" id="rate-feedback" style="display:none;">
-      <p id="rate-thanks"></p>
-      <textarea id="rate-comment" placeholder="Un commentaire (facultatif)…" rows="2"></textarea>
-      <button type="button" class="btn-green" id="rate-send-btn" onclick="sendRating()">Envoyer mon avis</button>
-    </div>
-  </div>
   <div class="wtsp-proof">
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEcwiFXTuSij4K2yFHGGLryBFLwuohwRP1SXMZ4fp3afzupszbZPtaT2JFZZXpgzOs0JAiRMnRsX0tkITG_YmweMEuC4_Ee2nOJGPEH4I_6AJ3q4fWK0lStgGsh9D_GqArWghaRSxmOHPqVwIByhEXCodPlBUPNqPwWLNcZrJAqqYU06I7qk4dctw5JRmQ/s1600/1000107506.png"
          alt="Discussions WhatsApp réelles — clients satisfaits après achat" class="zoomable" loading="lazy">
@@ -1137,6 +1137,8 @@ async function doSubmit() {
       tel:     document.getElementById('f-tel').value.trim(),
       univ:    document.getElementById('f-univ').value.trim(),
       note:    document.getElementById('f-note').value.trim(),
+      note_avis:       currentRating || null,                     // étoiles données dans le formulaire (0-5, optionnel)
+      commentaire_avis: document.getElementById('rate-comment').value.trim(),
     };
 
     const response = await fetch(WEB_APP_URL, {
@@ -1209,9 +1211,10 @@ function doSubmit2(){
   startCountdown();
 }
 
-/* ── Widget "Donne ta note" ── */
+/* ── Widget "Ton avis" — sélection locale uniquement.
+   Aucune requête séparée : la note et le commentaire sont inclus dans
+   le payload de doSubmit() et enregistrés sur la même ligne que la commande. ── */
 let currentRating = 0;
-let ratingSent = false;
 
 function renderRateStars(hoverVal){
   document.querySelectorAll('.rate-star').forEach(btn=>{
@@ -1225,36 +1228,13 @@ document.querySelectorAll('.rate-star').forEach(btn=>{
   btn.addEventListener('mouseenter', ()=>renderRateStars(+btn.dataset.val));
   btn.addEventListener('mouseleave', ()=>renderRateStars());
   btn.addEventListener('click', ()=>{
-    if (ratingSent) return;
     currentRating = +btn.dataset.val;
     renderRateStars();
     const feedback = document.getElementById('rate-feedback');
     feedback.style.display = 'block';
-    document.getElementById('rate-thanks').textContent = `Merci ! Tu as donné ${currentRating}/5 ⭐ — un petit commentaire ?`;
+    document.getElementById('rate-thanks').textContent = `${currentRating}/5 ⭐ noté — sera envoyé avec ta commande.`;
   });
 });
-
-async function sendRating(){
-  if (!currentRating || ratingSent) return;
-  const btn = document.getElementById('rate-send-btn');
-  const comment = document.getElementById('rate-comment').value.trim();
-  btn.disabled = true;
-  btn.textContent = 'Envoi…';
-
-  try {
-    await fetch(WEB_APP_URL, {
-      method:  "POST",
-      headers: { "Content-Type": "text/plain;charset=utf-8" },
-      body:    JSON.stringify({ type: "avis", note: currentRating, commentaire: comment }),
-    });
-  } catch (err) {
-    console.error("Erreur envoi avis :", err);
-  }
-
-  ratingSent = true;
-  document.getElementById('rate-feedback').innerHTML =
-    '<p>🎉 Merci beaucoup pour ton avis !</p>';
-}
 
 function startCountdown(){
   let remaining = 7;
