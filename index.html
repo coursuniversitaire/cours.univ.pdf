@@ -366,7 +366,7 @@ img.zoomable:hover { opacity: .92; }
 
   <div class="hero-mini-trust" style="display: none;">
     <div class="hmt-item">📚 <strong>300+</strong> modules disponibles</div>
-    <div class="hmt-item">💰 Des centaines de pages pour <strong>1$</strong> <span class="hmt-anchor">(≈10 DH · ≈0,90€ · ≈600 FCFA)</span> seulement <span class="hmt-anchor">(~10$ en version imprimée)</span></div>
+    <div class="hmt-item">💰 Des centaines de pages pour <strong>{{ site.module_price }}$</strong> <span class="hmt-anchor">(≈10 DH · ≈0,90€ · ≈600 FCFA)</span> seulement <span class="hmt-anchor">(~10$ en version imprimée)</span></div>
     <div class="hmt-item">⚡ Accès <strong>immédiat au Drive</strong> dès le paiement + lien envoyé par <strong>email</strong></div>
   </div>
 
@@ -667,12 +667,12 @@ img.zoomable:hover { opacity: .92; }
       <div class="order-sum">
         <div>
           <div class="os-label">Total à payer</div>
-          <div class="os-breakdown" id="os-bd">0 module × 1,00 $</div>
+          <div class="os-breakdown" id="os-bd">0 module × {{ site.module_price }} $</div>
         </div>
         <div class="os-total" id="os-total">0,00 $</div>
       </div>
       <div class="fx-note" style="font-size:0.78rem;color:var(--muted);margin-top:6px;">
-        💱 Le paiement se fait via carte bancaire (Visa ou Mastercard) — 1$ ≈ 10 DH (Maroc) · ≈ 0,90€ (Europe) · ≈ 600 FCFA (Afrique de l'Ouest/Centrale).
+        💱 Le paiement se fait via carte bancaire (Visa ou Mastercard) — {{ site.module_price }}$ ≈ 10 DH (Maroc) · ≈ 0,90€ (Europe) · ≈ 600 FCFA (Afrique de l'Ouest/Centrale).
       </div>
 <div class="pay-note">
      Voir exemple de paiement réel : <a href="https://drive.google.com/file/d/1RH1m_q7-lHxvk7OcFCnST2AAqKFSw0EG/view?usp=drivesdk" rel="nofollow" target="_blank" >ici </a>
@@ -690,7 +690,7 @@ img.zoomable:hover { opacity: .92; }
             <div class="stars stars-base">
               <svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg>
             </div>
-            <div class="stars stars-fill" style="width:85.4%">
+            <div class="stars stars-fill" style="width:85.4%">&
               <svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg><svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.26 6.85.7-5.1 4.72 1.44 6.72L12 17.02l-5.99 3.38 1.44-6.72-5.1-4.72 6.85-.7L12 2.5z"/></svg>
             </div>
           </div>
