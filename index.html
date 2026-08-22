@@ -1111,6 +1111,12 @@ function updateUI(){
     ? payingCount+' module(s) × '+PRICE.toFixed(2).replace('.',',')+' $ + '+freeCount+' gratuit(s) 🎁'
     : n+' module(s) × '+PRICE.toFixed(2).replace('.',',')+' $';
   document.getElementById('os-total').textContent=total+' $';
+  const submitBtn = document.getElementById('submit-btn');
+  if (n>0 && payingCount===0) {
+    submitBtn.innerHTML = '🎁 Recevoir mon accès gratuit →';
+  } else {
+    submitBtn.innerHTML = '💳 Payer maintenant &amp; accéder à mon Drive →';
+  }
   document.getElementById('cart-bar').classList.toggle('on',n>0);
   updateFloatCta();
   const prev=document.getElementById('sel-preview');
@@ -1165,13 +1171,31 @@ async function doSubmit() {
     const data = await response.json();
 
     if (data.success) {
-      // ── Succès : affiche l'écran de confirmation avec le lien PayPal ──
+      // ── Succès : affiche l'écran de confirmation ──
       document.getElementById('form-view').style.display   = 'none';
       const successEl = document.getElementById('success-view');
       successEl.style.display = 'block';
 
-      // Optionnel : afficher le lien PayPal directement dans la page
-      if (data.paypalLink) {
+      if (data.free) {
+        // ── Commande 100% gratuite : accès direct, pas de paiement ──
+        successEl.innerHTML = `
+          <div class="big">🎉</div>
+          <h3>Accès offert — ton Drive t'attend !</h3>
+          <p>Tous les modules choisis sont gratuits, aucun paiement n'est nécessaire.<br><br>
+          Le lien a aussi été envoyé à ton adresse email.</p>
+          <br>
+          <a href="${data.folderUrl}" target="_blank"
+             style="background:#00875a;color:#fff;padding:14px 28px;border-radius:8px;
+                    text-decoration:none;font-weight:600;font-size:1rem;display:inline-block;margin-top:8px;">
+            📂 Accéder à mon Drive maintenant →
+          </a>
+          <p style="margin-top:18px;color:#888;font-size:0.8rem;">
+            Envie d'autres modules ? Reviens au catalogue à tout moment.
+          </p>
+          <p>Des questions ? <a href="https://wa.me/message/HSBSQMJYXSRQI1">Contacte-nous sur WhatsApp</a> · Réponse rapide garantie</p>
+          `;
+      } else if (data.paypalLink) {
+        // Optionnel : afficher le lien PayPal directement dans la page
         successEl.innerHTML = `
           <div class="big">✅</div>
           <h3>Commande reçue !</h3>
