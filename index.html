@@ -121,6 +121,7 @@ hr.div { border: none; border-top: 1px solid var(--border); margin: 0 2%; }
 .mod-chk { width:19px; height:19px; border-radius:5px; border:2px solid var(--border); flex-shrink:0; display:flex; align-items:center; justify-content:center; transition:all .15s; margin-top:2px; font-size:0.7rem; font-weight:700; color:transparent; }
 .mod-card.sel .mod-chk { background:var(--accent); border-color:var(--accent); color:#fff; }
 .mod-name { font-size:0.83rem; font-weight:500; line-height:1.35; }
+.mod-free-badge { flex-shrink:0; align-self:center; font-size:0.68rem; font-weight:700; color:#00875a; background:#e6faf3; border:1px solid rgba(0,135,90,0.35); border-radius:20px; padding:2px 8px; white-space:nowrap; margin-left:auto; }
 .no-res { text-align:center; padding:40px; color:var(--muted); display:none; font-size:0.9rem; }
 
 /* CART BAR */
@@ -921,6 +922,11 @@ const MODS = [
   "UML", "VHDL & FPGA", "Vibrations", "Vision artificielle", "VoIP", "VOM GC", "Web", "Web Services", "Windows",
 ];
 
+// Modules offerts gratuitement (0$) — affichés avec un badge et exclus du calcul du prix.
+// Les noms doivent correspondre exactement à ceux de MODS ci-dessus.
+const FREE_MODULES = ["Algèbre 1", "Algorithmique"];
+function isFreeModule(name){ return FREE_MODULES.includes(name); }
+
 const PRICE = Number(window.COURS_UNIVERSITAIRES_PRICE || 1);
 let sel = new Set();
 
@@ -1070,7 +1076,8 @@ function renderMods(q=''){
     el.className='mod-card'+(s?' sel':'');
     el.setAttribute('role','listitem');
     el.setAttribute('aria-label',name+(s?' (sélectionné)':''));
-    el.innerHTML=`<div class="mod-chk">${s?'✓':''}</div><div class="mod-name">${name}</div>`;
+    const freeBadge = isFreeModule(name) ? '<span class="mod-free-badge" title="Module offert gratuitement">🎁 Gratuit</span>' : '';
+    el.innerHTML=`<div class="mod-chk">${s?'✓':''}</div><div class="mod-name">${name}</div>${freeBadge}`;
     el.addEventListener('click',()=>toggle(name));
     grid.appendChild(el);
   });
@@ -1092,12 +1099,17 @@ function clearSel(){
 }
 
 function updateUI(){
-  const n=sel.size, total=(n*PRICE).toFixed(2);
+  const n=sel.size;
+  const freeCount=[...sel].filter(isFreeModule).length;
+  const payingCount=n-freeCount;
+  const total=(payingCount*PRICE).toFixed(2);
   document.getElementById('sel-count').textContent=n;
   document.getElementById('sel-price').textContent=total+' $';
   document.getElementById('cart-lbl').textContent=n+' module(s) sélectionné(s)';
   document.getElementById('cart-amt').textContent=total+' $';
-  document.getElementById('os-bd').textContent=n+' module(s) × '+PRICE.toFixed(2).replace('.',',')+' $';
+  document.getElementById('os-bd').textContent=freeCount>0
+    ? payingCount+' module(s) × '+PRICE.toFixed(2).replace('.',',')+' $ + '+freeCount+' gratuit(s) 🎁'
+    : n+' module(s) × '+PRICE.toFixed(2).replace('.',',')+' $';
   document.getElementById('os-total').textContent=total+' $';
   document.getElementById('cart-bar').classList.toggle('on',n>0);
   updateFloatCta();
@@ -1105,7 +1117,7 @@ function updateUI(){
   const tags=document.getElementById('sel-tags');
   if(n>0){
     prev.classList.add('on');
-    tags.innerHTML=[...sel].map(nm=>`<span class="sel-tag">${nm}<button onclick="toggle('${nm.replace(/'/g,"\\'")}')" aria-label="Retirer ${nm}">✕</button></span>`).join('');
+    tags.innerHTML=[...sel].map(nm=>`<span class="sel-tag">${isFreeModule(nm)?'🎁 ':''}${nm}<button onclick="toggle('${nm.replace(/'/g,"\\'")}')" aria-label="Retirer ${nm}">✕</button></span>`).join('');
   } else {
     prev.classList.remove('on');
   }
