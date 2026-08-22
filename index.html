@@ -115,13 +115,13 @@ hr.div { border: none; border-top: 1px solid var(--border); margin: 0 2%; }
 .search-wrap input:focus { border-color: var(--accent); }
 .search-icon { position:absolute; left:14px; top:50%; transform:translateY(-50%); color:var(--muted); pointer-events:none; }
 .modules-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:8px; }
-.mod-card { background:var(--card); border:1.5px solid var(--border); border-radius:11px; padding:11px 12px; cursor:pointer; display:flex; align-items:flex-start; gap:9px; transition:border-color .18s, background .18s; user-select:none; min-width:0; }
+.mod-card { position:relative; background:var(--card); border:1.5px solid var(--border); border-radius:11px; padding:11px 12px; cursor:pointer; display:flex; align-items:flex-start; gap:9px; transition:border-color .18s, background .18s; user-select:none; min-width:0; }
 .mod-card:hover { border-color:var(--accent); background:var(--accent-light); }
 .mod-card.sel { border-color:var(--accent); background:var(--accent-light); box-shadow:0 0 0 2px var(--accent); }
 .mod-chk { width:19px; height:19px; border-radius:5px; border:2px solid var(--border); flex-shrink:0; display:flex; align-items:center; justify-content:center; transition:all .15s; margin-top:2px; font-size:0.7rem; font-weight:700; color:transparent; }
 .mod-card.sel .mod-chk { background:var(--accent); border-color:var(--accent); color:#fff; }
 .mod-name { font-size:0.83rem; font-weight:500; line-height:1.35; }
-.mod-free-badge { flex-shrink:0; align-self:center; font-size:0.68rem; font-weight:700; color:#00875a; background:#e6faf3; border:1px solid rgba(0,135,90,0.35); border-radius:20px; padding:2px 8px; white-space:nowrap; margin-left:auto; }
+.mod-free-badge { position:absolute; top:-6px; right:-6px; width:22px; height:22px; display:flex; align-items:center; justify-content:center; font-size:0.75rem; background:#e6faf3; border:1.5px solid rgba(0,135,90,0.35); border-radius:50%; box-shadow:0 1px 3px rgba(0,0,0,0.12); }
 .no-res { text-align:center; padding:40px; color:var(--muted); display:none; font-size:0.9rem; }
 
 /* CART BAR */
@@ -1076,7 +1076,7 @@ function renderMods(q=''){
     el.className='mod-card'+(s?' sel':'');
     el.setAttribute('role','listitem');
     el.setAttribute('aria-label',name+(s?' (sélectionné)':''));
-    const freeBadge = isFreeModule(name) ? '<span class="mod-free-badge" title="Module offert gratuitement">🎁 Gratuit</span>' : '';
+    const freeBadge = isFreeModule(name) ? '<span class="mod-free-badge" title="Module offert gratuitement">🎁</span>' : '';
     el.innerHTML=`<div class="mod-chk">${s?'✓':''}</div><div class="mod-name">${name}</div>${freeBadge}`;
     el.addEventListener('click',()=>toggle(name));
     grid.appendChild(el);
