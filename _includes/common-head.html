@@ -23,20 +23,124 @@
   window.COURS_UNIVERSITAIRES_PRICE = {{ site.module_price | default: 1 }};
 </script>
 
-<script type="text/javascript">
-  (function(c,l,a,r,i,t,y){
-    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-  })(window, document, "clarity", "script", "xb7gvowmx9");
-</script>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-G55SJ5C5L0"></script>
+<!-- Analytics scripts are loaded only after cookie consent -->
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-G55SJ5C5L0');
-</script>
+(function () {
 
+  const CONSENT_KEY = 'cookie_consent';
+
+  function loadAnalytics() {
+
+    if (window.__analyticsLoaded) return;
+    window.__analyticsLoaded = true;
+
+    /* =========================
+       Google Analytics
+    ========================= */
+
+    const gaScript = document.createElement('script');
+    gaScript.async = true;
+    gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-G55SJ5C5L0';
+    document.head.appendChild(gaScript);
+
+    window.dataLayer = window.dataLayer || [];
+
+    window.gtag = function () {
+      window.dataLayer.push(arguments);
+    };
+
+    gtag('js', new Date());
+    gtag('config', 'G-G55SJ5C5L0');
+
+    /* =========================
+       Microsoft Clarity
+    ========================= */
+
+    (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){
+        (c[a].q=c[a].q||[]).push(arguments)
+      };
+
+      t=l.createElement(r);
+      t.async=1;
+      t.src="https://www.clarity.ms/tag/"+i;
+
+      y=l.getElementsByTagName(r)[0];
+      y.parentNode.insertBefore(t,y);
+
+    })(window, document, "clarity", "script", "xb7gvowmx9");
+
+  }
+
+
+  /* =========================
+     Check previous consent
+  ========================= */
+
+  const consent = localStorage.getItem(CONSENT_KEY);
+
+  if (consent === 'accepted') {
+    loadAnalytics();
+  }
+
+
+  /* =========================
+     Expose functions
+  ========================= */
+
+  window.acceptCookies = function () {
+
+    localStorage.setItem(CONSENT_KEY, 'accepted');
+
+    loadAnalytics();
+
+    hideCookieBanner();
+  };
+
+
+  window.rejectCookies = function () {
+
+    localStorage.setItem(CONSENT_KEY, 'rejected');
+
+    hideCookieBanner();
+  };
+
+
+  window.openCookieSettings = function () {
+
+    document.getElementById('cookie-banner').style.display = 'block';
+
+  };
+
+
+  function hideCookieBanner() {
+
+    const banner = document.getElementById('cookie-banner');
+
+    if (banner) {
+      banner.style.display = 'none';
+    }
+
+  }
+
+
+  /* =========================
+     Show banner if no choice
+  ========================= */
+
+  document.addEventListener('DOMContentLoaded', function () {
+
+    if (!consent) {
+
+      const banner = document.getElementById('cookie-banner');
+
+      if (banner) {
+        banner.style.display = 'block';
+      }
+
+    }
+
+  });
+
+})();
+</script>
