@@ -71,6 +71,9 @@ nav {
 .cat-pill .cp-count { font-size:0.74rem; font-weight:600; opacity:0.65; }
 .cat-pill.active { background:var(--accent); border-color:var(--accent); color:#fff; }
 .cat-pill.active .cp-count { opacity:0.85; }
+.cat-pill-free { border-color:rgba(0,179,126,0.45); color:var(--accent2); }
+.cat-pill-free:hover { border-color:var(--accent2); color:var(--accent2); }
+.cat-pill-free.active { background:var(--accent2); border-color:var(--accent2); color:#fff; }
 .cat-filter-note { font-size:0.78rem; color:var(--muted); margin:-6px 0 14px; }
 @media (max-width:640px){
   .cat-filter-bar{ flex-wrap:nowrap; gap:6px; overflow-x:auto; -webkit-overflow-scrolling:touch; padding-bottom:6px; margin-bottom:12px; scrollbar-width:thin; }
@@ -955,6 +958,7 @@ const NORM_MODS = MODS.map(m=>({name:m, n:norm(m)}));
 // ── FILTRE PAR CATÉGORIE (chips au-dessus du catalogue) ──
 // Un module peut appartenir à plusieurs catégories (duplication volontaire).
 const CATEGORIES = {
+  gratuit: { icon:'🎁', label:'Modules gratuits' },
   math: { icon:'📐', label:'Mathématiques', kw:['algebre','analyse ','analyse\'','topologie','probabilite','statistique','equations differentielles','mesure et integration','calcul differentiel','calcul scientifique','logique mathematique','geometrie des courbes','chaines de markov','processus stochastique','histoire des mathematiques','theorie des graphes','recherche operationnelle','programmation lineaire','edo ','maths pour','methode numerique','methodes numeriques','mna ','methodes d\'analyse'] },
   physique: { icon:'⚛️', label:'Physique', kw:['mecanique du point','mecanique du solide','mecanique rationnelle','mecanique analytique','mecanique quantique','thermodynamique','thermochimie','electromagnetisme','electrostatique','electrocinetique','optique','atomistique','vibrations','ondes et vibrations','structure de la matiere','physique statistique','physique nucleaire','physique des materiaux','physique des semi-conducteurs','biophysique','science des materiaux'] },
   info: { icon:'💻', label:'Informatique, IA & Data', kw:['applications reparties','algorithmique','programmation','systeme d\'exploitation','systemes d\'exploitation','genie logiciel','intelligence artificielle','machine learning','deep learning','data ','big data','python','java','c# ','uml','merise','compilation','securite','cloud','web','android','poo','structures de donnees','architecture des ordinateurs','systemes distribues','cryptographie','reseaux informatiques','oracle','design patterns','complexite','jee','windows','agents et systemes multi-agents','asma','algorithmes distribues','representation et raisonnement','recherche d\'information','resolution de problemes','meta-heuristiques','technologie des agents','tests logiciels','surete de fonctionnement','ihm','linux'] },
@@ -978,6 +982,10 @@ const CATEGORIES = {
 };
 
 function modulesForCategory(key){
+  if(key === 'gratuit'){
+    // Catégorie spéciale : basée directement sur FREE_MODULES, pas sur des mots-clés.
+    return MODS.filter(m=>isFreeModule(m));
+  }
   const c = CATEGORIES[key];
   const excl = c.excl || [];
   return NORM_MODS.filter(m=>c.kw.some(k=>m.n.includes(k)) && !excl.some(e=>m.n.includes(e))).map(m=>m.name);
@@ -992,7 +1000,8 @@ function renderCatFilterBar(){
   html += Object.keys(CATEGORIES).map(key=>{
     const c = CATEGORIES[key];
     const count = modulesForCategory(key).length;
-    return `<button type="button" class="cat-pill${activeCat===key?' active':''}" role="listitem" onclick="setActiveCat('${key}')"><span class="cp-icon">${c.icon}</span>${c.label}<span class="cp-count">${count}</span></button>`;
+    const freeClass = key==='gratuit' ? ' cat-pill-free' : '';
+    return `<button type="button" class="cat-pill${freeClass}${activeCat===key?' active':''}" role="listitem" onclick="setActiveCat('${key}')"><span class="cp-icon">${c.icon}</span>${c.label}<span class="cp-count">${count}</span></button>`;
   }).join('');
   bar.innerHTML = html;
   note.style.display = activeCat ? 'block' : 'none';
