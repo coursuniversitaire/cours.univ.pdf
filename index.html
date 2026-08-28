@@ -1352,7 +1352,13 @@ function toggleFaq(btn){
   if(!isOpen){ item.classList.add('open'); btn.setAttribute('aria-expanded','true'); }
 }
 
-document.getElementById('mod-search').addEventListener('input',e=>renderMods(e.target.value));
+document.getElementById('mod-search').addEventListener('input',e=>{
+  if(e.target.value.trim() !== '' && activeCat !== null){
+    activeCat = null;
+    renderCatFilterBar();
+  }
+  renderMods(e.target.value);
+});
 document.getElementById('f-email').addEventListener('input',updateUI);
  
 const heroCta = document.getElementById('hero-cta');
