@@ -135,7 +135,8 @@ hr.div { border: none; border-top: 1px solid var(--border); margin: 0 2%; }
 .mod-card.sel { border-color:var(--accent); background:var(--accent-light); box-shadow:0 0 0 2px var(--accent); }
 .mod-chk { width:19px; height:19px; border-radius:5px; border:2px solid var(--border); flex-shrink:0; display:flex; align-items:center; justify-content:center; transition:all .15s; margin-top:2px; font-size:0.7rem; font-weight:700; color:transparent; }
 .mod-card.sel .mod-chk { background:var(--accent); border-color:var(--accent); color:#fff; }
-.mod-name { font-size:0.83rem; font-weight:500; line-height:1.35; }
+.mod-name { font-size:0.83rem; font-weight:500; line-height:1.35; text-transform:lowercase; }
+.mod-name::first-letter { text-transform:uppercase; }
 .mod-free-badge { position:absolute; top:-6px; right:-6px; width:22px; height:22px; display:flex; align-items:center; justify-content:center; font-size:0.75rem; background:#e6faf3; border:1.5px solid rgba(0,135,90,0.35); border-radius:50%; box-shadow:0 1px 3px rgba(0,0,0,0.12); }
 .no-res { text-align:center; padding:40px; color:var(--muted); display:none; font-size:0.9rem; }
 
@@ -169,6 +170,8 @@ hr.div { border: none; border-top: 1px solid var(--border); margin: 0 2%; }
 .sel-tags { display:flex; flex-wrap:wrap; gap:6px; }
 .sel-tag { background:#fff; border:1px solid var(--accent); color:var(--accent); border-radius:999px; padding:3px 11px; font-size:0.77rem; font-weight:500; display:flex; align-items:center; gap:5px; }
 .sel-tag button { background:none; border:none; cursor:pointer; color:var(--accent); font-size:0.85rem; padding:0; line-height:1; }
+.sel-tag-name { text-transform:lowercase; }
+.sel-tag-name::first-letter { text-transform:uppercase; }
 .fg { margin-bottom:18px; }
 .fg label { display:block; font-size:0.84rem; font-weight:600; margin-bottom:6px; }
 .fg label .req { color:var(--accent); }
@@ -871,73 +874,106 @@ img.zoomable:hover { opacity: .92; }
 <script>
 /* ── MODULE DATA ── */
 const MODS = [
-  "Actionneurs (électriques-pneu-hydrau..)", "Administration des réseaux", "Administration des Systèmes et Réseaux",
-  "Administration et Tuning de Bases de Données", "Aérodynamique", "Agents et Systèmes Multi-Agents (ASMA)", "Algèbre 1",
-  "Algèbre 2", "Algèbre 3", "Algèbre 4", "Algèbre 5 SMA", "Algèbre 6 SMA", "Algèbre linéaire 1", "Algorithmes Distribués (ALDI)",
-  "Algorithmique", "Algorithmique avancé & complexité", "Algorithmique Répartie", "Analyse 1", "Analyse 2", "Analyse 3",
-  "Analyse 4", "Analyse 5", "Analyse 6 SMI", "Analyse de données", "Analyse fonctionnelle", "Analyse numérique",
-  "Analyse numérique des EDP", "Analyse vectorielle", "Anatomie", "Apprentissage automatique & réseaux de neurones", "Architecture des ordinateurs",
-  "Architecture et Administration des BD", "ASMA Agents et Sys Multi-Agents", "Association convertisseurs-machines",
-  "Atomistique", "Audit & Gestion industrielle", "Automate programmable industriel", "Automatique", "Automatique Linéaire Continue", "Automatisme",
-  "Automatismes industriels", "Bases de données", "Bases de données avancées", "Bases des télécommunications", "Bâtiment", "Béton armé", "Béton précontraint",
-  "BI — Business Intelligence", "Big Data-Data warehouse", "Biochimie", "Biochimie métabolique", "Biochimie structurale", "Biologie Animale", "Biologie cellulaire",
-  "Biologie des Organismes Végétaux", "Biologie Moléculaire", "Biologie végétale",
-  "Biophysique", "Bus de communications et réseaux industriels", "Bus de communications industriels", "C# — ASP .NET",
-  "Calcul des Réacteurs", "Calcul des structures", "Calcul différentiel", "Calcul scientifique", "Canaux de transmission",
-  "Capteur intelligent", "Capteurs & métrologie", "Capteurs industrielle", "Capteurs pour l'automatique", "CEM Compatibilité Electromagnétique",
-  "Chaînes de Markov", "Charpente Métallique", "Chimie", "Chimie analytique", "Chimie des électrolytes", "Chimie des solutions",
-  "Chimie descriptive I : Diagrammes de phases", "Chimie générale", "Chimie organique", "Chimie organique fonctionnelle", "Chimie théorique",
-  "Cinétique chimique", "Circuits électriques", "Cloud Computing", "Codage et Compression", "Commande des machines", "Commande des systèmes linéaires",
-  "Commande intelligente (CI)", "Communication Numérique Avancée", "Communications analogiques", "Communications numériques",
-  "Compilation", "Complexité algorithmique", "Complexité des algorithmes séquentiels et parallèles (CASP)",
-  "Composants Photoniques pour Télécoms", "Comptabilité analytique",
-  "Comptabilité générale", "Construction mécanique", "Construction mécanique 2", "Construction Métallique", "Convertisseurs Electromagnétiques (ME2)",
-  "Corrosion", "Cosmologie", "CRI - Codage et Représentation de l'Information", "Cryptographie & sécurité", "DAO — Catia", "DAO - Catia dessin assisté par ordinateur",
-  "Data Mining", "Deep Learning", "Design Patterns", "Dessin industriel", "Développement d'applications réparties",
-  "Dispositifs passifs et actifs micro-ondes", "Distillation", "Droit", "DSP & Processeur de Signaux", "DSS - XML DTD", "Dynamique des structures", "Écologie générale I", "Ecologie Générale II",
-  "EDO Equations différentielles ordinaires", "Élasticité", "Électrochimie", "Électrocinétique", "Électromagnétisme & Magnétostatique",
-  "Électronique analogique", "Électronique analogique & numérique", "Électronique de puissance", "Électronique fondamentale 1","Electronique Industrielle",
-  "Electronique numerique", "Électrostatique", "Électrotechnique", "Électrotechnique 2", "Energie solaire thermique", "Energies Renouvelables",
-  "Entrepôts de Données ENDO", "Équations différentielles", "Équations différentielles (EDO)", "Filtrage Analogique Passifs et Actifs",
-  "Fiscalité de l'entreprise I", "Fonctions principales de l'électronique", "Génétique 1", "Génie de la Réaction Chimique",
-  "Génie logiciel", "Géodynamique externe", "Géodynamique interne", "Géologie générale", "Géométrie des courbes et des surfaces",
-  "Géotechnique & mécanique des sols", "Gestion de Production", "Gestion de projet", "Histoire des mathématiques", "Hydraulique", "Hydrocarbures et fonctions monovalentes", "Hydrologique",
-  "IHM — Interface homme-machine", "Immunologie", "Info industriel Microcontrôleurs microprocesseurs", "Installations Electriques en Automatique",
-  "Intelligence artificielle", "Intelligence artificielle AI", "Intergiciels - systèmes distribués", "Introduction à la sécurité",
-  "Java", "Java avancé APIs", "JEE", "Liaisons chimiques", "Ligne de transmission", "Linux", "Logique combinatoire & séquentielle",
-  "Logique mathématique", "Machine Learning", "Machines électriques", "Macroéconomie", "Maintenance industrielle",
-  "Management", "Marketing", "Maths pour I ingénieur", "Matériaux et introduction à la HT", "Matériaux Routiers", "Matlab", "Matlab Simulink Labview", "MDA - IDM - OCL Ingénierie Dirigée par les Modèles",
-  "Mécanique analytique", "Mécanique des fluides", "Mécanique des milieux continus", "Mécanique du point", "Mécanique du solide",
-  "Mécanique pour ingénieurs", "Mécanique quantique", "Mécanique rationnelle", "MEF — Méthode des éléments finis",
-  "MEPS modélisation et l'évaluation des performances", "MERISE", "Mesure et intégration", "Mesures électriques et électroniques",
-  "Méta-heuristiques et les algorithmes évolutionnaires", "Métallurgie", "Méthode numérique", "Méthodes d'Analyse",
-  "Méthodes numériques", "Méthodes numériques appliquées (MNA)", "Micro-Ondes telecom", "Microbiologie générale", "Microbiologie industrielle",
-  "Microcontrôleurs & microprocesseurs", "Microéconomie", "MNA Méthodes Numériques Appliquées", "Modélisation des réseaux électriques",
-  "Modélisation et identification des systèmes", "Moteur à combustion interne", "MPD - Milieux poreux et dispersés",
-  "Ondes et vibrations", "OPM Programmation Fonctionnelle", "Optique géométrique & ondulatoire", "Optoélectronique",
-  "OPU Opérations Unitaires", "Oracle", "Ouvrage béton armé", "PA Procédés d'adsorption", "Parasismique", "Phénomène De Surface",
-  "Physique des matériaux", "Physique des semi-conducteurs", "Pétrographie Sédimentaire", "Physique nucléaire", "Physique statistique", "Pont", "Poutre et treillis",
-  "Probabilité & Statistique", "Probabilités et Simulations", "Procédés de fabrication", "Processus stochastique", "Programmation Android", "Programmation C",
-  "Programmation linéaire — Recherche opérationnelle", "Programmation orienté objet POO", "Programmation orientée objet (POO)",
-  "Programmation par Contraintes", "Propagation des ondes électromagnétiques", "Propagation et Antennes", "Python", "Qualité de l'énergie électrique", "Qualité logiciel", "Radiocommunication",
-  "Radiocristallographie et cristallochimie II", "RCI Réseaux et communications industriels", "RCP-Régulation et commande des procédés", "Réactivité chimique",
-  "Recherche d'Information", "Recherche opérationnelle", "Régulation industrielle", "Représentation et raisonnement 1",
-  "Réseaux", "Réseaux de transport et de distribution d'énergie électrique", "Réseaux électriques", "Reseaux electriques Ligne de Transmission",
-  "Réseaux haut débits", "Réseaux Informatiques Locaux", "Réseaux mobiles", "Réseaux mobiles & sans fil", "Résistance des matériaux",
-  "Résolution de problèmes", "Risque Incendie GC", "Robotique", "Routage IP", "Route GC", "Sécurité réseaux", "Sécurité réseaux Sans Fil", "SDM-science des matériaux", "Sédimentologie",
-  "SIG - ArcGIS", "Signaux & Systèmes", "SNL - Systèmes Non Linéaires", "SQDL Sécurité et Qualité des Données et Logiciels", "Statistique inférentielle",
-  "Statistiques appliquées", "Statistiques descriptives 1 & 2", "Statistiques descriptives 1 et 2 + R", "Stratigraphie", "STRM Structure Machine",
-  "Structure de la matière & Cristallographie", "Structures de données avec C", "Sûreté de Fonctionnement et Fiabilité des Logiciels",
-  "Systèmes à Evénements Discrets", "Systèmes asservis", "Systèmes asservis échantillonnés", "Systèmes Complexes SYCO",
-  "Systèmes d'exploitation", "Systèmes d'information (SI)", "Systèmes de conversion de l'énergie éolienne",
-  "Systèmes de conversion de l'énergie Photovoltaïque", "Systèmes de sécurité", "Systèmes distribués / Intergiciels",
-  "Systèmes embarqués", "Systèmes Linéaires Multivariables", "Systèmes logiques", "Systèmes temps réel", "Technique d'optimisation RSX",
-  "Techniques radars", "Technologie des agents", "Technologie des composants électroniques", "Technologie internet RSX", "Techniques d'Analyses Chimiques", "Techniques spectroscopiques d'analyse (UV-IR, RMN...)", "Tectonique analytique", "Tectonique globale",
-  "Tests logiciels", "Theorie de champ", "Théorie des graphes", "Théorie de la détection et de l'estimation des signaux", "Théorie de l'information et du codage", "Théorie de l'ordonnancement (THOR)", "Théorie des langues",
-  "Théorie des mécanismes", "Théorie du signal", "Théorie des Variables d'État", "Thermochimie", "Thermochimie 2",
-  "Thermodynamique", "Thermodynamique chimique", "Topographie", "Topographie Appliquée", "Topologie", "Traitement d'image", "Traitement du signal", "Traitement du signal avancé",
-  "Traitement et Analyse de Données Massives", "Transfert de Chaleur", "Transfert de matière TDM", "Turbomachines",
-  "UML", "VHDL & FPGA", "Vibrations", "Vision artificielle", "VoIP", "VOM GC", "Web", "Web Services", "Windows",
+  "Actionneurs (électriques-pneu-hydrau..)", "Administration des réseaux", "Administration des SI",
+  "Administration des Systèmes et Réseaux", "ADMINISTRATION ET TUNING DE BASES DE DONNÉES", "Aérodynamique",
+  "Algèbre 1", "Algèbre 2", "Algèbre 3", "algèbre 4", "Algèbre 5 SMA", "Algèbre 6 SMA", "Algèbre linéaire 1",
+  "Algorithmes Distribués (ALDI)", "Algorithmique", "Algorithmique avancé et complexité", "Algorithmique Répartie",
+  "Analyse 1", "Analyse 2", "analyse 3", "Analyse 4", "Analyse 5", "Analyse 6 SMI", "Analyse de données",
+  "Analyse de données avec R", "Analyse fonctionnelle", "analyse Numerique", "Analyse numérique des EDP",
+  "analyse vectorielle", "anatomie", "Apprentissage Automatique et Réseaux de Neurones",
+  "Architecture des ordinateurs", "Architecture et Administration des BD", "ASMA Agents et Sys Multi-Agents",
+  "Association convertisseurs-machines", "Atomistique", "Audit & Gestion industrielle", "Autocad",
+  "Automate programmable industriel", "Automatique", "Automatique Linéaire Continue", "Automatisme",
+  "Automatismes Industriels", "Barrage", "Bases de données", "Bases de données avancées",
+  "Bases des télécommunications", "Batiment", "béton armé", "béton précontraint", "BI - business intelligence",
+  "Big Data-Data warehouse", "biochimie", "biochimie métabolique", "Biochimie Structurale",
+  "Biodiversité & biologie environnementale (BBE)", "Biologie Animale", "Biologie Celulaire",
+  "Biologie des Organismes Végétaux", "Biologie Moléculaire", "Biologie végétale", "Biophysique", "Biostatistique",
+  "Bus de communications et réseaux industriels", "C# - ASP .NET", "Calcul des Reacteurs", "Calcul différentiel",
+  "Calcul scientifique", "calcule des structures", "canaux de transmission", "capteur intelligent",
+  "CAPTEURS EN INSTRUMENTATION", "Capteurs et chaines de mesure", "Capteurs et Métrologie", "Capteurs industrielle",
+  "Capteurs pour l'automatique", "CEM Compatibilité Electromagnétique", "Chaînes de Markov", "Charpente Métallique",
+  "Chimie", "Chimie Analytique", "Chimie des Electrolytes", "CHIMIE DES SOLUTIONS",
+  "CHIMIE DESCRIPTIVE I DIAGRAMMES DE PHASES", "Chimie Organique", "Chimie organique fonctionnelle",
+  "Chimie Théorique", "Cinétique chimique", "Circuits Électriques", "Cloud Computing", "CODAGE & COMPRESSION",
+  "Commande des machines", "Commande des systèmes linéaires", "Commande intelligente (CI)",
+  "Communication Numérique Avancée", "Communication Optique", "Communications analogiques",
+  "Communications numériques", "Compilation", "Complexité Algorithmique",
+  "Complexité des algorithmes séquentiels et parallèles (CASP)", "Composants Photoniques pour Télécoms",
+  "Comptabilité Analytique", "Comptabilité générale", "Construction Mécanique", "Construction Mécanique 2",
+  "Construction Métallique", "CONSTRUCTION MÉTALLIQUE", "Convertisseurs Electromagnétiques (ME2)", "Corrosion",
+  "Cosmologie", "CRI - CODAGE ET REPRÉSENTATION DE L'INFORMATION", "Cryptographie et sécurité", "cybersécurité",
+  "DAO - catia dessin assisté par ordinateur", "Data mining", "Deep learning", "Design Patterns",
+  "Dessin industriel", "Diagnostic des systèmes", "Dispositifs passifs et actifs micro-ondes", "Distillation",
+  "Droit", "DSP & Processeur de Signaux", "DSS - XML DTD", "DSS2", "Dynamique Des Structures",
+  "D�veloppement d'applications réparties", "Ecologie Générale I", "Ecologie Générale II",
+  "EDO Equations différentielles ordinaires", "Élasticité", "Électricité", "Electrochimie", "Electrocinetique",
+  "Électromagnétisme - Magnétostatique", "Électronique analogique", "Electronique analogique et numérique",
+  "Électronique de puissance", "Électronique de puissance avancé", "Electronique Electrotechnique Automatique",
+  "Electronique Fondamentale 1", "Electronique Industrielle", "Electronique numerique", "Electrostatique",
+  "Electrotechnique", "Electrotechnique 2", "Energie solaire thermique", "Energies Renouvelables",
+  "Enquête et techniques de sondage / Data Processing", "Entrepôts de Données ENDO", "équations différentielles",
+  "Filtrage Analogique Passifs et Actifs", "Fiscalité de l'entreprise I", "Fonctions de l'électronique",
+  "Fonctions principales de l'électronique", "Génétique 1", "Génie de la Réaction Chimique", "Génie logiciel",
+  "Géodynamique externe", "Géodynamique interne", "géologie générale", "Géométrie des courbes et des surfaces",
+  "Géotechnique+mécanique des sols", "Gestion d entreprise", "Gestion de Production", "Gestion de projet",
+  "Histoire des Mathématiques", "HSE - Hygiène Sécurité et Environnement GP", "Hydraulique",
+  "HYDROCARBURES ET FONCTIONS MONOVALENTES", "Hydrologique", "IHM - interface homme machine", "Immunologie",
+  "Info industriel Microcontrôleurs microprocesseurs", "INRE Ingénierie réseaux",
+  "Installations Electriques en Automatique", "Intelligence artificielle AI", "intergiciels - systèmes distribués",
+  "Introduction à la sécurité", "Java", "Java avancé APIs", "JEE", "Liaisons Chimiques", "Ligne de Transmission",
+  "linux", "Logique combinatoire et séquentielle", "Logique mathématique", "Machine Learning",
+  "Machines électriques", "Machines thermiques", "Macroéconomie", "maintenance industrielle", "management",
+  "Management", "marketing", "Matériaux et introduction à la HT", "Matériaux Routiers", "maths pour l ingénieur",
+  "Matlab", "Matlab simulink labview", "MDA - IDM - OCL Ingénierie Dirigée par les Modèles", "Mécanique Analytique",
+  "Mécanique de point", "Mécanique des Fluides", "Mécanique des milieux continus", "Mecanique du solide",
+  "Mécanique pour ingénieurs", "Mécanique quantique", "Mécanique rationnelle", "MECANISME INDUSTRIEL",
+  "MEF - Méthode des Eléments Finis", "MEPS modélisation et l'évaluation des performances", "MERISE",
+  "Mesure et intégration", "Mesures électriques et électroniques",
+  "méta-heuristiques et les algorithmes évolutionnaires", "métallurgie", "Methodes d'Analyse", "Méthodes numériques",
+  "Metrologie", "Métrologie et capteurs", "Micro-Ondes", "Microbiologie Générale", "Microbiologie industriel",
+  "Microéconomie", "MNA Méthodes Numériques Appliquées", "Modélisation des réseaux électriques",
+  "Modélisation et identification des systèmes", "Modélisation et Simulation (MOSI)", "Moteur à combustion interne",
+  "MPD - Milieux poreux et dispersés", "Ondes et vibrations", "OPM Programmation Fonctionnelle", "Optimisation",
+  "Optique Géométrique et ondulatoire", "Optoélectronique", "OPU Opérations Unitaires", "oracle",
+  "Ouvrage béton armé", "PA Procédés d'adsorption", "Parasismique", "PED-procédés électrochimiques de dépollution",
+  "Pétrographie Sédimentaire", "Phenomene De Surface", "Physique des matériaux", "Physique nucléaire",
+  "Physique quantique", "Physique statistique", "Physiques des semi-conducteurs", "Pont", "Poutre et treillis",
+  "Probabilité statistique", "Probabilités et Simulations", "Procédés de fabrication", "Processus stochastique",
+  "Programmation Android", "Programmation C", "Programmation linaire - Recherche opérationnelle",
+  "Programmation orienté objet POO", "Programmation par Contraintes", "Propagation",
+  "Propagation des ondes électromagnétiques", "Propagation et Antennes", "Python", "Qualité de l'énergie électrique",
+  "Qualité Logiciel", "Radiocommunication", "Radiocristallographie et cristallochimie II",
+  "RCI Réseaux et communications industriels", "RCP-Régulation et commande des procédés", "Réactivité chimique",
+  "Recherche d'Information", "Recherche opérationnelle", "Régulation industrielle",
+  "Représentation et raisonnement 1", "Reseasux electriques", "RESEAUX",
+  "Réseaux de transport et de distribution d'énergie électrique", "réseaux haut débits",
+  "Réseaux Informatiques Locaux", "Réseaux mobiles", "Réseaux Mobiles et sans fil", "Résistance des matériaux",
+  "Résolution de problèmes", "Risque Incendie GC", "RO - Theo graphes + prog linaire", "Robotique", "Routage IP",
+  "Route GC", "SDM-science des matériaux", "Sécurité des bases de données", "Sécurité des Réseaux (SERE)",
+  "Securité Electrique", "Sécurité réseaux Sans Fil", "Sédimentologie", "SIG - ArcGIS", "Signaux & Systèmes",
+  "simulation des procédes et optimisation", "SNL - Systèmes Non Linéaires",
+  "SQDL Sécurité et Qualité des Données et Logiciels", "Statistique inférentielle", "Statistiques Appliquées",
+  "Statistiques descriptives 1 et 2 + R", "Stratigraphie", "STRM Structure Machine",
+  "Structure de la matière et Cristallographie", "Structures des données avec C", "Structures Métalliques",
+  "Sûreté de Fonctionnement et Fiabilité des Logiciels", "Système Linéaires Multivariables",
+  "Systèmes à Evénements Discrets", "Systemes asservis", "Systèmes asservis échantillonnés",
+  "Systèmes Complexes SYCO", "Systèmes d'exploitations", "Systèmes d'information SI",
+  "Systèmes de conversion de l'énergie éolienne", "Systèmes de conversion de l'énergie Photovoltaïque",
+  "Systèmes de sécurité", "Systèmes Embarqués", "Systèmes logiques", "systèmes temps reel",
+  "technique d'optimisation rsx", "Techniques d'Analyses Chimiques", "Techniques de communication",
+  "Techniques radars", "Techniques spectroscopiques d'analyse (UV-IR, RMN, masse)", "Technologie des agents",
+  "Technologie des composants électroniques", "technologie internet rsx", "Tectonique analytique",
+  "Tectonique globale", "Tests logiciels", "Theorie de champ", "Théorie de Graphes",
+  "théorie de l'information et du codage", "Théorie de l'ordonnancement (THOR)",
+  "Théorie de la détection et de l'estimation des signaux", "théorie de langue et compilation", "Théorie de langues",
+  "Théorie des mécanismes", "Théorie des Variables d'État", "Théorie du signal", "Thermochimie", "Thermochimie 2",
+  "thermodynamique", "THERMODYNAMIQUE CHIMIQUE", "Topographie", "Topographie Appliquée", "Topologie",
+  "TPMM Technologie et Protocoles pour le multimédia", "Traitement Automatique du Langage Naturel",
+  "Traitement d'image", "Traitement de signal", "Traitement du Signal Avancé",
+  "Traitement et Analyse de Données Massives", "Transfer de Chaleur", "Transfert de matière TDM",
+  "Transmission de Puissance", "Turbomachines", "UML", "VHDL et FPGA", "Vibrations", "Vision Artificielle", "VoIP",
+  "VOM GC", "Web Services", "Windows",
 ];
 
 // Modules offerts gratuitement (0$) — affichés avec un badge et exclus du calcul du prix.
@@ -1151,7 +1187,7 @@ function updateUI(){
   const tags=document.getElementById('sel-tags');
   if(n>0){
     prev.classList.add('on');
-    tags.innerHTML=[...sel].map(nm=>`<span class="sel-tag">${isFreeModule(nm)?'🎁 ':''}${nm}<button onclick="toggle('${nm.replace(/'/g,"\\'")}')" aria-label="Retirer ${nm}">✕</button></span>`).join('');
+    tags.innerHTML=[...sel].map(nm=>`<span class="sel-tag">${isFreeModule(nm)?'🎁 ':''}<span class="sel-tag-name">${nm}</span><button onclick="toggle('${nm.replace(/'/g,"\\'")}')" aria-label="Retirer ${nm}">✕</button></span>`).join('');
   } else {
     prev.classList.remove('on');
   }
@@ -1375,31 +1411,4 @@ function updateFloatCta(){
   floatCta.classList.toggle('show', shouldShow);
 }
 
-window.addEventListener('scroll', updateFloatCta, { passive: true });
-window.addEventListener('resize', updateFloatCta);
-
-renderCatFilterBar();
-renderMods();
-updateFloatCta();
-
-// ── LIGHTBOX (zoom image plein écran, style Blogger) ──
-function openLightbox(src, alt){
-  const ov = document.getElementById('lightbox');
-  const img = document.getElementById('lightbox-img');
-  img.src = src;
-  img.alt = alt || 'Aperçu agrandi';
-  ov.classList.add('open');
-  document.body.style.overflow = 'hidden';
-}
-function closeLightbox(){
-  document.getElementById('lightbox').classList.remove('open');
-  document.getElementById('lightbox-img').src = '';
-  document.body.style.overflow = '';
-}
-document.addEventListener('keydown', e => { if (e.key === 'Escape') closeLightbox(); });
-document.querySelectorAll('img.zoomable').forEach(img => {
-  img.addEventListener('click', () => openLightbox(img.currentSrc || img.src, img.alt));
-});
-</script>
-</body>
-</html>
+window.addEventListener('scroll', upda
