@@ -1411,4 +1411,32 @@ function updateFloatCta(){
   floatCta.classList.toggle('show', shouldShow);
 }
 
-window.addEventListener('scroll', upda
+window.addEventListener('scroll', updateFloatCta, { passive: true });
+window.addEventListener('resize', updateFloatCta);
+
+renderCatFilterBar();
+renderMods();
+updateFloatCta();
+
+// ── LIGHTBOX (zoom image plein écran, style Blogger) ──
+function openLightbox(src, alt){
+  const ov = document.getElementById('lightbox');
+  const img = document.getElementById('lightbox-img');
+  img.src = src;
+  img.alt = alt || 'Aperçu agrandi';
+  ov.classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+function closeLightbox(){
+  document.getElementById('lightbox').classList.remove('open');
+  document.getElementById('lightbox-img').src = '';
+  document.body.style.overflow = '';
+}
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeLightbox(); });
+document.querySelectorAll('img.zoomable').forEach(img => {
+  img.addEventListener('click', () => openLightbox(img.currentSrc || img.src, img.alt));
+});
+</script>
+</body>
+</html>
+
