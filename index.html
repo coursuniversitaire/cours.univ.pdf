@@ -974,6 +974,11 @@ const MODS = [
   "Traitement et Analyse de Données Massives", "Transfer de Chaleur", "Transfert de matière TDM",
   "Transmission de Puissance", "Turbomachines", "UML", "VHDL et FPGA", "Vibrations", "Vision Artificielle", "VoIP",
   "VOM GC", "Web Services", "Windows",
+  // Filière Hydraulique (ajout)
+  "AEP Alimentation en Eau Potable", "Agro-Pédologie", "écoulement à surface libre", "Épuration",
+  "Géodésie", "hydraulique Appliqué", "hydraulique fluviale", "Hydraulique générale", "Hydraulique Maritime",
+  "Hydraulique Souterraine", "Hydrologie", "ODC - Organisation De Chantier", "Ouvrages Hydrotéchniques",
+  "RDD Régularisation des débits", "Système énergétique", "Traitement des eaux",
 ];
 
 // Modules offerts gratuitement (0$) — affichés avec un badge et exclus du calcul du prix.
@@ -1017,6 +1022,7 @@ const CATEGORIES = {
   embarque_signal: { icon:'🔧', label:'Systèmes Embarqués & Signal', kw:['systemes embarques','systemes temps reel','dsp ','processeur de signaux','traitement du signal','traitement d\'image','vision artificielle','systemes complexes syco','meps modelisation','theorie du signal','detection et de l\'estimation des signaux'] },
   sciences_naturelles: { icon:'🌱', label:'Sciences de la Terre & Biologie', kw:['geologie generale','geodynamique','biologie cellulaire','biologie vegetale','biologie animale','biologie moleculaire','organismes vegetaux','ecologie generale','microbiologie','genetique','immunologie','sedimentologie','stratigraphie','petrographie','tectonique','biochimie','anatomie'] },
   simulation: { icon:'🧮', label:'Méthodes Numériques & Simulation', kw:['matlab','methodes numeriques appliquees','mna ','systemes complexes syco','theorie des langues'] },
+  hydraulique: { icon:'💧', label:'Hydraulique', list:["AEP Alimentation en Eau Potable","Agro-Pédologie","écoulement à surface libre","Épuration","Géodésie","hydraulique Appliqué","hydraulique fluviale","Hydraulique générale","Hydraulique Maritime","Hydraulique Souterraine","Hydrologie","ODC - Organisation De Chantier","Ouvrages Hydrotéchniques","RDD Régularisation des débits","Système énergétique","Traitement des eaux"] },
 };
 
 function modulesForCategory(key){
@@ -1025,6 +1031,10 @@ function modulesForCategory(key){
     return MODS.filter(m=>isFreeModule(m));
   }
   const c = CATEGORIES[key];
+  if(c.list){
+    // Catégorie basée sur une liste explicite de noms exacts (pas de mots-clés).
+    return MODS.filter(m=>c.list.includes(m));
+  }
   const excl = c.excl || [];
   return NORM_MODS.filter(m=>c.kw.some(k=>m.n.includes(k)) && !excl.some(e=>m.n.includes(e))).map(m=>m.name);
 }
@@ -1070,10 +1080,15 @@ const FILIERES = {
   electromecanique: { icon:'🧲', label:'Génie Électromécanique', kw:['electromecanique','machines electriques','construction mecanique','electrotechnique','convertisseurs electromagnetiques','association convertisseurs-machines','automatismes industriels','commande des machines','installations electriques'] },
   energies_renouvelables: { icon:'🔆', label:'Énergies Renouvelables', kw:['photovoltaique','eolienne','solaire thermique',"qualite de l'energie",'energies renouvelables'] },
   sciences_naturelles: { icon:'🌱', label:'Sciences de la Terre & Biologie', kw:['geologie generale','geodynamique','biologie cellulaire','biologie vegetale','biologie animale','biologie moleculaire','organismes vegetaux','ecologie generale','microbiologie','genetique','immunologie','sedimentologie','stratigraphie','petrographie','tectonique','biochimie','anatomie'] },
+  hydraulique: { icon:'💧', label:'Hydraulique', list:["AEP Alimentation en Eau Potable","Agro-Pédologie","écoulement à surface libre","Épuration","Géodésie","hydraulique Appliqué","hydraulique fluviale","Hydraulique générale","Hydraulique Maritime","Hydraulique Souterraine","Hydrologie","ODC - Organisation De Chantier","Ouvrages Hydrotéchniques","RDD Régularisation des débits","Système énergétique","Traitement des eaux"] },
 };
 
 function modulesForFiliere(key){
   const f = FILIERES[key];
+  if(f.list){
+    // Filière basée sur une liste explicite de noms exacts (pas de mots-clés).
+    return MODS.filter(m=>f.list.includes(m));
+  }
   const excl = f.excl || [];
   return NORM_MODS.filter(m=>f.kw.some(k=>m.n.includes(k)) && !excl.some(e=>m.n.includes(e))).map(m=>m.name);
 }
@@ -1369,74 +1384,4 @@ function redirectNow(){
 function scrollToOrder(){
   if(sel.size === 0) return;
   const section = document.getElementById('commander');
-  // Reveal section
-  section.classList.add('visible');
-  // Trigger animation after display:block is applied
-  requestAnimationFrame(() => {
-    requestAnimationFrame(() => {
-      section.classList.add('animated');
-    });
-  });
-  // Scroll to it smoothly
-  setTimeout(() => {
-    section.scrollIntoView({behavior:'smooth', block:'start'});
-  }, 50);
-}
-
-function toggleFaq(btn){
-  const item=btn.closest('.faq-item');
-  const isOpen=item.classList.contains('open');
-  document.querySelectorAll('.faq-item').forEach(i=>{ i.classList.remove('open'); i.querySelector('.faq-q').setAttribute('aria-expanded','false'); });
-  if(!isOpen){ item.classList.add('open'); btn.setAttribute('aria-expanded','true'); }
-}
-
-document.getElementById('mod-search').addEventListener('input',e=>{
-  if(e.target.value.trim() !== '' && activeCat !== null){
-    activeCat = null;
-    renderCatFilterBar();
-  }
-  renderMods(e.target.value);
-});
-document.getElementById('f-email').addEventListener('input',updateUI);
- 
-const heroCta = document.getElementById('hero-cta');
-const floatCta = document.getElementById('float-cta');
-const catalogueSection = document.getElementById('catalogue');
-
-function updateFloatCta(){
-  if (!heroCta || !floatCta) return;
-  const heroCtaVisible = heroCta.getBoundingClientRect().bottom > 0;
-  const catalogueReached = catalogueSection ? catalogueSection.getBoundingClientRect().top < window.innerHeight * 0.85 : false;
-  const shouldShow = !heroCtaVisible && !catalogueReached && sel.size === 0;
-  floatCta.classList.toggle('show', shouldShow);
-}
-
-window.addEventListener('scroll', updateFloatCta, { passive: true });
-window.addEventListener('resize', updateFloatCta);
-
-renderCatFilterBar();
-renderMods();
-updateFloatCta();
-
-// ── LIGHTBOX (zoom image plein écran, style Blogger) ──
-function openLightbox(src, alt){
-  const ov = document.getElementById('lightbox');
-  const img = document.getElementById('lightbox-img');
-  img.src = src;
-  img.alt = alt || 'Aperçu agrandi';
-  ov.classList.add('open');
-  document.body.style.overflow = 'hidden';
-}
-function closeLightbox(){
-  document.getElementById('lightbox').classList.remove('open');
-  document.getElementById('lightbox-img').src = '';
-  document.body.style.overflow = '';
-}
-document.addEventListener('keydown', e => { if (e.key === 'Escape') closeLightbox(); });
-document.querySelectorAll('img.zoomable').forEach(img => {
-  img.addEventListener('click', () => openLightbox(img.currentSrc || img.src, img.alt));
-});
-</script>
-</body>
-</html>
-
+  // Reveal secti
