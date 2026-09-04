@@ -628,7 +628,7 @@ img.zoomable:hover { opacity: .92; }
   </button>
 
   <div class="modules-grid" id="mod-grid" role="list"></div>
-  <p class="no-res" id="no-res" role="status">Aucun module trouvé. Essaie un autre terme.</p>
+  <p class="no-res" id="no-res" role="status">Aucun module trouvé pour « <span id="no-res-term"></span> ». Essaie un autre terme.</p>
 </section>
 
 <!-- CART BAR -->
@@ -1156,6 +1156,10 @@ function renderMods(q=''){
     return matchesSearch && (!catMods||catMods.has(m));
   });
   noRes.style.display=filtered.length?'none':'block';
+  if(!filtered.length){
+    const termEl=document.getElementById('no-res-term');
+    if(termEl) termEl.textContent=q;
+  }
   filtered.forEach(name=>{
     const s=sel.has(name);
     const el=document.createElement('div');
