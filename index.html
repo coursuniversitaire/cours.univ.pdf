@@ -1362,16 +1362,16 @@ function payViaWhatsApp(){
 
   // Message WhatsApp pré-rempli avec les infos de la commande
   const lignes = [
-    "Bonjour, je souhaite payer ma commande par virement / autre moyen 🙏",
+    "Bonjour, je souhaite payer ma commande par virement / autre moyen.",
     "",
-    `📧 Email : ${email}`,
+    `- Email : ${email}`,
   ];
-  if (nom)  lignes.push(`👤 Nom : ${nom}`);
-  if (tel)  lignes.push(`📱 Téléphone : ${tel}`);
-  if (univ) lignes.push(`🎓 Université/filière : ${univ}`);
-  lignes.push(`📚 Modules (${modulesList.length}) : ${modulesList.join(', ')}`);
-  lignes.push(`💰 Total : ${total}`);
-  if (note) lignes.push(`📝 Remarque : ${note}`);
+  if (nom)  lignes.push(`- Nom : ${nom}`);
+  if (tel)  lignes.push(`- Téléphone : ${tel}`);
+  if (univ) lignes.push(`- Université/filière : ${univ}`);
+  lignes.push(`-Modules (${modulesList.length}) : \n  -${modulesList.join('\n  -')}`);
+  lignes.push(`\n-Total : ${total}`);
+  if (note) lignes.push(`- Remarque : ${note}`);
 
   const message = encodeURIComponent(lignes.join('\n'));
  // const waUrl = `https://wa.me/message/HSBSQMJYXSRQI1?text=${message}`;
