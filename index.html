@@ -1326,7 +1326,7 @@ async function doSubmit() {
 // ── PAIEMENT ALTERNATIF PAR WHATSAPP ──
 // Remplace par ton vrai numéro (format international, sans le +, sans espaces)
 // pour garantir le message pré-rempli, ex: "212612345678".
-const WHATSAPP_NUMBER = "212612345678";
+const WHATSAPP_NUMBER = "212650809362";
 
 function payViaWhatsApp(){
   const email = document.getElementById('f-email').value.trim();
@@ -1374,8 +1374,8 @@ function payViaWhatsApp(){
   if (note) lignes.push(`📝 Remarque : ${note}`);
 
   const message = encodeURIComponent(lignes.join('\n'));
-  const waUrl = `https://wa.me/message/HSBSQMJYXSRQI1?text=${message}`;
-
+ // const waUrl = `https://wa.me/message/HSBSQMJYXSRQI1?text=${message}`;
+const waUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${message}`;
   // Redirection immédiate, sans attendre la réponse de l'Apps Script.
   window.location.href = waUrl;
 }
