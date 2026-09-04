@@ -1374,7 +1374,7 @@ function payViaWhatsApp(){
   if (note) lignes.push(`📝 Remarque : ${note}`);
 
   const message = encodeURIComponent(lignes.join('\n'));
-  const waUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${message}`;
+  const waUrl = `https://wa.me/message/HSBSQMJYXSRQI1?text=${message}`;
 
   // Redirection immédiate, sans attendre la réponse de l'Apps Script.
   window.location.href = waUrl;
