@@ -1211,7 +1211,8 @@ function updateUI(){
   } else {
     submitBtn.innerHTML = '💳 Payer maintenant &amp; accéder à mon Drive →';
   }
-  document.getElementById('cart-bar').classList.toggle('on',n>0);
+  const commanderVisible = document.getElementById('commander').classList.contains('visible');
+  document.getElementById('cart-bar').classList.toggle('on', n>0 && !commanderVisible);
   updateFloatCta();
   const prev=document.getElementById('sel-preview');
   const tags=document.getElementById('sel-tags');
@@ -1459,6 +1460,9 @@ function redirectNow(){
 function scrollToOrder(){
   if(sel.size === 0) return;
   const section = document.getElementById('commander');
+  // Masquer la barre sticky "Commander maintenant" : une fois dans le formulaire,
+  // seul le bouton de validation du formulaire (submit-btn) doit rester visible.
+  document.getElementById('cart-bar').classList.remove('on');
   // Reveal section
   section.classList.add('visible');
   // Trigger animation after display:block is applied
