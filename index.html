@@ -121,6 +121,9 @@ hr.div { border: none; border-top: 1px solid var(--border); margin: 0 2%; }
 .step h3 { font-size: 0.9rem; font-weight: 700; margin-bottom: 7px; }
 .step p { font-size: 0.8rem; color: var(--muted); }
 
+.steps-img-wrap { border-radius: 16px; overflow: hidden; box-shadow: var(--shadow); border: 1px solid var(--border); }
+.steps-img-wrap img { display: block; width: 100%; height: auto; cursor: zoom-in; }
+
 /* CATALOG */
 .catalog-bar { display: flex; align-items: flex-end; justify-content: space-between; flex-wrap: wrap; gap: 14px; margin-bottom: 22px; }
 .catalog-count { font-size: 0.85rem; color: var(--muted); }
@@ -504,27 +507,8 @@ img.zoomable:hover { opacity: .92; }
 <section class="section" id="comment" aria-labelledby="comment-titre">
   <div class="sec-label">Processus</div>
   <h2 class="sec-h2" id="comment-titre">Commander en <span>4 étapes simples</span></h2>
-  <div class="steps-row">
-    <div class="step">
-      <div class="step-dot">1</div>
-      <h3>Choisis tes modules</h3>
-      <p>Parcours les 300+ modules, utilise la recherche, coche ce dont tu as besoin. Le total se calcule automatiquement.</p>
-    </div>
-    <div class="step">
-      <div class="step-dot">2</div>
-      <h3>Remplis tes coordonnées</h3>
-      <p>Juste ton email pour recevoir le lien. Nom et téléphone facultatifs.</p>
-    </div>
-    <div class="step">
-      <div class="step-dot">3</div>
-      <h3>Paiement sécurisé PayPal</h3>
-      <p>Carte bancaire ou compte PayPal. Aucune donnée bancaire conservée sur nos serveurs.</p>
-    </div>
-    <div class="step">
-      <div class="step-dot">4</div>
-      <h3>Accès Drive instantané</h3>
-      <p>Dès la confirmation du paiement, tu es redirigé directement vers ton Google Drive. Le lien t'est aussi envoyé par email pour le retrouver à tout moment.</p>
-    </div>
+  <div class="steps-img-wrap">
+    <img class="zoomable" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6VQI1PzO0oNyhKFBUQDSy9LQ_3chtq0GKSGdqTavr28GFYt00JKdn17ygbH5QxDFZHKPyORrzQNuBA_Fzqm3mUUGAY3WiA7QPOLiEiH_jzMTUDgBra8pdFjp64tZ3KZTrtG9v11VMyBUfAw1rMS17sQW5Jp3Ey8v6CNgjeO5FBjq2S5L7Orzs55Ux-0BZ/s1200/1000131504.png" alt="Étapes pour commander, payer et télécharger tes modules depuis le Drive" loading="lazy">
   </div>
 
   <!-- Vidéo démo -->
