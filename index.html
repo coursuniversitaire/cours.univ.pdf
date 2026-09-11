@@ -826,7 +826,7 @@ const MODS = [
   "Capteurs pour l'automatique", "CEM Compatibilité Electromagnétique", "Chaînes de Markov", "Charpente Métallique",
   "Chimie", "Chimie Analytique", "Chimie des Electrolytes", "CHIMIE DES SOLUTIONS",
   "CHIMIE DESCRIPTIVE I DIAGRAMMES DE PHASES", "Chimie Organique", "Chimie organique fonctionnelle",
-  "Chimie Théorique", "Cinétique chimique", "Circuits Électriques", "Cloud Computing", "CODAGE & COMPRESSION",
+  "Chimie Théorique", "Cinétique chimique", "Circuits Électriques", "Circuits électriques et électroniques", "Cloud Computing", "CODAGE & COMPRESSION",
   "Commande des machines", "Commande des systèmes linéaires", "Commande intelligente (CI)",
   "Communication Numérique Avancée", "Communication Optique", "Communications analogiques",
   "Communications numériques", "Compilation", "Complexité Algorithmique",
@@ -846,10 +846,10 @@ const MODS = [
   "Enquête et techniques de sondage / Data Processing", "Entrepôts de Données ENDO", "équations différentielles",
   "Filtrage Analogique Passifs et Actifs", "Fiscalité de l'entreprise I", "Fonctions de l'électronique",
   "Fonctions principales de l'électronique", "Génétique 1", "Génétique II", "Génie de la Réaction Chimique",
-  "Génie logiciel", "Géodynamique externe", "Géodynamique interne", "géologie générale",
+  "Génie enzymatique", "Génie logiciel", "Géodynamique externe", "Géodynamique interne", "géologie générale",
   "géomagnétisme et paléomagnétisme", "Géométrie des courbes et des surfaces",
   "Géotechnique+mécanique des sols", "Gestion d entreprise", "Gestion de Production", "Gestion de projet",
-  "Histoire des Mathématiques", "HSE - Hygiène Sécurité et Environnement GP", "Hydraulique",
+  "Histoire des Mathématiques", "Histologie et notions d'embryologie", "HSE - Hygiène Sécurité et Environnement GP", "Hydraulique",
   "HYDROCARBURES ET FONCTIONS MONOVALENTES", "Hydrologique", "IHM - interface homme machine", "Immunologie",
   "Info industriel Microcontrôleurs microprocesseurs", "INRE Ingénierie réseaux",
   "Installations Electriques en Automatique", "Intelligence artificielle AI", "intergiciels - systèmes distribués",
@@ -894,7 +894,7 @@ const MODS = [
   "Systèmes à Evénements Discrets", "Systemes asservis", "Systèmes asservis échantillonnés",
   "Systèmes Complexes SYCO", "Systèmes d'exploitations", "Systèmes d'information SI",
   "Systèmes de conversion de l'énergie éolienne", "Systèmes de conversion de l'énergie Photovoltaïque",
-  "Systèmes de sécurité", "Systèmes Embarqués", "Systèmes logiques", "systèmes temps reel",
+  "Systèmes de sécurité", "Systèmes Embarqués", "Systèmes logiques", "Systèmes Mécaniques", "systèmes temps reel",
   "technique d'optimisation rsx", "Techniques d'Analyses Chimiques", "Techniques de communication",
   "Techniques radars", "Techniques spectroscopiques d'analyse (UV-IR, RMN, masse)", "Technologie des agents",
   "Technologie des composants électroniques", "technologie internet rsx", "Tectonique analytique",
@@ -945,7 +945,7 @@ const CATEGORIES = {
   travaux_publics: { icon:'🚧', label:'Travaux Publics', kw:['route gc','pont','topographie','materiaux routiers','hydraulique','hydrologique','geotechnique','beton arme','beton precontraint','ouvrage beton arme','vom gc','risque incendie','arcgis','construction metallique','charpente metallique','poutre et treillis','resistance des materiaux','calcul des structures','dynamique des structures','elasticite','batiment'] },
   auto: { icon:'⚙️', label:'Génie Automatique', kw:['automatique','automatisme','automate','regulation','asservi','commande des','commande intelligente','systemes a evenements discrets','identification des systemes','diagnostic des systemes','systemes lineaires multivariables','snl - systemes non lineaires','theorie des variables d\'etat','actionneurs','bus de communications industriels'] },
   industriel: { icon:'🏭', label:'Génie Industriel', kw:['gestion de production','gestion de projet','maintenance industrielle','audit & gestion industrielle','qualite logiciel','technique d\'optimisation','theorie de l\'ordonnancement'] },
-  meca: { icon:'🔩', label:'Génie Mécanique', kw:['mecanique des fluides','construction mecanique','elements finis','theorie des mecanismes','transfert de chaleur','turbomachines','moteur a combustion','dessin industriel','dao','autocad','procedes de fabrication','mecanisme industriel','mecanique des milieux continus','mecanique pour ingenieurs','aerodynamique','metallurgie','robotique'] },
+  meca: { icon:'🔩', label:'Génie Mécanique', kw:['mecanique des fluides','construction mecanique','elements finis','theorie des mecanismes','transfert de chaleur','turbomachines','moteur a combustion','dessin industriel','dao','autocad','procedes de fabrication','mecanisme industriel','mecanique des milieux continus','mecanique pour ingenieurs','aerodynamique','metallurgie','robotique','systemes mecaniques'] },
   chimie: { icon:'🧪', label:'Chimie', kw:['chimie','chimique','electrochimie','corrosion','distillation','reactivite chimique','liaisons chimiques','genie de la reaction chimique','phenomene de surface','adsorption','calcul des reacteurs',"techniques d'analyses chimiques",'spectroscopique','hydrocarbures','cristallochimie'] },
   gestion: { icon:'📊', label:'Économie & Gestion', kw:['comptabilite','marketing','management','fiscalite','microeconomie','macroeconomie','audit & gestion','droit'] },
   energies_renouvelables: { icon:'🔆', label:'Énergies Renouvelables', kw:['photovoltaique','eolienne','solaire thermique',"qualite de l'energie",'energies renouvelables'] },
@@ -957,7 +957,7 @@ const CATEGORIES = {
   sciences_naturelles: { icon:'🌱', label:'Sciences de la Terre & Biologie', kw:['geologie generale','geodynamique','biologie cellulaire','biologie vegetale','biologie animale','biologie moleculaire','organismes vegetaux','ecologie generale','microbiologie','genetique','immunologie','sedimentologie','stratigraphie','petrographie','tectonique','biochimie','anatomie','diagraphie','geomagnetisme','paleomagnetisme','radiometrie','sismique'] },
   simulation: { icon:'🧮', label:'Méthodes Numériques & Simulation', kw:['matlab','methodes numeriques appliquees','mna ','systemes complexes syco','theorie des langues'] },
   hydraulique: { icon:'💧', label:'Hydraulique', list:["AEP Alimentation en Eau Potable","Agro-Pédologie","écoulement à surface libre","Ecoulement en charge","Épuration","Géodésie","hydraulique Appliqué","hydraulique fluviale","Hydraulique générale","Hydraulique Maritime","Hydraulique Souterraine","Hydrologie","ODC - Organisation De Chantier","Ouvrages Hydrotéchniques","RDD Régularisation des débits","Système énergétique","Traitement des eaux"] },
-  medecine: { icon:'🩺', label:'Médecine', list:["Physiologie","Pharmacologie","anatomie","biochimie","biochimie métabolique","Biochimie Structurale","Immunologie","Microbiologie Générale","Microbiologie industriel","Génétique 1","Génétique II","Biologie Animale","Biologie Celulaire","Biologie Moléculaire","Biologie végétale","Biophysique","Biostatistique"] },
+  medecine: { icon:'🩺', label:'Médecine', list:["Physiologie","Pharmacologie","anatomie","biochimie","biochimie métabolique","Biochimie Structurale","Immunologie","Microbiologie Générale","Microbiologie industriel","Génétique 1","Génétique II","Biologie Animale","Biologie Celulaire","Biologie Moléculaire","Biologie végétale","Biophysique","Biostatistique","Génie enzymatique","Histologie et notions d'embryologie"] },
 };
 
 function modulesForCategory(key){
@@ -1005,7 +1005,7 @@ const FILIERES = {
   civil: { icon:'🏗️', label:'Génie Civil', kw:['beton','batiment','route gc','pont','structures metalliques','geotechnique','topographie','hydraulique','hydrologique','resistance des materiaux','dynamique des structures','risque incendie','ouvrage','elasticite'] },
   auto: { icon:'⚙️', label:'Génie Automatique', kw:['automatique','automatisme','automate','regulation','asservi','commande des','commande intelligente','systemes a evenements discrets','identification des systemes','diagnostic des systemes','systemes lineaires multivariables'] },
   industriel: { icon:'🏭', label:'Génie Industriel', kw:['gestion de production','gestion de projet','maintenance industrielle','audit & gestion industrielle','qualite logiciel'] },
-  meca: { icon:'🔩', label:'Génie Mécanique', kw:['mecanique des fluides','construction mecanique','elements finis','theorie des mecanismes','transfert de chaleur','turbomachines','moteur a combustion','dessin industriel','dao','autocad','procedes de fabrication','mecanisme industriel'] },
+  meca: { icon:'🔩', label:'Génie Mécanique', kw:['mecanique des fluides','construction mecanique','elements finis','theorie des mecanismes','transfert de chaleur','turbomachines','moteur a combustion','dessin industriel','dao','autocad','procedes de fabrication','mecanisme industriel','systemes mecaniques'] },
   chimie: { icon:'🧪', label:'Chimie', kw:['chimie','chimique','electrochimie','corrosion','distillation','reactivite chimique','liaisons chimiques','genie de la reaction chimique','phenomene de surface','adsorption','spectroscopique','hydrocarbures','cristallochimie'] },
   gestion: { icon:'📊', label:'Gestion', kw:['comptabilite','marketing','management','fiscalite','microeconomie','macroeconomie','audit & gestion','droit'] },
   reseaux_telecom: { icon:'📡', label:'Réseaux et Télécommunications', kw:['reseau','telecommunication','radiocommunication','communications numeriques','communications analogiques','micro-ondes','propagation','antennes','voip','routage ip','ligne de transmission','canaux de transmission','securite reseaux','tpmm','photoniques','theorie de l\'information'], excl:['neurones','electrique'] },
@@ -1016,7 +1016,7 @@ const FILIERES = {
   energies_renouvelables: { icon:'🔆', label:'Énergies Renouvelables', kw:['photovoltaique','eolienne','solaire thermique',"qualite de l'energie",'energies renouvelables'] },
   sciences_naturelles: { icon:'🌱', label:'Sciences de la Terre & Biologie', kw:['geologie generale','geodynamique','biologie cellulaire','biologie vegetale','biologie animale','biologie moleculaire','organismes vegetaux','ecologie generale','microbiologie','genetique','immunologie','sedimentologie','stratigraphie','petrographie','tectonique','biochimie','anatomie','diagraphie','geomagnetisme','paleomagnetisme','radiometrie','sismique'] },
   hydraulique: { icon:'💧', label:'Hydraulique', list:["AEP Alimentation en Eau Potable","Agro-Pédologie","écoulement à surface libre","Ecoulement en charge","Épuration","Géodésie","hydraulique Appliqué","hydraulique fluviale","Hydraulique générale","Hydraulique Maritime","Hydraulique Souterraine","Hydrologie","ODC - Organisation De Chantier","Ouvrages Hydrotéchniques","RDD Régularisation des débits","Système énergétique","Traitement des eaux"] },
-  medecine: { icon:'🩺', label:'Médecine', list:["Physiologie","Pharmacologie","anatomie","biochimie","biochimie métabolique","Biochimie Structurale","Immunologie","Microbiologie Générale","Microbiologie industriel","Génétique 1","Génétique II","Biologie Animale","Biologie Celulaire","Biologie Moléculaire","Biologie végétale","Biophysique","Biostatistique"] },
+  medecine: { icon:'🩺', label:'Médecine', list:["Physiologie","Pharmacologie","anatomie","biochimie","biochimie métabolique","Biochimie Structurale","Immunologie","Microbiologie Générale","Microbiologie industriel","Génétique 1","Génétique II","Biologie Animale","Biologie Celulaire","Biologie Moléculaire","Biologie végétale","Biophysique","Biostatistique","Génie enzymatique","Histologie et notions d'embryologie"] },
 };
 
 function modulesForFiliere(key){
