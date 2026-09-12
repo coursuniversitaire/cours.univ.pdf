@@ -1,0 +1,29 @@
+# CoursUni — Cours Universitaires PDF
+
+> Plateforme de vente de modules universitaires (LMD) : cours PDF, TD, exercices corrigés, TPs et examens corrigés des années précédentes, avec accès Google Drive immédiat après paiement.
+
+Le catalogue couvre plus de 300 modules répartis par filière et se met à jour régulièrement selon les demandes des étudiants.
+
+## Catalogue par filière
+
+- [Mathématiques](https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue): Algèbre, Analyse, Probabilités, Statistiques, Recherche opérationnelle
+- [Physique](https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue): Mécanique, Thermodynamique, Électromagnétisme, Physique quantique et statistique
+- [Informatique, IA & Data](https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue): Algorithmique, Programmation (C, Python, Java...), Génie logiciel, IA, Machine Learning, Cloud
+- [Bases de Données & SI](https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue): Bases de données, Systèmes d'information, Business Intelligence
+- [Électronique et Électricité](https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue): Électronique analogique/numérique, Capteurs, VHDL
+- [Réseaux et Télécommunications](https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue): Réseaux, Télécommunications, Sécurité réseaux
+- [Génie Civil & Travaux Publics](https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue): Béton, Structures, Hydraulique, Géotechnique
+- [Génie Mécanique & Électromécanique](https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue): Construction mécanique, Robotique, Automatique
+- [Génie des Procédés & Chimie](https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue): Chimie, Génie de la réaction chimique, Opérations unitaires
+- [Médecine & Biologie](https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue): Physiologie, Pharmacologie, Histologie, Génétique
+- [Économie & Gestion](https://coursuniversitaire.github.io/cours.univ.pdf/#catalogue): Comptabilité, Management, Marketing, Droit
+
+## Fonctionnement
+
+- Sélection des modules dans le catalogue, commande via formulaire, paiement en ligne (carte bancaire)
+- Accès au Drive du/des module(s) envoyé automatiquement par email après paiement
+- Un module recherché mais absent du catalogue peut être demandé via WhatsApp
+
+## Optional
+
+- Réponses aux questions fréquentes disponibles en bas de page (FAQ)
