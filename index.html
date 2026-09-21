@@ -133,7 +133,7 @@ hr.div { border: none; border-top: 1px solid var(--border); margin: 0 2%; }
 .search-wrap input:focus { border-color: var(--accent); }
 .search-icon { position:absolute; left:14px; top:50%; transform:translateY(-50%); color:var(--muted); pointer-events:none; }
 .modules-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:8px; }
-.mod-card { position:relative; background:var(--card); border:1.5px solid var(--border); border-radius:11px; padding:11px 12px; cursor:pointer; display:flex; align-items:flex-start; gap:9px; transition:border-color .18s, background .18s; user-select:none; min-width:0; }
+.mod-card { position:relative; background:var(--card); border:1.5px solid var(--border); border-radius:11px; padding:11px 26px 11px 12px; cursor:pointer; display:flex; align-items:flex-start; gap:9px; transition:border-color .18s, background .18s; user-select:none; min-width:0; }
 .mod-card:hover { border-color:var(--accent); background:var(--accent-light); }
 .mod-card.sel { border-color:var(--accent); background:var(--accent-light); box-shadow:0 0 0 2px var(--accent); }
 .mod-chk { width:19px; height:19px; border-radius:5px; border:2px solid var(--border); flex-shrink:0; display:flex; align-items:center; justify-content:center; transition:all .15s; margin-top:2px; font-size:0.7rem; font-weight:700; color:transparent; }
@@ -141,6 +141,9 @@ hr.div { border: none; border-top: 1px solid var(--border); margin: 0 2%; }
 .mod-name { font-size:0.83rem; font-weight:500; line-height:1.35; text-transform:lowercase; }
 .mod-name::first-letter { text-transform:uppercase; }
 .mod-free-badge { position:absolute; top:-6px; right:-6px; width:22px; height:22px; display:flex; align-items:center; justify-content:center; font-size:0.75rem; background:#e6faf3; border:1.5px solid rgba(0,135,90,0.35); border-radius:50%; box-shadow:0 1px 3px rgba(0,0,0,0.12); }
+.mod-structure-link { position:absolute; top:6px; right:6px; width:18px; height:18px; display:flex; align-items:center; justify-content:center; font-size:0.68rem; line-height:1; text-decoration:none; border-radius:50%; background:rgba(255,255,255,0.85); border:1px solid var(--border); opacity:0.55; transition:opacity .15s, border-color .15s, background .15s; flex-shrink:0; }
+.mod-structure-link:hover, .mod-structure-link:focus-visible { opacity:1; border-color:var(--accent); background:#fff; }
+@media (hover:none) { .mod-structure-link { opacity:0.75; } }
 .no-res { text-align:center; padding:40px; color:var(--muted); display:none; font-size:0.9rem; }
 
 /* CART BAR */
@@ -1079,6 +1082,26 @@ function normalizeSearch(str){
     .trim();
 }
 
+// ── URL vers la page "structure du Drive" d'un module ──
+// Port exact de slugify() dans generateModulePages.gs — NE PAS diverger,
+// sinon les liens pointent vers des pages inexistantes.
+const SITE_BASE_URL = "https://coursuniversitaire.github.io/cours.univ.pdf/";
+function slugify(name){
+  return name
+    .toLowerCase()
+    .replace(/[àáâãäå]/g, "a")
+    .replace(/[éèêë]/g, "e")
+    .replace(/[îï]/g, "i")
+    .replace(/[ôö]/g, "o")
+    .replace(/[ùûü]/g, "u")
+    .replace(/[ç]/g, "c")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+function getModuleStructureUrl(name){
+  return SITE_BASE_URL + "matieres/exercices-corriges-" + slugify(name) + "-pdf.html#structure";
+}
+
 function renderMods(q=''){
   const grid=document.getElementById('mod-grid');
   const noRes=document.getElementById('no-res');
@@ -1103,7 +1126,8 @@ function renderMods(q=''){
     el.setAttribute('role','listitem');
     el.setAttribute('aria-label',name+(s?' (sélectionné)':''));
     const freeBadge = isFreeModule(name) ? '<span class="mod-free-badge" title="Module offert gratuitement">🎁</span>' : '';
-    el.innerHTML=`<div class="mod-chk">${s?'✓':''}</div><div class="mod-name">${name}</div>${freeBadge}`;
+    const structureUrl = getModuleStructureUrl(name);
+    el.innerHTML=`<div class="mod-chk">${s?'✓':''}</div><div class="mod-name">${name}</div>${freeBadge}<a class="mod-structure-link" href="${structureUrl}" target="_blank" rel="noopener" title="Voir le contenu du Drive" aria-label="Voir le contenu du Drive — ${name}" onclick="event.stopPropagation()">🗂️</a>`;
     el.addEventListener('click',()=>toggle(name));
     grid.appendChild(el);
   });
