@@ -190,6 +190,13 @@ hr.div { border: none; border-top: 1px solid var(--border); margin: 0 2%; }
 .os-label { font-size:0.83rem; color:var(--muted); }
 .os-breakdown { font-size:0.76rem; color:var(--muted); margin-top:3px; }
 .os-total { font-family:'Syne',sans-serif; font-size:1.55rem; font-weight:800; color:var(--accent); }
+.os-total-wrap { display:flex; flex-direction:column; align-items:flex-end; gap:2px; }
+.os-original { font-size:0.85rem; color:var(--muted); text-decoration:line-through; }
+.os-promo-badge { display:inline-block; background:var(--accent2); color:#fff; font-size:0.7rem; font-weight:700; letter-spacing:.03em; padding:2px 8px; border-radius:999px; margin-top:2px; }
+
+/* PROMO BANNER — bannière de promotion, visibilité pilotée par le flag PROMO_ACTIVE (JS) */
+.promo-banner { display:none; align-items:center; justify-content:center; gap:8px; text-align:center; background:linear-gradient(90deg, var(--accent2), #00d194); color:#fff; font-size:0.85rem; font-weight:700; padding:9px 14px; border-radius:10px; margin-bottom:18px; }
+.promo-banner.on { display:flex; }
 .pay-note { display:flex; align-items:center; gap:7px; font-size:0.79rem; color:var(--muted); margin-bottom:18px; }
 .btn-submit { width:100%; background:var(--accent); color:#fff; border:none; border-radius:11px; padding:15px; font-size:0.97rem; font-weight:600; cursor:pointer; font-family:'Inter',sans-serif; display:flex; align-items:center; justify-content:center; gap:9px; box-shadow:0 4px 18px rgba(26,63,204,0.28); transition:transform .15s, box-shadow .15s; }
 .btn-submit:hover { transform:translateY(-2px); box-shadow:0 8px 26px rgba(26,63,204,0.34); }
@@ -388,6 +395,7 @@ img.zoomable:hover { opacity: .92; }
 <!-- HERO -->
 <!-- H1 ciblé : "cours universitaires PDF" + "modules" + "TD corrigés" -->
 <header class="hero">
+  <div class="promo-banner" id="promo-banner"></div>
   <div class="hero-eyebrow">🎓 Disponible pour tous les étudiants francophones</div>
   <h1>Réussis tes examens avec des <mark>cours, TD & examens corrigés</mark> déjà organisés pour toi</h1>
   <p class="hero-lead">Arrête de perdre des heures à chercher des PDF incomplets sur Internet. Plus de 300 modules universitaires prêts à l'emploi — cours complets, TDs et exercices corrigés, examens des années précédentes — accessibles et téléchargeables sur ton Google Drive.</p>
@@ -617,7 +625,11 @@ img.zoomable:hover { opacity: .92; }
           <div class="os-label">Total à payer</div>
           <div class="os-breakdown" id="os-bd">0 module × {{ site.module_price }} $</div>
         </div>
-        <div class="os-total" id="os-total">0,00 $</div>
+        <div class="os-total-wrap">
+          <div class="os-original" id="os-original" style="display:none;"></div>
+          <div class="os-total" id="os-total">0,00 $</div>
+          <span class="os-promo-badge" id="os-promo-badge" style="display:none;"></span>
+        </div>
       </div>
       <div class="fx-note" style="font-size:0.78rem;color:var(--muted);margin-top:6px;">
         💱 Le paiement se fait via carte bancaire (Visa ou Mastercard) — {{ site.module_price }}$ ≈ 10 DH (Maroc) · ≈ 0,90€ (Europe) · ≈ 600 FCFA (Afrique de l'Ouest/Centrale).
@@ -933,6 +945,20 @@ function isFreeModule(name){ return FREE_MODULES.includes(name); }
 const PRICE = Number(window.COURS_UNIVERSITAIRES_PRICE || 1);
 let sel = new Set();
 
+// ── PROMOTION / RÉDUCTION ──────────────────────────────────────────
+// Pour activer ou désactiver la promo, changez uniquement PROMO_ACTIVE (true/false).
+// Tout le reste (bannière, prix barré, badge, total réduit, message WhatsApp,
+// données envoyées à l'Apps Script) s'adapte automatiquement.
+const PROMO_ACTIVE  = true;                 // <- FLAG : true = promo active, false = promo désactivée
+const PROMO_PERCENT = 20;                   // % de réduction appliqué sur le total payant (hors modules gratuits)
+const PROMO_BANNER_TEXT = `🎉 Offre limitée : -${PROMO_PERCENT}% sur toute commande !`;
+const PROMO_BADGE_TEXT  = `-${PROMO_PERCENT}%`;
+
+function getDiscountedTotal(rawTotal){
+  if (!PROMO_ACTIVE || rawTotal <= 0) return rawTotal;
+  return rawTotal - (rawTotal * PROMO_PERCENT / 100);
+}
+
 // ── SÉLECTION PAR FILIÈRE ──
 // Chaque filière = liste de mots-clés (sans accents) recherchés dans les noms
 // de modules de MODS. Un module peut appartenir à plusieurs filières.
@@ -1152,7 +1178,9 @@ function updateUI(){
   const n=sel.size;
   const freeCount=[...sel].filter(isFreeModule).length;
   const payingCount=n-freeCount;
-  const total=(payingCount*PRICE).toFixed(2);
+  const rawTotal=payingCount*PRICE;
+  const total=getDiscountedTotal(rawTotal).toFixed(2);
+  const hasDiscount = PROMO_ACTIVE && rawTotal > 0;
   document.getElementById('sel-count').textContent=n;
   document.getElementById('sel-price').textContent=total+' $';
   document.getElementById('cart-lbl').textContent=n+' module(s) sélectionné(s)';
@@ -1161,6 +1189,17 @@ function updateUI(){
     ? payingCount+' module(s) × '+PRICE.toFixed(2).replace('.',',')+' $ + '+freeCount+' gratuit(s) 🎁'
     : n+' module(s) × '+PRICE.toFixed(2).replace('.',',')+' $';
   document.getElementById('os-total').textContent=total+' $';
+  const osOriginal = document.getElementById('os-original');
+  const osBadge = document.getElementById('os-promo-badge');
+  if (hasDiscount) {
+    osOriginal.textContent = rawTotal.toFixed(2)+' $';
+    osOriginal.style.display = 'block';
+    osBadge.textContent = PROMO_BADGE_TEXT;
+    osBadge.style.display = 'inline-block';
+  } else {
+    osOriginal.style.display = 'none';
+    osBadge.style.display = 'none';
+  }
   const submitBtn = document.getElementById('submit-btn');
   if (n>0 && payingCount===0) {
     submitBtn.innerHTML = '🎁 Recevoir mon accès gratuit →';
@@ -1202,6 +1241,7 @@ async function doSubmit() {
   btn.textContent = "⏳ Préparation de votre drive…";
 
   try {
+    const rawTotal = ([...sel].length - [...sel].filter(isFreeModule).length) * PRICE;
     const payload = {
       email:   email,
       modules: [...sel],                                          // tableau des noms sélectionnés
@@ -1211,6 +1251,10 @@ async function doSubmit() {
       note:    document.getElementById('f-note').value.trim(),
       note_avis:       currentRating || null,                     // étoiles données dans le formulaire (0-5, optionnel)
       commentaire_avis: document.getElementById('rate-comment').value.trim(),
+      promo_active:    PROMO_ACTIVE,                              // info promo pour le suivi côté serveur
+      promo_percent:   PROMO_ACTIVE ? PROMO_PERCENT : 0,
+      total_avant_promo: rawTotal.toFixed(2),
+      total_final:       getDiscountedTotal(rawTotal).toFixed(2),
     };
 
     const response = await fetch(WEB_APP_URL, {
@@ -1303,6 +1347,7 @@ function payViaWhatsApp(){
   const note  = document.getElementById('f-note').value.trim();
   const total = document.getElementById('os-total').textContent.trim();
   const modulesList = [...sel];
+  const rawTotal = (modulesList.length - modulesList.filter(isFreeModule).length) * PRICE;
 
   const payload = {
     email: email,
@@ -1314,6 +1359,10 @@ function payViaWhatsApp(){
     note_avis: currentRating || null,
     commentaire_avis: document.getElementById('rate-comment').value.trim(),
     payment_method: 'whatsapp',
+    promo_active:    PROMO_ACTIVE,
+    promo_percent:   PROMO_ACTIVE ? PROMO_PERCENT : 0,
+    total_avant_promo: rawTotal.toFixed(2),
+    total_final:       getDiscountedTotal(rawTotal).toFixed(2),
   };
 
   // Requête envoyée à l'Apps Script pour enregistrer la commande côté serveur.
@@ -1335,6 +1384,9 @@ function payViaWhatsApp(){
   if (tel)  lignes.push(`- Téléphone : ${tel}`);
   if (univ) lignes.push(`- Université/filière : ${univ}`);
   lignes.push(`\n-Modules (${modulesList.length}) : \n  -${modulesList.join('\n  -')}`);
+  if (PROMO_ACTIVE && rawTotal > 0) {
+    lignes.push(`\n-Prix avant promo : ${rawTotal.toFixed(2)} $ (-${PROMO_PERCENT}%)`);
+  }
   lignes.push(`\n-Total : ${total}`);
   if (note) lignes.push(`- Remarque : ${note}`);
 
@@ -1467,6 +1519,13 @@ window.addEventListener('resize', updateFloatCta);
 renderCatFilterBar();
 renderMods();
 updateFloatCta();
+
+// Affiche/masque la bannière de promo selon le flag PROMO_ACTIVE.
+const promoBannerEl = document.getElementById('promo-banner');
+if (promoBannerEl) {
+  promoBannerEl.textContent = PROMO_BANNER_TEXT;
+  promoBannerEl.classList.toggle('on', PROMO_ACTIVE);
+}
 
 // ── LIGHTBOX (zoom image plein écran, style Blogger) ──
 function openLightbox(src, alt){
