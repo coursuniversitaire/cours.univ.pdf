@@ -935,7 +935,13 @@ const MODS = [
   "Physiologie Végétale", "Physiologie Animale", "Biologie Moléculaire et Génétique", "MTU",
   "Management Industriel", "machine industriel", "TNIM Traitement Numérique de l'Information Multimédia",
   "Microcontrôleur et capteurs", "Web",
+  // Modules ENCG (ajout)
+  "Mathématiques appliquées encg", "Droit général", "Informatique de gestion", "Travaux d'inventaire", "Droit Commercial", "Mathématiques Financières", "Informatique de gestion 2", "Économie internationale", "Comptabilité de gestion", "Droit des affaires", "Commerce et logistique", "Marketing de Base", "Analyse et Diagnostic Financiers", "Fiscalité", "grh gestion ressources humaines", "Gestion de Trésorerie", "Analyse des Données", "Décisions d'investissement et de financement", "fiscalité approfondie", "Fiscalité GE", "Gestion de Production et Qualité",
 ];
+
+// Modules ENCG (aussi affichés dans Économie & Gestion — duplication volontaire)
+const ENCG_MODS = ["Mathématiques appliquées encg", "Droit général", "Informatique de gestion", "Travaux d'inventaire", "Droit Commercial", "Mathématiques Financières", "Informatique de gestion 2", "Économie internationale", "Comptabilité de gestion", "Droit des affaires", "Commerce et logistique", "Marketing de Base", "Analyse et Diagnostic Financiers", "Fiscalité", "Comptabilité Analytique", "grh gestion ressources humaines", "Gestion de Trésorerie", "Analyse des Données", "Décisions d'investissement et de financement", "fiscalité approfondie", "Statistiques Appliquées", "Fiscalité GE", "Gestion de Production et Qualité"];
+
 
 // Modules offerts gratuitement (0$) — affichés avec un badge et exclus du calcul du prix.
 // Les noms doivent correspondre exactement à ceux de MODS ci-dessus.
@@ -983,7 +989,8 @@ const CATEGORIES = {
   industriel: { icon:'🏭', label:'Génie Industriel', kw:['gestion de production','gestion de projet','maintenance industrielle','audit & gestion industrielle','qualite logiciel','technique d\'optimisation','theorie de l\'ordonnancement'] },
   meca: { icon:'🔩', label:'Génie Mécanique', kw:['mecanique des fluides','construction mecanique','elements finis','theorie des mecanismes','transfert de chaleur','turbomachines','moteur a combustion','dessin industriel','dao','autocad','procedes de fabrication','mecanisme industriel','mecanique des milieux continus','mecanique pour ingenieurs','aerodynamique','metallurgie','robotique','systemes mecaniques'] },
   chimie: { icon:'🧪', label:'Chimie', kw:['chimie','chimique','electrochimie','corrosion','distillation','reactivite chimique','liaisons chimiques','genie de la reaction chimique','phenomene de surface','adsorption','calcul des reacteurs',"techniques d'analyses chimiques",'spectroscopique','hydrocarbures','cristallochimie'] },
-  gestion: { icon:'📊', label:'Économie & Gestion', kw:['comptabilite','marketing','management','fiscalite','microeconomie','macroeconomie','audit & gestion','droit'] },
+  gestion: { icon:'📊', label:'Économie & Gestion', kw:['comptabilite','marketing','management','fiscalite','microeconomie','macroeconomie','audit & gestion','droit'], extra:ENCG_MODS },
+  encg: { icon:'🎓', label:'ENCG', list:ENCG_MODS },
   energies_renouvelables: { icon:'🔆', label:'Énergies Renouvelables', kw:['photovoltaique','eolienne','solaire thermique',"qualite de l'energie",'energies renouvelables'] },
   electrotechnique: { icon:'🔌', label:'Électrotechnique', kw:['electrotechnique','convertisseurs electromagnetiques','association convertisseurs-machines','transmission de puissance','energies renouvelables','reseaux electriques',"reseaux de transport et de distribution",'circuits electriques','machines electriques','capteurs & metrologie','capteurs et metrologie','theorie de champ','systemes asservis','automatismes industriels','commande des machines',"materiaux et introduction a la ht",'regulation industrielle'] },
   genie_procedes: { icon:'🧫', label:'Génie des Procédés', kw:['genie de la reaction chimique','operations unitaires','opu ','distillation','transfert de matiere','transfert de chaleur','simulation des procedes','procedes electrochimiques',"procedes d'adsorption",'milieux poreux'] },
@@ -1007,7 +1014,8 @@ function modulesForCategory(key){
     return MODS.filter(m=>c.list.includes(m));
   }
   const excl = c.excl || [];
-  return NORM_MODS.filter(m=>c.kw.some(k=>m.n.includes(k)) && !excl.some(e=>m.n.includes(e))).map(m=>m.name);
+  const extra = c.extra || [];
+  return NORM_MODS.filter(m=>(c.kw.some(k=>m.n.includes(k)) && !excl.some(e=>m.n.includes(e))) || extra.includes(m.name)).map(m=>m.name);
 }
 
 let activeCat = null; // null = "Tous"
