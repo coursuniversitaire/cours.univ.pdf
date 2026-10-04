@@ -407,18 +407,18 @@ img.zoomable:hover { opacity: .92; }
   </div>
 
   <div class="hero-pills">
-    <a href="#catalogue" class="pill">📐 Mathématiques</a>
-    <a href="#catalogue" class="pill">⚛️ Physique</a>
-    <a href="#catalogue" class="pill">💻 Informatique, AI, Data</a>
-    <a href="#catalogue" class="pill">⚡ Électronique et électricité</a>
-    <a href="#catalogue" class="pill">⚙️ Génie Civil</a>
-    <a href="#catalogue" class="pill">⚙️ Génie Automatique</a>
-    <a href="#catalogue" class="pill">⚙️ Génie industriel</a>
-    <a href="#catalogue" class="pill">⚙️ Génie Mécanique</a>
-    <a href="#catalogue" class="pill">🧪 Chimie</a>
-    <a href="#catalogue" class="pill">📊 Gestion</a>
+    <a href="#catalogue" class="pill" data-cat="math">📐 Mathématiques</a>
+    <a href="#catalogue" class="pill" data-cat="physique">⚛️ Physique</a>
+    <a href="#catalogue" class="pill" data-cat="info">💻 Informatique, AI, Data</a>
+    <a href="#catalogue" class="pill" data-cat="electro">⚡ Électronique et électricité</a>
+    <a href="#catalogue" class="pill" data-cat="civil">⚙️ Génie Civil</a>
+    <a href="#catalogue" class="pill" data-cat="auto">⚙️ Génie Automatique</a>
+    <a href="#catalogue" class="pill" data-cat="industriel">⚙️ Génie industriel</a>
+    <a href="#catalogue" class="pill" data-cat="meca">⚙️ Génie Mécanique</a>
+    <a href="#catalogue" class="pill" data-cat="chimie">🧪 Chimie</a>
+    <a href="#catalogue" class="pill" data-cat="gestion">📊 Gestion</a>
     
-    <a href="#catalogue" class="pill">Et autre</a>
+    <a href="#catalogue" class="pill" data-cat="">Et autre</a>
   </div>
   <a class="btn" id="hero-cta" href="#catalogue">Voir les modules disponibles →</a>
 </header>
@@ -1530,6 +1530,24 @@ window.addEventListener('resize', updateFloatCta);
 renderCatFilterBar();
 renderMods();
 updateFloatCta();
+
+// ── Pills du haut de page : scroll vers le catalogue + sélection de la catégorie correspondante ──
+document.querySelectorAll('.hero-pills .pill[data-cat]').forEach(pill => {
+  pill.addEventListener('click', e => {
+    e.preventDefault();
+    const key = pill.dataset.cat || null; // "Et autre" => Tous
+    if (key && !CATEGORIES[key]) return;
+    document.getElementById('mod-search').value = '';
+    activeCat = key;
+    renderCatFilterBar();
+    renderMods();
+    document.getElementById('catalogue').scrollIntoView({behavior:'smooth', block:'start'});
+    // Rend le chip actif visible dans la barre (scroll horizontal sur mobile)
+    const act = document.querySelector('#cat-filter-bar .cat-pill.active');
+    if (act && act.scrollIntoView) act.scrollIntoView({block:'nearest', inline:'center'});
+  });
+});
+
 
 // Affiche/masque la bannière de promo selon le flag PROMO_ACTIVE.
 const promoBannerEl = document.getElementById('promo-banner');
