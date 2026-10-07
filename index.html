@@ -1023,7 +1023,7 @@ let activeCat = null; // null = "Tous"
 function renderCatFilterBar(){
   const bar = document.getElementById('cat-filter-bar');
   const note = document.getElementById('cat-filter-note');
-  let html = `<button type="button" class="cat-pill${activeCat===null?' active':''}" role="listitem" onclick="setActiveCat(null)"><span class="cp-icon">🗂️</span>Tous<span class="cp-count">${MODS.length}</span></button>`;
+  let html = `<button type="button" class="cat-pill${activeCat===null?' active':''}" role="listitem" onclick="setActiveCat(null)"><span class="cp-icon">🔎</span>Tous<span class="cp-count">${MODS.length}</span></button>`;
   html += Object.keys(CATEGORIES).map(key=>{
     const c = CATEGORIES[key];
     const count = modulesForCategory(key).length;
@@ -1161,7 +1161,7 @@ function renderMods(q=''){
     el.setAttribute('aria-label',name+(s?' (sélectionné)':''));
     const freeBadge = isFreeModule(name) ? '<span class="mod-free-badge" title="Module offert gratuitement">🎁</span>' : '';
     const structureUrl = getModuleStructureUrl(name);
-    el.innerHTML=`<div class="mod-chk">${s?'✓':''}</div><div class="mod-name">${name}</div>${freeBadge}<a class="mod-structure-link" href="${structureUrl}" target="_blank" rel="noopener" title="Voir le contenu du Drive" aria-label="Voir le contenu du Drive — ${name}" onclick="event.stopPropagation()">🗂️</a>`;
+    el.innerHTML=`<div class="mod-chk">${s?'✓':''}</div><div class="mod-name">${name}</div>${freeBadge}<a class="mod-structure-link" href="${structureUrl}" target="_blank" rel="noopener" title="Voir le contenu du Drive" aria-label="Voir le contenu du Drive — ${name}" onclick="event.stopPropagation()">🔎</a>`;
     el.addEventListener('click',()=>toggle(name));
     grid.appendChild(el);
   });
